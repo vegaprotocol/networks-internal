@@ -7,6 +7,7 @@ import subprocess
 pull_files = {
     "genesis.json": "/home/vega/.tendermint/config/genesis.json",
     "tendermint-config.toml": "/home/vega/.tendermint/config/config.toml",
+    "vega-core-config.toml": "/home/vega/.config/vega/node/config.toml",
 }
 
 root_dir = Path(__file__).parent.parent
@@ -48,6 +49,8 @@ def download_file(
             "--quiet",
             "-e",
             remote_shell,
+            "--rsync-path",
+            "sudo rsync",
             f"{ssh_user}@{host}:{remote_file}",
             str(target_file),
         ]
