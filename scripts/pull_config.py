@@ -4,9 +4,10 @@ import argparse
 from pathlib import Path
 import subprocess
 
-remote_files = [
-    "/home/vega/.tendermint/config/genesis.json",
-]
+remote_files = {
+    "genesis.json": "/home/vega/.tendermint/config/genesis.json",
+    "tendermint-config.toml": "/home/vega/.tendermint/config/config.toml",
+}
 
 root_dir = Path(__file__).parent.parent
 
@@ -35,7 +36,7 @@ def download_file(
     ssh_keyfile: Optional[str],
     host: str,
     remote_file: str,
-    target_dir: str,
+    target_file: str,
 ):
     remote_shell = f"ssh -i {ssh_keyfile}" if ssh_keyfile else "ssh"
 
@@ -48,7 +49,7 @@ def download_file(
             "-e",
             remote_shell,
             f"{ssh_user}@{host}:{remote_file}",
-            str(target_dir),
+            str(target_file),
         ]
     )
     print("done")
@@ -58,8 +59,9 @@ def main(network: str, ssh_user: str, ssh_keyfile: Optional[str]):
     host: str = config[network]["host"]
     target_dir: Path = config[network]["target_dir"]
 
-    for file in remote_files:
-        download_file(ssh_user, ssh_keyfile, host, file, target_dir)
+    for target_filename, remote_file in remote_files.items():
+        target_file = target_dir / target_filename
+        download_file(ssh_user, ssh_keyfile, host, remote_file, target_file)
 
 
 def parse_args():
