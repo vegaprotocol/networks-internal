@@ -4,7 +4,7 @@ import argparse
 from pathlib import Path
 import subprocess
 
-remote_files = {
+pull_files = {
     "genesis.json": "/home/vega/.tendermint/config/genesis.json",
     "tendermint-config.toml": "/home/vega/.tendermint/config/config.toml",
 }
@@ -59,7 +59,7 @@ def main(network: str, ssh_user: str, ssh_keyfile: Optional[str]):
     host: str = config[network]["host"]
     target_dir: Path = config[network]["target_dir"]
 
-    for target_filename, remote_file in remote_files.items():
+    for target_filename, remote_file in pull_files.items():
         target_file = target_dir / target_filename
         download_file(ssh_user, ssh_keyfile, host, remote_file, target_file)
 
