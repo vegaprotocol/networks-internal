@@ -1,0 +1,46 @@
+Name = "stagnet2"
+Level = "info"
+TokenExpiry = "168h0m0s"
+Port = 1789
+Host = "127.0.0.1"
+
+[API.GRPC]
+  Hosts = [
+    "n01.stagnet2.vega.xyz:3002",
+    "n02.stagnet2.vega.xyz:3002",
+    "n03.stagnet2.vega.xyz:3002",
+    "n04.stagnet2.vega.xyz:3002",
+    "n05.stagnet2.vega.xyz:3002",
+    "v01.stagnet2.vega.xyz:3002",
+    "v02.stagnet2.vega.xyz:3002",
+    "v03.stagnet2.vega.xyz:3002",
+    "v04.stagnet2.vega.xyz:3002",
+    "v05.stagnet2.vega.xyz:3002"
+  ]
+  Retries = 5
+
+[API.REST]
+  Hosts = [
+    "https://n01.stagnet2.vega.xyz",
+    "https://n02.stagnet2.vega.xyz",
+    "https://n03.stagnet2.vega.xyz",
+    "https://n04.stagnet2.vega.xyz",
+    "https://n05.stagnet2.vega.xyz"
+  ]
+
+[API.GraphQL]
+  Hosts = [
+    "https://n01.stagnet2.vega.xyz/query",
+    "https://n02.stagnet2.vega.xyz/query",
+    "https://n03.stagnet2.vega.xyz/query",
+    "https://n04.stagnet2.vega.xyz/query",
+    "https://n05.stagnet2.vega.xyz/query"
+  ]
+
+[Console]
+  URL = "staging2.vega.trading"
+  LocalPort = 1847
+  
+[TokenDApp]
+  URL = "staging2.token.vega.xyz"
+  LocalPort = 1848
