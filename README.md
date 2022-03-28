@@ -8,11 +8,11 @@ To pull latest config files from a network you need to have `python3` and `rsync
 Then you can run:
 
 ```bash
-./scripts/pull_config.py -u [ssh username] -n (devnet|stagnet1|stagnet2|fairground)
+./scripts/pull_config.py -u [ssh username] -n (devnet|stagnet1|stagnet2)
 ```
 
 You can also specify ssh key file:
 
 ```bash
-./scripts/pull_config.py -u [ssh username] -k [path to ssh private key] -n (devnet|stagnet1|stagnet2|fairground)
+./scripts/pull_config.py -u [ssh username] -k [path to ssh private key] -n (devnet|stagnet1|stagnet2)
 ```

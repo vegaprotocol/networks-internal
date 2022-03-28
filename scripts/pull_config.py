@@ -25,10 +25,6 @@ config = {
         "host": "v01.stagnet2.vega.xyz",
         "target_dir": root_dir / "stagnet2",
     },
-    "fairground": {
-        "host": "n01.testnet.vega.xyz",
-        "target_dir": root_dir / "fairground",
-    },
 }
 
 

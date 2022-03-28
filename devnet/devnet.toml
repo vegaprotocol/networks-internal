@@ -1,0 +1,32 @@
+Name = "devnet"
+Level = "info"
+TokenExpiry = "168h0m0s"
+Port = 1789
+Host = "127.0.0.1"
+
+[API.GRPC]
+  Hosts = [
+    "n01.d.vega.xyz:3002",
+    "n02.d.vega.xyz:3002",
+    "n03.d.vega.xyz:3002",
+    "n04.d.vega.xyz:3002"
+  ]
+  Retries = 5
+
+[API.REST]
+  Hosts = [
+    "https://n04.d.vega.xyz"
+  ]
+
+[API.GraphQL]
+  Hosts = [
+    "https://n04.d.vega.xyz/query"
+  ]
+
+[Console]
+  URL = "dev.vega.trading"
+  LocalPort = 1847
+
+[TokenDApp]
+  URL = "dev.token.vega.xyz"
+  LocalPort = 1848
