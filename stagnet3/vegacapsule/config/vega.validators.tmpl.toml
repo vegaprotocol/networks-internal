@@ -1,0 +1,40 @@
+[API]
+	Port = 3002
+	[API.REST]
+			Port = 3003
+
+[Blockchain]
+	[Blockchain.Tendermint]
+		ClientAddr = "tcp://127.0.0.1:26657"
+		ServerAddr = "0.0.0.0"
+		ServerPort = 26608
+	[Blockchain.Null]
+		Port = 3101
+
+[EvtForward]
+	Level = "Info"
+	RetryRate = "1s"
+	# if {{ if .FaucetPublicKey }}
+	BlockchainQueueAllowlist = ["{{ .FaucetPublicKey }}"]
+	# endif {{end}}
+
+[NodeWallet]
+	[NodeWallet.ETH]
+		Address = "https://ropsten.infura.io/v3/ffa591112b994ab29a076518f14768e1"
+
+[Processor]
+	[Processor.Ratelimit]
+		Requests = 10000
+		PerNBlocks = 1
+
+[Admin.Server]
+  SocketPath = "/local/vega/vega.sock"
+  HttpPath = "/rpc"
+  Enabled = true
+
+[Metrics]
+  Level = "Info"
+  Timeout = "5s"
+  Port = 2112
+  Path = "/metrics"
+  Enabled = true
