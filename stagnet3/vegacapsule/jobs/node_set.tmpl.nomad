@@ -75,7 +75,7 @@ locals {
   }
 }
 
-job "{{ .Name }}-node" {
+job "{{ .Name }}" {
   // Currently impossible to wildcard datacenters so we have to list all our DCs
   // Ref: https://github.com/hashicorp/nomad/issues/9024
   datacenters = [
@@ -154,12 +154,14 @@ job "{{ .Name }}-node" {
           set -x;
           echo "Template generated {{ now | date "Mon Jan 2 15:04:05 MST 2006" }}";
 
+          rm -rf /tmp/tmp-bins || echo "OK";
+          mkdir -p /tmp/tmp-bins && mv /local/vega/bin/* /tmp/tmp-bins
+
           sudo chmod 755 /tmp/local/vega/bin/*;
           chown vega:vega /tmp/local/vega/bin/*
 
           mkdir -p /local/vega/bin;
           cp /tmp/local/vega/bin/* /local/vega/bin/
-
         EOH
 
         destination = "pre-start.sh"

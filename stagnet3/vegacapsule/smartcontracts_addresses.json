@@ -1,0 +1,32 @@
+{
+    "addr0": {
+      "priv": "0x0",
+      "pub": "0x0"
+    },
+    "MultisigControl": {
+      "Ethereum": "0xDD2df0E7583ff2acfed5e49Df4a424129cA9B58F"
+    },
+    "ERC20_Asset_Pool": {
+      "Ethereum": "0x82A557e31c7ac6B8F64704d740abE1f4c6f38Ca9"
+    },
+    "erc20_bridge_1": {
+      "Ethereum": "0x11E84824Eb84ac2aa54E1336732d534F7A0E1E64"
+    },
+    "erc20_bridge_2": {
+      "Ethereum": "0x0"
+    },
+    "VEGA": {
+      "Ethereum": "0x123CB30f41Af7552561A4b9A6e920DEAA6b58810",
+      "Vega": "0xb4f2726571fbe8e33b442dc92ed2d7f0d810e21835b7371a7915a365f07ccd9b"
+    },
+    "VEGAv1": {
+      "Ethereum": "0x0",
+      "Vega": "0xc1607f28ec1d0a0b36842c8327101b18de2c5f172585870912f5959145a9176c"
+    },
+    "erc20_vesting": {
+      "Ethereum": "0x0"
+    },
+    "staking_bridge": {
+      "Ethereum": "0xA7298dbC0C0Df4739Ca6a5E5440577cC39f37222"
+    }
+  }
