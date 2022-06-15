@@ -23,7 +23,6 @@ locals {
     }
   }
 
-
   tendermint_artifacts = {
     "/tmp/local/vega/.tendermint/config" = {
       path = "stagnet3/tendermint/node{{ .Index }}/config"
@@ -38,7 +37,6 @@ locals {
   }
 
   data_node_artifacts = {
-
     "/tmp/local/vega/.data-node/config" = {
       path = "stagnet3/data/node{{ .Index }}/config"
       mode = "dir"
@@ -73,6 +71,19 @@ locals {
       mode = "file"
     }
   }
+
+  {{ if .DataNode }}
+    configuration_artifacts = merge(
+      local.tendermint_artifacts,
+      local.vega_artifacts,
+      local.data_node_artifacts)
+  {{ else }} 
+    configuration_artifacts = merge(
+      local.tendermint_artifacts,
+      local.vega_artifacts,
+      local.data_node_artifacts,
+      local.vega_validator_artifacts)
+  {{ end }}
 }
 
 job "{{ .Name }}" {
@@ -154,14 +165,83 @@ job "{{ .Name }}" {
           set -x;
           echo "Template generated {{ now | date "Mon Jan 2 15:04:05 MST 2006" }}";
 
-          rm -rf /tmp/tmp-bins || echo "OK";
-          mkdir -p /tmp/tmp-bins && mv /local/vega/bin/* /tmp/tmp-bins
+          
+        EOH
 
-          sudo chmod 755 /tmp/local/vega/bin/*;
-          chown vega:vega /tmp/local/vega/bin/*
+        destination = "pre-start.sh"
+        perms = "755"
+      }
 
-          mkdir -p /local/vega/bin;
-          cp /tmp/local/vega/bin/* /local/vega/bin/
+      driver = "exec"
+      user = "root"
+
+      config {
+        command = "bash"
+        args = ["-c", "/pre-start.sh"]
+      }
+    }
+
+    task "download-network-config" {
+      lifecycle {
+        hook = "prestart"
+        sidecar = false
+      }
+      
+      volume_mount {
+        volume      = "vega_home_volume"
+        destination = "local/vega"
+      }
+
+      dynamic "artifact" {
+        for_each = local.configuration_artifacts
+
+        content {
+          source = format("s3::https://s3.amazonaws.com/vegacapsule-test/%s", artifact.value.path)
+          destination = artifact.key
+          mode = lookup(artifact.value, "mode", "any")
+
+          options {
+            aws_access_key_id     = local.aws_access_key_id
+            aws_access_key_secret = local.aws_access_key_secret
+          }
+        }
+      }
+
+      // 1. No other option for set permissions for downloaded binary at the moment
+      // Ref: https://github.com/hashicorp/nomad/issues/2625
+      //
+      // 2. Because the task driver mounts the volume, it is not possible to have artifact, 
+      //    template, or dispatch_payload blocks write to a volume
+      // Ref: https://www.nomadproject.io/docs/internals/filesystem#templates-artifacts-and-dispatch-payloads
+      template {
+        data = <<EOH
+          #!/bin/bash
+          set -x;
+          echo "Template generated {{ now | date "Mon Jan 2 15:04:05 MST 2006" }}";
+
+          mkdir -p /local/vega/.tendermint;
+          rsync \
+            --ignore-times \
+            -rvh \
+            /tmp/local/vega/.tendermint/ /local/vega/.tendermint/; # See point 2 in the comment above
+
+          rsync \
+            --ignore-times \
+            -rvh \
+              tmp/local/vega/.vega/ /local/vega/.vega/; # See point 2 in the comment above
+
+          {{ if .DataNode }}
+          rsync \
+            --ignore-times \
+            -rvh \
+              /tmp/local/vega/.data-node/ /local/vega/.data-node/; # See point 2 in the comment above
+
+          chown vega:vega -R /local/vega/.data-node;
+          {{ end }}
+
+          
+          chown vega:vega -R /local/vega/.tendermint;
+          chown vega:vega -R /local/vega/.vega;
         EOH
 
         destination = "pre-start.sh"
@@ -183,59 +263,14 @@ job "{{ .Name }}" {
         destination = "local/vega"
       }
 
-      dynamic "artifact" {
-        for_each = local.tendermint_artifacts
-
-        content {
-          source = format("s3::https://s3.amazonaws.com/vegacapsule-test/%s", artifact.value.path)
-          destination = artifact.key
-          mode = lookup(artifact.value, "mode", "any")
-
-          options {
-            aws_access_key_id     = local.aws_access_key_id
-            aws_access_key_secret = local.aws_access_key_secret
-          }
-        }
-      }
       driver = "exec"
       user = "vega"
-
-      // 1. No other option for set permissions for downloaded binary at the moment
-      // Ref: https://github.com/hashicorp/nomad/issues/2625
-      //
-      // 2. Because the task driver mounts the volume, it is not possible to have artifact, 
-      //    template, or dispatch_payload blocks write to a volume
-      // Ref: https://www.nomadproject.io/docs/internals/filesystem#templates-artifacts-and-dispatch-payloads
-      template {
-        data = <<EOH
-          #!/bin/bash
-          set -x;
-          echo "Template generated {{ now | date "Mon Jan 2 15:04:05 MST 2006" }}";
-
-          mkdir -p /local/vega/.tendermint;
-          rsync \
-            --ignore-times \
-            -rvh \
-            /tmp/local/vega/.tendermint/ /local/vega/.tendermint/; # See point 2 in the comment above
-
-          # TODO: Move it to separated procedure??? - Needs to be figured out
-          /local/vega/bin/vega tm \
-            --home /local/vega/.tendermint \
-            unsafe_reset_all;
-
-          /local/vega/bin/vega tm node \
-            --home /local/vega/.tendermint
-        EOH
-
-        destination = "run-tendermint.sh"
-        perms = "755"
-      }
 
       config {
         command = "bash"
         args = [
           "-c",
-          "/run-tendermint.sh"
+          "/local/vega/bin/vega tm node --home /local/vega/.tendermint"
         ]
       }
 
@@ -253,66 +288,17 @@ job "{{ .Name }}" {
         read_only = false
       }
 
-      dynamic "artifact" {
-        {{ if .DataNode }}
-          for_each = local.vega_artifacts
-        {{ else }}
-          for_each = merge(local.vega_artifacts, local.vega_validator_artifacts)
-        {{ end }}
-
-        content {
-          source = format("s3::https://s3.amazonaws.com/vegacapsule-test/%s", artifact.value.path)
-          destination = artifact.key
-          mode = lookup(artifact.value, "mode", "any")
-
-          options {
-            aws_access_key_id     = local.aws_access_key_id
-            aws_access_key_secret = local.aws_access_key_secret
-          }
-        }
-      }
       driver = "exec"
       user = "vega"
 
-      // 1. No other option for set permissions for downloaded binary at the moment
-      // Ref: https://github.com/hashicorp/nomad/issues/2625
-      //
-      // 2. Because the task driver mounts the volume, it is not possible to have artifact, 
-      //    template, or dispatch_payload blocks write to a volume
-      // Ref: https://www.nomadproject.io/docs/internals/filesystem#templates-artifacts-and-dispatch-payloads
-      template {
-        data = <<EOH
-          #!/bin/bash
-          set -x;
-          echo "Template generated {{ now | date "Mon Jan 2 15:04:05 MST 2006" }}";
-
-          mkdir -p /local/vega/.vega;
-          rsync \
-            --ignore-times \
-            -rvh \
-              tmp/local/vega/.vega/ /local/vega/.vega/; # See point 2 in the comment above
-
-          # TODO: Move it to separated procedure??? - Needs to be figured out
-          /local/vega/bin/vega unsafe_reset_all \
-            --home /local/vega/.vega
-
-          /local/vega/bin/vega node \
-            --home /local/vega/.vega \
-            --nodewallet-passphrase-file /local/vega/.vega/node-vega-wallet-pass.txt
-        EOH
-
-        destination = "run-vega.sh"
-        perms = "777"
-      }
-
       config {
         cap_add = ["audit_write", "chown", "dac_override", "fowner", "fsetid", "kill", "mknod",
-                  "net_bind_service", "setfcap", "setgid", "setpcap", "setuid", "sys_chroot"]
+                  "net_bind_service", "setfcap", "setgid", "setpcap", "setuid", "sys_chroot"] // TODO: Review if needed
         // pid_mode = "host"
         command = "bash"
         args = [
           "-c",
-          "/run-vega.sh"
+          "/local/vega/bin/vega node --home /local/vega/.vega --nodewallet-passphrase-file /local/vega/.vega/node-vega-wallet-pass.txt"
         ]
       }
 
@@ -333,55 +319,11 @@ job "{{ .Name }}" {
         destination = "local/vega"
       }
 
-      dynamic "artifact" {
-        for_each = local.data_node_artifacts
-
-        content {
-          source = format("s3::https://s3.amazonaws.com/vegacapsule-test/%s", artifact.value.path)
-          destination = artifact.key
-          mode = lookup(artifact.value, "mode", "any")
-
-          options {
-            aws_access_key_id     = local.aws_access_key_id
-            aws_access_key_secret = local.aws_access_key_secret
-          }
-        }
-      }
-
-      // 1. No other option for set permissions for downloaded binary at the moment
-      // Ref: https://github.com/hashicorp/nomad/issues/2625
-      //
-      // 2. Because the task driver mounts the volume, it is not possible to have artifact, 
-      //    template, or dispatch_payload blocks write to a volume
-      // Ref: https://www.nomadproject.io/docs/internals/filesystem#templates-artifacts-and-dispatch-payloads
-      template {
-        data = <<EOH
-          #!/bin/bash
-          set -x;
-          echo "Template generated {{ now | date "Mon Jan 2 15:04:05 MST 2006" }}";
-
-          # TODO: Move it to separated procedure??? - Needs to be figured out
-          rm -rf /local/vega/.data-node;
-          mkdir -p /local/vega/.data-node;
-
-          rsync \
-            --ignore-times \
-            -rvh \
-              /tmp/local/vega/.data-node/ /local/vega/.data-node/; # See point 2 in the comment above
-
-          /local/vega/bin/data-node node \
-            --home /local/vega/.data-node
-        EOH
-
-        destination = "run-data-node.sh"
-        perms = "755"
-      }
-
       config {
         command = "bash"
         args = [
           "-c",
-          "/run-data-node.sh"
+          "/local/vega/bin/data-node node --home /local/vega/.data-node"
         ]
       }
 
