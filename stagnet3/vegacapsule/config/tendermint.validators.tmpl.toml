@@ -1,6 +1,7 @@
 log_level = "info"
 
 proxy_app = "tcp://127.0.0.1:26608"
+# TODO: consider using moniker = "{{ node_domain }}", and generate node_domain in higher level.
 moniker = "n0{{ add .NodeNumber 1 }}.stagnet3.vega.xyz"
 
 [rpc]
@@ -18,6 +19,7 @@ moniker = "n0{{ add .NodeNumber 1 }}.stagnet3.vega.xyz"
   pex = false
   allow_duplicate_ip = true
 
+  # TODO: consider replacing with something like persistent_peers = "{{ node_$i_persistent_peers }}"
   persistent_peers = "{{- range $i, $peer := .NodePeers -}}
 	  {{- if ne $i 0 }},{{end -}}
 	  {{- $peer.ID}}@n0{{ add $i 1 }}.stagnet3.vega.xyz:26656
