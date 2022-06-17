@@ -25,3 +25,7 @@ aws s3 rm --recursive s3://vegacapsule-test/stagnet3
 aws s3 cp --recursive ./stagnet3/vegacapsule/home/ s3://vegacapsule-test/stagnet3/
 
 ./vegacapsule network start --home-path ./stagnet3/vegacapsule/home
+
+
+# Update nomad template
+./vegacapsule network start --home-path ./stagnet3/vegacapsule/home

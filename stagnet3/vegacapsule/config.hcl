@@ -5,6 +5,7 @@ network "stagnet3" {
 	ethereum {
     chain_id   = "3"
     network_id = "3"
+    # TODO: parametrize the infura secret 
     endpoint   = "https://ropsten.infura.io/v3/63f0f9cb9e6d4c67aeb84d3a2134e719"
   }
 
@@ -17,7 +18,7 @@ network "stagnet3" {
     count = 1
     mode = "full"
 	  data_node_binary = "data-node"
-    nomad_job_template_file = "./jobs/node_set.tmpl.nomad"
+    nomad_job_template_file = "./jobs/node_sete.tmpl.nomad"
 
     config_templates {
       vega_file       = "./config/vega.full.tmpl.toml"
@@ -42,6 +43,7 @@ network "stagnet3" {
   node_set "validators" {
     count = 7
     mode = "validator"
+    # TODO: Hide below passwords
     node_wallet_pass = "n0d3w4ll3t-p4ssphr4e3"
     vega_wallet_pass = "w4ll3t-p4ssphr4e3"
     ethereum_wallet_pass = "ch41nw4ll3t-3th3r3um-p4ssphr4e3"
