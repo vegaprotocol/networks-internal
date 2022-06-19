@@ -1,0 +1,27 @@
+Name = "internal-network"
+Level = "info"
+TokenExpiry = "168h0m0s"
+Port = 1789
+Host = "127.0.0.1"
+
+[API.GRPC]
+  Hosts = [
+    "188.166.149.38:3002",
+    "beanfield.uk.to:3002",
+    "node.fryd.pl:3002"
+  ]
+  Retries = 5
+
+[API.REST]
+  Hosts = [
+    "http://188.166.149.38:3003",
+    "http://beanfield.uk.to:3003",
+    "http://node.fryd.pl:3003"
+  ]
+
+[API.GraphQL]
+  Hosts = []
+
+[Console]
+
+[TokenDApp]
