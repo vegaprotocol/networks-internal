@@ -29,6 +29,15 @@
       },
       "power": "10",
       "name": ""
+    },
+    {
+      "address": "A0C9FB5847411BE1E61035CAE0CDB555CE8711EA",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "LjKHpqfCpIOZtKX9/C0i50RewL/rYJ245VTqDg6uTl0="
+      },
+      "power": "10",
+      "name": "Pete - Veganet"
     }
   ],
   "app_hash": "",
@@ -58,6 +67,18 @@
         "country": "COGNAKISTAN",
         "name": "PHILIPPE.JUSTIN.BERNARD.YVON",
         "avatar_url": "https://avatars.githubusercontent.com/u/4346460",
+        "from_epoch": 0
+      },
+      "LjKHpqfCpIOZtKX9/C0i50RewL/rYJ245VTqDg6uTl0=": {
+        "id": "90501989607cd502cbde5db2ce07c20468cd367b9d294f9e7e21a3fef489bcd3",
+        "vega_pub_key": "a3eae53c2498b737aea6fd9fbef6e7a5cac1f081a1511489925ceb614c92fb6f",
+        "vega_pub_key_index": 1,
+        "ethereum_address": "0xF67de969B474991a638b0Be210393673da212f1a",
+        "tm_pub_key": "LjKHpqfCpIOZtKX9/C0i50RewL/rYJ245VTqDg6uTl0=",
+        "info_url": "http://vega.xyz",
+        "country": "UK",
+        "name": "Pete - Veganet",
+        "avatar_url": "",
         "from_epoch": 0
       }
     },
