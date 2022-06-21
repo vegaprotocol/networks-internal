@@ -9,6 +9,9 @@
     "ERC20_Asset_Pool": {
       "Ethereum": "0x82A557e31c7ac6B8F64704d740abE1f4c6f38Ca9"
     },
+    "erc20_vesting": {
+      "Ethereum": "0x0"
+    },
     "erc20_bridge_1": {
       "Ethereum": "0x11E84824Eb84ac2aa54E1336732d534F7A0E1E64"
     },
