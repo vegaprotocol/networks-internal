@@ -20,12 +20,6 @@ network "stagnet3" {
 	  data_node_binary = "data-node"
     nomad_job_template_file = "./jobs/node_set.tmpl.nomad"
 
-    pre_generate {
-      nomad_job "caddy2" {
-        job_template_file = "./jobs/caddy2.tmpl.nomad"
-      }
-    }
-
     config_templates {
       vega_file       = "./config/vega.full.tmpl.toml"
       data_node_file  = "./config/data_node.full.tmpl.toml"
