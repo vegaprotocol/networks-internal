@@ -18,7 +18,13 @@ network "stagnet3" {
     count = 1
     mode = "full"
 	  data_node_binary = "data-node"
-    nomad_job_template_file = "./jobs/node_sete.tmpl.nomad"
+    nomad_job_template_file = "./jobs/node_set.tmpl.nomad"
+
+    pre_generate {
+      nomad_job "caddy2" {
+        job_template_file = "./jobs/caddy2.tmpl.nomad"
+      }
+    }
 
     config_templates {
       vega_file       = "./config/vega.full.tmpl.toml"
@@ -27,7 +33,9 @@ network "stagnet3" {
     }
 
     remote_command_runner {
-      nomad_job_template_file = "./jobs/command_runner.tmpl.nomad"
+      nomad_job "this" {
+        job_template_file = "./jobs/command_runner.tmpl.nomad"
+      }
 
       paths_mapping {
         tendermint_home = "/local/vega/.tendermint/"
@@ -55,7 +63,9 @@ network "stagnet3" {
     }
 
     remote_command_runner {
-      nomad_job_template_file = "./jobs/command_runner.tmpl.nomad"
+      nomad_job "this" {
+        job_template_file = "./jobs/command_runner.tmpl.nomad"
+      }
 
       paths_mapping {
         tendermint_home = "/local/vega/.tendermint/"
