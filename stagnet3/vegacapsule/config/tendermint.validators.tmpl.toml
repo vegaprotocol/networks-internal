@@ -22,7 +22,7 @@ moniker = "n0{{ add .NodeNumber 1 }}.stagnet3.vega.xyz"
   # TODO: consider replacing with something like persistent_peers = "{ node_$i_persistent_peers }"
   persistent_peers = "{{- range $i, $peer := .NodePeers -}}
 	  {{- if ne $i 0 }},{{end -}}
-	  {{- $peer.ID}}@n0{{ add $i 1 }}.stagnet3.vega.xyz:26656
+	  {{- $peer.ID}}@n0{{ add $peer.Index 1 }}.stagnet3.vega.xyz:26656
   {{- end -}}"
 
 [mempool]
