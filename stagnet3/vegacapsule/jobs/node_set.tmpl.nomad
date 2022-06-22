@@ -17,11 +17,11 @@ locals {
 
   binaries_artifacts = {
     "/tmp/local/vega/bin/vega" = {
-      path = "bin/vega-linux-amd64-v0.50.2"
-      mode = "file" # https://www.nomadproject.io/docs/job-specification/artifact#mode
+      path = "https://github.com/vegaprotocol/vega/releases/download/v0.52.0/vega-linux-amd64"
+      mode = "file"
     }
     "/tmp/local/vega/bin/data-node" = {
-      path = "bin/data-node-linux-amd64-v0.50.3"
+      path = "https://github.com/vegaprotocol/data-node/releases/download/v0.52.0/data-node-linux-amd64"
       mode = "file"
     }
   }
@@ -250,14 +250,9 @@ job "{{ .Name }}" {
         for_each = local.binaries_artifacts
 
         content {
-          source = format("s3::https://s3.amazonaws.com/vegacapsule-test/%s", artifact.value.path)
+          source = artifact.value.path
           destination = artifact.key
           mode = lookup(artifact.value, "mode", "any")
-
-          options {
-            aws_access_key_id     = local.aws_access_key_id
-            aws_access_key_secret = local.aws_access_key_secret
-          }
         }
       }
 
