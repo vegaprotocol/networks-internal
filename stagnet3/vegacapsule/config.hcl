@@ -12,7 +12,7 @@ network "stagnet3" {
   pre_start {
   }
   
-  genesis_template_file = "./genesis.tmpl.json"
+  genesis_template_file = "./config/genesis.tmpl.json"
 
   node_set "full" {
     count = 1

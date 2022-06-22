@@ -1,0 +1,437 @@
+{
+  "genesis_time": "2022-06-21T23:11:11.683026Z",
+  "chain_id": "test-chain-udok2E",
+  "initial_height": "1",
+  "consensus_params": {
+    "block": {
+      "max_bytes": "22020096",
+      "max_gas": "-1",
+      "time_iota_ms": "1"
+    },
+    "evidence": {
+      "max_age_num_blocks": "100000",
+      "max_age_duration": "172800000000000",
+      "max_bytes": "1048576"
+    },
+    "validator": {
+      "pub_key_types": [
+        "ed25519"
+      ]
+    },
+    "version": {}
+  },
+  "validators": [
+    {
+      "address": "ED21DE342991D160D2D18A410569C5CD75F25B2D",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "GXz1z4fYGv+Ad4E1/qzR8XCwcgpJDpn8l4YLv5S9NWg="
+      },
+      "power": "1",
+      "name": "/Users/daniel/www/vega/networks-internal/stagnet3/vegacapsule/home/tendermint/node0"
+    },
+    {
+      "address": "76BBC40E313628F5CDBE3B704BD9365871439BC0",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "8Agch2n//mm3JBMm7DUYCEYioSHakxp8Q3smBQ7vOKw="
+      },
+      "power": "1",
+      "name": "/Users/daniel/www/vega/networks-internal/stagnet3/vegacapsule/home/tendermint/node1"
+    },
+    {
+      "address": "A32D6C64523245F584B81BB9CBA21FCBEAFD6B2E",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "reba7wx0J5p7RnF8DTwictZb8gZM9M6gsw+zXo/MwLE="
+      },
+      "power": "1",
+      "name": "/Users/daniel/www/vega/networks-internal/stagnet3/vegacapsule/home/tendermint/node2"
+    },
+    {
+      "address": "7A3B30DA706E56B8999063D1107A123155E1C2CE",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "9PYP0nH8m2PI7HeCIi90ivDL0rxdJDBTlEzkBp5JERc="
+      },
+      "power": "1",
+      "name": "/Users/daniel/www/vega/networks-internal/stagnet3/vegacapsule/home/tendermint/node3"
+    },
+    {
+      "address": "201ADB3AB5ECE3A806B3E920CE3086496B6B065D",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "iE+RFXFCarqvPcAG01rSEW03lyXJWp2U+uPjqq1wcUs="
+      },
+      "power": "1",
+      "name": "/Users/daniel/www/vega/networks-internal/stagnet3/vegacapsule/home/tendermint/node4"
+    },
+    {
+      "address": "B6142A57050D3DDC90130979D11FA96E91E7BE47",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "qUwn0L6cEMm5pTkDad3ip5SLN8lHUqSAZSVdw2p4dAQ="
+      },
+      "power": "1",
+      "name": "/Users/daniel/www/vega/networks-internal/stagnet3/vegacapsule/home/tendermint/node5"
+    },
+    {
+      "address": "21B0824771EC24F740D68CC81CF4F97B11CD74BE",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "80RUzc8hyOi9dagHDH3ggosCGLR43y7dDcDWkEnxNQg="
+      },
+      "power": "1",
+      "name": "/Users/daniel/www/vega/networks-internal/stagnet3/vegacapsule/home/tendermint/node6"
+    },
+    {
+      "address": "F09D15C9D5221368924D8C6F4E255CB2050CF291",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "0cT86E8fYRpKNTVr6r40MOvsUzAbZgApMqBYkFaT43o="
+      },
+      "power": "1",
+      "name": "/Users/daniel/www/vega/networks-internal/stagnet3/vegacapsule/home/tendermint/node7"
+    }
+  ],
+  "app_hash": "",
+  "app_state": {
+    "assets": {
+      "VOTE": {
+        "decimals": 5,
+        "name": "VOTE",
+        "quantum": "1",
+        "source": {
+          "builtin_asset": {
+            "max_faucet_amount_mint": "10000"
+          }
+        },
+        "symbol": "VOTE",
+        "total_supply": "0"
+      },
+      "XYZalpha": {
+        "decimals": 5,
+        "min_lp_stake": "1",
+        "name": "XYZ (α alpha)",
+        "source": {
+          "builtin_asset": {
+            "max_faucet_amount_mint": "100000000000"
+          }
+        },
+        "symbol": "XYZalpha",
+        "total_supply": "1000000000"
+      },
+      "XYZbeta": {
+        "decimals": 5,
+        "min_lp_stake": "1",
+        "name": "XYZ (β beta)",
+        "source": {
+          "builtin_asset": {
+            "max_faucet_amount_mint": "100000000000"
+          }
+        },
+        "symbol": "XYZbeta",
+        "total_supply": "1000000000"
+      },
+      "XYZdelta": {
+        "decimals": 5,
+        "min_lp_stake": "1",
+        "name": "XYZ (δ delta)",
+        "source": {
+          "builtin_asset": {
+            "max_faucet_amount_mint": "100000000000"
+          }
+        },
+        "symbol": "XYZdelta",
+        "total_supply": "1000000000"
+      },
+      "XYZepsilon": {
+        "decimals": 5,
+        "min_lp_stake": "1",
+        "name": "XYZ (ε epsilon)",
+        "source": {
+          "builtin_asset": {
+            "max_faucet_amount_mint": "100000000000"
+          }
+        },
+        "symbol": "XYZepsilon",
+        "total_supply": "1000000000"
+      },
+      "XYZgamma": {
+        "decimals": 5,
+        "min_lp_stake": "1",
+        "name": "XYZ (γ gamma)",
+        "source": {
+          "builtin_asset": {
+            "max_faucet_amount_mint": "100000000000"
+          }
+        },
+        "symbol": "XYZgamma",
+        "total_supply": "1000000000"
+      },
+      "b4f2726571fbe8e33b442dc92ed2d7f0d810e21835b7371a7915a365f07ccd9b": {
+        "decimals": 18,
+        "min_lp_stake": "1",
+        "name": "Vega (stagnet3)",
+        "source": {
+          "erc20": {
+            "contract_address": "0x123CB30f41Af7552561A4b9A6e920DEAA6b58810"
+          }
+        },
+        "symbol": "VEGA",
+        "total_supply": "64999723000000000000000000"
+      },
+      "fBTC": {
+        "decimals": 5,
+        "min_lp_stake": "1",
+        "name": "BTC (fake)",
+        "source": {
+          "builtin_asset": {
+            "max_faucet_amount_mint": "1000000"
+          }
+        },
+        "symbol": "fBTC",
+        "total_supply": "21000000"
+      },
+      "fDAI": {
+        "decimals": 5,
+        "min_lp_stake": "1",
+        "name": "DAI (fake)",
+        "source": {
+          "builtin_asset": {
+            "max_faucet_amount_mint": "10000000000"
+          }
+        },
+        "symbol": "fDAI",
+        "total_supply": "1000000000"
+      },
+      "fEURO": {
+        "decimals": 5,
+        "min_lp_stake": "1",
+        "name": "EURO (fake)",
+        "source": {
+          "builtin_asset": {
+            "max_faucet_amount_mint": "10000000000"
+          }
+        },
+        "symbol": "fEURO",
+        "total_supply": "1000000000"
+      },
+      "fUSDC": {
+        "decimals": 5,
+        "min_lp_stake": "1",
+        "name": "USDC (fake)",
+        "source": {
+          "builtin_asset": {
+            "max_faucet_amount_mint": "1000000000000"
+          }
+        },
+        "symbol": "fUSDC",
+        "total_supply": "1000000000"
+      }
+    },
+    "checkpoint": {
+      "load_hash": "",
+      "state": ""
+    },
+    "network": {
+      "ReplayAttackThreshold": 30,
+      "replay_attack_threshold": 150
+    },
+    "network_limits": {
+      "bootstrap_block_count": 0,
+      "propose_asset_enabled": true,
+      "propose_asset_enabled_from": "2021-09-01T00:00:00Z",
+      "propose_market_enabled": true,
+      "propose_market_enabled_from": "2021-09-01T00:00:00Z"
+    },
+    "network_parameters": {
+      "blockchains.ethereumConfig": "{\"network_id\": \"3\", \"chain_id\": \"3\", \"collateral_bridge_contract\": { \"address\": \"0x11E84824Eb84ac2aa54E1336732d534F7A0E1E64\" }, \"confirmations\": 3, \"staking_bridge_contract\": { \"address\": \"0xA7298dbC0C0Df4739Ca6a5E5440577cC39f37222\", \"deployment_block_height\": 0}, \"token_vesting_contract\": { \"address\": \"0x0\", \"deployment_block_height\": 0 }, \"multisig_control_contract\": { \"address\": \"0xDD2df0E7583ff2acfed5e49Df4a424129cA9B58F\", \"deployment_block_height\": 0 }}",
+      "governance.proposal.asset.maxClose": "8760h0m0s",
+      "governance.proposal.asset.maxEnact": "8760h0m0s",
+      "governance.proposal.asset.minClose": "2s",
+      "governance.proposal.asset.minEnact": "2s",
+      "governance.proposal.asset.minProposerBalance": "0",
+      "governance.proposal.asset.minVoterBalance": "0",
+      "governance.proposal.asset.requiredMajority": "0.66",
+      "governance.proposal.asset.requiredParticipation": "0.00000000000000000000000015",
+      "governance.proposal.freeform.maxClose": "8760h0m0s",
+      "governance.proposal.freeform.minClose": "48h0m0s",
+      "governance.proposal.freeform.minProposerBalance": "0",
+      "governance.proposal.freeform.minVoterBalance": "0",
+      "governance.proposal.freeform.requiredMajority": "0.66",
+      "governance.proposal.freeform.requiredParticipation": "0.00001",
+      "governance.proposal.market.maxClose": "8760h0m0s",
+      "governance.proposal.market.maxEnact": "8760h0m0s",
+      "governance.proposal.market.minClose": "2s",
+      "governance.proposal.market.minEnact": "2s",
+      "governance.proposal.market.minProposerBalance": "0",
+      "governance.proposal.market.minVoterBalance": "0",
+      "governance.proposal.market.requiredMajority": "0.66",
+      "governance.proposal.market.requiredParticipation": "0.00000000000000000000000015",
+      "governance.proposal.updateMarket.maxClose": "8760h0m0s",
+      "governance.proposal.updateMarket.maxEnact": "8760h0m0s",
+      "governance.proposal.updateMarket.minClose": "2s",
+      "governance.proposal.updateMarket.minEnact": "2s",
+      "governance.proposal.updateMarket.minProposerBalance": "0",
+      "governance.proposal.updateMarket.minProposerEquityLikeShare": "0.66",
+      "governance.proposal.updateMarket.minVoterBalance": "0",
+      "governance.proposal.updateMarket.requiredMajority": "0.66",
+      "governance.proposal.updateMarket.requiredMajorityLP": "0.66",
+      "governance.proposal.updateMarket.requiredParticipation": "0.00000000000000000000000015",
+      "governance.proposal.updateMarket.requiredParticipationLP": "0.00001",
+      "governance.proposal.updateNetParam.maxClose": "8760h0m0s",
+      "governance.proposal.updateNetParam.maxEnact": "8760h0m0s",
+      "governance.proposal.updateNetParam.minClose": "2s",
+      "governance.proposal.updateNetParam.minEnact": "2s",
+      "governance.proposal.updateNetParam.minProposerBalance": "0",
+      "governance.proposal.updateNetParam.minVoterBalance": "0",
+      "governance.proposal.updateNetParam.requiredMajority": "0.66",
+      "governance.proposal.updateNetParam.requiredParticipation": "0.00000000000000000000000015",
+      "market.auction.maximumDuration": "168h0m0s",
+      "market.auction.minimumDuration": "3s",
+      "market.fee.factors.infrastructureFee": "0.001",
+      "market.fee.factors.makerFee": "0.004",
+      "market.liquidity.bondPenaltyParameter": "1",
+      "market.liquidity.maximumLiquidityFeeFactorLevel": "1",
+      "market.liquidity.minimum.probabilityOfTrading.lpOrders": "1e-8",
+      "market.liquidity.probabilityOfTrading.tau.scaling": "1",
+      "market.liquidity.providers.fee.distributionTimeStep": "0s",
+      "market.liquidity.stakeToCcySiskas": "0.3",
+      "market.liquidity.targetstake.triggering.ratio": "0.7",
+      "market.liquidityProvision.minLpStakeQuantumMultiple": "1",
+      "market.liquidityProvision.shapes.maxSize": "100",
+      "market.margin.scalingFactors": "{\"search_level\": 1.1, \"initial_margin\": 1.2, \"collateral_release\": 1.4}",
+      "market.monitor.price.defaultParameters": "{\"triggers\": []}",
+      "market.monitor.price.updateFrequency": "1s",
+      "market.stake.target.scalingFactor": "10",
+      "market.stake.target.timeWindow": "1h0m0s",
+      "market.value.windowLength": "168h0m0s",
+      "network.checkpoint.marketFreezeDate": "never",
+      "network.checkpoint.networkEndOfLifeDate": "never",
+      "network.checkpoint.timeElapsedBetweenCheckpoints": "10s",
+      "network.floatingPointUpdates.delay": "5m",
+      "network.validators.ersatz.multipleOfTendermintValidators": "0.5",
+      "network.validators.ersatz.rewardFactor": "0.5",
+      "network.validators.incumbentBonus": "1",
+      "network.validators.minimumEthereumEventsForNewValidator": "3",
+      "network.validators.multisig.numberOfSigners": "13",
+      "network.validators.tendermint.number": "30",
+      "reward.asset": "b4f2726571fbe8e33b442dc92ed2d7f0d810e21835b7371a7915a365f07ccd9b",
+      "reward.staking.delegation.competitionLevel": "3.1",
+      "reward.staking.delegation.delegatorShare": "0.883",
+      "reward.staking.delegation.maxPayoutPerEpoch": "7000000000000000000000",
+      "reward.staking.delegation.maxPayoutPerParticipant": "700000000000000000000",
+      "reward.staking.delegation.minValidators": "5",
+      "reward.staking.delegation.minimumValidatorStake": "3000000000000000000000",
+      "reward.staking.delegation.optimalStakeMultiplier": "3.0",
+      "reward.staking.delegation.payoutDelay": "5m",
+      "reward.staking.delegation.payoutFraction": "0.007",
+      "snapshot.interval.length": "1000",
+      "spam.pow.difficulty": "15",
+      "spam.pow.hashFunction": "sha3_24_rounds",
+      "spam.pow.increaseDifficulty": "0",
+      "spam.pow.numberOfPastBlocks": "100",
+      "spam.pow.numberOfTxPerBlock": "2",
+      "spam.protection.delegation.min.tokens": "1000000000000000000",
+      "spam.protection.max.delegations": "390",
+      "spam.protection.max.proposals": "100",
+      "spam.protection.max.votes": "100",
+      "spam.protection.maxUserTransfersPerEpoch": "20",
+      "spam.protection.proposal.min.tokens": "1000000000000000000",
+      "spam.protection.voting.min.tokens": "1000000000000000000",
+      "transfer.fee.factor": "0.001",
+      "transfer.minTransferQuantumMultiple": "0.1",
+      "validators.delegation.minAmount": "100000000000000000",
+      "validators.epoch.length": "5s",
+      "validators.vote.required": "0.67"
+    },
+    "network_parameters_checkpoint_overwrite": null,
+    "validators": {
+      "0cT86E8fYRpKNTVr6r40MOvsUzAbZgApMqBYkFaT43o=": {
+        "avatar_url": "",
+        "country": "",
+        "ethereum_address": "0x7173A8827D2097B2E5d4C2155d9974D5229040A7",
+        "from_epoch": 0,
+        "id": "a86940403f46c1385b7427f2e979847cf24941294df88d30d34fd883438dbbee",
+        "info_url": "",
+        "name": "",
+        "tm_pub_key": "0cT86E8fYRpKNTVr6r40MOvsUzAbZgApMqBYkFaT43o=",
+        "vega_pub_key": "7534c973ce2cfa93f24fef3af4d8f1a1cc9dc1b6bb92236f758cf3194e2c7602",
+        "vega_pub_key_index": 1
+      },
+      "80RUzc8hyOi9dagHDH3ggosCGLR43y7dDcDWkEnxNQg=": {
+        "avatar_url": "",
+        "country": "",
+        "ethereum_address": "0x4bA3A405d967438c9416719675d4b474ee8D107C",
+        "from_epoch": 0,
+        "id": "675f1deb793acf0e170d108fdf7acc9038796c2c3c4d07ab6721d9daed27a894",
+        "info_url": "",
+        "name": "",
+        "tm_pub_key": "80RUzc8hyOi9dagHDH3ggosCGLR43y7dDcDWkEnxNQg=",
+        "vega_pub_key": "b67dbbf23a23bdff4a249d1ecba532d1f85ebc35c62dd034ee3006b7ef6d22c8",
+        "vega_pub_key_index": 1
+      },
+      "8Agch2n//mm3JBMm7DUYCEYioSHakxp8Q3smBQ7vOKw=": {
+        "avatar_url": "",
+        "country": "",
+        "ethereum_address": "0x0b0Cbe4CBc51fdaf2212B2df385B01c3bA59E0B2",
+        "from_epoch": 0,
+        "id": "7b8c02e714e3d039ce587fe0c5dfc6aa3170d4ebd105f9eed5bf11dea41e162f",
+        "info_url": "",
+        "name": "",
+        "tm_pub_key": "8Agch2n//mm3JBMm7DUYCEYioSHakxp8Q3smBQ7vOKw=",
+        "vega_pub_key": "9e17ab13bfb92e0b8e902f4788e045ce4632a38e2eff650b9ee7bb84cd5d75c0",
+        "vega_pub_key_index": 1
+      },
+      "9PYP0nH8m2PI7HeCIi90ivDL0rxdJDBTlEzkBp5JERc=": {
+        "avatar_url": "",
+        "country": "",
+        "ethereum_address": "0xCE53e9E0D965D9A5bD1d8EC290254Eb6bba5eccB",
+        "from_epoch": 0,
+        "id": "2ba3e32c0cd43c33081359be98d70b311897131efc6da3db01a21b12ecee016c",
+        "info_url": "",
+        "name": "",
+        "tm_pub_key": "9PYP0nH8m2PI7HeCIi90ivDL0rxdJDBTlEzkBp5JERc=",
+        "vega_pub_key": "46cb106e206f72745c1b4654d0c26c05f0b42bce0a784a326894924e93119e2f",
+        "vega_pub_key_index": 1
+      },
+      "iE+RFXFCarqvPcAG01rSEW03lyXJWp2U+uPjqq1wcUs=": {
+        "avatar_url": "",
+        "country": "",
+        "ethereum_address": "0xF418698E749470d4196c5539a6617aE711F4E0c4",
+        "from_epoch": 0,
+        "id": "eb25c63f478bb902ec8d195bf93f6cf05b2e05b3c7be2c58528c602a4b43b878",
+        "info_url": "",
+        "name": "",
+        "tm_pub_key": "iE+RFXFCarqvPcAG01rSEW03lyXJWp2U+uPjqq1wcUs=",
+        "vega_pub_key": "69110f0dbbc6868e0c8eae614acd2cae489c1a8ce940e1f6db3e2212fa58ece0",
+        "vega_pub_key_index": 1
+      },
+      "qUwn0L6cEMm5pTkDad3ip5SLN8lHUqSAZSVdw2p4dAQ=": {
+        "avatar_url": "",
+        "country": "",
+        "ethereum_address": "0x7386aE15076221021D1bff85b0CE84602dE9661A",
+        "from_epoch": 0,
+        "id": "c7b3b3399174cea59cdc3f1383ed8cf8a591c7432b460f565a0597d558ebff94",
+        "info_url": "",
+        "name": "",
+        "tm_pub_key": "qUwn0L6cEMm5pTkDad3ip5SLN8lHUqSAZSVdw2p4dAQ=",
+        "vega_pub_key": "c4dcd290cfbc4944760a336dd40d42071f508f2e230fdf8403c4259ebff18b13",
+        "vega_pub_key_index": 1
+      },
+      "reba7wx0J5p7RnF8DTwictZb8gZM9M6gsw+zXo/MwLE=": {
+        "avatar_url": "",
+        "country": "",
+        "ethereum_address": "0x4f3aFf82bcCf613e68fa25791372e3d3D9cD1e06",
+        "from_epoch": 0,
+        "id": "4a4e773e7059561f0c8b2dd4e52afe59e757d729d5edc7baccd1a6e8099acaf8",
+        "info_url": "",
+        "name": "",
+        "tm_pub_key": "reba7wx0J5p7RnF8DTwictZb8gZM9M6gsw+zXo/MwLE=",
+        "vega_pub_key": "2bfaa4bbd5705147b046cbd686c4ae96506cd76c09141956f0841717df91619f",
+        "vega_pub_key_index": 1
+      }
+    }
+  }
+}
