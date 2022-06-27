@@ -21,7 +21,7 @@ locals {
       mode = "file"
     }
     "/tmp/local/vega/bin/data-node" = {
-      path = "https://github.com/vegaprotocol/data-node/releases/download/v0.52.0/data-node-linux-amd64"
+      path = "https://vegacapsule-test.s3.amazonaws.com/bin/data-node-branch-unsafe_reset_all" # Temp binary with unsafe_reset_all
       mode = "file"
     }
   }
