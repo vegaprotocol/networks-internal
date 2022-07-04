@@ -4,7 +4,7 @@
       "pub": "0x0"
     },
     "MultisigControl": {
-      "Ethereum": "0xDD2df0E7583ff2acfed5e49Df4a424129cA9B58F"
+      "Ethereum": "0x0a432BBc9A7aBC4b7F308013F2E5988C2A8fe653"
     },
     "ERC20_Asset_Pool": {
       "Ethereum": "0x82A557e31c7ac6B8F64704d740abE1f4c6f38Ca9"
@@ -13,7 +13,7 @@
       "Ethereum": "0x0"
     },
     "erc20_bridge_1": {
-      "Ethereum": "0x11E84824Eb84ac2aa54E1336732d534F7A0E1E64"
+      "Ethereum": "0x5F0Aa66E2E2662bf0DC30c23e776a11B89142B36"
     },
     "VEGA": {
       "Ethereum": "0x123CB30f41Af7552561A4b9A6e920DEAA6b58810",
@@ -25,5 +25,45 @@
     },
     "staking_bridge": {
       "Ethereum": "0xA7298dbC0C0Df4739Ca6a5E5440577cC39f37222"
+    },
+    "tBTC": {
+      "Ethereum": "0xC912F059b4eCCEF6C969B2E0e2544A1A2581C094",
+      "Vega": "0x5cfa87844724df6069b94e4c8a6f03af21907d7bc251593d08e4251043ee9f7c"
+    },
+    "tDai": {
+      "Ethereum": "0x6E3b01547c634942F9073CE863682ab32Dc500fc",
+      "Vega": "0x6d9d35f657589e40ddfb448b7ad4a7463b66efb307527fedd2aa7df1bbd5ea61"
+    },
+    "tEURO": {
+      "Ethereum": "0xD03f574C22EC71b5834DAE1D4cfBD00AcbAfAb89",
+      "Vega": "0x8b52d4a3a4b0ffe733cddbc2b67be273816cfeb6ca4c8b339bac03ffba08e4e4"
+    },
+    "tUSDC": {
+      "Ethereum": "0xCc1dE7A9ff1dF05B9f0e49CBfFCA1D02cb5a0E40",
+      "Vega": "0x993ed98f4f770d91a796faab1738551193ba45c62341d20597df70fea6704ede"
+    },
+    "WOZ": {
+      "Ethereum": "0x5E4b9aDA947130Fc320a144cd22bC1641e5c9d81",
+      "Vega": "0xce3fb1ab0717f0adbce019d7aef53aacdbadefe2d30ad1647b55f134d4072c90"
+    },
+    "TIM": {
+      "Ethereum": "0x920B2375BCAC8cCDfDEFD74426c55C48e0304e4F",
+      "Vega": "0x2282ffc06a557173d297739305cc69f6444cdbbb1089df7d9aef32bbfd735ba1"
+    },
+    "STE": {
+      "Ethereum": "0x5a16941cca2Db4AcdFC28Ac77a3e9652Fdf102e1",
+      "Vega": "0xba98cdeeec849a053e60cc03808e91e90d9d2e62425c76a590617b95ad41a066"
+    },
+    "LIQ": {
+      "Ethereum": "0xD2f21E37e78dD91b60FE3dD74A112e1a53b33057",
+      "Vega": "0x98032ba34576f8012de9b822e1da3ed4b6223a4f4e05f573002d441ffb4bf314"
+    },
+    "MAK": {
+      "Ethereum": "0x8ec701DA58394F5d2c8C2873D31039454D5845C1",
+      "Vega": "0xebcd94151ae1f0d39a4bde3b21a9c7ae81a80ea4352fb075a92e07608d9c953d"
+    },
+    "TAK": {
+      "Ethereum": "0xf700Ce952B6EA11c01b43e5579C6D63286ff8CF0",
+      "Vega": "0x449dbfb66e7a444c485b4fdc77ddc6bbf81abbf7c8e247ac299c25e9557b99cf"
     }
   }
