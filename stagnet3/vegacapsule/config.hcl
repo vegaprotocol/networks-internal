@@ -1,5 +1,5 @@
 # Used to generate config locally
-vega_binary_path = "vega-v0.50.0"
+vega_binary_path = "vega"
 paths_format = "prefer-relative"
 
 
