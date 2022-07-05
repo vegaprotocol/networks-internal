@@ -123,7 +123,7 @@
 		},
 		"{{.GetVegaContractID "tBTC"}}": {
 			"min_lp_stake": "1",
-			"decimals": 18,
+			"decimals": 5,
 			"name": "tBTC TEST",
 			"symbol": "tBTC",
 			"total_supply": "213000000000000000000000",
@@ -135,7 +135,7 @@
 		},
 		"{{.GetVegaContractID "tDai"}}": {
 			"min_lp_stake": "1",
-			"decimals": 18,
+			"decimals": 5,
 			"name": "tDAI TEST",
 			"symbol": "tDAI",
 			"total_supply": "12800000000000000000000000",
@@ -147,7 +147,7 @@
 		},
 		"{{.GetVegaContractID "tEURO"}}": {
 			"min_lp_stake": "1",
-			"decimals": 18,
+			"decimals": 5,
 			"name": "tEURO TEST",
 			"symbol": "tEURO",
 			"total_supply": "6100000000000000000000000",
@@ -159,7 +159,7 @@
 		},
 		"{{.GetVegaContractID "tUSDC"}}": {
 			"min_lp_stake": "1",
-			"decimals": 18,
+			"decimals": 5,
 			"name": "tUSDC TEST",
 			"symbol": "tUSDC",
 			"total_supply": "8100000000000000000000000",
