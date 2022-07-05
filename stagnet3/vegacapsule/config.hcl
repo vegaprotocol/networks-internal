@@ -1,5 +1,7 @@
 # Used to generate config locally
 vega_binary_path = "vega-v0.50.0"
+paths_format = "prefer-relative"
+
 
 network "stagnet3" {
 	ethereum {
