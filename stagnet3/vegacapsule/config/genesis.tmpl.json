@@ -9,7 +9,7 @@
 		  "total_supply": "21000000",
 		  "source": {
 			"builtin_asset": {
-			  "max_faucet_amount_mint": "1000000"
+			  "max_faucet_amount_mint": "10000000000"
 			}
 		  }
 		},
