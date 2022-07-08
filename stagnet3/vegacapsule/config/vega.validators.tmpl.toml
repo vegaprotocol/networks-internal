@@ -14,9 +14,11 @@
 [EvtForward]
 	Level = "Info"
 	RetryRate = "1s"
-	# if {{ if .FaucetPublicKey }}
-	BlockchainQueueAllowlist = ["{{ .FaucetPublicKey }}"]
-	# endif {{end}}
+	BlockchainQueueAllowlist = [
+		{{if .FaucetPublicKey}}"{{ .FaucetPublicKey }}",{{end}}
+		# faucet on k8s
+		"e43f8ce01312575763215fd754215680070007e7d19889b74327bdead3667cfe"
+	]
 
 [NodeWallet]
 	[NodeWallet.ETH]
