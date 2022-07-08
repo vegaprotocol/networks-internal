@@ -16,10 +16,8 @@
 	RetryRate = "1s"
 	BlockchainQueueAllowlist = [
 		{{if .FaucetPublicKey}}"{{ .FaucetPublicKey }}",{{end}}
-		#faucet on k8s
-		"e43f8ce01312575763215fd754215680070007e7d19889b74327bdead3667cfe",
-		#daniel's local faucet
-		"cc88f1ec449fc8b64aa54cfc9067bb73fc9d5143d2ae9bd54ef6553bf8c805d7"
+		# faucet on k8s
+		"e43f8ce01312575763215fd754215680070007e7d19889b74327bdead3667cfe"
 	]
 
 [NodeWallet]
