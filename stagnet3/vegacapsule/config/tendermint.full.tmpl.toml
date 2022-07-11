@@ -30,3 +30,9 @@ moniker = "n0{{ add .NodeNumber 1 }}.stagnet3.vega.xyz"
 
 [consensus]
   skip_timeout_commit = false
+
+[instrumentation]
+prometheus = true
+prometheus_listen_addr = ":26661"
+max_open_connections = 3
+namespace = "tendermint"
