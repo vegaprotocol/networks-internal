@@ -25,8 +25,8 @@ GatewayEnabled = true
 [Metrics]
   Level = "Info"
   Timeout = "5s"
-  Port = 2102
-  Enabled = false
+  Port = 2112
+  Enabled = true
 [Broker]
   Level = "Info"
   UseEventFile = false
