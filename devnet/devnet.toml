@@ -6,10 +6,7 @@ Host = "127.0.0.1"
 
 [API.GRPC]
   Hosts = [
-    "n01.d.vega.xyz:3002",
-    "n02.d.vega.xyz:3002",
-    "n03.d.vega.xyz:3002",
-    "n04.d.vega.xyz:3002"
+    "n04.d.vega.xyz:3007"
   ]
   Retries = 5
 

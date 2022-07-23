@@ -9,7 +9,7 @@
 		  "total_supply": "21000000",
 		  "source": {
 			"builtin_asset": {
-			  "max_faucet_amount_mint": "1000000"
+			  "max_faucet_amount_mint": "10000000000"
 			}
 		  }
 		},
@@ -118,6 +118,126 @@
 			"source": {
 				"erc20": {
 				"contract_address": "{{.GetEthContractAddr "VEGA"}}"
+				}
+			}
+		},
+		"{{.GetVegaContractID "tBTC"}}": {
+			"min_lp_stake": "1",
+			"decimals": 5,
+			"name": "tBTC TEST",
+			"symbol": "tBTC",
+			"total_supply": "213000000000000000000000",
+			"source": {
+				"erc20": {
+				"contract_address": "{{.GetEthContractAddr "tBTC"}}"
+				}
+			}
+		},
+		"{{.GetVegaContractID "tDai"}}": {
+			"min_lp_stake": "1",
+			"decimals": 5,
+			"name": "tDAI TEST",
+			"symbol": "tDAI",
+			"total_supply": "12800000000000000000000000",
+			"source": {
+				"erc20": {
+				"contract_address": "{{.GetEthContractAddr "tDai"}}"
+				}
+			}
+		},
+		"{{.GetVegaContractID "tEURO"}}": {
+			"min_lp_stake": "1",
+			"decimals": 5,
+			"name": "tEURO TEST",
+			"symbol": "tEURO",
+			"total_supply": "6100000000000000000000000",
+			"source": {
+				"erc20": {
+				"contract_address": "{{.GetEthContractAddr "tEURO"}}"
+				}
+			}
+		},
+		"{{.GetVegaContractID "tUSDC"}}": {
+			"min_lp_stake": "1",
+			"decimals": 5,
+			"name": "tUSDC TEST",
+			"symbol": "tUSDC",
+			"total_supply": "8100000000000000000000000",
+			"source": {
+				"erc20": {
+				"contract_address": "{{.GetEthContractAddr "tUSDC"}}"
+				}
+			}
+		},
+		"{{.GetVegaContractID "WOZ"}}": {
+			"min_lp_stake": "1",
+			"decimals": 18,
+			"name": "Woz Token (Vega)",
+			"symbol": "WOZ",
+			"total_supply": "1000000000000000000000000000",
+			"source": {
+				"erc20": {
+				"contract_address": "{{.GetEthContractAddr "WOZ"}}"
+				}
+			}
+		},
+		"{{.GetVegaContractID "TIM"}}": {
+			"min_lp_stake": "1",
+			"decimals": 18,
+			"name": "Tim Token (Vega)",
+			"symbol": "TIM",
+			"total_supply": "1000000000000000000000000000",
+			"source": {
+				"erc20": {
+				"contract_address": "{{.GetEthContractAddr "TIM"}}"
+				}
+			}
+		},
+		"{{.GetVegaContractID "STE"}}": {
+			"min_lp_stake": "1",
+			"decimals": 18,
+			"name": "Steve Token (Vega)",
+			"symbol": "STE",
+			"total_supply": "1000000000000000000000000000",
+			"source": {
+				"erc20": {
+				"contract_address": "{{.GetEthContractAddr "STE"}}"
+				}
+			}
+		},
+		"{{.GetVegaContractID "LIQ"}}": {
+			"min_lp_stake": "1",
+			"decimals": 18,
+			"name": "Liquidity Reward Token (Vega)",
+			"symbol": "LIQ",
+			"total_supply": "1000000000000000000000000000",
+			"source": {
+				"erc20": {
+				"contract_address": "{{.GetEthContractAddr "LIQ"}}"
+				}
+			}
+		},
+		"{{.GetVegaContractID "MAK"}}": {
+			"min_lp_stake": "1",
+			"decimals": 18,
+			"name": "Maker Reward Token (Vega)",
+			"symbol": "MAK",
+			"total_supply": "1000000000000000000000000000",
+			"source": {
+				"erc20": {
+				"contract_address": "{{.GetEthContractAddr "MAK"}}"
+				}
+			}
+		},
+		"{{.GetVegaContractID "TAK"}}": {
+			"min_lp_stake": "1",
+			"decimals": 18,
+			"name": "Taker Reward Token (Vega)",
+			"symbol": "TAK",
+			"total_supply": "1000000000000000000000000000",
+			"source": {
+				"erc20": {
+				"contract_address": "{{.GetEthContractAddr "TAK"}}"
 				}
 			}
 		}
