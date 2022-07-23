@@ -16,12 +16,23 @@ locals {
   aws_access_key_secret = "sIljeRIeKX+yhgvC3cH6V1F6NtlVkxvww0ja4NIO"
 
   binaries_artifacts = {
+    // "/tmp/local/vega/bin/vega" = {
+    //   path = "https://github.com/vegaprotocol/vega/releases/download/v0.52.0/vega-linux-amd64"
+    //   mode = "file"
+    // }
+    // "/tmp/local/vega/bin/data-node" = {
+    //   path = ""https://github.com/vegaprotocol/data-node/releases/download/v0.52.0/data-node-amd64"" # Temp binary with unsafe_reset_all
+    //   mode = "file"
+    // }
+  }
+
+  s3_binaries_artifacts = {
     "/tmp/local/vega/bin/vega" = {
-      path = "https://github.com/vegaprotocol/vega/releases/download/v0.52.0/vega-linux-amd64"
+      path = "vegacapsule-test/bin/vega-linux-amd64-ee672288"
       mode = "file"
     }
     "/tmp/local/vega/bin/data-node" = {
-      path = "https://vegacapsule-test.s3.amazonaws.com/bin/data-node-branch-unsafe_reset_all" # Temp binary with unsafe_reset_all
+      path = "vegacapsule-test/bin/data-node-linux-amd64-793e7cdb"
       mode = "file"
     }
   }
@@ -31,7 +42,9 @@ locals {
       path = "stagnet3/tendermint/node{{ .Index }}/config"
       mode = "dir"
     }
-    
+  }
+
+  tendermint_validator_artifacts = {
     // TODO: Fix it, as it may change in meantime
     "/tmp/local/vega/.tendermint/data/priv_validator_state.json" = {
       path = "stagnet3/tendermint/node{{ .Index }}/data/priv_validator_state.json"
@@ -84,7 +97,7 @@ locals {
     configuration_artifacts = merge(
       local.tendermint_artifacts,
       local.vega_artifacts,
-      local.data_node_artifacts,
+      local.tendermint_validator_artifacts,
       local.vega_validator_artifacts)
   {{ end }}
 
@@ -192,17 +205,19 @@ job "{{ .Name }}" {
   // Currently impossible to wildcard datacenters so we have to list all our DCs
   // Ref: https://github.com/hashicorp/nomad/issues/9024
   datacenters = [
-    "asia-southeast1-a",
-    "ap-northeast-2",
-    "northamerica-northeast1-a",
-    "eu-west-1",
-    "eu-west-2"
+    "eu-west-2c (AWS)",
+    "northamerica-northeast1-a (GCP)",
+    "sgp1 (DO)",
+    "asia-southeast1-a (GCP)",
+    "ap-northeast-2a (AWS)",
+    "sfo3 (DO)",
+    "fra1 (DO)"
   ]
 
   // Pin particular task on particular nomad node
   constraint {
     attribute = "${meta.node}"
-    value     = "n0{{ $nodeIDX }}" // TODO: Add support for more than 10 nodes
+    value     = "0{{ $nodeIDX }}" // TODO: Add support for more than 10 nodes
   }
 
   group "vega-node" {
@@ -253,6 +268,22 @@ job "{{ .Name }}" {
           source = artifact.value.path
           destination = artifact.key
           mode = lookup(artifact.value, "mode", "any")
+        }
+      }
+
+
+      dynamic "artifact" {
+        for_each = local.s3_binaries_artifacts
+
+        content {
+          source = format("s3::https://s3.amazonaws.com/%s", artifact.value.path)
+          destination = artifact.key
+          mode = lookup(artifact.value, "mode", "any")
+
+          options {
+            aws_access_key_id     = local.aws_access_key_id
+            aws_access_key_secret = local.aws_access_key_secret
+          }
         }
       }
 
@@ -343,6 +374,7 @@ job "{{ .Name }}" {
           {{ end }}
 
           
+          mkdir -p /local/vega/.tendermint/data;
           chown vega:vega -R /local/vega/.tendermint;
           chown vega:vega -R /local/vega/.vega;
         EOH
@@ -357,30 +389,6 @@ job "{{ .Name }}" {
       config {
         command = "bash"
         args = ["-c", "/pre-start.sh"]
-      }
-    }
-
-    task "tendermint" {
-      volume_mount {
-        volume      = "vega_home_volume"
-        destination = "local/vega"
-      }
-
-      driver = "exec"
-      user = "vega"
-
-      config {
-        command = "bash"
-        args = [
-          "-c",
-          "/local/vega/bin/vega tm node --home /local/vega/.tendermint"
-        ]
-      }
-
-      resources {
-        cpu    = 1000
-        memory = 4000
-        memory_max = 12288
       }
     }
 
@@ -401,13 +409,19 @@ job "{{ .Name }}" {
         command = "bash"
         args = [
           "-c",
-          "/local/vega/bin/vega node --home /local/vega/.vega --nodewallet-passphrase-file /local/vega/.vega/node-vega-wallet-pass.txt"
+          join(" ", [
+            "/local/vega/bin/vega", 
+              "node",
+              "--home", "/local/vega/.vega",
+              "--nodewallet-passphrase-file", "/local/vega/.vega/node-vega-wallet-pass.txt",
+              "--tendermint-home", "/local/vega/.tendermint"
+          ])
         ]
       }
 
       resources {
         cpu    = 1000
-        memory = 4000
+        memory = 1000
         memory_max = 12288
       }
     }
@@ -432,7 +446,7 @@ job "{{ .Name }}" {
 
       resources {
         cpu    = 1000
-        memory = 4000
+        memory = 1000
         memory_max = 12288
       }
     }
