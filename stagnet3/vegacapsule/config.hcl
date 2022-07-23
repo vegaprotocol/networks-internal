@@ -1,6 +1,8 @@
 # Used to generate config locally
 vega_binary_path = "vega"
 
+# paths_format = "prefer-relative"
+
 network "stagnet3" {
 	ethereum {
     chain_id   = "3"
