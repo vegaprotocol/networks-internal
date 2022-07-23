@@ -1,7 +1,7 @@
 # Used to generate config locally
 vega_binary_path = "vega"
-paths_format = "prefer-relative"
 
+# paths_format = "prefer-relative"
 
 network "stagnet3" {
 	ethereum {
@@ -28,20 +28,20 @@ network "stagnet3" {
       tendermint_file = "./config/tendermint.full.tmpl.toml"
     }
 
-    remote_command_runner {
-      nomad_job "this" {
-        job_template_file = "./jobs/command_runner.tmpl.nomad"
-      }
+    // remote_command_runner {
+    //   nomad_job "this" {
+    //     job_template_file = "./jobs/command_runner.tmpl.nomad"
+    //   }
 
-      paths_mapping {
-        tendermint_home = "/local/vega/.tendermint/"
-        vega_home       = "/local/vega/.vega/"
-        vega_binary     = "/local/vega/bin/vega"
+    //   paths_mapping {
+    //     tendermint_home = "/local/vega/.tendermint/"
+    //     vega_home       = "/local/vega/.vega/"
+    //     vega_binary     = "/local/vega/bin/vega"
 
-        data_node_home   = "/local/vega/.data-node/"
-        data_node_binary = "/local/vega/bin/data-node"  
-      }
-    }
+    //     data_node_home   = "/local/vega/.data-node/"
+    //     data_node_binary = "/local/vega/bin/data-node"  
+    //   }
+    // }
   }
 
   node_set "validators" {
@@ -58,17 +58,17 @@ network "stagnet3" {
       tendermint_file = "./config/tendermint.validators.tmpl.toml"
     }
 
-    remote_command_runner {
-      nomad_job "this" {
-        job_template_file = "./jobs/command_runner.tmpl.nomad"
-      }
+    // remote_command_runner {
+    //   nomad_job "this" {
+    //     job_template_file = "./jobs/command_runner.tmpl.nomad"
+    //   }
 
-      paths_mapping {
-        tendermint_home = "/local/vega/.tendermint/"
-        vega_home       = "/local/vega/.vega/"
-        vega_binary     = "/local/vega/bin/vega"
-      }
-    }
+    //   paths_mapping {
+    //     tendermint_home = "/local/vega/.tendermint/"
+    //     vega_home       = "/local/vega/.vega/"
+    //     vega_binary     = "/local/vega/bin/vega"
+    //   }
+    // }
   }
 
   smart_contracts_addresses_file = "./smartcontracts_addresses.json"

@@ -20,10 +20,8 @@
 		"e43f8ce01312575763215fd754215680070007e7d19889b74327bdead3667cfe"
 	]
 
-[NodeWallet]
-	[NodeWallet.ETH]
-		# TODO: Parametrize this infura URL
-		Address = "https://ropsten.infura.io/v3/ffa591112b994ab29a076518f14768e1"
+[Ethereum]
+  RPCEndpoint = "{{.ETHEndpoint}}"
 
 [Processor]
 	[Processor.Ratelimit]
