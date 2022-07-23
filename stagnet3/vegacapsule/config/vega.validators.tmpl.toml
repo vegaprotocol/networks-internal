@@ -18,10 +18,8 @@
 	BlockchainQueueAllowlist = ["{{ .FaucetPublicKey }}"]
 	# endif {{end}}
 
-[NodeWallet]
-	[NodeWallet.ETH]
-		# TODO: Parametrize this infura URL
-		Address = "https://ropsten.infura.io/v3/ffa591112b994ab29a076518f14768e1"
+[Ethereum]
+  RPCEndpoint = "{{.ETHEndpoint}}"
 
 [Processor]
 	[Processor.Ratelimit]

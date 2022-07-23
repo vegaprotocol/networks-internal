@@ -1,0 +1,82 @@
+[
+  {
+    "node_index": 1,
+    "ethereum_private_key": "da5111bd201aa56222c6fb7229cf58afd2a1313156938cb671f76423e1395fd9",
+    "tendermint_validator_private_key": "r/14rvDVuiMkhwZ8QEXzQMWW95mSjm485j33dBqG+U6cdpZjKLPWlU1r0zQx8AZ9HAA0BmYbcV8QoeuXQ49gjA==",
+    "tendermint_validator_public_key": "nHaWYyiz1pVNa9M0MfAGfRwANAZmG3FfEKHrl0OPYIw=",
+    "tendermint_validator_address": "62EAA20DE41A3E582266CC0879EBA1C97CEDCAA9",
+    "tendermint_validator_node_id": "86AB9AAF26F8E397742AD889E18842187E4C288B",
+    "tendermint_node_private_key": "uf68y+F5SYa91NFUrp4/6VCkA1gwYMbUf5G1UH6FZHJotW3zoz10HIKYHkP04yxHyWDtT6U5h9BqoVkoq+RWlA==",
+    "vega_recovery_phrase": "boil actress length concert icon elephant major girl lucky inherit brand tomato much cave screen hundred pave urban tray spin march shrug jaguar nothing"
+  },
+  {
+    "node_index": 2,
+    "ethereum_private_key": "a7b90ea9c0beb2a085e3b278f742b95d61f8f71d833cf60696df999f0110b96c",
+    "tendermint_validator_private_key": "MrAzeTfEuIaqVvxzjuvH9jXVbWKl1Zq3Jze7kSCz4zqpyO3kXCaC30gAz/9NcYNWOiWG5DcvqvoT4Kpv/1iCpg==",
+    "tendermint_validator_public_key": "qcjt5Fwmgt9IAM//TXGDVjolhuQ3L6r6E+Cqb/9YgqY=",
+    "tendermint_validator_address": "318CA0B13C30B22AA0E4B8BAFA9C29276411EB01",
+    "tendermint_validator_node_id": "94BE504C3A1BA3C0750957D7612406920034E1FD",
+    "tendermint_node_private_key": "eiQZgq6U6w3E1OL7v+g1dk022J1vREaFRkO1DWDYpI/rs7H3TL1flBr+hP0aec9Xx9X/766kPBO8Zr9XN2ELPA==",
+    "vega_recovery_phrase": "proud lonely jealous mammal summer high bus river erosion ring crawl summer lion foil flush void find squeeze weekend fabric daring throw endless input"
+  },
+  {
+    "node_index": 3,
+    "ethereum_private_key": "c347305ffa8a9cd320fae77441d343f2fdd97a82480983bbe1e9cccfc2d8f42c",
+    "tendermint_validator_private_key": "rdnI7dPZgWAF7j0727ACvBFvzFHKlkU3MSXja3P/uFlhIY9NTI3IJvz4XEzTTwIqeGOjwc92KKuABlhO0XuFPg==",
+    "tendermint_validator_public_key": "YSGPTUyNyCb8+FxM008CKnhjo8HPdiirgAZYTtF7hT4=",
+    "tendermint_validator_address": "F9BC7362A69FF2B96391A3F927F181B552154C08",
+    "tendermint_validator_node_id": "C75BEA40B2C05486CC154CF07DE6DAEA6E694D77",
+    "tendermint_node_private_key": "WNE6BXxDxvNe8X7m5C7YNvrf17qFl0+V4X6t+q31+FOJnzD+Hv5HnyCPHnP8F04KstfXSff/FiQDKT4CEeBr4w==",
+    "vega_recovery_phrase": "fringe song flip option pilot end dinosaur media romance tired naive section caution large lock cost tired fitness level system jewel then venue thrive"
+  },
+  {
+    "node_index": 4,
+    "ethereum_private_key": "ff21e0afc665613b006181553aa2ca07a11fc03c219b7a49ce1d7b2d5b0cedf8",
+    "tendermint_validator_private_key": "E33LxhYa1TjcK3cPTjTZc0bASa5UfBFvLQAUdM0rBrYgvRFy8Ft7FjpI/u05UtG4dUcMGhDNImJMWz2r180Qxw==",
+    "tendermint_validator_public_key": "IL0RcvBbexY6SP7tOVLRuHVHDBoQzSJiTFs9q9fNEMc=",
+    "tendermint_validator_address": "406E0F51552B5C3C4C75142CA308EC57287494A3",
+    "tendermint_validator_node_id": "6E29D7E72B43F9021CBF65BC828E8EEF59D9C975",
+    "tendermint_node_private_key": "y8UsKIjR7uxhf4zGROxJPvkJhYuvu3V9LVgY3kb4y+SnYsPe5nx78v8Tfr5I23En6tl+Hvt6sHc+LVsoHgG+cA==",
+    "vega_recovery_phrase": "nice cargo reunion pole sense float fix have town warfare bracket laptop wrong exit arrest narrow filter during staff raise ceiling point father ivory"
+  },
+  {
+    "node_index": 5,
+    "ethereum_private_key": "1118388c3eb47c73a516db9b274ef89fc92f374366de5d75f67e4fe8a86f44b9",
+    "tendermint_validator_private_key": "lit8Y8IPV20ZYMtfvVMz6sYtWK1QuScnYLyJ/ILwkUA/BJVIGRcmCRq59V7uITUXEUMRAtLJWuXCPH29iImrOg==",
+    "tendermint_validator_public_key": "PwSVSBkXJgkaufVe7iE1FxFDEQLSyVrlwjx9vYiJqzo=",
+    "tendermint_validator_address": "AFF45C60E586AE1B070351E985FCE12710A13A26",
+    "tendermint_validator_node_id": "839D668813818ACB8E20F2008F630ECFB3E2BDF1",
+    "tendermint_node_private_key": "aGE4AeHrM75I9SWTywP5hJ9KHBeXt0dwm6rgp+4qwV3OxwX3b1U6IHdVOEl6VbdPEy7a+ccjcFnqcGka4bkgIw==",
+    "vega_recovery_phrase": "student green humor bitter angry impact liar act history van fabric family casino category net domain soul extend solution humor chase dolphin scheme rare"
+  },
+  {
+    "node_index": 6,
+    "ethereum_private_key": "e7fbe2c5067e2ee051a0233de0c60a916025ad30b44a6e9ad27ede0549f152f5",
+    "tendermint_validator_private_key": "SPENB54mI8dqjC8VDLulnDgmcbBX51iCyGHqdQQltzsC0BV2xqj6Ss2me7OaaSSQ556vMeEzLvX/D1ptSsH0lw==",
+    "tendermint_validator_public_key": "AtAVdsao+krNpnuzmmkkkOeerzHhMy71/w9abUrB9Jc=",
+    "tendermint_validator_address": "F1B6860BDC4697D6C6ECCD15FD951588C84A0644",
+    "tendermint_validator_node_id": "36E1BD0D7639F559ED322AC92EA2BF2498FE4F96",
+    "tendermint_node_private_key": "wncYDxS65zTcgjlX3cZaAD0PjQUzjxmB/cm1p0xZduSx/X7JNzIwyQZFi8dpWXFEUCkoAEb/0G60bXD+tM+Mdw==",
+    "vega_recovery_phrase": "throw cattle coast debris dynamic time tenant surround rack leaf old save insect uphold excess blush bread save fluid cotton fossil between diamond north"
+  },
+  {
+    "node_index": 7,
+    "ethereum_private_key": "acff9b9c3cdc4a75e9b4f836b092703154c6d55b15a6f113ebc73558909f86b5",
+    "tendermint_validator_private_key": "6zIZw7G26sDTBliVk9ovVDlPMMxu8UHBm1iHkAzJVWILjp9cTg6bXyxZvLKyP8hDKIRk9fLRrUZTkzA7xvnJlg==",
+    "tendermint_validator_public_key": "C46fXE4Om18sWbyysj/IQyiEZPXy0a1GU5MwO8b5yZY=",
+    "tendermint_validator_address": "AB35736F916CCE39DDBE0FC90F686BE5F4164F7A",
+    "tendermint_validator_node_id": "C68D68F6A2875AD2F023B7D73964ADAB1B29B3B5",
+    "tendermint_node_private_key": "jPfR2KH9w9+DDFFYxfvQFZF20RXJ2WySYenj7JEWmxocojI9oluwofq6LQWPaes+vhv3+jXYUSJtudFelUDG/w==",
+    "vega_recovery_phrase": "bounce general stable fashion friend strategy despair recall penalty hen tank course coconut thank verify alcohol fee shop buyer rifle carbon old feature slab"
+  },
+  {
+    "node_index": 8,
+    "ethereum_private_key": "f0b322603ea32ded3a9c8fa9e9dc450551872688f7887b8a19c0fc8c2b67a2e3",
+    "tendermint_validator_private_key": "wWy0ZjVJ7utZxHzzTzIJr2a4NSZP89YJrzCalF/pWxOihBBXpfYFtSZ7EZbHZCq04yjQ8Pi7/xbp3V98vpzhJw==",
+    "tendermint_validator_public_key": "ooQQV6X2BbUmexGWx2QqtOMo0PD4u/8W6d1ffL6c4Sc=",
+    "tendermint_validator_address": "A6E3A05BD986CC0529D30DCE96097D9FDCF31249",
+    "tendermint_validator_node_id": "E6A85AA5297C6FED86CDA732887812673B9D5925",
+    "tendermint_node_private_key": "w2I6fgnsAVXDDf96QxGx/7N/wIMxkriQxW2zldulAWA1gQvpLC6TXUbXK/wT4KdPdpF3Obqvd1Z+RUE/VKyNjw==",
+    "vega_recovery_phrase": "orient select hen total rude key drama measure auction galaxy settle buffalo wage cabin short invest identify bunker grocery total grit govern always series"
+  }
+]
