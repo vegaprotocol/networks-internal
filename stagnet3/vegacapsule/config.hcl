@@ -8,7 +8,7 @@ network "stagnet3" {
     chain_id   = "3"
     network_id = "3"
     # TODO: parametrize the infura secret 
-    endpoint   = "https://ropsten.infura.io/v3/63f0f9cb9e6d4c67aeb84d3a2134e719"
+    endpoint   = "https://ropsten.infura.io/v3/788bcc6c34e149c58999b7f6607338a6"
   }
 
   pre_start {

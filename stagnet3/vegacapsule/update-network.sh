@@ -85,6 +85,13 @@ sleep 3;
 echo "[INFO] importing validators keys to the networks";
 echo ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>";
 vegacapsule network keys import --keys-file-path  ./network.json --home-path ./home
+
+vegacapsule template node-sets \
+    --home-path ./home \
+    --path ./config/tendermint.validators.tmpl.toml \
+    --nodeset-group-name validators \
+    --type tendermint \
+    --update-network;
 echo "^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^";
 echo "";
 sleep 3;
