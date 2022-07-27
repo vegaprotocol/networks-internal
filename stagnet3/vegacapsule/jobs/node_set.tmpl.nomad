@@ -171,6 +171,11 @@ locals {
 		uri strip_prefix /playground
 		reverse_proxy http://localhost:3008
 	}
+  
+	# GraphQL (deprecated)
+	route /query {
+		reverse_proxy http://localhost:3008
+	}
 }
 
 (tendermintpaths) {
