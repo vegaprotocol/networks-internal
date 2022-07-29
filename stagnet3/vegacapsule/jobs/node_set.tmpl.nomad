@@ -4,10 +4,10 @@
  # Assumptions:
  #   - exec driver run tasks in isolation mode which implies:
  #       - processes, networks, files are isolated
- #       - task shares files with host only via volumes 
+ #       - task shares files with host only via volumes
  #
  # With raw_exec sometimes processes are orphaned by nomad and they are running without any control
- # More over there is no isolation for raw_exec. 
+ # More over there is no isolation for raw_exec.
  ##
 locals {
   caddy_version = "2.5.1"
@@ -93,7 +93,7 @@ locals {
       local.tendermint_artifacts,
       local.vega_artifacts,
       local.data_node_artifacts)
-  {{ else }} 
+  {{ else }}
     configuration_artifacts = merge(
       local.tendermint_artifacts,
       local.vega_artifacts,
@@ -101,109 +101,7 @@ locals {
       local.vega_validator_artifacts)
   {{ end }}
 
-  caddy_config = <<EOCF
-{
-  renew_interval 12h
-}
-
-(cors) {
-  @cors_preflight method OPTIONS
-  @cors header Origin {args.0}
-
-  handle @cors_preflight {
-    header Access-Control-Allow-Origin "{args.0}"
-    header Access-Control-Allow-Methods "GET, POST, PUT, PATCH, DELETE"
-    header Access-Control-Allow-Headers "*"
-    header Access-Control-Max-Age "3600"
-    respond "" 204
-  }
-
-  handle @cors {
-    header Access-Control-Allow-Origin "{args.0}"
-    header Access-Control-Expose-Headers "Link"
-  }
-}
-
-(corepaths) {
-	# (gRPC is direct to 3002)
-
-	# Prometheus
-	route /core/metrics {
-		uri strip_prefix /core
-		reverse_proxy http://localhost:2112
-	}
-
-	# REST
-	route /core/rest/* {
-		uri strip_prefix /core/rest
-		reverse_proxy http://localhost:3003
-	}
-
-  # REST (deprecated) Required for stats
-	route /* {
-		reverse_proxy http://localhost:3003
-	}
-}
-
-(datanodepaths) {
-	# GraphQL Playground
-	route /datanode/gql/playground {
-		uri strip_prefix /datanode/gql/playground
-		reverse_proxy http://localhost:3008
-	}
-	route /datanode/gql/playground/* {
-		uri strip_prefix /datanode/gql/playground
-		reverse_proxy http://localhost:3008
-	}
-	# GraphQL
-	route /datanode/gql/query {
-		uri strip_prefix /datanode/gql
-		reverse_proxy http://localhost:3008
-	}
-
-	# REST
-	route /datanode/rest/* {
-		uri strip_prefix /datanode/rest
-		reverse_proxy http://localhost:3009
-	}
-
-	route /playground/* {
-		uri strip_prefix /playground
-		reverse_proxy http://localhost:3008
-	}
-  
-	# GraphQL (deprecated)
-	route /query {
-		reverse_proxy http://localhost:3008
-	}
-}
-
-(tendermintpaths) {
-	route /tm {
-		uri strip_prefix /tm
-		reverse_proxy http://localhost:26657
-	}
-	route /tm/* {
-		uri strip_prefix /tm
-		reverse_proxy http://localhost:26657
-	}
-	# CORS headers for the Explorer
-	header /tm Access-Control-Allow-Origin *
-	header /tm Access-Control-Request-Method GET
-	header /tm/* Access-Control-Allow-Origin *
-	header /tm/* Access-Control-Request-Method GET
-}
-
-# Validators
-
-n0{{ $nodeIDX }}.stagnet3.vega.xyz:443 {
-  tls devops@vegaprotocol.io
-
-	import datanodepaths
-	import tendermintpaths
-	import corepaths
-}
-EOCF
+  caddy_config = replace(file("{path.folder}/../config/Caddyfile"), "{node_idx}", "{{ $nodeIDX }}")
 }
 
 job "{{ .Name }}" {
@@ -325,7 +223,7 @@ job "{{ .Name }}" {
         hook = "prestart"
         sidecar = false
       }
-      
+
       volume_mount {
         volume      = "vega_home_volume"
         destination = "local/vega"
@@ -349,7 +247,7 @@ job "{{ .Name }}" {
       // 1. No other option for set permissions for downloaded binary at the moment
       // Ref: https://github.com/hashicorp/nomad/issues/2625
       //
-      // 2. Because the task driver mounts the volume, it is not possible to have artifact, 
+      // 2. Because the task driver mounts the volume, it is not possible to have artifact,
       //    template, or dispatch_payload blocks write to a volume
       // Ref: https://www.nomadproject.io/docs/internals/filesystem#templates-artifacts-and-dispatch-payloads
       template {
@@ -430,7 +328,7 @@ job "{{ .Name }}" {
         memory_max = 12288
       }
     }
-    
+
     {{ if .DataNode }}
     task "data-node" {
       driver = "exec"
@@ -506,7 +404,7 @@ job "{{ .Name }}" {
           mv /local/vega/caddy/bin/caddy /tmp/caddy-tmp-bin || echo "OK"
 
           mkdir -p /local/vega/caddy/bin;
-          
+
           # Move downloaded binary to bin dir
           cp /local/tmp/caddy /local/vega/caddy/bin/caddy;
           chown vega:vega /local/vega/caddy/bin/caddy;
