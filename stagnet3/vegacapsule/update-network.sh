@@ -86,7 +86,7 @@ echo "[INFO] importing validators keys to the networks";
 echo ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>";
 vegacapsule network keys import --keys-file-path  ./network.json --home-path ./home
 
-vegacapsule template node-sets \
+vegacapsule template node-sets --with-merge \
     --home-path ./home \
     --path ./config/tendermint.validators.tmpl.toml \
     --nodeset-group-name validators \
@@ -116,8 +116,8 @@ echo ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>";
 vegacapsule network start --home-path ./home
 echo "^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^";
 
-# echo "[INFO] preparing multisig control"
-# echo ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>";
-# vegacapsule ethereum wait --home-path ./home --eth-address "ws://n02.pete-test.vega.xyz:8545"
-# vegacapsule ethereum multisig init --home-path ./home --eth-address "ws://n02.pete-test.vega.xyz:8545"
-# echo "^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^";
+# # echo "[INFO] preparing multisig control"
+# # echo ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>";
+# # vegacapsule ethereum wait --home-path ./home --eth-address "ws://n02.pete-test.vega.xyz:8545"
+# # vegacapsule ethereum multisig init --home-path ./home --eth-address "ws://n02.pete-test.vega.xyz:8545"
+# # echo "^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^";
