@@ -1,298 +1,337 @@
 {
-	"app_state": {
-	  "assets": {
-		"fBTC": {
-		  "min_lp_stake": "1",
-		  "decimals": 5,
-		  "name": "BTC (fake)",
-		  "symbol": "fBTC",
-		  "total_supply": "21000000",
-		  "source": {
-			"builtin_asset": {
-			  "max_faucet_amount_mint": "10000000000"
-			}
-		  }
-		},
-		"fDAI": {
-		  "min_lp_stake": "1",
-		  "decimals": 5,
-		  "name": "DAI (fake)",
-		  "symbol": "fDAI",
-		  "total_supply": "1000000000",
-		  "source": {
-			"builtin_asset": {
-			  "max_faucet_amount_mint": "10000000000"
-			}
-		  }
-		},
-		"fEURO": {
-		  "min_lp_stake": "1",
-		  "decimals": 5,
-		  "name": "EURO (fake)",
-		  "symbol": "fEURO",
-		  "total_supply": "1000000000",
-		  "source": {
-			"builtin_asset": {
-			  "max_faucet_amount_mint": "10000000000"
-			}
-		  }
-		},
-		"fUSDC": {
-		  "min_lp_stake": "1",
-		  "decimals": 5,
-		  "name": "USDC (fake)",
-		  "symbol": "fUSDC",
-		  "total_supply": "1000000000",
-		  "source": {
-			"builtin_asset": {
-			  "max_faucet_amount_mint": "1000000000000"
-			}
-		  }
-		},
-		"XYZalpha": {
-		  "min_lp_stake": "1",
-		  "decimals": 5,
-		  "name": "XYZ (α alpha)",
-		  "symbol": "XYZalpha",
-		  "total_supply": "1000000000",
-		  "source": {
-			"builtin_asset": {
-			  "max_faucet_amount_mint": "100000000000"
-			}
-		  }
-		},
-		"XYZbeta": {
-		  "min_lp_stake": "1",
-		  "decimals": 5,
-		  "name": "XYZ (β beta)",
-		  "symbol": "XYZbeta",
-		  "total_supply": "1000000000",
-		  "source": {
-			"builtin_asset": {
-			  "max_faucet_amount_mint": "100000000000"
-			}
-		  }
-		},
-		"XYZgamma": {
-		  "min_lp_stake": "1",
-		  "decimals": 5,
-		  "name": "XYZ (γ gamma)",
-		  "symbol": "XYZgamma",
-		  "total_supply": "1000000000",
-		  "source": {
-			"builtin_asset": {
-			  "max_faucet_amount_mint": "100000000000"
-			}
-		  }
-		},
-		"XYZdelta": {
-		  "min_lp_stake": "1",
-		  "decimals": 5,
-		  "name": "XYZ (δ delta)",
-		  "symbol": "XYZdelta",
-		  "total_supply": "1000000000",
-		  "source": {
-			"builtin_asset": {
-			  "max_faucet_amount_mint": "100000000000"
-			}
-		  }
-		},
-		"XYZepsilon": {
-		  "min_lp_stake": "1",
-		  "decimals": 5,
-		  "name": "XYZ (ε epsilon)",
-		  "symbol": "XYZepsilon",
-		  "total_supply": "1000000000",
-		  "source": {
-			"builtin_asset": {
-			  "max_faucet_amount_mint": "100000000000"
-			}
-		  }
-		},
-		"{{.GetVegaContractID "VEGA"}}": {
-			"min_lp_stake": "1",
-			"decimals": 18,
-			"name": "Vega (stagnet3)",
-			"symbol": "VEGA",
-			"total_supply": "64999723000000000000000000",
-			"source": {
-				"erc20": {
-				"contract_address": "{{.GetEthContractAddr "VEGA"}}"
-				}
-			}
-		},
-		"{{.GetVegaContractID "tBTC"}}": {
-			"min_lp_stake": "1",
-			"decimals": 5,
-			"name": "tBTC TEST",
-			"symbol": "tBTC",
-			"total_supply": "213000000000000000000000",
-			"source": {
-				"erc20": {
-				"contract_address": "{{.GetEthContractAddr "tBTC"}}"
-				}
-			}
-		},
-		"{{.GetVegaContractID "tDai"}}": {
-			"min_lp_stake": "1",
-			"decimals": 5,
-			"name": "tDAI TEST",
-			"symbol": "tDAI",
-			"total_supply": "12800000000000000000000000",
-			"source": {
-				"erc20": {
-				"contract_address": "{{.GetEthContractAddr "tDai"}}"
-				}
-			}
-		},
-		"{{.GetVegaContractID "tEURO"}}": {
-			"min_lp_stake": "1",
-			"decimals": 5,
-			"name": "tEURO TEST",
-			"symbol": "tEURO",
-			"total_supply": "6100000000000000000000000",
-			"source": {
-				"erc20": {
-				"contract_address": "{{.GetEthContractAddr "tEURO"}}"
-				}
-			}
-		},
-		"{{.GetVegaContractID "tUSDC"}}": {
-			"min_lp_stake": "1",
-			"decimals": 5,
-			"name": "tUSDC TEST",
-			"symbol": "tUSDC",
-			"total_supply": "8100000000000000000000000",
-			"source": {
-				"erc20": {
-				"contract_address": "{{.GetEthContractAddr "tUSDC"}}"
-				}
-			}
-		},
-		"{{.GetVegaContractID "WOZ"}}": {
-			"min_lp_stake": "1",
-			"decimals": 18,
-			"name": "Woz Token (Vega)",
-			"symbol": "WOZ",
-			"total_supply": "1000000000000000000000000000",
-			"source": {
-				"erc20": {
-				"contract_address": "{{.GetEthContractAddr "WOZ"}}"
-				}
-			}
-		},
-		"{{.GetVegaContractID "TIM"}}": {
-			"min_lp_stake": "1",
-			"decimals": 18,
-			"name": "Tim Token (Vega)",
-			"symbol": "TIM",
-			"total_supply": "1000000000000000000000000000",
-			"source": {
-				"erc20": {
-				"contract_address": "{{.GetEthContractAddr "TIM"}}"
-				}
-			}
-		},
-		"{{.GetVegaContractID "STE"}}": {
-			"min_lp_stake": "1",
-			"decimals": 18,
-			"name": "Steve Token (Vega)",
-			"symbol": "STE",
-			"total_supply": "1000000000000000000000000000",
-			"source": {
-				"erc20": {
-				"contract_address": "{{.GetEthContractAddr "STE"}}"
-				}
-			}
-		},
-		"{{.GetVegaContractID "LIQ"}}": {
-			"min_lp_stake": "1",
-			"decimals": 18,
-			"name": "Liquidity Reward Token (Vega)",
-			"symbol": "LIQ",
-			"total_supply": "1000000000000000000000000000",
-			"source": {
-				"erc20": {
-				"contract_address": "{{.GetEthContractAddr "LIQ"}}"
-				}
-			}
-		},
-		"{{.GetVegaContractID "MAK"}}": {
-			"min_lp_stake": "1",
-			"decimals": 18,
-			"name": "Maker Reward Token (Vega)",
-			"symbol": "MAK",
-			"total_supply": "1000000000000000000000000000",
-			"source": {
-				"erc20": {
-				"contract_address": "{{.GetEthContractAddr "MAK"}}"
-				}
-			}
-		},
-		"{{.GetVegaContractID "TAK"}}": {
-			"min_lp_stake": "1",
-			"decimals": 18,
-			"name": "Taker Reward Token (Vega)",
-			"symbol": "TAK",
-			"total_supply": "1000000000000000000000000000",
-			"source": {
-				"erc20": {
-				"contract_address": "{{.GetEthContractAddr "TAK"}}"
-				}
-			}
-		}
-	  },
-	  "network": {
-		"ReplayAttackThreshold": 30
-	  },
-	  "network_parameters": {
-      "blockchains.ethereumConfig": "{\"network_id\": \"{{ .NetworkID }}\", \"chain_id\": \"{{ .ChainID }}\", \"collateral_bridge_contract\": { \"address\": \"{{.GetEthContractAddr "erc20_bridge_1"}}\" }, \"confirmations\": 3, \"staking_bridge_contract\": { \"address\": \"{{.GetEthContractAddr "staking_bridge"}}\", \"deployment_block_height\": 0}, \"token_vesting_contract\": { \"address\": \"{{.GetEthContractAddr "erc20_vesting"}}\", \"deployment_block_height\": 0 }, \"multisig_control_contract\": { \"address\": \"{{.GetEthContractAddr "MultisigControl"}}\", \"deployment_block_height\": 0 }}",
-		"governance.proposal.asset.minClose": "2s",
-		"governance.proposal.asset.minEnact": "2s",
-		"governance.proposal.asset.requiredParticipation": "0.00000000000000000000000015",
-		"governance.proposal.market.minClose": "2s",
-		"governance.proposal.market.minEnact": "2s",
-		"governance.proposal.market.requiredParticipation": "0.00000000000000000000000015",
-		"governance.proposal.updateMarket.minClose": "2s",
-		"governance.proposal.updateMarket.minEnact": "2s",
-		"governance.proposal.updateMarket.requiredParticipation": "0.00000000000000000000000015",
-		"governance.proposal.updateNetParam.minClose": "2s",
-		"governance.proposal.updateNetParam.minEnact": "2s",
-		"governance.proposal.updateNetParam.requiredParticipation": "0.00000000000000000000000015",
-		"market.auction.minimumDuration": "3s",
-		"market.fee.factors.infrastructureFee": "0.001",
-		"market.fee.factors.makerFee": "0.004",
-		"market.monitor.price.updateFrequency": "1s",
-		"market.liquidity.stakeToCcySiskas": "0.3",
+  "app_state": {
+    "assets": {
+    "fBTC": {
+      "min_lp_stake": "1",
+      "decimals": 5,
+      "name": "BTC (fake)",
+      "symbol": "fBTC",
+      "total_supply": "21000000",
+      "source": {
+      "builtin_asset": {
+        "max_faucet_amount_mint": "10000000000"
+      }
+      }
+    },
+    "fDAI": {
+      "min_lp_stake": "1",
+      "decimals": 5,
+      "name": "DAI (fake)",
+      "symbol": "fDAI",
+      "total_supply": "1000000000",
+      "source": {
+      "builtin_asset": {
+        "max_faucet_amount_mint": "10000000000"
+      }
+      }
+    },
+    "fEURO": {
+      "min_lp_stake": "1",
+      "decimals": 5,
+      "name": "EURO (fake)",
+      "symbol": "fEURO",
+      "total_supply": "1000000000",
+      "source": {
+      "builtin_asset": {
+        "max_faucet_amount_mint": "10000000000"
+      }
+      }
+    },
+    "fUSDC": {
+      "min_lp_stake": "1",
+      "decimals": 5,
+      "name": "USDC (fake)",
+      "symbol": "fUSDC",
+      "total_supply": "1000000000",
+      "source": {
+      "builtin_asset": {
+        "max_faucet_amount_mint": "1000000000000"
+      }
+      }
+    },
+    "XYZalpha": {
+      "min_lp_stake": "1",
+      "decimals": 5,
+      "name": "XYZ (α alpha)",
+      "symbol": "XYZalpha",
+      "total_supply": "1000000000",
+      "source": {
+      "builtin_asset": {
+        "max_faucet_amount_mint": "100000000000"
+      }
+      }
+    },
+    "XYZbeta": {
+      "min_lp_stake": "1",
+      "decimals": 5,
+      "name": "XYZ (β beta)",
+      "symbol": "XYZbeta",
+      "total_supply": "1000000000",
+      "source": {
+      "builtin_asset": {
+        "max_faucet_amount_mint": "100000000000"
+      }
+      }
+    },
+    "XYZgamma": {
+      "min_lp_stake": "1",
+      "decimals": 5,
+      "name": "XYZ (γ gamma)",
+      "symbol": "XYZgamma",
+      "total_supply": "1000000000",
+      "source": {
+      "builtin_asset": {
+        "max_faucet_amount_mint": "100000000000"
+      }
+      }
+    },
+    "XYZdelta": {
+      "min_lp_stake": "1",
+      "decimals": 5,
+      "name": "XYZ (δ delta)",
+      "symbol": "XYZdelta",
+      "total_supply": "1000000000",
+      "source": {
+      "builtin_asset": {
+        "max_faucet_amount_mint": "100000000000"
+      }
+      }
+    },
+    "XYZepsilon": {
+      "min_lp_stake": "1",
+      "decimals": 5,
+      "name": "XYZ (ε epsilon)",
+      "symbol": "XYZepsilon",
+      "total_supply": "1000000000",
+      "source": {
+      "builtin_asset": {
+        "max_faucet_amount_mint": "100000000000"
+      }
+      }
+    },
+    "{{.GetVegaContractID "VEGA"}}": {
+      "min_lp_stake": "1",
+      "decimals": 18,
+      "name": "Vega (stagnet3)",
+      "symbol": "VEGA",
+      "total_supply": "64999723000000000000000000",
+      "source": {
+        "erc20": {
+        "contract_address": "{{.GetEthContractAddr "VEGA"}}"
+        }
+      }
+    },
+    "{{.GetVegaContractID "tBTC"}}": {
+      "min_lp_stake": "1",
+      "decimals": 5,
+      "name": "tBTC TEST",
+      "symbol": "tBTC",
+      "total_supply": "213000000000000000000000",
+      "source": {
+        "erc20": {
+        "contract_address": "{{.GetEthContractAddr "tBTC"}}"
+        }
+      }
+    },
+    "{{.GetVegaContractID "tDai"}}": {
+      "min_lp_stake": "1",
+      "decimals": 5,
+      "name": "tDAI TEST",
+      "symbol": "tDAI",
+      "total_supply": "12800000000000000000000000",
+      "source": {
+        "erc20": {
+        "contract_address": "{{.GetEthContractAddr "tDai"}}"
+        }
+      }
+    },
+    "{{.GetVegaContractID "tEURO"}}": {
+      "min_lp_stake": "1",
+      "decimals": 5,
+      "name": "tEURO TEST",
+      "symbol": "tEURO",
+      "total_supply": "6100000000000000000000000",
+      "source": {
+        "erc20": {
+        "contract_address": "{{.GetEthContractAddr "tEURO"}}"
+        }
+      }
+    },
+    "{{.GetVegaContractID "tUSDC"}}": {
+      "min_lp_stake": "1",
+      "decimals": 5,
+      "name": "tUSDC TEST",
+      "symbol": "tUSDC",
+      "total_supply": "8100000000000000000000000",
+      "source": {
+        "erc20": {
+        "contract_address": "{{.GetEthContractAddr "tUSDC"}}"
+        }
+      }
+    },
+    "{{.GetVegaContractID "WOZ"}}": {
+      "min_lp_stake": "1",
+      "decimals": 18,
+      "name": "Woz Token (Vega)",
+      "symbol": "WOZ",
+      "total_supply": "1000000000000000000000000000",
+      "source": {
+        "erc20": {
+        "contract_address": "{{.GetEthContractAddr "WOZ"}}"
+        }
+      }
+    },
+    "{{.GetVegaContractID "TIM"}}": {
+      "min_lp_stake": "1",
+      "decimals": 18,
+      "name": "Tim Token (Vega)",
+      "symbol": "TIM",
+      "total_supply": "1000000000000000000000000000",
+      "source": {
+        "erc20": {
+        "contract_address": "{{.GetEthContractAddr "TIM"}}"
+        }
+      }
+    },
+    "{{.GetVegaContractID "STE"}}": {
+      "min_lp_stake": "1",
+      "decimals": 18,
+      "name": "Steve Token (Vega)",
+      "symbol": "STE",
+      "total_supply": "1000000000000000000000000000",
+      "source": {
+        "erc20": {
+        "contract_address": "{{.GetEthContractAddr "STE"}}"
+        }
+      }
+    },
+    "{{.GetVegaContractID "LIQ"}}": {
+      "min_lp_stake": "1",
+      "decimals": 18,
+      "name": "Liquidity Reward Token (Vega)",
+      "symbol": "LIQ",
+      "total_supply": "1000000000000000000000000000",
+      "source": {
+        "erc20": {
+        "contract_address": "{{.GetEthContractAddr "LIQ"}}"
+        }
+      }
+    },
+    "{{.GetVegaContractID "MAK"}}": {
+      "min_lp_stake": "1",
+      "decimals": 18,
+      "name": "Maker Reward Token (Vega)",
+      "symbol": "MAK",
+      "total_supply": "1000000000000000000000000000",
+      "source": {
+        "erc20": {
+        "contract_address": "{{.GetEthContractAddr "MAK"}}"
+        }
+      }
+    },
+    "{{.GetVegaContractID "TAK"}}": {
+      "min_lp_stake": "1",
+      "decimals": 18,
+      "name": "Taker Reward Token (Vega)",
+      "symbol": "TAK",
+      "total_supply": "1000000000000000000000000000",
+      "source": {
+        "erc20": {
+        "contract_address": "{{.GetEthContractAddr "TAK"}}"
+        }
+      }
+    }
+    },
+    "network": {
+    "ReplayAttackThreshold": 30
+    },
+    "network_parameters": {
+    "blockchains.ethereumConfig": "{\"network_id\": \"{{ .NetworkID }}\", \"chain_id\": \"{{ .ChainID }}\", \"collateral_bridge_contract\": { \"address\": \"{{.GetEthContractAddr "erc20_bridge_1"}}\" }, \"confirmations\": 3, \"staking_bridge_contract\": { \"address\": \"{{.GetEthContractAddr "staking_bridge"}}\", \"deployment_block_height\": 0}, \"token_vesting_contract\": { \"address\": \"{{.GetEthContractAddr "erc20_vesting"}}\", \"deployment_block_height\": 0 }, \"multisig_control_contract\": { \"address\": \"{{.GetEthContractAddr "MultisigControl"}}\", \"deployment_block_height\": 0 }}",
+    "governance.proposal.asset.maxClose": "8760h0m0s",
+    "governance.proposal.asset.maxEnact": "8760h0m0s",
+    "governance.proposal.asset.minClose": "1m0s",
+    "governance.proposal.asset.minEnact": "2m0s",
+    "governance.proposal.asset.minProposerBalance": "1",
+    "governance.proposal.asset.minVoterBalance": "1",
+    "governance.proposal.asset.requiredMajority": "0.66",
+    "governance.proposal.asset.requiredParticipation": "0.5",
+    "governance.proposal.market.maxClose": "8760h0m0s",
+    "governance.proposal.market.maxEnact": "8760h0m0s",
+    "governance.proposal.market.minClose": "1m0s",
+    "governance.proposal.market.minEnact": "2m0s",
+    "governance.proposal.market.minProposerBalance": "1",
+		"governance.proposal.market.minVoterBalance": "1",
+		"governance.proposal.market.requiredMajority": "0.66",
+    "governance.proposal.market.requiredParticipation": "0.0",
+		"governance.proposal.updateMarket.maxClose": "8760h0m0s",
+		"governance.proposal.updateMarket.maxEnact": "8760h0m0s",
+    "governance.proposal.updateMarket.minClose": "1h0m0s",
+    "governance.proposal.updateMarket.minEnact": "1h0m0s",
+		"governance.proposal.updateMarket.minProposerBalance": "1",
+		"governance.proposal.updateMarket.minVoterBalance": "1",
+		"governance.proposal.updateMarket.requiredMajority": "0.66",
+    "governance.proposal.updateMarket.requiredParticipation": "0.0",
+		"governance.proposal.updateNetParam.maxClose": "8760h0m0s",
+		"governance.proposal.updateNetParam.maxEnact": "8760h0m0s",
+    "governance.proposal.updateNetParam.minClose": "1m0s",
+    "governance.proposal.updateNetParam.minEnact": "2m0s",
+		"governance.proposal.updateNetParam.minProposerBalance": "1",
+		"governance.proposal.updateNetParam.minVoterBalance": "1",
+		"governance.proposal.updateNetParam.requiredMajority": "0.5",
+    "governance.proposal.updateNetParam.requiredParticipation": "0.0",
+		"market.auction.maximumDuration": "168h0m0s",
+    "market.auction.minimumDuration": "10s",
+    "market.fee.factors.infrastructureFee": "0.0005",
+    "market.fee.factors.makerFee": "0.0002",
+		"market.liquidity.bondPenaltyParameter": "0.00001",
+		"market.liquidity.maximumLiquidityFeeFactorLevel": "1",
+		"market.liquidity.minimum.probabilityOfTrading.lpOrders": "1e-8",
+		"market.liquidity.probabilityOfTrading.tau.scaling": "1",
+		"market.liquidity.providers.fee.distributionTimeStep": "60m",
+		"market.liquidity.stakeToCcySiskas": "1.0",
 		"market.liquidity.targetstake.triggering.ratio": "0.7",
-		"network.checkpoint.timeElapsedBetweenCheckpoints": "10s",
-		"reward.asset": "{{.GetVegaContractID "VEGA"}}",
-		"reward.staking.delegation.competitionLevel": "3.1",
-		"reward.staking.delegation.delegatorShare": "0.883",
-		"reward.staking.delegation.maxPayoutPerParticipant": "700000000000000000000",
-		"reward.staking.delegation.minimumValidatorStake": "3000000000000000000000",
-		"reward.staking.delegation.payoutDelay": "5m",
-		"reward.staking.delegation.payoutFraction": "0.007",
-		"spam.protection.delegation.min.tokens": "1000000000000000000",
-		"spam.protection.max.delegations": "390",
-		"spam.protection.max.proposals": "100",
-		"spam.protection.max.votes": "100",
-		"spam.protection.proposal.min.tokens": "1000000000000000000",
-		"spam.protection.voting.min.tokens": "1000000000000000000",
-		"validators.delegation.minAmount": "100000000000000000",
-		"validators.epoch.length": "5s",
-		"validators.vote.required": "0.67"
-	  },
-	  "network_limits": {
-		"propose_asset_enabled": true,
-		"propose_asset_enabled_from": "2021-09-01T00:00:00Z",
-		"propose_market_enabled": true,
-		"propose_market_enabled_from": "2021-09-01T00:00:00Z"
-	  }
-	},
-	"consensus_params": {
-	  "block": {
-		"time_iota_ms": "1"
-	  }
-	}
+		"market.liquidityProvision.shapes.maxSize": "100",
+		"market.liquidity.probabilityOfTrading.tau.scaling": "10.0",
+		"market.margin.scalingFactors": "{\"search_level\": 1.1, \"initial_margin\": 2.5, \"collateral_release\": 2.7}",
+		"market.monitor.price.defaultParameters": "{\"triggers\": [{\"auction_extension\": 300, \"horizon\": 43200, \"probability\": \"0.9999999\"}] }",
+    "market.monitor.price.updateFrequency": "1s",
+		"market.stake.target.scalingFactor": "0.1",
+		"market.stake.target.timeWindow": "1h0m0s",
+		"market.value.windowLength": "168h0m0s",
+		"network.checkpoint.marketFreezeDate": "never",
+		"network.checkpoint.networkEndOfLifeDate": "never",
+		"network.checkpoint.timeElapsedBetweenCheckpoints": "1m",
+    "reward.asset": "{{.GetVegaContractID "VEGA"}}",
+    "reward.staking.delegation.competitionLevel": "3.1",
+    "reward.staking.delegation.delegatorShare": "0.883",
+		"reward.staking.delegation.maxPayoutPerEpoch": "7000000000000000000000",
+    "reward.staking.delegation.maxPayoutPerParticipant": "700000000000000000000",
+    "reward.staking.delegation.minimumValidatorStake": "3000000000000000000000",
+		"reward.staking.delegation.minValidators": "3",
+    "reward.staking.delegation.payoutDelay": "15m",
+    "reward.staking.delegation.payoutFraction": "0.007",
+		"spam.pow.numberOfTxPerBlock": "100",
+    "spam.protection.delegation.min.tokens": "1000000000000000000",
+    "spam.protection.max.delegations": "390",
+    "spam.protection.max.proposals": "100",
+    "spam.protection.max.votes": "100",
+    "spam.protection.proposal.min.tokens": "1000000000000000000",
+    "spam.protection.voting.min.tokens": "1000000000000000000",
+    "validators.delegation.minAmount": "100000000000000000",
+    "validators.epoch.length": "5m",
+    "validators.vote.required": "0.67"
+    },
+    "network_limits": {
+    "bootstrap_block_count": 0,
+    "propose_asset_enabled": true,
+    "propose_asset_enabled_from": "2000-01-01T00:00:00Z",
+    "propose_market_enabled": true,
+    "propose_market_enabled_from": "2000-01-01T00:00:00Z"
+    }
+  },
+  "consensus_params": {
+    "block": {
+    "time_iota_ms": "1"
+    }
+  }
 }
