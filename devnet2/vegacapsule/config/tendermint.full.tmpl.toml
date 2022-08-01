@@ -1,0 +1,38 @@
+log-level = "debug"
+
+proxy-app = "tcp://127.0.0.1:26608"
+# TODO: consider using moniker = "{ node_domain }", and generate node_domain in higher level.
+moniker = "n0{{ add .NodeNumber 1 }}.devnet2.vega.xyz"
+
+[rpc]
+  laddr = "tcp://0.0.0.0:26657"
+  unsafe = true
+  cors-allowed-origins = ["*"]
+  cors-allowed-methods = ["HEAD", "GET", "POST", ]
+  cors-allowed-headers = ["Origin", "Accept", "Content-Type", "X-Requested-With", "X-Server-Time", ]
+
+[p2p]
+  laddr = "tcp://0.0.0.0:26656"
+  external-address = "n0{{ add .NodeNumber 1 }}.devnet2.vega.xyz:26656"
+  addr-book-strict = false
+  max-packet-msg-payload-size = 4096
+  pex = false
+  allow-duplicate-ip = true
+  # consider replacing with something like persistent-peers = "{ node-$i-persistent-peers }"
+  persistent-peers = "{{- range $i, $peer := .NodePeers -}}
+	  {{- if ne $i 0 }},{{end -}}
+	  {{- $peer.ID}}@n0{{ add $peer.Index 1 }}.devnet2.vega.xyz:26656
+  {{- end -}}"
+
+[mempool]
+  size = 10000
+  cache-size = 20000
+
+[consensus]
+  skip-timeout-commit = true
+
+[instrumentation]
+prometheus = true
+prometheus-listen-addr = ":26661"
+max-open-connections = 3
+namespace = "tendermint"
