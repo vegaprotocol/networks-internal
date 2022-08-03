@@ -1,91 +1,61 @@
 {
-  renew_interval 12h
+	renew_interval 12h
 }
 
 (cors) {
-  @cors_preflight method OPTIONS
-  @cors header Origin {args.0}
+	@cors_preflight method OPTIONS
+	@cors header Origin {args.0}
 
-  handle @cors_preflight {
-    header Access-Control-Allow-Origin "{args.0}"
-    header Access-Control-Allow-Methods "GET, POST, PUT, PATCH, DELETE"
-    header Access-Control-Allow-Headers "*"
-    header Access-Control-Max-Age "3600"
-    respond "" 204
-  }
+	handle @cors_preflight {
+		header Access-Control-Allow-Origin "{args.0}"
+		header Access-Control-Allow-Methods "GET, POST, PUT, PATCH, DELETE"
+		header Access-Control-Allow-Headers "*"
+		header Access-Control-Max-Age "3600"
+		respond "" 204
+	}
 
-  handle @cors {
-    header Access-Control-Allow-Origin "{args.0}"
-    header Access-Control-Expose-Headers "Link"
-  }
+	handle @cors {
+		header Access-Control-Allow-Origin "{args.0}"
+		header Access-Control-Expose-Headers "Link"
+	}
 }
 
 (corepaths) {
+	log
 	# (gRPC is direct to 3002)
-
-	# Prometheus (DEPRECATED)
-	route /core/metrics {
-		uri strip_prefix /core
-		reverse_proxy http://localhost:2112
-	}
-
-	# REST (DEPRECATED)
-	route /core/rest/* {
-		uri strip_prefix /core/rest
-		reverse_proxy http://localhost:3003
-	}
 
 	route /* {
 		reverse_proxy http://localhost:3003
 	}
-
-	route /metrics {
-		uri strip_prefix /core
-		reverse_proxy http://localhost:2112
-	}
-
 }
 
 (datanodepaths) {
-	# GraphQL Playground
-	route /gql/playground {
-		uri strip_prefix /gql/playground
-		reverse_proxy http://localhost:3008
-	}
-	route /gql/playground/* {
-		uri strip_prefix /gql/playground
-		reverse_proxy http://localhost:3008
-	}
+	log
 	# GraphQL
-	route /gql/query {
-		uri strip_prefix /gql
+	route /graphql {
+		uri strip_prefix /graphql
+		reverse_proxy http://localhost:3008
+	}
+	route /graphql/* {
+		uri strip_prefix /graphql
+		reverse_proxy http://localhost:3008
+	}
+	route /query {
 		reverse_proxy http://localhost:3008
 	}
 
 	# REST
 	route /* {
-		uri strip_prefix /
 		reverse_proxy http://localhost:3009
-	}
-
-	route /playground/* {
-		uri strip_prefix /playground
-		reverse_proxy http://localhost:3008
-	}
-  
-	# GraphQL (deprecated)
-	route /query {
-		reverse_proxy http://localhost:3008
 	}
 }
 
 (tendermintpaths) {
+	log
 	route / {
-		uri strip_prefix /
 		reverse_proxy http://localhost:26657
 	}
 	route /* {
-		uri strip_prefix /
 		reverse_proxy http://localhost:26657
 	}
 	# CORS headers for the Explorer
@@ -98,16 +68,16 @@
 # Validators
 
 n0{node_idx}.stagnet3.vega.xyz:443 {
-  tls devops@vegaprotocol.io
+	tls devops@vegaprotocol.io
 	import corepaths
 }
 
 api.n0{node_idx}.stagnet3.vega.xyz:443 {
-  tls devops@vegaprotocol.io
+	tls devops@vegaprotocol.io
 	import datanodepaths
 }
 
 tm.n0{node_idx}.stagnet3.vega.xyz:443 {
-  tls devops@vegaprotocol.io
-  import tendermintpaths
+	tls devops@vegaprotocol.io
+	import tendermintpaths
 }
