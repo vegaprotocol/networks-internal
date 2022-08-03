@@ -21,6 +21,7 @@
 }
 
 (corepaths) {
+	log
 	# (gRPC is direct to 3002)
 
 	route /* {
@@ -29,6 +30,7 @@
 }
 
 (datanodepaths) {
+	log
 	# GraphQL
 	route /graphql {
 		uri strip_prefix /graphql
@@ -49,6 +51,7 @@
 }
 
 (tendermintpaths) {
+	log
 	route / {
 		reverse_proxy http://localhost:26657
 	}
