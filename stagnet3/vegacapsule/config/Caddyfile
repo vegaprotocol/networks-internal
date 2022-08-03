@@ -23,69 +23,36 @@
 (corepaths) {
 	# (gRPC is direct to 3002)
 
-	# Prometheus (DEPRECATED)
-	route /core/metrics {
-		uri strip_prefix /core
-		reverse_proxy http://localhost:2112
-	}
-
-	# REST (DEPRECATED)
-	route /core/rest/* {
-		uri strip_prefix /core/rest
-		reverse_proxy http://localhost:3003
-	}
-
 	route /* {
 		reverse_proxy http://localhost:3003
 	}
-
-	route /metrics {
-		uri strip_prefix /core
-		reverse_proxy http://localhost:2112
-	}
-
 }
 
 (datanodepaths) {
-	# GraphQL Playground
-	route /gql/playground {
-		uri strip_prefix /gql/playground
-		reverse_proxy http://localhost:3008
-	}
-	route /gql/playground/* {
-		uri strip_prefix /gql/playground
-		reverse_proxy http://localhost:3008
-	}
 	# GraphQL
-	route /gql/query {
-		uri strip_prefix /gql
+	route /graphql {
+		uri strip_prefix /graphql
+		reverse_proxy http://localhost:3008
+	}
+	route /graphql/* {
+		uri strip_prefix /graphql
+		reverse_proxy http://localhost:3008
+	}
+	route /query {
 		reverse_proxy http://localhost:3008
 	}
 
 	# REST
 	route /* {
-		uri strip_prefix /
 		reverse_proxy http://localhost:3009
-	}
-
-	route /playground/* {
-		uri strip_prefix /playground
-		reverse_proxy http://localhost:3008
-	}
-  
-	# GraphQL (deprecated)
-	route /query {
-		reverse_proxy http://localhost:3008
 	}
 }
 
 (tendermintpaths) {
 	route / {
-		uri strip_prefix /
 		reverse_proxy http://localhost:26657
 	}
 	route /* {
-		uri strip_prefix /
 		reverse_proxy http://localhost:26657
 	}
 	# CORS headers for the Explorer
