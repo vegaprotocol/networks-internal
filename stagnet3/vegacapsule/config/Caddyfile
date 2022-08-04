@@ -75,10 +75,10 @@
 		reverse_proxy http://localhost:26657
 	}
 	# CORS headers for the Explorer
-	header / Access-Control-Allow-Origin *
-	header / Access-Control-Request-Method GET
-	header /* Access-Control-Allow-Origin *
-	header /* Access-Control-Request-Method GET
+	# header / Access-Control-Allow-Origin *
+	# header / Access-Control-Request-Method GET
+	# header /* Access-Control-Allow-Origin *
+	# header /* Access-Control-Request-Method GET
 }
 
 # Validators
