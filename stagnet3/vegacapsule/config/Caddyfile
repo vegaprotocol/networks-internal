@@ -1,45 +1,62 @@
 {
-	renew_interval 12h
+  renew_interval 12h
 }
 
 (cors) {
-	@cors_preflight method OPTIONS
-	@cors header Origin {args.0}
+  @cors_preflight method OPTIONS
+  @cors header Origin {args.0}
 
-	handle @cors_preflight {
-		header Access-Control-Allow-Origin "{args.0}"
-		header Access-Control-Allow-Methods "GET, POST, PUT, PATCH, DELETE"
-		header Access-Control-Allow-Headers "*"
-		header Access-Control-Max-Age "3600"
-		respond "" 204
-	}
+  handle @cors_preflight {
+    header Access-Control-Allow-Origin "{args.0}"
+    header Access-Control-Allow-Methods "GET, POST, PUT, PATCH, DELETE"
+    header Access-Control-Allow-Headers "*"
+    header Access-Control-Max-Age "3600"
+    respond "" 204
+  }
 
-	handle @cors {
-		header Access-Control-Allow-Origin "{args.0}"
-		header Access-Control-Expose-Headers "Link"
-	}
+  handle @cors {
+    header Access-Control-Allow-Origin "{args.0}"
+    header Access-Control-Expose-Headers "Link"
+  }
 }
 
 (corepaths) {
-	log
 	# (gRPC is direct to 3002)
+
+	# Prometheus (DEPRECATED)
+	route /core/metrics {
+		uri strip_prefix /core
+		reverse_proxy http://localhost:2112
+	}
+
+	# REST (DEPRECATED)
+	route /core/rest/* {
+		uri strip_prefix /core/rest
+		reverse_proxy http://localhost:3003
+	}
 
 	route /* {
 		reverse_proxy http://localhost:3003
 	}
+
+	route /metrics {
+		uri strip_prefix /core
+		reverse_proxy http://localhost:2112
+	}
+
 }
 
 (datanodepaths) {
-	log
-	# GraphQL
+	# GraphQL Playground
 	route /graphql {
 		uri strip_prefix /graphql
 		reverse_proxy http://localhost:3008
 	}
-	route /graphql/* {
-		uri strip_prefix /graphql
-		reverse_proxy http://localhost:3008
-	}
+        route /graphql/* {
+                uri strip_prefix /graphql
+                reverse_proxy http://localhost:3008
+        }
+	# GraphQL
 	route /query {
 		reverse_proxy http://localhost:3008
 	}
@@ -51,7 +68,6 @@
 }
 
 (tendermintpaths) {
-	log
 	route / {
 		reverse_proxy http://localhost:26657
 	}
@@ -67,17 +83,17 @@
 
 # Validators
 
-n0{node_idx}.stagnet3.vega.xyz:443 {
-	tls devops@vegaprotocol.io
+n01.stagnet3.vega.xyz:443 {
+  tls devops@vegaprotocol.io
 	import corepaths
 }
 
-api.n0{node_idx}.stagnet3.vega.xyz:443 {
-	tls devops@vegaprotocol.io
+api.n01.stagnet3.vega.xyz:443 {
+  tls devops@vegaprotocol.io
 	import datanodepaths
 }
 
-tm.n0{node_idx}.stagnet3.vega.xyz:443 {
-	tls devops@vegaprotocol.io
-	import tendermintpaths
+tm.n01.stagnet3.vega.xyz:443 {
+  tls devops@vegaprotocol.io
+  import tendermintpaths
 }
