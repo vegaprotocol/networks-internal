@@ -25,7 +25,7 @@ network "stagnet3" {
     config_templates {
       vega_file       = "./config/vega.full.tmpl.toml"
       data_node_file  = "./config/data_node.full.tmpl.toml"
-      tendermint_file = "./config/tendermint.full.tmpl.toml"
+      tendermint_file = "./config/tendermint.common.tmpl.toml"
     }
 
     // remote_command_runner {
@@ -55,7 +55,7 @@ network "stagnet3" {
 
     config_templates {
       vega_file       = "./config/vega.validators.tmpl.toml"
-      tendermint_file = "./config/tendermint.validators.tmpl.toml"
+      tendermint_file = "./config/tendermint.common.tmpl.toml"
     }
 
     // remote_command_runner {

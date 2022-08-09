@@ -8,12 +8,14 @@
  #
  # With raw_exec sometimes processes are orphaned by nomad and they are running without any control
  # More over there is no isolation for raw_exec.
- ##
+ #
 locals {
   caddy_version = "2.5.1"
   // TODO Remove it and move it to the role
-  aws_access_key_id = "AKIAVFM72G3TWXHWEFNB"
-  aws_access_key_secret = "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"
+  aws_access_key_id = "{{ env "AWS_ACCESS_KEY_ID" }}"
+  aws_access_key_secret = "{{ env "AWS_SECRET_ACCESS_KEY" }}"
+  aws_region = "{{ env "AWS_REGION" }}"
+  s3_bucket_name = "{{ env "S3_BUCKET_NAME" }}"
 
   binaries_artifacts = {
     // "/tmp/local/vega/bin/vega" = {
@@ -21,18 +23,18 @@ locals {
     //   mode = "file"
     // }
     // "/tmp/local/vega/bin/data-node" = {
-    //   path = ""https://github.com/vegaprotocol/data-node/releases/download/v0.52.0/data-node-amd64"" # Temp binary with unsafe_reset_all
+    //   path = "https://github.com/vegaprotocol/data-node/releases/download/v0.53.0/data-node-linux-amd64"
     //   mode = "file"
     // }
   }
 
   s3_binaries_artifacts = {
     "/tmp/local/vega/bin/vega" = {
-      path = "vegacapsule-test/bin/vega-linux-amd64-ee672288"
+      path = "bin/vega-linux-amd64-ee672288"
       mode = "file"
     }
     "/tmp/local/vega/bin/data-node" = {
-      path = "vegacapsule-test/bin/data-node-linux-amd64-793e7cdb"
+      path = "bin/data-node-linux-amd64-793e7cdb"
       mode = "file"
     }
   }
@@ -179,13 +181,14 @@ job "{{ .Name }}" {
         for_each = local.s3_binaries_artifacts
 
         content {
-          source = format("s3::https://s3.amazonaws.com/%s", artifact.value.path)
+          source = format("s3::https://s3-%s.amazonaws.com/%s/%s", local.aws_region, local.s3_bucket_name, artifact.value.path)
           destination = artifact.key
           mode = lookup(artifact.value, "mode", "any")
 
           options {
             aws_access_key_id     = local.aws_access_key_id
             aws_access_key_secret = local.aws_access_key_secret
+            region = local.aws_region
           }
         }
       }
@@ -233,13 +236,14 @@ job "{{ .Name }}" {
         for_each = local.configuration_artifacts
 
         content {
-          source = format("s3::https://s3.amazonaws.com/vegacapsule-test/%s", artifact.value.path)
+          source = format("s3::https://s3-%s.amazonaws.com/%s/%s", local.aws_region, local.s3_bucket_name, artifact.value.path)
           destination = artifact.key
           mode = lookup(artifact.value, "mode", "any")
 
           options {
             aws_access_key_id     = local.aws_access_key_id
             aws_access_key_secret = local.aws_access_key_secret
+            region = local.aws_region
           }
         }
       }
