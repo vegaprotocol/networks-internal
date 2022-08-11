@@ -1,11 +1,12 @@
 {
-  "genesis_time": "2022-08-11T02:28:58.816724105Z",
-  "chain_id": "test-chain-5D0zUo",
+  "genesis_time": "2022-08-11T13:26:44.626005588Z",
+  "chain_id": "test-chain-EgNKHL",
   "initial_height": "1",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
-      "max_gas": "-1"
+      "max_gas": "-1",
+      "time_iota_ms": "1"
     },
     "evidence": {
       "max_age_num_blocks": "100000",
@@ -17,9 +18,7 @@
         "ed25519"
       ]
     },
-    "version": {
-      "app_version": "0"
-    }
+    "version": {}
   },
   "validators": [
     {
@@ -358,7 +357,7 @@
       "propose_market_enabled_from": "2000-01-01T00:00:00Z"
     },
     "network_parameters": {
-      "blockchains.ethereumConfig": "{\"network_id\": \"3\", \"chain_id\": \"3\", \"collateral_bridge_contract\": { \"address\": \"0x5F0Aa66E2E2662bf0DC30c23e776a11B89142B36\" }, \"confirmations\": 3, \"staking_bridge_contract\": { \"address\": \"0xA7298dbC0C0Df4739Ca6a5E5440577cC39f37222\", \"deployment_block_height\": 0}, \"token_vesting_contract\": { \"address\": \"0x0\", \"deployment_block_height\": 0 }, \"multisig_control_contract\": { \"address\": \"0x0a432BBc9A7aBC4b7F308013F2E5988C2A8fe653\", \"deployment_block_height\": 0 }}",
+      "blockchains.ethereumConfig": "{\"network_id\": \"3\", \"chain_id\": \"3\", \"collateral_bridge_contract\": { \"address\": \"0x5F0Aa66E2E2662bf0DC30c23e776a11B89142B36\" }, \"confirmations\": 3, \"staking_bridge_contract\": { \"address\": \"0xA7298dbC0C0Df4739Ca6a5E5440577cC39f37222\", \"deployment_block_height\": 0}, \"token_vesting_contract\": { \"address\": \"0x6A73b9B6cD2CEee6e4464C2cC5B9EFBc9397B535\", \"deployment_block_height\": 0 }, \"multisig_control_contract\": { \"address\": \"0x0a432BBc9A7aBC4b7F308013F2E5988C2A8fe653\", \"deployment_block_height\": 0 }}",
       "governance.proposal.asset.maxClose": "8760h0m0s",
       "governance.proposal.asset.maxEnact": "8760h0m0s",
       "governance.proposal.asset.minClose": "1m0s",
@@ -381,6 +380,14 @@
       "governance.proposal.market.minVoterBalance": "1",
       "governance.proposal.market.requiredMajority": "0.66",
       "governance.proposal.market.requiredParticipation": "0.0",
+      "governance.proposal.updateAsset.maxClose": "8760h0m0s",
+      "governance.proposal.updateAsset.maxEnact": "8760h0m0s",
+      "governance.proposal.updateAsset.minClose": "48h0m0s",
+      "governance.proposal.updateAsset.minEnact": "48h0m0s",
+      "governance.proposal.updateAsset.minProposerBalance": "0",
+      "governance.proposal.updateAsset.minVoterBalance": "0",
+      "governance.proposal.updateAsset.requiredMajority": "0.66",
+      "governance.proposal.updateAsset.requiredParticipation": "0.00001",
       "governance.proposal.updateMarket.maxClose": "8760h0m0s",
       "governance.proposal.updateMarket.maxEnact": "8760h0m0s",
       "governance.proposal.updateMarket.minClose": "1h0m0s",
@@ -417,7 +424,6 @@
       "market.liquidityProvision.shapes.maxSize": "100",
       "market.margin.scalingFactors": "{\"search_level\": 1.1, \"initial_margin\": 2.5, \"collateral_release\": 2.7}",
       "market.monitor.price.defaultParameters": "{\"triggers\": [{\"auction_extension\": 300, \"horizon\": 43200, \"probability\": \"0.9999999\"}] }",
-      "market.monitor.price.updateFrequency": "1s",
       "market.stake.target.scalingFactor": "0.1",
       "market.stake.target.timeWindow": "1h0m0s",
       "market.value.windowLength": "168h0m0s",
