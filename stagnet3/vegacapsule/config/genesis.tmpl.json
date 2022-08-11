@@ -294,7 +294,6 @@
 		"market.liquidity.probabilityOfTrading.tau.scaling": "10.0",
 		"market.margin.scalingFactors": "{\"search_level\": 1.1, \"initial_margin\": 2.5, \"collateral_release\": 2.7}",
 		"market.monitor.price.defaultParameters": "{\"triggers\": [{\"auction_extension\": 300, \"horizon\": 43200, \"probability\": \"0.9999999\"}] }",
-    "market.monitor.price.updateFrequency": "1s",
 		"market.stake.target.scalingFactor": "0.1",
 		"market.stake.target.timeWindow": "1h0m0s",
 		"market.value.windowLength": "168h0m0s",
