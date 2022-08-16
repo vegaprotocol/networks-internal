@@ -1,60 +1,60 @@
-log-level = "info"
+log_level = "info"
 
-proxy-app = "tcp://127.0.0.1:26608"
+proxy_app = "tcp://127.0.0.1:26608"
 # TODO: consider using moniker = "{ node_domain }", and generate node_domain in higher level.
 moniker = "n0{{ add .NodeNumber 1 }}.stagnet3.vega.xyz"
-db-backend = "goleveldb"
-db-dir = "data"
-log-format = "plain"
-genesis-file = "config/genesis.json"
-priv-validator-key-file = "config/priv_validator_key.json"
-priv-validator-state-file = "data/priv_validator_state.json"
-priv-validator-laddr = ""
-node-key-file = "config/node_key.json"
+db_backend = "goleveldb"
+db_dir = "data"
+log_format = "plain"
+genesis_file = "config/genesis.json"
+priv_validator_key_file = "config/priv_validator_key.json"
+priv_validator_state_file = "data/priv_validator_state.json"
+priv_validator_laddr = ""
+node_key_file = "config/node_key.json"
 abci = "socket"
-filter-peers = false
+filter_peers = false
 
 [rpc]
   laddr = "tcp://0.0.0.0:26657"
-  cors-allowed-origins = ["*"]
-  cors-allowed-methods = ["HEAD", "GET", "POST", ]
-  cors-allowed-headers = ["Origin", "Accept", "Content-Type", "X-Requested-With", "X-Server-Time", ]
-  grpc-laddr = ""
-  grpc-max-open-connections = 900
+  cors_allowed_origins = ["*"]
+  cors_allowed_methods = ["HEAD", "GET", "POST", ]
+  cors_allowed_headers = ["Origin", "Accept", "Content-Type", "X-Requested-With", "X-Server-Time", ]
+  grpc_laddr = ""
+  grpc_max_open_connections = 900
   unsafe = false
-  max-open-connections = 900
-  max-subscription-clients = 100
-  max-subscriptions-per-client = 5
-  timeout-broadcast-tx-commit = "10s"
-  max-body-bytes = 1000000
-  max-header-bytes = 1048576
-  tls-cert-file = ""
-  tls-key-file = ""
-  pprof-laddr = ":6061"
+  max_open_connections = 900
+  max_subscription_clients = 100
+  max_subscriptions_per_client = 5
+  timeout_broadcast_tx_commit = "10s"
+  max_body_bytes = 1000000
+  max_header_bytes = 1048576
+  tls_cert_file = ""
+  tls_key_file = ""
+  pprof_laddr = ":6061"
 
 [p2p]
   laddr = "tcp://0.0.0.0:26656"
-  external-address = "n0{{ add .NodeNumber 1 }}.stagnet3.vega.xyz:26656"
+  external_address = "n0{{ add .NodeNumber 1 }}.stagnet3.vega.xyz:26656"
   seeds = ""
   upnp = false
-  addr-book-file = "config/addrbook.json"
-  addr-book-strict = true
-  max-num-inbound-peers = 40
-  max-num-outbound-peers = 10
-  unconditional-peer-ids = ""
-  persistent-peers-max-dial-period = "0s"
-  flush-throttle-timeout = "100ms"
-  max-packet-msg-payload-size = 4096
-  send-rate = 5120000
-  recv-rate = 5120000
+  addr_book_file = "config/addrbook.json"
+  addr_book_strict = true
+  max_num_inbound_peers = 40
+  max_num_outbound_peers = 10
+  unconditional_peer_ids = ""
+  persistent_peers_max_dial_period = "0s"
+  flush_throttle_timeout = "100ms"
+  max_packet_msg_payload_size = 4096
+  send_rate = 5120000
+  recv_rate = 5120000
   pex = false
-  seed-mode = false
-  private-peer-ids = ""
-  allow-duplicate-ip = false
-  handshake-timeout = "20s"
-  dial-timeout = "3s"
+  seed_mode = false
+  private_peer_ids = ""
+  allow_duplicate_ip = false
+  handshake_timeout = "20s"
+  dial_timeout = "3s"
   # consider replacing with something like persistent-peers = "{ node-$i-persistent-peers }"
-  persistent-peers = "{{- range $i, $peer := .NodePeers -}}
+  persistent_peers = "{{- range $i, $peer := .NodePeers -}}
 	  {{- if ne $i 0 }},{{end -}}
 	  {{- $peer.ID}}@n0{{ add $peer.Index 1 }}.stagnet3.vega.xyz:26656
   {{- end -}}"
@@ -66,50 +66,50 @@ filter-peers = false
 # {{ else }} # ignore syntax
   broadcast = false
 # {{end }} # ignore syntax
-  wal-dir = ""
+  wal_dir = ""
   size = 10000
-  max-txs-bytes = 1073741824
-  cache-size = 20000
-  keep-invalid-txs-in-cache = false
-  max-tx-bytes = 1048576
-  max-batch-bytes = 0
+  max_txs_bytes = 1073741824
+  cache_size = 20000
+  keep_invalid_txs_in_cache = false
+  max_tx_bytes = 1048576
+  max_batch_bytes = 0
 
 [statesync]
   enable = false
-  rpc-servers = ""
-  trust-height = 0
-  trust-hash = ""
-  trust-period = "168h0m0s"
-  discovery-time = "15s"
-  temp-dir = ""
-  chunk-request-timeout = "10s"
-  chunk-fetchers = "4"
+  rpc_servers = ""
+  trust_height = 0
+  trust_hash = ""
+  trust_period = "168h0m0s"
+  discovery_time = "15s"
+  temp_dir = ""
+  chunk_request_timeout = "10s"
+  chunk_fetchers = "4"
 
 [blocksync]
   enable = true
   version = "v0"
 
 [consensus]
-  wal-file = "data/cs.wal/wal"
-  timeout-propose = "3s"
-  timeout-propose-delta = "500ms"
-  timeout-prevote = "1s"
-  timeout-prevote-delta = "500ms"
-  timeout-precommit = "1s"
-  timeout-precommit-delta = "500ms"
-  timeout-commit = "1s"
-  double-sign-check-height = 0
-  skip-timeout-commit = true
-  create-empty-blocks = true
-  create-empty-blocks-interval = "0s"
-  peer-gossip-sleep-duration = "100ms"
-  peer-query-maj23-sleep-duration = "2s"
+  wal_file = "data/cs.wal/wal"
+  timeout_propose = "3s"
+  timeout_propose_delta = "500ms"
+  timeout_prevote = "1s"
+  timeout_prevote_delta = "500ms"
+  timeout_precommit = "1s"
+  timeout_precommit_delta = "500ms"
+  timeout_commit = "1s"
+  double_sign_check_height = 0
+  skip_timeout_commit = true
+  create_empty_blocks = true
+  create_empty_blocks_interval = "0s"
+  peer_gossip_sleep_duration = "100ms"
+  peer_query_maj23_sleep_duration = "2s"
 
-[tx-index]
+[tx_index]
   indexer = "kv"
 
 [instrumentation]
   prometheus = true
-  prometheus-listen-addr = ":26661"
-  max-open-connections = 3
+  prometheus_listen_addr = ":26661"
+  max_open_connections = 3
   namespace = "tendermint"
