@@ -30,11 +30,11 @@ locals {
 
   s3_binaries_artifacts = {
     "/tmp/local/vega/bin/vega" = {
-      path = "bin/vega-linux-amd64-8a5a04f5"
+      path = "bin/vega-linux-amd64-v0.54.0"
       mode = "file"
     }
     "/tmp/local/vega/bin/data-node" = {
-      path = "bin/data-node-linux-amd64-8a5a04f5"
+      path = "bin/data-node-linux-amd64-v0.54.0"
       mode = "file"
     }
   }
