@@ -30,11 +30,11 @@ locals {
 
   s3_binaries_artifacts = {
     "/tmp/local/vega/bin/vega" = {
-      path = "bin/vega-linux-amd64-ee672288"
+      path = "bin/vega-linux-amd64-8a5a04f5"
       mode = "file"
     }
     "/tmp/local/vega/bin/data-node" = {
-      path = "bin/data-node-linux-amd64-793e7cdb"
+      path = "bin/data-node-linux-amd64-8a5a04f5"
       mode = "file"
     }
   }
@@ -44,15 +44,13 @@ locals {
       path = "stagnet3/tendermint/node{{ .Index }}/config"
       mode = "dir"
     }
-  }
-
-  tendermint_validator_artifacts = {
-    // TODO: Fix it, as it may change in meantime
     "/tmp/local/vega/.tendermint/data/priv_validator_state.json" = {
       path = "stagnet3/tendermint/node{{ .Index }}/data/priv_validator_state.json"
       mode = "file"
     }
   }
+
+  tendermint_validator_artifacts = {}
 
   data_node_artifacts = {
     "/tmp/local/vega/.data-node/config" = {
@@ -280,8 +278,6 @@ job "{{ .Name }}" {
           chown vega:vega -R /local/vega/.data-node;
           {{ end }}
 
-          
-          mkdir -p /local/vega/.tendermint/data;
           chown vega:vega -R /local/vega/.tendermint;
           chown vega:vega -R /local/vega/.vega;
         EOH
