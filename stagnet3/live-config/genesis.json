@@ -1,6 +1,6 @@
 {
-  "genesis_time": "2022-08-16T20:50:09.027841616Z",
-  "chain_id": "test-chain-4aIDyn",
+  "genesis_time": "2022-08-16T21:01:58.228671206Z",
+  "chain_id": "test-chain-t32fFj",
   "initial_height": "1",
   "consensus_params": {
     "block": {
@@ -182,7 +182,7 @@
           }
         },
         "symbol": "VOTE",
-        "total_supply": "0"
+        "total_supply": ""
       },
       "XYZalpha": {
         "decimals": 5,
@@ -447,6 +447,7 @@
       "reward.staking.delegation.optimalStakeMultiplier": "3.0",
       "reward.staking.delegation.payoutDelay": "15m",
       "reward.staking.delegation.payoutFraction": "0.007",
+      "rewards.marketCreationQuantumMultiple": "1",
       "snapshot.interval.length": "1000",
       "spam.pow.difficulty": "15",
       "spam.pow.hashFunction": "sha3_24_rounds",
