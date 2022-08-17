@@ -13,7 +13,6 @@ export NOMAD_CLIENT_CERT="./certs/client.pem";
 export NOMAD_CLIENT_KEY="./certs/client-key.pem";
 export NOMAD_TLS_SERVER_NAME="server.global.nomad";
 
-
 if ! aws --version > /dev/null 2>&1; then 
     echo "[ERROR] awscli is missing. Install it by following this docs: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html";
     return 1;
@@ -115,7 +114,7 @@ sleep 3;
 
 echo "[INFO] starting the network";
 echo ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>";
-vegacapsule network start --home-path ./home
+vegacapsule network start --home-path ./home --do-not-stop-on-failure
 echo "^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^";
 
 # # echo "[INFO] preparing multisig control"
