@@ -49,13 +49,12 @@
 (datanodepaths) {
 	# GraphQL Playground
 	route /graphql {
-		uri strip_prefix /graphql
 		reverse_proxy http://localhost:3008
 	}
-        route /graphql/* {
-                uri strip_prefix /graphql
-                reverse_proxy http://localhost:3008
-        }
+	route /graphql/* {
+		reverse_proxy http://localhost:3008
+	}
+
 	# GraphQL
 	route /query {
 		reverse_proxy http://localhost:3008
@@ -83,17 +82,17 @@
 
 # Validators
 
-n01.stagnet3.vega.xyz:443 {
+{node_idx}.stagnet3.vega.xyz:443 {
   tls devops@vegaprotocol.io
 	import corepaths
 }
 
-api.n01.stagnet3.vega.xyz:443 {
+api.{node_idx}.stagnet3.vega.xyz:443 {
   tls devops@vegaprotocol.io
 	import datanodepaths
 }
 
-tm.n01.stagnet3.vega.xyz:443 {
+tm.{node_idx}.stagnet3.vega.xyz:443 {
   tls devops@vegaprotocol.io
   import tendermintpaths
 }

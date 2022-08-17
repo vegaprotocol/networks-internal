@@ -102,7 +102,7 @@ locals {
       local.vega_validator_artifacts)
   {{ end }}
 
-  caddy_config = replace(file("{path.folder}/../config/Caddyfile"), "{node_idx}", "{{ $nodeIDX }}")
+  caddy_config = replace(file("{path.folder}/../config/Caddyfile"), "{node_idx}", "{{ $prefixedNodeIDX }}")
 
   resources = {
     default = {
