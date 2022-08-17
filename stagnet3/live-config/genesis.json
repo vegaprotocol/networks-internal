@@ -1,6 +1,6 @@
 {
-  "genesis_time": "2022-08-17T01:21:35.581002339Z",
-  "chain_id": "test-chain-1f1Fpc",
+  "genesis_time": "2022-08-17T20:47:05.118379563Z",
+  "chain_id": "test-chain-0JHMuK",
   "initial_height": "1",
   "consensus_params": {
     "block": {
