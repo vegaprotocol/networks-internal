@@ -365,6 +365,11 @@ job "{{ .Name }}" {
         args = [
           "-c",
           join(" ", [
+            // Hotfix for: https://github.com/vegaprotocol/vegacapsule/issues/229
+            {{ if .DataNode }}
+            "sleep 20;",
+            {{ end }}
+            // HOTFIX END
             "/local/vega/bin/vega", 
               "node",
               "--home", "/local/vega/.vega",
