@@ -1,6 +1,6 @@
 {
-  "genesis_time": "2022-08-16T23:24:11.354442234Z",
-  "chain_id": "test-chain-AX9EHW",
+  "genesis_time": "2022-08-17T02:31:49.268093776Z",
+  "chain_id": "test-chain-DJn6ga",
   "initial_height": "1",
   "consensus_params": {
     "block": {
@@ -28,7 +28,7 @@
         "value": "nHaWYyiz1pVNa9M0MfAGfRwANAZmG3FfEKHrl0OPYIw="
       },
       "power": "1",
-      "name": "/jenkins/workspace/private/Deployments/Vegacapsule/stagnet3/networks-internal/stagnet3/vegacapsule/home/tendermint/node1"
+      "name": "/jenkins/workspace/private/Deployments/Vegacapsule/Stagnet 3/networks-internal/stagnet3/vegacapsule/home/tendermint/node1"
     },
     {
       "address": "318CA0B13C30B22AA0E4B8BAFA9C29276411EB01",
@@ -37,7 +37,7 @@
         "value": "qcjt5Fwmgt9IAM//TXGDVjolhuQ3L6r6E+Cqb/9YgqY="
       },
       "power": "1",
-      "name": "/jenkins/workspace/private/Deployments/Vegacapsule/stagnet3/networks-internal/stagnet3/vegacapsule/home/tendermint/node2"
+      "name": "/jenkins/workspace/private/Deployments/Vegacapsule/Stagnet 3/networks-internal/stagnet3/vegacapsule/home/tendermint/node2"
     },
     {
       "address": "F9BC7362A69FF2B96391A3F927F181B552154C08",
@@ -46,7 +46,7 @@
         "value": "YSGPTUyNyCb8+FxM008CKnhjo8HPdiirgAZYTtF7hT4="
       },
       "power": "1",
-      "name": "/jenkins/workspace/private/Deployments/Vegacapsule/stagnet3/networks-internal/stagnet3/vegacapsule/home/tendermint/node3"
+      "name": "/jenkins/workspace/private/Deployments/Vegacapsule/Stagnet 3/networks-internal/stagnet3/vegacapsule/home/tendermint/node3"
     },
     {
       "address": "406E0F51552B5C3C4C75142CA308EC57287494A3",
@@ -55,7 +55,7 @@
         "value": "IL0RcvBbexY6SP7tOVLRuHVHDBoQzSJiTFs9q9fNEMc="
       },
       "power": "1",
-      "name": "/jenkins/workspace/private/Deployments/Vegacapsule/stagnet3/networks-internal/stagnet3/vegacapsule/home/tendermint/node4"
+      "name": "/jenkins/workspace/private/Deployments/Vegacapsule/Stagnet 3/networks-internal/stagnet3/vegacapsule/home/tendermint/node4"
     },
     {
       "address": "AFF45C60E586AE1B070351E985FCE12710A13A26",
@@ -64,7 +64,7 @@
         "value": "PwSVSBkXJgkaufVe7iE1FxFDEQLSyVrlwjx9vYiJqzo="
       },
       "power": "1",
-      "name": "/jenkins/workspace/private/Deployments/Vegacapsule/stagnet3/networks-internal/stagnet3/vegacapsule/home/tendermint/node5"
+      "name": "/jenkins/workspace/private/Deployments/Vegacapsule/Stagnet 3/networks-internal/stagnet3/vegacapsule/home/tendermint/node5"
     },
     {
       "address": "F1B6860BDC4697D6C6ECCD15FD951588C84A0644",
@@ -73,7 +73,7 @@
         "value": "AtAVdsao+krNpnuzmmkkkOeerzHhMy71/w9abUrB9Jc="
       },
       "power": "1",
-      "name": "/jenkins/workspace/private/Deployments/Vegacapsule/stagnet3/networks-internal/stagnet3/vegacapsule/home/tendermint/node6"
+      "name": "/jenkins/workspace/private/Deployments/Vegacapsule/Stagnet 3/networks-internal/stagnet3/vegacapsule/home/tendermint/node6"
     },
     {
       "address": "AB35736F916CCE39DDBE0FC90F686BE5F4164F7A",
@@ -82,7 +82,7 @@
         "value": "C46fXE4Om18sWbyysj/IQyiEZPXy0a1GU5MwO8b5yZY="
       },
       "power": "1",
-      "name": "/jenkins/workspace/private/Deployments/Vegacapsule/stagnet3/networks-internal/stagnet3/vegacapsule/home/tendermint/node7"
+      "name": "/jenkins/workspace/private/Deployments/Vegacapsule/Stagnet 3/networks-internal/stagnet3/vegacapsule/home/tendermint/node7"
     }
   ],
   "app_hash": "",
