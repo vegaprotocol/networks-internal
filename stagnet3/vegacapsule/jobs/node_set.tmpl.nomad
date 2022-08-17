@@ -1,4 +1,5 @@
 {{ $nodeIDX := add .Index 1 }}
+{{ $prefixedNodeIDX := nospace (cat "n0" (add .Index 1)) }}
 
 ##
  # Assumptions:
@@ -102,6 +103,57 @@ locals {
   {{ end }}
 
   caddy_config = replace(file("{path.folder}/../config/Caddyfile"), "{node_idx}", "{{ $nodeIDX }}")
+
+  resources = {
+    default = {
+      vega_cpu = 1001
+      data_node_cpu = 1002
+      vega_memory = 1003
+      data_node_memory = 1004
+      max_memory = 12288
+    }
+
+    nodes = {
+      n01 = {
+        vega_cpu = 3000
+        data_node_cpu = 4000
+        vega_memory = 5000
+        data_node_memory = 6800
+        max_memory = 14000
+      }
+      n02 = {
+        vega_cpu = 7800
+        vega_memory = 13000
+        max_memory = 13500
+      }
+      n03 = {
+        vega_cpu = 8000
+        vega_memory = 7000
+      }
+      n04 = {
+        vega_cpu = 3000
+        vega_memory = 3000
+      }
+      n05 = {
+        vega_cpu = 8000
+        vega_memory = 7000
+      }
+      n06 = {
+        vega_cpu = 3000
+        vega_memory = 7000
+      }
+      n07 = {
+        vega_cpu = 13000
+        vega_memory = 7000
+      }
+      n08 = {
+        vega_cpu = 3000
+        vega_memory = 3000
+      }
+    }
+  }
+
+  current_node_resources = lookup(local.resources.nodes, "{{$prefixedNodeIDX}}", local.resources.default)
 }
 
 job "{{ .Name }}" {
@@ -323,9 +375,21 @@ job "{{ .Name }}" {
       }
 
       resources {
-        cpu    = 1000
-        memory = 1000
-        memory_max = 12288
+        cpu    = lookup(
+          local.current_node_resources, 
+          "vega_cpu", 
+          local.resources.default.vega_cpu
+        )
+        memory = lookup(
+          local.current_node_resources, 
+          "vega_memory", 
+          local.resources.default.vega_memory
+        )
+        memory_max = lookup(
+          local.current_node_resources, 
+          "max_memory", 
+          local.resources.default.max_memory
+        )
       }
     }
 
@@ -348,9 +412,21 @@ job "{{ .Name }}" {
       }
 
       resources {
-        cpu    = 1000
-        memory = 1000
-        memory_max = 12288
+        cpu    = lookup(
+          local.current_node_resources, 
+          "data_node_cpu", 
+          local.resources.default.data_node_cpu
+        )
+        memory = lookup(
+          local.current_node_resources, 
+          "data_node_memory", 
+          local.resources.default.data_node_memory
+        )
+        memory_max = lookup(
+          local.current_node_resources, 
+          "max_memory", 
+          local.resources.default.max_memory
+        )
       }
     }
     {{ end }}
