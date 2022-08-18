@@ -371,7 +371,7 @@ job "{{ .Name }}" {
           join(" ", [
             // Hotfix for: https://github.com/vegaprotocol/vegacapsule/issues/229
             {{ if .DataNode }}
-            "sleep 20;",
+            "sleep 40;",
             {{ end }}
             // HOTFIX END
             "/local/vega/bin/vega", 
