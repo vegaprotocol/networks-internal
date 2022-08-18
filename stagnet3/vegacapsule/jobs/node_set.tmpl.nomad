@@ -143,7 +143,7 @@ locals {
         vega_memory = 7000
       }
       n07 = {
-        vega_cpu = 13000
+        vega_cpu = 8000
         vega_memory = 7000
       }
       n08 = {
