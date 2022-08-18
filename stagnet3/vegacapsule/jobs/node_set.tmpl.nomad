@@ -176,6 +176,10 @@ job "{{ .Name }}" {
   }
 
   group "vega-node" {
+    restart {
+      attempts = 0
+    }
+
     network {
       mode = "host"
 
