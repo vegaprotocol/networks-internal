@@ -1,4 +1,7 @@
-log_level = "info"
+{{ $ThisNodeValidatorsPeers := .NodePeersByGroupName "validators" }}
+{{ $ThisNodeNonValidatorsPeers := .NodePeersByGroupName "full" }}
+
+log_level = "main:info,state:info,*:error"
 
 proxy_app = "tcp://127.0.0.1:26608"
 # TODO: consider using moniker = "{ node_domain }", and generate node_domain in higher level.
@@ -35,7 +38,10 @@ filter_peers = false
 [p2p]
   laddr = "tcp://0.0.0.0:26656"
   external_address = "n0{{ add .NodeNumber 1 }}.stagnet3.vega.xyz:26656"
-  seeds = ""
+  seeds = "{{- range $i, $peer := $ThisNodeNonValidatorsPeers -}}
+	  {{- if ne $i 0 }},{{end -}}
+	  {{- lower $peer.ID }}@n0{{ add $peer.Index 1 }}.stagnet3.vega.xyz:26656
+  {{- end -}}"
   upnp = false
   addr_book_file = "config/addrbook.json"
   addr_book_strict = true
@@ -54,9 +60,9 @@ filter_peers = false
   handshake_timeout = "20s"
   dial_timeout = "3s"
   # consider replacing with something like persistent-peers = "{ node-$i-persistent-peers }"
-  persistent_peers = "{{- range $i, $peer := .NodePeers -}}
+  persistent_peers = "{{- range $i, $peer := $ThisNodeValidatorsPeers -}}
 	  {{- if ne $i 0 }},{{end -}}
-	  {{- $peer.ID}}@n0{{ add $peer.Index 1 }}.stagnet3.vega.xyz:26656
+	  {{- lower $peer.ID }}@n0{{ add $peer.Index 1 }}.stagnet3.vega.xyz:26656
   {{- end -}}"
 
 [mempool]
