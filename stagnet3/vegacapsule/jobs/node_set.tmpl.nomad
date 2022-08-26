@@ -143,7 +143,7 @@ locals {
         vega_memory = 7000
       }
       n07 = {
-        vega_cpu = 13000
+        vega_cpu = 8000
         vega_memory = 7000
       }
       n08 = {
@@ -371,7 +371,7 @@ job "{{ .Name }}" {
           join(" ", [
             // Hotfix for: https://github.com/vegaprotocol/vegacapsule/issues/229
             {{ if .DataNode }}
-            "sleep 20;",
+            "sleep 40;",
             {{ end }}
             // HOTFIX END
             "/local/vega/bin/vega", 
