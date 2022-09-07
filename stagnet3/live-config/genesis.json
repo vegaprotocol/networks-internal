@@ -1,6 +1,6 @@
 {
-  "genesis_time": "2022-08-18T16:02:38.090565007Z",
-  "chain_id": "test-chain-Thz9c6",
+  "genesis_time": "2022-09-07T03:15:24.093212486Z",
+  "chain_id": "test-chain-KXqoUE",
   "initial_height": "1",
   "consensus_params": {
     "block": {
@@ -181,8 +181,7 @@
             "max_faucet_amount_mint": "10000"
           }
         },
-        "symbol": "VOTE",
-        "total_supply": ""
+        "symbol": "VOTE"
       },
       "XYZalpha": {
         "decimals": 5,

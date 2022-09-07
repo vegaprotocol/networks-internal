@@ -176,6 +176,11 @@ job "{{ .Name }}" {
   }
 
   group "vega-node" {
+    reschedule {
+      attempts  = 0
+      unlimited = false
+    }
+    
     restart {
       attempts = 0
     }
