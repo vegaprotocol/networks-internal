@@ -1,0 +1,41 @@
+[API]
+	Port = 3002
+	[API.REST]
+			Port = 3003
+
+[Blockchain]
+	[Blockchain.Tendermint]
+		ClientAddr = "tcp://127.0.0.1:26657"
+		ServerAddr = "0.0.0.0"
+		ServerPort = 26608
+	[Blockchain.Null]
+		Port = 3101
+
+[EvtForward]
+	Level = "Info"
+	RetryRate = "1s"
+	BlockchainQueueAllowlist = [
+		{{if .FaucetPublicKey}}"{{ .FaucetPublicKey }}",{{end}}
+		# faucet on k8s
+		"e43f8ce01312575763215fd754215680070007e7d19889b74327bdead3667cfe"
+	]
+
+[Ethereum]
+  RPCEndpoint = "{{.ETHEndpoint}}"
+
+[Processor]
+	[Processor.Ratelimit]
+		Requests = 10000
+		PerNBlocks = 1
+
+[Admin.Server]
+  SocketPath = "/local/vega/vega.sock"
+  HttpPath = "/rpc"
+  Enabled = true
+
+[Metrics]
+  Level = "Info"
+  Timeout = "5s"
+  Port = 2112
+  Path = "/metrics"
+  Enabled = true
