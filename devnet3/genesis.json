@@ -1,0 +1,266 @@
+{
+  "app_hash": "",
+  "app_state": {
+    "assets": {
+      "177e8f6c25a955bd18475084b99b2b1d37f28f3dec393fab7755a7e69c3d8c3b": {
+        "decimals": 5,
+        "name": "tEURO Fairground",
+        "quantum": "1",
+        "source": {
+          "erc20": {
+            "contract_address": "0x7119500C6327928ae4E64531feBB258f0a33A617",
+            "lifetime_limit": "",
+            "withdraw_threshold": ""
+          }
+        },
+        "symbol": "tEURO",
+        "total_supply": "64999723000000000000000000"
+      },
+      "b340c130096819428a62e5df407fd6abe66e444b89ad64f670beb98621c9c663": {
+        "decimals": 18,
+        "name": "tDAI Fairground",
+        "quantum": "1",
+        "source": {
+          "erc20": {
+            "contract_address": "0x973cB2a51F83a707509fe7cBafB9206982E1c3ad",
+            "lifetime_limit": "",
+            "withdraw_threshold": ""
+          }
+        },
+        "symbol": "tDAI",
+        "total_supply": "64999723000000000000000000"
+      },
+      "c9fe6fc24fce121b2cc72680543a886055abb560043fda394ba5376203b7527d": {
+        "decimals": 6,
+        "name": "tUSDC Fairground",
+        "quantum": "1",
+        "source": {
+          "erc20": {
+            "contract_address": "0x40ff2D218740EF033b43B8Ce0342aEBC81934554",
+            "lifetime_limit": "",
+            "withdraw_threshold": ""
+          }
+        },
+        "symbol": "tUSDC",
+        "total_supply": "64999723000000000000000000"
+      },
+      "cee709223217281d7893b650850ae8ee8a18b7539b5658f9b4cc24de95dd18ad": {
+        "decimals": 8,
+        "name": "tBTC Fairground",
+        "quantum": "1",
+        "source": {
+          "erc20": {
+            "contract_address": "0x123cB4a2AB190F88a50646D5436aB3F5859107Ed",
+            "lifetime_limit": "",
+            "withdraw_threshold": ""
+          }
+        },
+        "symbol": "tBTC",
+        "total_supply": "64999723000000000000000000"
+      },
+      "fc7fd956078fb1fc9db5c19b88f0874c4299b2a7639ad05a47a28c0aef291b55": {
+        "decimals": 18,
+        "name": "Vega (Devnet 3)",
+        "quantum": "1",
+        "source": {
+          "erc20": {
+            "contract_address": "0xCf4A2c09549cF1EDd7aCCF29FE5755cAcB0A6aac",
+            "lifetime_limit": "",
+            "withdraw_threshold": ""
+          }
+        },
+        "symbol": "VEGA",
+        "total_supply": "64999723000000000000000000"
+      }
+    },
+    "network": {
+      "replay_attack_threshold": 150
+    },
+    "network_limits": {
+      "propose_asset_enabled": true,
+      "propose_market_enabled": true
+    },
+    "network_parameters": {
+      "blockchains.ethereumConfig": "{ \"network_id\": \"11155111\", \"chain_id\": \"11155111\", \"confirmations\": 3, \"collateral_bridge_contract\": { \"address\": \"0x4dbD3745573aA9947a20DA3c1bBeE26F65875AD0\" }, \"staking_bridge_contract\": { \"address\": \"0x6e5F35e8F972d22c78C12d49cC5B3BeC2e1D280e\", \"deployment_block_height\": 1783747 }, \"token_vesting_contract\": { \"address\": \"0x6B2AfDD5dB96f3D47dd0bcd6661020161937D5f5\", \"deployment_block_height\": 1783750 }, \"multisig_control_contract\": { \"address\": \"0xceC0dD8130eD4C24Fc1382256BB2aaCC99773c0C\", \"deployment_block_height\": 1783741 } }",
+      "governance.proposal.asset.maxClose": "8760h0m0s",
+      "governance.proposal.asset.maxEnact": "8760h0m0s",
+      "governance.proposal.asset.minClose": "5s",
+      "governance.proposal.asset.minEnact": "5s",
+      "governance.proposal.asset.minProposerBalance": "1",
+      "governance.proposal.asset.minVoterBalance": "1",
+      "governance.proposal.asset.requiredMajority": "0.66",
+      "governance.proposal.asset.requiredParticipation": "0.5",
+      "governance.proposal.market.maxClose": "8760h0m0s",
+      "governance.proposal.market.maxEnact": "8760h0m0s",
+      "governance.proposal.market.minClose": "5s",
+      "governance.proposal.market.minEnact": "5s",
+      "governance.proposal.market.minProposerBalance": "1",
+      "governance.proposal.market.minVoterBalance": "1",
+      "governance.proposal.market.requiredMajority": "0.66",
+      "governance.proposal.market.requiredParticipation": "0.0",
+      "governance.proposal.updateMarket.maxClose": "8760h0m0s",
+      "governance.proposal.updateMarket.maxEnact": "8760h0m0s",
+      "governance.proposal.updateMarket.minClose": "5s",
+      "governance.proposal.updateMarket.minEnact": "5s",
+      "governance.proposal.updateMarket.minProposerBalance": "1",
+      "governance.proposal.updateMarket.minVoterBalance": "1",
+      "governance.proposal.updateMarket.requiredMajority": "0.66",
+      "governance.proposal.updateMarket.requiredParticipation": "0.0",
+      "governance.proposal.updateNetParam.maxClose": "8760h0m0s",
+      "governance.proposal.updateNetParam.maxEnact": "8760h0m0s",
+      "governance.proposal.updateNetParam.minClose": "5s",
+      "governance.proposal.updateNetParam.minEnact": "5s",
+      "governance.proposal.updateNetParam.minProposerBalance": "1",
+      "governance.proposal.updateNetParam.minVoterBalance": "1",
+      "governance.proposal.updateNetParam.requiredMajority": "0.5",
+      "governance.proposal.updateNetParam.requiredParticipation": "0.0",
+      "market.auction.maximumDuration": "168h0m0s",
+      "market.auction.minimumDuration": "10s",
+      "market.fee.factors.infrastructureFee": "0.0005",
+      "market.fee.factors.makerFee": "0.0002",
+      "market.liquidity.bondPenaltyParameter": "0.000001",
+      "market.liquidity.maximumLiquidityFeeFactorLevel": "1",
+      "market.liquidity.minimum.probabilityOfTrading.lpOrders": "1e-8",
+      "market.liquidity.probabilityOfTrading.tau.scaling": "1",
+      "market.liquidity.providers.fee.distributionTimeStep": "60m",
+      "market.liquidity.stakeToCcySiskas": "1.0",
+      "market.liquidity.targetstake.triggering.ratio": "0.7",
+      "market.liquidityProvision.shapes.maxSize": "100",
+      "market.margin.scalingFactors": "{ \"search_level\": 1.1, \"initial_margin\": 1.5, \"collateral_release\": 1.7 }",
+      "market.monitor.price.defaultParameters": "{ \"triggers\": [ { \"auction_extension\": 300, \"horizon\": 43200, \"probability\": \"0.9999999\" } ] }",
+      "market.stake.target.scalingFactor": "0.1",
+      "market.stake.target.timeWindow": "1h",
+      "market.value.windowLength": "168h",
+      "network.checkpoint.marketFreezeDate": "never",
+      "network.checkpoint.networkEndOfLifeDate": "never",
+      "network.checkpoint.timeElapsedBetweenCheckpoints": "1m",
+      "reward.asset": "fc7fd956078fb1fc9db5c19b88f0874c4299b2a7639ad05a47a28c0aef291b55",
+      "reward.staking.delegation.competitionLevel": "3.1",
+      "reward.staking.delegation.delegatorShare": "0.883",
+      "reward.staking.delegation.maxPayoutPerEpoch": "7000000000000000000000",
+      "reward.staking.delegation.maxPayoutPerParticipant": "700000000000000000000",
+      "reward.staking.delegation.minValidators": "3",
+      "reward.staking.delegation.minimumValidatorStake": "3000000000000000000000",
+      "reward.staking.delegation.payoutDelay": "5m",
+      "reward.staking.delegation.payoutFraction": "0.007",
+      "snapshot.interval.length": "300",
+      "spam.pow.difficulty": "2",
+      "spam.pow.numberOfTxPerBlock": "100",
+      "spam.protection.delegation.min.tokens": "1000000000000000000",
+      "spam.protection.max.delegations": "390",
+      "spam.protection.max.proposals": "100",
+      "spam.protection.max.votes": "100",
+      "spam.protection.proposal.min.tokens": "1000000000000000000",
+      "spam.protection.voting.min.tokens": "1000000000000000000",
+      "validators.delegation.minAmount": "100000000000000000",
+      "validators.epoch.length": "1m",
+      "validators.vote.required": "0.67"
+    },
+    "network_parameters_checkpoint_overwrite": null,
+    "validators": {
+      "Jq4/J92EL8qCVwbUN6h+GtIn3vm05oBSwO4+ZFx+4oY=": {
+        "avatar_url": "",
+        "country": "",
+        "ethereum_address": "0xADA25525F60F8cFb07d4fed0EE5226C3F185f154",
+        "id": "4c43245315220a1ac2ab74314fa201c94ace49d70be482d840ad6a5b6a22985d",
+        "info_url": "",
+        "name": "",
+        "tm_pub_key": "Jq4/J92EL8qCVwbUN6h+GtIn3vm05oBSwO4+ZFx+4oY=",
+        "vega_pub_key": "93aa28744b9e152263692e32cddbba6b619b9c2db1e6927f3a646243e49001dd",
+        "vega_pub_key_index": 1
+      },
+      "c8gX1LdWwUfGYAvQi9arkxI18RqD94gGtgJUpJkJVoU=": {
+        "avatar_url": "",
+        "country": "",
+        "ethereum_address": "0x7Dc3306E2F867411151575FD9270256B5fbD2837",
+        "id": "c8bbd7edf83acfa611e20136171487fd181effe6c71f3a167969b2aa1ce1773d",
+        "info_url": "",
+        "name": "",
+        "tm_pub_key": "c8gX1LdWwUfGYAvQi9arkxI18RqD94gGtgJUpJkJVoU=",
+        "vega_pub_key": "144fa393f86b39cd3056d50ca317882b0da902f18fea10b74480f7bfe9d8512c",
+        "vega_pub_key_index": 1
+      },
+      "ludomVxSOWM4avhnQX2UBpIkbvyypH7APlKjSq0LGfU=": {
+        "avatar_url": "",
+        "country": "",
+        "ethereum_address": "0xDF57886B107f5F392EdCC72C20A40831D571e06e",
+        "id": "622291a6685397739b096e4c53c6132fe51283ec79213d5ef364b1a4d5b96b85",
+        "info_url": "",
+        "name": "",
+        "tm_pub_key": "ludomVxSOWM4avhnQX2UBpIkbvyypH7APlKjSq0LGfU=",
+        "vega_pub_key": "cc29f94a8111b1a55aacb40fffe6323b778ae1358386c574e85519cd8d847d74",
+        "vega_pub_key_index": 1
+      },
+      "qww40gxLbEj5LJaZL2fpv/2Ji50s/1chrFMBDN0kb4M=": {
+        "avatar_url": "",
+        "country": "",
+        "ethereum_address": "0xB257E64E74256F73E469c74843690fE95d85F40C",
+        "id": "17d6c35971f7040e0ef61b5569d2c96b4abe28cb70430f2fd1539e30f0475989",
+        "info_url": "",
+        "name": "",
+        "tm_pub_key": "qww40gxLbEj5LJaZL2fpv/2Ji50s/1chrFMBDN0kb4M=",
+        "vega_pub_key": "3a54023c498eddcce42b421551cd701ffc3392f3941ec6cd0f331db1396f0200",
+        "vega_pub_key_index": 1
+      }
+    }
+  },
+  "chain_id": "vega-devnet3-202213091737",
+  "consensus_params": {
+    "block": {
+      "max_bytes": "22020096",
+      "max_gas": "-1",
+      "time_iota_ms": "1"
+    },
+    "evidence": {
+      "max_age_duration": "10",
+      "max_age_num_blocks": "10",
+      "max_bytes": "1048576"
+    },
+    "validator": {
+      "pub_key_types": [
+        "ed25519"
+      ]
+    },
+    "version": {}
+  },
+  "genesis_time": "2022-09-13T15:37:01.816019Z",
+  "initial_height": "0",
+  "validators": [
+    {
+      "address": "8A2E15FE19D4404455DA063E3B7B817F2CD136E7",
+      "name": "Validator n01",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "c8gX1LdWwUfGYAvQi9arkxI18RqD94gGtgJUpJkJVoU="
+      }
+    },
+    {
+      "address": "85A32A70D625E7028FDEFF6C72C0CB4CA36210FB",
+      "name": "Validator n02",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "qww40gxLbEj5LJaZL2fpv/2Ji50s/1chrFMBDN0kb4M="
+      }
+    },
+    {
+      "address": "184DA2CC8828EED346118CC55C39C655DBD40680",
+      "name": "Validator n03",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "ludomVxSOWM4avhnQX2UBpIkbvyypH7APlKjSq0LGfU="
+      }
+    },
+    {
+      "address": "1B7CA6598DF12978E508605FDAAE90524742A155",
+      "name": "Validator n04",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "Jq4/J92EL8qCVwbUN6h+GtIn3vm05oBSwO4+ZFx+4oY="
+      }
+    }
+  ]
+}
