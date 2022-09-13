@@ -118,7 +118,7 @@ filter_peers = false
   indexer = "kv"
 {{ else }}
   indexer = "psql"
-  psql-conn = "postgresql://vega:ec27af68a52b74665860889db70fe327@n09.stagnet3.vega.xyz:5432/tm0?sslmode=disable"
+  psql-conn = "postgresql://vega:ec27af68a52b74665860889db70fe327@127.0.0.1:5432/tm0?sslmode=disable"
 {{ end }}
 
 [instrumentation]
