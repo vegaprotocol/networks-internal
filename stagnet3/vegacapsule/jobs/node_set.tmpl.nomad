@@ -438,6 +438,10 @@ job "{{ .Name }}" {
     task "data-node" {
       driver = "exec"
       user = "vega"
+      restart {
+        attempts = 3
+      }
+
 
       volume_mount {
         volume      = "vega_home_volume"
