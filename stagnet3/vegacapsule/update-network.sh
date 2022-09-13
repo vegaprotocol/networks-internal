@@ -52,6 +52,12 @@ echo "";
 
 echo "[INFO] Running garbage collection for nomad";
 nomad system gc;
+nomad job status --short \
+    | grep -v Type \
+    | egrep "(running|pending)" \
+    | awk '{ print $1 }' \
+    | xargs -L 1 nomad job stop -purge \
+    || echo 'OK';
 echo "";
 
 vegacapsule network destroy --home-path ./home || echo "[INFO] network is not stopped"
