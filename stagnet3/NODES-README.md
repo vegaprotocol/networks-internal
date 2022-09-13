@@ -19,4 +19,5 @@ You can check networks status [here](https://stats.vega.trading/) under `stagnet
 | n06.stagnet3.vega.xyz | tm.n06.stagnet3.vega.xyz | api.n06.stagnet3.vega.xyz | sfo3 | s-4vcpu-8gb | do |
 | n07.stagnet3.vega.xyz | tm.n07.stagnet3.vega.xyz | api.n07.stagnet3.vega.xyz | fra1 | s-4vcpu-8gb | do |
 | n08.stagnet3.vega.xyz | tm.n08.stagnet3.vega.xyz | api.n08.stagnet3.vega.xyz | sgp1 | s-4vcpu-8gb | do |
-| n09.stagnet3.vega.xyz | tm.n09.stagnet3.vega.xyz | api.n09.stagnet3.vega.xyz | eu-west-2c | c5.large | aws |
+| n09.stagnet3.vega.xyz | tm.n09.stagnet3.vega.xyz | api.n09.stagnet3.vega.xyz | sfo3 | s-4vcpu-8gb | do |
+| n10.stagnet3.vega.xyz | tm.n10.stagnet3.vega.xyz | api.n10.stagnet3.vega.xyz | eu-west-2c | c5.large | aws |
