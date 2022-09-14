@@ -457,93 +457,93 @@ job "{{ .Name }}" {
     {{ end }}
   }
 
-  {{ if .DataNode }}
-  group "postgres" {
-    reschedule {
-      attempts  = 0
-      unlimited = false
-    }
-    
-    restart {
-      attempts = 0
-    }
-
-    network {
-      mode = "bridge"
-
-      port "postgres" {
-        static = 5432
-        to = 5432
-      }
-    }
-
-    task "docker-container" {
-      driver = "docker"
-
-      {{ range $fileName := $postgresqlInitScripts }}
-      template {
-        data        = file("{path.folder}/../config/init/postgres/{{- $fileName -}}")
-        destination = "local/{{- $fileName -}}"
-      }
-      {{ end }}
-
-      env {
-        POSTGRES_USER = "vega"
-        POSTGRES_PASSWORD = "ec27af68a52b74665860889db70fe327"
-        POSTGRES_DBS = "vega0"
-        TS_TUNE_NUM_CPUS = "2"
-        TS_TUNE_MEMORY = "500MB"
-        TS_TUNE_MAX_BG_WORKERS = "10"
-        TS_TUNE_MAX_CONNS = "100"
-      }
-
-      config {
-        image = "vegaprotocol/timescaledb:2.7.1-pg14-patch1"
-        command = "postgres"
-        args = [
-          # https://stackoverflow.com/questions/28844170/how-to-limit-the-memory-that-is-available-for-postgresql-server
-          # max mem is 128 + 100 * (8+4) ~= 1328
-          "-c", "shared_buffers=128MB",
-          "-c", "temp_buffers=2MB",
-          "-c", "work_mem=4MB",
-          "-c", "max_connections=10",
-          "-c", "temp_file_limit=10GB",
-        ]
-        volumes = [
-          "local/pg_data:/var/lib/postgresql/data"
-        ]
-        ports = ["postgres"]
-        auth_soft_fail = true
-
-        {{ range $fileName := $postgresqlInitScripts }}
-        mount {
-          type   = "bind"
-          source = "local/{{- $fileName -}}"
-          target = "/docker-entrypoint-initdb.d/{{- $fileName -}}"
-        }
-        {{ end }}
-      }
-
-      resources {
-        cpu    = lookup(
-          local.current_node_resources, 
-          "psql_cpu", 
-          local.resources.default.psql_memory
-        )
-        memory = lookup(
-          local.current_node_resources, 
-          "psql_memory", 
-          local.resources.default.psql_memory
-        )
-        memory_max = lookup(
-          local.current_node_resources, 
-          "psql_max_memory", 
-          local.resources.default.max_memory
-        )
-      }
-    }
-  }
-  {{ end }}
+#  {{ if .DataNode }}
+#  group "postgres" {
+#    reschedule {
+#      attempts  = 0
+#      unlimited = false
+#    }
+#    
+#    restart {
+#      attempts = 0
+#    }
+#
+#    network {
+#      mode = "bridge"
+#
+#      port "postgres" {
+#        static = 5432
+#        to = 5432
+#      }
+#    }
+#
+#    task "docker-container" {
+#      driver = "docker"
+#
+#      {{ range $fileName := $postgresqlInitScripts }}
+#      template {
+#        data        = file("{path.folder}/../config/init/postgres/{{- $fileName -}}")
+#        destination = "local/{{- $fileName -}}"
+#      }
+#      {{ end }}
+#
+#      env {
+#        POSTGRES_USER = "vega"
+#        POSTGRES_PASSWORD = "ec27af68a52b74665860889db70fe327"
+#        POSTGRES_DBS = "vega0"
+#        TS_TUNE_NUM_CPUS = "2"
+#        TS_TUNE_MEMORY = "500MB"
+#        TS_TUNE_MAX_BG_WORKERS = "10"
+#        TS_TUNE_MAX_CONNS = "100"
+#      }
+#
+#      config {
+#        image = "vegaprotocol/timescaledb:2.7.1-pg14-patch1"
+#        command = "postgres"
+#        args = [
+#          # https://stackoverflow.com/questions/28844170/how-to-limit-the-memory-that-is-available-for-postgresql-server
+#          # max mem is 128 + 100 * (8+4) ~= 1328
+#          "-c", "shared_buffers=128MB",
+#          "-c", "temp_buffers=2MB",
+#          "-c", "work_mem=4MB",
+#          "-c", "max_connections=10",
+#          "-c", "temp_file_limit=10GB",
+#        ]
+#        volumes = [
+#          "local/pg_data:/var/lib/postgresql/data"
+#        ]
+#        ports = ["postgres"]
+#        auth_soft_fail = true
+#
+#        {{ range $fileName := $postgresqlInitScripts }}
+#        mount {
+#          type   = "bind"
+#          source = "local/{{- $fileName -}}"
+#          target = "/docker-entrypoint-initdb.d/{{- $fileName -}}"
+#        }
+#        {{ end }}
+#      }
+#
+#      resources {
+#        cpu    = lookup(
+#          local.current_node_resources, 
+#          "psql_cpu", 
+#          local.resources.default.psql_memory
+#        )
+#        memory = lookup(
+#          local.current_node_resources, 
+#          "psql_memory", 
+#          local.resources.default.psql_memory
+#        )
+#        memory_max = lookup(
+#          local.current_node_resources, 
+#          "psql_max_memory", 
+#          local.resources.default.max_memory
+#        )
+#      }
+#    }
+#  }
+#  {{ end }}
 
   group "caddy-server" {
     network {
