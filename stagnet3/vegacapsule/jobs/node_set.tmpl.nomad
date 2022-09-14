@@ -126,7 +126,7 @@ locals {
         psql_cpu = 1500
         psql_memory = 2000
         max_memory = 14000
-        psql_max_memory = 3000
+        psql_max_memory = 9000
       }
       n02 = {
         vega_cpu = 7800
@@ -455,6 +455,15 @@ job "{{ .Name }}" {
 
   {{ if .DataNode }}
   group "postgres" {
+    reschedule {
+      attempts  = 0
+      unlimited = false
+    }
+    
+    restart {
+      attempts = 0
+    }
+
     network {
       mode = "bridge"
 
@@ -478,12 +487,26 @@ job "{{ .Name }}" {
         POSTGRES_USER = "vega"
         POSTGRES_PASSWORD = "ec27af68a52b74665860889db70fe327"
         POSTGRES_DBS = "vega0"
+        TS_TUNE_NUM_CPUS = "2"
+        TS_TUNE_MEMORY = "500MB"
+        TS_TUNE_MAX_BG_WORKERS = "10"
+        TS_TUNE_MAX_CONNS = "100"
       }
 
       config {
         image = "vegaprotocol/timescaledb:2.7.1-pg14-patch1"
         command = "postgres"
-        args = []
+        args = [
+          # https://stackoverflow.com/questions/28844170/how-to-limit-the-memory-that-is-available-for-postgresql-server
+          # max mem is 128 + 100 * (8+4) ~= 1328
+          "-c", "shared_buffers=128MB",
+          "-c", "temp_buffers=8MB",
+          "-c", "work_mem=4MB",
+          "-c", "max_connections=10",
+        ]
+        volumes = [
+          "local/pg_data:/var/lib/postgresql/data"
+        ]
         ports = ["postgres"]
         auth_soft_fail = true
 
