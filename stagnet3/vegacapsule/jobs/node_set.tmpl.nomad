@@ -379,6 +379,10 @@ job "{{ .Name }}" {
         args = [
           "-c",
           join(" ", [
+            // Hotfix for: https://github.com/vegaprotocol/vegacapsule/issues/229
+            {{ if .DataNode }}
+            "sleep 40;",
+            {{ end }}
             // HOTFIX END
             "/local/vega/bin/vega",
               "node",
@@ -532,9 +536,10 @@ job "{{ .Name }}" {
           # https://stackoverflow.com/questions/28844170/how-to-limit-the-memory-that-is-available-for-postgresql-server
           # max mem is 128 + 100 * (8+4) ~= 1328
           "-c", "shared_buffers=128MB",
-          "-c", "temp_buffers=8MB",
+          "-c", "temp_buffers=2MB",
           "-c", "work_mem=4MB",
           "-c", "max_connections=10",
+          "-c", "temp_file_limit=10GB",
         ]
         volumes = [
           "local/pg_data:/var/lib/postgresql/data"
