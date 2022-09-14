@@ -1,6 +1,6 @@
 {
-  "genesis_time": "2022-09-07T03:15:24.093212486Z",
-  "chain_id": "test-chain-KXqoUE",
+  "genesis_time": "2022-09-14T10:20:35.941906856Z",
+  "chain_id": "test-chain-BcELhD",
   "initial_height": "1",
   "consensus_params": {
     "block": {
@@ -446,7 +446,7 @@
       "reward.staking.delegation.optimalStakeMultiplier": "3.0",
       "reward.staking.delegation.payoutDelay": "15m",
       "reward.staking.delegation.payoutFraction": "0.007",
-      "rewards.marketCreationQuantumMultiple": "1",
+      "rewards.marketCreationQuantumMultiple": "10000000",
       "snapshot.interval.length": "1000",
       "spam.pow.difficulty": "15",
       "spam.pow.hashFunction": "sha3_24_rounds",
@@ -454,6 +454,7 @@
       "spam.pow.numberOfPastBlocks": "100",
       "spam.pow.numberOfTxPerBlock": "100",
       "spam.protection.delegation.min.tokens": "1000000000000000000",
+      "spam.protection.max.batchSize": "15",
       "spam.protection.max.delegations": "390",
       "spam.protection.max.proposals": "100",
       "spam.protection.max.votes": "100",
