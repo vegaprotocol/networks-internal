@@ -122,6 +122,7 @@ locals {
         psql_cpu = 1500
         psql_memory = 2000
         max_memory = 14000
+        psql_max_memory = 3000
       }
       n02 = {
         vega_cpu = 7800
@@ -540,7 +541,7 @@ job "{{ .Name }}" {
         )
         memory_max = lookup(
           local.current_node_resources, 
-          "max_memory", 
+          "psql_max_memory", 
           local.resources.default.max_memory
         )
       }
