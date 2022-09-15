@@ -20,11 +20,11 @@ locals {
 
   binaries_artifacts = {
     "/tmp/local/vega/bin/vega" = {
-      path = "https://github.com/vegaprotocol/vega/releases/download/v0.55.0/vega-linux-amd64.zip"
+      path = "{{ env "VEGACAPSULE_S3_RELEASE_TARGET" }}/vega"
       mode = "file"
     }
     "/tmp/local/vega/bin/data-node" = {
-      path = "https://github.com/vegaprotocol/vega/releases/download/v0.55.0/data-node-linux-amd64.zip"
+      path = "{{ env "VEGACAPSULE_S3_RELEASE_TARGET" }}/data-node"
       mode = "file"
     }
   }
@@ -180,7 +180,7 @@ job "{{ .Name }}" {
       attempts  = 0
       unlimited = false
     }
-    
+
     restart {
       attempts = 0
     }
@@ -379,7 +379,7 @@ job "{{ .Name }}" {
             "sleep 40;",
             {{ end }}
             // HOTFIX END
-            "/local/vega/bin/vega", 
+            "/local/vega/bin/vega",
               "node",
               "--home", "/local/vega/.vega",
               "--nodewallet-passphrase-file", "/local/vega/.vega/node-vega-wallet-pass.txt",
@@ -390,18 +390,18 @@ job "{{ .Name }}" {
 
       resources {
         cpu    = lookup(
-          local.current_node_resources, 
-          "vega_cpu", 
+          local.current_node_resources,
+          "vega_cpu",
           local.resources.default.vega_cpu
         )
         memory = lookup(
-          local.current_node_resources, 
-          "vega_memory", 
+          local.current_node_resources,
+          "vega_memory",
           local.resources.default.vega_memory
         )
         memory_max = lookup(
-          local.current_node_resources, 
-          "max_memory", 
+          local.current_node_resources,
+          "max_memory",
           local.resources.default.max_memory
         )
       }
@@ -427,18 +427,18 @@ job "{{ .Name }}" {
 
       resources {
         cpu    = lookup(
-          local.current_node_resources, 
-          "data_node_cpu", 
+          local.current_node_resources,
+          "data_node_cpu",
           local.resources.default.data_node_cpu
         )
         memory = lookup(
-          local.current_node_resources, 
-          "data_node_memory", 
+          local.current_node_resources,
+          "data_node_memory",
           local.resources.default.data_node_memory
         )
         memory_max = lookup(
-          local.current_node_resources, 
-          "max_memory", 
+          local.current_node_resources,
+          "max_memory",
           local.resources.default.max_memory
         )
       }
