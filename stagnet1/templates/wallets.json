@@ -1,0 +1,11 @@
+{
+	"ethereum": {
+		"main": {
+			"name": "main",
+			"secret_path": "stagnet1/main",
+			"description": "Main Ethereum wallet for the stagnet1 network",
+			"address": "0xb119F727C963886cE97BCA833090F854F7654848"
+		}
+	},
+	"vegawallet": {}
+}
