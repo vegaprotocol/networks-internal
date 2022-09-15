@@ -19,25 +19,25 @@ locals {
   s3_bucket_name = "{{ env "S3_BUCKET_NAME" }}"
 
   binaries_artifacts = {
-    "/tmp/local/vega/bin/vega" = {
-      path = "{{ env "VEGACAPSULE_S3_RELEASE_TARGET" }}/vega"
-      mode = "file"
-    }
-    "/tmp/local/vega/bin/data-node" = {
-      path = "{{ env "VEGACAPSULE_S3_RELEASE_TARGET" }}/data-node"
-      mode = "file"
-    }
+    # "/tmp/local/vega/bin/vega" = {
+    #   path = "{{ env "VEGACAPSULE_S3_RELEASE_TARGET" }}/vega"
+    #   mode = "file"
+    # }
+    # "/tmp/local/vega/bin/data-node" = {
+    #   path = "{{ env "VEGACAPSULE_S3_RELEASE_TARGET" }}/data-node"
+    #   mode = "file"
+    # }
   }
 
   s3_binaries_artifacts = {
-  #   "/tmp/local/vega/bin/vega" = {
-  #     path = "bin/vega-linux-amd64-v0.54.0"
-  #     mode = "file"
-  #   }
-  #   "/tmp/local/vega/bin/data-node" = {
-  #     path = "bin/data-node-linux-amd64-v0.54.0"
-  #     mode = "file"
-  #   }
+     "/tmp/local/vega/bin/vega" = {
+       path = "{{ env "VEGACAPSULE_S3_RELEASE_TARGET" }}/vega"
+       mode = "file"
+     }
+     "/tmp/local/vega/bin/data-node" = {
+       path = "{{ env "VEGACAPSULE_S3_RELEASE_TARGET" }}/data-node"
+       mode = "file"
+     }
   }
 
   tendermint_artifacts = {
