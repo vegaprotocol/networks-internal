@@ -416,6 +416,11 @@ job "{{ .Name }}" {
         volume      = "vega_home_volume"
         destination = "local/vega"
       }
+      
+      restart {
+        attempts = 3
+        delay    = "30s"
+      }
 
       config {
         command = "bash"
