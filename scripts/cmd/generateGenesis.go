@@ -88,7 +88,7 @@ func RunGenerateGenesis(args GenerateGenesisArgs) error {
 	}
 	// genesis_time
 	if len(args.ChainIdSuffix) == 0 {
-		args.ChainIdSuffix = now.Format("200602011504") // YYYYMMDDHHmm
+		args.ChainIdSuffix = now.Format("200601021504") // YYYYMMDDHHmm
 	}
 	chain_id := fmt.Sprintf("vega-%s-%s", args.VegaNetworkName, args.ChainIdSuffix)
 	if err := genesis.Put(".chain_id", chain_id); err != nil {
