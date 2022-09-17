@@ -5,7 +5,6 @@ import (
 	"encoding/hex"
 	"encoding/json"
 	"fmt"
-	"io/ioutil"
 	"log"
 	"os"
 	"path"
@@ -232,7 +231,7 @@ type VegaNodeConfig struct {
 }
 
 func readNodesFromFile(fileWithNodes string) (nodes map[string]*VegaNodeConfig, err error) {
-	byteNodes, err := ioutil.ReadFile(fileWithNodes)
+	byteNodes, err := os.ReadFile(fileWithNodes)
 	if err != nil {
 		return nil, fmt.Errorf("failed to read '%s' file with nodes %w", fileWithNodes, err)
 	}
@@ -251,7 +250,7 @@ func loadCheckpointFromFile(checkpointFilepath string) (hash string, state strin
 		buf []byte
 	)
 
-	buf, err = ioutil.ReadFile(checkpointFilepath)
+	buf, err = os.ReadFile(checkpointFilepath)
 	if err != nil {
 		err = fmt.Errorf("failed to read checkpoint from file %s, %w", checkpointFilepath, err)
 		return
