@@ -8,6 +8,7 @@ import (
 	"log"
 	"os"
 	"path"
+	"sort"
 	"time"
 
 	"code.vegaprotocol.io/vega/core/types"
@@ -81,6 +82,8 @@ func RunGenerateGenesis(args GenerateGenesisArgs) error {
 	// Modify
 	//
 	now := time.Now()
+	// sort validator ids - to minimise changes to generated config
+	sort.Strings(args.ValidatorIds)
 	// genesis_time
 	genesis_time := now.UTC()
 	if err := genesis.Put(".genesis_time", genesis_time); err != nil {
@@ -95,7 +98,7 @@ func RunGenerateGenesis(args GenerateGenesisArgs) error {
 		return fmt.Errorf("failed to set chain_id, %w", err)
 	}
 	// validators
-	if validators, err := getValidatorsSection(nodes, generateGenesisArgs.ValidatorIds); err != nil {
+	if validators, err := getValidatorsSection(nodes, args.ValidatorIds); err != nil {
 		return fmt.Errorf("failed to generate validators section, %w", err)
 	} else {
 		if err := genesis.Put(".validators", validators); err != nil {
@@ -103,7 +106,7 @@ func RunGenerateGenesis(args GenerateGenesisArgs) error {
 		}
 	}
 	// app_state.validators
-	if appStateValidators, err := getAppStateValidatorsSection(nodes, generateGenesisArgs.ValidatorIds); err != nil {
+	if appStateValidators, err := getAppStateValidatorsSection(nodes, args.ValidatorIds); err != nil {
 		return fmt.Errorf("failed to generate app_state.validators section, %w", err)
 	} else {
 		if err := genesis.Put(".app_state.validators", appStateValidators); err != nil {

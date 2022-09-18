@@ -5,6 +5,7 @@ import (
 	"log"
 	"os"
 	"path"
+	"sort"
 
 	"github.com/spf13/cobra"
 	"github.com/tomwright/dasel"
@@ -82,6 +83,9 @@ func RunGenerateVegawalletConfig(args GenerateVegawalletConfigArgs) error {
 	data.API.GRPC.Hosts = append(data.API.GRPC.Hosts, fmt.Sprintf("api.%s.vega.xyz:3007", args.VegaNetworkName))
 	data.API.REST.Hosts = append(data.API.REST.Hosts, fmt.Sprintf("https://api.%s.vega.xyz", args.VegaNetworkName))
 	data.API.GraphQL.Hosts = append(data.API.GraphQL.Hosts, fmt.Sprintf("https://api.%s.vega.xyz/graphql/", args.VegaNetworkName))
+
+	// sort node ids - to minimise changes to generated config
+	sort.Strings(args.DataNodeIds)
 
 	for _, nodeId := range args.DataNodeIds {
 		data.API.GRPC.Hosts = append(data.API.GRPC.Hosts, fmt.Sprintf("api.%s.%s.vega.xyz:3007", nodeId, args.VegaNetworkName))
