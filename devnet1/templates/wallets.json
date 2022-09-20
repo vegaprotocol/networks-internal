@@ -1,0 +1,11 @@
+{
+	"ethereum": {
+		"main": {
+			"name": "main",
+			"secret_path": "devnet1/main",
+			"description": "Main Ethereum wallet for Devnet 1",
+			"address": "0xf4A9a832A84F4d9A52dFB21828eb91CB93697Fa9"
+		}
+	},
+	"vegawallet": {}
+}
