@@ -1,0 +1,25 @@
+Host = "127.0.0.1"
+Level = "info"
+Name = "devnet1"
+Port = 1789
+TokenExpiry = "168h0m0s"
+
+[API]
+
+  [API.GRPC]
+    Hosts = ["api.devnet1.vega.xyz:3007", "api.n00.devnet1.vega.xyz:3007"]
+    Retries = 5
+
+  [API.GraphQL]
+    Hosts = ["https://api.devnet1.vega.xyz/graphql/", "https://api.n00.devnet1.vega.xyz/graphql/"]
+
+  [API.REST]
+    Hosts = ["https://api.devnet1.vega.xyz", "https://api.n00.devnet1.vega.xyz"]
+
+[Console]
+  LocalPort = 1847
+  URL = ""
+
+[TokenDApp]
+  LocalPort = 1848
+  URL = ""
