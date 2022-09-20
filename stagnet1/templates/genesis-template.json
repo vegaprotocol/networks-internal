@@ -81,11 +81,11 @@
             },
             "fc7fd956078fb1fc9db5c19b88f0874c4299b2a7639ad05a47a28c0aef291b55": {
                 "decimals": 18,
-                "name": "Vega (Devnet 3)",
+                "name": "Vega (Stagnet 1)",
                 "quantum": "1",
                 "source": {
                     "erc20": {
-                        "contract_address": "0xCf4A2c09549cF1EDd7aCCF29FE5755cAcB0A6aac",
+                        "contract_address": "0x8A3fD2d22A3957e495624D3Fc36A705b0935729e",
                         "lifetime_limit": "",
                         "withdraw_threshold": ""
                     }
@@ -102,7 +102,7 @@
             "propose_market_enabled": true
         },
         "network_parameters": {
-            "blockchains.ethereumConfig": "{ \"network_id\": \"11155111\", \"chain_id\": \"11155111\", \"confirmations\": 3, \"collateral_bridge_contract\": { \"address\": \"0x4dbD3745573aA9947a20DA3c1bBeE26F65875AD0\" }, \"staking_bridge_contract\": { \"address\": \"0x6e5F35e8F972d22c78C12d49cC5B3BeC2e1D280e\", \"deployment_block_height\": 1783747 }, \"token_vesting_contract\": { \"address\": \"0x6B2AfDD5dB96f3D47dd0bcd6661020161937D5f5\", \"deployment_block_height\": 1783750 }, \"multisig_control_contract\": { \"address\": \"0xceC0dD8130eD4C24Fc1382256BB2aaCC99773c0C\", \"deployment_block_height\": 1783741 } }",
+            "blockchains.ethereumConfig": "{ \"network_id\": \"11155111\", \"chain_id\": \"11155111\", \"confirmations\": 3, \"collateral_bridge_contract\": { \"address\": \"0x8b1d701979d5A78414Ca3189b932f1440b17D705\" }, \"staking_bridge_contract\": { \"address\": \"0xeB17968d04281748dE3D0347030aa1a3185a4737\", \"deployment_block_height\": 1928804 }, \"token_vesting_contract\": { \"address\": \"0x1daC584B28216A33642B7D9f3A29f6E497E241a1\", \"deployment_block_height\": 1928807 }, \"multisig_control_contract\": { \"address\": \"0x265f1Ad30aaBc12bF7DA302db3203Bb1ADE1f223\", \"deployment_block_height\": 1928783 } }",
             "governance.proposal.asset.maxClose": "8760h0m0s",
             "governance.proposal.asset.maxEnact": "8760h0m0s",
             "governance.proposal.asset.minClose": "5s",
