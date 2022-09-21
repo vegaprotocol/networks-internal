@@ -297,8 +297,6 @@
 		"market.stake.target.scalingFactor": "0.1",
 		"market.stake.target.timeWindow": "1h0m0s",
 		"market.value.windowLength": "168h0m0s",
-		"network.checkpoint.marketFreezeDate": "never",
-		"network.checkpoint.networkEndOfLifeDate": "never",
 		"network.checkpoint.timeElapsedBetweenCheckpoints": "1m",
     "reward.asset": "{{.GetVegaContractID "VEGA"}}",
     "reward.staking.delegation.competitionLevel": "3.1",
