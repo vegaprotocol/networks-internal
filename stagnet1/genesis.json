@@ -131,8 +131,6 @@
       "market.stake.target.scalingFactor": "0.1",
       "market.stake.target.timeWindow": "1h",
       "market.value.windowLength": "168h",
-      "network.checkpoint.marketFreezeDate": "never",
-      "network.checkpoint.networkEndOfLifeDate": "never",
       "network.checkpoint.timeElapsedBetweenCheckpoints": "1m",
       "reward.asset": "fc7fd956078fb1fc9db5c19b88f0874c4299b2a7639ad05a47a28c0aef291b55",
       "reward.staking.delegation.competitionLevel": "3.1",
@@ -204,7 +202,7 @@
       }
     }
   },
-  "chain_id": "vega-stagnet1-202209220824",
+  "chain_id": "vega-stagnet1-202209220836",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -223,7 +221,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-09-22T08:24:32.920658672Z",
+  "genesis_time": "2022-09-22T08:36:57.28427889Z",
   "initial_height": "0",
   "validators": [
     {
