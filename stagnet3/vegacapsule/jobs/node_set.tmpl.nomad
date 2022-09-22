@@ -19,14 +19,10 @@ locals {
   s3_bucket_name = "{{ env "S3_BUCKET_NAME" }}"
 
   binaries_artifacts = {
-    # "/tmp/local/vega/bin/vega" = {
-    #   path = "{{ env "VEGACAPSULE_S3_RELEASE_TARGET" }}/vega"
-    #   mode = "file"
-    # }
-    # "/tmp/local/vega/bin/data-node" = {
-    #   path = "{{ env "VEGACAPSULE_S3_RELEASE_TARGET" }}/data-node"
-    #   mode = "file"
-    # }
+    "/tmp/local/vega/bin/vegacapsule" = {
+      path = "https://github.com/vegaprotocol/vegacapsule/releases/download/v0.2.3/vegacapsule-linux-amd64.zip"
+      mode = "file"
+    }
   }
 
   s3_binaries_artifacts = {
@@ -118,37 +114,37 @@ locals {
         vega_cpu = 3000
         data_node_cpu = 4000
         vega_memory = 5000
-        data_node_memory = 6800
+        data_node_memory = 6600
         max_memory = 14000
       }
       n02 = {
         vega_cpu = 7800
-        vega_memory = 13000
+        vega_memory = 12500
         max_memory = 13500
       }
       n03 = {
         vega_cpu = 8000
-        vega_memory = 7000
+        vega_memory = 6500
       }
       n04 = {
         vega_cpu = 3000
-        vega_memory = 3000
+        vega_memory = 2800
       }
       n05 = {
         vega_cpu = 8000
-        vega_memory = 7000
+        vega_memory = 6500
       }
       n06 = {
         vega_cpu = 3000
-        vega_memory = 7000
+        vega_memory = 6500
       }
       n07 = {
         vega_cpu = 8000
-        vega_memory = 7000
+        vega_memory = 6500
       }
       n08 = {
         vega_cpu = 3000
-        vega_memory = 3000
+        vega_memory = 2800
       }
     }
   }
@@ -339,6 +335,8 @@ job "{{ .Name }}" {
           chown vega:vega -R /local/vega/.data-node;
           {{ end }}
 
+          mkdir -p /local/vega/logs && chown vega:vega /local/vega/logs;
+
           chown vega:vega -R /local/vega/.tendermint;
           chown vega:vega -R /local/vega/.vega;
         EOH
@@ -404,6 +402,35 @@ job "{{ .Name }}" {
           "max_memory",
           local.resources.default.max_memory
         )
+      }
+    }
+
+    task "logger" {
+      volume_mount {
+        volume      = "vega_home_volume"
+        destination = "/local/vega"
+        read_only = false
+      }
+
+      driver = "exec"
+      user = "vega"
+
+      config {
+        command = "bash"
+        args = [
+          "-c",
+          join(" ", [
+            "/local/vega/bin/vegacapsule",
+              "nomad", "logscollector",
+              "--out-dir", "/local/vega/logs"
+          ])
+        ]
+      }
+
+      resources {
+        cpu    = 100
+        memory = 100
+        memory_max = 300
       }
     }
 

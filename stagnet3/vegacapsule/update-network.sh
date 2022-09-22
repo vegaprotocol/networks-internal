@@ -12,6 +12,7 @@ export NOMAD_CACERT="./certs/nomad-ca.pem";
 export NOMAD_CLIENT_CERT="./certs/client.pem";
 export NOMAD_CLIENT_KEY="./certs/client-key.pem";
 export NOMAD_TLS_SERVER_NAME="server.global.nomad";
+export VEGACAPSULE_S3_RELEASE_TARGET="bin/develop"
 
 if ! aws --version > /dev/null 2>&1; then 
     echo "[ERROR] awscli is missing. Install it by following this docs: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html";
@@ -60,6 +61,12 @@ sleep 3;
 echo "";
 echo "[INFO] removing previous network chain data";
 echo ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>";
+nomad job status --short \
+    | grep -v Type \
+    | egrep '(running|pending)' \
+    | awk '{ print $1 }' \
+    | xargs -L 1 nomad job stop \
+    || echo 'OK' 
 for node in $(seq 1 9); do 
     ssh \
         -o "StrictHostKeyChecking=no" \
