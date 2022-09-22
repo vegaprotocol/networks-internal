@@ -152,8 +152,6 @@
             "market.stake.target.scalingFactor": "0.1",
             "market.stake.target.timeWindow": "1h",
             "market.value.windowLength": "168h",
-            "network.checkpoint.marketFreezeDate": "never",
-            "network.checkpoint.networkEndOfLifeDate": "never",
             "network.checkpoint.timeElapsedBetweenCheckpoints": "1m",
             "reward.asset": "fc7fd956078fb1fc9db5c19b88f0874c4299b2a7639ad05a47a28c0aef291b55",
             "reward.staking.delegation.competitionLevel": "3.1",
