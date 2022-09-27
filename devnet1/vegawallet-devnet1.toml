@@ -11,7 +11,7 @@ TokenExpiry = "168h0m0s"
     Retries = 5
 
   [API.GraphQL]
-    Hosts = ["https://api.devnet1.vega.xyz/graphql/", "https://api.n00.devnet1.vega.xyz/graphql/"]
+    Hosts = ["https://api.devnet1.vega.xyz/graphql", "https://api.n00.devnet1.vega.xyz/graphql"]
 
   [API.REST]
     Hosts = ["https://api.devnet1.vega.xyz", "https://api.n00.devnet1.vega.xyz"]
