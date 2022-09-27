@@ -46,7 +46,7 @@ jobs:
 
           file="devnet1/vegawallet-devnet1.toml"
           if [ -f $file ]; then
-            echo "Updating devnet"
+            echo "Updating devnet1"
             sed -i  "1s|^|#this file is added automatically from github.com/vegaprotcol/networks-internal\n|" $file
             sed -i 's|^Host.*|Host = "0.0.0.0"|' $file
             sed -i 's|^Port.*|Port = 80|' $file
@@ -56,7 +56,7 @@ jobs:
 
           file="stagnet3/stagnet3.toml"
           if [ -f $file ]; then
-            echo "Updating devnet"
+            echo "Updating stagnet3"
             sed -i  "1s|^|#this file is added automatically from github.com/vegaprotcol/networks-internal\n|" $file
             sed -i 's|^Host.*|Host = "0.0.0.0"|' $file
             sed -i 's|^Port.*|Port = 80|' $file
