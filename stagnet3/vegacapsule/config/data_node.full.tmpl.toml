@@ -2,14 +2,14 @@ GatewayEnabled = true
 [SqlStore]
   WipeOnStartup = true
   Level = "Info"
-  UseEmbedded = true
-#  [SqlStore.ConnectionConfig]
-#    Port = 5432
-#    Host = "127.0.0.1"
-#    Username = "vega"
-#    Password = "ec27af68a52b74665860889db70fe327"
-#    Database = "vega0"
-#    UseTransactions = true
+  UseEmbedded = false
+  [SqlStore.ConnectionConfig]
+    Port = 5432
+    Host = "127.0.0.1"
+    Username = "vega"
+    Password = "ec27af68a52b74665860889db70fe327"
+    Database = "vega0"
+    UseTransactions = true
 
 [API]
   Level = "Info"
