@@ -21,6 +21,11 @@ network "stagnet3" {
     mode = "full"
 	  data_node_binary = "data-node"
     nomad_job_template_file = "./jobs/node_set.tmpl.nomad"
+    // pre_generate {
+    //   nomad_job "ganache" {
+    //     job_template_file = "./jobs/postgres.tmpl.nomad"
+    //   }
+    // }
 
     config_templates {
       vega_file       = "./config/vega.full.tmpl.toml"

@@ -1,5 +1,7 @@
 {{ $ThisNodeValidatorsPeers := .NodePeersByGroupName "validators" }}
 {{ $ThisNodeNonValidatorsPeers := .NodePeersByGroupName "full" }}
+{{ $isValidator := not (eq .NodeSet.Mode "full") }}
+
 
 log_level = "main:info,state:info,*:error"
 
@@ -67,7 +69,7 @@ filter_peers = false
 
 [mempool]
   recheck = true
-# {{ if eq .NodeSet.Mode "full" }} # ignore syntax
+# {{ if not $isValidator }} # ignore syntax
   broadcast = true
 # {{ else }} # ignore syntax
   broadcast = false
@@ -112,7 +114,13 @@ filter_peers = false
   peer_query_maj23_sleep_duration = "2s"
 
 [tx_index]
+{{ if $isValidator }}
   indexer = "kv"
+{{ else }}
+#  indexer = "kv"
+  indexer = "psql"
+  psql-conn = "postgresql://vega:ec27af68a52b74665860889db70fe327@127.0.0.1:5432/tm0?sslmode=disable"
+{{ end }}
 
 [instrumentation]
   prometheus = true
