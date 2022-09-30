@@ -1,5 +1,7 @@
 {{ $nodeIDX := add .Index 1 }}
 {{ $prefixedNodeIDX := nospace (cat "n0" (add .Index 1)) }}
+{{ $postgresqlInitScripts := list "01-init-db.sql" "02-init-schema.sh" }}
+
 
 ##
  # Assumptions:
@@ -107,15 +109,20 @@ locals {
       vega_memory = 1003
       data_node_memory = 1004
       max_memory = 12288
+      psql_cpu = 1000
+      psql_memory = 2000
     }
 
     nodes = {
       n01 = {
-        vega_cpu = 3000
-        data_node_cpu = 4000
+        vega_cpu = 2500
+        data_node_cpu = 2500
         vega_memory = 5000
-        data_node_memory = 6600
+        data_node_memory = 5200
+        psql_cpu = 1500
+        psql_memory = 2000
         max_memory = 14000
+        psql_max_memory = 9000
       }
       n02 = {
         vega_cpu = 7800
@@ -477,6 +484,87 @@ job "{{ .Name }}" {
     }
     {{ end }}
   }
+
+  {{ if .DataNode }}
+  group "postgres" {
+    reschedule {
+      attempts  = 0
+      unlimited = false
+    }
+    
+    restart {
+      attempts = 0
+    }
+
+    network {
+      mode = "bridge"
+
+      port "postgres" {
+        static = 5432
+        to = 5432
+      }
+    }
+
+    task "docker-container" {
+      driver = "docker"
+
+      {{ range $fileName := $postgresqlInitScripts }}
+      template {
+        data        = file("{path.folder}/../config/init/postgres/{{- $fileName -}}")
+        destination = "local/{{- $fileName -}}"
+      }
+      {{ end }}
+
+      env {
+        POSTGRES_USER = "vega"
+        POSTGRES_PASSWORD = "ec27af68a52b74665860889db70fe327"
+        POSTGRES_DBS = "vega0"
+        TS_TUNE_NUM_CPUS = "2"
+        TS_TUNE_MEMORY = "500MB"
+        TS_TUNE_MAX_BG_WORKERS = "10"
+        TS_TUNE_MAX_CONNS = "100"
+      }
+
+      config {
+        image = "vegaprotocol/timescaledb:2.8.0-pg14"
+        command = "postgres"
+        args = [
+        ]
+        volumes = [
+          "local/pg_data:/var/lib/postgresql/data"
+        ]
+        ports = ["postgres"]
+        auth_soft_fail = true
+
+        {{ range $fileName := $postgresqlInitScripts }}
+        mount {
+          type   = "bind"
+          source = "local/{{- $fileName -}}"
+          target = "/docker-entrypoint-initdb.d/{{- $fileName -}}"
+        }
+        {{ end }}
+      }
+
+      resources {
+        cpu    = lookup(
+          local.current_node_resources, 
+          "psql_cpu", 
+          local.resources.default.psql_memory
+        )
+        memory = lookup(
+          local.current_node_resources, 
+          "psql_memory", 
+          local.resources.default.psql_memory
+        )
+        memory_max = lookup(
+          local.current_node_resources, 
+          "psql_max_memory", 
+          local.resources.default.max_memory
+        )
+      }
+    }
+  }
+  {{ end }}
 
   group "caddy-server" {
     network {
