@@ -79,6 +79,66 @@
                 "symbol": "tBTC",
                 "total_supply": "64999723000000000000000000"
             },
+            "XYZalpha": {
+                "decimals": 5,
+                "name": "XYZ (\u03b1 alpha)",
+                "quantum": "1",
+                "source": {
+                    "builtin_asset": {
+                        "max_faucet_amount_mint": "5000000000"
+                    }
+                },
+                "symbol": "XYZalpha",
+                "total_supply": "100000000000000000000"
+            },
+            "XYZbeta": {
+                "decimals": 5,
+                "name": "XYZ (\u03b2 beta)",
+                "quantum": "1",
+                "source": {
+                    "builtin_asset": {
+                        "max_faucet_amount_mint": "100000000000"
+                    }
+                },
+                "symbol": "XYZbeta",
+                "total_supply": "1000000000"
+            },
+            "XYZdelta": {
+                "decimals": 5,
+                "name": "XYZ (\u03b4 delta)",
+                "quantum": "1",
+                "source": {
+                    "builtin_asset": {
+                        "max_faucet_amount_mint": "100000000000"
+                    }
+                },
+                "symbol": "XYZdelta",
+                "total_supply": "1000000000"
+            },
+            "XYZepsilon": {
+                "decimals": 5,
+                "name": "XYZ (\u03b5 epsilon)",
+                "quantum": "1",
+                "source": {
+                    "builtin_asset": {
+                        "max_faucet_amount_mint": "100000000000"
+                    }
+                },
+                "symbol": "XYZepsilon",
+                "total_supply": "1000000000"
+            },
+            "XYZgamma": {
+                "decimals": 5,
+                "name": "XYZ (\u03b3 gamma)",
+                "quantum": "1",
+                "source": {
+                    "builtin_asset": {
+                        "max_faucet_amount_mint": "100000000000"
+                    }
+                },
+                "symbol": "XYZgamma",
+                "total_supply": "1000000000"
+            },
             "fc7fd956078fb1fc9db5c19b88f0874c4299b2a7639ad05a47a28c0aef291b55": {
                 "decimals": 18,
                 "name": "Vega (Stagnet 1)",
