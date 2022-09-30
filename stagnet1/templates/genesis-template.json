@@ -139,6 +139,54 @@
                 "symbol": "XYZgamma",
                 "total_supply": "1000000000"
             },
+            "fBTC": {
+                "decimals": 8,
+                "name": "BTC (fake)",
+                "quantum": "1",
+                "source": {
+                  "builtin_asset": {
+                    "max_faucet_amount_mint": "1000000000"
+                  }
+                },
+                "symbol": "fBTC",
+                "total_supply": "21000000000"
+              },
+              "fDAI": {
+                "decimals": 18,
+                "name": "DAI (fake)",
+                "quantum": "1",
+                "source": {
+                  "builtin_asset": {
+                    "max_faucet_amount_mint": "10000000000000000000000"
+                  }
+                },
+                "symbol": "fDAI",
+                "total_supply": "1000000000000000000000"
+              },
+              "fEURO": {
+                "decimals": 5,
+                "name": "EURO (fake)",
+                "quantum": "1",
+                "source": {
+                  "builtin_asset": {
+                    "max_faucet_amount_mint": "10000000000"
+                  }
+                },
+                "symbol": "fEURO",
+                "total_supply": "1000000000"
+              },
+              "fUSDC": {
+                "decimals": 6,
+                "name": "USDC (fake)",
+                "quantum": "1",
+                "source": {
+                  "builtin_asset": {
+                    "max_faucet_amount_mint": "10000000000000"
+                  }
+                },
+                "symbol": "fUSDC",
+                "total_supply": "10000000000"
+              },
             "fc7fd956078fb1fc9db5c19b88f0874c4299b2a7639ad05a47a28c0aef291b55": {
                 "decimals": 18,
                 "name": "Vega (Stagnet 1)",
