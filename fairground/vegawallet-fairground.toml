@@ -1,0 +1,25 @@
+Host = "127.0.0.1"
+Level = "info"
+Name = "fairground"
+Port = 1789
+TokenExpiry = "168h0m0s"
+
+[API]
+
+  [API.GRPC]
+    Hosts = ["api.tmp.vega.xyz:3007", "api.n00.tmp.vega.xyz:3007", "api.n06.tmp.vega.xyz:3007", "api.n07.tmp.vega.xyz:3007", "api.n08.tmp.vega.xyz:3007", "api.n09.tmp.vega.xyz:3007", "api.n10.tmp.vega.xyz:3007", "api.n11.tmp.vega.xyz:3007", "api.n12.tmp.vega.xyz:3007"]
+    Retries = 5
+
+  [API.GraphQL]
+    Hosts = ["https://api.tmp.vega.xyz/graphql", "https://api.n00.tmp.vega.xyz/graphql", "https://api.n06.tmp.vega.xyz/graphql", "https://api.n07.tmp.vega.xyz/graphql", "https://api.n08.tmp.vega.xyz/graphql", "https://api.n09.tmp.vega.xyz/graphql", "https://api.n10.tmp.vega.xyz/graphql", "https://api.n11.tmp.vega.xyz/graphql", "https://api.n12.tmp.vega.xyz/graphql"]
+
+  [API.REST]
+    Hosts = ["https://api.tmp.vega.xyz", "https://api.n00.tmp.vega.xyz", "https://api.n06.tmp.vega.xyz", "https://api.n07.tmp.vega.xyz", "https://api.n08.tmp.vega.xyz", "https://api.n09.tmp.vega.xyz", "https://api.n10.tmp.vega.xyz", "https://api.n11.tmp.vega.xyz", "https://api.n12.tmp.vega.xyz"]
+
+[Console]
+  LocalPort = 1847
+  URL = ""
+
+[TokenDApp]
+  LocalPort = 1848
+  URL = ""
