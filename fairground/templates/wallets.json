@@ -1,0 +1,11 @@
+{
+	"ethereum": {
+		"main": {
+			"name": "main",
+			"secret_path": "fairground/main",
+			"description": "Main Ethereum wallet for Fairground",
+			"address": "0x3c9BCb0B5BE9D1c4D75024BAA0d5D55aD354fa77"
+		}
+	},
+	"vegawallet": {}
+}
