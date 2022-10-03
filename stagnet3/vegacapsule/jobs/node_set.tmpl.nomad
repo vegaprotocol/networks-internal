@@ -314,7 +314,7 @@ job "{{ .Name }}" {
 
       template {
         data        = file("{path.folder}/../config/blockexplorer.toml")
-        destination = "/tmp/local/vega/.blockexplorer/config/.blockexplorer/config.toml"
+        destination = "/tmp/local/vega/.blockexplorer/config/blockexplorer/config.toml"
       }
 
       // 1. No other option for set permissions for downloaded binary at the moment
@@ -346,15 +346,15 @@ job "{{ .Name }}" {
             -rvh \
               /tmp/local/vega/.data-node/ /local/vega/.data-node/; # See point 2 in the comment above
 
-          mkdir -p /local/vega/.blockexplorer/config/.blockexplorer;
+          mkdir -p /local/vega/.blockexplorer/config/blockexplorer;
           rsync \
             --ignore-times \
             -rvh \
-              tmp//local/vega/.blockexplorer/config/.blockexplorer/ /local/vega/.blockexplorer/config/.blockexplorer/;
+              tmp//local/vega/.blockexplorer/config/blockexplorer/ /local/vega/.blockexplorer/config/blockexplorer/;
 
 
           chown vega:vega -R /local/vega/.data-node;
-          chown vega:vega -R /local/vega/.blockexplorer;
+          chown vega:vega -R /local/vega/blockexplorer;
           {{ end }}
 
           mkdir -p /local/vega/logs && chown vega:vega /local/vega/logs;
@@ -406,6 +406,24 @@ job "{{ .Name }}" {
               "--tendermint-home", "/local/vega/.tendermint"
           ])
         ]
+      }
+
+      resources {
+        cpu    = lookup(
+          local.current_node_resources,
+          "vega_cpu",
+          local.resources.default.vega_cpu
+        )
+        memory = lookup(
+          local.current_node_resources,
+          "vega_memory",
+          local.resources.default.vega_memory
+        )
+        memory_max = lookup(
+          local.current_node_resources,
+          "max_memory",
+          local.resources.default.max_memory
+        )
       }
     }
 
