@@ -106,9 +106,11 @@ locals {
     default = {
       vega_cpu = 1001
       data_node_cpu = 1002
+      vega_explorer_cpu = 300
       vega_memory = 1003
       data_node_memory = 1004
       max_memory = 12288
+      vega_explorer_memory = 401
       psql_cpu = 1000
       psql_memory = 2000
     }
@@ -310,6 +312,11 @@ job "{{ .Name }}" {
         }
       }
 
+      template {
+        data        = file("{path.folder}/../config/blockexplorer.toml")
+        destination = "/tmp/local/vega/.blockexplorer/config/.blockexplorer/config.toml"
+      }
+
       // 1. No other option for set permissions for downloaded binary at the moment
       // Ref: https://github.com/hashicorp/nomad/issues/2625
       //
@@ -339,7 +346,15 @@ job "{{ .Name }}" {
             -rvh \
               /tmp/local/vega/.data-node/ /local/vega/.data-node/; # See point 2 in the comment above
 
+          mkdir -p /local/vega/.blockexplorer/config/.blockexplorer;
+          rsync \
+            --ignore-times \
+            -rvh \
+              tmp//local/vega/.blockexplorer/config/.blockexplorer/ /local/vega/.blockexplorer/config/.blockexplorer/;
+
+
           chown vega:vega -R /local/vega/.data-node;
+          chown vega:vega -R /local/vega/.blockexplorer;
           {{ end }}
 
           mkdir -p /local/vega/logs && chown vega:vega /local/vega/logs;
@@ -391,24 +406,6 @@ job "{{ .Name }}" {
               "--tendermint-home", "/local/vega/.tendermint"
           ])
         ]
-      }
-
-      resources {
-        cpu    = lookup(
-          local.current_node_resources,
-          "vega_cpu",
-          local.resources.default.vega_cpu
-        )
-        memory = lookup(
-          local.current_node_resources,
-          "vega_memory",
-          local.resources.default.vega_memory
-        )
-        memory_max = lookup(
-          local.current_node_resources,
-          "max_memory",
-          local.resources.default.max_memory
-        )
       }
     }
 
@@ -474,6 +471,48 @@ job "{{ .Name }}" {
           local.current_node_resources,
           "data_node_memory",
           local.resources.default.data_node_memory
+        )
+        memory_max = lookup(
+          local.current_node_resources,
+          "max_memory",
+          local.resources.default.max_memory
+        )
+      }
+    }
+
+    task "vega-blockexplorer" {
+      volume_mount {
+        volume      = "vega_home_volume"
+        destination = "/local/vega"
+        read_only = false
+      }
+
+      driver = "exec"
+      user = "vega"
+
+      config {
+        command = "bash"
+        args = [
+          "-c",
+          join(" ", [
+            "/local/vega/bin/vega",
+              "blockexplorer",
+              "start",
+              "--home", "/local/vega/.blockexplorer"
+          ])
+        ]
+      }
+
+      resources {
+        cpu    = lookup(
+          local.current_node_resources,
+          "vega_explorer_cpu",
+          local.resources.default.vega_explorer_cpu
+        )
+        memory = lookup(
+          local.current_node_resources,
+          "vega_explorer_memory",
+          local.resources.default.vega_explorer_memory
         )
         memory_max = lookup(
           local.current_node_resources,
