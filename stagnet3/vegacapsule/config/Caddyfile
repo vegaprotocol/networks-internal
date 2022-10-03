@@ -80,7 +80,15 @@
 	# header /* Access-Control-Request-Method GET
 }
 
-# Validators
+
+(blockexplorerpaths) {
+	route / {
+		reverse_proxy http://localhost:1515
+	}
+	route /* {
+		reverse_proxy http://localhost:1515
+	}
+}
 
 {node_idx}.stagnet3.vega.xyz:443 {
   tls devops@vegaprotocol.io
@@ -95,4 +103,10 @@ api.{node_idx}.stagnet3.vega.xyz:443 {
 tm.{node_idx}.stagnet3.vega.xyz:443 {
   tls devops@vegaprotocol.io
   import tendermintpaths
+}
+
+
+blockexplorer.{node_idx}.stagnet3.vega.xyz:443 {
+  tls devops@vegaprotocol.io
+  import blockexplorerpaths
 }
