@@ -407,6 +407,24 @@ job "{{ .Name }}" {
           ])
         ]
       }
+
+      resources {
+        cpu    = lookup(
+          local.current_node_resources,
+          "vega_cpu",
+          local.resources.default.vega_cpu
+        )
+        memory = lookup(
+          local.current_node_resources,
+          "vega_memory",
+          local.resources.default.vega_memory
+        )
+        memory_max = lookup(
+          local.current_node_resources,
+          "max_memory",
+          local.resources.default.max_memory
+        )
+      }
     }
 
     task "logger" {
