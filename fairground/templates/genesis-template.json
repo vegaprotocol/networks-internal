@@ -27,7 +27,7 @@
         "assets": {
             "177e8f6c25a955bd18475084b99b2b1d37f28f3dec393fab7755a7e69c3d8c3b": {
                 "decimals": 5,
-                "name": "tEURO Fairground",
+                "name": "tEURO TEST",
                 "quantum": "1",
                 "source": {
                     "erc20": {
@@ -40,8 +40,8 @@
                 "total_supply": "64999723000000000000000000"
             },
             "b340c130096819428a62e5df407fd6abe66e444b89ad64f670beb98621c9c663": {
-                "decimals": 18,
-                "name": "tDAI Fairground",
+                "decimals": 5,
+                "name": "tDAI TEST",
                 "quantum": "1",
                 "source": {
                     "erc20": {
@@ -54,8 +54,8 @@
                 "total_supply": "64999723000000000000000000"
             },
             "c9fe6fc24fce121b2cc72680543a886055abb560043fda394ba5376203b7527d": {
-                "decimals": 6,
-                "name": "tUSDC Fairground",
+                "decimals": 5,
+                "name": "tUSDC TEST",
                 "quantum": "1",
                 "source": {
                     "erc20": {
@@ -68,8 +68,8 @@
                 "total_supply": "64999723000000000000000000"
             },
             "cee709223217281d7893b650850ae8ee8a18b7539b5658f9b4cc24de95dd18ad": {
-                "decimals": 8,
-                "name": "tBTC Fairground",
+                "decimals": 5,
+                "name": "tBTC TEST",
                 "quantum": "1",
                 "source": {
                     "erc20": {
@@ -143,7 +143,7 @@
             },
             "fc7fd956078fb1fc9db5c19b88f0874c4299b2a7639ad05a47a28c0aef291b55": {
                 "decimals": 18,
-                "name": "Vega (Fairground)",
+                "name": "Vega (fairground)",
                 "quantum": "1",
                 "source": {
                     "erc20": {
