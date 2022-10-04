@@ -271,7 +271,7 @@
       }
     }
   },
-  "chain_id": "vega-fairground-202210032019",
+  "chain_id": "vega-fairground-202210041151",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -290,7 +290,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-10-03T20:19:40.71009198Z",
+  "genesis_time": "2022-10-04T11:51:09.156481366Z",
   "initial_height": "0",
   "validators": [
     {
