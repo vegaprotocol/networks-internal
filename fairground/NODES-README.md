@@ -23,3 +23,4 @@ You can check networks status [here](https://stats.vega.trading/) under `fairgro
 | n10.testnet.vega.xyz | tm.n10.testnet.vega.xyz | api.n10.testnet.vega.xyz | sgp1 | s-4vcpu-8gb | do |
 | n11.testnet.vega.xyz | tm.n11.testnet.vega.xyz | api.n11.testnet.vega.xyz | fra1 | s-4vcpu-8gb | do |
 | n12.testnet.vega.xyz | tm.n12.testnet.vega.xyz | api.n12.testnet.vega.xyz | fra1 | s-4vcpu-8gb | do |
+| n13.testnet.vega.xyz | tm.n13.testnet.vega.xyz | api.n13.testnet.vega.xyz | fra1 | s-4vcpu-8gb | do |
