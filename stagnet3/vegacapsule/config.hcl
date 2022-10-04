@@ -5,10 +5,10 @@ vega_binary_path = "vega"
 
 network "stagnet3" {
 	ethereum {
-    chain_id   = "3"
-    network_id = "3"
+    chain_id   = "11155111"
+    network_id = "11155111"
     # TODO: parametrize the infura secret 
-    endpoint   = "https://ropsten.infura.io/v3/788bcc6c34e149c58999b7f6607338a6"
+    endpoint   = "https://sepolia.infura.io/v3/788bcc6c34e149c58999b7f6607338a6"
   }
 
   pre_start {
