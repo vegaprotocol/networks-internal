@@ -10,6 +10,7 @@ name: "Automated network configuration update for k8s"
       - stagnet3/stagnet3.toml
       - devnet/devnet.toml
       - devnet1/vegawallet-devnet1.toml
+      - fairground/vegawallet-fairground.toml
       - .github/workflows/push_network_config.yml
 jobs:
   update-manifest-repo:
@@ -62,6 +63,16 @@ jobs:
             sed -i 's|^Port.*|Port = 80|' $file
             cp $file k8s/charts/apps/vegawallet/stagnet3/files/stagnet3.toml
             cat k8s/charts/apps/vegawallet/stagnet3/files/stagnet3.toml
+          fi
+
+          file="fairground/vegawallet-fairground.toml"
+          if [ -f $file ]; then
+            echo "Updating stagnet3"
+            sed -i  "1s|^|#this file is added automatically from github.com/vegaprotcol/networks-internal\n|" $file
+            sed -i 's|^Host.*|Host = "0.0.0.0"|' $file
+            sed -i 's|^Port.*|Port = 80|' $file
+            cp $file k8s/charts/apps/vegawallet/fairground/files/fairground.toml
+            cat k8s/charts/apps/vegawallet/fairground/files/fairground.toml
           fi
 
           cd k8s
