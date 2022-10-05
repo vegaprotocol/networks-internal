@@ -4,43 +4,43 @@
     "pub": "0x0"
   },
   "MultisigControl": {
-    "Ethereum": "0xDD2df0E7583ff2acfed5e49Df4a424129cA9B58F"
+    "Ethereum": "0xA52ecAD5089Dea6ca966C96d64d4B78614396941"
   },
   "ERC20_Asset_Pool": {
-    "Ethereum": "0x82A557e31c7ac6B8F64704d740abE1f4c6f38Ca9"
+    "Ethereum": "0x4cb3F2e5fDe90fbee24894Eeb081c7BFAA8895c0"
   },
   "erc20_vesting": {
-    "Ethereum": "0x51cbB1fef9a2eC4F534D9bf4734e897c24f628e5"
+    "Ethereum": "0x7B8bbe0B7beD8505DBB4c03Aa13ABEfc7F6cd242"
   },
   "erc20_bridge_1": {
-    "Ethereum": "0xBa5f5f5F4196EC1F71053C777250D0Ff89C0BaC0"
+    "Ethereum": "0x0004b909dbb8b1D5a1D3A5978bc9f9F51a110D01"
   },
   "VEGA": {
-    "Ethereum": "0xE76242e70663e622714A78B12CbCE85Fe03F68D8",
+    "Ethereum": "0xF136d9Ca8f9C2F6501487994e498fCDC48813Ae6",
     "Vega": "0xb4f2726571fbe8e33b442dc92ed2d7f0d810e21835b7371a7915a365f07ccd9b"
   },
   "VEGAv1": {
-    "Ethereum": "0xC6e0F7Afa4A74461fE9e22B1B063732edf4cE229",
+    "Ethereum": "0xF043C978e77d7Ba9411708B70432A79BE44e65B8",
     "Vega": "0xc1607f28ec1d0a0b36842c8327101b18de2c5f172585870912f5959145a9176c"
   },
   "staking_bridge": {
-    "Ethereum": "0xdae12420C97881989e56D3aA6eB450DD65adbC63"
+    "Ethereum": "0x871c40080F6bd7Ab68c78399a9Bf46ada3aF99AB"
   },
   "tBTC": {
-    "Ethereum": "0x123cB4a2AB190F88a50646D5436aB3F5859107Ed",
-    "Vega": "0xcee709223217281d7893b650850ae8ee8a18b7539b5658f9b4cc24de95dd18ad"
+    "Ethereum": "0x333a2B77fd3c261DfAbB8E161d9063F6c15A3816",
+    "Vega": "0x5250f006831ceb27b83ac7068a049d6b4f60cf0f1254ccc3c4c11d8952e8cc1e"
   },
   "tDai": {
-    "Ethereum": "0x973cB2a51F83a707509fe7cBafB9206982E1c3ad",
-    "Vega": "0xb340c130096819428a62e5df407fd6abe66e444b89ad64f670beb98621c9c663"
+    "Ethereum": "0x355C3914Ea8F25559D5b8c3E1134c57fB3739B7A",
+    "Vega": "0x74eeaeb035d444a77599dc7e2829ea7fcdc685fd47173a2a2e5fae0994a9d494"
   },
   "tEURO": {
-    "Ethereum": "0x7119500C6327928ae4E64531feBB258f0a33A617",
-    "Vega": "0x177e8f6c25a955bd18475084b99b2b1d37f28f3dec393fab7755a7e69c3d8c3b"
+    "Ethereum": "0xF47c3A0f61ED18386db1FD87Aad3C4523Ec326E8",
+    "Vega": "0x37b6a93ad671e25a47682d8562c3c6f4283d051f229b81eba182bd5ae4afa17c"
   },
   "tUSDC": {
-    "Ethereum": "0x40ff2D218740EF033b43B8Ce0342aEBC81934554",
-    "Vega": "0xc9fe6fc24fce121b2cc72680543a886055abb560043fda394ba5376203b7527d"
+    "Ethereum": "0x6b3D260116d9a87458E44718b3DE7fABa8ac745C",
+    "Vega": "0x758cd6c8be67b2fb360a97e94200398b417633aeb534fadcfde7e2e42b491750"
   },
   "WOZ": {
     "Ethereum": "0x559cc3042F28dbaBE30A6b2343c102faeA08D399",
