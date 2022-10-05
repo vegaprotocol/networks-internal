@@ -120,7 +120,7 @@ aws s3 cp \
     --recursive \
     --only-show-errors \
     --no-progress \
-    ./home/ "s3://${S3_BUCKET_NAME}/stagnet3" && echo "done"
+    ./home/ "s3://${S3_BUCKET_NAME}/stagnet3" && echo "done"  || exit 1;
 echo "^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^";
 echo "";
 sleep 3;
