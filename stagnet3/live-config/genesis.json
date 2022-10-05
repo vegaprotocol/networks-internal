@@ -1,6 +1,6 @@
 {
-  "genesis_time": "2022-10-04T05:53:36.024820422Z",
-  "chain_id": "test-chain-pMa4hm",
+  "genesis_time": "2022-10-05T05:54:13.409592959Z",
+  "chain_id": "test-chain-kNs2nh",
   "initial_height": "1",
   "consensus_params": {
     "block": {
@@ -88,85 +88,97 @@
   "app_hash": "",
   "app_state": {
     "assets": {
-      "2282ffc06a557173d297739305cc69f6444cdbbb1089df7d9aef32bbfd735ba1": {
+      "147f6e5635a7f1707845022f6cd549c14703a16e08d473c8f5b37a0dc372212b": {
+        "decimals": 18,
+        "min_lp_stake": "1",
+        "name": "Woz Token (Vega)",
+        "source": {
+          "erc20": {
+            "contract_address": "0x559cc3042F28dbaBE30A6b2343c102faeA08D399"
+          }
+        },
+        "symbol": "WOZ",
+        "total_supply": "1000000000000000000000000000"
+      },
+      "22c5b1c0157e143588b6eb9b3aa45daa1028391b04cc2a15fc849459eb371c27": {
         "decimals": 18,
         "min_lp_stake": "1",
         "name": "Tim Token (Vega)",
         "source": {
           "erc20": {
-            "contract_address": "0x920B2375BCAC8cCDfDEFD74426c55C48e0304e4F"
+            "contract_address": "0x1e071110c83876dc71fBB9B85f273e1DDC805F12"
           }
         },
         "symbol": "TIM",
         "total_supply": "1000000000000000000000000000"
       },
-      "449dbfb66e7a444c485b4fdc77ddc6bbf81abbf7c8e247ac299c25e9557b99cf": {
+      "27aaf887825d1d194fc627b4c30bd51d2c8971ee6bb0330d8718d2c6984d1353": {
         "decimals": 18,
         "min_lp_stake": "1",
-        "name": "Taker Reward Token (Vega)",
+        "name": "Maker Reward Token (Vega)",
         "source": {
           "erc20": {
-            "contract_address": "0xf700Ce952B6EA11c01b43e5579C6D63286ff8CF0"
+            "contract_address": "0x4B8cC8de9Dae629dDB3e64A6b4669077AD9aA0C4"
           }
         },
-        "symbol": "TAK",
+        "symbol": "MAK",
         "total_supply": "1000000000000000000000000000"
       },
-      "5cfa87844724df6069b94e4c8a6f03af21907d7bc251593d08e4251043ee9f7c": {
-        "decimals": 5,
-        "min_lp_stake": "1",
-        "name": "tBTC TEST",
-        "source": {
-          "erc20": {
-            "contract_address": "0xC912F059b4eCCEF6C969B2E0e2544A1A2581C094"
-          }
-        },
-        "symbol": "tBTC",
-        "total_supply": "213000000000000000000000"
-      },
-      "6d9d35f657589e40ddfb448b7ad4a7463b66efb307527fedd2aa7df1bbd5ea61": {
-        "decimals": 5,
-        "min_lp_stake": "1",
-        "name": "tDAI TEST",
-        "source": {
-          "erc20": {
-            "contract_address": "0x6E3b01547c634942F9073CE863682ab32Dc500fc"
-          }
-        },
-        "symbol": "tDAI",
-        "total_supply": "12800000000000000000000000"
-      },
-      "8b52d4a3a4b0ffe733cddbc2b67be273816cfeb6ca4c8b339bac03ffba08e4e4": {
+      "37b6a93ad671e25a47682d8562c3c6f4283d051f229b81eba182bd5ae4afa17c": {
         "decimals": 5,
         "min_lp_stake": "1",
         "name": "tEURO TEST",
         "source": {
           "erc20": {
-            "contract_address": "0xD03f574C22EC71b5834DAE1D4cfBD00AcbAfAb89"
+            "contract_address": "0xF47c3A0f61ED18386db1FD87Aad3C4523Ec326E8"
           }
         },
         "symbol": "tEURO",
         "total_supply": "6100000000000000000000000"
       },
-      "98032ba34576f8012de9b822e1da3ed4b6223a4f4e05f573002d441ffb4bf314": {
+      "3a1560f1ab2b42fb50b190c61444b2c6cc44ac5ce918618103741aefde464d0c": {
         "decimals": 18,
         "min_lp_stake": "1",
-        "name": "Liquidity Reward Token (Vega)",
+        "name": "Taker Reward Token (Vega)",
         "source": {
           "erc20": {
-            "contract_address": "0xD2f21E37e78dD91b60FE3dD74A112e1a53b33057"
+            "contract_address": "0x7698D6c27326eB53a09eF50A6d851e7692cC82da"
           }
         },
-        "symbol": "LIQ",
+        "symbol": "TAK",
         "total_supply": "1000000000000000000000000000"
       },
-      "993ed98f4f770d91a796faab1738551193ba45c62341d20597df70fea6704ede": {
+      "5250f006831ceb27b83ac7068a049d6b4f60cf0f1254ccc3c4c11d8952e8cc1e": {
+        "decimals": 5,
+        "min_lp_stake": "1",
+        "name": "tBTC TEST",
+        "source": {
+          "erc20": {
+            "contract_address": "0x333a2B77fd3c261DfAbB8E161d9063F6c15A3816"
+          }
+        },
+        "symbol": "tBTC",
+        "total_supply": "213000000000000000000000"
+      },
+      "74eeaeb035d444a77599dc7e2829ea7fcdc685fd47173a2a2e5fae0994a9d494": {
+        "decimals": 5,
+        "min_lp_stake": "1",
+        "name": "tDAI TEST",
+        "source": {
+          "erc20": {
+            "contract_address": "0x355C3914Ea8F25559D5b8c3E1134c57fB3739B7A"
+          }
+        },
+        "symbol": "tDAI",
+        "total_supply": "12800000000000000000000000"
+      },
+      "758cd6c8be67b2fb360a97e94200398b417633aeb534fadcfde7e2e42b491750": {
         "decimals": 5,
         "min_lp_stake": "1",
         "name": "tUSDC TEST",
         "source": {
           "erc20": {
-            "contract_address": "0xCc1dE7A9ff1dF05B9f0e49CBfFCA1D02cb5a0E40"
+            "contract_address": "0x6b3D260116d9a87458E44718b3DE7fABa8ac745C"
           }
         },
         "symbol": "tUSDC",
@@ -243,52 +255,40 @@
         "symbol": "XYZgamma",
         "total_supply": "1000000000"
       },
+      "abed442a7c12ff0e70eb7b517b481602d08ec4084aaf15419d256081d3012a53": {
+        "decimals": 18,
+        "min_lp_stake": "1",
+        "name": "Liquidity Reward Token (Vega)",
+        "source": {
+          "erc20": {
+            "contract_address": "0x3303C7BcF0aa1858D4c3cE7E372dd10809aF7f86"
+          }
+        },
+        "symbol": "LIQ",
+        "total_supply": "1000000000000000000000000000"
+      },
       "b4f2726571fbe8e33b442dc92ed2d7f0d810e21835b7371a7915a365f07ccd9b": {
         "decimals": 18,
         "min_lp_stake": "1",
         "name": "Vega (stagnet3)",
         "source": {
           "erc20": {
-            "contract_address": "0x123CB30f41Af7552561A4b9A6e920DEAA6b58810"
+            "contract_address": "0xF136d9Ca8f9C2F6501487994e498fCDC48813Ae6"
           }
         },
         "symbol": "VEGA",
         "total_supply": "64999723000000000000000000"
       },
-      "ba98cdeeec849a053e60cc03808e91e90d9d2e62425c76a590617b95ad41a066": {
+      "ce6999045c26e8aa80c6ab3fbdf4b8b4c9a3beaa5f56231e690bb467dbb92808": {
         "decimals": 18,
         "min_lp_stake": "1",
         "name": "Steve Token (Vega)",
         "source": {
           "erc20": {
-            "contract_address": "0x5a16941cca2Db4AcdFC28Ac77a3e9652Fdf102e1"
+            "contract_address": "0x64fb7448A98556A8296de2215a6e46d11Af60803"
           }
         },
         "symbol": "STE",
-        "total_supply": "1000000000000000000000000000"
-      },
-      "ce3fb1ab0717f0adbce019d7aef53aacdbadefe2d30ad1647b55f134d4072c90": {
-        "decimals": 18,
-        "min_lp_stake": "1",
-        "name": "Woz Token (Vega)",
-        "source": {
-          "erc20": {
-            "contract_address": "0x5E4b9aDA947130Fc320a144cd22bC1641e5c9d81"
-          }
-        },
-        "symbol": "WOZ",
-        "total_supply": "1000000000000000000000000000"
-      },
-      "ebcd94151ae1f0d39a4bde3b21a9c7ae81a80ea4352fb075a92e07608d9c953d": {
-        "decimals": 18,
-        "min_lp_stake": "1",
-        "name": "Maker Reward Token (Vega)",
-        "source": {
-          "erc20": {
-            "contract_address": "0x8ec701DA58394F5d2c8C2873D31039454D5845C1"
-          }
-        },
-        "symbol": "MAK",
         "total_supply": "1000000000000000000000000000"
       },
       "fBTC": {
@@ -356,7 +356,7 @@
       "propose_market_enabled_from": "2000-01-01T00:00:00Z"
     },
     "network_parameters": {
-      "blockchains.ethereumConfig": "{\"network_id\": \"3\", \"chain_id\": \"3\", \"collateral_bridge_contract\": { \"address\": \"0x5F0Aa66E2E2662bf0DC30c23e776a11B89142B36\" }, \"confirmations\": 3, \"staking_bridge_contract\": { \"address\": \"0xA7298dbC0C0Df4739Ca6a5E5440577cC39f37222\", \"deployment_block_height\": 0}, \"token_vesting_contract\": { \"address\": \"0x6A73b9B6cD2CEee6e4464C2cC5B9EFBc9397B535\", \"deployment_block_height\": 0 }, \"multisig_control_contract\": { \"address\": \"0x0a432BBc9A7aBC4b7F308013F2E5988C2A8fe653\", \"deployment_block_height\": 0 }}",
+      "blockchains.ethereumConfig": "{\"network_id\": \"11155111\", \"chain_id\": \"11155111\", \"collateral_bridge_contract\": { \"address\": \"0x0004b909dbb8b1D5a1D3A5978bc9f9F51a110D01\" }, \"confirmations\": 3, \"staking_bridge_contract\": { \"address\": \"0x871c40080F6bd7Ab68c78399a9Bf46ada3aF99AB\", \"deployment_block_height\": 0}, \"token_vesting_contract\": { \"address\": \"0x7B8bbe0B7beD8505DBB4c03Aa13ABEfc7F6cd242\", \"deployment_block_height\": 0 }, \"multisig_control_contract\": { \"address\": \"0xA52ecAD5089Dea6ca966C96d64d4B78614396941\", \"deployment_block_height\": 0 }}",
       "governance.proposal.asset.maxClose": "8760h0m0s",
       "governance.proposal.asset.maxEnact": "8760h0m0s",
       "governance.proposal.asset.minClose": "1m0s",
