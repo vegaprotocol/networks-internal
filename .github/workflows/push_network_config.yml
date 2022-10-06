@@ -67,7 +67,7 @@ jobs:
 
           file="fairground/vegawallet-fairground.toml"
           if [ -f $file ]; then
-            echo "Updating stagnet3"
+            echo "Updating fairground"
             sed -i  "1s|^|#this file is added automatically from github.com/vegaprotcol/networks-internal\n|" $file
             sed -i 's|^Host.*|Host = "0.0.0.0"|' $file
             sed -i 's|^Port.*|Port = 80|' $file
