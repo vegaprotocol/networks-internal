@@ -2,11 +2,11 @@
   {
     "name": "fairground",
     "configFileUrl": "https://raw.githubusercontent.com/vegaprotocol/networks-internal/main/fairground/vegawallet-fairground.toml",
-    "sha": "0dfd8d1539ae28a460d5ef2d28067156192b944c"
+    "sha": "5b05d0ca9d1155b43ca5e9199e2414dec3dda102"
   },
   {
     "name": "mainnet1",
     "configFileUrl": "https://raw.githubusercontent.com/vegaprotocol/networks/master/mainnet1/mainnet1.toml",
-    "sha": "53a03df0e57ad1fcc54f8d6216b8d47b03b94be7"
+    "sha": "0dfd8d1539ae28a460d5ef2d28067156192b944c"
   }
 ]
