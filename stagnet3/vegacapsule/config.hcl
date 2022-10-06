@@ -19,7 +19,7 @@ network "stagnet3" {
   node_set "full" {
     count = 1
     mode = "full"
-	  data_node_binary = "data-node"
+	  use_data_node = true
     nomad_job_template_file = "./jobs/node_set.tmpl.nomad"
     // pre_generate {
     //   nomad_job "ganache" {
