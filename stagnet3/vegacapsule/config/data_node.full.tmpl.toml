@@ -7,7 +7,7 @@ GatewayEnabled = true
     Port = 5432
     Host = "127.0.0.1"
     Username = "vega"
-    Password = "ec27af68a52b74665860889db70fe327"
+    Password = "{{- env 'POSTGRES_VEGA_PASSWORD' -}}"
     Database = "vega0"
     UseTransactions = true
 

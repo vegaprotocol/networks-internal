@@ -8,7 +8,7 @@ network "stagnet3" {
     chain_id   = "11155111"
     network_id = "11155111"
     # TODO: parametrize the infura secret 
-    endpoint   = "https://sepolia.infura.io/v3/788bcc6c34e149c58999b7f6607338a6"
+    endpoint   = env("INFURA_URL")
   }
 
   pre_start {

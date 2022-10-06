@@ -574,7 +574,7 @@ job "{{ .Name }}" {
 
       env {
         POSTGRES_USER = "vega"
-        POSTGRES_PASSWORD = "ec27af68a52b74665860889db70fe327"
+        POSTGRES_PASSWORD = "{{- env "POSTGRES_VEGA_PASSWORD" -}}"
         POSTGRES_DBS = "vega0"
         TS_TUNE_NUM_CPUS = "2"
         TS_TUNE_MEMORY = "500MB"
