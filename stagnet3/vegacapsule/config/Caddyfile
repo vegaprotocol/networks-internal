@@ -1,4 +1,6 @@
 {
+  acme_ca https://acme.zerossl.com/v2/DV90
+  email   devops@vegaprotocol.io
   renew_interval 12h
 }
 
@@ -91,22 +93,18 @@
 }
 
 {node_idx}.stagnet3.vega.xyz:443 {
-  tls devops@vegaprotocol.io
 	import corepaths
 }
 
 api.{node_idx}.stagnet3.vega.xyz:443 {
-  tls devops@vegaprotocol.io
 	import datanodepaths
 }
 
 tm.{node_idx}.stagnet3.vega.xyz:443 {
-  tls devops@vegaprotocol.io
   import tendermintpaths
 }
 
 
 blockexplorer.{node_idx}.stagnet3.vega.xyz:443 {
-  tls devops@vegaprotocol.io
   import blockexplorerpaths
 }
