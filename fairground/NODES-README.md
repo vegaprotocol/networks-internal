@@ -18,7 +18,7 @@ You can check networks status [here](https://stats.vega.trading/) under `fairgro
 | n05.testnet.vega.xyz | tm.n05.testnet.vega.xyz | api.n05.testnet.vega.xyz | eu-west-2c | c5.xlarge | aws |
 | n06.testnet.vega.xyz | tm.n06.testnet.vega.xyz | api.n06.testnet.vega.xyz | fra1 | s-4vcpu-8gb | do |
 | n07.testnet.vega.xyz | tm.n07.testnet.vega.xyz | api.n07.testnet.vega.xyz | asia-northeast1-a | n1-highmem-4 | gcp |
-| n08.testnet.vega.xyz | tm.n08.testnet.vega.xyz | api.n08.testnet.vega.xyz | eu-west-2c | c5.xlarge | aws |
+| n08.testnet.vega.xyz | tm.n08.testnet.vega.xyz | api.n08.testnet.vega.xyz | eu-west-2c | c5.2xlarge | aws |
 | n09.testnet.vega.xyz | tm.n09.testnet.vega.xyz | api.n09.testnet.vega.xyz | sfo3 | s-4vcpu-8gb | do |
 | n10.testnet.vega.xyz | tm.n10.testnet.vega.xyz | api.n10.testnet.vega.xyz | sgp1 | s-4vcpu-8gb | do |
 | n11.testnet.vega.xyz | tm.n11.testnet.vega.xyz | api.n11.testnet.vega.xyz | fra1 | s-4vcpu-8gb | do |
