@@ -1,18 +1,10 @@
 # networks-internal
-The configuration for vega operated testnets
+The configuration for vega operated test networks
 
-## Update config files
+## Fairground
 
-To pull latest config files from a network you need to have `python3` and `rsync` installed.
+See [Fairground readme](fairground/README.md) for Fairground releated information.
 
-Then you can run:
+### Restart node or network
 
-```bash
-./scripts/pull_config.py -u [ssh username] -n (devnet|stagnet1|stagnet2)
-```
-
-You can also specify ssh key file:
-
-```bash
-./scripts/pull_config.py -u [ssh username] -k [path to ssh private key] -n (devnet|stagnet1|stagnet2)
-```
+For restart instruction please have a look into [RESTART.md](RESTART.md)
