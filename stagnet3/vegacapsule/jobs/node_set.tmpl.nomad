@@ -283,6 +283,12 @@ job "{{ .Name }}" {
         command = "bash"
         args = ["-c", "/pre-start.sh"]
       }
+
+      resources {
+        cpu    = 1000
+        memory = 1000
+        memory_max = 2000
+      }
     }
 
     task "download-network-config" {
