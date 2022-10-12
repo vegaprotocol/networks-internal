@@ -15,3 +15,4 @@ You can check networks status [here](https://stats.vega.trading/) under `devnet1
 | n02.devnet1.vega.xyz | tm.n02.devnet1.vega.xyz | api.n02.devnet1.vega.xyz | sgp1 | s-4vcpu-8gb | do |
 | n03.devnet1.vega.xyz | tm.n03.devnet1.vega.xyz | api.n03.devnet1.vega.xyz | fra1 | s-4vcpu-8gb | do |
 | n04.devnet1.vega.xyz | tm.n04.devnet1.vega.xyz | api.n04.devnet1.vega.xyz | fra1 | s-4vcpu-8gb | do |
+| n05.devnet1.vega.xyz | tm.n05.devnet1.vega.xyz | api.n05.devnet1.vega.xyz | fra1 | s-4vcpu-8gb | do |
