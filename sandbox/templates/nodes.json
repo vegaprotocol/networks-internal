@@ -1,0 +1,34 @@
+{
+	"n00": {
+		"node": "n00",
+		"url": "n00.sandbox.vega.xyz",
+		"ethereum_address": "0x232709eE7a5853188866D4aD0BCAbF57303A9862",
+		"vega_pub_key": "fa67293da795919f4709df170a9deebddeb4ebec20080a02536f88b239e10f5e",
+		"id": "71bf9e928f4fe4dee9ef07e10d766bf26777cf9f4da01c697e2b00659d028b14",
+		"tm_node_id": "C3F13C03B318F7E8B64DA29636EFFB112631A795",
+		"tm_node_pub_key": "XIPNxA0mKcP6PkmAy7LTxxDwRuJeIRhyBP1TPYbBC8o=",
+		"tm_validator_address": "63A6CAF847D4BE55B699B436D0B9CDAE8E88160E",
+		"tm_validator_pub_key": "A1SG5jxwlYyLZ3+qhbJtyhd+uMKDW9U+0woq9UoYX8Q=",
+		"info_url": "",
+		"country": "",
+		"avatar_url": "",
+		"name": "",
+		"disabled": false
+	},
+	"n01": {
+		"node": "n01",
+		"url": "n01.sandbox.vega.xyz",
+		"ethereum_address": "0xcE8E3096B79FAa6077927D26a8562b493Ae5862c",
+		"vega_pub_key": "1a94865a473e547c3e284f266af627856680cadf29fb52aecb3bf72ffff447ad",
+		"id": "00c30c540c16cf9e86ca46f4e280b05a71d686aba80f1d215a47dc17f5c75d56",
+		"tm_node_id": "CA93272106ACE023AA2B7826EE1ED33CF26AD833",
+		"tm_node_pub_key": "oM31F73+IxyYg2IDOE/Z3xne0ZYzCragwwnjEnBJG+Y=",
+		"tm_validator_address": "DBEE85A886E2E4FEC372010D69791CFBA9004457",
+		"tm_validator_pub_key": "XzlbGRshtLkcmJG0Hp0wtHB++bb3JLu+JutQ4LHB86A=",
+		"info_url": "",
+		"country": "",
+		"avatar_url": "",
+		"name": "",
+		"disabled": false
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"MultisigControl": {
+		"address": "0xA84Cf986832742D14dd376609E1A87E1D553029E",
+		"version": "v2"
+	},
+	"ERC20Bridge": {
+		"address": "0xe5F747a2c73577dBea140B6b95914287c3b77b7A",
+		"version": "v2"
+	},
+	"ERC20AssetPool": {
+		"address": "0xBb88B0Ed069ee4B6a7Eae39e25eC293e7D03bc20",
+		"version": "v1"
+	},
+	"StakingBridge": {
+		"address": "0x448D69eDeA5c47Ca1C426627f83768491Ed0E5d8",
+		"version": "v1"
+	},
+	"VestingBridge": {
+		"address": "0xC105F19A7D3D076D38ab07B3272e88c9E5042566",
+		"version": "v1"
+	},
+	"VegaToken": {
+		"address": "0xAe6dd14bD9313d22Cf2254F347836570Df592022",
+		"version": "TokenBase",
+		"minter": "0xc2A120Cf7dC603320f171F336206642324533C2f"
+	},
+	"V1Token": {
+		"address": "0xb2dAb52D55BbAaB1547F38246D5A499dcB20548a",
+		"version": "TokenBase",
+		"minter": "0xc2A120Cf7dC603320f171F336206642324533C2f"
+	}
+}

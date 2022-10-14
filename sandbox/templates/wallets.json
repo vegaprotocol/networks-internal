@@ -1,0 +1,11 @@
+{
+	"ethereum": {
+		"main": {
+			"name": "main",
+			"secret_path": "sandbox/main",
+			"description": "Main Ethereum wallet for the sandbox network",
+			"address": "0xc2A120Cf7dC603320f171F336206642324533C2f"
+		}
+	},
+	"vegawallet": {}
+}
