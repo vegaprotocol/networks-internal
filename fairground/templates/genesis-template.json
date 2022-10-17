@@ -25,7 +25,7 @@
     ],
     "app_state": {
         "assets": {
-            "8b52d4a3a4b0ffe733cddbc2b67be273816cfeb6ca4c8b339bac03ffba08e4e4": {
+            "4e4e80abff30cab933b8c4ac6befc618372eb76b2cbddc337eff0b4a3a4d25b8": {
                 "decimals": 5,
                 "name": "tEURO Fairground",
                 "quantum": "1",
@@ -39,7 +39,7 @@
                 "symbol": "tEURO",
                 "total_supply": "64999723000000000000000000"
             },
-            "6d9d35f657589e40ddfb448b7ad4a7463b66efb307527fedd2aa7df1bbd5ea61": {
+            "16ae5dbb1fd7aa2ddef725703bfe66b3647a4da7b844bfdd04e985756f53d9d6": {
                 "decimals": 18,
                 "name": "tDAI Fairground",
                 "quantum": "1",
@@ -53,7 +53,7 @@
                 "symbol": "tDAI",
                 "total_supply": "64999723000000000000000000"
             },
-            "993ed98f4f770d91a796faab1738551193ba45c62341d20597df70fea6704ede": {
+            "ede4076aef07fd79502d14326c54ab3911558371baaf697a19d077f4f89de399": {
                 "decimals": 6,
                 "name": "tUSDC Fairground",
                 "quantum": "1",
@@ -67,7 +67,7 @@
                 "symbol": "tUSDC",
                 "total_supply": "64999723000000000000000000"
             },
-            "5250f006831ceb27b83ac7068a049d6b4f60cf0f1254ccc3c4c11d8952e8cc1e": {
+            "e1cc8e2598d11c4c3ccc4521f0fc06f4b6d940a8607ca38b72bec138600f0525": {
                 "decimals": 8,
                 "name": "tBTC Fairground",
                 "quantum": "1",
