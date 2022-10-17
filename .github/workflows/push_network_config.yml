@@ -65,6 +65,16 @@ jobs:
             cat k8s/charts/apps/vegawallet/fairground/files/fairground.toml
           fi
 
+          file="sandbox/vegawallet-sandbox.toml"
+          if [ -f $file ]; then
+            echo "Updating sandbox"
+            sed -i  "1s|^|#this file is added automatically from github.com/vegaprotcol/networks-internal\n|" $file
+            sed -i 's|^Host.*|Host = "0.0.0.0"|' $file
+            sed -i 's|^Port.*|Port = 80|' $file
+            cp $file k8s/charts/apps/vegawallet/sandbox/files/sandbox.toml
+            cat k8s/charts/apps/vegawallet/sandbox/files/sandbox.toml
+          fi
+
           cd k8s
           if ! git diff --exit-code; then
             git add -A
