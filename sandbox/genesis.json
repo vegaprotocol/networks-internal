@@ -129,7 +129,7 @@
       "transfer.fee.factor": "0.001",
       "transfer.minTransferQuantumMultiple": "100",
       "validators.delegation.minAmount": "100000000000000000",
-      "validators.epoch.length": "3h",
+      "validators.epoch.length": "1h",
       "validators.vote.required": "0.67"
     },
     "network_parameters_checkpoint_overwrite": null,
@@ -147,7 +147,7 @@
       }
     }
   },
-  "chain_id": "vega-sandbox-202210181011",
+  "chain_id": "vega-sandbox-202210210947",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -166,7 +166,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-10-18T10:11:19.818560071Z",
+  "genesis_time": "2022-10-21T09:47:09.746261826Z",
   "initial_height": "0",
   "validators": [
     {
