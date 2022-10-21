@@ -1,1 +1,0 @@
-For latest `genesis.json` and `vegawallet-devnet1.toml` look in `config-devnet1` branch.
