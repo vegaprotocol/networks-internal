@@ -152,7 +152,7 @@
             "transfer.fee.factor" : "0.001",
             "transfer.minTransferQuantumMultiple" : "100",
             "validators.delegation.minAmount" : "100000000000000000",
-            "validators.epoch.length" : "3h",
+            "validators.epoch.length" : "1h",
             "validators.vote.required" : "0.67"
         },
         "network_parameters_checkpoint_overwrite": null,
