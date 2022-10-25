@@ -210,6 +210,12 @@
       "governance.proposal.asset.minVoterBalance": "1",
       "governance.proposal.asset.requiredMajority": "0.66",
       "governance.proposal.asset.requiredParticipation": "0.5",
+      "governance.proposal.freeform.maxClose": "8760h0m0s",
+      "governance.proposal.freeform.minClose": "1h0m0s",
+      "governance.proposal.freeform.minProposerBalance": "1",
+      "governance.proposal.freeform.minVoterBalance": "1",
+      "governance.proposal.freeform.requiredMajority": "0.66",
+      "governance.proposal.freeform.requiredParticipation": "0.3",
       "governance.proposal.market.maxClose": "8760h0m0s",
       "governance.proposal.market.maxEnact": "8760h0m0s",
       "governance.proposal.market.minClose": "1m0s",
@@ -288,7 +294,13 @@
       "governance.proposal.updateAsset.minProposerBalance",
       "governance.proposal.updateAsset.minVoterBalance",
       "governance.proposal.updateAsset.requiredMajority",
-      "governance.proposal.updateAsset.requiredParticipation"
+      "governance.proposal.updateAsset.requiredParticipation",
+      "governance.proposal.freeform.maxClose",
+      "governance.proposal.freeform.minClose",
+      "governance.proposal.freeform.minProposerBalance",
+      "governance.proposal.freeform.minVoterBalance",
+      "governance.proposal.freeform.requiredMajority",
+      "governance.proposal.freeform.requiredParticipation"
     ],
     "validators": {
       "2w5hxsVqWFTV6/f0swyNVqOhY1vWI42MrfO0xkUqsiA=": {
@@ -348,7 +360,7 @@
       }
     }
   },
-  "chain_id": "vega-fairground-202210251708",
+  "chain_id": "vega-fairground-202210251736",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -367,7 +379,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-10-25T17:08:41.073136077Z",
+  "genesis_time": "2022-10-25T17:36:25.321392209Z",
   "initial_height": "0",
   "validators": [
     {
