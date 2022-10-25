@@ -229,6 +229,14 @@
             "governance.proposal.asset.minVoterBalance": "1",
             "governance.proposal.asset.requiredMajority": "0.66",
             "governance.proposal.asset.requiredParticipation": "0.5",
+            "governance.proposal.updateAsset.maxClose": "8760h0m0s",
+            "governance.proposal.updateAsset.maxEnact": "8760h0m0s",
+            "governance.proposal.updateAsset.minClose": "1h0m0s",
+            "governance.proposal.updateAsset.minEnact": "1h0m0s",
+            "governance.proposal.updateAsset.minProposerBalance": "1",
+            "governance.proposal.updateAsset.minVoterBalance": "1",
+            "governance.proposal.updateAsset.requiredMajority": "0.66",
+            "governance.proposal.updateAsset.requiredParticipation": "0.3",
             "governance.proposal.market.maxClose": "8760h0m0s",
             "governance.proposal.market.maxEnact": "8760h0m0s",
             "governance.proposal.market.minClose": "1m0s",
@@ -291,7 +299,15 @@
             "validators.epoch.length": "2h",
             "validators.vote.required": "0.67"
         },
-        "network_parameters_checkpoint_overwrite": null,
+        "network_parameters_checkpoint_overwrite": [
+            "governance.proposal.updateAsset.maxClose", 
+            "governance.proposal.updateAsset.maxEnact", 
+            "governance.proposal.updateAsset.minClose", 
+            "governance.proposal.updateAsset.minEnact",
+            "governance.proposal.updateAsset.minProposerBalance",
+            "governance.proposal.updateAsset.minVoterBalance",
+            "governance.proposal.updateAsset.requiredMajority",
+            "governance.proposal.updateAsset.requiredParticipation"],
         "validators": "-THIS-WILL-BE-FILLED-IN-"
     },
     "app_hash": ""
