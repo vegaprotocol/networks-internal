@@ -2,6 +2,7 @@
   {
     "name": "fairground",
     "configFileUrl": "https://raw.githubusercontent.com/vegaprotocol/networks-internal/main/fairground/vegawallet-fairground.toml",
+    "explorer": "https://explorer.fairground.wtf",
     "sha": "5b05d0ca9d1155b43ca5e9199e2414dec3dda102"
   }
 ]
