@@ -25,5 +25,4 @@ Node documentation page contains all useful informations about the node. You can
 | n10.testnet.vega.xyz | tm.n10.testnet.vega.xyz | api.n10.testnet.vega.xyz | sgp1 | s-4vcpu-8gb | do |
 | n11.testnet.vega.xyz | tm.n11.testnet.vega.xyz | api.n11.testnet.vega.xyz | fra1 | s-4vcpu-8gb | do |
 | n12.testnet.vega.xyz | tm.n12.testnet.vega.xyz | api.n12.testnet.vega.xyz | fra1 | s-4vcpu-8gb | do |
-| n13.testnet.vega.xyz | tm.n13.testnet.vega.xyz | api.n13.testnet.vega.xyz | fra1 | s-4vcpu-8gb | do |
 | be.testnet.vega.xyz | tm.be.testnet.vega.xyz | api.be.testnet.vega.xyz | fra1 | s-4vcpu-8gb | do |
