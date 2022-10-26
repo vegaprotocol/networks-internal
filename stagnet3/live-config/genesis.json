@@ -1,5 +1,5 @@
 {
-  "genesis_time": "2022-10-25T05:52:37.152216907Z",
+  "genesis_time": "2022-10-26T02:59:11.701174965Z",
   "chain_id": "stagnet3",
   "initial_height": "1",
   "consensus_params": {
@@ -367,8 +367,8 @@
       "governance.proposal.asset.requiredParticipation": "0.5",
       "governance.proposal.freeform.maxClose": "8760h0m0s",
       "governance.proposal.freeform.minClose": "48h0m0s",
-      "governance.proposal.freeform.minProposerBalance": "0",
-      "governance.proposal.freeform.minVoterBalance": "0",
+      "governance.proposal.freeform.minProposerBalance": "1",
+      "governance.proposal.freeform.minVoterBalance": "1",
       "governance.proposal.freeform.requiredMajority": "0.66",
       "governance.proposal.freeform.requiredParticipation": "0.00001",
       "governance.proposal.market.maxClose": "8760h0m0s",
@@ -383,8 +383,8 @@
       "governance.proposal.updateAsset.maxEnact": "8760h0m0s",
       "governance.proposal.updateAsset.minClose": "48h0m0s",
       "governance.proposal.updateAsset.minEnact": "48h0m0s",
-      "governance.proposal.updateAsset.minProposerBalance": "0",
-      "governance.proposal.updateAsset.minVoterBalance": "0",
+      "governance.proposal.updateAsset.minProposerBalance": "1",
+      "governance.proposal.updateAsset.minVoterBalance": "1",
       "governance.proposal.updateAsset.requiredMajority": "0.66",
       "governance.proposal.updateAsset.requiredParticipation": "0.00001",
       "governance.proposal.updateMarket.maxClose": "8760h0m0s",
