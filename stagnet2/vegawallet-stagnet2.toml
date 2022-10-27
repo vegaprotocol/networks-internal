@@ -1,0 +1,25 @@
+Host = "127.0.0.1"
+Level = "info"
+Name = "stagnet2"
+Port = 1789
+TokenExpiry = "168h0m0s"
+
+[API]
+
+  [API.GRPC]
+    Hosts = ["api.stagnet2.vega.xyz:3007", "api.n00.stagnet2.vega.xyz:3007"]
+    Retries = 5
+
+  [API.GraphQL]
+    Hosts = ["https://api.stagnet2.vega.xyz/graphql", "https://api.n00.stagnet2.vega.xyz/graphql"]
+
+  [API.REST]
+    Hosts = ["https://api.stagnet2.vega.xyz", "https://api.n00.stagnet2.vega.xyz"]
+
+[Console]
+  LocalPort = 1847
+  URL = ""
+
+[TokenDApp]
+  LocalPort = 1848
+  URL = ""
