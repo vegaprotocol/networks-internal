@@ -265,52 +265,52 @@
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
-        "avatar_url": "",
-        "country": "",
+        "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
+        "country": "JC",
         "ethereum_address": "0xEbD0509923b3a1788032996f8B0fAC34803991fc",
         "id": "15e41e63820f0dfaaaf44cf6d73f4d598e4769432d84c4ddd7e95289508d6519",
-        "info_url": "",
-        "name": "",
+        "info_url": "https://en.wikipedia.org/wiki/Polgahawela_Electoral_District",
+        "name": "tricky-teacher",
         "tm_pub_key": "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=",
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
-        "avatar_url": "",
-        "country": "",
+        "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
+        "country": "IK",
         "ethereum_address": "0x7629Faf5B7a3BB167B6f2F86DB5fB7f13B20Ee90",
         "id": "4554375ce61b6828c6f7b625b7735034496b7ea19951509cccf4eb2ba35011b0",
-        "info_url": "",
-        "name": "",
+        "info_url": "https://en.wikipedia.org/wiki/Integrated_logistics_support",
+        "name": "friendly-barber",
         "tm_pub_key": "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=",
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
-        "avatar_url": "",
-        "country": "",
+        "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
+        "country": "UW",
         "ethereum_address": "0x5945ae02D5EE15181cc4AC0f5EaeF4C25Dc17Aa8",
         "id": "927cbf8d5909cc017cf78ea9806fd57c3115d37e481eaf9d866f526b356f3ced",
-        "info_url": "",
-        "name": "",
+        "info_url": "https://en.wikipedia.org/wiki/1915%E2%80%931916_Church_of_England_border_polls",
+        "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
-        "avatar_url": "",
-        "country": "",
+        "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
+        "country": "RU",
         "ethereum_address": "0x539ac90d9523f878779491D4175dc11AD09972F0",
         "id": "95893347980299679883f817f118718f949826d1a0a1c2e4f22ba5f0cd6d1f5d",
-        "info_url": "",
-        "name": "",
+        "info_url": "https://en.wikipedia.org/wiki/The_Morning_Show_(American_TV_series)",
+        "name": "alive-pencil",
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202210280935",
+  "chain_id": "vega-devnet1-202210281342",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -329,12 +329,12 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-10-28T09:35:57.346159987Z",
+  "genesis_time": "2022-10-28T13:42:46.055081538Z",
   "initial_height": "0",
   "validators": [
     {
       "address": "930F4525243DC942E3A0655E23442A902C04814E",
-      "name": "Validator n01",
+      "name": "alive-pencil",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
@@ -343,7 +343,7 @@
     },
     {
       "address": "4AEDFA744D85D865035B96ECF5E43DCCAD27FE85",
-      "name": "Validator n02",
+      "name": "friendly-barber",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
@@ -352,7 +352,7 @@
     },
     {
       "address": "4D9FC26A72A6F94D844E8B0785AE4803BB2672C6",
-      "name": "Validator n03",
+      "name": "icy-doctor",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
@@ -361,7 +361,7 @@
     },
     {
       "address": "DE5096E7CC482666B76A91EC51FE66383B6A21E6",
-      "name": "Validator n04",
+      "name": "tricky-teacher",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
