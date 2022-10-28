@@ -9,11 +9,10 @@
 		"tm_node_pub_key": "XIPNxA0mKcP6PkmAy7LTxxDwRuJeIRhyBP1TPYbBC8o=",
 		"tm_validator_address": "63A6CAF847D4BE55B699B436D0B9CDAE8E88160E",
 		"tm_validator_pub_key": "A1SG5jxwlYyLZ3+qhbJtyhd+uMKDW9U+0woq9UoYX8Q=",
-		"info_url": "",
-		"country": "",
-		"avatar_url": "",
-		"name": "",
-		"disabled": false
+		"info_url": "https://en.wikipedia.org/wiki/Rafe_Furst",
+		"country": "YM",
+		"avatar_url": "https://www.gravatar.com/avatar/jb2xdx3kv8bruvyf6ltykekf6l8gqefc?d=identicon",
+		"name": "ugly-burger"
 	},
 	"n01": {
 		"node": "n01",
@@ -25,10 +24,9 @@
 		"tm_node_pub_key": "oM31F73+IxyYg2IDOE/Z3xne0ZYzCragwwnjEnBJG+Y=",
 		"tm_validator_address": "DBEE85A886E2E4FEC372010D69791CFBA9004457",
 		"tm_validator_pub_key": "XzlbGRshtLkcmJG0Hp0wtHB++bb3JLu+JutQ4LHB86A=",
-		"info_url": "",
-		"country": "",
-		"avatar_url": "",
-		"name": "",
-		"disabled": false
+		"info_url": "https://en.wikipedia.org/wiki/Duchy_of_Courland_and_Semigallia_(1918)",
+		"country": "YP",
+		"avatar_url": "https://www.gravatar.com/avatar/h2mihtnwqrv849kv9ta7icemvhgos7tt?d=identicon",
+		"name": "narrow-wind"
 	}
 }
