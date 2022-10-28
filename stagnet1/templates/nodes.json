@@ -1,4 +1,19 @@
 {
+	"be": {
+		"node": "be",
+		"url": "be.stagnet1.vega.xyz",
+		"ethereum_address": "0x78FAc30848602c1BFAa53e214ab40b53730002ec",
+		"vega_pub_key": "b4e898ad1fbc6256f433f8a6f61f84e15635cbe2fdee8fd45258ad5da0e789f9",
+		"id": "2e72c5f0a15a78bf04d425d89fd9b45b4d1cce11b7960f848d81ee0f28bf485d",
+		"tm_node_id": "D1EF64698E422A27FC3454B67897A5B35E541300",
+		"tm_node_pub_key": "rquqPt0TPRmD9NUjJ1r6GzzT3FvH+ua12WxpfgLqHaI=",
+		"tm_validator_address": "C36C9BC0C63BF7353F74C541A9018931CF846EE4",
+		"tm_validator_pub_key": "/f2v/DFYy2JWRdEBzQhaGBT57KTAlg7UqYA4UGJstgc=",
+		"info_url": "https://en.wikipedia.org/wiki/2006_European_Athletics_Championships_%E2%80%93_Women%27s_100_metres_hurdles",
+		"country": "XW",
+		"avatar_url": "https://www.gravatar.com/avatar/0b6crgnubmml5u2mjnl1jea2ig5pqgdk?d=identicon",
+		"name": "hollow-clouds"
+	},
 	"n00": {
 		"node": "n00",
 		"url": "n00.stagnet1.vega.xyz",
@@ -9,11 +24,10 @@
 		"tm_node_pub_key": "Xst11Mq33H//1oPoDg2INb8d+A5iOP8KyNiB+ApkV6Y=",
 		"tm_validator_address": "04E11DA8F843462D4BC297B3BF5498D8CE55D31F",
 		"tm_validator_pub_key": "Cu80PPdgC019kOfZ8q0hkbEF9EK6tu7j5w0nLUt37ME=",
-		"info_url": "",
-		"country": "",
-		"avatar_url": "",
-		"name": "",
-		"disabled": false
+		"info_url": "https://en.wikipedia.org/wiki/Juma_Mosque_(Durban)",
+		"country": "FC",
+		"avatar_url": "https://www.gravatar.com/avatar/c4iee0xm9nbycbdhpft8v564w3nxtrht?d=identicon",
+		"name": "thundering-tile"
 	},
 	"n01": {
 		"node": "n01",
@@ -25,11 +39,10 @@
 		"tm_node_pub_key": "/jrp1G96GzLh2fwJj2aplL569GvkmbU4b9v7D0dvV50=",
 		"tm_validator_address": "7A0A0E6E619B764299BA8677B3C9E1C8FB267951",
 		"tm_validator_pub_key": "G3YPeYQ2FttOPsb+DPRBM2teUAWpBHw14o5WUj73zWo=",
-		"info_url": "",
-		"country": "",
-		"avatar_url": "",
-		"name": "",
-		"disabled": false
+		"info_url": "https://en.wikipedia.org/wiki/Rjana_%C5%81u%C5%BEica",
+		"country": "JC",
+		"avatar_url": "https://www.gravatar.com/avatar/i6ivthz2ax2m2h79i2fk0qim30acyeo3?d=identicon",
+		"name": "fluky-key"
 	},
 	"n02": {
 		"node": "n02",
@@ -41,11 +54,10 @@
 		"tm_node_pub_key": "57layBc02JHScF0MfObe/6fzmKu/4+Hhn/k98z4G9EQ=",
 		"tm_validator_address": "4F0AE745904C14A93A0B351BBF597DA2A35C4B33",
 		"tm_validator_pub_key": "no7LX/AQkjvXwE0kKAnQ1tkAR5Q0LbfeZ2cfucOv0KM=",
-		"info_url": "",
-		"country": "",
-		"avatar_url": "",
-		"name": "",
-		"disabled": false
+		"info_url": "https://en.wikipedia.org/wiki/Andreas_Troupis",
+		"country": "TD",
+		"avatar_url": "https://www.gravatar.com/avatar/8lsuodwwmt61alxiu6e1uq2ht2bhdkbz?d=identicon",
+		"name": "famous-monkey"
 	},
 	"n03": {
 		"node": "n03",
@@ -57,11 +69,10 @@
 		"tm_node_pub_key": "jkk/tmGdhJwNJG+x+r64R2werNjnyat0bqBZfMMmuYs=",
 		"tm_validator_address": "71F0E572F9B3C0708B4E605360ABDC0024468F39",
 		"tm_validator_pub_key": "ZZc+4Y2hfHeHbigpSlSoEv+ZfN0SVadwOx4MgFPfxv4=",
-		"info_url": "",
-		"country": "",
-		"avatar_url": "",
-		"name": "",
-		"disabled": false
+		"info_url": "https://en.wikipedia.org/wiki/La_viuda_negra_(TV_series)",
+		"country": "ZH",
+		"avatar_url": "https://www.gravatar.com/avatar/6l2jvijhg7gb6nbj2hps0abx8rgmmarh?d=identicon",
+		"name": "perplexed-pond"
 	},
 	"n04": {
 		"node": "n04",
@@ -73,11 +84,10 @@
 		"tm_node_pub_key": "W8M+YTx/4OduP01att1R4y/eUA8Kbn0iyrt2N97tXXE=",
 		"tm_validator_address": "BF47F0640BB4C098C4BCA86889F6D9AE83B78F64",
 		"tm_validator_pub_key": "tw21wknY6kJu0hq6EOLqGraTEgH/t/xe1F+ly6GTd8Q=",
-		"info_url": "",
-		"country": "",
-		"avatar_url": "",
-		"name": "",
-		"disabled": false
+		"info_url": "https://en.wikipedia.org/wiki/Holy_Name_of_Jesus_Church_(Redlands,_California)",
+		"country": "BF",
+		"avatar_url": "https://www.gravatar.com/avatar/hg0vuhx0ridl21uk2imqlgzekplbpij0?d=identicon",
+		"name": "mango-honey"
 	},
 	"n05": {
 		"node": "n05",
@@ -89,11 +99,10 @@
 		"tm_node_pub_key": "tA2CvUcS7QIGfhkofgSEEbiW1Q87sOG0AqdMtAD1tM8=",
 		"tm_validator_address": "A3F2AA0C0B93A597C22C9C1C4342007274F93556",
 		"tm_validator_pub_key": "bo8/ZBBR2Oyj/51eYZYlkJwr0bgEmuUHigzZPdxp9hs=",
-		"info_url": "",
-		"country": "",
-		"avatar_url": "",
-		"name": "",
-		"disabled": true
+		"info_url": "https://en.wikipedia.org/wiki/Steven_Powell",
+		"country": "DL",
+		"avatar_url": "https://www.gravatar.com/avatar/5009itrmtk5y7dou3ojsev25351sjent?d=identicon",
+		"name": "dead-clouds"
 	},
 	"n06": {
 		"node": "n06",
@@ -105,11 +114,10 @@
 		"tm_node_pub_key": "SsDvKdnk0TmdcoPEGlADnGslZi5JgMnomhPK1xpmmO8=",
 		"tm_validator_address": "26E5FE54DB6B0B3EDF2838AAF995C7496E9DAFB0",
 		"tm_validator_pub_key": "/akVrk/6nI11//r+q+ae5mqRRJ/d+xPVt3W5ewC0CE4=",
-		"info_url": "",
-		"country": "",
-		"avatar_url": "",
-		"name": "",
-		"disabled": true
+		"info_url": "https://en.wikipedia.org/wiki/Alien_Naturalization_Act",
+		"country": "AT",
+		"avatar_url": "https://www.gravatar.com/avatar/uws0hktergmlce4zmggyizwu74l2b63s?d=identicon",
+		"name": "happy-phone"
 	},
 	"n07": {
 		"node": "n07",
@@ -121,11 +129,10 @@
 		"tm_node_pub_key": "8y2VGHNpT44UiFkjECTcv9GY4f3KT1wIzKsLEULROUE=",
 		"tm_validator_address": "4B56A4B90133AF021FFB51DB7AB101C9CD650BCF",
 		"tm_validator_pub_key": "r5N5JLMSlaIkMu9lZSj63SsHSPVGPJSvHI+T3wcDT6Y=",
-		"info_url": "",
-		"country": "",
-		"avatar_url": "",
-		"name": "",
-		"disabled": true
+		"info_url": "https://en.wikipedia.org/wiki/Pleasant_Hills_(Upper_Marlboro,_Maryland)",
+		"country": "NX",
+		"avatar_url": "https://www.gravatar.com/avatar/4gkzsnotwlc21d6thv4lbjn1jid0xsor?d=identicon",
+		"name": "loose-key"
 	},
 	"n08": {
 		"node": "n08",
@@ -137,11 +144,10 @@
 		"tm_node_pub_key": "44AyWm7jj1M/b+RtJRGh/uhBN4L81YHpafI3tqIXwnk=",
 		"tm_validator_address": "128D43885A0B9AE8E79EF743AA6A971CD564F7D1",
 		"tm_validator_pub_key": "BqDZrBcU9xm3cMNqG2WkellngPiaJJflFCkkc25cZNo=",
-		"info_url": "",
-		"country": "",
-		"avatar_url": "",
-		"name": "",
-		"disabled": true
+		"info_url": "https://en.wikipedia.org/wiki/Daniel_Johns",
+		"country": "RW",
+		"avatar_url": "https://www.gravatar.com/avatar/7mx26w6yn1t59ikju0prqt9bgbqx6fzd?d=identicon",
+		"name": "loud-tree"
 	},
 	"n09": {
 		"node": "n09",
@@ -153,11 +159,10 @@
 		"tm_node_pub_key": "+jYKKdKQbBdSoVV9ezWByMvRL0CuTaFYwvmvmDr07e8=",
 		"tm_validator_address": "8FC18460F1F167AA8A28A8294A2847C552CA938B",
 		"tm_validator_pub_key": "87FUa1ocrLiWmrkA0bkKOfxvqdbyjU2UBIKbW2oPYig=",
-		"info_url": "",
-		"country": "",
-		"avatar_url": "",
-		"name": "",
-		"disabled": true
+		"info_url": "https://en.wikipedia.org/wiki/John_E._Carroll",
+		"country": "MZ",
+		"avatar_url": "https://www.gravatar.com/avatar/3qd7fseoubtwbtmj88metp893yu0iq0b?d=identicon",
+		"name": "determined-biscuit"
 	},
 	"n10": {
 		"node": "n10",
@@ -169,10 +174,9 @@
 		"tm_node_pub_key": "yojDT6tMUYIYqnpFnR5Tw51f/cLr3W/vyIniI6Wuv8g=",
 		"tm_validator_address": "444E65FA5058CC1A7679CFCE81D75A5CC0E66555",
 		"tm_validator_pub_key": "HZRsDgguRGpF+c17+EVnBL96qT2sAqLJyyPf+rLFqe0=",
-		"info_url": "",
-		"country": "",
-		"avatar_url": "",
-		"name": "",
-		"disabled": true
+		"info_url": "https://en.wikipedia.org/wiki/2001_Dubai_Tennis_Championships_%E2%80%93_Doubles",
+		"country": "UN",
+		"avatar_url": "https://www.gravatar.com/avatar/xevmtobht9hh12y6bks562g48pp9fg48?d=identicon",
+		"name": "wailing-country"
 	}
 }
