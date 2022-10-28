@@ -1,4 +1,19 @@
 {
+	"be": {
+		"node": "be",
+		"url": "be.testnet.vega.xyz",
+		"ethereum_address": "0xAb78D565380668b88069766DfF82459D7D89092d",
+		"vega_pub_key": "37c29ff8eb23ba62d72899b23454acf6ebafbbe4e3b3071f2c80c93f244e03f1",
+		"id": "81af07b6e77b4cde5cb00d08e24d0e24c99e5e753584746f8c7c8343b71c422c",
+		"tm_node_id": "8E6D6EE116E160973D058E7750C244CD82128202",
+		"tm_node_pub_key": "6cEgrJQc9DAVIFv+ziaYXhjU+9LbIhDX7mPT5GBX5go=",
+		"tm_validator_address": "5CB370EC27FCC2A8774C046F62BB4521A29F1111",
+		"tm_validator_pub_key": "G2g/AN0hOjn3om1RLxQ3TgTIS9OJZeS7plvt4WSvXl8=",
+		"info_url": "https://en.wikipedia.org/wiki/Rugby_union_in_Mayotte",
+		"country": "PN",
+		"avatar_url": "https://www.gravatar.com/avatar/ibhoeg313x6mmh19cnl8tmebkyve6xax?d=identicon",
+		"name": "fluky-wall"
+	},
 	"n00": {
 		"node": "n00",
 		"url": "n00.testnet.vega.xyz",
@@ -9,11 +24,10 @@
 		"tm_node_pub_key": "UbSY5eURHrWPL0zgztpLW6uB22rb1WoglAD6ny+sMSI=",
 		"tm_validator_address": "010CBC9599CC5576F306E762EF7DD2D552BFD4E4",
 		"tm_validator_pub_key": "OSNSggUzJeBE3vukza3PXIsVi7OsqICRWGTVnHRkJNU=",
-		"info_url": "",
-		"country": "",
-		"avatar_url": "",
-		"name": "",
-		"disabled": true
+		"info_url": "https://en.wikipedia.org/wiki/Glipostenoda_ivoirensis",
+		"country": "YR",
+		"avatar_url": "https://www.gravatar.com/avatar/fxfutwd8lf31u2l6mhh8dj63j7ogczsk?d=identicon",
+		"name": "frantic-bed"
 	},
 	"n01": {
 		"node": "n01",
@@ -26,10 +40,9 @@
 		"tm_validator_address": "31D6EBD2A8E40524142613A241CA1D2056159EF4",
 		"tm_validator_pub_key": "2w5hxsVqWFTV6/f0swyNVqOhY1vWI42MrfO0xkUqsiA=",
 		"info_url": "https://en.wikipedia.org/wiki/USS_Enterprise_(NCC-1701-E)",
-		"country": "",
+		"country": "OS",
 		"avatar_url": "https://upload.wikimedia.org/wikipedia/en/7/71/USS_Enterprise_E_First_Contact.jpg",
-		"name": "NCC-1701-E",
-		"disabled": false
+		"name": "NCC-1701-E"
 	},
 	"n02": {
 		"node": "n02",
@@ -42,10 +55,9 @@
 		"tm_validator_address": "1C9B6E2708F8217F8D5BFC8D8734ED9A5BC19B21",
 		"tm_validator_pub_key": "pobW1cLYgsbQGGwbwiwVMqp15WuRzaVp3mn7z+g3ByM=",
 		"info_url": "https://en.wikipedia.org/wiki/Terminator_(character)",
-		"country": "",
+		"country": "HX",
 		"avatar_url": "https://upload.wikimedia.org/wikipedia/en/b/b9/Terminator-2-judgement-day.jpg",
-		"name": "T-800 Terminator",
-		"disabled": false
+		"name": "T-800 Terminator"
 	},
 	"n03": {
 		"node": "n03",
@@ -58,10 +70,9 @@
 		"tm_validator_address": "6DB7E2A705ABF86C6B4A4817E778669D45421166",
 		"tm_validator_pub_key": "QZNLWGlqoWv4J9lXqe0pkZQnCJuJbJfiJ50VOj/WsAs=",
 		"info_url": "https://en.wikipedia.org/wiki/Skynet_(Terminator)",
-		"country": "",
+		"country": "CW",
 		"avatar_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Skynet.svg",
-		"name": "Skynet",
-		"disabled": false
+		"name": "Skynet"
 	},
 	"n04": {
 		"node": "n04",
@@ -74,10 +85,9 @@
 		"tm_validator_address": "AE5B9A8193AEFC405C159C930ED2BBF40A806785",
 		"tm_validator_pub_key": "67g7+123M0kfMR35U7LLq09eEU1dVr6jHBEgEtPzkrs=",
 		"info_url": "https://en.wikipedia.org/wiki/HAL_9000",
-		"country": "",
+		"country": "WK",
 		"avatar_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Hal_9000_Panel.svg",
-		"name": "HAL9000",
-		"disabled": false
+		"name": "HAL9000"
 	},
 	"n05": {
 		"node": "n05",
@@ -90,10 +100,9 @@
 		"tm_validator_address": "A5429AF24A820AFD9C3D21507C8642F27F5DD308",
 		"tm_validator_pub_key": "Lor28j7E369gLsU6Q9dW64yKPMn9XiD/IcS1XDXbPSQ=",
 		"info_url": "https://en.wikipedia.org/wiki/Marvin_the_Paranoid_Android",
-		"country": "",
+		"country": "TB",
 		"avatar_url": "https://upload.wikimedia.org/wikipedia/en/2/25/Marvin-TV-3.jpg",
-		"name": "Marvin",
-		"disabled": false
+		"name": "Marvin"
 	},
 	"n06": {
 		"node": "n06",
@@ -105,11 +114,10 @@
 		"tm_node_pub_key": "1gPbFhkHcHH1l2CNhjCgfTVgsIDx1aZ6KYIEjXPjbk0=",
 		"tm_validator_address": "637E8D7549589CC36022D714C76FECC273524052",
 		"tm_validator_pub_key": "BQVTVrH25cCPQUkHUhUB9PnafgNzbDzXX2V+UlLOxUE=",
-		"info_url": "",
-		"country": "",
-		"avatar_url": "",
-		"name": "",
-		"disabled": false
+		"info_url": "https://en.wikipedia.org/wiki/Douglas_Oldenburg",
+		"country": "NR",
+		"avatar_url": "https://www.gravatar.com/avatar/s41q5n5kmznfykncpur93co0lr7tnitj?d=identicon",
+		"name": "odd-milk"
 	},
 	"n07": {
 		"node": "n07",
@@ -121,11 +129,10 @@
 		"tm_node_pub_key": "5hCjfG6L/SJ9o3K5rGQylD+XuHag62stGJuIANlEvvc=",
 		"tm_validator_address": "8DBF790ED52F39FCECFC3555809A9E5AFA030849",
 		"tm_validator_pub_key": "jYx7E4IvwvSOXiiokpfHDuBb2Ahi5TR4/AprU33Y4+8=",
-		"info_url": "",
-		"country": "",
-		"avatar_url": "",
-		"name": "",
-		"disabled": false
+		"info_url": "https://en.wikipedia.org/wiki/Bella_Vista_Private_School",
+		"country": "CR",
+		"avatar_url": "https://www.gravatar.com/avatar/citcsf6a5ciolyku5tstxla5douotcdk?d=identicon",
+		"name": "irate-taxi"
 	},
 	"n08": {
 		"node": "n08",
@@ -137,11 +144,10 @@
 		"tm_node_pub_key": "aQTooEf7fTtkW5efo4BpOuS6FBSrDou4NQs9zbKkeGw=",
 		"tm_validator_address": "4BA35C29847739A802A7987B9C4BEC4E5A3387F3",
 		"tm_validator_pub_key": "ci2tK7+O+9VMZL5O4UsBhFXri9a7sanUXe+D+9xq8WQ=",
-		"info_url": "",
-		"country": "",
-		"avatar_url": "",
-		"name": "",
-		"disabled": false
+		"info_url": "https://en.wikipedia.org/wiki/Transtillaspis_tucumana",
+		"country": "BX",
+		"avatar_url": "https://www.gravatar.com/avatar/r764ye54wk3fi1xcbt56p0qwrs6yxiev?d=identicon",
+		"name": "extensive-roof"
 	},
 	"n09": {
 		"node": "n09",
@@ -153,11 +159,10 @@
 		"tm_node_pub_key": "mNGut/DOmAj4mrIkYs+OFZb/mtT01Y30rzvP0dmdvJM=",
 		"tm_validator_address": "7D875FC55D5473FE53CB9F15D4DA852D5EEA512A",
 		"tm_validator_pub_key": "72NONa/IFA9Ckv2Px6xxjZVY5HZrlI4T730r5iWpufg=",
-		"info_url": "",
-		"country": "",
-		"avatar_url": "",
-		"name": "",
-		"disabled": false
+		"info_url": "https://en.wikipedia.org/wiki/Norman_J._Pullman",
+		"country": "MZ",
+		"avatar_url": "https://www.gravatar.com/avatar/ukoslpjnwexyytxldkl9aas4dax2cxqg?d=identicon",
+		"name": "perfect-shirt"
 	},
 	"n10": {
 		"node": "n10",
@@ -169,11 +174,10 @@
 		"tm_node_pub_key": "Guyh0oPuPg6OBtP4nM+UKn11WDcuMnKnXFMzpDdMe1A=",
 		"tm_validator_address": "86784A1166FD5076548CF2C7ACFB6A9429160B70",
 		"tm_validator_pub_key": "hgLOXHC7Gvi7Jhgo+n5MhytzSF3heq0szfUJi3epADQ=",
-		"info_url": "",
-		"country": "",
-		"avatar_url": "",
-		"name": "",
-		"disabled": false
+		"info_url": "https://en.wikipedia.org/wiki/Minam_Lake",
+		"country": "OA",
+		"avatar_url": "https://www.gravatar.com/avatar/dazdlyuxcpvixp9fu6n3caa2d759fixo?d=identicon",
+		"name": "terrible-building"
 	},
 	"n11": {
 		"node": "n11",
@@ -185,11 +189,10 @@
 		"tm_node_pub_key": "S4ZIDxzVjjxIcryGSD7rqIqCSKF3f5dHVir2/TMkXCI=",
 		"tm_validator_address": "86529A37249D36C98EAB7898230A807E9A8171E0",
 		"tm_validator_pub_key": "ytv6M0Hf32QrNanA/08hYnDsju/xMD7uB25ujcsaMJ8=",
-		"info_url": "",
-		"country": "",
-		"avatar_url": "",
-		"name": "",
-		"disabled": false
+		"info_url": "https://en.wikipedia.org/wiki/Jonathan_Livingston_Seagull",
+		"country": "YV",
+		"avatar_url": "https://www.gravatar.com/avatar/ps8o5jy47x8ate9nhuvow4bra7hvwc5a?d=identicon",
+		"name": "lovely-farmer"
 	},
 	"n12": {
 		"node": "n12",
@@ -201,11 +204,10 @@
 		"tm_node_pub_key": "2wPKjylBtpURwDbgzgHs/FfoNgRBJsjfa7zUnEtxpT0=",
 		"tm_validator_address": "1E298D2730F0E9588FEE92A73CA7EB097A6AE76C",
 		"tm_validator_pub_key": "WtGEpBmIaiFyASQJ/PH1AcmeDonFRMvhKhEWLFbB5eE=",
-		"info_url": "",
-		"country": "",
-		"avatar_url": "",
-		"name": "",
-		"disabled": false
+		"info_url": "https://en.wikipedia.org/wiki/Rithy_Panh",
+		"country": "HT",
+		"avatar_url": "https://www.gravatar.com/avatar/sd14oq1ps8oi9qnrui33kxl3wscvvqok?d=identicon",
+		"name": "crashing-country"
 	},
 	"n13": {
 		"node": "n13",
@@ -217,11 +219,10 @@
 		"tm_node_pub_key": "+zciwfEaTN0D3l+UYZDZLfaLsnVGphRGzHSJdbB7ALE=",
 		"tm_validator_address": "7B35DC4F4CE3A62ABB1B2E05E3F118F863C25453",
 		"tm_validator_pub_key": "htnMniDmuCUdaCp8Qwmyfpfgb4d3veyPXF/kj090Lms=",
-		"info_url": "",
-		"country": "",
-		"avatar_url": "",
-		"name": "",
-		"disabled": true
+		"info_url": "https://en.wikipedia.org/wiki/Santa_Cruz_Line",
+		"country": "IT",
+		"avatar_url": "https://www.gravatar.com/avatar/lxcpgxh4na286z1ihsih4fftzpv1eo59?d=identicon",
+		"name": "mango-candle"
 	},
 	"n14": {
 		"node": "n14",
@@ -233,11 +234,10 @@
 		"tm_node_pub_key": "CitscNzpYfPib+D2GODltZMB98ycoX5I5ENJiQr4SKA=",
 		"tm_validator_address": "60ED668821490D14CAE6D0678D5921359B735918",
 		"tm_validator_pub_key": "826p5IxptgiMcZdJkG1TWx3uip6wVbJqkA8dAKrp1mA=",
-		"info_url": "",
-		"country": "",
-		"avatar_url": "",
-		"name": "",
-		"disabled": true
+		"info_url": "https://en.wikipedia.org/wiki/VXX",
+		"country": "BW",
+		"avatar_url": "https://www.gravatar.com/avatar/83vl2kqti0yus0eh2nqltq0quk8tryu8?d=identicon",
+		"name": "funny-chair"
 	},
 	"n15": {
 		"node": "n15",
@@ -249,11 +249,10 @@
 		"tm_node_pub_key": "TeQc+Ye/NtK5aTMPtGCoQ4pA3ylWqR8Mdiaq0sOppMA=",
 		"tm_validator_address": "37E3DAC634AC2A32A35B162E6F59648C716FF066",
 		"tm_validator_pub_key": "K6rjYvZIj3jVYYAaVvueYOSIiJQ+x5CJDKMLbBc9vRY=",
-		"info_url": "",
-		"country": "",
-		"avatar_url": "",
-		"name": "",
-		"disabled": true
+		"info_url": "https://en.wikipedia.org/wiki/Higua%C3%ADn",
+		"country": "TE",
+		"avatar_url": "https://www.gravatar.com/avatar/hxl2gkebwj0zpsemrbdb2qm6fi644yd0?d=identicon",
+		"name": "melodic-shirt"
 	},
 	"n16": {
 		"node": "n16",
@@ -265,11 +264,10 @@
 		"tm_node_pub_key": "EOEGN+kzPz2Q5tA8v+IF85UgwwnyTncGSvxwQh1PeaU=",
 		"tm_validator_address": "DA3EE730365DE2EA52B6205BFD4D3EA192157C4A",
 		"tm_validator_pub_key": "Em7pjAmK2xU2yrk4shr2NoHIQs78d6L8vnqI35hhIuY=",
-		"info_url": "",
-		"country": "",
-		"avatar_url": "",
-		"name": "",
-		"disabled": true
+		"info_url": "https://en.wikipedia.org/wiki/Rudy_Bowman",
+		"country": "KO",
+		"avatar_url": "https://www.gravatar.com/avatar/26a3wmiafy43jjc0b4lgd6khrfz8ufyb?d=identicon",
+		"name": "rhythmic-cat"
 	},
 	"n17": {
 		"node": "n17",
@@ -281,11 +279,10 @@
 		"tm_node_pub_key": "H3gHj6clWdnS2lrl1ocDDF56DbJMDZQzDWn+xNtT5Ws=",
 		"tm_validator_address": "9CB4FDABFB94FE0407FAE39ED73856E9CFCC5A11",
 		"tm_validator_pub_key": "sTwU+UBTNdfqW1hiBSo26nHXd2BoKZLOAphNFB2GHLI=",
-		"info_url": "",
-		"country": "",
-		"avatar_url": "",
-		"name": "",
-		"disabled": true
+		"info_url": "https://en.wikipedia.org/wiki/13_Frightened_Girls",
+		"country": "VU",
+		"avatar_url": "https://www.gravatar.com/avatar/v40kaz1t11wdvzekzyyroonq2jprvciw?d=identicon",
+		"name": "careful-pencil"
 	},
 	"n18": {
 		"node": "n18",
@@ -297,11 +294,10 @@
 		"tm_node_pub_key": "fP4umZm8HbhUn/ri9Hj5qS0bRPYdKPoyo0WWwOcLNjc=",
 		"tm_validator_address": "75EB0A0AC55EAA85A9DAC158DE6DF7812DC6D2AE",
 		"tm_validator_pub_key": "eJESTJ9rsrbFPs7GzHevCE1mhHSstXSlhX5xdsDhMz4=",
-		"info_url": "",
-		"country": "",
-		"avatar_url": "",
-		"name": "",
-		"disabled": true
+		"info_url": "https://en.wikipedia.org/wiki/Herty_Advanced_Materials_Development_Center",
+		"country": "PC",
+		"avatar_url": "https://www.gravatar.com/avatar/slgf1iai63qo8q3hqbp7695l8nugmmb5?d=identicon",
+		"name": "stocky-train"
 	},
 	"n19": {
 		"node": "n19",
@@ -313,11 +309,10 @@
 		"tm_node_pub_key": "AQvtR90ScsAvuv9q1UfnfLe93Tgk7aJDivU2IO6jZMM=",
 		"tm_validator_address": "98DE2FBC9AA69CCAC789B0F2116AB33E557F0CEB",
 		"tm_validator_pub_key": "1BQ8FqeBPkbomTuCoPKD7i54z0wCV7cHU+3Fi8h0N+0=",
-		"info_url": "",
-		"country": "",
-		"avatar_url": "",
-		"name": "",
-		"disabled": true
+		"info_url": "https://en.wikipedia.org/wiki/W%C3%A4ngi_railway_station",
+		"country": "SO",
+		"avatar_url": "https://www.gravatar.com/avatar/8w63a2488305ni5lt46w30u15jv045pn?d=identicon",
+		"name": "orange-bee"
 	},
 	"n20": {
 		"node": "n20",
@@ -329,10 +324,9 @@
 		"tm_node_pub_key": "1xe6HrXTlsvXtJVHkWs3fnOiUHIk3yl2flMeeVmKmtY=",
 		"tm_validator_address": "957F6C3A60E4CCD9FC56FE6B00D6698358B3690D",
 		"tm_validator_pub_key": "yktVFYLYr/bBX+zuJ3MHQ3xWXI6Mycn1SILM8K+QI6s=",
-		"info_url": "",
-		"country": "",
-		"avatar_url": "",
-		"name": "",
-		"disabled": true
+		"info_url": "https://en.wikipedia.org/wiki/Virginia_Walcott_Beauchamp",
+		"country": "EF",
+		"avatar_url": "https://www.gravatar.com/avatar/r4b6p8c38ly6wek2qq9zthgccab5hjct?d=identicon",
+		"name": "important-chimney"
 	}
 }
