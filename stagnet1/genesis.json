@@ -265,52 +265,52 @@
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
       "G3YPeYQ2FttOPsb+DPRBM2teUAWpBHw14o5WUj73zWo=": {
-        "avatar_url": "",
-        "country": "",
+        "avatar_url": "https://www.gravatar.com/avatar/i6ivthz2ax2m2h79i2fk0qim30acyeo3?d=identicon",
+        "country": "JC",
         "ethereum_address": "0xddDFA1974b156336b9c49579A2bC4e0a7059CAD0",
         "id": "c3423f09428da22d984dd9a43df501e73291c360ad7bfac8795739dc046cdbd0",
-        "info_url": "",
-        "name": "",
+        "info_url": "https://en.wikipedia.org/wiki/Rjana_%C5%81u%C5%BEica",
+        "name": "fluky-key",
         "tm_pub_key": "G3YPeYQ2FttOPsb+DPRBM2teUAWpBHw14o5WUj73zWo=",
         "vega_pub_key": "399abb77e1dafb8304d3866618cb53bc00b2d578bb643630b9a8b08eefe63291",
         "vega_pub_key_index": 1
       },
       "ZZc+4Y2hfHeHbigpSlSoEv+ZfN0SVadwOx4MgFPfxv4=": {
-        "avatar_url": "",
-        "country": "",
+        "avatar_url": "https://www.gravatar.com/avatar/6l2jvijhg7gb6nbj2hps0abx8rgmmarh?d=identicon",
+        "country": "ZH",
         "ethereum_address": "0x54A047b392874c7A0C47Aa24d81Cc79d33313709",
         "id": "92f1db69a9a4231b427b25cd91017fb001a4d6623954c4838c89cd0917ffe1a9",
-        "info_url": "",
-        "name": "",
+        "info_url": "https://en.wikipedia.org/wiki/La_viuda_negra_(TV_series)",
+        "name": "perplexed-pond",
         "tm_pub_key": "ZZc+4Y2hfHeHbigpSlSoEv+ZfN0SVadwOx4MgFPfxv4=",
         "vega_pub_key": "5a1e95067a1f1004d027213458af75658cdc19691217b974079c490ed336b7aa",
         "vega_pub_key_index": 1
       },
       "no7LX/AQkjvXwE0kKAnQ1tkAR5Q0LbfeZ2cfucOv0KM=": {
-        "avatar_url": "",
-        "country": "",
+        "avatar_url": "https://www.gravatar.com/avatar/8lsuodwwmt61alxiu6e1uq2ht2bhdkbz?d=identicon",
+        "country": "TD",
         "ethereum_address": "0xcf3e68E25FbD0F4bA0bCD862bFED00274F705668",
         "id": "e07d2cd299659590c16ec1cc1c69936ad747083c379ea6b6cfeaa6e22c8af0cb",
-        "info_url": "",
-        "name": "",
+        "info_url": "https://en.wikipedia.org/wiki/Andreas_Troupis",
+        "name": "famous-monkey",
         "tm_pub_key": "no7LX/AQkjvXwE0kKAnQ1tkAR5Q0LbfeZ2cfucOv0KM=",
         "vega_pub_key": "68bd4d9ee8f918ad434491d56a3e0a1359e016b020bcbeac38bf384b10c87c8a",
         "vega_pub_key_index": 1
       },
       "tw21wknY6kJu0hq6EOLqGraTEgH/t/xe1F+ly6GTd8Q=": {
-        "avatar_url": "",
-        "country": "",
+        "avatar_url": "https://www.gravatar.com/avatar/hg0vuhx0ridl21uk2imqlgzekplbpij0?d=identicon",
+        "country": "BF",
         "ethereum_address": "0x0bcB473865e28D9e4F13851633da33C9064e8029",
         "id": "11cd9840d290e178d103d4337bfdbfa005f6da7b6fb45f3501a405ce749d5fac",
-        "info_url": "",
-        "name": "",
+        "info_url": "https://en.wikipedia.org/wiki/Holy_Name_of_Jesus_Church_(Redlands,_California)",
+        "name": "mango-honey",
         "tm_pub_key": "tw21wknY6kJu0hq6EOLqGraTEgH/t/xe1F+ly6GTd8Q=",
         "vega_pub_key": "6438a831c86c32683cf225f0f5fab28bc62c2000c66d86d27772a75960966612",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-stagnet1-202210251312",
+  "chain_id": "vega-stagnet1-202210310914",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -329,12 +329,12 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-10-25T13:12:08.371049823Z",
+  "genesis_time": "2022-10-31T09:14:40.95581299Z",
   "initial_height": "0",
   "validators": [
     {
       "address": "7A0A0E6E619B764299BA8677B3C9E1C8FB267951",
-      "name": "Validator n01",
+      "name": "fluky-key",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
@@ -343,7 +343,7 @@
     },
     {
       "address": "4F0AE745904C14A93A0B351BBF597DA2A35C4B33",
-      "name": "Validator n02",
+      "name": "famous-monkey",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
@@ -352,7 +352,7 @@
     },
     {
       "address": "71F0E572F9B3C0708B4E605360ABDC0024468F39",
-      "name": "Validator n03",
+      "name": "perplexed-pond",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
@@ -361,7 +361,7 @@
     },
     {
       "address": "BF47F0640BB4C098C4BCA86889F6D9AE83B78F64",
-      "name": "Validator n04",
+      "name": "mango-honey",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
