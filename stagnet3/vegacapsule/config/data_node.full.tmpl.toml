@@ -41,3 +41,6 @@ GatewayEnabled = true
   UseEventFile = false
   [Broker.SocketConfig]
     Port = 3005
+
+[DeHistory]
+  Enabled = false
