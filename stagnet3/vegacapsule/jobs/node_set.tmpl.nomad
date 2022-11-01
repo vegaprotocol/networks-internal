@@ -187,7 +187,7 @@ job "{{ .Name }}" {
     }
 
     restart {
-      attempts = 0
+      attempts = 1
     }
 
     network {
