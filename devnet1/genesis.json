@@ -264,6 +264,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "67U9YWzCuRaTRItt4Svw7iJOoLcGIGDHiKscxzdhT5w=": {
+        "avatar_url": "https://www.gravatar.com/avatar/oh4w3ane1pw807wjk2k5122j07sw36ky?d=identicon",
+        "country": "UX",
+        "ethereum_address": "0x4ccB7632FB0Aa5dDD4CC98D5E1d0Ceed778EE3eA",
+        "id": "4a778d932073779fe991cfb96960909ab847ee6d9d40ae05053a6378d951390a",
+        "info_url": "https://en.wikipedia.org/wiki/H%C3%B4tel_de_Bourgogne_(theatre)",
+        "name": "clean-honey",
+        "tm_pub_key": "67U9YWzCuRaTRItt4Svw7iJOoLcGIGDHiKscxzdhT5w=",
+        "vega_pub_key": "96ffa62e2c3cd505d4d73376424a64b84d9b1bf8a6c9b6ea4e62da9e0887a823",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -310,7 +321,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211011815",
+  "chain_id": "vega-devnet1-202211021811",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -329,7 +340,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-01T18:15:58.541494702Z",
+  "genesis_time": "2022-11-02T18:11:46.622425448Z",
   "initial_height": "0",
   "validators": [
     {
@@ -366,6 +377,15 @@
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
         "value": "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo="
+      }
+    },
+    {
+      "address": "DE692C5BB9911B01AEE74307C7CE4293CB4D04BE",
+      "name": "clean-honey",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "67U9YWzCuRaTRItt4Svw7iJOoLcGIGDHiKscxzdhT5w="
       }
     }
   ]
