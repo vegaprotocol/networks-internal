@@ -240,6 +240,7 @@
       "market.stake.target.timeWindow": "1h",
       "market.value.windowLength": "168h",
       "network.checkpoint.timeElapsedBetweenCheckpoints": "1m",
+      "network.validators.tendermint.number": "5",
       "reward.asset": "fc7fd956078fb1fc9db5c19b88f0874c4299b2a7639ad05a47a28c0aef291b55",
       "reward.staking.delegation.competitionLevel": "3.1",
       "reward.staking.delegation.delegatorShare": "0.883",
@@ -297,15 +298,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "o6HKooDj+gFpxXQMhjh1D/oWQtJ3qolR/NMukqq5Zh0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/oosnqhd4thwjgdwq74cgivn946ozndx4?d=identicon",
-        "country": "LU",
-        "ethereum_address": "0x8E31c148A21cEcbb6f65e0d9126a9B043a38688A",
-        "id": "8156be07ce67aed9cb76cf03795c505076a0dfdea9152997d6cf6ff7b6eb5c1c",
-        "info_url": "https://en.wikipedia.org/wiki/Captive_Flock",
-        "name": "lovely-pickle",
-        "tm_pub_key": "o6HKooDj+gFpxXQMhjh1D/oWQtJ3qolR/NMukqq5Zh0=",
-        "vega_pub_key": "d38bb0ccfb72597300e0feac24879d0ef34e9868fa8bf5e2f0334da21e4d2bd6",
+      "hTD0K25q3ALkx05SZ9GhGLbbdtmqFoQ30m78lXg6DIE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ca2iunz0a7m3mk95y0aa6pfv0d6ug2s5?d=identicon",
+        "country": "GK",
+        "ethereum_address": "0x60919D6138848e2180dd35Ba9E3AE21DDCa8853e",
+        "id": "f09dbceb61c41ebcfb6ae53303d5b0215a3bec6e6a6b2222a3264452439d2a36",
+        "info_url": "https://en.wikipedia.org/wiki/Gary_Hammond",
+        "name": "quizzical-beach",
+        "tm_pub_key": "hTD0K25q3ALkx05SZ9GhGLbbdtmqFoQ30m78lXg6DIE=",
+        "vega_pub_key": "d648984cfdd5cd6f3bef666847a8102cfaf3b8ef6904b459dfaa2614c22ea771",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -321,7 +322,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211031023",
+  "chain_id": "vega-devnet1-202211031123",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -340,7 +341,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-03T10:23:29.535820417Z",
+  "genesis_time": "2022-11-03T11:23:38.88945071Z",
   "initial_height": "0",
   "validators": [
     {
@@ -380,12 +381,12 @@
       }
     },
     {
-      "address": "1BDB1703062AE193578CF5A5E429577FF2E9B39B",
-      "name": "lovely-pickle",
+      "address": "7B8BF7552058F45C530BAB336D24B2F92C0E6BF1",
+      "name": "quizzical-beach",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "o6HKooDj+gFpxXQMhjh1D/oWQtJ3qolR/NMukqq5Zh0="
+        "value": "hTD0K25q3ALkx05SZ9GhGLbbdtmqFoQ30m78lXg6DIE="
       }
     }
   ]
