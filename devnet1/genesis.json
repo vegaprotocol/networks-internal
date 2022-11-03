@@ -298,6 +298,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "UMIWCB7fhxldwHZaH+hsjt0a//iBaERtQ0j/3BK0N8Q=": {
+        "avatar_url": "https://www.gravatar.com/avatar/nxchnuf0zj0bhwjd3dynirudjwvdtog5?d=identicon",
+        "country": "YB",
+        "ethereum_address": "0x2E163b2307610c36edB47c22Be9c2704ce5CE079",
+        "id": "93a1dcf7a7e89b6cfffc1d64b4fb406e7daca49b532cb64dab0949eeeb16c57c",
+        "info_url": "https://en.wikipedia.org/wiki/John_Ford_(dramatist)",
+        "name": "quiet-hat",
+        "tm_pub_key": "UMIWCB7fhxldwHZaH+hsjt0a//iBaERtQ0j/3BK0N8Q=",
+        "vega_pub_key": "8c833cbfda94fa5546b65b611f3258b5af311c5783fb7c5986014b5bf175fdcf",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -308,21 +319,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "uFr8zAPgNCq3lu6C3y9Q+QjWZoqb2BngY5Jsxrwy5ZU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/4jwx21bld4rssazl8rk21bn45gts73as?d=identicon",
-        "country": "RY",
-        "ethereum_address": "0x2183dcDA3C499391CE007ddC380D32BFF87492c1",
-        "id": "cd38efaf124ada8a0798afd3dfe8ba459c36eff3d6b7f2717f970b4d5c2c61da",
-        "info_url": "https://en.wikipedia.org/wiki/A_%26_F_Harvey_Brothers",
-        "name": "brave-sister",
-        "tm_pub_key": "uFr8zAPgNCq3lu6C3y9Q+QjWZoqb2BngY5Jsxrwy5ZU=",
-        "vega_pub_key": "8cdf8f70eb9763a7e4759bc870e66171aa1400124dac4f44405956ca08643532",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202211031152",
+  "chain_id": "vega-devnet1-202211031447",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -341,7 +341,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-03T11:52:26.2890137Z",
+  "genesis_time": "2022-11-03T14:47:24.13801316Z",
   "initial_height": "0",
   "validators": [
     {
@@ -381,12 +381,12 @@
       }
     },
     {
-      "address": "E927348895E7113AC7F0238E54E2D2E7B7B42514",
-      "name": "brave-sister",
+      "address": "08140BD338037A60913021E29947C290CDFF5483",
+      "name": "quiet-hat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "uFr8zAPgNCq3lu6C3y9Q+QjWZoqb2BngY5Jsxrwy5ZU="
+        "value": "UMIWCB7fhxldwHZaH+hsjt0a//iBaERtQ0j/3BK0N8Q="
       }
     }
   ]
