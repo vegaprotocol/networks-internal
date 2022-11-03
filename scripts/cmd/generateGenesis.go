@@ -15,6 +15,7 @@ import (
 	"github.com/spf13/cobra"
 	"github.com/tomwright/dasel"
 	"github.com/tomwright/dasel/storage"
+	"github.com/vegaprotocol/devopstools/secrets"
 	"go.uber.org/zap"
 )
 
@@ -56,8 +57,19 @@ func RunGenerateGenesis(args GenerateGenesisArgs) error {
 		return err
 	}
 	genesisTemplatePath := path.Join(currPath, args.VegaNetworkName, "templates", "genesis-template.json")
-	fileWithNodes := path.Join(currPath, args.VegaNetworkName, "templates", "nodes.json")
 	generatedGenesisPath := path.Join(currPath, args.VegaNetworkName, "genesis.json")
+
+	//
+	// Read Node data
+	//
+	nodeSecretStore, err := args.GetNodeSecretStore()
+	if err != nil {
+		return err
+	}
+	nodeSecrets, err := nodeSecretStore.GetAllVegaNode(args.VegaNetworkName)
+	if err != nil {
+		return err
+	}
 
 	//
 	// Read template
@@ -69,11 +81,6 @@ func RunGenerateGenesis(args GenerateGenesisArgs) error {
 	}
 
 	genesis, err := dasel.NewFromFile(genesisTemplatePath, "json")
-	if err != nil {
-		return err
-	}
-
-	nodes, err := readNodesFromFile(fileWithNodes)
 	if err != nil {
 		return err
 	}
@@ -98,7 +105,7 @@ func RunGenerateGenesis(args GenerateGenesisArgs) error {
 		return fmt.Errorf("failed to set chain_id, %w", err)
 	}
 	// validators
-	if validators, err := getValidatorsSection(nodes, args.ValidatorIds); err != nil {
+	if validators, err := getValidatorsSection(nodeSecrets, args.ValidatorIds); err != nil {
 		return fmt.Errorf("failed to generate validators section, %w", err)
 	} else {
 		if err := genesis.Put(".validators", validators); err != nil {
@@ -106,7 +113,7 @@ func RunGenerateGenesis(args GenerateGenesisArgs) error {
 		}
 	}
 	// app_state.validators
-	if appStateValidators, err := getAppStateValidatorsSection(nodes, args.ValidatorIds); err != nil {
+	if appStateValidators, err := getAppStateValidatorsSection(nodeSecrets, args.ValidatorIds); err != nil {
 		return fmt.Errorf("failed to generate app_state.validators section, %w", err)
 	} else {
 		if err := genesis.Put(".app_state.validators", appStateValidators); err != nil {
@@ -148,7 +155,7 @@ type Validators struct {
 	} `json:"pub_key"`
 }
 
-func getValidatorsSection(nodes map[string]*VegaNodeConfig, validatorIds []string) ([]Validators, error) {
+func getValidatorsSection(nodes map[string]*secrets.VegaNodePrivate, validatorIds []string) ([]Validators, error) {
 	validators := make([]Validators, len(validatorIds))
 	for i, validatorId := range validatorIds {
 		if validatorData, ok := nodes[validatorId]; !ok {
@@ -186,7 +193,7 @@ type AppStateValidators struct {
 }
 
 func getAppStateValidatorsSection(
-	nodes map[string]*VegaNodeConfig,
+	nodes map[string]*secrets.VegaNodePrivate,
 	validatorIds []string,
 ) (map[string]AppStateValidators, error) {
 	validators := map[string]AppStateValidators{}
@@ -198,7 +205,7 @@ func getAppStateValidatorsSection(
 				AvatarURL:        validatorData.AvatarURL,
 				Country:          validatorData.Country,
 				EthereumAddress:  validatorData.EthereumAddress,
-				Id:               validatorData.Id,
+				Id:               validatorData.VegaId,
 				InfoURL:          validatorData.InfoURL,
 				Name:             validatorData.Name,
 				TendermintPubKey: validatorData.TendermintValidatorPubKey,
