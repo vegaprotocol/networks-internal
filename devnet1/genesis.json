@@ -264,17 +264,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "67U9YWzCuRaTRItt4Svw7iJOoLcGIGDHiKscxzdhT5w=": {
-        "avatar_url": "https://www.gravatar.com/avatar/oh4w3ane1pw807wjk2k5122j07sw36ky?d=identicon",
-        "country": "UX",
-        "ethereum_address": "0x4ccB7632FB0Aa5dDD4CC98D5E1d0Ceed778EE3eA",
-        "id": "4a778d932073779fe991cfb96960909ab847ee6d9d40ae05053a6378d951390a",
-        "info_url": "https://en.wikipedia.org/wiki/H%C3%B4tel_de_Bourgogne_(theatre)",
-        "name": "clean-honey",
-        "tm_pub_key": "67U9YWzCuRaTRItt4Svw7iJOoLcGIGDHiKscxzdhT5w=",
-        "vega_pub_key": "96ffa62e2c3cd505d4d73376424a64b84d9b1bf8a6c9b6ea4e62da9e0887a823",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -308,6 +297,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "o6HKooDj+gFpxXQMhjh1D/oWQtJ3qolR/NMukqq5Zh0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/oosnqhd4thwjgdwq74cgivn946ozndx4?d=identicon",
+        "country": "LU",
+        "ethereum_address": "0x8E31c148A21cEcbb6f65e0d9126a9B043a38688A",
+        "id": "8156be07ce67aed9cb76cf03795c505076a0dfdea9152997d6cf6ff7b6eb5c1c",
+        "info_url": "https://en.wikipedia.org/wiki/Captive_Flock",
+        "name": "lovely-pickle",
+        "tm_pub_key": "o6HKooDj+gFpxXQMhjh1D/oWQtJ3qolR/NMukqq5Zh0=",
+        "vega_pub_key": "d38bb0ccfb72597300e0feac24879d0ef34e9868fa8bf5e2f0334da21e4d2bd6",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -321,7 +321,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211022008",
+  "chain_id": "vega-devnet1-202211031023",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -340,7 +340,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-02T20:08:29.234400277Z",
+  "genesis_time": "2022-11-03T10:23:29.535820417Z",
   "initial_height": "0",
   "validators": [
     {
@@ -380,12 +380,12 @@
       }
     },
     {
-      "address": "DE692C5BB9911B01AEE74307C7CE4293CB4D04BE",
-      "name": "clean-honey",
+      "address": "1BDB1703062AE193578CF5A5E429577FF2E9B39B",
+      "name": "lovely-pickle",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "67U9YWzCuRaTRItt4Svw7iJOoLcGIGDHiKscxzdhT5w="
+        "value": "o6HKooDj+gFpxXQMhjh1D/oWQtJ3qolR/NMukqq5Zh0="
       }
     }
   ]
