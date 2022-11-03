@@ -298,15 +298,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "UMIWCB7fhxldwHZaH+hsjt0a//iBaERtQ0j/3BK0N8Q=": {
-        "avatar_url": "https://www.gravatar.com/avatar/nxchnuf0zj0bhwjd3dynirudjwvdtog5?d=identicon",
-        "country": "YB",
-        "ethereum_address": "0x2E163b2307610c36edB47c22Be9c2704ce5CE079",
-        "id": "93a1dcf7a7e89b6cfffc1d64b4fb406e7daca49b532cb64dab0949eeeb16c57c",
-        "info_url": "https://en.wikipedia.org/wiki/John_Ford_(dramatist)",
-        "name": "quiet-hat",
-        "tm_pub_key": "UMIWCB7fhxldwHZaH+hsjt0a//iBaERtQ0j/3BK0N8Q=",
-        "vega_pub_key": "8c833cbfda94fa5546b65b611f3258b5af311c5783fb7c5986014b5bf175fdcf",
+      "eLndmEsbjJt4S/0Z/OuH8vnP1kArJeiKkyxN/V08dm8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/j8n79byb7s62bb1dm8yi6w0xcu61acrd?d=identicon",
+        "country": "MT",
+        "ethereum_address": "0x00591B28b0D3A97236677334Cea146b0813abE40",
+        "id": "61e5b33a28850a2afa21a000cf24e03c1a9067989a22c7697ebb708e773962d4",
+        "info_url": "https://en.wikipedia.org/wiki/McPhail_v_Doulton",
+        "name": "frightened-fan",
+        "tm_pub_key": "eLndmEsbjJt4S/0Z/OuH8vnP1kArJeiKkyxN/V08dm8=",
+        "vega_pub_key": "f9e2a35a16794fdfb401a3a8a7a1e0fbdc8b10531485af27215264ae1dd98dc6",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -322,7 +322,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211031447",
+  "chain_id": "vega-devnet1-202211031655",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -341,7 +341,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-03T14:47:24.13801316Z",
+  "genesis_time": "2022-11-03T16:55:46.503156978Z",
   "initial_height": "0",
   "validators": [
     {
@@ -381,12 +381,12 @@
       }
     },
     {
-      "address": "08140BD338037A60913021E29947C290CDFF5483",
-      "name": "quiet-hat",
+      "address": "D10649DA7E09F2B33AE62E54DB13E1A9E3DD0276",
+      "name": "frightened-fan",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "UMIWCB7fhxldwHZaH+hsjt0a//iBaERtQ0j/3BK0N8Q="
+        "value": "eLndmEsbjJt4S/0Z/OuH8vnP1kArJeiKkyxN/V08dm8="
       }
     }
   ]
