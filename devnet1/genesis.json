@@ -299,15 +299,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "eLndmEsbjJt4S/0Z/OuH8vnP1kArJeiKkyxN/V08dm8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/j8n79byb7s62bb1dm8yi6w0xcu61acrd?d=identicon",
-        "country": "MT",
-        "ethereum_address": "0x00591B28b0D3A97236677334Cea146b0813abE40",
-        "id": "61e5b33a28850a2afa21a000cf24e03c1a9067989a22c7697ebb708e773962d4",
-        "info_url": "https://en.wikipedia.org/wiki/McPhail_v_Doulton",
-        "name": "frightened-fan",
-        "tm_pub_key": "eLndmEsbjJt4S/0Z/OuH8vnP1kArJeiKkyxN/V08dm8=",
-        "vega_pub_key": "f9e2a35a16794fdfb401a3a8a7a1e0fbdc8b10531485af27215264ae1dd98dc6",
+      "TyyVrAcbHSfoGPUGBhgYNcpKO/YrD/i9x5UszS5u05c=": {
+        "avatar_url": "https://www.gravatar.com/avatar/shy6dv1vjrs4kf4323p1j7pi4txy49ki?d=identicon",
+        "country": "DX",
+        "ethereum_address": "0xbC59027968E355C94d59647FddB6825Fb7EC11E8",
+        "id": "f17aa8791956681798075853ff2be3d32edb743969d7c7f3f383ff67025a1f9d",
+        "info_url": "https://en.wikipedia.org/wiki/Music_Has_No_Boundaries",
+        "name": "impressionable-baby",
+        "tm_pub_key": "TyyVrAcbHSfoGPUGBhgYNcpKO/YrD/i9x5UszS5u05c=",
+        "vega_pub_key": "0df6e70fa6c75468ba7150094322858cdf5fe8d23840c60aff6db860c6868c12",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -323,7 +323,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211040957",
+  "chain_id": "vega-devnet1-202211041139",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -342,7 +342,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-04T09:57:38.872547339Z",
+  "genesis_time": "2022-11-04T11:39:41.28535393Z",
   "initial_height": "0",
   "validators": [
     {
@@ -382,12 +382,12 @@
       }
     },
     {
-      "address": "D10649DA7E09F2B33AE62E54DB13E1A9E3DD0276",
-      "name": "frightened-fan",
+      "address": "CC5D744B51BE45A1FD7A412544E377219F8CB650",
+      "name": "impressionable-baby",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "eLndmEsbjJt4S/0Z/OuH8vnP1kArJeiKkyxN/V08dm8="
+        "value": "TyyVrAcbHSfoGPUGBhgYNcpKO/YrD/i9x5UszS5u05c="
       }
     }
   ]
