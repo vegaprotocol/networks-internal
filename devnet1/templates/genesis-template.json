@@ -263,6 +263,7 @@
             "market.stake.target.timeWindow": "1h",
             "market.value.windowLength": "168h",
             "network.checkpoint.timeElapsedBetweenCheckpoints": "1m",
+            "network.validators.minimumEthereumEventsForNewValidator": "0",
             "network.validators.tendermint.number": "5",
             "reward.asset": "fc7fd956078fb1fc9db5c19b88f0874c4299b2a7639ad05a47a28c0aef291b55",
             "reward.staking.delegation.competitionLevel": "3.1",
