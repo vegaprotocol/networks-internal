@@ -18,8 +18,8 @@ Node documentation page contains all useful informations about the node. You can
 | n03.stagnet3.vega.xyz | tm.n03.stagnet3.vega.xyz | api.n03.stagnet3.vega.xyz | sgp1 | s-4vcpu-8gb | do |
 | n04.stagnet3.vega.xyz | tm.n04.stagnet3.vega.xyz | api.n04.stagnet3.vega.xyz | fra1 | s-4vcpu-8gb | do |
 | n05.stagnet3.vega.xyz | tm.n05.stagnet3.vega.xyz | api.n05.stagnet3.vega.xyz | fra1 | s-4vcpu-8gb | do |
-| n06.stagnet3.vega.xyz | tm.n06.stagnet3.vega.xyz | api.n06.stagnet3.vega.xyz | sfo3 | s-4vcpu-8gb | do |
-| n07.stagnet3.vega.xyz | tm.n07.stagnet3.vega.xyz | api.n07.stagnet3.vega.xyz | fra1 | s-4vcpu-8gb | do |
+| n06.stagnet3.vega.xyz | tm.n06.stagnet3.vega.xyz | api.n06.stagnet3.vega.xyz | fra1 | s-4vcpu-8gb | do |
+| n07.stagnet3.vega.xyz | tm.n07.stagnet3.vega.xyz | api.n07.stagnet3.vega.xyz | sfo3 | s-4vcpu-8gb | do |
 | n08.stagnet3.vega.xyz | tm.n08.stagnet3.vega.xyz | api.n08.stagnet3.vega.xyz | sgp1 | s-4vcpu-8gb | do |
 | n09.stagnet3.vega.xyz | tm.n09.stagnet3.vega.xyz | api.n09.stagnet3.vega.xyz | sfo3 | s-4vcpu-8gb | do |
 | n10.stagnet3.vega.xyz | tm.n10.stagnet3.vega.xyz | api.n10.stagnet3.vega.xyz | eu-west-2c | c5.large | aws |
