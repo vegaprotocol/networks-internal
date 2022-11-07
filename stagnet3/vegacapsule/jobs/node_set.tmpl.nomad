@@ -202,6 +202,9 @@ job "{{ .Name }}" {
       port "vega_metrics" {
         static = 2112
       }
+      port "data_node_metrics" {
+        static = 2113
+      }
 
       port "tm_rpc" {
         static = 26657
