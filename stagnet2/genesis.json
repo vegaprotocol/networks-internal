@@ -278,6 +278,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "/V6glYKsrwVbL6007iTvzlP/4PciCAoID+18NKsZSKU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/e7l36i13dvr3usrmbmptwc9zenmmskij?d=identicon",
+        "country": "TK",
+        "ethereum_address": "0xe35dda06C14a5829567ea6Ab030C469b160371A7",
+        "id": "92e8b432d9455357836c418e7203da4ce89fdd69ffd63ca88c780d6bd6e6607d",
+        "info_url": "https://en.wikipedia.org/wiki/Airmak_J4",
+        "name": "brave-television",
+        "tm_pub_key": "/V6glYKsrwVbL6007iTvzlP/4PciCAoID+18NKsZSKU=",
+        "vega_pub_key": "468a67ad537c95b2261e14d0ca286c5f0f216d26f1387c5f839b82f90ac191d8",
+        "vega_pub_key_index": 1
+      },
       "31ZOrhUIiM+sw7VnogAKTJ+bZU+urxT+gvM5dLw0w0Q=": {
         "avatar_url": "https://www.gravatar.com/avatar/ecjneorwn2396fmx4tnunrlddkeyoc45?d=identicon",
         "country": "AQ",
@@ -287,6 +298,39 @@
         "name": "whispering-wall",
         "tm_pub_key": "31ZOrhUIiM+sw7VnogAKTJ+bZU+urxT+gvM5dLw0w0Q=",
         "vega_pub_key": "a87ad6de9ed973c9bd3a56c6bae4360d170761a0173c79aac6d9143977bf68d4",
+        "vega_pub_key_index": 1
+      },
+      "4N1kaYBeP+QvGVlTOPkGwLAMtgqyOn6Y7ZxtiwFkMT8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/coop4gnop3or1c3iibjkjw7svtijymbw?d=identicon",
+        "country": "XD",
+        "ethereum_address": "0xEd5a3946DE310b39622F3Aa450dABCb389042788",
+        "id": "aa6bdf8cbbd664864648b87ca02c5fed95c060fb035931234a9fcd265ba87e8a",
+        "info_url": "https://en.wikipedia.org/wiki/1978_Romika_Cup",
+        "name": "immense-pencil",
+        "tm_pub_key": "4N1kaYBeP+QvGVlTOPkGwLAMtgqyOn6Y7ZxtiwFkMT8=",
+        "vega_pub_key": "f02282cc91d269a4cb436ecf9772553d456836828d99da6737d046c469643565",
+        "vega_pub_key_index": 1
+      },
+      "AZlFISAwxjZyXdgMV9YorHlcbzAWC7dc0P+/3fDmVN4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/u2pl1nz6mkn5d23x74jothzvc5z49hm3?d=identicon",
+        "country": "TD",
+        "ethereum_address": "0x167b9A48Fdd5F46EBc4ecAf87D10754fCa20245B",
+        "id": "a685c720d18721c22e8e6a349d13155ab9018cfd36c50a63140207a3c8ec0a87",
+        "info_url": "https://en.wikipedia.org/wiki/Claire_Corlett",
+        "name": "whining-beach",
+        "tm_pub_key": "AZlFISAwxjZyXdgMV9YorHlcbzAWC7dc0P+/3fDmVN4=",
+        "vega_pub_key": "e7f7f81c0427e77524d7054ddf13ac31121faa69a635eb0a66fbe949e5aa975b",
+        "vega_pub_key_index": 1
+      },
+      "FIGT1LxmTuP6rvqUe2OphYD6x7HH01UD+oWgPseBCjs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/udw7fgcj5wpwfxl6seolfg9sgqx7uxkf?d=identicon",
+        "country": "DV",
+        "ethereum_address": "0x56657Fe8FB63775F0D6662Dc10E70e9d957fd8Dd",
+        "id": "6bd77e4b16a327adef58aaf745cc54973ba0785178c09b27f479cb3708e58d19",
+        "info_url": "https://en.wikipedia.org/wiki/Tirupati",
+        "name": "purring-music",
+        "tm_pub_key": "FIGT1LxmTuP6rvqUe2OphYD6x7HH01UD+oWgPseBCjs=",
+        "vega_pub_key": "bc19a815f7d923445d3cdb8fe0c85c146ad3da12c8e3e707d50134a8e3ee7ed2",
         "vega_pub_key_index": 1
       },
       "Hg5Zbd+VyrCfhnHICBDrrhj+g0ACRw19EWrVKtasJmg=": {
@@ -300,6 +344,28 @@
         "vega_pub_key": "fd905b5c6ea7688b1e238f6ac9b2d30381fdb3db3cd1b708e44abcc3665e2555",
         "vega_pub_key_index": 1
       },
+      "Px0IuYa51AHC4Fyh10Nn7FTCAty238zKjgChGY7kfUM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/0ttat6nr04hdrt3304eyb6yw1o6xb97b?d=identicon",
+        "country": "ID",
+        "ethereum_address": "0xF6C5b7eC0142f90f3C8824747ddB8F8a158d72d7",
+        "id": "75eecd51d82b2dda30a85188a6c37fd13d569683ebbdc8adc8084df9f98831d3",
+        "info_url": "https://en.wikipedia.org/wiki/Pierre_Janvier",
+        "name": "determined-coffee",
+        "tm_pub_key": "Px0IuYa51AHC4Fyh10Nn7FTCAty238zKjgChGY7kfUM=",
+        "vega_pub_key": "09783391a33df2ef33b4f1647e2f4d16e73620abb0816a2a4f1cd347654c1d7a",
+        "vega_pub_key_index": 1
+      },
+      "Wl+ChRZsGp/zMpd6W+uIM+XoTzLonzpNXFOVVUD2Ld0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/dmn2pii1aeszukgn9nwjvj0qbbv2djm8?d=identicon",
+        "country": "NB",
+        "ethereum_address": "0x0b94515b347BC419496f2E18feA7da5fBe0283FE",
+        "id": "5c564249fee9a0b8e460ecf5fb179af178254d5a5a29496ce0e2707896185079",
+        "info_url": "https://en.wikipedia.org/wiki/Terason",
+        "name": "vast-ball",
+        "tm_pub_key": "Wl+ChRZsGp/zMpd6W+uIM+XoTzLonzpNXFOVVUD2Ld0=",
+        "vega_pub_key": "78aec26c83c8ac9cbae0f3b17887d754d07d7de86498bc3e9693e11fab6f575b",
+        "vega_pub_key_index": 1
+      },
       "XVw8L2ZZCywnl7llDCLoZeYoeSnLSyJAOR4wkFgbJJU=": {
         "avatar_url": "https://www.gravatar.com/avatar/bulfuflna7wph1ato20170lq5whyy63j?d=identicon",
         "country": "JO",
@@ -309,6 +375,17 @@
         "name": "quaint-shirt",
         "tm_pub_key": "XVw8L2ZZCywnl7llDCLoZeYoeSnLSyJAOR4wkFgbJJU=",
         "vega_pub_key": "67a0ae944bdc59adbf8b7713fe8b8b02071df4c2885be497adce62b5d333b99e",
+        "vega_pub_key_index": 1
+      },
+      "dZM+MduqD5dUk2iST6LM2GWkJyoGjfI0D06sDS0Nsb8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/1il6zvfsis31arkyhie9mlr2esg289qu?d=identicon",
+        "country": "DO",
+        "ethereum_address": "0x3034b10E54Eb7F9167b70Fb07E79d244D2bA893C",
+        "id": "95df5e683209eb0d3a3b82a37700c8357e39f55b53124d48b6f76562eaf1ad66",
+        "info_url": "https://en.wikipedia.org/wiki/Yaroslavl_State_Medical_Academy",
+        "name": "condescending-day",
+        "tm_pub_key": "dZM+MduqD5dUk2iST6LM2GWkJyoGjfI0D06sDS0Nsb8=",
+        "vega_pub_key": "41f19856add6a02bdf8d6a0dca2fc1512334bc68119d6c878a507129420cf9ae",
         "vega_pub_key_index": 1
       },
       "kKyQ9vUTHNmwHTnlofA/LzmqbwH4F4pAPq6e//ZdbMM=": {
@@ -321,10 +398,54 @@
         "tm_pub_key": "kKyQ9vUTHNmwHTnlofA/LzmqbwH4F4pAPq6e//ZdbMM=",
         "vega_pub_key": "ed352a535e21563cc36240f224db565beb58d749fef7151f99fe49852d0c55a5",
         "vega_pub_key_index": 1
+      },
+      "qSnaiMoUHZ7/Jj8C0/qr+3izxSGn3YQKNgzjcCbL88I=": {
+        "avatar_url": "https://www.gravatar.com/avatar/dbzyw6vl83gprnkkskr36vfmyo03e9x1?d=identicon",
+        "country": "XU",
+        "ethereum_address": "0x380E3aDb4e8CaF4b392fdc61099413E8C4c067b4",
+        "id": "45b45c6c5333f519ed4c2483063e10c77b15defdcb3c1d523f0c4d133110535e",
+        "info_url": "https://en.wikipedia.org/wiki/Congenital_dyserythropoietic_anemia_type_IV",
+        "name": "gifted-movie",
+        "tm_pub_key": "qSnaiMoUHZ7/Jj8C0/qr+3izxSGn3YQKNgzjcCbL88I=",
+        "vega_pub_key": "776c4faca9e439fa383a507329d7e3e225d776abda5f673767ef02bf04082838",
+        "vega_pub_key_index": 1
+      },
+      "qkSW5wBAnswNgbkx8Yw8Gp/mc1xJDd15EsbYUJj7U70=": {
+        "avatar_url": "https://www.gravatar.com/avatar/0p1xbusr6vbcm9z77w0mj0m7fr5zmdqa?d=identicon",
+        "country": "AM",
+        "ethereum_address": "0x9Fc2E285aA72A3F79ed60d66df74D93ef26ed21f",
+        "id": "0354b21bdf2a5060660c5de7512929ff7883f49987381635fef0e7be5040b228",
+        "info_url": "https://en.wikipedia.org/wiki/Devil%27s_Castle",
+        "name": "brave-fisherman",
+        "tm_pub_key": "qkSW5wBAnswNgbkx8Yw8Gp/mc1xJDd15EsbYUJj7U70=",
+        "vega_pub_key": "d28f1fac36a356c14c4c7f0623db1fd8aa7685681556fbe63fbf1e3f802e2aa0",
+        "vega_pub_key_index": 1
+      },
+      "zNuGroyBUQAAbR5aCYbO+I8dGMh6GjjWlqZwXtrTd9M=": {
+        "avatar_url": "https://www.gravatar.com/avatar/k9kgt8js577vo308hedebfamcnxatrwh?d=identicon",
+        "country": "MM",
+        "ethereum_address": "0x912c0cE6920deDB5c36aBd5a656A4fB7ED416660",
+        "id": "84da92ae53034fc8c42fa8bf209097ca6950bf964939ff06c4d32a257035fd46",
+        "info_url": "https://en.wikipedia.org/wiki/Thermobiotes",
+        "name": "alert-chair",
+        "tm_pub_key": "zNuGroyBUQAAbR5aCYbO+I8dGMh6GjjWlqZwXtrTd9M=",
+        "vega_pub_key": "a9c6b417e7f245c795c90590477ff4e6cff80d7878cad6c3a03d291f1453c74b",
+        "vega_pub_key_index": 1
+      },
+      "ziHqh8I+kez9pIg+3yjVfZylbJx7D05uMZjnx9s3Pg0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/r8ditvxm3g4cb5yqb7baveaqlo9qfwzr?d=identicon",
+        "country": "DK",
+        "ethereum_address": "0xa7e8ff8ED30c116facCA311b3b8E8177e58cEC38",
+        "id": "6b5bdf01fa8062ac8a89134c31e2f7ca23b48e174205f46d32cfd04ac1f4d5d9",
+        "info_url": "https://en.wikipedia.org/wiki/Tansi",
+        "name": "loud-pen",
+        "tm_pub_key": "ziHqh8I+kez9pIg+3yjVfZylbJx7D05uMZjnx9s3Pg0=",
+        "vega_pub_key": "25a209ce57fe72e5f28bd45ac4a9072a6b4bc235c2e4512992b522927bd946db",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-stagnet2-202210281233",
+  "chain_id": "vega-stagnet2-202211080844",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -343,7 +464,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-10-28T10:33:28.486716Z",
+  "genesis_time": "2022-11-08T08:44:58.081411092Z",
   "initial_height": "0",
   "validators": [
     {
@@ -380,6 +501,105 @@
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
         "value": "XVw8L2ZZCywnl7llDCLoZeYoeSnLSyJAOR4wkFgbJJU="
+      }
+    },
+    {
+      "address": "8918F4BB01E4E118E782BA49903BD01DD7D5BBE7",
+      "name": "gifted-movie",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "qSnaiMoUHZ7/Jj8C0/qr+3izxSGn3YQKNgzjcCbL88I="
+      }
+    },
+    {
+      "address": "59C8E1CC1F1BF6747F2B670E03A4FBDE7F420D08",
+      "name": "whining-beach",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "AZlFISAwxjZyXdgMV9YorHlcbzAWC7dc0P+/3fDmVN4="
+      }
+    },
+    {
+      "address": "18BDD2A4E4B2A57AA9F9A82B52DF43C894B20D29",
+      "name": "condescending-day",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "dZM+MduqD5dUk2iST6LM2GWkJyoGjfI0D06sDS0Nsb8="
+      }
+    },
+    {
+      "address": "43067602BFAEBDAB6ECFAC23469D2CD28AD9F3BE",
+      "name": "alert-chair",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "zNuGroyBUQAAbR5aCYbO+I8dGMh6GjjWlqZwXtrTd9M="
+      }
+    },
+    {
+      "address": "90FD13E9A81A63E3E7F7140B93CE5208FC4E841B",
+      "name": "brave-television",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "/V6glYKsrwVbL6007iTvzlP/4PciCAoID+18NKsZSKU="
+      }
+    },
+    {
+      "address": "F964E561BDFA03A643DEDD5E9653954EE3AE29F7",
+      "name": "vast-ball",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "Wl+ChRZsGp/zMpd6W+uIM+XoTzLonzpNXFOVVUD2Ld0="
+      }
+    },
+    {
+      "address": "46F5B716C1D24C31272A7F6B124D84C3EC59F36A",
+      "name": "determined-coffee",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "Px0IuYa51AHC4Fyh10Nn7FTCAty238zKjgChGY7kfUM="
+      }
+    },
+    {
+      "address": "9BF47DC590C42BD59ECFBA112032FFE3C70838ED",
+      "name": "brave-fisherman",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "qkSW5wBAnswNgbkx8Yw8Gp/mc1xJDd15EsbYUJj7U70="
+      }
+    },
+    {
+      "address": "8E45C004AE96AB19B9D182964C8392E86CEB2B72",
+      "name": "loud-pen",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "ziHqh8I+kez9pIg+3yjVfZylbJx7D05uMZjnx9s3Pg0="
+      }
+    },
+    {
+      "address": "D080B01C0A9E6FF42EB0BB818E6B063FBE47C5B7",
+      "name": "immense-pencil",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "4N1kaYBeP+QvGVlTOPkGwLAMtgqyOn6Y7ZxtiwFkMT8="
+      }
+    },
+    {
+      "address": "E9DA1F8DE2EAB2E1C54D6CA432FCEF17605274CB",
+      "name": "purring-music",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "FIGT1LxmTuP6rvqUe2OphYD6x7HH01UD+oWgPseBCjs="
       }
     }
   ]
