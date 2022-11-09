@@ -484,7 +484,7 @@ job "{{ .Name }}" {
         command = "bash"
         args = [
           "-c",
-          "/local/vega/bin/data-node node --home /local/vega/.data-node"
+          "sleep 60; /local/vega/bin/data-node node --home /local/vega/.data-node"
         ]
       }
 
