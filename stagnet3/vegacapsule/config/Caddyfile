@@ -106,5 +106,6 @@ tm.{node_idx}.stagnet3.vega.xyz:443 {
 
 
 blockexplorer.{node_idx}.stagnet3.vega.xyz:443 {
+  import cors *
   import blockexplorerpaths
 }
