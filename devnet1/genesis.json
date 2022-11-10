@@ -266,6 +266,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "/rSk+5nKnU61TFY7xiFz3aVsp7AoI09yojcQLwi9fNc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/h9u4vb1eex20hso6cz7szdiq63fpurtf?d=identicon",
+        "country": "GX",
+        "ethereum_address": "0x962700e07489e59DD46691dA73EaD3EA22047160",
+        "id": "1b2ff7506fd0ce4ca4b98274850974f62967a296bff73e6fc3676290bfdf980d",
+        "info_url": "https://en.wikipedia.org/wiki/List_of_flag_bearers_for_El_Salvador_at_the_Olympics",
+        "name": "mango-book",
+        "tm_pub_key": "/rSk+5nKnU61TFY7xiFz3aVsp7AoI09yojcQLwi9fNc=",
+        "vega_pub_key": "0d7a82f957da5aedb8297a80a51cb49aae380d3bd590812201d29959e2810e6c",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -299,17 +310,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "caKxGTSK/XtSNENR5oZNRUCRxG0MECPisa5V4vEiCf4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/xbt172ibccnihwpwnmrv1xiot6y67m7i?d=identicon",
-        "country": "YQ",
-        "ethereum_address": "0x85367681C084044aB0e6f5B4e6fDF3Ec09045429",
-        "id": "58962932be96511643464f17aa48f762d33dcb9faef548e1ac6e9c39551f9234",
-        "info_url": "https://en.wikipedia.org/wiki/List_of_horror_anthology_films",
-        "name": "timely-pond",
-        "tm_pub_key": "caKxGTSK/XtSNENR5oZNRUCRxG0MECPisa5V4vEiCf4=",
-        "vega_pub_key": "005e8868074e0ec54c160adc2d4b52921bc44e4b68ff9f87dd0fc6589c4c3167",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -323,7 +323,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211101911",
+  "chain_id": "vega-devnet1-202211102015",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -342,7 +342,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-10T19:11:54.865654615Z",
+  "genesis_time": "2022-11-10T20:15:08.143152144Z",
   "initial_height": "0",
   "validators": [
     {
@@ -382,12 +382,12 @@
       }
     },
     {
-      "address": "4E21B9A09F9EA0FE8C4C5AE9E5F87A3D2F8FDA7A",
-      "name": "timely-pond",
+      "address": "EFF55CE7E2F0C9A126B1F0E696B7AE63B48A51D5",
+      "name": "mango-book",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "caKxGTSK/XtSNENR5oZNRUCRxG0MECPisa5V4vEiCf4="
+        "value": "/rSk+5nKnU61TFY7xiFz3aVsp7AoI09yojcQLwi9fNc="
       }
     }
   ]
