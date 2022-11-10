@@ -266,17 +266,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "5sz3UbPbuhD2ScZRRGxLAOwwz9EdM+1xheydG2tvgC4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/efploutvq0nee22bws1esvbxxtp352ib?d=identicon",
-        "country": "YM",
-        "ethereum_address": "0x315D6519774aBBd3CB6629532ffc3aa2660AD2Ac",
-        "id": "9f906ccc6ebc5b6705f0efdd5c2b9a97865ba4710d6303653b6e23625ff5ecd9",
-        "info_url": "https://en.wikipedia.org/wiki/Majuli_College",
-        "name": "happy-ball",
-        "tm_pub_key": "5sz3UbPbuhD2ScZRRGxLAOwwz9EdM+1xheydG2tvgC4=",
-        "vega_pub_key": "0978c7dac36deb54c78cb2885cf65eeb825eccc388dde4203a544afc4fc1cae2",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -310,6 +299,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "SX39hP9oJldmskGUH9JflZ2vUo9GipjRh+efA5OnXtU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/mtovl0rctsa2apuanw3kh2o6sd3c8xyv?d=identicon",
+        "country": "XV",
+        "ethereum_address": "0x7F9E1f3D00BB961Ec47c9d1e4e5Bd3E6A687a520",
+        "id": "b05c1bb97699aada806fb5d8a96b145a9ec36717e14362cf7cc2a70016d70ce0",
+        "info_url": "https://en.wikipedia.org/wiki/Vardy_v_Rooney:_A_Courtroom_Drama",
+        "name": "scruffy-vacuum",
+        "tm_pub_key": "SX39hP9oJldmskGUH9JflZ2vUo9GipjRh+efA5OnXtU=",
+        "vega_pub_key": "88f7eef2dc9d39ddcd0d8a00f9063060120e7ff4874e9bca0d1e68a6365247c2",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -323,7 +323,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211101725",
+  "chain_id": "vega-devnet1-202211101803",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -342,7 +342,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-10T17:25:17.445269992Z",
+  "genesis_time": "2022-11-10T18:03:12.437800054Z",
   "initial_height": "0",
   "validators": [
     {
@@ -382,12 +382,12 @@
       }
     },
     {
-      "address": "B59263EBCD550E60C3F9C94520593FDCC6A6DB27",
-      "name": "happy-ball",
+      "address": "ED8AF8EFD59F521DAC5EB0C85B7605A9DE804EF4",
+      "name": "scruffy-vacuum",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "5sz3UbPbuhD2ScZRRGxLAOwwz9EdM+1xheydG2tvgC4="
+        "value": "SX39hP9oJldmskGUH9JflZ2vUo9GipjRh+efA5OnXtU="
       }
     }
   ]
