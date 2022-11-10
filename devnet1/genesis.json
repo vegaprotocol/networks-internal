@@ -266,15 +266,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "+kfvfTZ/CHgyqMvKBnwD2qjRrEepF6GlLf/QZtUaDnA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/8m992bybvy36wdher02lxpabjbicmmz7?d=identicon",
-        "country": "CT",
-        "ethereum_address": "0x7517c76314D7ab1D52Ba5E1c451861291C8f5585",
-        "id": "7a1d8949af5803be1755d2c1561d2dd57639f2d69ecee2b803062b77f8fdff8d",
-        "info_url": "https://en.wikipedia.org/wiki/Patricia_Kane",
-        "name": "ashy-monkey",
-        "tm_pub_key": "+kfvfTZ/CHgyqMvKBnwD2qjRrEepF6GlLf/QZtUaDnA=",
-        "vega_pub_key": "fd0df717779677b555df3265528764149a733b8fe9223f0a962ba83c51d378f5",
+      "2d5ahDbQyi0kn8HAXdRDX8S8rcEfmcHC29F1nSRT8CQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/jk81ejk0tsipxj26te547ssc7bv4ef7i?d=identicon",
+        "country": "MM",
+        "ethereum_address": "0xBAd8936e790ADd5Cb7483EdD5E19064403EF627E",
+        "id": "53872a726b5f16bb94e19fc8d047a7f18a22545f244e1163f8e209ea8ba6e6bf",
+        "info_url": "https://en.wikipedia.org/wiki/San_Pablo_Airport_(Chile)",
+        "name": "unkempt-farmer",
+        "tm_pub_key": "2d5ahDbQyi0kn8HAXdRDX8S8rcEfmcHC29F1nSRT8CQ=",
+        "vega_pub_key": "dedbd9155ba2c0b339c54cb4b50e6d7388dd868145ece19d0f6b6e4caf73189e",
         "vega_pub_key_index": 1
       },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
@@ -323,7 +323,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211101525",
+  "chain_id": "vega-devnet1-202211101648",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -342,7 +342,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-10T15:25:29.201692553Z",
+  "genesis_time": "2022-11-10T16:48:48.070044038Z",
   "initial_height": "0",
   "validators": [
     {
@@ -382,12 +382,12 @@
       }
     },
     {
-      "address": "9D06850416AEC74A1D4976203ACD5A523298507F",
-      "name": "ashy-monkey",
+      "address": "24B263D8DB955AD808224E5E6A9E898342CC8023",
+      "name": "unkempt-farmer",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "+kfvfTZ/CHgyqMvKBnwD2qjRrEepF6GlLf/QZtUaDnA="
+        "value": "2d5ahDbQyi0kn8HAXdRDX8S8rcEfmcHC29F1nSRT8CQ="
       }
     }
   ]
