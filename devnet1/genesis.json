@@ -299,15 +299,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "SX39hP9oJldmskGUH9JflZ2vUo9GipjRh+efA5OnXtU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/mtovl0rctsa2apuanw3kh2o6sd3c8xyv?d=identicon",
-        "country": "XV",
-        "ethereum_address": "0x7F9E1f3D00BB961Ec47c9d1e4e5Bd3E6A687a520",
-        "id": "b05c1bb97699aada806fb5d8a96b145a9ec36717e14362cf7cc2a70016d70ce0",
-        "info_url": "https://en.wikipedia.org/wiki/Vardy_v_Rooney:_A_Courtroom_Drama",
-        "name": "scruffy-vacuum",
-        "tm_pub_key": "SX39hP9oJldmskGUH9JflZ2vUo9GipjRh+efA5OnXtU=",
-        "vega_pub_key": "88f7eef2dc9d39ddcd0d8a00f9063060120e7ff4874e9bca0d1e68a6365247c2",
+      "f8iL1aOcECcLAwN1sBi5573ZG7xot6TYyEJE/dLIiA4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/7197zfws8ds4oozpkoy9sz1o1yb43yg1?d=identicon",
+        "country": "EJ",
+        "ethereum_address": "0x1Dea32e5E5973A23ca166357Fe6Fe674C5eAB839",
+        "id": "caaa1984f1dcce51db0bfe65a3739a68154389fbd6de14d3126273241077dea1",
+        "info_url": "https://en.wikipedia.org/wiki/Allotinus_fallax",
+        "name": "better-shoe",
+        "tm_pub_key": "f8iL1aOcECcLAwN1sBi5573ZG7xot6TYyEJE/dLIiA4=",
+        "vega_pub_key": "f002d1737fa97370da64d3ed382ee493a19b13ca44fb58687d9ddb8e6659c6bc",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -323,7 +323,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211101803",
+  "chain_id": "vega-devnet1-202211101830",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -342,7 +342,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-10T18:03:12.437800054Z",
+  "genesis_time": "2022-11-10T18:30:47.665849807Z",
   "initial_height": "0",
   "validators": [
     {
@@ -382,12 +382,12 @@
       }
     },
     {
-      "address": "ED8AF8EFD59F521DAC5EB0C85B7605A9DE804EF4",
-      "name": "scruffy-vacuum",
+      "address": "DA867115F44D0A93C2171B82ECA9F57D6002A31F",
+      "name": "better-shoe",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "SX39hP9oJldmskGUH9JflZ2vUo9GipjRh+efA5OnXtU="
+        "value": "f8iL1aOcECcLAwN1sBi5573ZG7xot6TYyEJE/dLIiA4="
       }
     }
   ]
