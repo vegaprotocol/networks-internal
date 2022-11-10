@@ -299,15 +299,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "f8iL1aOcECcLAwN1sBi5573ZG7xot6TYyEJE/dLIiA4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/7197zfws8ds4oozpkoy9sz1o1yb43yg1?d=identicon",
-        "country": "EJ",
-        "ethereum_address": "0x1Dea32e5E5973A23ca166357Fe6Fe674C5eAB839",
-        "id": "caaa1984f1dcce51db0bfe65a3739a68154389fbd6de14d3126273241077dea1",
-        "info_url": "https://en.wikipedia.org/wiki/Allotinus_fallax",
-        "name": "better-shoe",
-        "tm_pub_key": "f8iL1aOcECcLAwN1sBi5573ZG7xot6TYyEJE/dLIiA4=",
-        "vega_pub_key": "f002d1737fa97370da64d3ed382ee493a19b13ca44fb58687d9ddb8e6659c6bc",
+      "caKxGTSK/XtSNENR5oZNRUCRxG0MECPisa5V4vEiCf4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xbt172ibccnihwpwnmrv1xiot6y67m7i?d=identicon",
+        "country": "YQ",
+        "ethereum_address": "0x85367681C084044aB0e6f5B4e6fDF3Ec09045429",
+        "id": "58962932be96511643464f17aa48f762d33dcb9faef548e1ac6e9c39551f9234",
+        "info_url": "https://en.wikipedia.org/wiki/List_of_horror_anthology_films",
+        "name": "timely-pond",
+        "tm_pub_key": "caKxGTSK/XtSNENR5oZNRUCRxG0MECPisa5V4vEiCf4=",
+        "vega_pub_key": "005e8868074e0ec54c160adc2d4b52921bc44e4b68ff9f87dd0fc6589c4c3167",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -323,7 +323,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211101830",
+  "chain_id": "vega-devnet1-202211101911",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -342,7 +342,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-10T18:30:47.665849807Z",
+  "genesis_time": "2022-11-10T19:11:54.865654615Z",
   "initial_height": "0",
   "validators": [
     {
@@ -382,12 +382,12 @@
       }
     },
     {
-      "address": "DA867115F44D0A93C2171B82ECA9F57D6002A31F",
-      "name": "better-shoe",
+      "address": "4E21B9A09F9EA0FE8C4C5AE9E5F87A3D2F8FDA7A",
+      "name": "timely-pond",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "f8iL1aOcECcLAwN1sBi5573ZG7xot6TYyEJE/dLIiA4="
+        "value": "caKxGTSK/XtSNENR5oZNRUCRxG0MECPisa5V4vEiCf4="
       }
     }
   ]
