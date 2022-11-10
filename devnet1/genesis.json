@@ -266,6 +266,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "+kfvfTZ/CHgyqMvKBnwD2qjRrEepF6GlLf/QZtUaDnA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/8m992bybvy36wdher02lxpabjbicmmz7?d=identicon",
+        "country": "CT",
+        "ethereum_address": "0x7517c76314D7ab1D52Ba5E1c451861291C8f5585",
+        "id": "7a1d8949af5803be1755d2c1561d2dd57639f2d69ecee2b803062b77f8fdff8d",
+        "info_url": "https://en.wikipedia.org/wiki/Patricia_Kane",
+        "name": "ashy-monkey",
+        "tm_pub_key": "+kfvfTZ/CHgyqMvKBnwD2qjRrEepF6GlLf/QZtUaDnA=",
+        "vega_pub_key": "fd0df717779677b555df3265528764149a733b8fe9223f0a962ba83c51d378f5",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -309,21 +320,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "zQ6FB93UiH5KnXCfmrxlvLJLFWuf5mcJUPubYsojs5U=": {
-        "avatar_url": "https://www.gravatar.com/avatar/bupdbnei0suhk9nnog0ii6c03rkuneu0?d=identicon",
-        "country": "CM",
-        "ethereum_address": "0xCFc10d9EDD0a86104e483eB6F0ebc90534839eab",
-        "id": "ede4ac813b8797fe22359d56dc3d81cf7a83aede12af8573b11e89ab0b1168a0",
-        "info_url": "https://en.wikipedia.org/wiki/Vivian_I._Neptune_Rivera",
-        "name": "icy-table",
-        "tm_pub_key": "zQ6FB93UiH5KnXCfmrxlvLJLFWuf5mcJUPubYsojs5U=",
-        "vega_pub_key": "cc2255c5342834022e11860b2a153c1be099d3eb2040b5318b96d05be8f1751c",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202211101355",
+  "chain_id": "vega-devnet1-202211101525",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -342,7 +342,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-10T13:55:56.224822592Z",
+  "genesis_time": "2022-11-10T15:25:29.201692553Z",
   "initial_height": "0",
   "validators": [
     {
@@ -382,12 +382,12 @@
       }
     },
     {
-      "address": "E4F05C0BBC4A1852A328D9ED5D7ACB5A17E71EAD",
-      "name": "icy-table",
+      "address": "9D06850416AEC74A1D4976203ACD5A523298507F",
+      "name": "ashy-monkey",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "zQ6FB93UiH5KnXCfmrxlvLJLFWuf5mcJUPubYsojs5U="
+        "value": "+kfvfTZ/CHgyqMvKBnwD2qjRrEepF6GlLf/QZtUaDnA="
       }
     }
   ]
