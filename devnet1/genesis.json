@@ -266,15 +266,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "2d5ahDbQyi0kn8HAXdRDX8S8rcEfmcHC29F1nSRT8CQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/jk81ejk0tsipxj26te547ssc7bv4ef7i?d=identicon",
-        "country": "MM",
-        "ethereum_address": "0xBAd8936e790ADd5Cb7483EdD5E19064403EF627E",
-        "id": "53872a726b5f16bb94e19fc8d047a7f18a22545f244e1163f8e209ea8ba6e6bf",
-        "info_url": "https://en.wikipedia.org/wiki/San_Pablo_Airport_(Chile)",
-        "name": "unkempt-farmer",
-        "tm_pub_key": "2d5ahDbQyi0kn8HAXdRDX8S8rcEfmcHC29F1nSRT8CQ=",
-        "vega_pub_key": "dedbd9155ba2c0b339c54cb4b50e6d7388dd868145ece19d0f6b6e4caf73189e",
+      "5sz3UbPbuhD2ScZRRGxLAOwwz9EdM+1xheydG2tvgC4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/efploutvq0nee22bws1esvbxxtp352ib?d=identicon",
+        "country": "YM",
+        "ethereum_address": "0x315D6519774aBBd3CB6629532ffc3aa2660AD2Ac",
+        "id": "9f906ccc6ebc5b6705f0efdd5c2b9a97865ba4710d6303653b6e23625ff5ecd9",
+        "info_url": "https://en.wikipedia.org/wiki/Majuli_College",
+        "name": "happy-ball",
+        "tm_pub_key": "5sz3UbPbuhD2ScZRRGxLAOwwz9EdM+1xheydG2tvgC4=",
+        "vega_pub_key": "0978c7dac36deb54c78cb2885cf65eeb825eccc388dde4203a544afc4fc1cae2",
         "vega_pub_key_index": 1
       },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
@@ -323,7 +323,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211101648",
+  "chain_id": "vega-devnet1-202211101725",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -342,7 +342,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-10T16:48:48.070044038Z",
+  "genesis_time": "2022-11-10T17:25:17.445269992Z",
   "initial_height": "0",
   "validators": [
     {
@@ -382,12 +382,12 @@
       }
     },
     {
-      "address": "24B263D8DB955AD808224E5E6A9E898342CC8023",
-      "name": "unkempt-farmer",
+      "address": "B59263EBCD550E60C3F9C94520593FDCC6A6DB27",
+      "name": "happy-ball",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "2d5ahDbQyi0kn8HAXdRDX8S8rcEfmcHC29F1nSRT8CQ="
+        "value": "5sz3UbPbuhD2ScZRRGxLAOwwz9EdM+1xheydG2tvgC4="
       }
     }
   ]
