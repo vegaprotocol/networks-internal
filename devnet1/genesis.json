@@ -266,17 +266,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "/rSk+5nKnU61TFY7xiFz3aVsp7AoI09yojcQLwi9fNc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/h9u4vb1eex20hso6cz7szdiq63fpurtf?d=identicon",
-        "country": "GX",
-        "ethereum_address": "0x962700e07489e59DD46691dA73EaD3EA22047160",
-        "id": "1b2ff7506fd0ce4ca4b98274850974f62967a296bff73e6fc3676290bfdf980d",
-        "info_url": "https://en.wikipedia.org/wiki/List_of_flag_bearers_for_El_Salvador_at_the_Olympics",
-        "name": "mango-book",
-        "tm_pub_key": "/rSk+5nKnU61TFY7xiFz3aVsp7AoI09yojcQLwi9fNc=",
-        "vega_pub_key": "0d7a82f957da5aedb8297a80a51cb49aae380d3bd590812201d29959e2810e6c",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -297,6 +286,17 @@
         "name": "friendly-barber",
         "tm_pub_key": "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=",
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
+        "vega_pub_key_index": 1
+      },
+      "J87ed9v08A7wiPu4UgMf6TZ3qczS3SDubF+zdiABrpU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/khpj0d0b87ld48s1i66qkkle7atuzcsx?d=identicon",
+        "country": "PW",
+        "ethereum_address": "0x6657113cA7b1fABf1ec8213D4bed033ca726C2f1",
+        "id": "7291975b0c6c8e19f1b6461ed5bd54320f3c8fd8d0143dcdf53dcafad89ea75f",
+        "info_url": "https://en.wikipedia.org/wiki/Gabriel_Lacerda",
+        "name": "harebrained-bee",
+        "tm_pub_key": "J87ed9v08A7wiPu4UgMf6TZ3qczS3SDubF+zdiABrpU=",
+        "vega_pub_key": "cc81256ff4ea9039cd357ebbd2e003c2ffd3cd2942c52896c776da58e8cb0f03",
         "vega_pub_key_index": 1
       },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
@@ -323,7 +323,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211102015",
+  "chain_id": "vega-devnet1-202211102050",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -342,7 +342,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-10T20:15:08.143152144Z",
+  "genesis_time": "2022-11-10T20:50:32.244896624Z",
   "initial_height": "0",
   "validators": [
     {
@@ -382,12 +382,12 @@
       }
     },
     {
-      "address": "EFF55CE7E2F0C9A126B1F0E696B7AE63B48A51D5",
-      "name": "mango-book",
+      "address": "92DD7993C46F62DE088BCEA7B5F5B7EC0DDFDDB9",
+      "name": "harebrained-bee",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "/rSk+5nKnU61TFY7xiFz3aVsp7AoI09yojcQLwi9fNc="
+        "value": "J87ed9v08A7wiPu4UgMf6TZ3qczS3SDubF+zdiABrpU="
       }
     }
   ]
