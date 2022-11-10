@@ -288,17 +288,6 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
-      "J87ed9v08A7wiPu4UgMf6TZ3qczS3SDubF+zdiABrpU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/khpj0d0b87ld48s1i66qkkle7atuzcsx?d=identicon",
-        "country": "PW",
-        "ethereum_address": "0x6657113cA7b1fABf1ec8213D4bed033ca726C2f1",
-        "id": "7291975b0c6c8e19f1b6461ed5bd54320f3c8fd8d0143dcdf53dcafad89ea75f",
-        "info_url": "https://en.wikipedia.org/wiki/Gabriel_Lacerda",
-        "name": "harebrained-bee",
-        "tm_pub_key": "J87ed9v08A7wiPu4UgMf6TZ3qczS3SDubF+zdiABrpU=",
-        "vega_pub_key": "cc81256ff4ea9039cd357ebbd2e003c2ffd3cd2942c52896c776da58e8cb0f03",
-        "vega_pub_key_index": 1
-      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -308,6 +297,17 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
+        "vega_pub_key_index": 1
+      },
+      "XBRAoDC33mfrKBKMlNw9cZEvJj61ytuJPuLT5YNQe5o=": {
+        "avatar_url": "https://www.gravatar.com/avatar/wtdxhnus0fkswfodnpj58rdz12rkoj6e?d=identicon",
+        "country": "YL",
+        "ethereum_address": "0x316a2985808164Ddb82Cb2AadBb64DB6fB554a90",
+        "id": "5aa04dd620161a307208bc0fddec5420195af78f0709fff5c30b41f42bd14709",
+        "info_url": "https://en.wikipedia.org/wiki/Los_TNT",
+        "name": "quiet-door",
+        "tm_pub_key": "XBRAoDC33mfrKBKMlNw9cZEvJj61ytuJPuLT5YNQe5o=",
+        "vega_pub_key": "bef7da77b962cd2ce941ab4451c5f208659423ee04a9f566e6f96c5e598142fa",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -323,7 +323,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211102050",
+  "chain_id": "vega-devnet1-202211102207",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -342,7 +342,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-10T20:50:32.244896624Z",
+  "genesis_time": "2022-11-10T22:07:32.766149828Z",
   "initial_height": "0",
   "validators": [
     {
@@ -382,12 +382,12 @@
       }
     },
     {
-      "address": "92DD7993C46F62DE088BCEA7B5F5B7EC0DDFDDB9",
-      "name": "harebrained-bee",
+      "address": "ABCC9573472DE2409D212707283C820B82BFFB6A",
+      "name": "quiet-door",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "J87ed9v08A7wiPu4UgMf6TZ3qczS3SDubF+zdiABrpU="
+        "value": "XBRAoDC33mfrKBKMlNw9cZEvJj61ytuJPuLT5YNQe5o="
       }
     }
   ]
