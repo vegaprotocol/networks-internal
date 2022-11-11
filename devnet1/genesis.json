@@ -299,15 +299,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "XBRAoDC33mfrKBKMlNw9cZEvJj61ytuJPuLT5YNQe5o=": {
-        "avatar_url": "https://www.gravatar.com/avatar/wtdxhnus0fkswfodnpj58rdz12rkoj6e?d=identicon",
-        "country": "YL",
-        "ethereum_address": "0x316a2985808164Ddb82Cb2AadBb64DB6fB554a90",
-        "id": "5aa04dd620161a307208bc0fddec5420195af78f0709fff5c30b41f42bd14709",
-        "info_url": "https://en.wikipedia.org/wiki/Los_TNT",
-        "name": "quiet-door",
-        "tm_pub_key": "XBRAoDC33mfrKBKMlNw9cZEvJj61ytuJPuLT5YNQe5o=",
-        "vega_pub_key": "bef7da77b962cd2ce941ab4451c5f208659423ee04a9f566e6f96c5e598142fa",
+      "j839Q/YNGupw1tHpMvYWq7Ke3YtGUJr5Iz4i8k9hU/E=": {
+        "avatar_url": "https://www.gravatar.com/avatar/6hu8c13clkwi8bwoupav78txfeih6mce?d=identicon",
+        "country": "WJ",
+        "ethereum_address": "0x500056219B203687cA68067A7Dcbebb76b7058ef",
+        "id": "4ef6c60c9ded1eff4ba5d46305926b5f83cc173a65a0a7dd8601bb392cbba4ab",
+        "info_url": "https://en.wikipedia.org/wiki/Morningstar_Air_Express",
+        "name": "lemon-computer",
+        "tm_pub_key": "j839Q/YNGupw1tHpMvYWq7Ke3YtGUJr5Iz4i8k9hU/E=",
+        "vega_pub_key": "e6691317f4285df91a930bd6879abac162473c4982dcf6ed08fd739948580580",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -323,7 +323,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211102207",
+  "chain_id": "vega-devnet1-202211111430",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -342,7 +342,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-10T22:07:32.766149828Z",
+  "genesis_time": "2022-11-11T14:30:40.956550779Z",
   "initial_height": "0",
   "validators": [
     {
@@ -382,12 +382,12 @@
       }
     },
     {
-      "address": "ABCC9573472DE2409D212707283C820B82BFFB6A",
-      "name": "quiet-door",
+      "address": "44A0CE890DB6A54C2C1C52145E89D89ABD7CF94A",
+      "name": "lemon-computer",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "XBRAoDC33mfrKBKMlNw9cZEvJj61ytuJPuLT5YNQe5o="
+        "value": "j839Q/YNGupw1tHpMvYWq7Ke3YtGUJr5Iz4i8k9hU/E="
       }
     }
   ]
