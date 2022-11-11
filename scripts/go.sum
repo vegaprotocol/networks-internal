@@ -39,6 +39,8 @@ code.vegaprotocol.io/shared v0.0.0-20221010085458-55c50711135f h1:ivaWSXN7XKESSh
 code.vegaprotocol.io/shared v0.0.0-20221010085458-55c50711135f/go.mod h1:XzX67GsyOHzvytMr0QOHX4CCTdCZDYKUUi88rx40Nt0=
 code.vegaprotocol.io/vega v0.60.1-0.20221027181258-98af1292bef4 h1:gur+BfHcm/G1iN+CIXn+Tkgl993/p2im0Fr4zMRyF+s=
 code.vegaprotocol.io/vega v0.60.1-0.20221027181258-98af1292bef4/go.mod h1:sVg4/2ExeIOZc2MCpdGjNiRM74ANqMQlhDyqdJEWPQE=
+code.vegaprotocol.io/vega v0.62.1 h1:0YaXRZnMxX0TmJ2HS54HYSujfGvCJHT2PWknfS8V+v4=
+code.vegaprotocol.io/vega v0.62.1/go.mod h1:629txDstGrlVQpJnpDF87uvKkn85alk3yugD5YJ4Pnk=
 dmitri.shuralyov.com/gpu/mtl v0.0.0-20190408044501-666a987793e9/go.mod h1:H6x//7gZCb22OMCxBHrMx7a5I7Hp++hsVxbQ4BYO7hU=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/BurntSushi/toml v1.2.0 h1:Rt8g24XnyGTyglgET/PRUNlrUeu9F5L+7FilkXfZgs0=

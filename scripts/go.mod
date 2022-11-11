@@ -3,7 +3,7 @@ module github.com/vegaprotocol/networks-internal/scripts
 go 1.19
 
 require (
-	code.vegaprotocol.io/vega v0.60.1-0.20221027181258-98af1292bef4
+	code.vegaprotocol.io/vega v0.62.1
 	github.com/spf13/cobra v1.5.0
 	github.com/spf13/viper v1.13.0
 	github.com/tomwright/dasel v1.26.1
