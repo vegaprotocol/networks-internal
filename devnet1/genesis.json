@@ -299,17 +299,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "j839Q/YNGupw1tHpMvYWq7Ke3YtGUJr5Iz4i8k9hU/E=": {
-        "avatar_url": "https://www.gravatar.com/avatar/6hu8c13clkwi8bwoupav78txfeih6mce?d=identicon",
-        "country": "WJ",
-        "ethereum_address": "0x500056219B203687cA68067A7Dcbebb76b7058ef",
-        "id": "4ef6c60c9ded1eff4ba5d46305926b5f83cc173a65a0a7dd8601bb392cbba4ab",
-        "info_url": "https://en.wikipedia.org/wiki/Morningstar_Air_Express",
-        "name": "lemon-computer",
-        "tm_pub_key": "j839Q/YNGupw1tHpMvYWq7Ke3YtGUJr5Iz4i8k9hU/E=",
-        "vega_pub_key": "e6691317f4285df91a930bd6879abac162473c4982dcf6ed08fd739948580580",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -320,10 +309,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "yjF831IK6bqarKEfMgkd9aHm/zPSRtOORpY+ZIG9DLs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ueyu4t9b7m3p8t7quw7y80iqpgoog6n1?d=identicon",
+        "country": "BU",
+        "ethereum_address": "0xf175bE7Cc16416348b6b1DC91D994CaD6b0B564e",
+        "id": "087dbbe7504fde8752479cc1257651db4a969f4df54055c23b0871617b6d3d6e",
+        "info_url": "https://en.wikipedia.org/wiki/Paris_type",
+        "name": "promising-milk",
+        "tm_pub_key": "yjF831IK6bqarKEfMgkd9aHm/zPSRtOORpY+ZIG9DLs=",
+        "vega_pub_key": "342f000e8c9da7cc912e4a9d65b8914ea628309410ead159aa33cd6633f69ef6",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202211111430",
+  "chain_id": "vega-devnet1-202211111628",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -342,7 +342,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-11T14:30:40.956550779Z",
+  "genesis_time": "2022-11-11T16:28:17.774916884Z",
   "initial_height": "0",
   "validators": [
     {
@@ -382,12 +382,12 @@
       }
     },
     {
-      "address": "44A0CE890DB6A54C2C1C52145E89D89ABD7CF94A",
-      "name": "lemon-computer",
+      "address": "1E720B8D59DF56F22F8684393799F79F5C1DC976",
+      "name": "promising-milk",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "j839Q/YNGupw1tHpMvYWq7Ke3YtGUJr5Iz4i8k9hU/E="
+        "value": "yjF831IK6bqarKEfMgkd9aHm/zPSRtOORpY+ZIG9DLs="
       }
     }
   ]
