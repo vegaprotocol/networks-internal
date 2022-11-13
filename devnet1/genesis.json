@@ -266,6 +266,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "8R+n1O9HWyUxYwCfEwgvmA7k4tuOMgM420r9sFU+6W8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ybk7etqloh911y9t7y9a8ntmbiesomd9?d=identicon",
+        "country": "EZ",
+        "ethereum_address": "0x12C93888650EdE7a4f846da7Fb87b3c9587B3Bdf",
+        "id": "eb41f1bf32305bb74f37273bb5e96a19eb748e555608afef744087dbc7787c94",
+        "info_url": "https://en.wikipedia.org/wiki/Barbu_(footballer)",
+        "name": "lemon-bat",
+        "tm_pub_key": "8R+n1O9HWyUxYwCfEwgvmA7k4tuOMgM420r9sFU+6W8=",
+        "vega_pub_key": "970d6cdc3102e0c4424f8e6505da222360a1de7add4b421bec70754257a21a3f",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -309,21 +320,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "yjF831IK6bqarKEfMgkd9aHm/zPSRtOORpY+ZIG9DLs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ueyu4t9b7m3p8t7quw7y80iqpgoog6n1?d=identicon",
-        "country": "BU",
-        "ethereum_address": "0xf175bE7Cc16416348b6b1DC91D994CaD6b0B564e",
-        "id": "087dbbe7504fde8752479cc1257651db4a969f4df54055c23b0871617b6d3d6e",
-        "info_url": "https://en.wikipedia.org/wiki/Paris_type",
-        "name": "promising-milk",
-        "tm_pub_key": "yjF831IK6bqarKEfMgkd9aHm/zPSRtOORpY+ZIG9DLs=",
-        "vega_pub_key": "342f000e8c9da7cc912e4a9d65b8914ea628309410ead159aa33cd6633f69ef6",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202211111628",
+  "chain_id": "vega-devnet1-202211131545",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -342,7 +342,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-11T16:28:17.774916884Z",
+  "genesis_time": "2022-11-13T15:45:27.363646103Z",
   "initial_height": "0",
   "validators": [
     {
@@ -382,12 +382,12 @@
       }
     },
     {
-      "address": "1E720B8D59DF56F22F8684393799F79F5C1DC976",
-      "name": "promising-milk",
+      "address": "457B6E091700CDB95D2089357EC45934F03B7E6A",
+      "name": "lemon-bat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "yjF831IK6bqarKEfMgkd9aHm/zPSRtOORpY+ZIG9DLs="
+        "value": "8R+n1O9HWyUxYwCfEwgvmA7k4tuOMgM420r9sFU+6W8="
       }
     }
   ]
