@@ -266,17 +266,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "1jHGiQh0xf//izT4Y6cTFgr0scHPFHbgapc5sUD/r8A=": {
-        "avatar_url": "https://www.gravatar.com/avatar/xnjjcljzaowqj9ysgpg08ibk91ww1ed9?d=identicon",
-        "country": "GV",
-        "ethereum_address": "0xa753FFbdDA2E37047b1409E41cDfc6615CC1c1EF",
-        "id": "45aeaa3d5e58051c5d012e635dde074bfef52f888c7e4e825922e35be9778605",
-        "info_url": "https://en.wikipedia.org/wiki/Pieve_di_Sant%27Andrea_(Cercina)",
-        "name": "harebrained-building",
-        "tm_pub_key": "1jHGiQh0xf//izT4Y6cTFgr0scHPFHbgapc5sUD/r8A=",
-        "vega_pub_key": "868984a11e14dfe978c8d69c4e4afaab81fe49915f10f42028497bea50515ead",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -286,6 +275,17 @@
         "name": "tricky-teacher",
         "tm_pub_key": "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=",
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
+        "vega_pub_key_index": 1
+      },
+      "AIB9WwyUZgqI6xaNZTURLylGqw8efPuRtQjv+OfNDfM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/qynzkcnh9vsct4pqwye4jjgrd0nzo6z7?d=identicon",
+        "country": "IG",
+        "ethereum_address": "0x3a0A991A3402Cbc547F9E67F228b585db4bF811C",
+        "id": "06899f5edc190f6b9433ff50c8b57599e7233f4aab34a4752e316335a8c09ca3",
+        "info_url": "https://en.wikipedia.org/wiki/Sharon_Jordan",
+        "name": "gray-pickle",
+        "tm_pub_key": "AIB9WwyUZgqI6xaNZTURLylGqw8efPuRtQjv+OfNDfM=",
+        "vega_pub_key": "5860a822b85034a1456ff4b20b43c8e341125eb3654c70bfe0fe4bb439f2d244",
         "vega_pub_key_index": 1
       },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
@@ -323,7 +323,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211131809",
+  "chain_id": "vega-devnet1-202211132137",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -342,7 +342,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-13T18:09:51.920063749Z",
+  "genesis_time": "2022-11-13T21:37:27.853867011Z",
   "initial_height": "0",
   "validators": [
     {
@@ -382,12 +382,12 @@
       }
     },
     {
-      "address": "0544B02D1FB8C20BF315BF5D829ADC2F0E8D029A",
-      "name": "harebrained-building",
+      "address": "A46F95EA22DA7ECA8CEEA2EACBC9C4DF441A9072",
+      "name": "gray-pickle",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "1jHGiQh0xf//izT4Y6cTFgr0scHPFHbgapc5sUD/r8A="
+        "value": "AIB9WwyUZgqI6xaNZTURLylGqw8efPuRtQjv+OfNDfM="
       }
     }
   ]
