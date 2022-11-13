@@ -266,15 +266,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "8R+n1O9HWyUxYwCfEwgvmA7k4tuOMgM420r9sFU+6W8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ybk7etqloh911y9t7y9a8ntmbiesomd9?d=identicon",
-        "country": "EZ",
-        "ethereum_address": "0x12C93888650EdE7a4f846da7Fb87b3c9587B3Bdf",
-        "id": "eb41f1bf32305bb74f37273bb5e96a19eb748e555608afef744087dbc7787c94",
-        "info_url": "https://en.wikipedia.org/wiki/Barbu_(footballer)",
-        "name": "lemon-bat",
-        "tm_pub_key": "8R+n1O9HWyUxYwCfEwgvmA7k4tuOMgM420r9sFU+6W8=",
-        "vega_pub_key": "970d6cdc3102e0c4424f8e6505da222360a1de7add4b421bec70754257a21a3f",
+      "1jHGiQh0xf//izT4Y6cTFgr0scHPFHbgapc5sUD/r8A=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xnjjcljzaowqj9ysgpg08ibk91ww1ed9?d=identicon",
+        "country": "GV",
+        "ethereum_address": "0xa753FFbdDA2E37047b1409E41cDfc6615CC1c1EF",
+        "id": "45aeaa3d5e58051c5d012e635dde074bfef52f888c7e4e825922e35be9778605",
+        "info_url": "https://en.wikipedia.org/wiki/Pieve_di_Sant%27Andrea_(Cercina)",
+        "name": "harebrained-building",
+        "tm_pub_key": "1jHGiQh0xf//izT4Y6cTFgr0scHPFHbgapc5sUD/r8A=",
+        "vega_pub_key": "868984a11e14dfe978c8d69c4e4afaab81fe49915f10f42028497bea50515ead",
         "vega_pub_key_index": 1
       },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
@@ -323,7 +323,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211131545",
+  "chain_id": "vega-devnet1-202211131809",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -342,7 +342,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-13T15:45:27.363646103Z",
+  "genesis_time": "2022-11-13T18:09:51.920063749Z",
   "initial_height": "0",
   "validators": [
     {
@@ -382,12 +382,12 @@
       }
     },
     {
-      "address": "457B6E091700CDB95D2089357EC45934F03B7E6A",
-      "name": "lemon-bat",
+      "address": "0544B02D1FB8C20BF315BF5D829ADC2F0E8D029A",
+      "name": "harebrained-building",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "8R+n1O9HWyUxYwCfEwgvmA7k4tuOMgM420r9sFU+6W8="
+        "value": "1jHGiQh0xf//izT4Y6cTFgr0scHPFHbgapc5sUD/r8A="
       }
     }
   ]
