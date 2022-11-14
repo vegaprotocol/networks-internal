@@ -299,6 +299,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "YrWkSgP0/KAtueG27r9wtZFySdAlvU1Sf5JAzo8NS9k=": {
+        "avatar_url": "https://www.gravatar.com/avatar/1k99kjflnr88dg0mhuuhgz21exutigxr?d=identicon",
+        "country": "NG",
+        "ethereum_address": "0x556b7746766b98F3a20717Ab2b6FC484D7C3D67b",
+        "id": "5e722b889ae48ea61876fe21ff3bfc510cdfae0e19f236a208db0e120fe77795",
+        "info_url": "https://en.wikipedia.org/wiki/Danny_Rose_(footballer,_born_1988)",
+        "name": "adorable-pen",
+        "tm_pub_key": "YrWkSgP0/KAtueG27r9wtZFySdAlvU1Sf5JAzo8NS9k=",
+        "vega_pub_key": "5ed23ee3bb3fe04f5277913949f40efd333c22956fd7f10d3b5b545a4ff67a6a",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -309,21 +320,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "zC70dWEDWSlBeGjQHSZ18LgODXtJ2MeR2inW9HDpHz0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/kdtjz9k6g4qu2p1wy38c5wrmkbxa2aie?d=identicon",
-        "country": "RF",
-        "ethereum_address": "0x435af2eB67c12eD409BfC63825539C4ccf917eFe",
-        "id": "66d5a6f4ad9f1540d04a5a0addf5e9bb25f6b743a4376fec89758f3888e722ad",
-        "info_url": "https://en.wikipedia.org/wiki/Fujiwara_no_Tamekane",
-        "name": "alert-plant",
-        "tm_pub_key": "zC70dWEDWSlBeGjQHSZ18LgODXtJ2MeR2inW9HDpHz0=",
-        "vega_pub_key": "a9234e465cc275d02acdc7805cc39c40fd04f669e6ea6fae970e1676ef5daee4",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202211140729",
+  "chain_id": "vega-devnet1-202211141219",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -342,7 +342,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-14T07:29:44.44733689Z",
+  "genesis_time": "2022-11-14T12:19:16.054777055Z",
   "initial_height": "0",
   "validators": [
     {
@@ -382,12 +382,12 @@
       }
     },
     {
-      "address": "1B19B71067C1F7E168558384F94D1CD476ABFBEB",
-      "name": "alert-plant",
+      "address": "53F630016AB223F04173EDCFE1785C17ED7DCFDD",
+      "name": "adorable-pen",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "zC70dWEDWSlBeGjQHSZ18LgODXtJ2MeR2inW9HDpHz0="
+        "value": "YrWkSgP0/KAtueG27r9wtZFySdAlvU1Sf5JAzo8NS9k="
       }
     }
   ]
