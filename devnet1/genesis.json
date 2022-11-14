@@ -299,15 +299,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "YrWkSgP0/KAtueG27r9wtZFySdAlvU1Sf5JAzo8NS9k=": {
-        "avatar_url": "https://www.gravatar.com/avatar/1k99kjflnr88dg0mhuuhgz21exutigxr?d=identicon",
-        "country": "NG",
-        "ethereum_address": "0x556b7746766b98F3a20717Ab2b6FC484D7C3D67b",
-        "id": "5e722b889ae48ea61876fe21ff3bfc510cdfae0e19f236a208db0e120fe77795",
-        "info_url": "https://en.wikipedia.org/wiki/Danny_Rose_(footballer,_born_1988)",
-        "name": "adorable-pen",
-        "tm_pub_key": "YrWkSgP0/KAtueG27r9wtZFySdAlvU1Sf5JAzo8NS9k=",
-        "vega_pub_key": "5ed23ee3bb3fe04f5277913949f40efd333c22956fd7f10d3b5b545a4ff67a6a",
+      "UFxsiNcEwWRMgqOVrzQn9fPvE3mD1iVtR1HT16j+/7c=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ipa4goz4ziyhqqeub7tvisr4cv2wxktq?d=identicon",
+        "country": "DA",
+        "ethereum_address": "0xab879a5aEDB832DC990be97919C7e4D3A71793c2",
+        "id": "0be6a6a585777d467496329f95f7c4b7e8bfe9ec857f9cf068b1fa85dc2a5cce",
+        "info_url": "https://en.wikipedia.org/wiki/Ron_Wood_(footballer,_born_1925)",
+        "name": "careful-barber",
+        "tm_pub_key": "UFxsiNcEwWRMgqOVrzQn9fPvE3mD1iVtR1HT16j+/7c=",
+        "vega_pub_key": "03081e5b7a6b7cec6795f0da44f78f728968267513a1c7443b76f134f33306a2",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -323,7 +323,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211141219",
+  "chain_id": "vega-devnet1-202211141300",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -342,7 +342,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-14T12:19:16.054777055Z",
+  "genesis_time": "2022-11-14T13:00:14.1206852Z",
   "initial_height": "0",
   "validators": [
     {
@@ -382,12 +382,12 @@
       }
     },
     {
-      "address": "53F630016AB223F04173EDCFE1785C17ED7DCFDD",
-      "name": "adorable-pen",
+      "address": "3CB31073D8D2DA71BE2154BBDE175B530B375613",
+      "name": "careful-barber",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "YrWkSgP0/KAtueG27r9wtZFySdAlvU1Sf5JAzo8NS9k="
+        "value": "UFxsiNcEwWRMgqOVrzQn9fPvE3mD1iVtR1HT16j+/7c="
       }
     }
   ]
