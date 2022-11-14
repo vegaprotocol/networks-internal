@@ -277,6 +277,8 @@
             "market.stake.target.timeWindow": "1h0m0s",
             "market.value.windowLength": "1h0m0s",
             "network.checkpoint.timeElapsedBetweenCheckpoints": "1m",
+            "network.validators.multisig.numberOfSigners": "50",
+            "network.validators.tendermint.number": "50",
             "reward.asset": "fc7fd956078fb1fc9db5c19b88f0874c4299b2a7639ad05a47a28c0aef291b55",
             "reward.staking.delegation.competitionLevel": "1.01",
             "reward.staking.delegation.delegatorShare": "0.883",
