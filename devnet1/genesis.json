@@ -299,17 +299,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "UFxsiNcEwWRMgqOVrzQn9fPvE3mD1iVtR1HT16j+/7c=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ipa4goz4ziyhqqeub7tvisr4cv2wxktq?d=identicon",
-        "country": "DA",
-        "ethereum_address": "0xab879a5aEDB832DC990be97919C7e4D3A71793c2",
-        "id": "0be6a6a585777d467496329f95f7c4b7e8bfe9ec857f9cf068b1fa85dc2a5cce",
-        "info_url": "https://en.wikipedia.org/wiki/Ron_Wood_(footballer,_born_1925)",
-        "name": "careful-barber",
-        "tm_pub_key": "UFxsiNcEwWRMgqOVrzQn9fPvE3mD1iVtR1HT16j+/7c=",
-        "vega_pub_key": "03081e5b7a6b7cec6795f0da44f78f728968267513a1c7443b76f134f33306a2",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -320,10 +309,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "yricvD+Sn6qEuKeHHnncGIot4mNqR/FooS0+tIFXWv4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/jjfialw26majmn6s1ek3l54epqof737n?d=identicon",
+        "country": "IB",
+        "ethereum_address": "0x87460f516B1961054242DC7a3C8614d19dFf5B2F",
+        "id": "e25f0a7dc2e53b147dcc94f342d4d080362ebb7dd0ec535ad5f58193498beedc",
+        "info_url": "https://en.wikipedia.org/wiki/Jasper,_Texas",
+        "name": "lucky-month",
+        "tm_pub_key": "yricvD+Sn6qEuKeHHnncGIot4mNqR/FooS0+tIFXWv4=",
+        "vega_pub_key": "7cb79a15f9bc902f210542a5eb3aa5bb34d8a10084e24361caf756312acdf6e7",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202211141319",
+  "chain_id": "vega-devnet1-202211141445",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -342,7 +342,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-14T13:19:51.044478134Z",
+  "genesis_time": "2022-11-14T14:45:52.473701906Z",
   "initial_height": "0",
   "validators": [
     {
@@ -382,12 +382,12 @@
       }
     },
     {
-      "address": "3CB31073D8D2DA71BE2154BBDE175B530B375613",
-      "name": "careful-barber",
+      "address": "4D0732B4C3FFEAE3BF32C0D2A95A89038D08BC41",
+      "name": "lucky-month",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "UFxsiNcEwWRMgqOVrzQn9fPvE3mD1iVtR1HT16j+/7c="
+        "value": "yricvD+Sn6qEuKeHHnncGIot4mNqR/FooS0+tIFXWv4="
       }
     }
   ]
