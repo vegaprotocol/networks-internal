@@ -299,15 +299,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "SZsKoUsebU2uEGVSjImcpenCWJvbE7i2J5gstl5rOUY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/hn3qxcbzi84bgx64t1iekog5i5swirv9?d=identicon",
-        "country": "HT",
-        "ethereum_address": "0xc9783fF163bc2EC0872BA68bC876EA8ada0b7299",
-        "id": "2589de4bdf9a8b51238cc0327cf530827c8df1199d7ad046b48414f85a5d8156",
-        "info_url": "https://en.wikipedia.org/wiki/List_of_European_countries_by_population_growth_rate",
-        "name": "funny-tile",
-        "tm_pub_key": "SZsKoUsebU2uEGVSjImcpenCWJvbE7i2J5gstl5rOUY=",
-        "vega_pub_key": "d5c1c392f81f74f79ad1e8716b11c76e88457fce06f987ae021520924979a30b",
+      "ZZmj2CcojLloKJwyasfWrbJ4OTLbgeyVAeMVtnAmPhs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/hvecp2wo77i0sa5ssb2vtaol4hmxejia?d=identicon",
+        "country": "BC",
+        "ethereum_address": "0x090Ccbf54FdA8251eeA4AaB6c5250E284B738A6c",
+        "id": "5894ff6bd662d232ca25673187afc1b40c0fdc986f1b14eb02849043759c3557",
+        "info_url": "https://en.wikipedia.org/wiki/St._Peters_Canal",
+        "name": "rich-tile",
+        "tm_pub_key": "ZZmj2CcojLloKJwyasfWrbJ4OTLbgeyVAeMVtnAmPhs=",
+        "vega_pub_key": "3d3e4844f7e57baae6588f610a04e3c286bef73e3e90e446d57eb0ce96d95b4c",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -323,7 +323,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211141631",
+  "chain_id": "vega-devnet1-202211141701",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -342,7 +342,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-14T16:31:30.9780636Z",
+  "genesis_time": "2022-11-14T17:01:01.717793677Z",
   "initial_height": "0",
   "validators": [
     {
@@ -382,12 +382,12 @@
       }
     },
     {
-      "address": "099CFBF7B06CC38867942E9C181BCCB38B366865",
-      "name": "funny-tile",
+      "address": "2B35DC08ED5A5811444D1E30F1F375E8A3066810",
+      "name": "rich-tile",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "SZsKoUsebU2uEGVSjImcpenCWJvbE7i2J5gstl5rOUY="
+        "value": "ZZmj2CcojLloKJwyasfWrbJ4OTLbgeyVAeMVtnAmPhs="
       }
     }
   ]
