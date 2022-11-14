@@ -288,17 +288,6 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
-      "E/9EXHFO6DQak4UbBFZS1vwh5xZY9aJG9QbMB+DopaU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/rn0u1w0wca3i3io6xobixrqqy0pubnpc?d=identicon",
-        "country": "EC",
-        "ethereum_address": "0x2B637f35870eDf48AcB2b20FB2962d25C38409A6",
-        "id": "ad6137a1c88d237ec1a5652f5472a88c556a24528c73f3ccb52602b5decbcf62",
-        "info_url": "https://en.wikipedia.org/wiki/Laura_Bohannan",
-        "name": "unsightly-lake",
-        "tm_pub_key": "E/9EXHFO6DQak4UbBFZS1vwh5xZY9aJG9QbMB+DopaU=",
-        "vega_pub_key": "99c5bcf78d11f9ab153d6065edc13daec1bb7226befce8df6333bc8137d6f79d",
-        "vega_pub_key_index": 1
-      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -308,6 +297,17 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
+        "vega_pub_key_index": 1
+      },
+      "SZsKoUsebU2uEGVSjImcpenCWJvbE7i2J5gstl5rOUY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/hn3qxcbzi84bgx64t1iekog5i5swirv9?d=identicon",
+        "country": "HT",
+        "ethereum_address": "0xc9783fF163bc2EC0872BA68bC876EA8ada0b7299",
+        "id": "2589de4bdf9a8b51238cc0327cf530827c8df1199d7ad046b48414f85a5d8156",
+        "info_url": "https://en.wikipedia.org/wiki/List_of_European_countries_by_population_growth_rate",
+        "name": "funny-tile",
+        "tm_pub_key": "SZsKoUsebU2uEGVSjImcpenCWJvbE7i2J5gstl5rOUY=",
+        "vega_pub_key": "d5c1c392f81f74f79ad1e8716b11c76e88457fce06f987ae021520924979a30b",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -323,7 +323,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211141542",
+  "chain_id": "vega-devnet1-202211141631",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -342,7 +342,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-14T15:42:03.133696696Z",
+  "genesis_time": "2022-11-14T16:31:30.9780636Z",
   "initial_height": "0",
   "validators": [
     {
@@ -382,12 +382,12 @@
       }
     },
     {
-      "address": "7425E78AC411D29FDB05581D0FDFFB750D4D5CEF",
-      "name": "unsightly-lake",
+      "address": "099CFBF7B06CC38867942E9C181BCCB38B366865",
+      "name": "funny-tile",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "E/9EXHFO6DQak4UbBFZS1vwh5xZY9aJG9QbMB+DopaU="
+        "value": "SZsKoUsebU2uEGVSjImcpenCWJvbE7i2J5gstl5rOUY="
       }
     }
   ]
