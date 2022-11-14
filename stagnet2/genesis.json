@@ -300,6 +300,17 @@
         "vega_pub_key": "a87ad6de9ed973c9bd3a56c6bae4360d170761a0173c79aac6d9143977bf68d4",
         "vega_pub_key_index": 1
       },
+      "3AgZ9JAJSn/BwYhpG9qKxgUyUgjNG58srO/KZ/zgNf8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/k6394figid0z06eait0uaw1w89xmdmz6?d=identicon",
+        "country": "VS",
+        "ethereum_address": "0xC95f7dc809773d928Ebb419DB417b894c537ad1D",
+        "id": "9f0123461328ecdf42da76d7230d47d353974903c4d1910ab7732146b582127a",
+        "info_url": "https://en.wikipedia.org/wiki/Qaleh-ye_Kachalha",
+        "name": "harsh-toy",
+        "tm_pub_key": "3AgZ9JAJSn/BwYhpG9qKxgUyUgjNG58srO/KZ/zgNf8=",
+        "vega_pub_key": "e9d24d9d23791ff3ba2f8457354ecee388888a7aca985d96f87e0ae5364261b8",
+        "vega_pub_key_index": 1
+      },
       "4N1kaYBeP+QvGVlTOPkGwLAMtgqyOn6Y7ZxtiwFkMT8=": {
         "avatar_url": "https://www.gravatar.com/avatar/coop4gnop3or1c3iibjkjw7svtijymbw?d=identicon",
         "country": "XD",
@@ -309,6 +320,17 @@
         "name": "immense-pencil",
         "tm_pub_key": "4N1kaYBeP+QvGVlTOPkGwLAMtgqyOn6Y7ZxtiwFkMT8=",
         "vega_pub_key": "f02282cc91d269a4cb436ecf9772553d456836828d99da6737d046c469643565",
+        "vega_pub_key_index": 1
+      },
+      "6HkcTRFU5K5kKASvtj4piHAcsT8hP9D9syIwaXmfVV0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/27pxm9r55w6fzfyfx5p0xstt3g34ek91?d=identicon",
+        "country": "RN",
+        "ethereum_address": "0xe17451f41DBe131eB53cfF5c1323cFeA3A57807c",
+        "id": "ad6eaadec7e1137b723da383efd5adeff3a7a9c616acd8768579ea381b4edb8b",
+        "info_url": "https://en.wikipedia.org/wiki/Gnophodes_chelys",
+        "name": "purring-beach",
+        "tm_pub_key": "6HkcTRFU5K5kKASvtj4piHAcsT8hP9D9syIwaXmfVV0=",
+        "vega_pub_key": "ce7ecec7650c0b79d65ac9ff1439f83f051c4b03b2ce32a00736409ca3291fc4",
         "vega_pub_key_index": 1
       },
       "AZlFISAwxjZyXdgMV9YorHlcbzAWC7dc0P+/3fDmVN4=": {
@@ -322,6 +344,50 @@
         "vega_pub_key": "e7f7f81c0427e77524d7054ddf13ac31121faa69a635eb0a66fbe949e5aa975b",
         "vega_pub_key_index": 1
       },
+      "B4jLXr1GehSOvo63lIw//vr3L9DaVqisoMp9xChkrcg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/i4rxkpir5gisr2cbxykp91yc7y8gpvbk?d=identicon",
+        "country": "JL",
+        "ethereum_address": "0x702B884Ba8550dC89a4397C5E03E9da6328364bF",
+        "id": "39b3014f3cee340f05d3a52323afad9851a39b4f3b9aea2c20f630476002f16c",
+        "info_url": "https://en.wikipedia.org/wiki/Schinopsis_lorentzii",
+        "name": "lemon-country",
+        "tm_pub_key": "B4jLXr1GehSOvo63lIw//vr3L9DaVqisoMp9xChkrcg=",
+        "vega_pub_key": "dc1ef6feaed809841e4d57d4cd538785a905c63d6f9e6fd4f3ab6a1dbd40cd02",
+        "vega_pub_key_index": 1
+      },
+      "B9doV5O4fOJMAi81k0DMhbj1jDdQwFqBODp2RvFhcpA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/zpt34pzxtzc7spekf9w97ifpg4kb1ebv?d=identicon",
+        "country": "TT",
+        "ethereum_address": "0xEA19D66578529F3F33d035F293DC67d434A8b2b0",
+        "id": "2984fbaad1710b991be2b193d7b2f2a72fd48da0e3409d9b0404a3d16ce57d4f",
+        "info_url": "https://en.wikipedia.org/wiki/Arawana",
+        "name": "green-farmer",
+        "tm_pub_key": "B9doV5O4fOJMAi81k0DMhbj1jDdQwFqBODp2RvFhcpA=",
+        "vega_pub_key": "4b1644a9adad3d56634070d2cee27e46f3cf7345da4fdf4b3a30d75a6ef0c559",
+        "vega_pub_key_index": 1
+      },
+      "BcjSPSgOBldiS/Yqd+7Pr7s5beqpZ06l0vUuT0w92s0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/5lrdjg72jmtppwpoyb5c88p15lxqwthl?d=identicon",
+        "country": "PN",
+        "ethereum_address": "0xF69e93D1190d02DB42ff65d46117cE901a436848",
+        "id": "04057b17a2078881a06017cbfbb3f2f6ad2dfa1abbcf8e8479a5013f1ef720d0",
+        "info_url": "https://en.wikipedia.org/wiki/Jack_Megson",
+        "name": "frustrating-pen",
+        "tm_pub_key": "BcjSPSgOBldiS/Yqd+7Pr7s5beqpZ06l0vUuT0w92s0=",
+        "vega_pub_key": "fdb4b1c576265f13ac26d762d636a933bbe6f8056600383bd60609ee9b82c1f3",
+        "vega_pub_key_index": 1
+      },
+      "C7wZkUxEcx+Nt96OJV5aIN11qzmLR3mTZ7AudRt/c28=": {
+        "avatar_url": "https://www.gravatar.com/avatar/eyyt5stpfxgvd9hy264onvgjzpj6mcyk?d=identicon",
+        "country": "SM",
+        "ethereum_address": "0xB801Ab4929Be59E591e2E6644195C6be8D4a986F",
+        "id": "e0b4337f854819869928885437db1a003e6e45e98181ad14ed57dc306eecc05b",
+        "info_url": "https://en.wikipedia.org/wiki/Ezhunnallathu",
+        "name": "gray-bat",
+        "tm_pub_key": "C7wZkUxEcx+Nt96OJV5aIN11qzmLR3mTZ7AudRt/c28=",
+        "vega_pub_key": "936d869a826108d8f8705e8719493779105d2f2daee413a58647431129e13d88",
+        "vega_pub_key_index": 1
+      },
       "FIGT1LxmTuP6rvqUe2OphYD6x7HH01UD+oWgPseBCjs=": {
         "avatar_url": "https://www.gravatar.com/avatar/udw7fgcj5wpwfxl6seolfg9sgqx7uxkf?d=identicon",
         "country": "DV",
@@ -331,6 +397,28 @@
         "name": "purring-music",
         "tm_pub_key": "FIGT1LxmTuP6rvqUe2OphYD6x7HH01UD+oWgPseBCjs=",
         "vega_pub_key": "bc19a815f7d923445d3cdb8fe0c85c146ad3da12c8e3e707d50134a8e3ee7ed2",
+        "vega_pub_key_index": 1
+      },
+      "FwrfXAf8Gd+cdymANhOaVYyzcM8/JWkcn9zZM/2r1eA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/t2nimibjty8uudwuxlu6qzjy8sih4chv?d=identicon",
+        "country": "CB",
+        "ethereum_address": "0x4E243Dc2Ff07407D1AB5bc697472bd10D87e4561",
+        "id": "ed5e346e783f9d59482d26b9aafaa7050b8579e61e8cd7d2a4ae23c795ad71aa",
+        "info_url": "https://en.wikipedia.org/wiki/Gloria_Alexandra",
+        "name": "icy-hat",
+        "tm_pub_key": "FwrfXAf8Gd+cdymANhOaVYyzcM8/JWkcn9zZM/2r1eA=",
+        "vega_pub_key": "d1999eb37ee53a0fb3004064bacf0539f2bc84141a8b31eb835b44fddcda70fb",
+        "vega_pub_key_index": 1
+      },
+      "HCp4tLWFvhCFHqt6Po/wrzGnHhtbnBW41e+8IumPj/k=": {
+        "avatar_url": "https://www.gravatar.com/avatar/pm32xvhtg77fn2svq7i4j72bokmd59k6?d=identicon",
+        "country": "GP",
+        "ethereum_address": "0x9b65a82547211c411a87E542924068dCD0F72bE9",
+        "id": "8fd2a7c2bc41ac0555d3136f591a037411f3da12799ee0767ca83da205e83659",
+        "info_url": "https://en.wikipedia.org/wiki/Andy_Whelan",
+        "name": "funny-ball",
+        "tm_pub_key": "HCp4tLWFvhCFHqt6Po/wrzGnHhtbnBW41e+8IumPj/k=",
+        "vega_pub_key": "cb3ccc96340e995d2c9c9a1da47bd08c6d6ad84e117fcdb141c12bf6354e7e9b",
         "vega_pub_key_index": 1
       },
       "Hg5Zbd+VyrCfhnHICBDrrhj+g0ACRw19EWrVKtasJmg=": {
@@ -344,6 +432,61 @@
         "vega_pub_key": "fd905b5c6ea7688b1e238f6ac9b2d30381fdb3db3cd1b708e44abcc3665e2555",
         "vega_pub_key_index": 1
       },
+      "Jw3w1tIhh5mWCSB+axMys0DX8cHFZAqzVsMBDuI3rfM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/rc1ughipt1gefvo5rhfqzctxu3nt6b0y?d=identicon",
+        "country": "FY",
+        "ethereum_address": "0xF261922F011D6EE341F130bE5fe02d2C573A376e",
+        "id": "6a1967e43fe622ba29973374922417089734d859606a0013a0ae655743da885d",
+        "info_url": "https://en.wikipedia.org/wiki/Lashkari_ibn_Musa",
+        "name": "green-tile",
+        "tm_pub_key": "Jw3w1tIhh5mWCSB+axMys0DX8cHFZAqzVsMBDuI3rfM=",
+        "vega_pub_key": "afeaeaa2e45bc9d56dabef252b4419f748983b8168987c2e170952f78aa5ae51",
+        "vega_pub_key_index": 1
+      },
+      "KnUnXXBI3wGWxmOt28suyiFyHDv/Q4fOssJw0iWO9Go=": {
+        "avatar_url": "https://www.gravatar.com/avatar/8890bayg3m0kzhxogzilyzcb8qeq84c2?d=identicon",
+        "country": "OO",
+        "ethereum_address": "0x7B9227BD83A4dd0eC32A4845b1A69ea762F8D544",
+        "id": "7b86668a3e344dde6c1b42701700b1f288480abf0b67b9a5b7685092caeed995",
+        "info_url": "https://en.wikipedia.org/wiki/Mmusa_Ohilwe",
+        "name": "mysterious-chimney",
+        "tm_pub_key": "KnUnXXBI3wGWxmOt28suyiFyHDv/Q4fOssJw0iWO9Go=",
+        "vega_pub_key": "f78aa0f2194563ea00e23ae8092dc38c5b73fbd727ffc27e32326aea5b9c1a9b",
+        "vega_pub_key_index": 1
+      },
+      "LM+Kcv7YHrDbq1/QS+r2HM1O9K3r7IE+CWfw7rV3Mj0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/y93ccur07dy90132v34mlepmeq0yxr8z?d=identicon",
+        "country": "XN",
+        "ethereum_address": "0x029a5E91e21b011f2F965e1933de7cD7577AB6ed",
+        "id": "cdfe578d534d23ca0e8eabc2faa1f32ad70b941e3222dfe227c5bbd155b89d74",
+        "info_url": "https://en.wikipedia.org/wiki/Ephraim_Kuh",
+        "name": "wicked-hat",
+        "tm_pub_key": "LM+Kcv7YHrDbq1/QS+r2HM1O9K3r7IE+CWfw7rV3Mj0=",
+        "vega_pub_key": "10e9a2b144a11bd994f7da81fadd30fb29ab6f6f4f43345f258a8e196359d1dc",
+        "vega_pub_key_index": 1
+      },
+      "Mq7bnW8AkWGYfoPnfF7KzzocR5zhTOorqUCU85Ry4QU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/p7mtak23g0nz01su74wotha7xzehcu4x?d=identicon",
+        "country": "VE",
+        "ethereum_address": "0x14F7FCaAaAf625dE7C5784b10477DD35FcCEA042",
+        "id": "5fae3e093d92c26c87273096291efa362cfc0683391c7623cd530b874fa232c6",
+        "info_url": "https://en.wikipedia.org/wiki/Chen_Bing_Sun",
+        "name": "gray-pencil",
+        "tm_pub_key": "Mq7bnW8AkWGYfoPnfF7KzzocR5zhTOorqUCU85Ry4QU=",
+        "vega_pub_key": "5a11627e83d461c34e3f830278914ad6a0070e894d70ae8089a98515e764ce85",
+        "vega_pub_key_index": 1
+      },
+      "PBKKrY+gN7QQHXcjMQetuBzUS8m8H0WHx1u+x1zvZag=": {
+        "avatar_url": "https://www.gravatar.com/avatar/zhhnvq88yyfj4tqt3jb08z7djrizye8h?d=identicon",
+        "country": "TE",
+        "ethereum_address": "0xc4eE36C03D1F2377C51a4CE623EF38aea3B7d392",
+        "id": "3d8436651c890dbbc7c571c41d82db025585e510aab6b18ad5bb2a3f21a61a06",
+        "info_url": "https://en.wikipedia.org/wiki/Siu-Lei_Chun",
+        "name": "faint-doctor",
+        "tm_pub_key": "PBKKrY+gN7QQHXcjMQetuBzUS8m8H0WHx1u+x1zvZag=",
+        "vega_pub_key": "dfa6f00001ea204fb7280736968784ddba802d6256a9e7fb277fba004f001c5b",
+        "vega_pub_key_index": 1
+      },
       "Px0IuYa51AHC4Fyh10Nn7FTCAty238zKjgChGY7kfUM=": {
         "avatar_url": "https://www.gravatar.com/avatar/0ttat6nr04hdrt3304eyb6yw1o6xb97b?d=identicon",
         "country": "ID",
@@ -353,6 +496,50 @@
         "name": "determined-coffee",
         "tm_pub_key": "Px0IuYa51AHC4Fyh10Nn7FTCAty238zKjgChGY7kfUM=",
         "vega_pub_key": "09783391a33df2ef33b4f1647e2f4d16e73620abb0816a2a4f1cd347654c1d7a",
+        "vega_pub_key_index": 1
+      },
+      "PzC3gvoQ3e3gnDcjR96LnzQo8DTAfhzmf2YXNB98zU8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/6zb6irkxh17zkwuve1uwpvpkmqcdzggk?d=identicon",
+        "country": "TT",
+        "ethereum_address": "0xa9b1270c186c30D3e8fd5EB8d0c5a0648f143812",
+        "id": "e2aa7c7af04ecb722db1fc89fd6e4076bc55bfe06875df4fdc6e7ebae588232d",
+        "info_url": "https://en.wikipedia.org/wiki/Ric_Wake",
+        "name": "bright-fan",
+        "tm_pub_key": "PzC3gvoQ3e3gnDcjR96LnzQo8DTAfhzmf2YXNB98zU8=",
+        "vega_pub_key": "5db935624e1e4afa813bc04cfa8c3e71fd2b5e25a7bddfc2cd550d3ea933d8e3",
+        "vega_pub_key_index": 1
+      },
+      "SY5VmaNj47LyCcZ/wC7LTghJSFtAyginrTciEav9UNY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/fruor3j76c3apgm7e21tdxpyuh0l6c1l?d=identicon",
+        "country": "IK",
+        "ethereum_address": "0x2910c0BAf92ca25383B4053B8e20889571151764",
+        "id": "1ef549b716e122c7e9f58cc81225fe768bc8d6d7c38653cc9e80d745314c0078",
+        "info_url": "https://en.wikipedia.org/wiki/Mashta_Azar",
+        "name": "skinny-wind",
+        "tm_pub_key": "SY5VmaNj47LyCcZ/wC7LTghJSFtAyginrTciEav9UNY=",
+        "vega_pub_key": "fa8056d571c5cdfa22ca5a196c8e0a18c785a7e5c2ebf885413b311ebb25aaf8",
+        "vega_pub_key_index": 1
+      },
+      "TFGIIj/h57F24JYnSNWWo2Ojaz/YIWzYfTsy+6Go3dA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/3hn20817koegh2ilabgwfn0kh79eptxe?d=identicon",
+        "country": "OH",
+        "ethereum_address": "0xbAEEF48a0dFF9c999652aF4F5DB2D097a0AC7BC0",
+        "id": "ce48c5b83594d511cf6c76a26dcc7bc90c03d79d93054dbef67c9ae624652d4a",
+        "info_url": "https://en.wikipedia.org/wiki/Zuzela",
+        "name": "vast-chimney",
+        "tm_pub_key": "TFGIIj/h57F24JYnSNWWo2Ojaz/YIWzYfTsy+6Go3dA=",
+        "vega_pub_key": "05a497f15b399b37a949100cc856f995ec8e495ef70f62124d41669d9a6f6286",
+        "vega_pub_key_index": 1
+      },
+      "UrktUpD04hGyVMq2D7QXTWmWq9SyPNlxCoheBeaUTLs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/5ko21eu57abz8a9vo300rcg4b5sfv0j4?d=identicon",
+        "country": "VU",
+        "ethereum_address": "0x03b9e3Dd3592B84E4619E2427F68b36e6A05b149",
+        "id": "91522e22812ab2416a389b291257da05a9bf6d919e7257339ed5a15e56fb82c0",
+        "info_url": "https://en.wikipedia.org/wiki/Stanislav_Bal%C3%A1n",
+        "name": "inexpensive-month",
+        "tm_pub_key": "UrktUpD04hGyVMq2D7QXTWmWq9SyPNlxCoheBeaUTLs=",
+        "vega_pub_key": "0890dd08f757b8f14f9cf9d72d5e3f8daecc2affd8b98b458d23c588cd901ebe",
         "vega_pub_key_index": 1
       },
       "Wl+ChRZsGp/zMpd6W+uIM+XoTzLonzpNXFOVVUD2Ld0=": {
@@ -377,6 +564,39 @@
         "vega_pub_key": "67a0ae944bdc59adbf8b7713fe8b8b02071df4c2885be497adce62b5d333b99e",
         "vega_pub_key_index": 1
       },
+      "c8du6gZzV3MxuklNJGLvsorOWYkxqteLqPH6YKwwB2E=": {
+        "avatar_url": "https://www.gravatar.com/avatar/3rx4773rywn57nnklzkugq90j1pkn5b6?d=identicon",
+        "country": "IN",
+        "ethereum_address": "0xA5b5F1a454D7D22556bfC7B96504BB9771E3229c",
+        "id": "1d9a717f698fdfd3f1a56adb1fa85fbccd973015ce69e355d0fe885e2048bb4a",
+        "info_url": "https://en.wikipedia.org/wiki/Russia_in_the_Council_of_Europe",
+        "name": "helpless-hat",
+        "tm_pub_key": "c8du6gZzV3MxuklNJGLvsorOWYkxqteLqPH6YKwwB2E=",
+        "vega_pub_key": "5c4edab10a69e98a49fe0b3cfb521d5a52f2f887cdbbcc26035d17872a8f2efa",
+        "vega_pub_key_index": 1
+      },
+      "c9Agx7bmRNnVI3m6/litpA+dem7B2yUorrAICubRit0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ju6slbxvuklikdl6i3p3rfssre6ef7yf?d=identicon",
+        "country": "HL",
+        "ethereum_address": "0xED416eFcD1a26BE73aA33a442A5A45F40CCD6f7B",
+        "id": "5edd0dc66db66e144d7635e1c3bad2399950dbfd31796d1e0faf3dd05d5aec71",
+        "info_url": "https://en.wikipedia.org/wiki/Baignolet",
+        "name": "excited-fisherman",
+        "tm_pub_key": "c9Agx7bmRNnVI3m6/litpA+dem7B2yUorrAICubRit0=",
+        "vega_pub_key": "ba57a8471a47a1c77b9cb29fb8e2e1cdcf2b18669625d505355ae89a4862ba60",
+        "vega_pub_key_index": 1
+      },
+      "cE4BizMox48sZF3c6sUZajBwD8oeIsm2EtYdbWFmNSM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/00scyl5nc8ywk8i4nvlc4qoeh2vqozjg?d=identicon",
+        "country": "LM",
+        "ethereum_address": "0x9946081F3b771836D69453a672ff67bae1F88Ee3",
+        "id": "9bee19e990491f1231f21cf7f895db4c1fca2c473ea2d729ed272df24ce23446",
+        "info_url": "https://en.wikipedia.org/wiki/Kieran_O%27Gorman",
+        "name": "hollow-pond",
+        "tm_pub_key": "cE4BizMox48sZF3c6sUZajBwD8oeIsm2EtYdbWFmNSM=",
+        "vega_pub_key": "8e389544551a3d81eda4849c7a05cb7909b9396af3a576182b25115a73a14810",
+        "vega_pub_key_index": 1
+      },
       "dZM+MduqD5dUk2iST6LM2GWkJyoGjfI0D06sDS0Nsb8=": {
         "avatar_url": "https://www.gravatar.com/avatar/1il6zvfsis31arkyhie9mlr2esg289qu?d=identicon",
         "country": "DO",
@@ -386,6 +606,28 @@
         "name": "condescending-day",
         "tm_pub_key": "dZM+MduqD5dUk2iST6LM2GWkJyoGjfI0D06sDS0Nsb8=",
         "vega_pub_key": "41f19856add6a02bdf8d6a0dca2fc1512334bc68119d6c878a507129420cf9ae",
+        "vega_pub_key_index": 1
+      },
+      "gn6+t9HZSwCYX5GROR3ktPFAwgoGsbVNF4kTX4BouiY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ptujcmxu8yxp0ofxqlccvmz8747eh1mj?d=identicon",
+        "country": "BF",
+        "ethereum_address": "0xa98FA733797550c0c16f86E4375f211F627604Fe",
+        "id": "2accaad02a7398c5880bb6e6bc48b624b259c50b69135f9b419f1c718d17cb54",
+        "info_url": "https://en.wikipedia.org/wiki/Aagamanam",
+        "name": "shapely-shoe",
+        "tm_pub_key": "gn6+t9HZSwCYX5GROR3ktPFAwgoGsbVNF4kTX4BouiY=",
+        "vega_pub_key": "50b932f3b4d922728c638a171149c283a644cc79251f8fa5779b098ae8946839",
+        "vega_pub_key_index": 1
+      },
+      "hYBYe1d8eDmOTQbtGf8E58YykSDS214+jdKSIKO/Mls=": {
+        "avatar_url": "https://www.gravatar.com/avatar/hi3hk9dzy79p5zufoi03fxywmdc23cva?d=identicon",
+        "country": "IR",
+        "ethereum_address": "0xEFBf64d8df8EbD0Bccc23cc85e368CC14477F44D",
+        "id": "8d2f40e12661ae921396666852219f2a21dd45c2aa199d8762551afa8198800e",
+        "info_url": "https://en.wikipedia.org/wiki/Hotlegs",
+        "name": "dizzy-town",
+        "tm_pub_key": "hYBYe1d8eDmOTQbtGf8E58YykSDS214+jdKSIKO/Mls=",
+        "vega_pub_key": "bcf552d2278328c198aecf426923172bde59c6a739ecd89d9321959ec0427d56",
         "vega_pub_key_index": 1
       },
       "kKyQ9vUTHNmwHTnlofA/LzmqbwH4F4pAPq6e//ZdbMM=": {
@@ -399,6 +641,61 @@
         "vega_pub_key": "ed352a535e21563cc36240f224db565beb58d749fef7151f99fe49852d0c55a5",
         "vega_pub_key_index": 1
       },
+      "mIfjQ93CzGziw90Okgxh9Z4824FiAhXCexTE4fHazy8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/mmbagdsemtf99pvjiu7yvkwuzouyim8o?d=identicon",
+        "country": "MJ",
+        "ethereum_address": "0x31cFc8fD27bB0e024875a60B61888c0281E3814b",
+        "id": "11cb7959f015920c1136b568883e6efa8c8f9317deb6d193086c5228960c9f75",
+        "info_url": "https://en.wikipedia.org/wiki/1323%E2%80%931328_Flemish_revolt",
+        "name": "quiet-duck",
+        "tm_pub_key": "mIfjQ93CzGziw90Okgxh9Z4824FiAhXCexTE4fHazy8=",
+        "vega_pub_key": "dc3ec0a2c758d8958bb121fbaf3354da28463028d69e4dac49e8e38933661ec8",
+        "vega_pub_key_index": 1
+      },
+      "nZSVUGMu/Sb+6qR/W0U7xKZJIDQP6cIYDOxVOCVskHA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/20cu6g4bbjty7806nesy5jehx8bavekf?d=identicon",
+        "country": "LT",
+        "ethereum_address": "0x620034808F9E74a47EaC73915c1BC8E5A7258961",
+        "id": "5c2b3ed3ba30a9fc84730086ecc6c7c26b9dc46fa6c3a3c3f24fbdfdcd47b814",
+        "info_url": "https://en.wikipedia.org/wiki/Steelo",
+        "name": "shapely-horse",
+        "tm_pub_key": "nZSVUGMu/Sb+6qR/W0U7xKZJIDQP6cIYDOxVOCVskHA=",
+        "vega_pub_key": "fc4a34d28802849962a12419fcf7841ab6dba419e2f7bf38d285dc7f08d72b0c",
+        "vega_pub_key_index": 1
+      },
+      "na7KP0D8417ouVDJdQHJxnI3AEaYN1MTIjx6vRmNHws=": {
+        "avatar_url": "https://www.gravatar.com/avatar/vl90vquh37tm6hyjvw4lhd8n3kvie8ct?d=identicon",
+        "country": "IC",
+        "ethereum_address": "0x8AF4aD3D46618f88F485d26A59Df30C9c76b4932",
+        "id": "b9f585868585a84abe3951f86fcefff707a47eca8672b8ccc6d5acf22801d47d",
+        "info_url": "https://en.wikipedia.org/wiki/V%C3%A4ster%C3%A5s_central_station",
+        "name": "bored-train",
+        "tm_pub_key": "na7KP0D8417ouVDJdQHJxnI3AEaYN1MTIjx6vRmNHws=",
+        "vega_pub_key": "5ea0be46c6af58189472fdbcf61fac98ff20c7328557566658b65a6c6f046a5e",
+        "vega_pub_key_index": 1
+      },
+      "onGZmAwrT7o3yAB5PfM2BR6TwJm1wd59SJxcqvoIuCk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/4qju0gn85yd3wlwz6phifk95957af6hx?d=identicon",
+        "country": "TK",
+        "ethereum_address": "0xa863B9d73d30F9F693f732b346938E6AFD04325f",
+        "id": "ff60aec65d498311c2b7eb49e7051cf67b9024599a16caa086f776e9f5ac43b8",
+        "info_url": "https://en.wikipedia.org/wiki/Beautiful_History",
+        "name": "helpful-honey",
+        "tm_pub_key": "onGZmAwrT7o3yAB5PfM2BR6TwJm1wd59SJxcqvoIuCk=",
+        "vega_pub_key": "b4aa813bee1648cadbe355e22f5e23130e9f8f21d6e32e1d3465d20665b7188e",
+        "vega_pub_key_index": 1
+      },
+      "pDLKRwy38+NUGQ1LelOWGG1Z7x0cWQuOZCZk8AncCS0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/u2atlygg9zpvh630osuyq3ytq84dw6ol?d=identicon",
+        "country": "XH",
+        "ethereum_address": "0x410da95Ff9C2227C1c02D6606a01f645B26A3c27",
+        "id": "f1e759e29048265e4e0108567fe2b2588a5a14c3b96e6dbcdbf5935d44765b24",
+        "info_url": "https://en.wikipedia.org/wiki/Stor%C3%B8ysundet",
+        "name": "hollow-week",
+        "tm_pub_key": "pDLKRwy38+NUGQ1LelOWGG1Z7x0cWQuOZCZk8AncCS0=",
+        "vega_pub_key": "ea6043a65bb7b28a1c51cd022af1862e0a5dbef606b2d7d44e868fe212738e90",
+        "vega_pub_key_index": 1
+      },
       "qSnaiMoUHZ7/Jj8C0/qr+3izxSGn3YQKNgzjcCbL88I=": {
         "avatar_url": "https://www.gravatar.com/avatar/dbzyw6vl83gprnkkskr36vfmyo03e9x1?d=identicon",
         "country": "XU",
@@ -410,6 +707,17 @@
         "vega_pub_key": "776c4faca9e439fa383a507329d7e3e225d776abda5f673767ef02bf04082838",
         "vega_pub_key_index": 1
       },
+      "qhCViGrZwIKy3hcSbaoo7+iMAi97mUTYDJx3hmyDTFU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/s41pr2129tk8ui6pms2gpvsn4353w1d5?d=identicon",
+        "country": "FG",
+        "ethereum_address": "0x6e179192fD7ea82a71C82ee940B93E4990533c15",
+        "id": "f78bdaf817abb4a80d01f51d5e840e011206ce3dde94243a25e06bac454e77e3",
+        "info_url": "https://en.wikipedia.org/wiki/Sixth_%26_I_Historic_Synagogue",
+        "name": "noisy-music",
+        "tm_pub_key": "qhCViGrZwIKy3hcSbaoo7+iMAi97mUTYDJx3hmyDTFU=",
+        "vega_pub_key": "a23dc41c2c23ddcf2d9e2d61d52f0398743712a6ed0deb4e9be35b073121850a",
+        "vega_pub_key_index": 1
+      },
       "qkSW5wBAnswNgbkx8Yw8Gp/mc1xJDd15EsbYUJj7U70=": {
         "avatar_url": "https://www.gravatar.com/avatar/0p1xbusr6vbcm9z77w0mj0m7fr5zmdqa?d=identicon",
         "country": "AM",
@@ -419,6 +727,83 @@
         "name": "brave-fisherman",
         "tm_pub_key": "qkSW5wBAnswNgbkx8Yw8Gp/mc1xJDd15EsbYUJj7U70=",
         "vega_pub_key": "d28f1fac36a356c14c4c7f0623db1fd8aa7685681556fbe63fbf1e3f802e2aa0",
+        "vega_pub_key_index": 1
+      },
+      "rsd6TDgvRAoMnj/n7ULXng8aAT+zZNCfM7wk5gdbHng=": {
+        "avatar_url": "https://www.gravatar.com/avatar/0kjtqi8wqcewbzy5zopa3ict6mwhk5z9?d=identicon",
+        "country": "WQ",
+        "ethereum_address": "0x7ad70180eAe383b3c453B1918D89d234df2bAab7",
+        "id": "a84da2542e126e92f4192c13fe1d9b8ea2619ce99437a9b54e43ed1acd646e7a",
+        "info_url": "https://en.wikipedia.org/wiki/Prithvi_Nath_Kaula",
+        "name": "hollow-brother",
+        "tm_pub_key": "rsd6TDgvRAoMnj/n7ULXng8aAT+zZNCfM7wk5gdbHng=",
+        "vega_pub_key": "b955a3171913bac7cfcf2e877d0afb1fdaac296ba1dae65a4b3bf236443e377b",
+        "vega_pub_key_index": 1
+      },
+      "tXGyWeT4uVzCaFPtUX1SkbMqqq0HZS9RQWGDeh9zkdE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/efg8xcbujpe9rfyburnnsgwfg6tliz8s?d=identicon",
+        "country": "VS",
+        "ethereum_address": "0x9071174d954903224DdDEa936EF2e88C0026aD62",
+        "id": "63dd70c8c155071c1fa32d4d3d71a3314a294ea6ba0ef8e7eb3e31a9e9ce8d4c",
+        "info_url": "https://en.wikipedia.org/wiki/1978_Finnish_Air_Force_DC-3_crash",
+        "name": "ashy-river",
+        "tm_pub_key": "tXGyWeT4uVzCaFPtUX1SkbMqqq0HZS9RQWGDeh9zkdE=",
+        "vega_pub_key": "29c34d1340a780a3528467c0d909a3ce5204c4b3363465e73ffb516a25430ea2",
+        "vega_pub_key_index": 1
+      },
+      "vUvyTbseJFfT14jw87H/X6OuBrl1PZiOqZ+jFPiuUuE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/f7yfns0otqgn48vyg7n25r5rjsbtfuf4?d=identicon",
+        "country": "JF",
+        "ethereum_address": "0xA15A38950ca982606DD87008486075e1816322AA",
+        "id": "71604979c9f32fe520b2716303f9deb5381ac90980ade1ca7cf929d305b012c8",
+        "info_url": "https://en.wikipedia.org/wiki/Han_Da-hye",
+        "name": "tricky-wall",
+        "tm_pub_key": "vUvyTbseJFfT14jw87H/X6OuBrl1PZiOqZ+jFPiuUuE=",
+        "vega_pub_key": "810bfe9714646370da6a5d8b8ee911e5a6aca3c4379239df61fadca468a1bd29",
+        "vega_pub_key_index": 1
+      },
+      "wc7umH6Rs7U9jSa4ZK8MhWVHmS1jXI7dBgDySSCZb1A=": {
+        "avatar_url": "https://www.gravatar.com/avatar/b3ccs35j8lje2cjhvdm7k890zrk124ea?d=identicon",
+        "country": "HG",
+        "ethereum_address": "0xDfe471528179cd548e74e296f80398E11E9156D5",
+        "id": "49aa3eccfa4f0ae3a0edddcc6a384a7c8ec3538b1f0e17fbf2b8354a17101228",
+        "info_url": "https://en.wikipedia.org/wiki/LAN_messenger",
+        "name": "funny-week",
+        "tm_pub_key": "wc7umH6Rs7U9jSa4ZK8MhWVHmS1jXI7dBgDySSCZb1A=",
+        "vega_pub_key": "f79811e37baf8873f8345854c0d79330397e821618f0ef3610773e8b92b6191d",
+        "vega_pub_key_index": 1
+      },
+      "yK4bVXKN/CqYT4rtSlVTbLVNxlVMzm8vOeBapUh+JKU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ht47tvf2bkz61phehcgpln2yfa0ybs93?d=identicon",
+        "country": "RS",
+        "ethereum_address": "0xf13Fe64761C9D972Ce654A09E89D1Ae8377502C0",
+        "id": "46bab4c8327d0c369d344f19fd8ee4762574b4a7a3bfa68b874a6ef57ea4b116",
+        "info_url": "https://en.wikipedia.org/wiki/Catocala_amnonfreidbergi",
+        "name": "exuberant-policeman",
+        "tm_pub_key": "yK4bVXKN/CqYT4rtSlVTbLVNxlVMzm8vOeBapUh+JKU=",
+        "vega_pub_key": "2d4607861fe2ecbe70850bc44f8b67041ad15ae91f0b8d8ea7dc73fba73e58d7",
+        "vega_pub_key_index": 1
+      },
+      "yn4MN9NJ+fubm9THqGpzQe2+yEp48DQ+zSL7+I3YXKo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/qhvwbwlnxh8aob8k3sq2on08r12soqfh?d=identicon",
+        "country": "YR",
+        "ethereum_address": "0xD98300F849B4037aCAfcF6ceeA38bBA141F272a3",
+        "id": "b13194e5826e059e1e2e2da2c6bdcc19bb1186c9c25d7d32be802c3a5bc2656b",
+        "info_url": "https://en.wikipedia.org/wiki/Iosefo_Masi",
+        "name": "alert-policeman",
+        "tm_pub_key": "yn4MN9NJ+fubm9THqGpzQe2+yEp48DQ+zSL7+I3YXKo=",
+        "vega_pub_key": "45541ddec33f6c1d3a4c4a43e15fd8a3dd27c4b568c7a2d94c7bd7356f6d196a",
+        "vega_pub_key_index": 1
+      },
+      "zLpwJQpFfntESYVtk3KgrPbWdFmTuy1MNeT0CTjOw48=": {
+        "avatar_url": "https://www.gravatar.com/avatar/0azc2xem2fs8i7e1ic4pg3evnv28l0kp?d=identicon",
+        "country": "ZZ",
+        "ethereum_address": "0xC46f8547e745586F845b0B79508d9e8Ce5C5b349",
+        "id": "4fe5ae3e3c9a7881eea4a975ef9421a8e63633df8e324f3a9ee8585130d108ec",
+        "info_url": "https://en.wikipedia.org/wiki/Ethan_Allen_School",
+        "name": "ugly-river",
+        "tm_pub_key": "zLpwJQpFfntESYVtk3KgrPbWdFmTuy1MNeT0CTjOw48=",
+        "vega_pub_key": "fe221a17e76b18490a8a65b73a71d29699b4b715c362935be0f928026e08cd71",
         "vega_pub_key_index": 1
       },
       "zNuGroyBUQAAbR5aCYbO+I8dGMh6GjjWlqZwXtrTd9M=": {
@@ -445,7 +830,7 @@
       }
     }
   },
-  "chain_id": "vega-stagnet2-202211102316",
+  "chain_id": "vega-stagnet2-202211141221",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -464,7 +849,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-10T23:16:53.268669213Z",
+  "genesis_time": "2022-11-14T12:21:19.196528429Z",
   "initial_height": "0",
   "validators": [
     {
@@ -600,6 +985,321 @@
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
         "value": "FIGT1LxmTuP6rvqUe2OphYD6x7HH01UD+oWgPseBCjs="
+      }
+    },
+    {
+      "address": "A4B1303378CECBA114739377CD5F70DEA0C2E284",
+      "name": "green-farmer",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "B9doV5O4fOJMAi81k0DMhbj1jDdQwFqBODp2RvFhcpA="
+      }
+    },
+    {
+      "address": "31CFBE8B764A4C1F1ED3ECDC1AD526EC5AD77614",
+      "name": "shapely-shoe",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "gn6+t9HZSwCYX5GROR3ktPFAwgoGsbVNF4kTX4BouiY="
+      }
+    },
+    {
+      "address": "976B6887A897014111DB76B52B146C3196E3FE57",
+      "name": "tricky-wall",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "vUvyTbseJFfT14jw87H/X6OuBrl1PZiOqZ+jFPiuUuE="
+      }
+    },
+    {
+      "address": "753D2B895704DB8492D91F3C9F1550922AD46EB8",
+      "name": "bored-train",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "na7KP0D8417ouVDJdQHJxnI3AEaYN1MTIjx6vRmNHws="
+      }
+    },
+    {
+      "address": "01059E484591FE14ACC4CF9D4BD5885B2B0C53C1",
+      "name": "helpless-hat",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "c8du6gZzV3MxuklNJGLvsorOWYkxqteLqPH6YKwwB2E="
+      }
+    },
+    {
+      "address": "A4A2A91E658956D036032BAACC326B7CCCD5CF1D",
+      "name": "vast-chimney",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "TFGIIj/h57F24JYnSNWWo2Ojaz/YIWzYfTsy+6Go3dA="
+      }
+    },
+    {
+      "address": "67543EC2C754AE889E93BE917D30FE99A869510A",
+      "name": "green-tile",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "Jw3w1tIhh5mWCSB+axMys0DX8cHFZAqzVsMBDuI3rfM="
+      }
+    },
+    {
+      "address": "1F6379152A32242B93953B28D1FBE81462625C43",
+      "name": "harsh-toy",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "3AgZ9JAJSn/BwYhpG9qKxgUyUgjNG58srO/KZ/zgNf8="
+      }
+    },
+    {
+      "address": "0E65699BF2E06BB5D7DB7A0D7A3C35779886395E",
+      "name": "gray-pencil",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "Mq7bnW8AkWGYfoPnfF7KzzocR5zhTOorqUCU85Ry4QU="
+      }
+    },
+    {
+      "address": "3CC6F8830CAB6657D2AFFAA485AB4D0AEB2863A4",
+      "name": "quiet-duck",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "mIfjQ93CzGziw90Okgxh9Z4824FiAhXCexTE4fHazy8="
+      }
+    },
+    {
+      "address": "4CB01BF97A6AA53EB1B1760772D4BCA692C5A455",
+      "name": "hollow-week",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "pDLKRwy38+NUGQ1LelOWGG1Z7x0cWQuOZCZk8AncCS0="
+      }
+    },
+    {
+      "address": "CA7C9052A31B701CC44768E7269C81C701377CAB",
+      "name": "hollow-pond",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "cE4BizMox48sZF3c6sUZajBwD8oeIsm2EtYdbWFmNSM="
+      }
+    },
+    {
+      "address": "7942992928CF78DC86E5CB2ED39BA3F3267FE95E",
+      "name": "inexpensive-month",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "UrktUpD04hGyVMq2D7QXTWmWq9SyPNlxCoheBeaUTLs="
+      }
+    },
+    {
+      "address": "AD0D6BB1EB204256CFEF0A1414FBF1B8991578F9",
+      "name": "icy-hat",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "FwrfXAf8Gd+cdymANhOaVYyzcM8/JWkcn9zZM/2r1eA="
+      }
+    },
+    {
+      "address": "169BFF554427B102F983BF73059586CF1DF548E8",
+      "name": "frustrating-pen",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "BcjSPSgOBldiS/Yqd+7Pr7s5beqpZ06l0vUuT0w92s0="
+      }
+    },
+    {
+      "address": "B52A07EB6B733FA078F25D6A2E39A14144666EC1",
+      "name": "funny-week",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "wc7umH6Rs7U9jSa4ZK8MhWVHmS1jXI7dBgDySSCZb1A="
+      }
+    },
+    {
+      "address": "A1877084471E521FB1B2183197946111ED3E7B5C",
+      "name": "funny-ball",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "HCp4tLWFvhCFHqt6Po/wrzGnHhtbnBW41e+8IumPj/k="
+      }
+    },
+    {
+      "address": "834C839E680568149592427FF8B472E6D4FE7F03",
+      "name": "exuberant-policeman",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "yK4bVXKN/CqYT4rtSlVTbLVNxlVMzm8vOeBapUh+JKU="
+      }
+    },
+    {
+      "address": "49AD68E2C8BE3E2A5F5A098D89F2477D9181E2B7",
+      "name": "ashy-river",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "tXGyWeT4uVzCaFPtUX1SkbMqqq0HZS9RQWGDeh9zkdE="
+      }
+    },
+    {
+      "address": "E74D827016FF34BFE7C5469B1797D66C34C16BED",
+      "name": "alert-policeman",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "yn4MN9NJ+fubm9THqGpzQe2+yEp48DQ+zSL7+I3YXKo="
+      }
+    },
+    {
+      "address": "D337DE6A2629B97BB574829929A5E1F220B882E1",
+      "name": "ugly-river",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "zLpwJQpFfntESYVtk3KgrPbWdFmTuy1MNeT0CTjOw48="
+      }
+    },
+    {
+      "address": "F9CB4DCA19894153C8AE80CABD3B4E33E49E014C",
+      "name": "helpful-honey",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "onGZmAwrT7o3yAB5PfM2BR6TwJm1wd59SJxcqvoIuCk="
+      }
+    },
+    {
+      "address": "AADA7E7DB8F3851E3B459E1D8BA8ACE501DA49BD",
+      "name": "mysterious-chimney",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "KnUnXXBI3wGWxmOt28suyiFyHDv/Q4fOssJw0iWO9Go="
+      }
+    },
+    {
+      "address": "3807A8096963DD626D6C1FF1F4873EF0DA906989",
+      "name": "lemon-country",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "B4jLXr1GehSOvo63lIw//vr3L9DaVqisoMp9xChkrcg="
+      }
+    },
+    {
+      "address": "978F8E0BCE55EC7C1C6400BC2981DF2E3F709578",
+      "name": "noisy-music",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "qhCViGrZwIKy3hcSbaoo7+iMAi97mUTYDJx3hmyDTFU="
+      }
+    },
+    {
+      "address": "C896E98689DFA7A401626D509F1828E31ACA3C56",
+      "name": "wicked-hat",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "LM+Kcv7YHrDbq1/QS+r2HM1O9K3r7IE+CWfw7rV3Mj0="
+      }
+    },
+    {
+      "address": "9841F08EB97AF0E05F51BB7D6EF2DE5B0168C58F",
+      "name": "dizzy-town",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "hYBYe1d8eDmOTQbtGf8E58YykSDS214+jdKSIKO/Mls="
+      }
+    },
+    {
+      "address": "B820E3B4E6FF861DAFE0192055A6BF03424EC356",
+      "name": "skinny-wind",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "SY5VmaNj47LyCcZ/wC7LTghJSFtAyginrTciEav9UNY="
+      }
+    },
+    {
+      "address": "3E0CBA4DC44B9DE7372B5B0B41F6562421BCE32B",
+      "name": "shapely-horse",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "nZSVUGMu/Sb+6qR/W0U7xKZJIDQP6cIYDOxVOCVskHA="
+      }
+    },
+    {
+      "address": "1281CF820157C979201F9727209EDBB63A0B51E0",
+      "name": "faint-doctor",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "PBKKrY+gN7QQHXcjMQetuBzUS8m8H0WHx1u+x1zvZag="
+      }
+    },
+    {
+      "address": "F77BDD70E3B3C53E5B8ACA2CDD1302C375E14ECE",
+      "name": "purring-beach",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "6HkcTRFU5K5kKASvtj4piHAcsT8hP9D9syIwaXmfVV0="
+      }
+    },
+    {
+      "address": "8C30AA26077B991BDA80E5036B15DE305488117F",
+      "name": "gray-bat",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "C7wZkUxEcx+Nt96OJV5aIN11qzmLR3mTZ7AudRt/c28="
+      }
+    },
+    {
+      "address": "91E0D487B8FAC823AD5C975B561771546A61ACC4",
+      "name": "excited-fisherman",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "c9Agx7bmRNnVI3m6/litpA+dem7B2yUorrAICubRit0="
+      }
+    },
+    {
+      "address": "25EF3E7593635FD1FED36B48E797C2F2F523F37E",
+      "name": "hollow-brother",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "rsd6TDgvRAoMnj/n7ULXng8aAT+zZNCfM7wk5gdbHng="
+      }
+    },
+    {
+      "address": "0B148FD8B11DB6B7BF1D66EC7B2129407838EE63",
+      "name": "bright-fan",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "PzC3gvoQ3e3gnDcjR96LnzQo8DTAfhzmf2YXNB98zU8="
       }
     }
   ]
