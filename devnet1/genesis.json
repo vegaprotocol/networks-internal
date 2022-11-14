@@ -299,17 +299,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "ZZmj2CcojLloKJwyasfWrbJ4OTLbgeyVAeMVtnAmPhs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/hvecp2wo77i0sa5ssb2vtaol4hmxejia?d=identicon",
-        "country": "BC",
-        "ethereum_address": "0x090Ccbf54FdA8251eeA4AaB6c5250E284B738A6c",
-        "id": "5894ff6bd662d232ca25673187afc1b40c0fdc986f1b14eb02849043759c3557",
-        "info_url": "https://en.wikipedia.org/wiki/St._Peters_Canal",
-        "name": "rich-tile",
-        "tm_pub_key": "ZZmj2CcojLloKJwyasfWrbJ4OTLbgeyVAeMVtnAmPhs=",
-        "vega_pub_key": "3d3e4844f7e57baae6588f610a04e3c286bef73e3e90e446d57eb0ce96d95b4c",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -320,10 +309,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "vEJC8Gzf0jJht0kmEYBYU24ZqhjNjX/0bEF53/olZUE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/jll1ih8zvxoasmmmfc33pt873z5vw8pd?d=identicon",
+        "country": "DX",
+        "ethereum_address": "0xD8f0DaC0c0b13BEaF620F5ED784f9BF19a4DA0c6",
+        "id": "e7af8dd25310311145def46779f6d9b6fe15817c5c7df09b267af2b06ebc8a17",
+        "info_url": "https://en.wikipedia.org/wiki/Charlotte_Hatherley",
+        "name": "icy-tile",
+        "tm_pub_key": "vEJC8Gzf0jJht0kmEYBYU24ZqhjNjX/0bEF53/olZUE=",
+        "vega_pub_key": "045ed7233f73e4254bdaed53ef40e27e6a4ae24f298f4166e0c43fa65a72c1ea",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202211141701",
+  "chain_id": "vega-devnet1-202211142034",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -342,7 +342,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-14T17:01:01.717793677Z",
+  "genesis_time": "2022-11-14T20:34:22.688623229Z",
   "initial_height": "0",
   "validators": [
     {
@@ -382,12 +382,12 @@
       }
     },
     {
-      "address": "2B35DC08ED5A5811444D1E30F1F375E8A3066810",
-      "name": "rich-tile",
+      "address": "676FF09DFFC289714A53A67A2281AA90A9CCC141",
+      "name": "icy-tile",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ZZmj2CcojLloKJwyasfWrbJ4OTLbgeyVAeMVtnAmPhs="
+        "value": "vEJC8Gzf0jJht0kmEYBYU24ZqhjNjX/0bEF53/olZUE="
       }
     }
   ]
