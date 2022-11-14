@@ -277,17 +277,6 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
-      "AIB9WwyUZgqI6xaNZTURLylGqw8efPuRtQjv+OfNDfM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/qynzkcnh9vsct4pqwye4jjgrd0nzo6z7?d=identicon",
-        "country": "IG",
-        "ethereum_address": "0x3a0A991A3402Cbc547F9E67F228b585db4bF811C",
-        "id": "06899f5edc190f6b9433ff50c8b57599e7233f4aab34a4752e316335a8c09ca3",
-        "info_url": "https://en.wikipedia.org/wiki/Sharon_Jordan",
-        "name": "gray-pickle",
-        "tm_pub_key": "AIB9WwyUZgqI6xaNZTURLylGqw8efPuRtQjv+OfNDfM=",
-        "vega_pub_key": "5860a822b85034a1456ff4b20b43c8e341125eb3654c70bfe0fe4bb439f2d244",
-        "vega_pub_key_index": 1
-      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -320,10 +309,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "zC70dWEDWSlBeGjQHSZ18LgODXtJ2MeR2inW9HDpHz0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/kdtjz9k6g4qu2p1wy38c5wrmkbxa2aie?d=identicon",
+        "country": "RF",
+        "ethereum_address": "0x435af2eB67c12eD409BfC63825539C4ccf917eFe",
+        "id": "66d5a6f4ad9f1540d04a5a0addf5e9bb25f6b743a4376fec89758f3888e722ad",
+        "info_url": "https://en.wikipedia.org/wiki/Fujiwara_no_Tamekane",
+        "name": "alert-plant",
+        "tm_pub_key": "zC70dWEDWSlBeGjQHSZ18LgODXtJ2MeR2inW9HDpHz0=",
+        "vega_pub_key": "a9234e465cc275d02acdc7805cc39c40fd04f669e6ea6fae970e1676ef5daee4",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202211132137",
+  "chain_id": "vega-devnet1-202211140729",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -342,7 +342,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-13T21:37:27.853867011Z",
+  "genesis_time": "2022-11-14T07:29:44.44733689Z",
   "initial_height": "0",
   "validators": [
     {
@@ -382,12 +382,12 @@
       }
     },
     {
-      "address": "A46F95EA22DA7ECA8CEEA2EACBC9C4DF441A9072",
-      "name": "gray-pickle",
+      "address": "1B19B71067C1F7E168558384F94D1CD476ABFBEB",
+      "name": "alert-plant",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "AIB9WwyUZgqI6xaNZTURLylGqw8efPuRtQjv+OfNDfM="
+        "value": "zC70dWEDWSlBeGjQHSZ18LgODXtJ2MeR2inW9HDpHz0="
       }
     }
   ]
