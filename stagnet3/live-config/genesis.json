@@ -1,5 +1,5 @@
 {
-  "genesis_time": "2022-11-14T01:54:27.430696066Z",
+  "genesis_time": "2022-11-15T01:54:01.279595333Z",
   "chain_id": "stagnet3",
   "initial_height": "0",
   "consensus_params": {
@@ -407,6 +407,7 @@
       "governance.proposal.updateNetParam.requiredMajority": "0.5",
       "governance.proposal.updateNetParam.requiredParticipation": "0.0",
       "limits.assets.proposeEnabledFrom": "",
+      "limits.markets.maxPeggedOrders": "1500",
       "limits.markets.proposeEnabledFrom": "",
       "market.auction.maximumDuration": "168h0m0s",
       "market.auction.minimumDuration": "10s",
@@ -428,6 +429,8 @@
       "market.value.windowLength": "168h0m0s",
       "network.checkpoint.timeElapsedBetweenCheckpoints": "1m",
       "network.floatingPointUpdates.delay": "5m",
+      "network.transaction.defaultgas": "1",
+      "network.transactions.maxgasperblock": "100000",
       "network.validators.ersatz.multipleOfTendermintValidators": "0.5",
       "network.validators.ersatz.rewardFactor": "0.5",
       "network.validators.incumbentBonus": "1",
