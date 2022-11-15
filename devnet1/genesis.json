@@ -268,6 +268,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "1N1V8uj7M8v6Ws69dTAQYCI+5RBcuiqsvDzLejEVAcg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/i6dvn94txe4hzrs4izznpdkasbamfmbj?d=identicon",
+        "country": "CT",
+        "ethereum_address": "0xEAc994db86ebDa0B07EB36c866EE9aB4fA590a5f",
+        "id": "f1f88ddb516d05cebf4644285f96c4c3732dcbfe21de65fdb6cdc76c8d966af2",
+        "info_url": "https://en.wikipedia.org/wiki/Dancing_with_Maria",
+        "name": "important-key",
+        "tm_pub_key": "1N1V8uj7M8v6Ws69dTAQYCI+5RBcuiqsvDzLejEVAcg=",
+        "vega_pub_key": "c58aa9c43a7d56ea4f0d66bd1e2605c5b4b6fe2bc34047c4bf918019a439454a",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -301,17 +312,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "sieLD7A9Z82DU59YhDWF1Ot0Sm644jx258xW69DARKE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/wdhdkk2kkvpitqlbnvowon44sga3ewxw?d=identicon",
-        "country": "XN",
-        "ethereum_address": "0x4a78e44DC976571978F59dB388afEeD9B7F2bE7F",
-        "id": "74b35363c3c9c07e29cc495bb78eb99b096fd2f75c7323c48b18b470cefae2da",
-        "info_url": "https://en.wikipedia.org/wiki/1970%E2%80%9371_Dundee_F.C._season",
-        "name": "hollow-road",
-        "tm_pub_key": "sieLD7A9Z82DU59YhDWF1Ot0Sm644jx258xW69DARKE=",
-        "vega_pub_key": "b42d88fde4bee4fcb73c9d14f268b52559280ca37999b21cbd2c8a97ef9d7d9f",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211151525",
+  "chain_id": "vega-devnet1-202211151559",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-15T15:25:55.143907231Z",
+  "genesis_time": "2022-11-15T15:59:47.24794194Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "5BB0F91F8891A1F61B0D3BCD874DC3DAF56C1515",
-      "name": "hollow-road",
+      "address": "CFEC9A848CB933BCB12A50CA91674DCAC84C2716",
+      "name": "important-key",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "sieLD7A9Z82DU59YhDWF1Ot0Sm644jx258xW69DARKE="
+        "value": "1N1V8uj7M8v6Ws69dTAQYCI+5RBcuiqsvDzLejEVAcg="
       }
     }
   ]
