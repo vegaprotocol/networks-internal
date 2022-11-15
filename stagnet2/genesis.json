@@ -254,6 +254,8 @@
       "market.stake.target.timeWindow": "1h0m0s",
       "market.value.windowLength": "1h0m0s",
       "network.checkpoint.timeElapsedBetweenCheckpoints": "1m",
+      "network.transaction.defaultgas": "1",
+      "network.transactions.maxgasperblock": "500000",
       "network.validators.multisig.numberOfSigners": "50",
       "network.validators.tendermint.number": "50",
       "reward.asset": "fc7fd956078fb1fc9db5c19b88f0874c4299b2a7639ad05a47a28c0aef291b55",
@@ -832,7 +834,7 @@
       }
     }
   },
-  "chain_id": "vega-stagnet2-202211141420",
+  "chain_id": "vega-stagnet2-202211151245",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -851,7 +853,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-14T14:20:47.851066571Z",
+  "genesis_time": "2022-11-15T12:45:38.97471899Z",
   "initial_height": "0",
   "validators": [
     {
