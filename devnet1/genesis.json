@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "lnJJHhBSIwFnHI8OplD3Ak55UiN+ZP3E25nX2VKp9u8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/7b18h491ugw6psk9xki5lu35ovatq6nj?d=identicon",
-        "country": "ZJ",
-        "ethereum_address": "0x27eb24f55A6794cE601752612969BF56B6e9366B",
-        "id": "8423b39b1ce61d729de0fd84cf78bbfd00e8a05df40eae7032d4e2609cafc7b3",
-        "info_url": "https://en.wikipedia.org/wiki/Dunlo,_Pennsylvania",
-        "name": "perplexed-movie",
-        "tm_pub_key": "lnJJHhBSIwFnHI8OplD3Ak55UiN+ZP3E25nX2VKp9u8=",
-        "vega_pub_key": "993ace1cd6303a71f9eb307f0b4dac36c9cfe71d98d84bd13c01a15f8ac4c2f9",
+      "sieLD7A9Z82DU59YhDWF1Ot0Sm644jx258xW69DARKE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/wdhdkk2kkvpitqlbnvowon44sga3ewxw?d=identicon",
+        "country": "XN",
+        "ethereum_address": "0x4a78e44DC976571978F59dB388afEeD9B7F2bE7F",
+        "id": "74b35363c3c9c07e29cc495bb78eb99b096fd2f75c7323c48b18b470cefae2da",
+        "info_url": "https://en.wikipedia.org/wiki/1970%E2%80%9371_Dundee_F.C._season",
+        "name": "hollow-road",
+        "tm_pub_key": "sieLD7A9Z82DU59YhDWF1Ot0Sm644jx258xW69DARKE=",
+        "vega_pub_key": "b42d88fde4bee4fcb73c9d14f268b52559280ca37999b21cbd2c8a97ef9d7d9f",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211151346",
+  "chain_id": "vega-devnet1-202211151456",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-15T13:46:38.929152901Z",
+  "genesis_time": "2022-11-15T14:56:18.266190477Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "1828C672311BFCB705A965D49B72281AF6677132",
-      "name": "perplexed-movie",
+      "address": "5BB0F91F8891A1F61B0D3BCD874DC3DAF56C1515",
+      "name": "hollow-road",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "lnJJHhBSIwFnHI8OplD3Ak55UiN+ZP3E25nX2VKp9u8="
+        "value": "sieLD7A9Z82DU59YhDWF1Ot0Sm644jx258xW69DARKE="
       }
     }
   ]
