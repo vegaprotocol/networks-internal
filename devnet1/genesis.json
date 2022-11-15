@@ -299,6 +299,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "W21DPjCWle9B51TPYmuExJd08xN/wjy/1zIC+CMsYyg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xro9qfwjbd3m4hlewtpdsjyj90vmlpud?d=identicon",
+        "country": "PI",
+        "ethereum_address": "0xCFb88fdA1b4dE0F7F52Dcf593e876D6A2ae35e07",
+        "id": "8458bfffe6617eb2a388c6bd8d9c76c0d8d90ef14309b1a69945a0562d08a362",
+        "info_url": "https://en.wikipedia.org/wiki/Wall_sit",
+        "name": "healthy-plant",
+        "tm_pub_key": "W21DPjCWle9B51TPYmuExJd08xN/wjy/1zIC+CMsYyg=",
+        "vega_pub_key": "74d8d3171ac70436d703af7daa5b7a9bbec4c13f3dde906c0520a638106a472e",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -309,21 +320,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "vEJC8Gzf0jJht0kmEYBYU24ZqhjNjX/0bEF53/olZUE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/jll1ih8zvxoasmmmfc33pt873z5vw8pd?d=identicon",
-        "country": "DX",
-        "ethereum_address": "0xD8f0DaC0c0b13BEaF620F5ED784f9BF19a4DA0c6",
-        "id": "e7af8dd25310311145def46779f6d9b6fe15817c5c7df09b267af2b06ebc8a17",
-        "info_url": "https://en.wikipedia.org/wiki/Charlotte_Hatherley",
-        "name": "icy-tile",
-        "tm_pub_key": "vEJC8Gzf0jJht0kmEYBYU24ZqhjNjX/0bEF53/olZUE=",
-        "vega_pub_key": "045ed7233f73e4254bdaed53ef40e27e6a4ae24f298f4166e0c43fa65a72c1ea",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202211142034",
+  "chain_id": "vega-devnet1-202211150707",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -342,7 +342,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-14T20:34:22.688623229Z",
+  "genesis_time": "2022-11-15T07:07:32.421017343Z",
   "initial_height": "0",
   "validators": [
     {
@@ -382,12 +382,12 @@
       }
     },
     {
-      "address": "676FF09DFFC289714A53A67A2281AA90A9CCC141",
-      "name": "icy-tile",
+      "address": "121FE976515B8405B96F21EC0CB3B6DA1BC7C643",
+      "name": "healthy-plant",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "vEJC8Gzf0jJht0kmEYBYU24ZqhjNjX/0bEF53/olZUE="
+        "value": "W21DPjCWle9B51TPYmuExJd08xN/wjy/1zIC+CMsYyg="
       }
     }
   ]
