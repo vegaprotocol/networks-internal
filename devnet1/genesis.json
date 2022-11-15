@@ -240,6 +240,8 @@
       "market.stake.target.timeWindow": "1h",
       "market.value.windowLength": "168h",
       "network.checkpoint.timeElapsedBetweenCheckpoints": "1m",
+      "network.transaction.defaultgas": "1",
+      "network.transactions.maxgasperblock": "500000",
       "network.validators.minimumEthereumEventsForNewValidator": "0",
       "network.validators.tendermint.number": "5",
       "reward.asset": "fc7fd956078fb1fc9db5c19b88f0874c4299b2a7639ad05a47a28c0aef291b55",
@@ -266,6 +268,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "9J7w1wHy4DZcFOO0FnZXKjfU6G68/sc3AfvVIggkyHM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/x4hrowpcoaaddme81ugl4au2oymuary1?d=identicon",
+        "country": "PZ",
+        "ethereum_address": "0x13D5f3C78a8fe2CF4D0ae8129AC1DdfC0DD4aEfB",
+        "id": "dc902134131d358c847c97b892269535d9ac65f86712c84c1495e7f665b70e5c",
+        "info_url": "https://en.wikipedia.org/wiki/Spring_fever",
+        "name": "timely-barber",
+        "tm_pub_key": "9J7w1wHy4DZcFOO0FnZXKjfU6G68/sc3AfvVIggkyHM=",
+        "vega_pub_key": "e065cd7c8a8cfb2bfb04424ab3c1d49899487909fc4fd621e872f552c49f2601",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -299,17 +312,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "nO0ZunXyqeIRyXpWAHDnJCBOhBKoeqMDYKnvizdPMms=": {
-        "avatar_url": "https://www.gravatar.com/avatar/db7pvjrrxbg4rhg6n9gtn1uec64dl627?d=identicon",
-        "country": "HS",
-        "ethereum_address": "0x1407d345eBdfD071B6C9D8F202e11048c974723d",
-        "id": "66375a92d2c39d9555f6aae0d5bb5514528cedd5672bcaeeaeef83889ebeba9c",
-        "info_url": "https://en.wikipedia.org/wiki/Darcia_Leimgruber",
-        "name": "tender-building",
-        "tm_pub_key": "nO0ZunXyqeIRyXpWAHDnJCBOhBKoeqMDYKnvizdPMms=",
-        "vega_pub_key": "55cba4d6533f72fa84ded53f35af7b632220e68c4a6f4eefbe45c12b50e94bbd",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -323,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211151043",
+  "chain_id": "vega-devnet1-202211151127",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -342,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-15T10:43:18.890886854Z",
+  "genesis_time": "2022-11-15T11:27:10.61458014Z",
   "initial_height": "0",
   "validators": [
     {
@@ -382,12 +384,12 @@
       }
     },
     {
-      "address": "9CFF3A33D774AF85E9CE466ED992E4C205CDAA6B",
-      "name": "tender-building",
+      "address": "B7756160B19CA721F5E7066858E80D82250BD4E3",
+      "name": "timely-barber",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "nO0ZunXyqeIRyXpWAHDnJCBOhBKoeqMDYKnvizdPMms="
+        "value": "9J7w1wHy4DZcFOO0FnZXKjfU6G68/sc3AfvVIggkyHM="
       }
     }
   ]
