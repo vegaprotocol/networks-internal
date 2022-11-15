@@ -268,17 +268,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "9J7w1wHy4DZcFOO0FnZXKjfU6G68/sc3AfvVIggkyHM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/x4hrowpcoaaddme81ugl4au2oymuary1?d=identicon",
-        "country": "PZ",
-        "ethereum_address": "0x13D5f3C78a8fe2CF4D0ae8129AC1DdfC0DD4aEfB",
-        "id": "dc902134131d358c847c97b892269535d9ac65f86712c84c1495e7f665b70e5c",
-        "info_url": "https://en.wikipedia.org/wiki/Spring_fever",
-        "name": "timely-barber",
-        "tm_pub_key": "9J7w1wHy4DZcFOO0FnZXKjfU6G68/sc3AfvVIggkyHM=",
-        "vega_pub_key": "e065cd7c8a8cfb2bfb04424ab3c1d49899487909fc4fd621e872f552c49f2601",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -312,6 +301,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "oZzEo2kNLgyiCm+hBSj3cvI996mu3Rruppp0m+QGv/o=": {
+        "avatar_url": "https://www.gravatar.com/avatar/uzof3eypnzn7nl3zqfrakw8p1j48t9pq?d=identicon",
+        "country": "PH",
+        "ethereum_address": "0xcc17473B6433eB4d8087753850762e14965509cb",
+        "id": "2c556792f661b375f46ae8303ce612e6386f8c37b6ad04d258439f3ada4f8c81",
+        "info_url": "https://en.wikipedia.org/wiki/O.S.C.A.",
+        "name": "green-farmer",
+        "tm_pub_key": "oZzEo2kNLgyiCm+hBSj3cvI996mu3Rruppp0m+QGv/o=",
+        "vega_pub_key": "82af7a71594e40812de779fbd39b49ad67ad82488b4c75985eb82dc15fa9eb86",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211151143",
+  "chain_id": "vega-devnet1-202211151312",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-15T11:43:21.346770191Z",
+  "genesis_time": "2022-11-15T13:12:04.711650116Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "B7756160B19CA721F5E7066858E80D82250BD4E3",
-      "name": "timely-barber",
+      "address": "6DE76AD0E631D9CCB1B5B6D022791694D1456474",
+      "name": "green-farmer",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "9J7w1wHy4DZcFOO0FnZXKjfU6G68/sc3AfvVIggkyHM="
+        "value": "oZzEo2kNLgyiCm+hBSj3cvI996mu3Rruppp0m+QGv/o="
       }
     }
   ]
