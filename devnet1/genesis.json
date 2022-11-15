@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "oZzEo2kNLgyiCm+hBSj3cvI996mu3Rruppp0m+QGv/o=": {
-        "avatar_url": "https://www.gravatar.com/avatar/uzof3eypnzn7nl3zqfrakw8p1j48t9pq?d=identicon",
-        "country": "PH",
-        "ethereum_address": "0xcc17473B6433eB4d8087753850762e14965509cb",
-        "id": "2c556792f661b375f46ae8303ce612e6386f8c37b6ad04d258439f3ada4f8c81",
-        "info_url": "https://en.wikipedia.org/wiki/O.S.C.A.",
-        "name": "green-farmer",
-        "tm_pub_key": "oZzEo2kNLgyiCm+hBSj3cvI996mu3Rruppp0m+QGv/o=",
-        "vega_pub_key": "82af7a71594e40812de779fbd39b49ad67ad82488b4c75985eb82dc15fa9eb86",
+      "lnJJHhBSIwFnHI8OplD3Ak55UiN+ZP3E25nX2VKp9u8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/7b18h491ugw6psk9xki5lu35ovatq6nj?d=identicon",
+        "country": "ZJ",
+        "ethereum_address": "0x27eb24f55A6794cE601752612969BF56B6e9366B",
+        "id": "8423b39b1ce61d729de0fd84cf78bbfd00e8a05df40eae7032d4e2609cafc7b3",
+        "info_url": "https://en.wikipedia.org/wiki/Dunlo,_Pennsylvania",
+        "name": "perplexed-movie",
+        "tm_pub_key": "lnJJHhBSIwFnHI8OplD3Ak55UiN+ZP3E25nX2VKp9u8=",
+        "vega_pub_key": "993ace1cd6303a71f9eb307f0b4dac36c9cfe71d98d84bd13c01a15f8ac4c2f9",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211151312",
+  "chain_id": "vega-devnet1-202211151346",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-15T13:12:04.711650116Z",
+  "genesis_time": "2022-11-15T13:46:38.929152901Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "6DE76AD0E631D9CCB1B5B6D022791694D1456474",
-      "name": "green-farmer",
+      "address": "1828C672311BFCB705A965D49B72281AF6677132",
+      "name": "perplexed-movie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "oZzEo2kNLgyiCm+hBSj3cvI996mu3Rruppp0m+QGv/o="
+        "value": "lnJJHhBSIwFnHI8OplD3Ak55UiN+ZP3E25nX2VKp9u8="
       }
     }
   ]
