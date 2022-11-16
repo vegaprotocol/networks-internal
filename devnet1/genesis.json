@@ -268,15 +268,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "1N1V8uj7M8v6Ws69dTAQYCI+5RBcuiqsvDzLejEVAcg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/i6dvn94txe4hzrs4izznpdkasbamfmbj?d=identicon",
-        "country": "CT",
-        "ethereum_address": "0xEAc994db86ebDa0B07EB36c866EE9aB4fA590a5f",
-        "id": "f1f88ddb516d05cebf4644285f96c4c3732dcbfe21de65fdb6cdc76c8d966af2",
-        "info_url": "https://en.wikipedia.org/wiki/Dancing_with_Maria",
-        "name": "important-key",
-        "tm_pub_key": "1N1V8uj7M8v6Ws69dTAQYCI+5RBcuiqsvDzLejEVAcg=",
-        "vega_pub_key": "c58aa9c43a7d56ea4f0d66bd1e2605c5b4b6fe2bc34047c4bf918019a439454a",
+      "79COuovJ3l5xq7JjrKJo2LFvLFmwZQsE6ROz34dDffs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/4ck5thaykvv38nkn8rhv3ww34me9533z?d=identicon",
+        "country": "BS",
+        "ethereum_address": "0x4C6f7569e3c5E8a1632e5DBa66B43A93833F4360",
+        "id": "a8f058f9974347048bcb253ba40eab151a0a5117ffdf907b5e344f9daf44ae30",
+        "info_url": "https://en.wikipedia.org/wiki/2003_East_Lothian_Council_election",
+        "name": "extensive-river",
+        "tm_pub_key": "79COuovJ3l5xq7JjrKJo2LFvLFmwZQsE6ROz34dDffs=",
+        "vega_pub_key": "07e45fcb8830d62b96bdb97409e63a494a331cbcad047facb652cb644ed4bf58",
         "vega_pub_key_index": 1
       },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211151559",
+  "chain_id": "vega-devnet1-202211161325",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-15T15:59:47.24794194Z",
+  "genesis_time": "2022-11-16T13:25:19.80992135Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "CFEC9A848CB933BCB12A50CA91674DCAC84C2716",
-      "name": "important-key",
+      "address": "218283CE13735CCC37A6D1DA20E9B1A2BB3E810B",
+      "name": "extensive-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "1N1V8uj7M8v6Ws69dTAQYCI+5RBcuiqsvDzLejEVAcg="
+        "value": "79COuovJ3l5xq7JjrKJo2LFvLFmwZQsE6ROz34dDffs="
       }
     }
   ]
