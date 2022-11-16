@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "be1bqqJcnpEx/3tpd29cnkTsdTpp+aLd/aflHjn+sAE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/9rvwqtg5t8x679nua2rroxc75neq8sh2?d=identicon",
-        "country": "ZI",
-        "ethereum_address": "0xF7165452bB52CedfB8c173f6eEafb1644272D95b",
-        "id": "70e606d510489d4f9958ed486ab7cc0efb78d50f86340828b9b4a1f1eb5a2c67",
-        "info_url": "https://en.wikipedia.org/wiki/Llanishen_Methodist_Church",
-        "name": "helpful-duck",
-        "tm_pub_key": "be1bqqJcnpEx/3tpd29cnkTsdTpp+aLd/aflHjn+sAE=",
-        "vega_pub_key": "80b4fd1c2e8f2b215c1167bc6ec4d8d58d76060ecb99d895252161bc2efca0b9",
+      "d3r8uChikDlimIYDRG9TUspJGsNssq16cgZL5WfyOGQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/sfmlov9qujd85x12rsnccyh9t1vlyl63?d=identicon",
+        "country": "PE",
+        "ethereum_address": "0xB98e18855f09c6389E37E72F06e51B876cC42FA8",
+        "id": "6f2ef52adf632e2c05f04e065495c67f67d28374c378a2176e0e50bcf6bd5c45",
+        "info_url": "https://en.wikipedia.org/wiki/The_Korean_Cultural_Centre_UK",
+        "name": "wailing-plant",
+        "tm_pub_key": "d3r8uChikDlimIYDRG9TUspJGsNssq16cgZL5WfyOGQ=",
+        "vega_pub_key": "e3de0425afa7b9c9f8986fd546560a7047c4bd7597a27fdf9dd66c4356ffd811",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211161429",
+  "chain_id": "vega-devnet1-202211161504",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-16T14:29:23.992504429Z",
+  "genesis_time": "2022-11-16T15:04:15.237738307Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "8377A0950F25118A9BE96180766FDE3C3FE0BE72",
-      "name": "helpful-duck",
+      "address": "161AC6E818D9985146647971572E825FAC4FA693",
+      "name": "wailing-plant",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "be1bqqJcnpEx/3tpd29cnkTsdTpp+aLd/aflHjn+sAE="
+        "value": "d3r8uChikDlimIYDRG9TUspJGsNssq16cgZL5WfyOGQ="
       }
     }
   ]
