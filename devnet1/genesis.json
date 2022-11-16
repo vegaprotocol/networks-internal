@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "d3r8uChikDlimIYDRG9TUspJGsNssq16cgZL5WfyOGQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/sfmlov9qujd85x12rsnccyh9t1vlyl63?d=identicon",
-        "country": "PE",
-        "ethereum_address": "0xB98e18855f09c6389E37E72F06e51B876cC42FA8",
-        "id": "6f2ef52adf632e2c05f04e065495c67f67d28374c378a2176e0e50bcf6bd5c45",
-        "info_url": "https://en.wikipedia.org/wiki/The_Korean_Cultural_Centre_UK",
-        "name": "wailing-plant",
-        "tm_pub_key": "d3r8uChikDlimIYDRG9TUspJGsNssq16cgZL5WfyOGQ=",
-        "vega_pub_key": "e3de0425afa7b9c9f8986fd546560a7047c4bd7597a27fdf9dd66c4356ffd811",
+      "c+AMuWSNzV8YFEu9iBXoRxUYofsUAHBzTQrUty1JWAI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/10pqv0o602q70oeo42qp2pijzby9wmc9?d=identicon",
+        "country": "XB",
+        "ethereum_address": "0x2956ac2CA95e9437D0d0d8d6C9083c04aa99fc57",
+        "id": "96959909782aa617d1efc26f5a37928f1d000f4d7c87bf8d383cdf51edfbf81a",
+        "info_url": "https://en.wikipedia.org/wiki/Do_You_See_What_I_See%3F",
+        "name": "narrow-hat",
+        "tm_pub_key": "c+AMuWSNzV8YFEu9iBXoRxUYofsUAHBzTQrUty1JWAI=",
+        "vega_pub_key": "01b02ab4cc01b4b496baf931befe459203fac7257860c88d50b3c7c83b340c38",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211161504",
+  "chain_id": "vega-devnet1-202211161734",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-16T15:04:15.237738307Z",
+  "genesis_time": "2022-11-16T17:34:58.869823453Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "161AC6E818D9985146647971572E825FAC4FA693",
-      "name": "wailing-plant",
+      "address": "E167C7A10C4740A03EF9F8270AFF40A6EF927D40",
+      "name": "narrow-hat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "d3r8uChikDlimIYDRG9TUspJGsNssq16cgZL5WfyOGQ="
+        "value": "c+AMuWSNzV8YFEu9iBXoRxUYofsUAHBzTQrUty1JWAI="
       }
     }
   ]
