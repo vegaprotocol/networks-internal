@@ -268,17 +268,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "79COuovJ3l5xq7JjrKJo2LFvLFmwZQsE6ROz34dDffs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/4ck5thaykvv38nkn8rhv3ww34me9533z?d=identicon",
-        "country": "BS",
-        "ethereum_address": "0x4C6f7569e3c5E8a1632e5DBa66B43A93833F4360",
-        "id": "a8f058f9974347048bcb253ba40eab151a0a5117ffdf907b5e344f9daf44ae30",
-        "info_url": "https://en.wikipedia.org/wiki/2003_East_Lothian_Council_election",
-        "name": "extensive-river",
-        "tm_pub_key": "79COuovJ3l5xq7JjrKJo2LFvLFmwZQsE6ROz34dDffs=",
-        "vega_pub_key": "07e45fcb8830d62b96bdb97409e63a494a331cbcad047facb652cb644ed4bf58",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -312,6 +301,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "be1bqqJcnpEx/3tpd29cnkTsdTpp+aLd/aflHjn+sAE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/9rvwqtg5t8x679nua2rroxc75neq8sh2?d=identicon",
+        "country": "ZI",
+        "ethereum_address": "0xF7165452bB52CedfB8c173f6eEafb1644272D95b",
+        "id": "70e606d510489d4f9958ed486ab7cc0efb78d50f86340828b9b4a1f1eb5a2c67",
+        "info_url": "https://en.wikipedia.org/wiki/Llanishen_Methodist_Church",
+        "name": "helpful-duck",
+        "tm_pub_key": "be1bqqJcnpEx/3tpd29cnkTsdTpp+aLd/aflHjn+sAE=",
+        "vega_pub_key": "80b4fd1c2e8f2b215c1167bc6ec4d8d58d76060ecb99d895252161bc2efca0b9",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211161325",
+  "chain_id": "vega-devnet1-202211161405",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-16T13:25:19.80992135Z",
+  "genesis_time": "2022-11-16T14:05:56.604264096Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "218283CE13735CCC37A6D1DA20E9B1A2BB3E810B",
-      "name": "extensive-river",
+      "address": "8377A0950F25118A9BE96180766FDE3C3FE0BE72",
+      "name": "helpful-duck",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "79COuovJ3l5xq7JjrKJo2LFvLFmwZQsE6ROz34dDffs="
+        "value": "be1bqqJcnpEx/3tpd29cnkTsdTpp+aLd/aflHjn+sAE="
       }
     }
   ]
