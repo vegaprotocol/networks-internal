@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "iUjGWJERRa8LZrty4o1i/95mlIxBiBQzvcwOdPHd3jk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/jseqw3zd16mnfluo4sw3xzsl66x8ng46?d=identicon",
-        "country": "LY",
-        "ethereum_address": "0xaCDc37720438c420E4A6Df24C2C5D2915DbB40C7",
-        "id": "36bc0ca520bd823649802af8681aca3fbb318241e2657110ae50061acbde390f",
-        "info_url": "https://en.wikipedia.org/wiki/Agathotoma_finalis",
-        "name": "condescending-duck",
-        "tm_pub_key": "iUjGWJERRa8LZrty4o1i/95mlIxBiBQzvcwOdPHd3jk=",
-        "vega_pub_key": "7d731108adae7271fdfaac5e6ba55948c1d6c2c3874eb9640e509808cae5cd73",
+      "cmGIvH0vv2+q/uKceYJw0aUeznvrOr9stB+2nUDXDTI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/s70icrf79q7o4jezsdgw42or3ik98k6h?d=identicon",
+        "country": "TX",
+        "ethereum_address": "0xE74e63F21a19E40F57115BC745e499091d505542",
+        "id": "399361feba7acc7c821dcc2d75cea6fa411f59e492eed34707502d79d9d7a822",
+        "info_url": "https://en.wikipedia.org/wiki/Michael_J._Belton",
+        "name": "funny-building",
+        "tm_pub_key": "cmGIvH0vv2+q/uKceYJw0aUeznvrOr9stB+2nUDXDTI=",
+        "vega_pub_key": "af20ed55e1b1e5c58e63ccd4a0fa22777b8668c6417a00483321ebe9a38954ae",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211171142",
+  "chain_id": "vega-devnet1-202211171204",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-17T11:42:10.162858054Z",
+  "genesis_time": "2022-11-17T12:04:42.761939355Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "8035BE176415C7652A66887C6B079E716AC06B99",
-      "name": "condescending-duck",
+      "address": "A87C7BA883BDD21D3BCB7253FFB62FE939556643",
+      "name": "funny-building",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "iUjGWJERRa8LZrty4o1i/95mlIxBiBQzvcwOdPHd3jk="
+        "value": "cmGIvH0vv2+q/uKceYJw0aUeznvrOr9stB+2nUDXDTI="
       }
     }
   ]
