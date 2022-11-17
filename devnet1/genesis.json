@@ -290,6 +290,17 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
+      "FI6abI8Ejn/HA0Wz6NPMhx/2DdKg5lNZfK4iRw0xTUc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/od88gtcp33jcy3dkk4rgs7sgq11lcs2e?d=identicon",
+        "country": "MU",
+        "ethereum_address": "0x5A52B55fBF7055c6E6F22B35Be6cCE375053C1F9",
+        "id": "eb6240d92e527c289e0d7b8c500ac8441b76952f8784a853d8af7eb3d86c6f4c",
+        "info_url": "https://en.wikipedia.org/wiki/March_of_Tuscany",
+        "name": "impressionable-flowers",
+        "tm_pub_key": "FI6abI8Ejn/HA0Wz6NPMhx/2DdKg5lNZfK4iRw0xTUc=",
+        "vega_pub_key": "44d6016ca9398b0dce5c1ad9e4147b8823bf2ff27f470592906272f3e5a377f4",
+        "vega_pub_key_index": 1
+      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -299,17 +310,6 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
-        "vega_pub_key_index": 1
-      },
-      "MqPmqAYmzTD1XQbDvOrQbgs5w/OTX9Wh2KPrC1S4ofE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/0pzfd1tquydqjva4i9kwpfdrmp3jd6m3?d=identicon",
-        "country": "CB",
-        "ethereum_address": "0x99f8c85cAe2C0AC0Ec580E4F3b3842E51aE36544",
-        "id": "852d7e004e71981235f3584f0b870f66f532df716b9057f2b23ca46b28229a0d",
-        "info_url": "https://en.wikipedia.org/wiki/Se%C3%A1n_Sammon",
-        "name": "thundering-cookie",
-        "tm_pub_key": "MqPmqAYmzTD1XQbDvOrQbgs5w/OTX9Wh2KPrC1S4ofE=",
-        "vega_pub_key": "54e5a4a92e752023440cadbcb49d45c013b27a561262b5e9d3416d4490978f0e",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211170021",
+  "chain_id": "vega-devnet1-202211171016",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-17T00:21:07.820176438Z",
+  "genesis_time": "2022-11-17T10:16:52.609782495Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "A91F8C1088B7BA6927B8EDDE1B50CEBE59616E28",
-      "name": "thundering-cookie",
+      "address": "99C75D8F7772BF2C80175C628C581A57A1FE0DD0",
+      "name": "impressionable-flowers",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "MqPmqAYmzTD1XQbDvOrQbgs5w/OTX9Wh2KPrC1S4ofE="
+        "value": "FI6abI8Ejn/HA0Wz6NPMhx/2DdKg5lNZfK4iRw0xTUc="
       }
     }
   ]
