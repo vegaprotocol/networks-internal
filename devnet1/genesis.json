@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "c+AMuWSNzV8YFEu9iBXoRxUYofsUAHBzTQrUty1JWAI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/10pqv0o602q70oeo42qp2pijzby9wmc9?d=identicon",
-        "country": "XB",
-        "ethereum_address": "0x2956ac2CA95e9437D0d0d8d6C9083c04aa99fc57",
-        "id": "96959909782aa617d1efc26f5a37928f1d000f4d7c87bf8d383cdf51edfbf81a",
-        "info_url": "https://en.wikipedia.org/wiki/Do_You_See_What_I_See%3F",
-        "name": "narrow-hat",
-        "tm_pub_key": "c+AMuWSNzV8YFEu9iBXoRxUYofsUAHBzTQrUty1JWAI=",
-        "vega_pub_key": "01b02ab4cc01b4b496baf931befe459203fac7257860c88d50b3c7c83b340c38",
+      "MqPmqAYmzTD1XQbDvOrQbgs5w/OTX9Wh2KPrC1S4ofE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/0pzfd1tquydqjva4i9kwpfdrmp3jd6m3?d=identicon",
+        "country": "CB",
+        "ethereum_address": "0x99f8c85cAe2C0AC0Ec580E4F3b3842E51aE36544",
+        "id": "852d7e004e71981235f3584f0b870f66f532df716b9057f2b23ca46b28229a0d",
+        "info_url": "https://en.wikipedia.org/wiki/Se%C3%A1n_Sammon",
+        "name": "thundering-cookie",
+        "tm_pub_key": "MqPmqAYmzTD1XQbDvOrQbgs5w/OTX9Wh2KPrC1S4ofE=",
+        "vega_pub_key": "54e5a4a92e752023440cadbcb49d45c013b27a561262b5e9d3416d4490978f0e",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211161734",
+  "chain_id": "vega-devnet1-202211170021",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-16T17:34:58.869823453Z",
+  "genesis_time": "2022-11-17T00:21:07.820176438Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "E167C7A10C4740A03EF9F8270AFF40A6EF927D40",
-      "name": "narrow-hat",
+      "address": "A91F8C1088B7BA6927B8EDDE1B50CEBE59616E28",
+      "name": "thundering-cookie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "c+AMuWSNzV8YFEu9iBXoRxUYofsUAHBzTQrUty1JWAI="
+        "value": "MqPmqAYmzTD1XQbDvOrQbgs5w/OTX9Wh2KPrC1S4ofE="
       }
     }
   ]
