@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "cmGIvH0vv2+q/uKceYJw0aUeznvrOr9stB+2nUDXDTI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/s70icrf79q7o4jezsdgw42or3ik98k6h?d=identicon",
-        "country": "TX",
-        "ethereum_address": "0xE74e63F21a19E40F57115BC745e499091d505542",
-        "id": "399361feba7acc7c821dcc2d75cea6fa411f59e492eed34707502d79d9d7a822",
-        "info_url": "https://en.wikipedia.org/wiki/Michael_J._Belton",
-        "name": "funny-building",
-        "tm_pub_key": "cmGIvH0vv2+q/uKceYJw0aUeznvrOr9stB+2nUDXDTI=",
-        "vega_pub_key": "af20ed55e1b1e5c58e63ccd4a0fa22777b8668c6417a00483321ebe9a38954ae",
+      "VkpAAoFZb3PVyucSnrwFWEFISamtVhGUpiVAukDa9sk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ezru8rbbj62ulon6px0zynj1jygmh06b?d=identicon",
+        "country": "IA",
+        "ethereum_address": "0xE068c865226d74A423fD94494ACFf5D422d4d79b",
+        "id": "418d180c9fec01b101a5506cbd848a144bc0447443e351e3ee0242986738a431",
+        "info_url": "https://en.wikipedia.org/wiki/Lindsy_McLean",
+        "name": "ashy-brother",
+        "tm_pub_key": "VkpAAoFZb3PVyucSnrwFWEFISamtVhGUpiVAukDa9sk=",
+        "vega_pub_key": "725ab565feb0dc1a02871e6ad59caba5b5fb9e1511cab9d96c093d8e30167a32",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211171204",
+  "chain_id": "vega-devnet1-202211171341",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-17T12:04:42.761939355Z",
+  "genesis_time": "2022-11-17T13:41:42.380949949Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "A87C7BA883BDD21D3BCB7253FFB62FE939556643",
-      "name": "funny-building",
+      "address": "72835E16CBA3551D9376B6E0E49050795AF2DB1C",
+      "name": "ashy-brother",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "cmGIvH0vv2+q/uKceYJw0aUeznvrOr9stB+2nUDXDTI="
+        "value": "VkpAAoFZb3PVyucSnrwFWEFISamtVhGUpiVAukDa9sk="
       }
     }
   ]
