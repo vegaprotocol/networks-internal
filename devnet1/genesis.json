@@ -301,6 +301,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "WiVKF2bOPHpnnaGMghRHd6gsmkLTZcnXsE6Q/Wf/Zqo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/gshfnmfpl3sf0yjsn71iqelvm7g208gy?d=identicon",
+        "country": "ZN",
+        "ethereum_address": "0x25Fd6C096df624ba59B3276B1E033bffD7563C38",
+        "id": "4503f7b510528ea0749dbb9902b2f999e304b4904fe78448d1c90345e0823ad8",
+        "info_url": "https://en.wikipedia.org/wiki/Virtual_manufacturing_network",
+        "name": "unkempt-swing",
+        "tm_pub_key": "WiVKF2bOPHpnnaGMghRHd6gsmkLTZcnXsE6Q/Wf/Zqo=",
+        "vega_pub_key": "6745e621d7d2b1b5ba24b826ed96344984e0bfb914995a367d254adfb51ae484",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -311,21 +322,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "ucLGwCxsS1xqWVoQrzOjFAt9RWaFX68VvGgXwrfUlJk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/pm2svdp5t6796aqb22piqw0tm0xqg4vq?d=identicon",
-        "country": "WN",
-        "ethereum_address": "0xF890eaC960e62C3DA2fCA9153F4E7Ce7814E6064",
-        "id": "bd7f9d104da12bb4fa728b7a03ea048f6837c82e2497a5c21bd1e28dbb84b6a8",
-        "info_url": "https://en.wikipedia.org/wiki/Punt_Road_Oval",
-        "name": "wailing-bat",
-        "tm_pub_key": "ucLGwCxsS1xqWVoQrzOjFAt9RWaFX68VvGgXwrfUlJk=",
-        "vega_pub_key": "95deb2d3417f1b00f5f5e5b46c0b339294e9b9d6343a8d08e673600bb40c52cd",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202211171820",
+  "chain_id": "vega-devnet1-202211171958",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-17T18:20:09.047081472Z",
+  "genesis_time": "2022-11-17T19:58:11.544413165Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "EA96AF3E969CE0A1AF5350273C8A2295ECFE146E",
-      "name": "wailing-bat",
+      "address": "6C3836D39199C6140BE7287F20C7648F0BFEA21C",
+      "name": "unkempt-swing",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ucLGwCxsS1xqWVoQrzOjFAt9RWaFX68VvGgXwrfUlJk="
+        "value": "WiVKF2bOPHpnnaGMghRHd6gsmkLTZcnXsE6Q/Wf/Zqo="
       }
     }
   ]
