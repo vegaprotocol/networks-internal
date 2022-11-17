@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "VkpAAoFZb3PVyucSnrwFWEFISamtVhGUpiVAukDa9sk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ezru8rbbj62ulon6px0zynj1jygmh06b?d=identicon",
-        "country": "IA",
-        "ethereum_address": "0xE068c865226d74A423fD94494ACFf5D422d4d79b",
-        "id": "418d180c9fec01b101a5506cbd848a144bc0447443e351e3ee0242986738a431",
-        "info_url": "https://en.wikipedia.org/wiki/Lindsy_McLean",
-        "name": "ashy-brother",
-        "tm_pub_key": "VkpAAoFZb3PVyucSnrwFWEFISamtVhGUpiVAukDa9sk=",
-        "vega_pub_key": "725ab565feb0dc1a02871e6ad59caba5b5fb9e1511cab9d96c093d8e30167a32",
+      "KseRjYliZzyg7wI9Z+ws9TEhaqzIrTYmrhMTi3zxSBY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/gcyrbrpi8tfby1tn9uzzf6qtcneub7b3?d=identicon",
+        "country": "FA",
+        "ethereum_address": "0xB735fD5Ed6463d0139E0b3d6bD39a900BF200949",
+        "id": "74228d94d255952a74f1a027a2b8125b1294d21ccc2188491e71debbf8dd84d0",
+        "info_url": "https://en.wikipedia.org/wiki/Un_Viaje_(book)",
+        "name": "salmon-plant",
+        "tm_pub_key": "KseRjYliZzyg7wI9Z+ws9TEhaqzIrTYmrhMTi3zxSBY=",
+        "vega_pub_key": "984ee51fbe1208f100ba9af4b46c35e9cee8fc9fde9ffc7667d73d56df2a7516",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211171341",
+  "chain_id": "vega-devnet1-202211171413",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-17T13:41:42.380949949Z",
+  "genesis_time": "2022-11-17T14:13:38.307738442Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "72835E16CBA3551D9376B6E0E49050795AF2DB1C",
-      "name": "ashy-brother",
+      "address": "3520CC5621D4219258143B25F42D5E88EE8570D9",
+      "name": "salmon-plant",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "VkpAAoFZb3PVyucSnrwFWEFISamtVhGUpiVAukDa9sk="
+        "value": "KseRjYliZzyg7wI9Z+ws9TEhaqzIrTYmrhMTi3zxSBY="
       }
     }
   ]
