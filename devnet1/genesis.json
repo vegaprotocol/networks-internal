@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "iyc6tvEftFY5Y0OZrWosUpBlORBe7Sr83ZU7ycSsfaM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/zqxff52mido5xo35dzw4vlfqigie63kh?d=identicon",
-        "country": "MK",
-        "ethereum_address": "0x2C044a2BbAe81E14484939dF0Af1C7395Aa55875",
-        "id": "b0fa05f264b0851490e7e88244147d2ef5675288a5e3992cf932d85f7b6534df",
-        "info_url": "https://en.wikipedia.org/wiki/Dallolmoia",
-        "name": "bored-fan",
-        "tm_pub_key": "iyc6tvEftFY5Y0OZrWosUpBlORBe7Sr83ZU7ycSsfaM=",
-        "vega_pub_key": "9f44528c7e3a632a50120a7ad5a4bc4a2c24630d1f1d38c892a051a1203bc96a",
+      "rOmm2oV0zauBg5UWfvnoN5FTrxOsdhoL5Ho2BFOyOy4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/trevkiq12kded4hljeo7rhsf5u4te8a0?d=identicon",
+        "country": "AE",
+        "ethereum_address": "0x6b6C951e89569bE5832B6eB5aAe4e31f85D7d040",
+        "id": "21851d4399dea3792da3919177c990bf68a960ef4d2d1412113aae7298ec2c7b",
+        "info_url": "https://en.wikipedia.org/wiki/Hit_by_a_Train:_The_Best_of_Old_97%27s",
+        "name": "inexpensive-monkey",
+        "tm_pub_key": "rOmm2oV0zauBg5UWfvnoN5FTrxOsdhoL5Ho2BFOyOy4=",
+        "vega_pub_key": "eaf024686812fea2d6882ef4e49c01d17e9541ca3bb801bea5ef0d4a70323392",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211181045",
+  "chain_id": "vega-devnet1-202211181139",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-18T10:45:18.881894174Z",
+  "genesis_time": "2022-11-18T11:39:50.93657357Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "FC8527704BF9EBF7919FDC738B5A8AF2AFB40DE5",
-      "name": "bored-fan",
+      "address": "1051B5AC768D5C900C6F782F4B805DFE82D3F371",
+      "name": "inexpensive-monkey",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "iyc6tvEftFY5Y0OZrWosUpBlORBe7Sr83ZU7ycSsfaM="
+        "value": "rOmm2oV0zauBg5UWfvnoN5FTrxOsdhoL5Ho2BFOyOy4="
       }
     }
   ]
