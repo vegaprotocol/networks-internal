@@ -290,6 +290,17 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
+      "J0b1gqfLjYAynoLa28dvqsW1L3+VoDYC5RxxrTIAwqc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/lcjrlwhginchgyf7i229mp08hgfcvc1p?d=identicon",
+        "country": "PA",
+        "ethereum_address": "0x1DE527DF113b8ffE86B1e8823CB96566fA7b4CcC",
+        "id": "ef619e045b151ff641808cb81b2bc20e4dabdbb3d64e84219b86d54952c40650",
+        "info_url": "https://en.wikipedia.org/wiki/Deh_Now-e_Kakan",
+        "name": "healthy-table",
+        "tm_pub_key": "J0b1gqfLjYAynoLa28dvqsW1L3+VoDYC5RxxrTIAwqc=",
+        "vega_pub_key": "3612ddf3fc88bfa701bc6da089be06b3d06aee871807e008b78c52a3018067b6",
+        "vega_pub_key_index": 1
+      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -299,17 +310,6 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
-        "vega_pub_key_index": 1
-      },
-      "MI0zXY+NSX8H3bIjIABM4yAU4AcGrC+Uc59V0jinyak=": {
-        "avatar_url": "https://www.gravatar.com/avatar/wye1uhcknev7xqowjp1xc7302dbsker0?d=identicon",
-        "country": "YS",
-        "ethereum_address": "0x7cb0C50d6aBc14712465C7A0fabfca48E1B9e236",
-        "id": "16a6a56f3b839e9bf2387e7970c80bd122204b7a08da8ef8f29d2e27f0f6e007",
-        "info_url": "https://en.wikipedia.org/wiki/Robinson%E2%80%93Macken_House",
-        "name": "frightened-sheep",
-        "tm_pub_key": "MI0zXY+NSX8H3bIjIABM4yAU4AcGrC+Uc59V0jinyak=",
-        "vega_pub_key": "9b63e6d98a065f12c4842a1a4bde66415775346a7f8d9e2dab4c0aaadebfd38d",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211181503",
+  "chain_id": "vega-devnet1-202211181556",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-18T15:03:26.911088875Z",
+  "genesis_time": "2022-11-18T15:56:37.147929569Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "7BC73F536CCCFB7B41B1D7BC4290E4BF42ABA1B8",
-      "name": "frightened-sheep",
+      "address": "0EDE01E39664400D16E9FD74AE549C94B300D35D",
+      "name": "healthy-table",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "MI0zXY+NSX8H3bIjIABM4yAU4AcGrC+Uc59V0jinyak="
+        "value": "J0b1gqfLjYAynoLa28dvqsW1L3+VoDYC5RxxrTIAwqc="
       }
     }
   ]
