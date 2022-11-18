@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "oP6pgJvfuSMFuNZJ6ZcrO1cF5UdFzvXT//qgJsv+Kwo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/qyy2hi40osa7bk97y6qntdc1kvuudidr?d=identicon",
-        "country": "ZO",
-        "ethereum_address": "0xC4e07bFf2E5ffC854c517d9Fa73aE265d4Ff20a3",
-        "id": "04bbfba908c185c7fdef2e86667f6a2efb2f95a15ca1b3725091b82b70059b95",
-        "info_url": "https://en.wikipedia.org/wiki/Walter_Robb_(engineer)",
-        "name": "perplexed-apple",
-        "tm_pub_key": "oP6pgJvfuSMFuNZJ6ZcrO1cF5UdFzvXT//qgJsv+Kwo=",
-        "vega_pub_key": "f04399d7528be4bc41192a86bc541f10536f2eb5a338a7b1e7ad26905d8cdf89",
+      "iyc6tvEftFY5Y0OZrWosUpBlORBe7Sr83ZU7ycSsfaM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/zqxff52mido5xo35dzw4vlfqigie63kh?d=identicon",
+        "country": "MK",
+        "ethereum_address": "0x2C044a2BbAe81E14484939dF0Af1C7395Aa55875",
+        "id": "b0fa05f264b0851490e7e88244147d2ef5675288a5e3992cf932d85f7b6534df",
+        "info_url": "https://en.wikipedia.org/wiki/Dallolmoia",
+        "name": "bored-fan",
+        "tm_pub_key": "iyc6tvEftFY5Y0OZrWosUpBlORBe7Sr83ZU7ycSsfaM=",
+        "vega_pub_key": "9f44528c7e3a632a50120a7ad5a4bc4a2c24630d1f1d38c892a051a1203bc96a",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211180847",
+  "chain_id": "vega-devnet1-202211181045",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-18T08:47:38.236152868Z",
+  "genesis_time": "2022-11-18T10:45:18.881894174Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "58CF714B8103833F5B4766DB0262081075673B60",
-      "name": "perplexed-apple",
+      "address": "FC8527704BF9EBF7919FDC738B5A8AF2AFB40DE5",
+      "name": "bored-fan",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "oP6pgJvfuSMFuNZJ6ZcrO1cF5UdFzvXT//qgJsv+Kwo="
+        "value": "iyc6tvEftFY5Y0OZrWosUpBlORBe7Sr83ZU7ycSsfaM="
       }
     }
   ]
