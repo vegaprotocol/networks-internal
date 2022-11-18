@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "WiVKF2bOPHpnnaGMghRHd6gsmkLTZcnXsE6Q/Wf/Zqo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/gshfnmfpl3sf0yjsn71iqelvm7g208gy?d=identicon",
-        "country": "ZN",
-        "ethereum_address": "0x25Fd6C096df624ba59B3276B1E033bffD7563C38",
-        "id": "4503f7b510528ea0749dbb9902b2f999e304b4904fe78448d1c90345e0823ad8",
-        "info_url": "https://en.wikipedia.org/wiki/Virtual_manufacturing_network",
-        "name": "unkempt-swing",
-        "tm_pub_key": "WiVKF2bOPHpnnaGMghRHd6gsmkLTZcnXsE6Q/Wf/Zqo=",
-        "vega_pub_key": "6745e621d7d2b1b5ba24b826ed96344984e0bfb914995a367d254adfb51ae484",
+      "oP6pgJvfuSMFuNZJ6ZcrO1cF5UdFzvXT//qgJsv+Kwo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/qyy2hi40osa7bk97y6qntdc1kvuudidr?d=identicon",
+        "country": "ZO",
+        "ethereum_address": "0xC4e07bFf2E5ffC854c517d9Fa73aE265d4Ff20a3",
+        "id": "04bbfba908c185c7fdef2e86667f6a2efb2f95a15ca1b3725091b82b70059b95",
+        "info_url": "https://en.wikipedia.org/wiki/Walter_Robb_(engineer)",
+        "name": "perplexed-apple",
+        "tm_pub_key": "oP6pgJvfuSMFuNZJ6ZcrO1cF5UdFzvXT//qgJsv+Kwo=",
+        "vega_pub_key": "f04399d7528be4bc41192a86bc541f10536f2eb5a338a7b1e7ad26905d8cdf89",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211172035",
+  "chain_id": "vega-devnet1-202211180847",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-17T20:35:17.841137736Z",
+  "genesis_time": "2022-11-18T08:47:38.236152868Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "6C3836D39199C6140BE7287F20C7648F0BFEA21C",
-      "name": "unkempt-swing",
+      "address": "58CF714B8103833F5B4766DB0262081075673B60",
+      "name": "perplexed-apple",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "WiVKF2bOPHpnnaGMghRHd6gsmkLTZcnXsE6Q/Wf/Zqo="
+        "value": "oP6pgJvfuSMFuNZJ6ZcrO1cF5UdFzvXT//qgJsv+Kwo="
       }
     }
   ]
