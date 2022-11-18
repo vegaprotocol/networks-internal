@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "daaQJMM2a07H+Vkg3wLuuFkw0lPZEL7DtYQYbKj5K8s=": {
-        "avatar_url": "https://www.gravatar.com/avatar/kip3d03bewgh5rkhsg62vr3v71oy1jyr?d=identicon",
-        "country": "IK",
-        "ethereum_address": "0xf7558C73E9b6F3058F3C963B92aF5D8770C57547",
-        "id": "12f0ffa45936d797c60fc8892d0015fad2c2133f2351caae6557427efe57870b",
-        "info_url": "https://en.wikipedia.org/wiki/Diary_of_a_Country_Priest",
-        "name": "loud-flowers",
-        "tm_pub_key": "daaQJMM2a07H+Vkg3wLuuFkw0lPZEL7DtYQYbKj5K8s=",
-        "vega_pub_key": "ce766b83ccbbf39f4ddd9f69ec97cb2c66b8395f2ce5dc35c71a0b0c875f3f5f",
+      "MI0zXY+NSX8H3bIjIABM4yAU4AcGrC+Uc59V0jinyak=": {
+        "avatar_url": "https://www.gravatar.com/avatar/wye1uhcknev7xqowjp1xc7302dbsker0?d=identicon",
+        "country": "YS",
+        "ethereum_address": "0x7cb0C50d6aBc14712465C7A0fabfca48E1B9e236",
+        "id": "16a6a56f3b839e9bf2387e7970c80bd122204b7a08da8ef8f29d2e27f0f6e007",
+        "info_url": "https://en.wikipedia.org/wiki/Robinson%E2%80%93Macken_House",
+        "name": "frightened-sheep",
+        "tm_pub_key": "MI0zXY+NSX8H3bIjIABM4yAU4AcGrC+Uc59V0jinyak=",
+        "vega_pub_key": "9b63e6d98a065f12c4842a1a4bde66415775346a7f8d9e2dab4c0aaadebfd38d",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211181346",
+  "chain_id": "vega-devnet1-202211181503",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-18T13:46:31.956476842Z",
+  "genesis_time": "2022-11-18T15:03:26.911088875Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "03A28C653A3D5B8EFA39D5DB14E05CBFA58CF058",
-      "name": "loud-flowers",
+      "address": "7BC73F536CCCFB7B41B1D7BC4290E4BF42ABA1B8",
+      "name": "frightened-sheep",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "daaQJMM2a07H+Vkg3wLuuFkw0lPZEL7DtYQYbKj5K8s="
+        "value": "MI0zXY+NSX8H3bIjIABM4yAU4AcGrC+Uc59V0jinyak="
       }
     }
   ]
