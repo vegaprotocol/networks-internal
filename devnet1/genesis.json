@@ -301,6 +301,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "daaQJMM2a07H+Vkg3wLuuFkw0lPZEL7DtYQYbKj5K8s=": {
+        "avatar_url": "https://www.gravatar.com/avatar/kip3d03bewgh5rkhsg62vr3v71oy1jyr?d=identicon",
+        "country": "IK",
+        "ethereum_address": "0xf7558C73E9b6F3058F3C963B92aF5D8770C57547",
+        "id": "12f0ffa45936d797c60fc8892d0015fad2c2133f2351caae6557427efe57870b",
+        "info_url": "https://en.wikipedia.org/wiki/Diary_of_a_Country_Priest",
+        "name": "loud-flowers",
+        "tm_pub_key": "daaQJMM2a07H+Vkg3wLuuFkw0lPZEL7DtYQYbKj5K8s=",
+        "vega_pub_key": "ce766b83ccbbf39f4ddd9f69ec97cb2c66b8395f2ce5dc35c71a0b0c875f3f5f",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -311,21 +322,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "zfG79yhF3CNmAPIDFzKP1VriGIyKZwWr2AqM4H2Zdi0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/bleosa5p2ihac00wzd69si9iki8ru22p?d=identicon",
-        "country": "VX",
-        "ethereum_address": "0x23cfea87d0D12c186Ee812308e718a2F688B2A77",
-        "id": "ed693e097cf6b18df2bc8712983568dd52cac73567a0e8d6627ad8c85c989ff1",
-        "info_url": "https://en.wikipedia.org/wiki/Miami_RedHawks_baseball",
-        "name": "orange-tree",
-        "tm_pub_key": "zfG79yhF3CNmAPIDFzKP1VriGIyKZwWr2AqM4H2Zdi0=",
-        "vega_pub_key": "425cf46fb3245982ed5c09b80f8908b5088ce8bb07747fd1c8e4ec8b2091937b",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202211181212",
+  "chain_id": "vega-devnet1-202211181346",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-18T12:12:29.311011128Z",
+  "genesis_time": "2022-11-18T13:46:31.956476842Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "372D0B76C118DBAC7DDDD7B62C477B9234DF07C2",
-      "name": "orange-tree",
+      "address": "03A28C653A3D5B8EFA39D5DB14E05CBFA58CF058",
+      "name": "loud-flowers",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "zfG79yhF3CNmAPIDFzKP1VriGIyKZwWr2AqM4H2Zdi0="
+        "value": "daaQJMM2a07H+Vkg3wLuuFkw0lPZEL7DtYQYbKj5K8s="
       }
     }
   ]
