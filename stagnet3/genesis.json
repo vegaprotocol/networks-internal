@@ -1,0 +1,391 @@
+{
+  "app_hash": "",
+  "app_state": {
+    "assets": {
+      "16ae5dbb1fd7aa2ddef725703bfe66b3647a4da7b844bfdd04e985756f53d9d6": {
+        "decimals": 18,
+        "name": "tDAI Fairground",
+        "quantum": "1",
+        "source": {
+          "erc20": {
+            "contract_address": "0x973cB2a51F83a707509fe7cBafB9206982E1c3ad",
+            "lifetime_limit": "",
+            "withdraw_threshold": ""
+          }
+        },
+        "symbol": "tDAI",
+        "total_supply": "64999723000000000000000000"
+      },
+      "4e4e80abff30cab933b8c4ac6befc618372eb76b2cbddc337eff0b4a3a4d25b8": {
+        "decimals": 5,
+        "name": "tEURO Fairground",
+        "quantum": "1",
+        "source": {
+          "erc20": {
+            "contract_address": "0x7119500C6327928ae4E64531feBB258f0a33A617",
+            "lifetime_limit": "",
+            "withdraw_threshold": ""
+          }
+        },
+        "symbol": "tEURO",
+        "total_supply": "64999723000000000000000000"
+      },
+      "XYZalpha": {
+        "decimals": 5,
+        "name": "XYZ (α alpha)",
+        "quantum": "1",
+        "source": {
+          "builtin_asset": {
+            "max_faucet_amount_mint": "5000000000"
+          }
+        },
+        "symbol": "XYZalpha",
+        "total_supply": "100000000000000000000"
+      },
+      "XYZbeta": {
+        "decimals": 5,
+        "name": "XYZ (β beta)",
+        "quantum": "1",
+        "source": {
+          "builtin_asset": {
+            "max_faucet_amount_mint": "100000000000"
+          }
+        },
+        "symbol": "XYZbeta",
+        "total_supply": "1000000000"
+      },
+      "XYZdelta": {
+        "decimals": 5,
+        "name": "XYZ (δ delta)",
+        "quantum": "1",
+        "source": {
+          "builtin_asset": {
+            "max_faucet_amount_mint": "100000000000"
+          }
+        },
+        "symbol": "XYZdelta",
+        "total_supply": "1000000000"
+      },
+      "XYZepsilon": {
+        "decimals": 5,
+        "name": "XYZ (ε epsilon)",
+        "quantum": "1",
+        "source": {
+          "builtin_asset": {
+            "max_faucet_amount_mint": "100000000000"
+          }
+        },
+        "symbol": "XYZepsilon",
+        "total_supply": "1000000000"
+      },
+      "XYZgamma": {
+        "decimals": 5,
+        "name": "XYZ (γ gamma)",
+        "quantum": "1",
+        "source": {
+          "builtin_asset": {
+            "max_faucet_amount_mint": "100000000000"
+          }
+        },
+        "symbol": "XYZgamma",
+        "total_supply": "1000000000"
+      },
+      "e1cc8e2598d11c4c3ccc4521f0fc06f4b6d940a8607ca38b72bec138600f0525": {
+        "decimals": 8,
+        "name": "tBTC Fairground",
+        "quantum": "1",
+        "source": {
+          "erc20": {
+            "contract_address": "0x123cB4a2AB190F88a50646D5436aB3F5859107Ed",
+            "lifetime_limit": "",
+            "withdraw_threshold": ""
+          }
+        },
+        "symbol": "tBTC",
+        "total_supply": "64999723000000000000000000"
+      },
+      "ede4076aef07fd79502d14326c54ab3911558371baaf697a19d077f4f89de399": {
+        "decimals": 6,
+        "name": "tUSDC Fairground",
+        "quantum": "1",
+        "source": {
+          "erc20": {
+            "contract_address": "0x40ff2D218740EF033b43B8Ce0342aEBC81934554",
+            "lifetime_limit": "",
+            "withdraw_threshold": ""
+          }
+        },
+        "symbol": "tUSDC",
+        "total_supply": "64999723000000000000000000"
+      },
+      "fBTC": {
+        "decimals": 8,
+        "name": "BTC (fake)",
+        "quantum": "1",
+        "source": {
+          "builtin_asset": {
+            "max_faucet_amount_mint": "1000000000"
+          }
+        },
+        "symbol": "fBTC",
+        "total_supply": "21000000000"
+      },
+      "fDAI": {
+        "decimals": 18,
+        "name": "DAI (fake)",
+        "quantum": "1",
+        "source": {
+          "builtin_asset": {
+            "max_faucet_amount_mint": "10000000000000000000000"
+          }
+        },
+        "symbol": "fDAI",
+        "total_supply": "1000000000000000000000"
+      },
+      "fEURO": {
+        "decimals": 5,
+        "name": "EURO (fake)",
+        "quantum": "1",
+        "source": {
+          "builtin_asset": {
+            "max_faucet_amount_mint": "10000000000"
+          }
+        },
+        "symbol": "fEURO",
+        "total_supply": "1000000000"
+      },
+      "fUSDC": {
+        "decimals": 6,
+        "name": "USDC (fake)",
+        "quantum": "1",
+        "source": {
+          "builtin_asset": {
+            "max_faucet_amount_mint": "10000000000000"
+          }
+        },
+        "symbol": "fUSDC",
+        "total_supply": "10000000000"
+      },
+      "fc7fd956078fb1fc9db5c19b88f0874c4299b2a7639ad05a47a28c0aef291b55": {
+        "decimals": 18,
+        "name": "Vega (stagnet3)",
+        "quantum": "1",
+        "source": {
+          "erc20": {
+            "contract_address": "0xF136d9Ca8f9C2F6501487994e498fCDC48813Ae6",
+            "lifetime_limit": "",
+            "withdraw_threshold": ""
+          }
+        },
+        "symbol": "VEGA",
+        "total_supply": "64999723000000000000000000"
+      }
+    },
+    "network": {
+      "replay_attack_threshold": 150
+    },
+    "network_limits": {
+      "propose_asset_enabled": true,
+      "propose_market_enabled": true
+    },
+    "network_parameters": {
+      "blockchains.ethereumConfig": "{ \"network_id\": \"11155111\", \"chain_id\": \"11155111\", \"confirmations\": 3, \"collateral_bridge_contract\": { \"address\": \"0x0004b909dbb8b1D5a1D3A5978bc9f9F51a110D01\" }, \"staking_bridge_contract\": { \"address\": \"0x871c40080F6bd7Ab68c78399a9Bf46ada3aF99AB\", \"deployment_block_height\": 2022884 }, \"token_vesting_contract\": { \"address\": \"0x7B8bbe0B7beD8505DBB4c03Aa13ABEfc7F6cd242\", \"deployment_block_height\": 2022888 }, \"multisig_control_contract\": { \"address\": \"0xA52ecAD5089Dea6ca966C96d64d4B78614396941\", \"deployment_block_height\": 2022880 } }",
+      "governance.proposal.asset.maxClose": "8760h0m0s",
+      "governance.proposal.asset.maxEnact": "8760h0m0s",
+      "governance.proposal.asset.minClose": "5s",
+      "governance.proposal.asset.minEnact": "5s",
+      "governance.proposal.asset.minProposerBalance": "1",
+      "governance.proposal.asset.minVoterBalance": "1",
+      "governance.proposal.asset.requiredMajority": "0.66",
+      "governance.proposal.asset.requiredParticipation": "0.5",
+      "governance.proposal.freeform.maxClose": "8760h0m0s",
+      "governance.proposal.freeform.minClose": "1h0m0s",
+      "governance.proposal.freeform.minProposerBalance": "1",
+      "governance.proposal.freeform.minVoterBalance": "1",
+      "governance.proposal.freeform.requiredMajority": "0.66",
+      "governance.proposal.freeform.requiredParticipation": "0.3",
+      "governance.proposal.market.maxClose": "8760h0m0s",
+      "governance.proposal.market.maxEnact": "8760h0m0s",
+      "governance.proposal.market.minClose": "5s",
+      "governance.proposal.market.minEnact": "5s",
+      "governance.proposal.market.minProposerBalance": "1",
+      "governance.proposal.market.minVoterBalance": "1",
+      "governance.proposal.market.requiredMajority": "0.66",
+      "governance.proposal.market.requiredParticipation": "0.0",
+      "governance.proposal.updateAsset.maxClose": "8760h0m0s",
+      "governance.proposal.updateAsset.maxEnact": "8760h0m0s",
+      "governance.proposal.updateAsset.minClose": "1h0m0s",
+      "governance.proposal.updateAsset.minEnact": "1h0m0s",
+      "governance.proposal.updateAsset.minProposerBalance": "1",
+      "governance.proposal.updateAsset.minVoterBalance": "1",
+      "governance.proposal.updateAsset.requiredMajority": "0.66",
+      "governance.proposal.updateAsset.requiredParticipation": "0.3",
+      "governance.proposal.updateMarket.maxClose": "8760h0m0s",
+      "governance.proposal.updateMarket.maxEnact": "8760h0m0s",
+      "governance.proposal.updateMarket.minClose": "5s",
+      "governance.proposal.updateMarket.minEnact": "5s",
+      "governance.proposal.updateMarket.minProposerBalance": "1",
+      "governance.proposal.updateMarket.minVoterBalance": "1",
+      "governance.proposal.updateMarket.requiredMajority": "0.66",
+      "governance.proposal.updateMarket.requiredParticipation": "0.0",
+      "governance.proposal.updateNetParam.maxClose": "8760h0m0s",
+      "governance.proposal.updateNetParam.maxEnact": "8760h0m0s",
+      "governance.proposal.updateNetParam.minClose": "5s",
+      "governance.proposal.updateNetParam.minEnact": "5s",
+      "governance.proposal.updateNetParam.minProposerBalance": "1",
+      "governance.proposal.updateNetParam.minVoterBalance": "1",
+      "governance.proposal.updateNetParam.requiredMajority": "0.5",
+      "governance.proposal.updateNetParam.requiredParticipation": "0.0",
+      "market.auction.maximumDuration": "168h0m0s",
+      "market.auction.minimumDuration": "10s",
+      "market.fee.factors.infrastructureFee": "0.0005",
+      "market.fee.factors.makerFee": "0.0002",
+      "market.liquidity.bondPenaltyParameter": "0.000001",
+      "market.liquidity.maximumLiquidityFeeFactorLevel": "1",
+      "market.liquidity.minimum.probabilityOfTrading.lpOrders": "1e-8",
+      "market.liquidity.probabilityOfTrading.tau.scaling": "10.0",
+      "market.liquidity.providers.fee.distributionTimeStep": "0m",
+      "market.liquidity.stakeToCcySiskas": "1.0",
+      "market.liquidity.targetstake.triggering.ratio": "0.7",
+      "market.liquidityProvision.shapes.maxSize": "100",
+      "market.margin.scalingFactors": "{\"search_level\": 1.1, \"initial_margin\": 2.5, \"collateral_release\": 2.7}",
+      "market.monitor.price.defaultParameters": "{\"triggers\": [{\"auction_extension\": 300, \"horizon\": 43200, \"probability\": \"0.9999999\"}] }",
+      "market.stake.target.scalingFactor": "0.1",
+      "market.stake.target.timeWindow": "1h0m0s",
+      "market.value.windowLength": "1h0m0s",
+      "network.checkpoint.timeElapsedBetweenCheckpoints": "1m",
+      "network.transaction.defaultgas": "1",
+      "network.transactions.maxgasperblock": "500000",
+      "network.validators.minimumEthereumEventsForNewValidator": "10",
+      "network.validators.multisig.numberOfSigners": "4",
+      "network.validators.tendermint.number": "4",
+      "reward.asset": "fc7fd956078fb1fc9db5c19b88f0874c4299b2a7639ad05a47a28c0aef291b55",
+      "reward.staking.delegation.competitionLevel": "1.01",
+      "reward.staking.delegation.delegatorShare": "0.883",
+      "reward.staking.delegation.maxPayoutPerEpoch": "7000000000000000000000",
+      "reward.staking.delegation.maxPayoutPerParticipant": "700000000000000000000",
+      "reward.staking.delegation.minValidators": "3",
+      "reward.staking.delegation.minimumValidatorStake": "3000000000000000000000",
+      "reward.staking.delegation.payoutDelay": "5m",
+      "reward.staking.delegation.payoutFraction": "0.007",
+      "snapshot.interval.length": "300",
+      "spam.pow.difficulty": "2",
+      "spam.pow.numberOfTxPerBlock": "100",
+      "spam.protection.delegation.min.tokens": "1000000000000000000",
+      "spam.protection.max.delegations": "390",
+      "spam.protection.max.proposals": "100",
+      "spam.protection.max.votes": "100",
+      "spam.protection.proposal.min.tokens": "1000000000000000000",
+      "spam.protection.voting.min.tokens": "1000000000000000000",
+      "validators.delegation.minAmount": "100000000000000000",
+      "validators.epoch.length": "1m",
+      "validators.vote.required": "0.67"
+    },
+    "network_parameters_checkpoint_overwrite": null,
+    "validators": {
+      "10F7Ac3rO5MxfZCdU80Eid9ssO/4ynXadQzts8f6nMs=": {
+        "avatar_url": "",
+        "country": "",
+        "ethereum_address": "0xa48DD5127e05B6928B00945F9E89Eed6E3b1deb5",
+        "id": "93ac271ab95038333587e47d11461e6edc0126e6e77156281c545f4c5650a6d0",
+        "info_url": "",
+        "name": "",
+        "tm_pub_key": "10F7Ac3rO5MxfZCdU80Eid9ssO/4ynXadQzts8f6nMs=",
+        "vega_pub_key": "65c80e2f5f84e2109eec30810f137ba04cbbecaba8f27706c146cc6c6f90db29",
+        "vega_pub_key_index": 1
+      },
+      "YSGPTUyNyCb8+FxM008CKnhjo8HPdiirgAZYTtF7hT4=": {
+        "avatar_url": "",
+        "country": "",
+        "ethereum_address": "0xF24e0f77B53900a92549eB9098e31A9D714BF4A7",
+        "id": "9a13de2548fef30d928e71e76004c98ec7ad9d8fc3ddcd16ddee210b28ea4cfc",
+        "info_url": "",
+        "name": "",
+        "tm_pub_key": "YSGPTUyNyCb8+FxM008CKnhjo8HPdiirgAZYTtF7hT4=",
+        "vega_pub_key": "bd6339d2428c79ac3bc9011771236d17bac92bcb1806423388d52fb440043aef",
+        "vega_pub_key_index": 1
+      },
+      "nHaWYyiz1pVNa9M0MfAGfRwANAZmG3FfEKHrl0OPYIw=": {
+        "avatar_url": "",
+        "country": "",
+        "ethereum_address": "0x3DB53a02678122BA3f72dEb1F9091a728D947a12",
+        "id": "cdadcf885556e372b6b39679d6ad46854d1d9c1e982da7ff2929544df01f9088",
+        "info_url": "",
+        "name": "",
+        "tm_pub_key": "nHaWYyiz1pVNa9M0MfAGfRwANAZmG3FfEKHrl0OPYIw=",
+        "vega_pub_key": "121934387281812a2d5e6913e5d57c0f85a8f169e2752347ee2e23b52d46623c",
+        "vega_pub_key_index": 1
+      },
+      "qcjt5Fwmgt9IAM//TXGDVjolhuQ3L6r6E+Cqb/9YgqY=": {
+        "avatar_url": "",
+        "country": "",
+        "ethereum_address": "0x65E0550B02459b630Bb89Ec16F130209f2Ff8F0F",
+        "id": "f337b5cc50c49a928e49129a2eca62277a81b4b7336b6e4131f8f0431e8db029",
+        "info_url": "",
+        "name": "",
+        "tm_pub_key": "qcjt5Fwmgt9IAM//TXGDVjolhuQ3L6r6E+Cqb/9YgqY=",
+        "vega_pub_key": "02a6531716b7a6d82779b7793c3ad2fcb47290ea2ff0912c56f61219bd9675ff",
+        "vega_pub_key_index": 1
+      }
+    }
+  },
+  "chain_id": "vega-stagnet3-202211190002",
+  "consensus_params": {
+    "block": {
+      "max_bytes": "22020096",
+      "max_gas": "-1",
+      "time_iota_ms": "1"
+    },
+    "evidence": {
+      "max_age_duration": "10",
+      "max_age_num_blocks": "10",
+      "max_bytes": "1048576"
+    },
+    "validator": {
+      "pub_key_types": [
+        "ed25519"
+      ]
+    },
+    "version": {}
+  },
+  "genesis_time": "2022-11-19T00:02:43.691201464Z",
+  "initial_height": "0",
+  "validators": [
+    {
+      "address": "641F6AAA6C6E1084D9AF204FD190C8900AD519E6",
+      "name": "Validator n01",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "10F7Ac3rO5MxfZCdU80Eid9ssO/4ynXadQzts8f6nMs="
+      }
+    },
+    {
+      "address": "62EAA20DE41A3E582266CC0879EBA1C97CEDCAA9",
+      "name": "Validator n02",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "nHaWYyiz1pVNa9M0MfAGfRwANAZmG3FfEKHrl0OPYIw="
+      }
+    },
+    {
+      "address": "318CA0B13C30B22AA0E4B8BAFA9C29276411EB01",
+      "name": "Validator n03",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "qcjt5Fwmgt9IAM//TXGDVjolhuQ3L6r6E+Cqb/9YgqY="
+      }
+    },
+    {
+      "address": "F9BC7362A69FF2B96391A3F927F181B552154C08",
+      "name": "Validator n04",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "YSGPTUyNyCb8+FxM008CKnhjo8HPdiirgAZYTtF7hT4="
+      }
+    }
+  ]
+}
