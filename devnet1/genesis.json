@@ -290,17 +290,6 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
-      "J0b1gqfLjYAynoLa28dvqsW1L3+VoDYC5RxxrTIAwqc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/lcjrlwhginchgyf7i229mp08hgfcvc1p?d=identicon",
-        "country": "PA",
-        "ethereum_address": "0x1DE527DF113b8ffE86B1e8823CB96566fA7b4CcC",
-        "id": "ef619e045b151ff641808cb81b2bc20e4dabdbb3d64e84219b86d54952c40650",
-        "info_url": "https://en.wikipedia.org/wiki/Deh_Now-e_Kakan",
-        "name": "healthy-table",
-        "tm_pub_key": "J0b1gqfLjYAynoLa28dvqsW1L3+VoDYC5RxxrTIAwqc=",
-        "vega_pub_key": "3612ddf3fc88bfa701bc6da089be06b3d06aee871807e008b78c52a3018067b6",
-        "vega_pub_key_index": 1
-      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -310,6 +299,17 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
+        "vega_pub_key_index": 1
+      },
+      "O/fYVwwmFd1FO7C9vBi3aLCqV4VFf4a3zTpc4C07TLI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/fhn8lvvi7yxnphzdjth9kcxeeoxfhrlw?d=identicon",
+        "country": "AC",
+        "ethereum_address": "0xeDc6A46Bfb3bC79ef1E18c5cB3c88502872B41FB",
+        "id": "5fd002de975276ae18c35dcd48d509c82fa63a490291ac29ae9eb5af2ad63e46",
+        "info_url": "https://en.wikipedia.org/wiki/Akari_Oumi",
+        "name": "salmon-sheep",
+        "tm_pub_key": "O/fYVwwmFd1FO7C9vBi3aLCqV4VFf4a3zTpc4C07TLI=",
+        "vega_pub_key": "15153584133444aa30c9ec2c5da63056e4d421850834d14686bc41721033ec35",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211181556",
+  "chain_id": "vega-devnet1-202211202047",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-18T15:56:37.147929569Z",
+  "genesis_time": "2022-11-20T20:47:50.218446141Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "0EDE01E39664400D16E9FD74AE549C94B300D35D",
-      "name": "healthy-table",
+      "address": "828BC7781C974A43A3C2B79EAA26F19A11AFC07F",
+      "name": "salmon-sheep",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "J0b1gqfLjYAynoLa28dvqsW1L3+VoDYC5RxxrTIAwqc="
+        "value": "O/fYVwwmFd1FO7C9vBi3aLCqV4VFf4a3zTpc4C07TLI="
       }
     }
   ]
