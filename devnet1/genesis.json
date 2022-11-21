@@ -268,6 +268,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "7xcx7/EMWDUuRXYHnMI9cS1QpAH0xjOkbRWXy9l9EpU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/gl27iycsi5v0henhsxoaiy3qshm8zigu?d=identicon",
+        "country": "CM",
+        "ethereum_address": "0x39Ce4acB2f525f17404b87AcFf3f5773Ac4Bf597",
+        "id": "86cac03bf4f19f38a3fd7f1350d2dd0fcbdc31d2ee0bb5989609eeae8107e021",
+        "info_url": "https://en.wikipedia.org/wiki/Balatonszentgy%C3%B6rgy",
+        "name": "rich-sheep",
+        "tm_pub_key": "7xcx7/EMWDUuRXYHnMI9cS1QpAH0xjOkbRWXy9l9EpU=",
+        "vega_pub_key": "0e5ccad17905a24518fbe2a3ca8041df2cabf3326d40c52ab6261da356d896e8",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -301,17 +312,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "oD9Bv1pc9ZDaVg0FZOekR7fvLKVHBn90iAex/XTr6Rk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/um1npzukvfr8jnlx671xwnoeh5bycdpn?d=identicon",
-        "country": "YO",
-        "ethereum_address": "0xb6B91f32374E7C6b9B6d3405B3e42E200abfa2D0",
-        "id": "8f3ddff245b5c9e70395e30dc3e9fb9e67b51f9bfeb0cee5e313becbfd76c984",
-        "info_url": "https://en.wikipedia.org/wiki/Exertris",
-        "name": "disturbed-roof",
-        "tm_pub_key": "oD9Bv1pc9ZDaVg0FZOekR7fvLKVHBn90iAex/XTr6Rk=",
-        "vega_pub_key": "5066212fc85b2edaac11a3f5800f98b011a972931dcf54aab9e6658e4c0a1db5",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211211208",
+  "chain_id": "vega-devnet1-202211211501",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-21T12:08:41.034356369Z",
+  "genesis_time": "2022-11-21T15:01:31.532705944Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "C84AD2324508A2D5DDC1E77B1FCD58142DA52D3C",
-      "name": "disturbed-roof",
+      "address": "D1DDA9BECA6B89C1ED8717E9E8483AC9D02A8F0D",
+      "name": "rich-sheep",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "oD9Bv1pc9ZDaVg0FZOekR7fvLKVHBn90iAex/XTr6Rk="
+        "value": "7xcx7/EMWDUuRXYHnMI9cS1QpAH0xjOkbRWXy9l9EpU="
       }
     }
   ]
