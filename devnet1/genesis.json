@@ -268,6 +268,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "+n1o2PKzuo9bfP3WOxy6/gxmH9RRJ1f3YSkH25lNbPQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/suwyqit0b5i3wlftahon30n4hgvtc3hi?d=identicon",
+        "country": "GP",
+        "ethereum_address": "0x63B42f287e04E5da12B80414991C4F210A6A9465",
+        "id": "d6351b2e61e6eda8dc56fdfcf5e9a8bdbab860bb780bc4106f68226bd59941a7",
+        "info_url": "https://en.wikipedia.org/wiki/%C4%B0n%C3%B6n%C3%BC_Military_Quarter_and_War_Museum",
+        "name": "ideal-cat",
+        "tm_pub_key": "+n1o2PKzuo9bfP3WOxy6/gxmH9RRJ1f3YSkH25lNbPQ=",
+        "vega_pub_key": "749645e7bca3ca99edd1af2c5c0e3d9b50b5e8f0d48419e0763bdfb641e80a95",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -301,17 +312,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "PKJ90i7QeSVsBHtPh4XaQbnbr6BwmT9rz29Yw9OfZIs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/8jijqoi4avgufyqebgxg0svy52ep1cl2?d=identicon",
-        "country": "RT",
-        "ethereum_address": "0xAE874FcCBB87870ac2813E7953d951A61f13Afc3",
-        "id": "6e43863018bce122767304bb6ec2f0260c5df60a59d7fb82ae1fdc12ddd77533",
-        "info_url": "https://en.wikipedia.org/wiki/Windtower_(Alberta)",
-        "name": "distressed-pool",
-        "tm_pub_key": "PKJ90i7QeSVsBHtPh4XaQbnbr6BwmT9rz29Yw9OfZIs=",
-        "vega_pub_key": "2200eb4488b07099e3f4c17f12cd4d92b662979091153a78ecefcb660421f0ac",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211211849",
+  "chain_id": "vega-devnet1-202211211930",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-21T18:49:30.375498275Z",
+  "genesis_time": "2022-11-21T19:30:32.322197227Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "197DE98CEB413065A227EAA566BAA804F786C60C",
-      "name": "distressed-pool",
+      "address": "E1F4C67F155006A776FB53516B0A97AE3969513A",
+      "name": "ideal-cat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "PKJ90i7QeSVsBHtPh4XaQbnbr6BwmT9rz29Yw9OfZIs="
+        "value": "+n1o2PKzuo9bfP3WOxy6/gxmH9RRJ1f3YSkH25lNbPQ="
       }
     }
   ]
