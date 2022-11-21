@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "O/fYVwwmFd1FO7C9vBi3aLCqV4VFf4a3zTpc4C07TLI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/fhn8lvvi7yxnphzdjth9kcxeeoxfhrlw?d=identicon",
-        "country": "AC",
-        "ethereum_address": "0xeDc6A46Bfb3bC79ef1E18c5cB3c88502872B41FB",
-        "id": "5fd002de975276ae18c35dcd48d509c82fa63a490291ac29ae9eb5af2ad63e46",
-        "info_url": "https://en.wikipedia.org/wiki/Akari_Oumi",
-        "name": "salmon-sheep",
-        "tm_pub_key": "O/fYVwwmFd1FO7C9vBi3aLCqV4VFf4a3zTpc4C07TLI=",
-        "vega_pub_key": "15153584133444aa30c9ec2c5da63056e4d421850834d14686bc41721033ec35",
+      "K95eqaHI71T2SqnAWwRu19k/CiKMuNeK8+CUuB3z0yY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/vs3nujqmfj8p911mqb7kz1t81vyy3wsn?d=identicon",
+        "country": "UL",
+        "ethereum_address": "0x6c81D9fCA758340657e76D1ef93aFAcb0C22c718",
+        "id": "dc71e4cff1e3ee18af1cef02e3ea16ac8b6a63ed10b71a4e7fbfe3764149e614",
+        "info_url": "https://en.wikipedia.org/wiki/Harry_Hinkel",
+        "name": "whining-window",
+        "tm_pub_key": "K95eqaHI71T2SqnAWwRu19k/CiKMuNeK8+CUuB3z0yY=",
+        "vega_pub_key": "819a99ec9ed047e405b45b44fb67beb66224100f78ab2ce56b30db934d940443",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211202047",
+  "chain_id": "vega-devnet1-202211211020",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-20T20:47:50.218446141Z",
+  "genesis_time": "2022-11-21T10:20:33.612331782Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "828BC7781C974A43A3C2B79EAA26F19A11AFC07F",
-      "name": "salmon-sheep",
+      "address": "8789F338DA8227C7B72090E3792B828CEAF08B98",
+      "name": "whining-window",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "O/fYVwwmFd1FO7C9vBi3aLCqV4VFf4a3zTpc4C07TLI="
+        "value": "K95eqaHI71T2SqnAWwRu19k/CiKMuNeK8+CUuB3z0yY="
       }
     }
   ]
