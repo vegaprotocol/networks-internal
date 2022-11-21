@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "t1kMtWKqne7hTwtVLXv2BviyTGodbHrBU7/e16ygCbw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/a9btaruq3dfe2tw398qdg1o97kkedpqo?d=identicon",
-        "country": "QU",
-        "ethereum_address": "0x2c55eF401E32a66C6dC346c279514091d8f70D81",
-        "id": "088e8713f5fb129b5b081757ecaa8bcf09305ca452a292f02d066550f88e65e0",
-        "info_url": "https://en.wikipedia.org/wiki/Nick_Maximov",
-        "name": "distressed-party",
-        "tm_pub_key": "t1kMtWKqne7hTwtVLXv2BviyTGodbHrBU7/e16ygCbw=",
-        "vega_pub_key": "72e8e8175747f1640670599d115776b9abd1cfb93a24a0dafbc5bbeeb06b3821",
+      "oD9Bv1pc9ZDaVg0FZOekR7fvLKVHBn90iAex/XTr6Rk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/um1npzukvfr8jnlx671xwnoeh5bycdpn?d=identicon",
+        "country": "YO",
+        "ethereum_address": "0xb6B91f32374E7C6b9B6d3405B3e42E200abfa2D0",
+        "id": "8f3ddff245b5c9e70395e30dc3e9fb9e67b51f9bfeb0cee5e313becbfd76c984",
+        "info_url": "https://en.wikipedia.org/wiki/Exertris",
+        "name": "disturbed-roof",
+        "tm_pub_key": "oD9Bv1pc9ZDaVg0FZOekR7fvLKVHBn90iAex/XTr6Rk=",
+        "vega_pub_key": "5066212fc85b2edaac11a3f5800f98b011a972931dcf54aab9e6658e4c0a1db5",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211211056",
+  "chain_id": "vega-devnet1-202211211208",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-21T10:56:51.204028136Z",
+  "genesis_time": "2022-11-21T12:08:41.034356369Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "9452A524BA41294E4116B15A3370B7F8A5B4F5EB",
-      "name": "distressed-party",
+      "address": "C84AD2324508A2D5DDC1E77B1FCD58142DA52D3C",
+      "name": "disturbed-roof",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "t1kMtWKqne7hTwtVLXv2BviyTGodbHrBU7/e16ygCbw="
+        "value": "oD9Bv1pc9ZDaVg0FZOekR7fvLKVHBn90iAex/XTr6Rk="
       }
     }
   ]
