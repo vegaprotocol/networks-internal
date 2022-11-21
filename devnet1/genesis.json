@@ -268,17 +268,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "7xcx7/EMWDUuRXYHnMI9cS1QpAH0xjOkbRWXy9l9EpU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/gl27iycsi5v0henhsxoaiy3qshm8zigu?d=identicon",
-        "country": "CM",
-        "ethereum_address": "0x39Ce4acB2f525f17404b87AcFf3f5773Ac4Bf597",
-        "id": "86cac03bf4f19f38a3fd7f1350d2dd0fcbdc31d2ee0bb5989609eeae8107e021",
-        "info_url": "https://en.wikipedia.org/wiki/Balatonszentgy%C3%B6rgy",
-        "name": "rich-sheep",
-        "tm_pub_key": "7xcx7/EMWDUuRXYHnMI9cS1QpAH0xjOkbRWXy9l9EpU=",
-        "vega_pub_key": "0e5ccad17905a24518fbe2a3ca8041df2cabf3326d40c52ab6261da356d896e8",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -312,6 +301,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "mtFm7wZsPq3HryRJR7E35ciB6QRckLAK9UWTC3OwnpY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/vjjbfwpszopppkldd47ddm9dix1b9du8?d=identicon",
+        "country": "KG",
+        "ethereum_address": "0x566795A3cB75249D507b8bd978e2A346C904bA8C",
+        "id": "c7f526e49cd5fc08c64f5f1dbd2467b0e8900b4f4bb87edec86ab4c29ab465db",
+        "info_url": "https://en.wikipedia.org/wiki/F._Norton_Goddard",
+        "name": "alive-milk",
+        "tm_pub_key": "mtFm7wZsPq3HryRJR7E35ciB6QRckLAK9UWTC3OwnpY=",
+        "vega_pub_key": "5bd07b9a5cce398fb1fae599d76126667fea8886ec595f7781cb034fa0707153",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211211501",
+  "chain_id": "vega-devnet1-202211211708",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-21T15:01:31.532705944Z",
+  "genesis_time": "2022-11-21T17:08:51.753545486Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "D1DDA9BECA6B89C1ED8717E9E8483AC9D02A8F0D",
-      "name": "rich-sheep",
+      "address": "33FDC6551269145A1153F65EE44867C82A39D7D8",
+      "name": "alive-milk",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "7xcx7/EMWDUuRXYHnMI9cS1QpAH0xjOkbRWXy9l9EpU="
+        "value": "mtFm7wZsPq3HryRJR7E35ciB6QRckLAK9UWTC3OwnpY="
       }
     }
   ]
