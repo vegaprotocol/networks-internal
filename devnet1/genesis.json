@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "mtFm7wZsPq3HryRJR7E35ciB6QRckLAK9UWTC3OwnpY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/vjjbfwpszopppkldd47ddm9dix1b9du8?d=identicon",
-        "country": "KG",
-        "ethereum_address": "0x566795A3cB75249D507b8bd978e2A346C904bA8C",
-        "id": "c7f526e49cd5fc08c64f5f1dbd2467b0e8900b4f4bb87edec86ab4c29ab465db",
-        "info_url": "https://en.wikipedia.org/wiki/F._Norton_Goddard",
-        "name": "alive-milk",
-        "tm_pub_key": "mtFm7wZsPq3HryRJR7E35ciB6QRckLAK9UWTC3OwnpY=",
-        "vega_pub_key": "5bd07b9a5cce398fb1fae599d76126667fea8886ec595f7781cb034fa0707153",
+      "PKJ90i7QeSVsBHtPh4XaQbnbr6BwmT9rz29Yw9OfZIs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/8jijqoi4avgufyqebgxg0svy52ep1cl2?d=identicon",
+        "country": "RT",
+        "ethereum_address": "0xAE874FcCBB87870ac2813E7953d951A61f13Afc3",
+        "id": "6e43863018bce122767304bb6ec2f0260c5df60a59d7fb82ae1fdc12ddd77533",
+        "info_url": "https://en.wikipedia.org/wiki/Windtower_(Alberta)",
+        "name": "distressed-pool",
+        "tm_pub_key": "PKJ90i7QeSVsBHtPh4XaQbnbr6BwmT9rz29Yw9OfZIs=",
+        "vega_pub_key": "2200eb4488b07099e3f4c17f12cd4d92b662979091153a78ecefcb660421f0ac",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211211708",
+  "chain_id": "vega-devnet1-202211211849",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-21T17:08:51.753545486Z",
+  "genesis_time": "2022-11-21T18:49:30.375498275Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "33FDC6551269145A1153F65EE44867C82A39D7D8",
-      "name": "alive-milk",
+      "address": "197DE98CEB413065A227EAA566BAA804F786C60C",
+      "name": "distressed-pool",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "mtFm7wZsPq3HryRJR7E35ciB6QRckLAK9UWTC3OwnpY="
+        "value": "PKJ90i7QeSVsBHtPh4XaQbnbr6BwmT9rz29Yw9OfZIs="
       }
     }
   ]
