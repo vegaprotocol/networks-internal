@@ -268,15 +268,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "+n1o2PKzuo9bfP3WOxy6/gxmH9RRJ1f3YSkH25lNbPQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/suwyqit0b5i3wlftahon30n4hgvtc3hi?d=identicon",
-        "country": "GP",
-        "ethereum_address": "0x63B42f287e04E5da12B80414991C4F210A6A9465",
-        "id": "d6351b2e61e6eda8dc56fdfcf5e9a8bdbab860bb780bc4106f68226bd59941a7",
-        "info_url": "https://en.wikipedia.org/wiki/%C4%B0n%C3%B6n%C3%BC_Military_Quarter_and_War_Museum",
-        "name": "ideal-cat",
-        "tm_pub_key": "+n1o2PKzuo9bfP3WOxy6/gxmH9RRJ1f3YSkH25lNbPQ=",
-        "vega_pub_key": "749645e7bca3ca99edd1af2c5c0e3d9b50b5e8f0d48419e0763bdfb641e80a95",
+      "1b2XzUk1I32w11kAnrZIKZnYJcuAvA29zhN0vzvrVY8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/n0tj9dgrw4um6ec9qwjh7kokkeafcrza?d=identicon",
+        "country": "EM",
+        "ethereum_address": "0xeEcFb9D0ABEDd8a9E41b01003d99aCADAD4a5EF2",
+        "id": "464aeca991abc746efb479cd506d185799f6f174019f1b7ab516149c185464a1",
+        "info_url": "https://en.wikipedia.org/wiki/Heteroponera_majeri",
+        "name": "faint-butterfly",
+        "tm_pub_key": "1b2XzUk1I32w11kAnrZIKZnYJcuAvA29zhN0vzvrVY8=",
+        "vega_pub_key": "6f0f3e4c6175861954da3c4b7e5646f3b59816fedaf14f371aefd1b558fd0fa3",
         "vega_pub_key_index": 1
       },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211211930",
+  "chain_id": "vega-devnet1-202211221434",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-21T19:30:32.322197227Z",
+  "genesis_time": "2022-11-22T14:34:54.476337419Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "E1F4C67F155006A776FB53516B0A97AE3969513A",
-      "name": "ideal-cat",
+      "address": "713B11D2C410DD8C9E81E567FA2AE3A19B9E9A09",
+      "name": "faint-butterfly",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "+n1o2PKzuo9bfP3WOxy6/gxmH9RRJ1f3YSkH25lNbPQ="
+        "value": "1b2XzUk1I32w11kAnrZIKZnYJcuAvA29zhN0vzvrVY8="
       }
     }
   ]
