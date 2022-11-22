@@ -268,17 +268,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "1b2XzUk1I32w11kAnrZIKZnYJcuAvA29zhN0vzvrVY8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/n0tj9dgrw4um6ec9qwjh7kokkeafcrza?d=identicon",
-        "country": "EM",
-        "ethereum_address": "0xeEcFb9D0ABEDd8a9E41b01003d99aCADAD4a5EF2",
-        "id": "464aeca991abc746efb479cd506d185799f6f174019f1b7ab516149c185464a1",
-        "info_url": "https://en.wikipedia.org/wiki/Heteroponera_majeri",
-        "name": "faint-butterfly",
-        "tm_pub_key": "1b2XzUk1I32w11kAnrZIKZnYJcuAvA29zhN0vzvrVY8=",
-        "vega_pub_key": "6f0f3e4c6175861954da3c4b7e5646f3b59816fedaf14f371aefd1b558fd0fa3",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -322,10 +311,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "uGxDIxU2hq4AdYBhBZoTxbnjIIM4r6lycpoP9TBGQUc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/i5qkr79jvlin3hvxcyxo30gncnqg9rxq?d=identicon",
+        "country": "BS",
+        "ethereum_address": "0x500F6E193ffe5FD28281d30bB5f4CDC6aF8FCC10",
+        "id": "9b08f26e8ace6835ef90e054305d622d10b73c9ae5b73e4511eed588f939cbd3",
+        "info_url": "https://en.wikipedia.org/wiki/Facial_care",
+        "name": "mango-coffee",
+        "tm_pub_key": "uGxDIxU2hq4AdYBhBZoTxbnjIIM4r6lycpoP9TBGQUc=",
+        "vega_pub_key": "e21947a638afcaf52bbb0882ff9c0003e841946d8c0b8c26f01240f2279e5ff8",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202211221434",
+  "chain_id": "vega-devnet1-202211221609",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-22T14:34:54.476337419Z",
+  "genesis_time": "2022-11-22T16:09:04.995732673Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "713B11D2C410DD8C9E81E567FA2AE3A19B9E9A09",
-      "name": "faint-butterfly",
+      "address": "014AB00741B06B649BFD38976767722AD842639C",
+      "name": "mango-coffee",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "1b2XzUk1I32w11kAnrZIKZnYJcuAvA29zhN0vzvrVY8="
+        "value": "uGxDIxU2hq4AdYBhBZoTxbnjIIM4r6lycpoP9TBGQUc="
       }
     }
   ]
