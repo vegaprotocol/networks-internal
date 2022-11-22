@@ -268,6 +268,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "29o+qx+irFZMKx+86rJ8OrWKr8zww/f4SkHeEs0z8bI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/8w3i36mm5mek1l6pwu9q2l5m2djx2c9v?d=identicon",
+        "country": "YE",
+        "ethereum_address": "0xC828E7Ed686E7177813E2947Eee73bB5A03FD67a",
+        "id": "e3ddac66a914a7484d1ceee0772fc05030c47dc90496be8c1b3784760953331d",
+        "info_url": "https://en.wikipedia.org/wiki/Union,_Door_County,_Wisconsin",
+        "name": "quaint-butterfly",
+        "tm_pub_key": "29o+qx+irFZMKx+86rJ8OrWKr8zww/f4SkHeEs0z8bI=",
+        "vega_pub_key": "6ca6c933080264ac6f8fa6b45358c734066afdc6acc223a36c684cb17968cfff",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -311,21 +322,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "uGxDIxU2hq4AdYBhBZoTxbnjIIM4r6lycpoP9TBGQUc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/i5qkr79jvlin3hvxcyxo30gncnqg9rxq?d=identicon",
-        "country": "BS",
-        "ethereum_address": "0x500F6E193ffe5FD28281d30bB5f4CDC6aF8FCC10",
-        "id": "9b08f26e8ace6835ef90e054305d622d10b73c9ae5b73e4511eed588f939cbd3",
-        "info_url": "https://en.wikipedia.org/wiki/Facial_care",
-        "name": "mango-coffee",
-        "tm_pub_key": "uGxDIxU2hq4AdYBhBZoTxbnjIIM4r6lycpoP9TBGQUc=",
-        "vega_pub_key": "e21947a638afcaf52bbb0882ff9c0003e841946d8c0b8c26f01240f2279e5ff8",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202211221636",
+  "chain_id": "vega-devnet1-202211221703",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-22T16:36:41.230386789Z",
+  "genesis_time": "2022-11-22T17:03:10.847070862Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "014AB00741B06B649BFD38976767722AD842639C",
-      "name": "mango-coffee",
+      "address": "31A7BE022FF6E7CCF0F4211629F585527CB671B8",
+      "name": "quaint-butterfly",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "uGxDIxU2hq4AdYBhBZoTxbnjIIM4r6lycpoP9TBGQUc="
+        "value": "29o+qx+irFZMKx+86rJ8OrWKr8zww/f4SkHeEs0z8bI="
       }
     }
   ]
