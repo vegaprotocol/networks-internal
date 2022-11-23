@@ -268,6 +268,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "7n8FJyPgHApZp4f3UEBnL7dcx7DxesDZ5Ynw4RH/dUU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/fz7kiyr6d0mjiqufvk59ne6k7d95wxg6?d=identicon",
+        "country": "EZ",
+        "ethereum_address": "0xE1362029e9Ea3Ec72EF87c2447D89464048c8a8C",
+        "id": "201cb6b59f01bcb6274044da2c4609060b34c39ff972b31f703799a816fee5df",
+        "info_url": "https://en.wikipedia.org/wiki/Aradus_approximatus",
+        "name": "extensive-music",
+        "tm_pub_key": "7n8FJyPgHApZp4f3UEBnL7dcx7DxesDZ5Ynw4RH/dUU=",
+        "vega_pub_key": "e7990f4878774e960737f6f13e34c5fbd77adfef22953edef99958e911ee1853",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -311,21 +322,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "ywKNjDngC6/XQ+Zat/HWXzc/oB1ulC54BuubNjL13NY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/mdo6s4ac7e4k4cv4rsclrm66ln0fpu8m?d=identicon",
-        "country": "VH",
-        "ethereum_address": "0x4416439aDc2cB17d9a83Ae229b14210fF8378A04",
-        "id": "87026adbfd19b1bca73d0d6ae3fde8dcafff60575f6af412cf415119f13b522c",
-        "info_url": "https://en.wikipedia.org/wiki/Spe_salvi",
-        "name": "odd-dress",
-        "tm_pub_key": "ywKNjDngC6/XQ+Zat/HWXzc/oB1ulC54BuubNjL13NY=",
-        "vega_pub_key": "23d3f1fe6dd076a0a274612465cfe54e2d4a344f9f8ea682c1628311b5759734",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202211231818",
+  "chain_id": "vega-devnet1-202211231912",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-23T18:18:33.494853773Z",
+  "genesis_time": "2022-11-23T19:12:33.518579891Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "4B19E6609A81D2369947AE461D4E85558B7A560D",
-      "name": "odd-dress",
+      "address": "7BD9FD15149C16AB7FD8921B6BBE5A8B30542B02",
+      "name": "extensive-music",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ywKNjDngC6/XQ+Zat/HWXzc/oB1ulC54BuubNjL13NY="
+        "value": "7n8FJyPgHApZp4f3UEBnL7dcx7DxesDZ5Ynw4RH/dUU="
       }
     }
   ]
