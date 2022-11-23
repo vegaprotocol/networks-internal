@@ -268,17 +268,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "29o+qx+irFZMKx+86rJ8OrWKr8zww/f4SkHeEs0z8bI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/8w3i36mm5mek1l6pwu9q2l5m2djx2c9v?d=identicon",
-        "country": "YE",
-        "ethereum_address": "0xC828E7Ed686E7177813E2947Eee73bB5A03FD67a",
-        "id": "e3ddac66a914a7484d1ceee0772fc05030c47dc90496be8c1b3784760953331d",
-        "info_url": "https://en.wikipedia.org/wiki/Union,_Door_County,_Wisconsin",
-        "name": "quaint-butterfly",
-        "tm_pub_key": "29o+qx+irFZMKx+86rJ8OrWKr8zww/f4SkHeEs0z8bI=",
-        "vega_pub_key": "6ca6c933080264ac6f8fa6b45358c734066afdc6acc223a36c684cb17968cfff",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -288,6 +277,17 @@
         "name": "tricky-teacher",
         "tm_pub_key": "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=",
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
+        "vega_pub_key_index": 1
+      },
+      "AAH61rDJWC/04Sfob86wKvno1KPzTb0GvLtPiQR8OTI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/zl8vxw0o5jtqzngssxw3lv07d62d5tzu?d=identicon",
+        "country": "YQ",
+        "ethereum_address": "0xb00cD0C8A8915a60B6F9BBCf5724f2498c6E87C5",
+        "id": "aed405f3d6cc311b894a23b9c0cf0217861da73a1d7303ae6774a2d7bd036ddd",
+        "info_url": "https://en.wikipedia.org/wiki/Roofing_slates",
+        "name": "unsightly-policeman",
+        "tm_pub_key": "AAH61rDJWC/04Sfob86wKvno1KPzTb0GvLtPiQR8OTI=",
+        "vega_pub_key": "464a62823007740493a3f33c660873ec2981d469aeccbc2a135b493349a9861c",
         "vega_pub_key_index": 1
       },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211221745",
+  "chain_id": "vega-devnet1-202211231004",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-22T17:45:34.521533647Z",
+  "genesis_time": "2022-11-23T10:04:52.304232675Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "31A7BE022FF6E7CCF0F4211629F585527CB671B8",
-      "name": "quaint-butterfly",
+      "address": "F238CF1B0936A3DD55D93565621345797089A537",
+      "name": "unsightly-policeman",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "29o+qx+irFZMKx+86rJ8OrWKr8zww/f4SkHeEs0z8bI="
+        "value": "AAH61rDJWC/04Sfob86wKvno1KPzTb0GvLtPiQR8OTI="
       }
     }
   ]
