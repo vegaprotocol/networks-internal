@@ -279,17 +279,6 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
-      "AAH61rDJWC/04Sfob86wKvno1KPzTb0GvLtPiQR8OTI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/zl8vxw0o5jtqzngssxw3lv07d62d5tzu?d=identicon",
-        "country": "YQ",
-        "ethereum_address": "0xb00cD0C8A8915a60B6F9BBCf5724f2498c6E87C5",
-        "id": "aed405f3d6cc311b894a23b9c0cf0217861da73a1d7303ae6774a2d7bd036ddd",
-        "info_url": "https://en.wikipedia.org/wiki/Roofing_slates",
-        "name": "unsightly-policeman",
-        "tm_pub_key": "AAH61rDJWC/04Sfob86wKvno1KPzTb0GvLtPiQR8OTI=",
-        "vega_pub_key": "464a62823007740493a3f33c660873ec2981d469aeccbc2a135b493349a9861c",
-        "vega_pub_key_index": 1
-      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -312,6 +301,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "UbQzzIpqBMAUzaDY/Fl+Ff3FOoRv2qD/BrNYmhZS2dM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/kogicykzm1ku0ouf1mvr8h7qu0ennaj2?d=identicon",
+        "country": "HC",
+        "ethereum_address": "0xb7793Cd5e19f7724f1d8b52064eb7fe3220a1AF0",
+        "id": "ac1137b663a3b5ae081e30401b04a26b456640db9e53077e392853fe0920e96d",
+        "info_url": "https://en.wikipedia.org/wiki/Dubai_Development_Authority",
+        "name": "hollow-pond",
+        "tm_pub_key": "UbQzzIpqBMAUzaDY/Fl+Ff3FOoRv2qD/BrNYmhZS2dM=",
+        "vega_pub_key": "604f702096fbac38500aaf31a55ff1f4f32e49a9bcb77a12921aff0efb01b672",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211231004",
+  "chain_id": "vega-devnet1-202211231347",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-23T10:04:52.304232675Z",
+  "genesis_time": "2022-11-23T13:47:58.713883611Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "F238CF1B0936A3DD55D93565621345797089A537",
-      "name": "unsightly-policeman",
+      "address": "297C2A8709AA1F3C84F37775B84C9B2D3E06A5C2",
+      "name": "hollow-pond",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "AAH61rDJWC/04Sfob86wKvno1KPzTb0GvLtPiQR8OTI="
+        "value": "UbQzzIpqBMAUzaDY/Fl+Ff3FOoRv2qD/BrNYmhZS2dM="
       }
     }
   ]
