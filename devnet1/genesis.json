@@ -301,17 +301,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "fA8IR0gwqHQz2iGapyoijme0aCtP4tfXe38GAXL6oOc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/t7zgl08gu4700mm7nbje11qz1gxkyhkz?d=identicon",
-        "country": "PX",
-        "ethereum_address": "0xdb4437B1f5F56362A15E06B5Fd45C45c6E3BcF74",
-        "id": "c30be54cf5c22d6a5117b432885a1cda5fbad65c6821128be486fe624c1bb582",
-        "info_url": "https://en.wikipedia.org/wiki/Wapella_Township,_DeWitt_County,_Illinois",
-        "name": "zippy-apple",
-        "tm_pub_key": "fA8IR0gwqHQz2iGapyoijme0aCtP4tfXe38GAXL6oOc=",
-        "vega_pub_key": "abe79345274269027e07f863caf1dc6c72d7d2d3aeb4fa5bea90a2bbe2a7a6e0",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -322,10 +311,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "ywKNjDngC6/XQ+Zat/HWXzc/oB1ulC54BuubNjL13NY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/mdo6s4ac7e4k4cv4rsclrm66ln0fpu8m?d=identicon",
+        "country": "VH",
+        "ethereum_address": "0x4416439aDc2cB17d9a83Ae229b14210fF8378A04",
+        "id": "87026adbfd19b1bca73d0d6ae3fde8dcafff60575f6af412cf415119f13b522c",
+        "info_url": "https://en.wikipedia.org/wiki/Spe_salvi",
+        "name": "odd-dress",
+        "tm_pub_key": "ywKNjDngC6/XQ+Zat/HWXzc/oB1ulC54BuubNjL13NY=",
+        "vega_pub_key": "23d3f1fe6dd076a0a274612465cfe54e2d4a344f9f8ea682c1628311b5759734",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202211231642",
+  "chain_id": "vega-devnet1-202211231818",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-23T16:42:32.655469875Z",
+  "genesis_time": "2022-11-23T18:18:33.494853773Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "1FDCEB5E552A5AEEFC368E92A2FC9C0673B4F1DB",
-      "name": "zippy-apple",
+      "address": "4B19E6609A81D2369947AE461D4E85558B7A560D",
+      "name": "odd-dress",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "fA8IR0gwqHQz2iGapyoijme0aCtP4tfXe38GAXL6oOc="
+        "value": "ywKNjDngC6/XQ+Zat/HWXzc/oB1ulC54BuubNjL13NY="
       }
     }
   ]
