@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "UbQzzIpqBMAUzaDY/Fl+Ff3FOoRv2qD/BrNYmhZS2dM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/kogicykzm1ku0ouf1mvr8h7qu0ennaj2?d=identicon",
-        "country": "HC",
-        "ethereum_address": "0xb7793Cd5e19f7724f1d8b52064eb7fe3220a1AF0",
-        "id": "ac1137b663a3b5ae081e30401b04a26b456640db9e53077e392853fe0920e96d",
-        "info_url": "https://en.wikipedia.org/wiki/Dubai_Development_Authority",
-        "name": "hollow-pond",
-        "tm_pub_key": "UbQzzIpqBMAUzaDY/Fl+Ff3FOoRv2qD/BrNYmhZS2dM=",
-        "vega_pub_key": "604f702096fbac38500aaf31a55ff1f4f32e49a9bcb77a12921aff0efb01b672",
+      "fA8IR0gwqHQz2iGapyoijme0aCtP4tfXe38GAXL6oOc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/t7zgl08gu4700mm7nbje11qz1gxkyhkz?d=identicon",
+        "country": "PX",
+        "ethereum_address": "0xdb4437B1f5F56362A15E06B5Fd45C45c6E3BcF74",
+        "id": "c30be54cf5c22d6a5117b432885a1cda5fbad65c6821128be486fe624c1bb582",
+        "info_url": "https://en.wikipedia.org/wiki/Wapella_Township,_DeWitt_County,_Illinois",
+        "name": "zippy-apple",
+        "tm_pub_key": "fA8IR0gwqHQz2iGapyoijme0aCtP4tfXe38GAXL6oOc=",
+        "vega_pub_key": "abe79345274269027e07f863caf1dc6c72d7d2d3aeb4fa5bea90a2bbe2a7a6e0",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211231347",
+  "chain_id": "vega-devnet1-202211231642",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-23T13:47:58.713883611Z",
+  "genesis_time": "2022-11-23T16:42:32.655469875Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "297C2A8709AA1F3C84F37775B84C9B2D3E06A5C2",
-      "name": "hollow-pond",
+      "address": "1FDCEB5E552A5AEEFC368E92A2FC9C0673B4F1DB",
+      "name": "zippy-apple",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "UbQzzIpqBMAUzaDY/Fl+Ff3FOoRv2qD/BrNYmhZS2dM="
+        "value": "fA8IR0gwqHQz2iGapyoijme0aCtP4tfXe38GAXL6oOc="
       }
     }
   ]
