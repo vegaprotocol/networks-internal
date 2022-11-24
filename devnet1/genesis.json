@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "LOugBzM6W4MJBlL8avjnPW1xUtdqzFRTMqC2vOOooa0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/s6o6z3fc9q5fzegubr8xdp77bp8hk9ob?d=identicon",
-        "country": "CB",
-        "ethereum_address": "0x1f150EA39140442729b4E1522d29Dc3f24B73F94",
-        "id": "e01a8bdb0e1076c8682217c33096cd0434b137ce7ec66c546eeea9af675a2fd0",
-        "info_url": "https://en.wikipedia.org/wiki/Dysart,_Queensland",
-        "name": "echoing-bat",
-        "tm_pub_key": "LOugBzM6W4MJBlL8avjnPW1xUtdqzFRTMqC2vOOooa0=",
-        "vega_pub_key": "46d347c8aabb0e5374021fac41a54e6dd698eb6580ab48b0bf09bab4bc86b908",
+      "jWKk4i2tLxq4a+6912UbjA/S6aX2aHrF6Oc4Av0B5Rc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/uw8xnvvq3h1brcn6hsqo1168s4t978sc?d=identicon",
+        "country": "GW",
+        "ethereum_address": "0x249949C5421fBbb00b5Bf51cC69da62Ae529d0D5",
+        "id": "63ee6ff570c323b3dde3fe5a623d3a5f12d3497effcf0382340ade0b9f0d812c",
+        "info_url": "https://en.wikipedia.org/wiki/2013_Crit%C3%A9rium_du_Dauphin%C3%A9",
+        "name": "oppulent-ball",
+        "tm_pub_key": "jWKk4i2tLxq4a+6912UbjA/S6aX2aHrF6Oc4Av0B5Rc=",
+        "vega_pub_key": "4522f6991a9a5d507bb5044dcbc5fef0ed9d75f28255107e852f4f553b73aed2",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211241326",
+  "chain_id": "vega-devnet1-202211241417",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-24T13:26:05.39868026Z",
+  "genesis_time": "2022-11-24T14:17:29.729726961Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "CDC765DEA578FEA2635CA470A311210EA8B4185B",
-      "name": "echoing-bat",
+      "address": "BE0FF06334B475DAFB5C806D56BB983278BD822B",
+      "name": "oppulent-ball",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "LOugBzM6W4MJBlL8avjnPW1xUtdqzFRTMqC2vOOooa0="
+        "value": "jWKk4i2tLxq4a+6912UbjA/S6aX2aHrF6Oc4Av0B5Rc="
       }
     }
   ]
