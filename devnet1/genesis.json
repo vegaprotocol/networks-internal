@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "nyDMISpwQwDikSAR/+rrgPabPS2ln9FKg9W7dElOlJg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/42fhesqmrbsceg6307djkyu5p5yr5m0a?d=identicon",
-        "country": "UV",
-        "ethereum_address": "0xa7660acaBb8cEd0Fa6d8152A4A6441d6FC11E823",
-        "id": "56c0fa93fa15c991328353266d09b794760952537ba99df4ed82a14a041d8185",
-        "info_url": "https://en.wikipedia.org/wiki/Ixekizumab",
-        "name": "unsightly-river",
-        "tm_pub_key": "nyDMISpwQwDikSAR/+rrgPabPS2ln9FKg9W7dElOlJg=",
-        "vega_pub_key": "3a71fcd0d64c4da936e57a9e7490f81209dd46e64c62202a980b5985bd42ff93",
+      "LOugBzM6W4MJBlL8avjnPW1xUtdqzFRTMqC2vOOooa0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/s6o6z3fc9q5fzegubr8xdp77bp8hk9ob?d=identicon",
+        "country": "CB",
+        "ethereum_address": "0x1f150EA39140442729b4E1522d29Dc3f24B73F94",
+        "id": "e01a8bdb0e1076c8682217c33096cd0434b137ce7ec66c546eeea9af675a2fd0",
+        "info_url": "https://en.wikipedia.org/wiki/Dysart,_Queensland",
+        "name": "echoing-bat",
+        "tm_pub_key": "LOugBzM6W4MJBlL8avjnPW1xUtdqzFRTMqC2vOOooa0=",
+        "vega_pub_key": "46d347c8aabb0e5374021fac41a54e6dd698eb6580ab48b0bf09bab4bc86b908",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211232034",
+  "chain_id": "vega-devnet1-202211241326",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-23T20:34:07.436329578Z",
+  "genesis_time": "2022-11-24T13:26:05.39868026Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "596CC880BD62AD106BA3F51D90F9F090EB64792E",
-      "name": "unsightly-river",
+      "address": "CDC765DEA578FEA2635CA470A311210EA8B4185B",
+      "name": "echoing-bat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "nyDMISpwQwDikSAR/+rrgPabPS2ln9FKg9W7dElOlJg="
+        "value": "LOugBzM6W4MJBlL8avjnPW1xUtdqzFRTMqC2vOOooa0="
       }
     }
   ]
