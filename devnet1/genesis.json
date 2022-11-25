@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "t//qdx1opeD3k/JoRWQSrWBH6loye3mlH7YP9NZERhs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/4wfoq62i2o6xiigxlumcv1vp4d4s9ebu?d=identicon",
-        "country": "QI",
-        "ethereum_address": "0xc661d84b7100798aD27894475348f585b5Bf9486",
-        "id": "ed580a9ba0836df092af5f0c1306cd86c4120e206dc482d7716a58688d07ea0f",
-        "info_url": "https://en.wikipedia.org/wiki/Saffet",
-        "name": "helpful-phone",
-        "tm_pub_key": "t//qdx1opeD3k/JoRWQSrWBH6loye3mlH7YP9NZERhs=",
-        "vega_pub_key": "d9e3a0e0f069c35bb7e6d9484c079ff33dc91c5ba917a84513ec254d061f9095",
+      "M0wzEzpWuyTayt1TEWyV4RwDNrOk2CYWxql4l49qpXE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/nwfsoiputn1fk26hx6ku4pk3czh3xmck?d=identicon",
+        "country": "CA",
+        "ethereum_address": "0x4Aab8aF8034Fb88E5e36264c11C1b43F97Af6B6b",
+        "id": "45f09e2be9101af2d6767d99af3b170506092015e5e2467595b63d2114c4c8dc",
+        "info_url": "https://en.wikipedia.org/wiki/Le_Portier",
+        "name": "quiet-dress",
+        "tm_pub_key": "M0wzEzpWuyTayt1TEWyV4RwDNrOk2CYWxql4l49qpXE=",
+        "vega_pub_key": "1edb5cf26ee2f7a4c37f7832cb7fcbfea7bd960faa787c3d9704ae539ed364d4",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211251246",
+  "chain_id": "vega-devnet1-202211251517",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-25T12:46:36.78542656Z",
+  "genesis_time": "2022-11-25T15:17:51.342178805Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "1FD00FE1BE61976A121D07DD614F52B6B063BCBC",
-      "name": "helpful-phone",
+      "address": "BA79912FD01E335EC2C76B0DF9159F08965FDA85",
+      "name": "quiet-dress",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "t//qdx1opeD3k/JoRWQSrWBH6loye3mlH7YP9NZERhs="
+        "value": "M0wzEzpWuyTayt1TEWyV4RwDNrOk2CYWxql4l49qpXE="
       }
     }
   ]
