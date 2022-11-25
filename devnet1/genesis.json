@@ -279,6 +279,17 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
+      "BuNh9LlRW5o7cR2ArEOJvY0KumG47puxEef+Ewj8lI8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/owcw8pcdvbnyn0l9uch4yblkdhx2rqgx?d=identicon",
+        "country": "YQ",
+        "ethereum_address": "0x6577ea2fD52042eAed65A67231DfC8561bC2615d",
+        "id": "ad83195765cab4ff76518ba59890b0cae1a07380a61200f56fdc342ae07a0bd6",
+        "info_url": "https://en.wikipedia.org/wiki/Henderson_baronets",
+        "name": "quaint-stove",
+        "tm_pub_key": "BuNh9LlRW5o7cR2ArEOJvY0KumG47puxEef+Ewj8lI8=",
+        "vega_pub_key": "b31a849228980032614266d07d174638bf1eba983d8e6fa9df33d05226793fe0",
+        "vega_pub_key_index": 1
+      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -301,17 +312,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "M0wzEzpWuyTayt1TEWyV4RwDNrOk2CYWxql4l49qpXE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/nwfsoiputn1fk26hx6ku4pk3czh3xmck?d=identicon",
-        "country": "CA",
-        "ethereum_address": "0x4Aab8aF8034Fb88E5e36264c11C1b43F97Af6B6b",
-        "id": "45f09e2be9101af2d6767d99af3b170506092015e5e2467595b63d2114c4c8dc",
-        "info_url": "https://en.wikipedia.org/wiki/Le_Portier",
-        "name": "quiet-dress",
-        "tm_pub_key": "M0wzEzpWuyTayt1TEWyV4RwDNrOk2CYWxql4l49qpXE=",
-        "vega_pub_key": "1edb5cf26ee2f7a4c37f7832cb7fcbfea7bd960faa787c3d9704ae539ed364d4",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211251517",
+  "chain_id": "vega-devnet1-202211251932",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-25T15:17:51.342178805Z",
+  "genesis_time": "2022-11-25T19:32:17.923222559Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "BA79912FD01E335EC2C76B0DF9159F08965FDA85",
-      "name": "quiet-dress",
+      "address": "C088A6C41A9DCFF1DA87030DEFCBBFB8A92D0B38",
+      "name": "quaint-stove",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "M0wzEzpWuyTayt1TEWyV4RwDNrOk2CYWxql4l49qpXE="
+        "value": "BuNh9LlRW5o7cR2ArEOJvY0KumG47puxEef+Ewj8lI8="
       }
     }
   ]
