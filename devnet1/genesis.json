@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "jWKk4i2tLxq4a+6912UbjA/S6aX2aHrF6Oc4Av0B5Rc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/uw8xnvvq3h1brcn6hsqo1168s4t978sc?d=identicon",
-        "country": "GW",
-        "ethereum_address": "0x249949C5421fBbb00b5Bf51cC69da62Ae529d0D5",
-        "id": "63ee6ff570c323b3dde3fe5a623d3a5f12d3497effcf0382340ade0b9f0d812c",
-        "info_url": "https://en.wikipedia.org/wiki/2013_Crit%C3%A9rium_du_Dauphin%C3%A9",
-        "name": "oppulent-ball",
-        "tm_pub_key": "jWKk4i2tLxq4a+6912UbjA/S6aX2aHrF6Oc4Av0B5Rc=",
-        "vega_pub_key": "4522f6991a9a5d507bb5044dcbc5fef0ed9d75f28255107e852f4f553b73aed2",
+      "t//qdx1opeD3k/JoRWQSrWBH6loye3mlH7YP9NZERhs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/4wfoq62i2o6xiigxlumcv1vp4d4s9ebu?d=identicon",
+        "country": "QI",
+        "ethereum_address": "0xc661d84b7100798aD27894475348f585b5Bf9486",
+        "id": "ed580a9ba0836df092af5f0c1306cd86c4120e206dc482d7716a58688d07ea0f",
+        "info_url": "https://en.wikipedia.org/wiki/Saffet",
+        "name": "helpful-phone",
+        "tm_pub_key": "t//qdx1opeD3k/JoRWQSrWBH6loye3mlH7YP9NZERhs=",
+        "vega_pub_key": "d9e3a0e0f069c35bb7e6d9484c079ff33dc91c5ba917a84513ec254d061f9095",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211241417",
+  "chain_id": "vega-devnet1-202211251246",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-24T14:17:29.729726961Z",
+  "genesis_time": "2022-11-25T12:46:36.78542656Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "BE0FF06334B475DAFB5C806D56BB983278BD822B",
-      "name": "oppulent-ball",
+      "address": "1FD00FE1BE61976A121D07DD614F52B6B063BCBC",
+      "name": "helpful-phone",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "jWKk4i2tLxq4a+6912UbjA/S6aX2aHrF6Oc4Av0B5Rc="
+        "value": "t//qdx1opeD3k/JoRWQSrWBH6loye3mlH7YP9NZERhs="
       }
     }
   ]
