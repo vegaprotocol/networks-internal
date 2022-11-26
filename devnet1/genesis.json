@@ -268,15 +268,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "+8Diz2HPr8qmgMnjB7tgLiY0HMhCEOVb7O1jGySNEQE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/g6xyqsn727sp608ifr66syhvcz07wibj?d=identicon",
-        "country": "BB",
-        "ethereum_address": "0xfc91151E2c09b5bA3fD1F4Bad28eA6ebde280Aad",
-        "id": "183ff442fb18cc48196e5b6b283f44ff24898d7bd3eb318535e8868aa0ba4593",
-        "info_url": "https://en.wikipedia.org/wiki/FIG_World_Cup",
-        "name": "whispering-man",
-        "tm_pub_key": "+8Diz2HPr8qmgMnjB7tgLiY0HMhCEOVb7O1jGySNEQE=",
-        "vega_pub_key": "af70dfc2613406c97d73b171b00ce5eb6d82010d734b7417f99eacd2b9a463f9",
+      "/1viIGZdE+aI3VZfrKDNktHdiPVuB/lWZUAZJAA+Dbs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/5yvyz85r8vj1uv2bnnmdj942bkdkhodz?d=identicon",
+        "country": "VF",
+        "ethereum_address": "0xeB32D930c69959658Fe30d2dFd9BD785FbA2BFEE",
+        "id": "a3fa589457ee840dc9b890cf29903e917af27fada832efe3d1b5811c9c13d614",
+        "info_url": "https://en.wikipedia.org/wiki/Lafayette,_Indiana",
+        "name": "oppulent-week",
+        "tm_pub_key": "/1viIGZdE+aI3VZfrKDNktHdiPVuB/lWZUAZJAA+Dbs=",
+        "vega_pub_key": "7e6374b18c59760f04b85d4d3613d98b578bdd2813cdccc2aa3ea4b5e26b30a0",
         "vega_pub_key_index": 1
       },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211261229",
+  "chain_id": "vega-devnet1-202211261329",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-26T12:29:24.966850306Z",
+  "genesis_time": "2022-11-26T13:29:38.287795238Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "70E3F31ADD140D3637296D37EDD0BB7E8292D466",
-      "name": "whispering-man",
+      "address": "BA21C7B5C2607DDD9CA79B5999395481C30FED6A",
+      "name": "oppulent-week",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "+8Diz2HPr8qmgMnjB7tgLiY0HMhCEOVb7O1jGySNEQE="
+        "value": "/1viIGZdE+aI3VZfrKDNktHdiPVuB/lWZUAZJAA+Dbs="
       }
     }
   ]
