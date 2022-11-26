@@ -268,6 +268,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "6F+EWZaMxSJQrKMNuiVvaL16AgjLFC2luOD8Z+eWr6Q=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ggsefbuhn144myrj3k9t83ycypls94vk?d=identicon",
+        "country": "FW",
+        "ethereum_address": "0x6C57EB9557b514b9843C7c0E46251922f6DEC0fD",
+        "id": "c2ba4ccd434601e299b6c085aec1ecabb15f81ec9795eed246c98e77089bb4f0",
+        "info_url": "https://en.wikipedia.org/wiki/Kalateh-ye_Molla_Gholamhoseyn",
+        "name": "healthy-window",
+        "tm_pub_key": "6F+EWZaMxSJQrKMNuiVvaL16AgjLFC2luOD8Z+eWr6Q=",
+        "vega_pub_key": "fa0b38ff355cebbd8eee8b879dd9415716170bfa13ca8027107db070a954a2fe",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -277,17 +288,6 @@
         "name": "tricky-teacher",
         "tm_pub_key": "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=",
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
-        "vega_pub_key_index": 1
-      },
-      "BuNh9LlRW5o7cR2ArEOJvY0KumG47puxEef+Ewj8lI8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/owcw8pcdvbnyn0l9uch4yblkdhx2rqgx?d=identicon",
-        "country": "YQ",
-        "ethereum_address": "0x6577ea2fD52042eAed65A67231DfC8561bC2615d",
-        "id": "ad83195765cab4ff76518ba59890b0cae1a07380a61200f56fdc342ae07a0bd6",
-        "info_url": "https://en.wikipedia.org/wiki/Henderson_baronets",
-        "name": "quaint-stove",
-        "tm_pub_key": "BuNh9LlRW5o7cR2ArEOJvY0KumG47puxEef+Ewj8lI8=",
-        "vega_pub_key": "b31a849228980032614266d07d174638bf1eba983d8e6fa9df33d05226793fe0",
         "vega_pub_key_index": 1
       },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211251932",
+  "chain_id": "vega-devnet1-202211261103",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-25T19:32:17.923222559Z",
+  "genesis_time": "2022-11-26T11:03:21.069965917Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "C088A6C41A9DCFF1DA87030DEFCBBFB8A92D0B38",
-      "name": "quaint-stove",
+      "address": "E072580B4D1C25657D54E60B0F9541C71382BB26",
+      "name": "healthy-window",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "BuNh9LlRW5o7cR2ArEOJvY0KumG47puxEef+Ewj8lI8="
+        "value": "6F+EWZaMxSJQrKMNuiVvaL16AgjLFC2luOD8Z+eWr6Q="
       }
     }
   ]
