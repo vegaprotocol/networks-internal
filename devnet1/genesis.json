@@ -268,15 +268,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "6F+EWZaMxSJQrKMNuiVvaL16AgjLFC2luOD8Z+eWr6Q=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ggsefbuhn144myrj3k9t83ycypls94vk?d=identicon",
-        "country": "FW",
-        "ethereum_address": "0x6C57EB9557b514b9843C7c0E46251922f6DEC0fD",
-        "id": "c2ba4ccd434601e299b6c085aec1ecabb15f81ec9795eed246c98e77089bb4f0",
-        "info_url": "https://en.wikipedia.org/wiki/Kalateh-ye_Molla_Gholamhoseyn",
-        "name": "healthy-window",
-        "tm_pub_key": "6F+EWZaMxSJQrKMNuiVvaL16AgjLFC2luOD8Z+eWr6Q=",
-        "vega_pub_key": "fa0b38ff355cebbd8eee8b879dd9415716170bfa13ca8027107db070a954a2fe",
+      "+8Diz2HPr8qmgMnjB7tgLiY0HMhCEOVb7O1jGySNEQE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/g6xyqsn727sp608ifr66syhvcz07wibj?d=identicon",
+        "country": "BB",
+        "ethereum_address": "0xfc91151E2c09b5bA3fD1F4Bad28eA6ebde280Aad",
+        "id": "183ff442fb18cc48196e5b6b283f44ff24898d7bd3eb318535e8868aa0ba4593",
+        "info_url": "https://en.wikipedia.org/wiki/FIG_World_Cup",
+        "name": "whispering-man",
+        "tm_pub_key": "+8Diz2HPr8qmgMnjB7tgLiY0HMhCEOVb7O1jGySNEQE=",
+        "vega_pub_key": "af70dfc2613406c97d73b171b00ce5eb6d82010d734b7417f99eacd2b9a463f9",
         "vega_pub_key_index": 1
       },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211261103",
+  "chain_id": "vega-devnet1-202211261229",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-26T11:03:21.069965917Z",
+  "genesis_time": "2022-11-26T12:29:24.966850306Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "E072580B4D1C25657D54E60B0F9541C71382BB26",
-      "name": "healthy-window",
+      "address": "70E3F31ADD140D3637296D37EDD0BB7E8292D466",
+      "name": "whispering-man",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "6F+EWZaMxSJQrKMNuiVvaL16AgjLFC2luOD8Z+eWr6Q="
+        "value": "+8Diz2HPr8qmgMnjB7tgLiY0HMhCEOVb7O1jGySNEQE="
       }
     }
   ]
