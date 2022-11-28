@@ -268,6 +268,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "7G7iRHyG6WVL0a797Ydr3h1qUElLPSToQ54BTkXxOlY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/wvmm2wowscaetvetw4zuhc9hwzo5fx3c?d=identicon",
+        "country": "XY",
+        "ethereum_address": "0xAe51A6CcE17D8CD6F957255755dE9A6899d65bBC",
+        "id": "312304e7892b54afc2bd1d17781f5e1fbaa26991407cb33d9a5aeb023c63a9e2",
+        "info_url": "https://en.wikipedia.org/wiki/Boson_II_de_Talleyrand-P%C3%A9rigord",
+        "name": "frantic-shoe",
+        "tm_pub_key": "7G7iRHyG6WVL0a797Ydr3h1qUElLPSToQ54BTkXxOlY=",
+        "vega_pub_key": "f83920a991d613be0385b7e9a23ecb59a1af111bcef47571b9062970de4b7b50",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -301,17 +312,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "mYrlAU37EzqdGUPcKUNrVsIcAkqncm2DURHC2auup0I=": {
-        "avatar_url": "https://www.gravatar.com/avatar/wtvubuh69id87psy06elh2lo55zymh9s?d=identicon",
-        "country": "PF",
-        "ethereum_address": "0x2da4b5F8693Dd0601651BB87E933794BD2b8A010",
-        "id": "f0d6fe69534372e5ee348e76fc6a3f990b730d43d9b1bcd6611b074b3d636d99",
-        "info_url": "https://en.wikipedia.org/wiki/Hellfire_Warrior",
-        "name": "fluky-doctor",
-        "tm_pub_key": "mYrlAU37EzqdGUPcKUNrVsIcAkqncm2DURHC2auup0I=",
-        "vega_pub_key": "fa7d58f51e2d3eb02bc38290def01d5f60b7ebbdd3d8e6fa6c5943a16b5b2a27",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211281547",
+  "chain_id": "vega-devnet1-202211281630",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-28T15:47:14.160512565Z",
+  "genesis_time": "2022-11-28T16:30:45.710311509Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "F6173181E71606E55C0D587ABD013FA9533F9642",
-      "name": "fluky-doctor",
+      "address": "E1ECCEDEECA0E0811DD972F25436A723719F805D",
+      "name": "frantic-shoe",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "mYrlAU37EzqdGUPcKUNrVsIcAkqncm2DURHC2auup0I="
+        "value": "7G7iRHyG6WVL0a797Ydr3h1qUElLPSToQ54BTkXxOlY="
       }
     }
   ]
