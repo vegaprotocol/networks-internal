@@ -268,17 +268,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "+E1PQlPJvHgYXtXXI3sB5VgmtLR4BLU2BcXkAa8jkRE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/jni4th34dwixojneh624ygwx6fn25880?d=identicon",
-        "country": "RO",
-        "ethereum_address": "0xA4A97d2151b845588f7C8C96B7bA8eC8a29c937A",
-        "id": "df12b03b7fddf1e751957927bed2106700e87a005a85146184dfd0ee5ba333e1",
-        "info_url": "https://en.wikipedia.org/wiki/Himark_BioGas",
-        "name": "shapely-cat",
-        "tm_pub_key": "+E1PQlPJvHgYXtXXI3sB5VgmtLR4BLU2BcXkAa8jkRE=",
-        "vega_pub_key": "72aff693114cf7321380821f7432be3b7455badd667031e6f58b5fa2512d238a",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -312,6 +301,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "mYrlAU37EzqdGUPcKUNrVsIcAkqncm2DURHC2auup0I=": {
+        "avatar_url": "https://www.gravatar.com/avatar/wtvubuh69id87psy06elh2lo55zymh9s?d=identicon",
+        "country": "PF",
+        "ethereum_address": "0x2da4b5F8693Dd0601651BB87E933794BD2b8A010",
+        "id": "f0d6fe69534372e5ee348e76fc6a3f990b730d43d9b1bcd6611b074b3d636d99",
+        "info_url": "https://en.wikipedia.org/wiki/Hellfire_Warrior",
+        "name": "fluky-doctor",
+        "tm_pub_key": "mYrlAU37EzqdGUPcKUNrVsIcAkqncm2DURHC2auup0I=",
+        "vega_pub_key": "fa7d58f51e2d3eb02bc38290def01d5f60b7ebbdd3d8e6fa6c5943a16b5b2a27",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211281413",
+  "chain_id": "vega-devnet1-202211281504",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-28T14:13:21.579933044Z",
+  "genesis_time": "2022-11-28T15:04:56.301272843Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "5D747023E80F0B1E115EEEB509857BE191B7FC87",
-      "name": "shapely-cat",
+      "address": "F6173181E71606E55C0D587ABD013FA9533F9642",
+      "name": "fluky-doctor",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "+E1PQlPJvHgYXtXXI3sB5VgmtLR4BLU2BcXkAa8jkRE="
+        "value": "mYrlAU37EzqdGUPcKUNrVsIcAkqncm2DURHC2auup0I="
       }
     }
   ]
