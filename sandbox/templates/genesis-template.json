@@ -153,7 +153,9 @@
             "transfer.minTransferQuantumMultiple" : "100",
             "validators.delegation.minAmount" : "100000000000000000",
             "validators.epoch.length" : "1h",
-            "validators.vote.required" : "0.67"
+            "validators.vote.required" : "0.67",
+            "network.transactions.maxgasperblock":"500000",
+            "network.transaction.defaultgas":"1"
         },
         "network_parameters_checkpoint_overwrite": null,
         "validators": "-THIS-WILL-BE-FILLED-IN-"
