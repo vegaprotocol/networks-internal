@@ -269,8 +269,6 @@
       "market.value.windowLength": "1h0m0s",
       "network.checkpoint.timeElapsedBetweenCheckpoints": "1m",
       "network.floatingPointUpdates.delay": "5m",
-      "network.transaction.defaultgas": "1",
-      "network.transactions.maxgasperblock": "500000",
       "network.validators.ersatz.multipleOfTendermintValidators": "0.5",
       "network.validators.ersatz.rewardFactor": "0.5",
       "reward.asset": "fc7fd956078fb1fc9db5c19b88f0874c4299b2a7639ad05a47a28c0aef291b55",
@@ -367,7 +365,7 @@
       }
     }
   },
-  "chain_id": "vega-fairground-202211281717",
+  "chain_id": "vega-fairground-202211281757",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -386,7 +384,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-28T17:17:37.28007654Z",
+  "genesis_time": "2022-11-28T17:57:34.860642914Z",
   "initial_height": "0",
   "validators": [
     {
