@@ -308,9 +308,7 @@
             "spam.protection.voting.min.tokens": "1000000000000000000",
             "validators.delegation.minAmount": "100000000000000000",
             "validators.epoch.length": "30m",
-            "validators.vote.required": "0.67",
-            "network.transactions.maxgasperblock":"500000",
-            "network.transaction.defaultgas":"1"
+            "validators.vote.required": "0.67"
         },
         "network_parameters_checkpoint_overwrite": [
             "governance.proposal.updateAsset.maxClose", 
