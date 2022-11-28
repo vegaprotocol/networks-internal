@@ -268,17 +268,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "1uFLgav1E+zyFVERT2iNnt0+4Q7HtYYZ3M70XHXtg/A=": {
-        "avatar_url": "https://www.gravatar.com/avatar/7yiw4pej97cegsnznnm0tznu1g278xxu?d=identicon",
-        "country": "US",
-        "ethereum_address": "0x9F95Fd3922AD6A45563156dfB3cD4417Ea92455d",
-        "id": "94f2f506d47dc138494c259bbed828a38931851b763f26aa4edbcc1d730bb0bd",
-        "info_url": "https://en.wikipedia.org/wiki/Bibelot_Mansur",
-        "name": "icy-country",
-        "tm_pub_key": "1uFLgav1E+zyFVERT2iNnt0+4Q7HtYYZ3M70XHXtg/A=",
-        "vega_pub_key": "6f8f3f95433e79fe22f8070e9cf14dc1e6b559225e22cd2ab77ccdcd9d1aa23d",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -312,6 +301,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "OpLgxuNp+RGCX8SfVMq6J7iJVpnrbFOCnyfX5wm+JkI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/s3506jts5aob7gw6i3wm9knwccq6k9jp?d=identicon",
+        "country": "YL",
+        "ethereum_address": "0xe72207742ADDb62225fe0832bdaF77EAdCB188D6",
+        "id": "33f660af872790c5260a12ece730171c6d663d7a77ac6e0a0d503e6364088899",
+        "info_url": "https://en.wikipedia.org/wiki/DWOK-FM_(Olongapo_City)",
+        "name": "howling-park",
+        "tm_pub_key": "OpLgxuNp+RGCX8SfVMq6J7iJVpnrbFOCnyfX5wm+JkI=",
+        "vega_pub_key": "110d23336159aeaef89c27470f6d6e4fe3b56f63f228e2c8eb80f483790eef3e",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211281101",
+  "chain_id": "vega-devnet1-202211281157",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-28T11:01:15.565561787Z",
+  "genesis_time": "2022-11-28T11:57:47.59017498Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "F8494F4AC403CAD3ACCCEA87ED93C4361271D235",
-      "name": "icy-country",
+      "address": "C7D775DFDE11FF92FE313BD91EA4AC17A552600F",
+      "name": "howling-park",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "1uFLgav1E+zyFVERT2iNnt0+4Q7HtYYZ3M70XHXtg/A="
+        "value": "OpLgxuNp+RGCX8SfVMq6J7iJVpnrbFOCnyfX5wm+JkI="
       }
     }
   ]
