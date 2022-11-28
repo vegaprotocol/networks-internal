@@ -268,15 +268,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "/1viIGZdE+aI3VZfrKDNktHdiPVuB/lWZUAZJAA+Dbs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/5yvyz85r8vj1uv2bnnmdj942bkdkhodz?d=identicon",
-        "country": "VF",
-        "ethereum_address": "0xeB32D930c69959658Fe30d2dFd9BD785FbA2BFEE",
-        "id": "a3fa589457ee840dc9b890cf29903e917af27fada832efe3d1b5811c9c13d614",
-        "info_url": "https://en.wikipedia.org/wiki/Lafayette,_Indiana",
-        "name": "oppulent-week",
-        "tm_pub_key": "/1viIGZdE+aI3VZfrKDNktHdiPVuB/lWZUAZJAA+Dbs=",
-        "vega_pub_key": "7e6374b18c59760f04b85d4d3613d98b578bdd2813cdccc2aa3ea4b5e26b30a0",
+      "1uFLgav1E+zyFVERT2iNnt0+4Q7HtYYZ3M70XHXtg/A=": {
+        "avatar_url": "https://www.gravatar.com/avatar/7yiw4pej97cegsnznnm0tznu1g278xxu?d=identicon",
+        "country": "US",
+        "ethereum_address": "0x9F95Fd3922AD6A45563156dfB3cD4417Ea92455d",
+        "id": "94f2f506d47dc138494c259bbed828a38931851b763f26aa4edbcc1d730bb0bd",
+        "info_url": "https://en.wikipedia.org/wiki/Bibelot_Mansur",
+        "name": "icy-country",
+        "tm_pub_key": "1uFLgav1E+zyFVERT2iNnt0+4Q7HtYYZ3M70XHXtg/A=",
+        "vega_pub_key": "6f8f3f95433e79fe22f8070e9cf14dc1e6b559225e22cd2ab77ccdcd9d1aa23d",
         "vega_pub_key_index": 1
       },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211261329",
+  "chain_id": "vega-devnet1-202211281101",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-26T13:29:38.287795238Z",
+  "genesis_time": "2022-11-28T11:01:15.565561787Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "BA21C7B5C2607DDD9CA79B5999395481C30FED6A",
-      "name": "oppulent-week",
+      "address": "F8494F4AC403CAD3ACCCEA87ED93C4361271D235",
+      "name": "icy-country",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "/1viIGZdE+aI3VZfrKDNktHdiPVuB/lWZUAZJAA+Dbs="
+        "value": "1uFLgav1E+zyFVERT2iNnt0+4Q7HtYYZ3M70XHXtg/A="
       }
     }
   ]
