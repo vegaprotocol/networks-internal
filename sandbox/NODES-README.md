@@ -14,3 +14,8 @@ Node documentation page contains all useful informations about the node. You can
 | ----------------------------------------- | -------------- | --------------------------------------------| ------------------- | -------------- | ----- |
 | n00.sandbox.vega.xyz | tm.n00.sandbox.vega.xyz | api.n00.sandbox.vega.xyz | fra1 | s-4vcpu-8gb | do |
 | n01.sandbox.vega.xyz | tm.n01.sandbox.vega.xyz | api.n01.sandbox.vega.xyz | fra1 | s-4vcpu-8gb | do |
+| n02.sandbox.vega.xyz | tm.n02.sandbox.vega.xyz | api.n02.sandbox.vega.xyz | fra1 | s-4vcpu-8gb | do |
+| n03.sandbox.vega.xyz | tm.n03.sandbox.vega.xyz | api.n03.sandbox.vega.xyz | fra1 | s-4vcpu-8gb | do |
+| n04.sandbox.vega.xyz | tm.n04.sandbox.vega.xyz | api.n04.sandbox.vega.xyz | fra1 | s-4vcpu-8gb | do |
+| n05.sandbox.vega.xyz | tm.n05.sandbox.vega.xyz | api.n05.sandbox.vega.xyz | fra1 | s-4vcpu-8gb | do |
+| n06.sandbox.vega.xyz | tm.n06.sandbox.vega.xyz | api.n06.sandbox.vega.xyz | fra1 | s-4vcpu-8gb | do |
