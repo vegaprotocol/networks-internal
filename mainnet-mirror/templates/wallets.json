@@ -1,0 +1,11 @@
+{
+	"ethereum": {
+		"main": {
+			"name": "main",
+			"secret_path": "mainnet-mirror/main",
+			"description": "Main Ethereum wallet for the Mainnet Mirror network",
+			"address": "0x0c7966D73B477c9F1caC454Ec01c2E8Bd0458F24"
+		}
+	},
+	"vegawallet": {}
+}
