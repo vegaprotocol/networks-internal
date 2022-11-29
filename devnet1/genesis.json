@@ -268,17 +268,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "7G7iRHyG6WVL0a797Ydr3h1qUElLPSToQ54BTkXxOlY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/wvmm2wowscaetvetw4zuhc9hwzo5fx3c?d=identicon",
-        "country": "XY",
-        "ethereum_address": "0xAe51A6CcE17D8CD6F957255755dE9A6899d65bBC",
-        "id": "312304e7892b54afc2bd1d17781f5e1fbaa26991407cb33d9a5aeb023c63a9e2",
-        "info_url": "https://en.wikipedia.org/wiki/Boson_II_de_Talleyrand-P%C3%A9rigord",
-        "name": "frantic-shoe",
-        "tm_pub_key": "7G7iRHyG6WVL0a797Ydr3h1qUElLPSToQ54BTkXxOlY=",
-        "vega_pub_key": "f83920a991d613be0385b7e9a23ecb59a1af111bcef47571b9062970de4b7b50",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -312,6 +301,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "JZ6q4tTMZUmBIollbs3wJRX9KsRc/u4JqoOyVWau/OE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xg3b7jzlpu8kl0aoedlb3hr2131advt0?d=identicon",
+        "country": "VX",
+        "ethereum_address": "0xa1D262b8a623F238F5267732498DC7839d799274",
+        "id": "ee7c199cc71ff4066fe1075e71a82f80a81631de6df50fb5412115f2a8b02e0e",
+        "info_url": "https://en.wikipedia.org/wiki/Genoese_Lighthouse",
+        "name": "condescending-mouse",
+        "tm_pub_key": "JZ6q4tTMZUmBIollbs3wJRX9KsRc/u4JqoOyVWau/OE=",
+        "vega_pub_key": "d92b0e71edc545daa979e816456563805dc8f53fc73c5349fb3f4980d455958f",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211281707",
+  "chain_id": "vega-devnet1-202211290727",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-28T17:07:54.50702415Z",
+  "genesis_time": "2022-11-29T07:27:47.135008278Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "E1ECCEDEECA0E0811DD972F25436A723719F805D",
-      "name": "frantic-shoe",
+      "address": "06C9E78FE1FECFC96A38BFF4CD9F6FDD34470973",
+      "name": "condescending-mouse",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "7G7iRHyG6WVL0a797Ydr3h1qUElLPSToQ54BTkXxOlY="
+        "value": "JZ6q4tTMZUmBIollbs3wJRX9KsRc/u4JqoOyVWau/OE="
       }
     }
   ]
