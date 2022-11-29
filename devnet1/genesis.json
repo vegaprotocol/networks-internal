@@ -268,17 +268,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "1lqBMXuHslZHKZV1CbCqILTO14WMbonuGHkMkxvJbe8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/xxjf9bbxqmnnuamyymkecc778bw10fn4?d=identicon",
-        "country": "RM",
-        "ethereum_address": "0xEb88E0Fe6244D225f650a7f67754dee86028A992",
-        "id": "33d2331acdf76dd12bc7beb106d26443de185b4f6971331403cdeba57bccdbb6",
-        "info_url": "https://en.wikipedia.org/wiki/History_of_the_Chinese_language",
-        "name": "timely-cat",
-        "tm_pub_key": "1lqBMXuHslZHKZV1CbCqILTO14WMbonuGHkMkxvJbe8=",
-        "vega_pub_key": "833fc263bf474013038607732270983fc59f881d3c2c2c6671305e1d81a04537",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -322,10 +311,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "y1Zh4nRp7+RY7R+uTIA9AmIoDQz39c3hUgUBz7Kj6EM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/p980dx4pae83oz1uvl771xs52s0y5d96?d=identicon",
+        "country": "YD",
+        "ethereum_address": "0x20DCF436444BBbEa45EF7DcBead2ed4FFC0B52e8",
+        "id": "b34975c5ef6b78ed9f8f4f5a0cd2e52fa9cbf3d314362c3a3f6819506c92cee2",
+        "info_url": "https://en.wikipedia.org/wiki/Byto%C5%84",
+        "name": "gifted-shoe",
+        "tm_pub_key": "y1Zh4nRp7+RY7R+uTIA9AmIoDQz39c3hUgUBz7Kj6EM=",
+        "vega_pub_key": "4e5a45292089b222d66c31825f582a2542fe906b0941ccac9af99d0d47ba8852",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202211291042",
+  "chain_id": "vega-devnet1-202211291128",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-29T10:42:10.169799371Z",
+  "genesis_time": "2022-11-29T11:28:03.689639461Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "6FEFF29322CF0114D58DB04322652D2FF184B718",
-      "name": "timely-cat",
+      "address": "5DE4AA7008A096EC1E33156517C4F7235CB39D01",
+      "name": "gifted-shoe",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "1lqBMXuHslZHKZV1CbCqILTO14WMbonuGHkMkxvJbe8="
+        "value": "y1Zh4nRp7+RY7R+uTIA9AmIoDQz39c3hUgUBz7Kj6EM="
       }
     }
   ]
