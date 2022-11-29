@@ -95,6 +95,8 @@
       "market.value.windowLength": "168h",
       "network.checkpoint.timeElapsedBetweenCheckpoints": "1m",
       "network.floatingPointUpdates.delay": "5m",
+      "network.transaction.defaultgas": "1",
+      "network.transactions.maxgasperblock": "500000",
       "network.validators.ersatz.multipleOfTendermintValidators": "0.25",
       "network.validators.ersatz.rewardFactor": "0.9",
       "network.validators.incumbentBonus": "0.05",
@@ -134,20 +136,75 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "8PeKPqeCQqLSCIKoWtPx1oePzO221LX+CMyNR0Jghkw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/skggklfdxb3wusx0lv2bibwvwrzutlju?d=identicon",
+        "country": "HM",
+        "ethereum_address": "0x572db5Fb74d50212399D6a5CDB43D642C9df0846",
+        "id": "7bc19821a0652d946af192a7a4048fd83319cfa080f4d033a64fb0807efacacf",
+        "info_url": "https://en.wikipedia.org/wiki/Bernard_B._Brown",
+        "name": "courageous-cookie",
+        "tm_pub_key": "8PeKPqeCQqLSCIKoWtPx1oePzO221LX+CMyNR0Jghkw=",
+        "vega_pub_key": "35176f303510836a21703215901157564cbd978216fa73f13c1542b7153e67cd",
+        "vega_pub_key_index": 1
+      },
       "XzlbGRshtLkcmJG0Hp0wtHB++bb3JLu+JutQ4LHB86A=": {
-        "avatar_url": "",
-        "country": "",
+        "avatar_url": "https://www.gravatar.com/avatar/h2mihtnwqrv849kv9ta7icemvhgos7tt?d=identicon",
+        "country": "YP",
         "ethereum_address": "0xcE8E3096B79FAa6077927D26a8562b493Ae5862c",
         "id": "00c30c540c16cf9e86ca46f4e280b05a71d686aba80f1d215a47dc17f5c75d56",
-        "info_url": "",
-        "name": "",
+        "info_url": "https://en.wikipedia.org/wiki/Duchy_of_Courland_and_Semigallia_(1918)",
+        "name": "narrow-wind",
         "tm_pub_key": "XzlbGRshtLkcmJG0Hp0wtHB++bb3JLu+JutQ4LHB86A=",
         "vega_pub_key": "1a94865a473e547c3e284f266af627856680cadf29fb52aecb3bf72ffff447ad",
+        "vega_pub_key_index": 1
+      },
+      "fgwH0hw8TuHECk9wTds1II4T/AvhL2Eqor1nSNcRyJA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/cadirsdr6ntxjvev0uton16y77l6sndm?d=identicon",
+        "country": "XP",
+        "ethereum_address": "0x38Eb48C01aa9B3cAa7b179192EAaAfb8C8b6d553",
+        "id": "4e62ba0f5a8eb67cb5e6599eec4601f939f554896047ae21ff9452f104a1963a",
+        "info_url": "https://en.wikipedia.org/wiki/Fair_comment",
+        "name": "impressionable-park",
+        "tm_pub_key": "fgwH0hw8TuHECk9wTds1II4T/AvhL2Eqor1nSNcRyJA=",
+        "vega_pub_key": "a635500d4064146724e1210b7953c2e8dd1ec6d9151b5b970d2f8daef6686f60",
+        "vega_pub_key_index": 1
+      },
+      "rkjfzfJK8a2JEOoCqkByX+V2BVxS4wS0vJTigresIbQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/3lpnybxknv7z96ov5eo33qpycs9bcanh?d=identicon",
+        "country": "LS",
+        "ethereum_address": "0xd08cfa99394Fd20badaE848aa331938D6c3EfdFA",
+        "id": "82a58b0aa530e6b12f30bfb44400d08a6fa7bcac1adf5c9702782ed7d73e29da",
+        "info_url": "https://en.wikipedia.org/wiki/John_Thornton_(Australian_cricketer)",
+        "name": "easy-ball",
+        "tm_pub_key": "rkjfzfJK8a2JEOoCqkByX+V2BVxS4wS0vJTigresIbQ=",
+        "vega_pub_key": "471d071d9c56dc8ce090408b1ff6b05fdf4e58baf3df99e6c86bbdb9c21f9a1f",
+        "vega_pub_key_index": 1
+      },
+      "rnAecw6ssOvK0hjsSDAKKGRp0MBOeeqICdbn/bDi6ao=": {
+        "avatar_url": "https://www.gravatar.com/avatar/8mjwfb9n50z4ini0f7s2eq2uhzy5u3fr?d=identicon",
+        "country": "QH",
+        "ethereum_address": "0x338ff6C8e3215639786D0D4b57747fFf3e3d7BB3",
+        "id": "b7b6264a0944b84ec4e599dd79d423f7e1d9055a6fb6d8aa64e3fe31443ba1cc",
+        "info_url": "https://en.wikipedia.org/wiki/PureVolume",
+        "name": "wrong-road",
+        "tm_pub_key": "rnAecw6ssOvK0hjsSDAKKGRp0MBOeeqICdbn/bDi6ao=",
+        "vega_pub_key": "6301ac804bdce502c395a47fb99f3e8dfdfdc54cedc4dd7469db4b581042a979",
+        "vega_pub_key_index": 1
+      },
+      "sF/J5+escBPgeMZbL9NBnMaUwLWGaMuu6Gelq9tdT5g=": {
+        "avatar_url": "https://www.gravatar.com/avatar/nuj2ht4ee0463h7jfln0ixmhz1ucqc43?d=identicon",
+        "country": "HY",
+        "ethereum_address": "0x9D698d3eD70692BC2E0d8ba1EABD8a9d0Ad2351f",
+        "id": "5bb42fd3494d50a1993b1598b5a1856b7dbebe8957001bf6c57ab78652989a46",
+        "info_url": "https://en.wikipedia.org/wiki/Rhodanassa",
+        "name": "stocky-pen",
+        "tm_pub_key": "sF/J5+escBPgeMZbL9NBnMaUwLWGaMuu6Gelq9tdT5g=",
+        "vega_pub_key": "1c81dde7fa56790b16da0c0559ebb701d340385402fc84556b4574e2763f4807",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-sandbox-202210210947",
+  "chain_id": "vega-sandbox-202211291508",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -166,16 +223,61 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-10-21T09:47:09.746261826Z",
+  "genesis_time": "2022-11-29T15:08:33.813492219Z",
   "initial_height": "0",
   "validators": [
     {
       "address": "DBEE85A886E2E4FEC372010D69791CFBA9004457",
-      "name": "Validator n01",
+      "name": "narrow-wind",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
         "value": "XzlbGRshtLkcmJG0Hp0wtHB++bb3JLu+JutQ4LHB86A="
+      }
+    },
+    {
+      "address": "2E42A79555854AEEE411493DC5A82DCE98797360",
+      "name": "courageous-cookie",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "8PeKPqeCQqLSCIKoWtPx1oePzO221LX+CMyNR0Jghkw="
+      }
+    },
+    {
+      "address": "E0B8AB13D358BC42BE0B7120DB7B68132441E285",
+      "name": "stocky-pen",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "sF/J5+escBPgeMZbL9NBnMaUwLWGaMuu6Gelq9tdT5g="
+      }
+    },
+    {
+      "address": "B4AC63940438DDA8EE0B6A5C19181DE93F099611",
+      "name": "impressionable-park",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "fgwH0hw8TuHECk9wTds1II4T/AvhL2Eqor1nSNcRyJA="
+      }
+    },
+    {
+      "address": "441E98066C4563E1BA9B7C04B7CFC4DD1EFD4D04",
+      "name": "easy-ball",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "rkjfzfJK8a2JEOoCqkByX+V2BVxS4wS0vJTigresIbQ="
+      }
+    },
+    {
+      "address": "B158BECACEC03BFBF6C55F4E0CBE34F17A19E368",
+      "name": "wrong-road",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "rnAecw6ssOvK0hjsSDAKKGRp0MBOeeqICdbn/bDi6ao="
       }
     }
   ]
