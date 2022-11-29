@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "gHwuri15DgUzbab7X+oTJBtvCK6UdVW2weNJbBSNpRE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ssartg17iaecspwd6zrjihyax4j7yo3r?d=identicon",
-        "country": "AK",
-        "ethereum_address": "0xbf9896840150f28cA8C400a4340C246517443f43",
-        "id": "f1f06bbdf5cd6a969d2037a1e12ed1b15bd4ab96bbf39db6ef8ff7a57c048c99",
-        "info_url": "https://en.wikipedia.org/wiki/Papurana_aurata",
-        "name": "funny-bee",
-        "tm_pub_key": "gHwuri15DgUzbab7X+oTJBtvCK6UdVW2weNJbBSNpRE=",
-        "vega_pub_key": "d8e6360c701cb5bc9f210085964145461f7cbce3138b5a901b961dc7146563d0",
+      "fiV3NHBs75sDASWcL7LotE3AviLnXB44P2xzNjTwj2c=": {
+        "avatar_url": "https://www.gravatar.com/avatar/e3ubswzbzy0662qfe0vhzbvv979c41ed?d=identicon",
+        "country": "GU",
+        "ethereum_address": "0xCD42c8EA70201319961e7D2ad230A523d62AFA69",
+        "id": "8f7f9ba1e33c9d551a77753eaa3053dcbc37588ed65a13a5c220c5e8f54b68c8",
+        "info_url": "https://en.wikipedia.org/wiki/Social_isolation",
+        "name": "quizzical-brother",
+        "tm_pub_key": "fiV3NHBs75sDASWcL7LotE3AviLnXB44P2xzNjTwj2c=",
+        "vega_pub_key": "fdc45c065d819c6e75851209d1cf1d441182683da1cd0ff9939d17978c157c35",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211291438",
+  "chain_id": "vega-devnet1-202211291541",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-29T14:38:22.159202545Z",
+  "genesis_time": "2022-11-29T15:41:09.085031196Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "B3AFC93E0903822780C2E7076466F5B6DC7363CF",
-      "name": "funny-bee",
+      "address": "FEA0D9E66CF1BC9823F05A45984B7C681A6FB1E4",
+      "name": "quizzical-brother",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "gHwuri15DgUzbab7X+oTJBtvCK6UdVW2weNJbBSNpRE="
+        "value": "fiV3NHBs75sDASWcL7LotE3AviLnXB44P2xzNjTwj2c="
       }
     }
   ]
