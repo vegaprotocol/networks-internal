@@ -95,14 +95,12 @@
       "market.value.windowLength": "168h",
       "network.checkpoint.timeElapsedBetweenCheckpoints": "1m",
       "network.floatingPointUpdates.delay": "5m",
-      "network.transaction.defaultgas": "1",
-      "network.transactions.maxgasperblock": "500000",
-      "network.validators.ersatz.multipleOfTendermintValidators": "0.25",
+      "network.validators.ersatz.multipleOfTendermintValidators": "0.5",
       "network.validators.ersatz.rewardFactor": "0.9",
       "network.validators.incumbentBonus": "0.05",
       "network.validators.minimumEthereumEventsForNewValidator": "3",
-      "network.validators.multisig.numberOfSigners": "13",
-      "network.validators.tendermint.number": "5",
+      "network.validators.multisig.numberOfSigners": "6",
+      "network.validators.tendermint.number": "6",
       "reward.asset": "fc7fd956078fb1fc9db5c19b88f0874c4299b2a7639ad05a47a28c0aef291b55",
       "reward.staking.delegation.competitionLevel": "1.3",
       "reward.staking.delegation.delegatorShare": "0.883",
@@ -132,7 +130,7 @@
       "transfer.minTransferQuantumMultiple": "100",
       "validators.delegation.minAmount": "100000000000000000",
       "validators.epoch.length": "1h",
-      "validators.vote.required": "0.67"
+      "validators.vote.required": "0.5"
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
@@ -204,7 +202,7 @@
       }
     }
   },
-  "chain_id": "vega-sandbox-202211291600",
+  "chain_id": "vega-sandbox-202211292035",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -223,7 +221,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-29T16:00:49.291660685Z",
+  "genesis_time": "2022-11-29T20:35:37.235344583Z",
   "initial_height": "0",
   "validators": [
     {
