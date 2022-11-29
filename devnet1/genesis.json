@@ -301,6 +301,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "gHwuri15DgUzbab7X+oTJBtvCK6UdVW2weNJbBSNpRE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ssartg17iaecspwd6zrjihyax4j7yo3r?d=identicon",
+        "country": "AK",
+        "ethereum_address": "0xbf9896840150f28cA8C400a4340C246517443f43",
+        "id": "f1f06bbdf5cd6a969d2037a1e12ed1b15bd4ab96bbf39db6ef8ff7a57c048c99",
+        "info_url": "https://en.wikipedia.org/wiki/Papurana_aurata",
+        "name": "funny-bee",
+        "tm_pub_key": "gHwuri15DgUzbab7X+oTJBtvCK6UdVW2weNJbBSNpRE=",
+        "vega_pub_key": "d8e6360c701cb5bc9f210085964145461f7cbce3138b5a901b961dc7146563d0",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -311,21 +322,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "y1Zh4nRp7+RY7R+uTIA9AmIoDQz39c3hUgUBz7Kj6EM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/p980dx4pae83oz1uvl771xs52s0y5d96?d=identicon",
-        "country": "YD",
-        "ethereum_address": "0x20DCF436444BBbEa45EF7DcBead2ed4FFC0B52e8",
-        "id": "b34975c5ef6b78ed9f8f4f5a0cd2e52fa9cbf3d314362c3a3f6819506c92cee2",
-        "info_url": "https://en.wikipedia.org/wiki/Byto%C5%84",
-        "name": "gifted-shoe",
-        "tm_pub_key": "y1Zh4nRp7+RY7R+uTIA9AmIoDQz39c3hUgUBz7Kj6EM=",
-        "vega_pub_key": "4e5a45292089b222d66c31825f582a2542fe906b0941ccac9af99d0d47ba8852",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202211291205",
+  "chain_id": "vega-devnet1-202211291357",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-29T12:05:09.901286601Z",
+  "genesis_time": "2022-11-29T13:57:54.884025659Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "5DE4AA7008A096EC1E33156517C4F7235CB39D01",
-      "name": "gifted-shoe",
+      "address": "B3AFC93E0903822780C2E7076466F5B6DC7363CF",
+      "name": "funny-bee",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "y1Zh4nRp7+RY7R+uTIA9AmIoDQz39c3hUgUBz7Kj6EM="
+        "value": "gHwuri15DgUzbab7X+oTJBtvCK6UdVW2weNJbBSNpRE="
       }
     }
   ]
