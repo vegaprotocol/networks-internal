@@ -29,7 +29,7 @@
                 "decimals": 18,
                 "name": "Vega (sandbox)",
                 "quantum": "1",
-                "source": {
+                "source": {        "version": {}
                     "erc20": {
                         "contract_address": "0xAe6dd14bD9313d22Cf2254F347836570Df592022",
                         "lifetime_limit": "",
@@ -154,7 +154,6 @@
             "validators.delegation.minAmount" : "100000000000000000",
             "validators.epoch.length" : "1h",
             "validators.vote.required" : "0.67",
-            "network.transactions.maxgasperblock":"500000",
             "network.transaction.defaultgas":"1"
         },
         "network_parameters_checkpoint_overwrite": null,
