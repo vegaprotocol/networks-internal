@@ -268,6 +268,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "1lqBMXuHslZHKZV1CbCqILTO14WMbonuGHkMkxvJbe8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xxjf9bbxqmnnuamyymkecc778bw10fn4?d=identicon",
+        "country": "RM",
+        "ethereum_address": "0xEb88E0Fe6244D225f650a7f67754dee86028A992",
+        "id": "33d2331acdf76dd12bc7beb106d26443de185b4f6971331403cdeba57bccdbb6",
+        "info_url": "https://en.wikipedia.org/wiki/History_of_the_Chinese_language",
+        "name": "timely-cat",
+        "tm_pub_key": "1lqBMXuHslZHKZV1CbCqILTO14WMbonuGHkMkxvJbe8=",
+        "vega_pub_key": "833fc263bf474013038607732270983fc59f881d3c2c2c6671305e1d81a04537",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -301,17 +312,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "JZ6q4tTMZUmBIollbs3wJRX9KsRc/u4JqoOyVWau/OE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/xg3b7jzlpu8kl0aoedlb3hr2131advt0?d=identicon",
-        "country": "VX",
-        "ethereum_address": "0xa1D262b8a623F238F5267732498DC7839d799274",
-        "id": "ee7c199cc71ff4066fe1075e71a82f80a81631de6df50fb5412115f2a8b02e0e",
-        "info_url": "https://en.wikipedia.org/wiki/Genoese_Lighthouse",
-        "name": "condescending-mouse",
-        "tm_pub_key": "JZ6q4tTMZUmBIollbs3wJRX9KsRc/u4JqoOyVWau/OE=",
-        "vega_pub_key": "d92b0e71edc545daa979e816456563805dc8f53fc73c5349fb3f4980d455958f",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211290727",
+  "chain_id": "vega-devnet1-202211291042",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-29T07:27:47.135008278Z",
+  "genesis_time": "2022-11-29T10:42:10.169799371Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "06C9E78FE1FECFC96A38BFF4CD9F6FDD34470973",
-      "name": "condescending-mouse",
+      "address": "6FEFF29322CF0114D58DB04322652D2FF184B718",
+      "name": "timely-cat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "JZ6q4tTMZUmBIollbs3wJRX9KsRc/u4JqoOyVWau/OE="
+        "value": "1lqBMXuHslZHKZV1CbCqILTO14WMbonuGHkMkxvJbe8="
       }
     }
   ]
