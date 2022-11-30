@@ -290,6 +290,17 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
+      "GNyiSB8tsN9JEPhtKuTApdN1FDoXa7vNhYFAX1P9P+A=": {
+        "avatar_url": "https://www.gravatar.com/avatar/w86a6bmf5y3fz24a2itfv63mrn0ir4p4?d=identicon",
+        "country": "YH",
+        "ethereum_address": "0x21a647AbAb13fb56533e5b9543DE3427ce141273",
+        "id": "98cd94522887966b29a9704b03bd5834e350c5c630bbedadbac4e26424902639",
+        "info_url": "https://en.wikipedia.org/wiki/Emmet_(Cornish)",
+        "name": "agitated-plant",
+        "tm_pub_key": "GNyiSB8tsN9JEPhtKuTApdN1FDoXa7vNhYFAX1P9P+A=",
+        "vega_pub_key": "e7bf450c516d1ded9541aa8bf54d6e8fb066b8f7fe0e1db0a27f5fba4a9baa7e",
+        "vega_pub_key_index": 1
+      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -299,17 +310,6 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
-        "vega_pub_key_index": 1
-      },
-      "Y+HGjKCeJC2lPF7zk3tm/Fr1kxiJR8ym+L13AIC8G1o=": {
-        "avatar_url": "https://www.gravatar.com/avatar/nrdt665li55ocv5glsn6s82icpatwvua?d=identicon",
-        "country": "XA",
-        "ethereum_address": "0xe309f8F176b1f8435b0e0295448223DF66C6397D",
-        "id": "25818f2bc03d305317c354881c096fb38d0d5a223019e4664b2e20f29b87e240",
-        "info_url": "https://en.wikipedia.org/wiki/Southside,_Birmingham",
-        "name": "wicked-day",
-        "tm_pub_key": "Y+HGjKCeJC2lPF7zk3tm/Fr1kxiJR8ym+L13AIC8G1o=",
-        "vega_pub_key": "16a3fa7ff7c3974a765a0bd4c212f8e17504f07b2ca4368ec5c169255b40e364",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211301145",
+  "chain_id": "vega-devnet1-202211301331",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-30T11:45:05.574698397Z",
+  "genesis_time": "2022-11-30T13:31:34.843082712Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "4CEC9969494C739D25675A7F53269BF5EF89DD20",
-      "name": "wicked-day",
+      "address": "B75CF4CD13C653D60DE48046A5DFB0EBEDDECAA2",
+      "name": "agitated-plant",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Y+HGjKCeJC2lPF7zk3tm/Fr1kxiJR8ym+L13AIC8G1o="
+        "value": "GNyiSB8tsN9JEPhtKuTApdN1FDoXa7vNhYFAX1P9P+A="
       }
     }
   ]
