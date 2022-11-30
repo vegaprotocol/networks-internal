@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "r+iXbMTNVyB8SOSUgwjm0EJCLCne8o6O0och+48jUlg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/vchuc1ovxr36f5dj9b3b1duezvw0s6s7?d=identicon",
-        "country": "JK",
-        "ethereum_address": "0x865f6392AF30C01b0caa1aaF65AfA13C13eF074d",
-        "id": "c30c1278f3216c75a5fa3daff152c0f321755fe2b7bd5cb88490d6baf3c83099",
-        "info_url": "https://en.wikipedia.org/wiki/Fantasia_(wrestler)",
-        "name": "frustrating-butterfly",
-        "tm_pub_key": "r+iXbMTNVyB8SOSUgwjm0EJCLCne8o6O0och+48jUlg=",
-        "vega_pub_key": "f454ba36050ca52c5e2417602564d4370f498ac69b876b259f2cef19522cb785",
+      "Xj8IMMScrqQDMkj6uJHCXE6woWwQ6pjbaVtTp3uo+8I=": {
+        "avatar_url": "https://www.gravatar.com/avatar/sy10g9vke7tprrrnewrrmv0w1th0sinh?d=identicon",
+        "country": "FH",
+        "ethereum_address": "0xB674dC96CA7692c0f41d060d9FEBec5e98eFDcB3",
+        "id": "e1418d8b5ac3136e6d12082bbe0710151a58c1b83211e97724f534e6d87a277c",
+        "info_url": "https://en.wikipedia.org/wiki/Mike_Zalewski",
+        "name": "tense-river",
+        "tm_pub_key": "Xj8IMMScrqQDMkj6uJHCXE6woWwQ6pjbaVtTp3uo+8I=",
+        "vega_pub_key": "85b082f6a874b2955b03ad7b585119774dfb121fa4f5bfa7ccedefe5a988a3f6",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211301431",
+  "chain_id": "vega-devnet1-202211301619",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-30T14:31:19.654075656Z",
+  "genesis_time": "2022-11-30T16:19:42.299945221Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "FBEBBD5EB79DA2A2553B0515066D7391726F72FB",
-      "name": "frustrating-butterfly",
+      "address": "241FBB189100EBCB4648E3FB573A46F511B48837",
+      "name": "tense-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "r+iXbMTNVyB8SOSUgwjm0EJCLCne8o6O0och+48jUlg="
+        "value": "Xj8IMMScrqQDMkj6uJHCXE6woWwQ6pjbaVtTp3uo+8I="
       }
     }
   ]
