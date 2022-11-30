@@ -301,6 +301,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "NIPi7ICHcqjT8qIdQ9NLjbiwenfcparO4NgM8f4QGdE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/da457a7tcu81unfst203cgspfxlbgh0c?d=identicon",
+        "country": "IT",
+        "ethereum_address": "0xfb081233Eb3aa5801578A703c7D94c6f839F89Da",
+        "id": "ff25cb36bcf58d16f8aab5a1cc67857edbc87e4daf3f7459ca2c8b8b0f949fa4",
+        "info_url": "https://en.wikipedia.org/wiki/Arifki_Eka_Putra",
+        "name": "brave-chair",
+        "tm_pub_key": "NIPi7ICHcqjT8qIdQ9NLjbiwenfcparO4NgM8f4QGdE=",
+        "vega_pub_key": "72398d79ef4048d80d7008abcb56b6ce8eb7c9525ad0ad08330cd0d346d41635",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -311,21 +322,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "ueU12dGcsw/+DgDDTHtiiJkC09tuGFD6VSmL9U63SbM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/i71utdh14moo9474ymr1xb4ysfidyntz?d=identicon",
-        "country": "JH",
-        "ethereum_address": "0x44c04260188E77906aF07e5020F392A103fe4abc",
-        "id": "46035c4680fa11187f449ac1468940e481897c59662e9e8609676a112ffcb5ee",
-        "info_url": "https://en.wikipedia.org/wiki/B%C3%A1rbara_Arenhart",
-        "name": "tense-pool",
-        "tm_pub_key": "ueU12dGcsw/+DgDDTHtiiJkC09tuGFD6VSmL9U63SbM=",
-        "vega_pub_key": "d79d0254371d122c602df8b12adae2ab063e3ef346d0f2190136016cb46a04fe",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202211292135",
+  "chain_id": "vega-devnet1-202211300857",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-29T21:35:28.346482341Z",
+  "genesis_time": "2022-11-30T08:57:11.354844328Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "9037A2B82F0B320492C921CE1489AB9C6F1203D6",
-      "name": "tense-pool",
+      "address": "F5421829BA77CAAF0C2D27B8A0ADB6C5EA539C1A",
+      "name": "brave-chair",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ueU12dGcsw/+DgDDTHtiiJkC09tuGFD6VSmL9U63SbM="
+        "value": "NIPi7ICHcqjT8qIdQ9NLjbiwenfcparO4NgM8f4QGdE="
       }
     }
   ]
