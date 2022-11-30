@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "NIPi7ICHcqjT8qIdQ9NLjbiwenfcparO4NgM8f4QGdE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/da457a7tcu81unfst203cgspfxlbgh0c?d=identicon",
-        "country": "IT",
-        "ethereum_address": "0xfb081233Eb3aa5801578A703c7D94c6f839F89Da",
-        "id": "ff25cb36bcf58d16f8aab5a1cc67857edbc87e4daf3f7459ca2c8b8b0f949fa4",
-        "info_url": "https://en.wikipedia.org/wiki/Arifki_Eka_Putra",
-        "name": "brave-chair",
-        "tm_pub_key": "NIPi7ICHcqjT8qIdQ9NLjbiwenfcparO4NgM8f4QGdE=",
-        "vega_pub_key": "72398d79ef4048d80d7008abcb56b6ce8eb7c9525ad0ad08330cd0d346d41635",
+      "Y+HGjKCeJC2lPF7zk3tm/Fr1kxiJR8ym+L13AIC8G1o=": {
+        "avatar_url": "https://www.gravatar.com/avatar/nrdt665li55ocv5glsn6s82icpatwvua?d=identicon",
+        "country": "XA",
+        "ethereum_address": "0xe309f8F176b1f8435b0e0295448223DF66C6397D",
+        "id": "25818f2bc03d305317c354881c096fb38d0d5a223019e4664b2e20f29b87e240",
+        "info_url": "https://en.wikipedia.org/wiki/Southside,_Birmingham",
+        "name": "wicked-day",
+        "tm_pub_key": "Y+HGjKCeJC2lPF7zk3tm/Fr1kxiJR8ym+L13AIC8G1o=",
+        "vega_pub_key": "16a3fa7ff7c3974a765a0bd4c212f8e17504f07b2ca4368ec5c169255b40e364",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211300937",
+  "chain_id": "vega-devnet1-202211301057",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-30T09:37:44.91869732Z",
+  "genesis_time": "2022-11-30T10:57:20.5333996Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "F5421829BA77CAAF0C2D27B8A0ADB6C5EA539C1A",
-      "name": "brave-chair",
+      "address": "4CEC9969494C739D25675A7F53269BF5EF89DD20",
+      "name": "wicked-day",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "NIPi7ICHcqjT8qIdQ9NLjbiwenfcparO4NgM8f4QGdE="
+        "value": "Y+HGjKCeJC2lPF7zk3tm/Fr1kxiJR8ym+L13AIC8G1o="
       }
     }
   ]
