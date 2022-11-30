@@ -279,6 +279,17 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
+      "A9xv75Wl6gQ4x16Xvqe10Lkfa26Lj4fXKCM5EfKjnBU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/wauqen59ol3kzusc84lfnraxhi3g32z1?d=identicon",
+        "country": "QA",
+        "ethereum_address": "0xFA20b7f51be239097b2193fcfB4DE6f7D718CD86",
+        "id": "2a7e54bbe180db111c0887e9b1fd0723737363f18331457f6aaf1cbddee71009",
+        "info_url": "https://en.wikipedia.org/wiki/Yamanashi_Science_Museum",
+        "name": "inexpensive-bat",
+        "tm_pub_key": "A9xv75Wl6gQ4x16Xvqe10Lkfa26Lj4fXKCM5EfKjnBU=",
+        "vega_pub_key": "12c4874850b401f1c4157701e1c8575da00fee8e020aa408a0d21491a89d58d8",
+        "vega_pub_key_index": 1
+      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -301,17 +312,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "Xj8IMMScrqQDMkj6uJHCXE6woWwQ6pjbaVtTp3uo+8I=": {
-        "avatar_url": "https://www.gravatar.com/avatar/sy10g9vke7tprrrnewrrmv0w1th0sinh?d=identicon",
-        "country": "FH",
-        "ethereum_address": "0xB674dC96CA7692c0f41d060d9FEBec5e98eFDcB3",
-        "id": "e1418d8b5ac3136e6d12082bbe0710151a58c1b83211e97724f534e6d87a277c",
-        "info_url": "https://en.wikipedia.org/wiki/Mike_Zalewski",
-        "name": "tense-river",
-        "tm_pub_key": "Xj8IMMScrqQDMkj6uJHCXE6woWwQ6pjbaVtTp3uo+8I=",
-        "vega_pub_key": "85b082f6a874b2955b03ad7b585119774dfb121fa4f5bfa7ccedefe5a988a3f6",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211301619",
+  "chain_id": "vega-devnet1-202211302248",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-30T16:19:42.299945221Z",
+  "genesis_time": "2022-11-30T22:48:48.358049744Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "241FBB189100EBCB4648E3FB573A46F511B48837",
-      "name": "tense-river",
+      "address": "2CCAA7B11E34C61E879076DD391AA07CF2513284",
+      "name": "inexpensive-bat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Xj8IMMScrqQDMkj6uJHCXE6woWwQ6pjbaVtTp3uo+8I="
+        "value": "A9xv75Wl6gQ4x16Xvqe10Lkfa26Lj4fXKCM5EfKjnBU="
       }
     }
   ]
