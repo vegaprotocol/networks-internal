@@ -43,7 +43,7 @@
             "replay_attack_threshold": 150
         },
         "network_parameters": {
-            "blockchains.ethereumConfig": "{\"network_id\": \"1\", \"chain_id\": \"1\", \"collateral_bridge_contract\": { \"address\": \"0x124Dd8a6044ef048614AEA0AAC86643a8Ae1312D\" }, \"confirmations\": 50, \"staking_bridge_contract\": { \"address\": \"0x195064D33f09e0c42cF98E665D9506e0dC17de68\", \"deployment_block_height\": 13146644}, \"token_vesting_contract\": { \"address\": \"0x23d1bFE8fA50a167816fBD79D7932577c06011f4\", \"deployment_block_height\": 12834524 }, \"multisig_control_contract\": {\"address\": \"0xDD2df0E7583ff2acfed5e49Df4a424129cA9B58F\", \"deployment_block_height\": 15263593 }}",
+            "blockchains.ethereumConfig": "{\"network_id\": \"11155111\", \"chain_id\": \"11155111\", \"collateral_bridge_contract\": { \"address\": \"0xCd29cA24b9409159Ee8ab7B72daBae705087c2cc\" }, \"confirmations\": 50, \"staking_bridge_contract\": { \"address\": \"0xf4aB19083ebE167a8384f8116f6e9a98670821c8\", \"deployment_block_height\": 2382641}, \"token_vesting_contract\": { \"address\": \"0xadFcb7f93a24F8743a8e548d74d2ecB373c92866\", \"deployment_block_height\": 2382643 }, \"multisig_control_contract\": {\"address\": \"0x52dC264875130E32ed49487105B269739AD6c317\", \"deployment_block_height\": 2382635 }}",
             "reward.asset": "d1984e3d365faa05bcafbe41f50f90e3663ee7c0da22bb1e24b164e9532691b2",
             "governance.proposal.market.maxClose": "720h",
             "governance.proposal.market.maxEnact": "720h",
