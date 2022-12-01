@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "n4xKvq68Hvj+iHZ+eKRcvQQuhvKQVmgQO57EviE76ks=": {
-        "avatar_url": "https://www.gravatar.com/avatar/dcmm8099tgj1ng9a1z0492qjwprkgyks?d=identicon",
-        "country": "NB",
-        "ethereum_address": "0xD6bAEA4bb9df15Ea14beB15DdF66597DaA4427C3",
-        "id": "484931b4df7f94066dd2e1534f11d3a1892e6406ee32e9f02af0897a0c836f4b",
-        "info_url": "https://en.wikipedia.org/wiki/Lychnosea_intermicata",
-        "name": "frantic-toy",
-        "tm_pub_key": "n4xKvq68Hvj+iHZ+eKRcvQQuhvKQVmgQO57EviE76ks=",
-        "vega_pub_key": "ba3cf02219314473201573c9330893bc833434b089e6c3f676fa5bf1107fb75e",
+      "epFFMXCO7KyVUzwrAJhjiuIy7zhVo+foxhUbclo2mxI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/aqahpaswxmzka66bdqxscla0irz6w8xt?d=identicon",
+        "country": "FM",
+        "ethereum_address": "0x71f877D6dbd75Cf097deaF61afE0A502343f5d0b",
+        "id": "5d0a63b29be7d1feabfe908a23075e90e1ed954fa608145f1c9987a69973bf24",
+        "info_url": "https://en.wikipedia.org/wiki/Andrusov",
+        "name": "oppulent-ball",
+        "tm_pub_key": "epFFMXCO7KyVUzwrAJhjiuIy7zhVo+foxhUbclo2mxI=",
+        "vega_pub_key": "bde9b5cff307f5d0ab3ef627c5e8816371e0a056c9a79e8c75d2a95ba99bc997",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212011426",
+  "chain_id": "vega-devnet1-202212011734",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-01T14:26:37.856511266Z",
+  "genesis_time": "2022-12-01T17:34:20.66959805Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "D6B792C150D34080F983D9432E2F70239951CF40",
-      "name": "frantic-toy",
+      "address": "903C68C49FB8BEC320FD5F70D49792B03F451DE0",
+      "name": "oppulent-ball",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "n4xKvq68Hvj+iHZ+eKRcvQQuhvKQVmgQO57EviE76ks="
+        "value": "epFFMXCO7KyVUzwrAJhjiuIy7zhVo+foxhUbclo2mxI="
       }
     }
   ]
