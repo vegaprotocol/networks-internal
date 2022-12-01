@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "nh2slaHlfUiDstIzd60ccrQM3bG99sYPFApyX/L6ODY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/79alot4xoc1sjw3qeo7uxa5w1aofd02x?d=identicon",
-        "country": "TW",
-        "ethereum_address": "0x1Be5FA52452456E5D1da7a1947423d7EEB333e48",
-        "id": "6221159abc5c856ede2df79fdad1ba864b5d2cc59f92c52c72140446491f1894",
-        "info_url": "https://en.wikipedia.org/wiki/Al-Ittihad,_Ramallah",
-        "name": "ideal-movie",
-        "tm_pub_key": "nh2slaHlfUiDstIzd60ccrQM3bG99sYPFApyX/L6ODY=",
-        "vega_pub_key": "b23f5a61b32b1b9920f6db9dc0738b234b75205ace78495a57926452f7f9325c",
+      "j4NQFNv4uBDNfG03TCm3BkLmPY91AnGGJJScDCM11OI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/vqrcoest9iekgcohyfs2tk8w56dnvh8e?d=identicon",
+        "country": "PO",
+        "ethereum_address": "0xD3449E2D9D3Af4DA8719237870680e1fd07261B2",
+        "id": "74058e51c40765ec28c980da8452cbe57297e201bd02a7bf7bc44c526a0789e3",
+        "info_url": "https://en.wikipedia.org/wiki/Jules_Bourgeois",
+        "name": "powerful-farmer",
+        "tm_pub_key": "j4NQFNv4uBDNfG03TCm3BkLmPY91AnGGJJScDCM11OI=",
+        "vega_pub_key": "6731121ab07aaebe0ccce7458007150c8ce6d51be08af5c01bbe5dce92afe02d",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212011002",
+  "chain_id": "vega-devnet1-202212011211",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-01T10:02:44.064241643Z",
+  "genesis_time": "2022-12-01T12:11:57.062957447Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "5EFE2D5DC2D2EA926EC032F3A020143654CA6900",
-      "name": "ideal-movie",
+      "address": "55CAE8A16DACB48AB28FA4C723DAF1D87FCEC43C",
+      "name": "powerful-farmer",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "nh2slaHlfUiDstIzd60ccrQM3bG99sYPFApyX/L6ODY="
+        "value": "j4NQFNv4uBDNfG03TCm3BkLmPY91AnGGJJScDCM11OI="
       }
     }
   ]
