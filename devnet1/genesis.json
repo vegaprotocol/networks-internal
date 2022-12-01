@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "j4NQFNv4uBDNfG03TCm3BkLmPY91AnGGJJScDCM11OI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/vqrcoest9iekgcohyfs2tk8w56dnvh8e?d=identicon",
-        "country": "PO",
-        "ethereum_address": "0xD3449E2D9D3Af4DA8719237870680e1fd07261B2",
-        "id": "74058e51c40765ec28c980da8452cbe57297e201bd02a7bf7bc44c526a0789e3",
-        "info_url": "https://en.wikipedia.org/wiki/Jules_Bourgeois",
-        "name": "powerful-farmer",
-        "tm_pub_key": "j4NQFNv4uBDNfG03TCm3BkLmPY91AnGGJJScDCM11OI=",
-        "vega_pub_key": "6731121ab07aaebe0ccce7458007150c8ce6d51be08af5c01bbe5dce92afe02d",
+      "n4xKvq68Hvj+iHZ+eKRcvQQuhvKQVmgQO57EviE76ks=": {
+        "avatar_url": "https://www.gravatar.com/avatar/dcmm8099tgj1ng9a1z0492qjwprkgyks?d=identicon",
+        "country": "NB",
+        "ethereum_address": "0xD6bAEA4bb9df15Ea14beB15DdF66597DaA4427C3",
+        "id": "484931b4df7f94066dd2e1534f11d3a1892e6406ee32e9f02af0897a0c836f4b",
+        "info_url": "https://en.wikipedia.org/wiki/Lychnosea_intermicata",
+        "name": "frantic-toy",
+        "tm_pub_key": "n4xKvq68Hvj+iHZ+eKRcvQQuhvKQVmgQO57EviE76ks=",
+        "vega_pub_key": "ba3cf02219314473201573c9330893bc833434b089e6c3f676fa5bf1107fb75e",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212011211",
+  "chain_id": "vega-devnet1-202212011426",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-01T12:11:57.062957447Z",
+  "genesis_time": "2022-12-01T14:26:37.856511266Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "55CAE8A16DACB48AB28FA4C723DAF1D87FCEC43C",
-      "name": "powerful-farmer",
+      "address": "D6B792C150D34080F983D9432E2F70239951CF40",
+      "name": "frantic-toy",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "j4NQFNv4uBDNfG03TCm3BkLmPY91AnGGJJScDCM11OI="
+        "value": "n4xKvq68Hvj+iHZ+eKRcvQQuhvKQVmgQO57EviE76ks="
       }
     }
   ]
