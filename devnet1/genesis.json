@@ -279,17 +279,6 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
-      "A9xv75Wl6gQ4x16Xvqe10Lkfa26Lj4fXKCM5EfKjnBU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/wauqen59ol3kzusc84lfnraxhi3g32z1?d=identicon",
-        "country": "QA",
-        "ethereum_address": "0xFA20b7f51be239097b2193fcfB4DE6f7D718CD86",
-        "id": "2a7e54bbe180db111c0887e9b1fd0723737363f18331457f6aaf1cbddee71009",
-        "info_url": "https://en.wikipedia.org/wiki/Yamanashi_Science_Museum",
-        "name": "inexpensive-bat",
-        "tm_pub_key": "A9xv75Wl6gQ4x16Xvqe10Lkfa26Lj4fXKCM5EfKjnBU=",
-        "vega_pub_key": "12c4874850b401f1c4157701e1c8575da00fee8e020aa408a0d21491a89d58d8",
-        "vega_pub_key_index": 1
-      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -312,6 +301,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "nh2slaHlfUiDstIzd60ccrQM3bG99sYPFApyX/L6ODY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/79alot4xoc1sjw3qeo7uxa5w1aofd02x?d=identicon",
+        "country": "TW",
+        "ethereum_address": "0x1Be5FA52452456E5D1da7a1947423d7EEB333e48",
+        "id": "6221159abc5c856ede2df79fdad1ba864b5d2cc59f92c52c72140446491f1894",
+        "info_url": "https://en.wikipedia.org/wiki/Al-Ittihad,_Ramallah",
+        "name": "ideal-movie",
+        "tm_pub_key": "nh2slaHlfUiDstIzd60ccrQM3bG99sYPFApyX/L6ODY=",
+        "vega_pub_key": "b23f5a61b32b1b9920f6db9dc0738b234b75205ace78495a57926452f7f9325c",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202211302317",
+  "chain_id": "vega-devnet1-202212011002",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-11-30T23:17:07.875489068Z",
+  "genesis_time": "2022-12-01T10:02:44.064241643Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "2CCAA7B11E34C61E879076DD391AA07CF2513284",
-      "name": "inexpensive-bat",
+      "address": "5EFE2D5DC2D2EA926EC032F3A020143654CA6900",
+      "name": "ideal-movie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "A9xv75Wl6gQ4x16Xvqe10Lkfa26Lj4fXKCM5EfKjnBU="
+        "value": "nh2slaHlfUiDstIzd60ccrQM3bG99sYPFApyX/L6ODY="
       }
     }
   ]
