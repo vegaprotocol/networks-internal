@@ -268,6 +268,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "2rBch1okOkz1k2NTiKTgsP5Ghh+jaGrDoowNgHRaUyU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/o9wcue4o99y6or2z962f4dy3g96nxt7l?d=identicon",
+        "country": "SP",
+        "ethereum_address": "0x26048Ad68579FE6E0eCDCf0799f744bFc2f3E6d8",
+        "id": "1d1aba7825612288884e64fa27ae71a5182f96447223e21e0299097cf259120f",
+        "info_url": "https://en.wikipedia.org/wiki/Scotland_at_the_Cricket_World_Cup",
+        "name": "green-hill",
+        "tm_pub_key": "2rBch1okOkz1k2NTiKTgsP5Ghh+jaGrDoowNgHRaUyU=",
+        "vega_pub_key": "dfb4a1a2180979b6020449569578e47209e1a4ec4b61c2abe5271feee01b10c1",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -301,17 +312,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "epFFMXCO7KyVUzwrAJhjiuIy7zhVo+foxhUbclo2mxI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/aqahpaswxmzka66bdqxscla0irz6w8xt?d=identicon",
-        "country": "FM",
-        "ethereum_address": "0x71f877D6dbd75Cf097deaF61afE0A502343f5d0b",
-        "id": "5d0a63b29be7d1feabfe908a23075e90e1ed954fa608145f1c9987a69973bf24",
-        "info_url": "https://en.wikipedia.org/wiki/Andrusov",
-        "name": "oppulent-ball",
-        "tm_pub_key": "epFFMXCO7KyVUzwrAJhjiuIy7zhVo+foxhUbclo2mxI=",
-        "vega_pub_key": "bde9b5cff307f5d0ab3ef627c5e8816371e0a056c9a79e8c75d2a95ba99bc997",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212011734",
+  "chain_id": "vega-devnet1-202212020018",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-01T17:34:20.66959805Z",
+  "genesis_time": "2022-12-02T00:18:36.977644571Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "903C68C49FB8BEC320FD5F70D49792B03F451DE0",
-      "name": "oppulent-ball",
+      "address": "1CED6FA68666ECA20AABF0E2E57C8F853FC6E1DF",
+      "name": "green-hill",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "epFFMXCO7KyVUzwrAJhjiuIy7zhVo+foxhUbclo2mxI="
+        "value": "2rBch1okOkz1k2NTiKTgsP5Ghh+jaGrDoowNgHRaUyU="
       }
     }
   ]
