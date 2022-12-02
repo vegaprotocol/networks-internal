@@ -268,17 +268,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "2rBch1okOkz1k2NTiKTgsP5Ghh+jaGrDoowNgHRaUyU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/o9wcue4o99y6or2z962f4dy3g96nxt7l?d=identicon",
-        "country": "SP",
-        "ethereum_address": "0x26048Ad68579FE6E0eCDCf0799f744bFc2f3E6d8",
-        "id": "1d1aba7825612288884e64fa27ae71a5182f96447223e21e0299097cf259120f",
-        "info_url": "https://en.wikipedia.org/wiki/Scotland_at_the_Cricket_World_Cup",
-        "name": "green-hill",
-        "tm_pub_key": "2rBch1okOkz1k2NTiKTgsP5Ghh+jaGrDoowNgHRaUyU=",
-        "vega_pub_key": "dfb4a1a2180979b6020449569578e47209e1a4ec4b61c2abe5271feee01b10c1",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -312,6 +301,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "ZYyjRuB0BSB4RHXqaf6uOtOiEip4fnBYm2Ku6So9FmM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/bepkin1negxfnlog68cnuvk1oe6c9sxv?d=identicon",
+        "country": "YW",
+        "ethereum_address": "0x3CAf1a2e1393095ef5984154288b5e10D9B7E60b",
+        "id": "e18efa6df38d59e5cb1a1c409f1ea9f45ff66b1d37a3a2710b330334bd35aaca",
+        "info_url": "https://en.wikipedia.org/wiki/Rada_Granovskaya",
+        "name": "hollow-farmer",
+        "tm_pub_key": "ZYyjRuB0BSB4RHXqaf6uOtOiEip4fnBYm2Ku6So9FmM=",
+        "vega_pub_key": "39e91e57f01910d6bb617643a51d66c0c04a198b11d1a75e6c766d59e65a68bc",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212020018",
+  "chain_id": "vega-devnet1-202212020933",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-02T00:18:36.977644571Z",
+  "genesis_time": "2022-12-02T09:33:49.619530164Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "1CED6FA68666ECA20AABF0E2E57C8F853FC6E1DF",
-      "name": "green-hill",
+      "address": "972C3304D9291ED8E746FCC9EE2414C006E8D882",
+      "name": "hollow-farmer",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "2rBch1okOkz1k2NTiKTgsP5Ghh+jaGrDoowNgHRaUyU="
+        "value": "ZYyjRuB0BSB4RHXqaf6uOtOiEip4fnBYm2Ku6So9FmM="
       }
     }
   ]
