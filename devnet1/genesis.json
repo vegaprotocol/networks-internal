@@ -279,6 +279,17 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
+      "9YJwQa/w4dKsX1+oq6Oz5scCLV6II9uHYzZQLFUG1aQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xkrvy1tpk6aeqrae0roxmmquo9s9tub2?d=identicon",
+        "country": "GC",
+        "ethereum_address": "0xbdf35164f9dC41dd0EBf20f832b9C24028b89988",
+        "id": "bfcd0c8765bc57a7f130f640cf8f3a966efe4169d103530fb57fb099f40843d4",
+        "info_url": "https://en.wikipedia.org/wiki/Inermocoelotes_deltshevi",
+        "name": "harsh-shirt",
+        "tm_pub_key": "9YJwQa/w4dKsX1+oq6Oz5scCLV6II9uHYzZQLFUG1aQ=",
+        "vega_pub_key": "e03ba2b73c281bcf9c08155b53ee92e0c7d75d86309a679444909a9c51eac080",
+        "vega_pub_key_index": 1
+      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -301,17 +312,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "lO+V/SlRnHNqjFb7UgN31r2ABRGCh1aetrUEUYi+4lA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/431uj9cppzc623y6uny9idj9ynagzm4g?d=identicon",
-        "country": "TD",
-        "ethereum_address": "0x272094763dB875deF747488E01ce1E40e24fBAAc",
-        "id": "0d75d4f15dff45bb21a833af6421efd65bba4995c2eee09967c62799133047f5",
-        "info_url": "https://en.wikipedia.org/wiki/Mountain_Pacific_Curling_Association",
-        "name": "frightened-train",
-        "tm_pub_key": "lO+V/SlRnHNqjFb7UgN31r2ABRGCh1aetrUEUYi+4lA=",
-        "vega_pub_key": "7112c341f9df35b15f5912cfefd98803d6bae750cb9688eecf70916213c58196",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212021040",
+  "chain_id": "vega-devnet1-202212021337",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-02T10:40:46.157437574Z",
+  "genesis_time": "2022-12-02T13:37:54.352645694Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "53C50AB21BB3DF6AC324FDE7D83982A222D362F6",
-      "name": "frightened-train",
+      "address": "8316DAD0B304810365ED2F923F62359BE8F14FAB",
+      "name": "harsh-shirt",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "lO+V/SlRnHNqjFb7UgN31r2ABRGCh1aetrUEUYi+4lA="
+        "value": "9YJwQa/w4dKsX1+oq6Oz5scCLV6II9uHYzZQLFUG1aQ="
       }
     }
   ]
