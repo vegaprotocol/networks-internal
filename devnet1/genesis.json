@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "ZYyjRuB0BSB4RHXqaf6uOtOiEip4fnBYm2Ku6So9FmM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/bepkin1negxfnlog68cnuvk1oe6c9sxv?d=identicon",
-        "country": "YW",
-        "ethereum_address": "0x3CAf1a2e1393095ef5984154288b5e10D9B7E60b",
-        "id": "e18efa6df38d59e5cb1a1c409f1ea9f45ff66b1d37a3a2710b330334bd35aaca",
-        "info_url": "https://en.wikipedia.org/wiki/Rada_Granovskaya",
-        "name": "hollow-farmer",
-        "tm_pub_key": "ZYyjRuB0BSB4RHXqaf6uOtOiEip4fnBYm2Ku6So9FmM=",
-        "vega_pub_key": "39e91e57f01910d6bb617643a51d66c0c04a198b11d1a75e6c766d59e65a68bc",
+      "lO+V/SlRnHNqjFb7UgN31r2ABRGCh1aetrUEUYi+4lA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/431uj9cppzc623y6uny9idj9ynagzm4g?d=identicon",
+        "country": "TD",
+        "ethereum_address": "0x272094763dB875deF747488E01ce1E40e24fBAAc",
+        "id": "0d75d4f15dff45bb21a833af6421efd65bba4995c2eee09967c62799133047f5",
+        "info_url": "https://en.wikipedia.org/wiki/Mountain_Pacific_Curling_Association",
+        "name": "frightened-train",
+        "tm_pub_key": "lO+V/SlRnHNqjFb7UgN31r2ABRGCh1aetrUEUYi+4lA=",
+        "vega_pub_key": "7112c341f9df35b15f5912cfefd98803d6bae750cb9688eecf70916213c58196",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212020933",
+  "chain_id": "vega-devnet1-202212021040",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-02T09:33:49.619530164Z",
+  "genesis_time": "2022-12-02T10:40:46.157437574Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "972C3304D9291ED8E746FCC9EE2414C006E8D882",
-      "name": "hollow-farmer",
+      "address": "53C50AB21BB3DF6AC324FDE7D83982A222D362F6",
+      "name": "frightened-train",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ZYyjRuB0BSB4RHXqaf6uOtOiEip4fnBYm2Ku6So9FmM="
+        "value": "lO+V/SlRnHNqjFb7UgN31r2ABRGCh1aetrUEUYi+4lA="
       }
     }
   ]
