@@ -279,17 +279,6 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
-      "9YJwQa/w4dKsX1+oq6Oz5scCLV6II9uHYzZQLFUG1aQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/xkrvy1tpk6aeqrae0roxmmquo9s9tub2?d=identicon",
-        "country": "GC",
-        "ethereum_address": "0xbdf35164f9dC41dd0EBf20f832b9C24028b89988",
-        "id": "bfcd0c8765bc57a7f130f640cf8f3a966efe4169d103530fb57fb099f40843d4",
-        "info_url": "https://en.wikipedia.org/wiki/Inermocoelotes_deltshevi",
-        "name": "harsh-shirt",
-        "tm_pub_key": "9YJwQa/w4dKsX1+oq6Oz5scCLV6II9uHYzZQLFUG1aQ=",
-        "vega_pub_key": "e03ba2b73c281bcf9c08155b53ee92e0c7d75d86309a679444909a9c51eac080",
-        "vega_pub_key_index": 1
-      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -312,6 +301,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "geLQ/s7ITun+sw+UcnyqxKceVKWNInPi/FgNBMxOaAg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/zu8u12e46yyznfu5v6b44v0hwji5m6cb?d=identicon",
+        "country": "VM",
+        "ethereum_address": "0x0C4bCe56dec18e38DD59f90Ac7B80068155bB6E9",
+        "id": "8efe00537121da7ff8248194a4fc7cf83351d0b7afa5486944cdc5534d10efea",
+        "info_url": "https://en.wikipedia.org/wiki/Xian_(Taoism)",
+        "name": "immense-town",
+        "tm_pub_key": "geLQ/s7ITun+sw+UcnyqxKceVKWNInPi/FgNBMxOaAg=",
+        "vega_pub_key": "2d8cbcfe2e7bee0a1a51334c69b49d72563e5166f26292523fc901f3cc62fc99",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212021337",
+  "chain_id": "vega-devnet1-202212021455",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-02T13:37:54.352645694Z",
+  "genesis_time": "2022-12-02T14:55:23.329087291Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "8316DAD0B304810365ED2F923F62359BE8F14FAB",
-      "name": "harsh-shirt",
+      "address": "8456DDB151A9CC3FE193753A410C7011E99E7B02",
+      "name": "immense-town",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "9YJwQa/w4dKsX1+oq6Oz5scCLV6II9uHYzZQLFUG1aQ="
+        "value": "geLQ/s7ITun+sw+UcnyqxKceVKWNInPi/FgNBMxOaAg="
       }
     }
   ]
