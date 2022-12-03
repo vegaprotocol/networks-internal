@@ -1,0 +1,298 @@
+{
+  "app_hash": "",
+  "app_state": {
+    "assets": {
+      "d1984e3d365faa05bcafbe41f50f90e3663ee7c0da22bb1e24b164e9532691b2": {
+        "decimals": 18,
+        "name": "Vega (Mainnet Mirror)",
+        "quantum": "1000000000000000000",
+        "source": {
+          "erc20": {
+            "contract_address": "0x70d8e8f69A1AB5b36260aB98Bc0460bD0f178F1a"
+          }
+        },
+        "symbol": "VEGA",
+        "total_supply": "64999723000000000000000000"
+      }
+    },
+    "network": {
+      "replay_attack_threshold": 150
+    },
+    "network_limits": {
+      "propose_asset_enabled": false,
+      "propose_market_enabled": false
+    },
+    "network_parameters": {
+      "blockchains.ethereumConfig": "{\"network_id\": \"11155111\", \"chain_id\": \"11155111\", \"collateral_bridge_contract\": { \"address\": \"0xCd29cA24b9409159Ee8ab7B72daBae705087c2cc\" }, \"confirmations\": 50, \"staking_bridge_contract\": { \"address\": \"0xf4aB19083ebE167a8384f8116f6e9a98670821c8\", \"deployment_block_height\": 2382641}, \"token_vesting_contract\": { \"address\": \"0xadFcb7f93a24F8743a8e548d74d2ecB373c92866\", \"deployment_block_height\": 2382643 }, \"multisig_control_contract\": {\"address\": \"0x52dC264875130E32ed49487105B269739AD6c317\", \"deployment_block_height\": 2382635 }}",
+      "governance.proposal.asset.maxClose": "720h",
+      "governance.proposal.asset.maxEnact": "720h",
+      "governance.proposal.asset.minClose": "10m",
+      "governance.proposal.asset.minEnact": "10m",
+      "governance.proposal.asset.minProposerBalance": "2000000000000000000",
+      "governance.proposal.asset.minVoterBalance": "1000000000000000000",
+      "governance.proposal.asset.requiredMajority": "0.66",
+      "governance.proposal.asset.requiredParticipation": "0.20",
+      "governance.proposal.freeform.maxClose": "10m",
+      "governance.proposal.freeform.minClose": "10m",
+      "governance.proposal.freeform.minProposerBalance": "1000000000000000000",
+      "governance.proposal.freeform.minVoterBalance": "1000000000000000000",
+      "governance.proposal.freeform.requiredMajority": "0.66",
+      "governance.proposal.freeform.requiredParticipation": "0.1",
+      "governance.proposal.market.maxClose": "720h",
+      "governance.proposal.market.maxEnact": "720h",
+      "governance.proposal.market.minClose": "10m",
+      "governance.proposal.market.minEnact": "10m",
+      "governance.proposal.market.minProposerBalance": "1",
+      "governance.proposal.market.minVoterBalance": "1",
+      "governance.proposal.market.requiredMajority": "0.66",
+      "governance.proposal.market.requiredParticipation": "0.10",
+      "governance.proposal.updateMarket.maxClose": "720h",
+      "governance.proposal.updateMarket.maxEnact": "720h",
+      "governance.proposal.updateMarket.minClose": "10m",
+      "governance.proposal.updateMarket.minEnact": "10m",
+      "governance.proposal.updateMarket.minProposerBalance": "20000000000000000000000",
+      "governance.proposal.updateMarket.minProposerEquityLikeShare": "0.05",
+      "governance.proposal.updateMarket.minVoterBalance": "1000000000000000000",
+      "governance.proposal.updateMarket.requiredMajority": "0.66",
+      "governance.proposal.updateMarket.requiredMajorityLP": "0.66",
+      "governance.proposal.updateMarket.requiredParticipation": "0.20",
+      "governance.proposal.updateMarket.requiredParticipationLP": "0.00001",
+      "governance.proposal.updateNetParam.maxClose": "1440h",
+      "governance.proposal.updateNetParam.maxEnact": "1440h",
+      "governance.proposal.updateNetParam.minClose": "10m",
+      "governance.proposal.updateNetParam.minEnact": "10m",
+      "governance.proposal.updateNetParam.minProposerBalance": "20000000000000000000000",
+      "governance.proposal.updateNetParam.minVoterBalance": "1000000000000000000",
+      "governance.proposal.updateNetParam.requiredMajority": "0.66",
+      "governance.proposal.updateNetParam.requiredParticipation": "0.25",
+      "limits.assets.proposeEnabledFrom": "2100-12-30T00:00:00Z",
+      "limits.markets.proposeEnabledFrom": "2100-12-30T00:00:00Z",
+      "market.auction.maximumDuration": "168h",
+      "market.auction.minimumDuration": "30s",
+      "market.fee.factors.infrastructureFee": "0.001",
+      "market.fee.factors.makerFee": "0.0002",
+      "market.liquidity.bondPenaltyParameter": "0.000001",
+      "market.liquidity.maximumLiquidityFeeFactorLevel": "0.03",
+      "market.liquidity.minimum.probabilityOfTrading.lpOrders": "1e-8",
+      "market.liquidity.probabilityOfTrading.tau.scaling": "10.0",
+      "market.liquidity.providers.fee.distributionTimeStep": "60m",
+      "market.liquidity.stakeToCcySiskas": "1.0",
+      "market.liquidity.targetstake.triggering.ratio": "0.7",
+      "market.liquidityProvision.minLpStakeQuantumMultiple": "1",
+      "market.liquidityProvision.shapes.maxSize": "100",
+      "market.margin.scalingFactors": "{\"search_level\": 1.1, \"initial_margin\": 1.5, \"collateral_release\": 1.7}",
+      "market.monitor.price.defaultParameters": "{\"triggers\": [{\"auction_extension\": 300, \"horizon\": 43200, \"probability\": \"0.9999999\"}] }",
+      "market.monitor.price.updateFrequency": "1s",
+      "market.stake.target.scalingFactor": "0.1",
+      "market.stake.target.timeWindow": "1h",
+      "market.value.windowLength": "168h",
+      "network.checkpoint.marketFreezeDate": "2021-12-30T00:00:00Z",
+      "network.checkpoint.networkEndOfLifeDate": "2021-12-31T23:59:00Z",
+      "network.checkpoint.timeElapsedBetweenCheckpoints": "5m",
+      "network.floatingPointUpdates.delay": "5m",
+      "network.validators.ersatz.multipleOfTendermintValidators": "0",
+      "network.validators.ersatz.rewardFactor": "0.5",
+      "network.validators.incumbentBonus": "1",
+      "network.validators.minimumEthereumEventsForNewValidator": "3",
+      "network.validators.multisig.numberOfSigners": "7",
+      "network.validators.tendermint.number": "7",
+      "reward.asset": "d1984e3d365faa05bcafbe41f50f90e3663ee7c0da22bb1e24b164e9532691b2",
+      "reward.staking.delegation.competitionLevel": "1.3",
+      "reward.staking.delegation.delegatorShare": "0.883",
+      "reward.staking.delegation.maxPayoutPerParticipant": "700000000000000000000",
+      "reward.staking.delegation.minValidators": "5",
+      "reward.staking.delegation.minimumValidatorStake": "3000000000000000000000",
+      "reward.staking.delegation.optimalStakeMultiplier": "3.0",
+      "reward.staking.delegation.payoutDelay": "72h",
+      "reward.staking.delegation.payoutFraction": "1.0",
+      "snapshot.interval.length": "300",
+      "spam.pow.difficulty": "15",
+      "spam.pow.hashFunction": "sha3_24_rounds",
+      "spam.pow.increaseDifficulty": "0",
+      "spam.pow.numberOfPastBlocks": "100",
+      "spam.pow.numberOfTxPerBlock": "2",
+      "spam.protection.delegation.min.tokens": "100000000000000000",
+      "spam.protection.max.delegations": "360",
+      "spam.protection.max.proposals": "3",
+      "spam.protection.max.votes": "3",
+      "spam.protection.maxUserTransfersPerEpoch": "20",
+      "spam.protection.proposal.min.tokens": "2000000000000000000000",
+      "spam.protection.voting.min.tokens": "1000000000000000000",
+      "transfer.fee.factor": "0.001",
+      "transfer.minTransferQuantumMultiple": "0.1",
+      "validators.delegation.minAmount": "100000000000000000",
+      "validators.epoch.length": "24h",
+      "validators.vote.required": "0.67"
+    },
+    "network_parameters_checkpoint_overwrite": [
+      "blockchains.ethereumConfig",
+      "limits.markets.proposeEnabledFrom",
+      "limits.assets.proposeEnabledFrom"
+    ],
+    "validators": {
+      "/HVosA5xO4KFVdRwUJIIipasoyARG3/8ZTxMYpqE5MY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/0xo91xhyjevjjug85plpdrszyhj1bilk?d=identicon",
+        "country": "GX",
+        "ethereum_address": "0x922Df2D82646c0C8bFd269FaE8700b90cAD63ae0",
+        "id": "a5328238ab9deac93db15a8f7f13291e8c9f98bba7b94f6e8eeed7cf7f57d82a",
+        "info_url": "https://en.wikipedia.org/wiki/Air_Poland",
+        "name": "tender-book",
+        "tm_pub_key": "/HVosA5xO4KFVdRwUJIIipasoyARG3/8ZTxMYpqE5MY=",
+        "vega_pub_key": "2696aae4b8855993a87a6fee6d52b8e589e9395c81cf8c5c63ee8cb4fca6d061",
+        "vega_pub_key_index": 1
+      },
+      "8LJ09ayfvaYvy9H2H2XwudkXKibZjWAAyB+FDJIqrKA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/6sadf076l0cg0k3bc9pnsq53rxl1tsnr?d=identicon",
+        "country": "XX",
+        "ethereum_address": "0x6E4d21040971cD7ccD2b297ddffb523827125B00",
+        "id": "82abc9b98b4f02e3cbac77f0da2db68b86b8c3caeec3617e067a7892ddd971ed",
+        "info_url": "https://en.wikipedia.org/wiki/Nicke",
+        "name": "intrigued-dog",
+        "tm_pub_key": "8LJ09ayfvaYvy9H2H2XwudkXKibZjWAAyB+FDJIqrKA=",
+        "vega_pub_key": "19147b0e59d20761c74ce3251dc906c38d1d99288cd4ed780f221c7baaf8cdb0",
+        "vega_pub_key_index": 1
+      },
+      "KCV29b/Zl9PFidDxKsg4ii74BepWlyI1rwWxA/KsA+M=": {
+        "avatar_url": "https://www.gravatar.com/avatar/095dyv3vx9vw3fdw7bgbqjgp3ok68uu7?d=identicon",
+        "country": "OX",
+        "ethereum_address": "0x23154980AAc204e3a37AFd819aC02B3d37E7f72F",
+        "id": "47fa788bb0fa59aa750adb330baa1df5c9b7e53e4476599fabc97ca171f8b0f9",
+        "info_url": "https://en.wikipedia.org/wiki/Adelaida,_California",
+        "name": "easy-window",
+        "tm_pub_key": "KCV29b/Zl9PFidDxKsg4ii74BepWlyI1rwWxA/KsA+M=",
+        "vega_pub_key": "fbeda3677bb9fa487dd61bea4ca41e3dfbceb6960b8680aea91871e37b2d3e35",
+        "vega_pub_key_index": 1
+      },
+      "Q7aJ8SNndfxTaZTQ9wQLKs3XC4gajkS1gf5j/djwzXY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/vocm0ej35xxt7q3frt9z4x99r5lrd9tv?d=identicon",
+        "country": "JL",
+        "ethereum_address": "0x047F42fbEA58FD6c57c0c39A31d602A796c695B9",
+        "id": "fe4e987dba1c2a91bd79dba27a40c4af66d675393fadf095342b205abc1a1d7d",
+        "info_url": "https://en.wikipedia.org/wiki/Belgian_Railways_Class_23",
+        "name": "rhythmic-car",
+        "tm_pub_key": "Q7aJ8SNndfxTaZTQ9wQLKs3XC4gajkS1gf5j/djwzXY=",
+        "vega_pub_key": "e9cfacdffeb7e88d3c0cecb609339139bc1af6733823080c38322aa9aeee41d7",
+        "vega_pub_key_index": 1
+      },
+      "aJ4z6Eqeg4hKt92GfGboBQ+/aLXTC/nrg+LsMtKwwNs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/kkcurbqozbx0ggmik5dtomghkb4ua18n?d=identicon",
+        "country": "PI",
+        "ethereum_address": "0x788dE4723a925ee2573FD75778DA7caf22d6C38B",
+        "id": "6e9b47c40bb673ad359568d50aae778cb42e2f16e29670732859c2e0a31d4da3",
+        "info_url": "https://en.wikipedia.org/wiki/Shekhawat",
+        "name": "noisy-chair",
+        "tm_pub_key": "aJ4z6Eqeg4hKt92GfGboBQ+/aLXTC/nrg+LsMtKwwNs=",
+        "vega_pub_key": "f04843fd3ce0987404e83e1abac514a880a73c490792dc2b0d0364c77af9b0df",
+        "vega_pub_key_index": 1
+      },
+      "fzAIqCGUl+PUIwMmMlFYpxNOWJ3kF7y/Fkd7j95LFU8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/aznaq5gqnb9avwvbhj84lolrpo8m3wbt?d=identicon",
+        "country": "TM",
+        "ethereum_address": "0x5D29bD8695c8EF575bA7FC7F10A91e95cd412550",
+        "id": "1b07a2878d25e5260384cac6987e1e2ce7f9d5ce96f088021ad9d05e405562e6",
+        "info_url": "https://en.wikipedia.org/wiki/Rah%C4%ABm%C4%AB",
+        "name": "better-dog",
+        "tm_pub_key": "fzAIqCGUl+PUIwMmMlFYpxNOWJ3kF7y/Fkd7j95LFU8=",
+        "vega_pub_key": "f0a92e9cb482be461bff41cb51919baa7a20be26e80809c4fd87986fbf1f88c6",
+        "vega_pub_key_index": 1
+      },
+      "oQPXiDjuHEV2AGPzMtTn2Vjb1yAoS6G721eGMVvH82E=": {
+        "avatar_url": "https://www.gravatar.com/avatar/a5fz291ievb643p8u1rj9v3kfyr2k77a?d=identicon",
+        "country": "QJ",
+        "ethereum_address": "0xEf50f0E13072Cc8171F7b25f125e03cA4ae54ffF",
+        "id": "973d8de51c79f2f9c40257701890790ffce129e84c9586847b5404e947aad5e6",
+        "info_url": "https://en.wikipedia.org/wiki/Flanking_maneuver",
+        "name": "rhythmic-door",
+        "tm_pub_key": "oQPXiDjuHEV2AGPzMtTn2Vjb1yAoS6G721eGMVvH82E=",
+        "vega_pub_key": "f7ce318275441f049c34d5b70766532850521275fc2a541de377a41285de7dc2",
+        "vega_pub_key_index": 1
+      }
+    }
+  },
+  "chain_id": "vega-mainnet-mirror-202212030446",
+  "consensus_params": {
+    "block": {
+      "max_bytes": "22020096",
+      "max_gas": "-1",
+      "time_iota_ms": "1"
+    },
+    "evidence": {
+      "max_age_duration": "172800000000000",
+      "max_age_num_blocks": "100000",
+      "max_bytes": "1048576"
+    },
+    "validator": {
+      "pub_key_types": [
+        "ed25519"
+      ]
+    },
+    "version": {}
+  },
+  "genesis_time": "2022-12-03T04:46:40.13066Z",
+  "initial_height": "0",
+  "validators": [
+    {
+      "address": "2E26FBD2940905CEC363AB4958858E3AB2143EC1",
+      "name": "noisy-chair",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "aJ4z6Eqeg4hKt92GfGboBQ+/aLXTC/nrg+LsMtKwwNs="
+      }
+    },
+    {
+      "address": "33C5E0A6DD565B630D27098F66B5F9236FF27237",
+      "name": "tender-book",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "/HVosA5xO4KFVdRwUJIIipasoyARG3/8ZTxMYpqE5MY="
+      }
+    },
+    {
+      "address": "E4CFE524B827B4239C72AE4BFBB89C13D37A0978",
+      "name": "intrigued-dog",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "8LJ09ayfvaYvy9H2H2XwudkXKibZjWAAyB+FDJIqrKA="
+      }
+    },
+    {
+      "address": "185CE6363E0AB3B4651E1A3B74E6FBE336683F42",
+      "name": "easy-window",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "KCV29b/Zl9PFidDxKsg4ii74BepWlyI1rwWxA/KsA+M="
+      }
+    },
+    {
+      "address": "6B6E4FFF207314D6E5AFA397185AC668DC92D265",
+      "name": "rhythmic-car",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "Q7aJ8SNndfxTaZTQ9wQLKs3XC4gajkS1gf5j/djwzXY="
+      }
+    },
+    {
+      "address": "5FCBAD9BA249F0B093E380CE2140E425CBCC46EB",
+      "name": "better-dog",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "fzAIqCGUl+PUIwMmMlFYpxNOWJ3kF7y/Fkd7j95LFU8="
+      }
+    },
+    {
+      "address": "2F22E00E38D93D4360D419A3B31B4582746F9BFD",
+      "name": "rhythmic-door",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "oQPXiDjuHEV2AGPzMtTn2Vjb1yAoS6G721eGMVvH82E="
+      }
+    }
+  ]
+}
