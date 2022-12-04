@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "geLQ/s7ITun+sw+UcnyqxKceVKWNInPi/FgNBMxOaAg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/zu8u12e46yyznfu5v6b44v0hwji5m6cb?d=identicon",
-        "country": "VM",
-        "ethereum_address": "0x0C4bCe56dec18e38DD59f90Ac7B80068155bB6E9",
-        "id": "8efe00537121da7ff8248194a4fc7cf83351d0b7afa5486944cdc5534d10efea",
-        "info_url": "https://en.wikipedia.org/wiki/Xian_(Taoism)",
-        "name": "immense-town",
-        "tm_pub_key": "geLQ/s7ITun+sw+UcnyqxKceVKWNInPi/FgNBMxOaAg=",
-        "vega_pub_key": "2d8cbcfe2e7bee0a1a51334c69b49d72563e5166f26292523fc901f3cc62fc99",
+      "JXzpLXvZQu6KoQZADlb2V0osUDs44JySE5spJWkCu4E=": {
+        "avatar_url": "https://www.gravatar.com/avatar/e730deyugz02cddd318vrhd18erbqleb?d=identicon",
+        "country": "LN",
+        "ethereum_address": "0xd568b0bA0B38998B94B4D3A75A334Df262e40252",
+        "id": "289c2caa378da9e0b7df26c4be6ae5ec8773bd77b9f08cb3240026bcc1b4ee57",
+        "info_url": "https://en.wikipedia.org/wiki/Jun_Ahn",
+        "name": "short-hill",
+        "tm_pub_key": "JXzpLXvZQu6KoQZADlb2V0osUDs44JySE5spJWkCu4E=",
+        "vega_pub_key": "82fbde6d2338264c3088a02680bce21df668cdd728f59cc0fd4fb3420429108b",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212021455",
+  "chain_id": "vega-devnet1-202212042302",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-02T14:55:23.329087291Z",
+  "genesis_time": "2022-12-04T23:02:57.657641046Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "8456DDB151A9CC3FE193753A410C7011E99E7B02",
-      "name": "immense-town",
+      "address": "DBD09780845CCAE1499B756C4F229A63EE8C1EBE",
+      "name": "short-hill",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "geLQ/s7ITun+sw+UcnyqxKceVKWNInPi/FgNBMxOaAg="
+        "value": "JXzpLXvZQu6KoQZADlb2V0osUDs44JySE5spJWkCu4E="
       }
     }
   ]
