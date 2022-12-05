@@ -8,7 +8,7 @@
         "quantum": "1",
         "source": {
           "erc20": {
-            "contract_address": "0xAe6dd14bD9313d22Cf2254F347836570Df592022",
+            "contract_address": "0x51d9Dbe9a724C6a8383016FaD566e55c95359D36",
             "lifetime_limit": "",
             "withdraw_threshold": ""
           }
@@ -202,7 +202,7 @@
       }
     }
   },
-  "chain_id": "vega-sandbox-202212050103",
+  "chain_id": "vega-sandbox-202212050124",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -221,7 +221,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-05T01:03:28.719800837Z",
+  "genesis_time": "2022-12-05T01:24:35.821388805Z",
   "initial_height": "0",
   "validators": [
     {
