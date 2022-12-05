@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "JXzpLXvZQu6KoQZADlb2V0osUDs44JySE5spJWkCu4E=": {
-        "avatar_url": "https://www.gravatar.com/avatar/e730deyugz02cddd318vrhd18erbqleb?d=identicon",
-        "country": "LN",
-        "ethereum_address": "0xd568b0bA0B38998B94B4D3A75A334Df262e40252",
-        "id": "289c2caa378da9e0b7df26c4be6ae5ec8773bd77b9f08cb3240026bcc1b4ee57",
-        "info_url": "https://en.wikipedia.org/wiki/Jun_Ahn",
-        "name": "short-hill",
-        "tm_pub_key": "JXzpLXvZQu6KoQZADlb2V0osUDs44JySE5spJWkCu4E=",
-        "vega_pub_key": "82fbde6d2338264c3088a02680bce21df668cdd728f59cc0fd4fb3420429108b",
+      "sHK7+PFv1LDBSD/Bb0U9/ffpNvcNGF+soY9vBQUxNDc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/zwr0i1soj04m1jsugry0j0x7gdla5rpz?d=identicon",
+        "country": "PS",
+        "ethereum_address": "0x51068C84d8b57bE9c88858B74058cB9Ef8b416Fe",
+        "id": "ecabf59c9d12aa37ee7f26f3ff7439584aa30e9168f1459fc774412d671375e7",
+        "info_url": "https://en.wikipedia.org/wiki/Soergelia",
+        "name": "purple-apple",
+        "tm_pub_key": "sHK7+PFv1LDBSD/Bb0U9/ffpNvcNGF+soY9vBQUxNDc=",
+        "vega_pub_key": "660123899b7179133b96331770448eafc7b73937ee5048d8e2b4346c0c52e297",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212042302",
+  "chain_id": "vega-devnet1-202212051142",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-04T23:02:57.657641046Z",
+  "genesis_time": "2022-12-05T11:42:31.783938148Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "DBD09780845CCAE1499B756C4F229A63EE8C1EBE",
-      "name": "short-hill",
+      "address": "B417DF98685351C71F2CAB8B5C5382392C5E09C6",
+      "name": "purple-apple",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "JXzpLXvZQu6KoQZADlb2V0osUDs44JySE5spJWkCu4E="
+        "value": "sHK7+PFv1LDBSD/Bb0U9/ffpNvcNGF+soY9vBQUxNDc="
       }
     }
   ]
