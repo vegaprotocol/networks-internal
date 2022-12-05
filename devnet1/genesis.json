@@ -301,17 +301,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "sHK7+PFv1LDBSD/Bb0U9/ffpNvcNGF+soY9vBQUxNDc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/zwr0i1soj04m1jsugry0j0x7gdla5rpz?d=identicon",
-        "country": "PS",
-        "ethereum_address": "0x51068C84d8b57bE9c88858B74058cB9Ef8b416Fe",
-        "id": "ecabf59c9d12aa37ee7f26f3ff7439584aa30e9168f1459fc774412d671375e7",
-        "info_url": "https://en.wikipedia.org/wiki/Soergelia",
-        "name": "purple-apple",
-        "tm_pub_key": "sHK7+PFv1LDBSD/Bb0U9/ffpNvcNGF+soY9vBQUxNDc=",
-        "vega_pub_key": "660123899b7179133b96331770448eafc7b73937ee5048d8e2b4346c0c52e297",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -322,10 +311,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "x9JBBCaro7WrVA6q8HQX7An6VV9rteuQmskO1VD+oiI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/z8rxhcumed8ip2b400vhskkl94ybdyly?d=identicon",
+        "country": "JA",
+        "ethereum_address": "0xA61327553850FbB10561F963247943e5e0c40161",
+        "id": "829def097df719e6fab1d780d0f3ea1ec63f7e42b037b086585d74549111e52e",
+        "info_url": "https://en.wikipedia.org/wiki/Veterans_Memorial_Park_(Auburn,_New_York)",
+        "name": "ideal-stove",
+        "tm_pub_key": "x9JBBCaro7WrVA6q8HQX7An6VV9rteuQmskO1VD+oiI=",
+        "vega_pub_key": "2ef5cac9aab51cc51b31026a5f079e0d3cc9ab09cd23ef34d3e41564d4037fe3",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202212051142",
+  "chain_id": "vega-devnet1-202212052018",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-05T11:42:31.783938148Z",
+  "genesis_time": "2022-12-05T20:18:47.30744325Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "B417DF98685351C71F2CAB8B5C5382392C5E09C6",
-      "name": "purple-apple",
+      "address": "804A36B22EAC2695C69D552D7DC5276516DDEB0E",
+      "name": "ideal-stove",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "sHK7+PFv1LDBSD/Bb0U9/ffpNvcNGF+soY9vBQUxNDc="
+        "value": "x9JBBCaro7WrVA6q8HQX7An6VV9rteuQmskO1VD+oiI="
       }
     }
   ]
