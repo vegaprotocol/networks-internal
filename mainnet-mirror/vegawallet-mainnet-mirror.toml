@@ -1,0 +1,25 @@
+Host = "127.0.0.1"
+Level = "info"
+Name = "mainnet-mirror"
+Port = 1789
+TokenExpiry = "168h0m0s"
+
+[API]
+
+  [API.GRPC]
+    Hosts = ["api.mainnet-mirror.vega.xyz:3007"]
+    Retries = 5
+
+  [API.GraphQL]
+    Hosts = ["https://api.mainnet-mirror.vega.xyz/query"]
+
+  [API.REST]
+    Hosts = ["https://api.mainnet-mirror.vega.xyz"]
+
+[Console]
+  LocalPort = 1847
+  URL = ""
+
+[TokenDApp]
+  LocalPort = 1848
+  URL = ""
