@@ -94,8 +94,8 @@
       "network.validators.ersatz.rewardFactor": "0.5",
       "network.validators.incumbentBonus": "1",
       "network.validators.minimumEthereumEventsForNewValidator": "3",
-      "network.validators.multisig.numberOfSigners": "7",
-      "network.validators.tendermint.number": "7",
+      "network.validators.multisig.numberOfSigners": "13",
+      "network.validators.tendermint.number": "13",
       "reward.asset": "d1984e3d365faa05bcafbe41f50f90e3663ee7c0da22bb1e24b164e9532691b2",
       "reward.staking.delegation.competitionLevel": "1.3",
       "reward.staking.delegation.delegatorShare": "0.883",
@@ -121,14 +121,10 @@
       "transfer.fee.factor": "0.001",
       "transfer.minTransferQuantumMultiple": "0.1",
       "validators.delegation.minAmount": "100000000000000000",
-      "validators.epoch.length": "24h",
+      "validators.epoch.length": "30m",
       "validators.vote.required": "0.67"
     },
-    "network_parameters_checkpoint_overwrite": [
-      "blockchains.ethereumConfig",
-      "limits.markets.proposeEnabledFrom",
-      "limits.assets.proposeEnabledFrom"
-    ],
+    "network_parameters_checkpoint_overwrite": [],
     "validators": {
       "/HVosA5xO4KFVdRwUJIIipasoyARG3/8ZTxMYpqE5MY=": {
         "avatar_url": "https://www.gravatar.com/avatar/0xo91xhyjevjjug85plpdrszyhj1bilk?d=identicon",
@@ -136,9 +132,31 @@
         "ethereum_address": "0x922Df2D82646c0C8bFd269FaE8700b90cAD63ae0",
         "id": "a5328238ab9deac93db15a8f7f13291e8c9f98bba7b94f6e8eeed7cf7f57d82a",
         "info_url": "https://en.wikipedia.org/wiki/Air_Poland",
-        "name": "tender-book",
+        "name": "Commodum DAO",
         "tm_pub_key": "/HVosA5xO4KFVdRwUJIIipasoyARG3/8ZTxMYpqE5MY=",
         "vega_pub_key": "2696aae4b8855993a87a6fee6d52b8e589e9395c81cf8c5c63ee8cb4fca6d061",
+        "vega_pub_key_index": 1
+      },
+      "/yqZyNqj8cKYvETbtq9wOH+PcsPs3MiwcAMMb1G6sDM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xnkhajviseupbn0bjt56m1kkf7im6hve?d=identicon",
+        "country": "TI",
+        "ethereum_address": "0xa70a54146Ed78eDC92aaa05bFF7D70A28CEaBE4A",
+        "id": "8519603f2558f2c7ca1b590a9aa329fd0a2a3891d9299ff18e087de6fb2a8b6e",
+        "info_url": "https://en.wikipedia.org/wiki/List_of_memorials_to_Abraham_Lincoln",
+        "name": "Chorus One",
+        "tm_pub_key": "/yqZyNqj8cKYvETbtq9wOH+PcsPs3MiwcAMMb1G6sDM=",
+        "vega_pub_key": "bc8d45e7e498e1b86d8af3491730d1c2317b4de0432654be0730801eee22048b",
+        "vega_pub_key_index": 1
+      },
+      "6dgCI0CYciLv5phjX1Owdx+8jmb9yPt7gt3Gk/oIAIU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ochpdi097wc48581nsuk5pkkxzhbuy18?d=identicon",
+        "country": "WZ",
+        "ethereum_address": "0x70fa10c44EC2726d696C116c758F817d7b704558",
+        "id": "8db4e321dd5ccd600edd80bb25026a0ff89235b086038ed4c3a06a391e9330d7",
+        "info_url": "https://en.wikipedia.org/wiki/List_of_Highway_Patrol_(Australian_TV_series)_episodes",
+        "name": "P2P.ORG",
+        "tm_pub_key": "6dgCI0CYciLv5phjX1Owdx+8jmb9yPt7gt3Gk/oIAIU=",
+        "vega_pub_key": "b3b98d8cd9adc180d45b3c6a203f56ffc25709026fccbada7485d2606ca2c363",
         "vega_pub_key_index": 1
       },
       "8LJ09ayfvaYvy9H2H2XwudkXKibZjWAAyB+FDJIqrKA=": {
@@ -147,7 +165,7 @@
         "ethereum_address": "0x6E4d21040971cD7ccD2b297ddffb523827125B00",
         "id": "82abc9b98b4f02e3cbac77f0da2db68b86b8c3caeec3617e067a7892ddd971ed",
         "info_url": "https://en.wikipedia.org/wiki/Nicke",
-        "name": "intrigued-dog",
+        "name": "Figment",
         "tm_pub_key": "8LJ09ayfvaYvy9H2H2XwudkXKibZjWAAyB+FDJIqrKA=",
         "vega_pub_key": "19147b0e59d20761c74ce3251dc906c38d1d99288cd4ed780f221c7baaf8cdb0",
         "vega_pub_key_index": 1
@@ -158,9 +176,31 @@
         "ethereum_address": "0x23154980AAc204e3a37AFd819aC02B3d37E7f72F",
         "id": "47fa788bb0fa59aa750adb330baa1df5c9b7e53e4476599fabc97ca171f8b0f9",
         "info_url": "https://en.wikipedia.org/wiki/Adelaida,_California",
-        "name": "easy-window",
+        "name": "GF1",
         "tm_pub_key": "KCV29b/Zl9PFidDxKsg4ii74BepWlyI1rwWxA/KsA+M=",
         "vega_pub_key": "fbeda3677bb9fa487dd61bea4ca41e3dfbceb6960b8680aea91871e37b2d3e35",
+        "vega_pub_key_index": 1
+      },
+      "LkVYSohOr72CQiHnUpvvtyaWBh7AxgPTNhhpnYuDf9A=": {
+        "avatar_url": "https://www.gravatar.com/avatar/zja9pr8ctf4n4km409g8bykqmxp9ekft?d=identicon",
+        "country": "BS",
+        "ethereum_address": "0x0D25230BB73768A1EBB27DE9eAC4B4630CB6F20C",
+        "id": "ecd78ad0eb4f39a3b20bbff1b78a0252040d41aac5e3e3c36b15c3b874e4c6cd",
+        "info_url": "https://en.wikipedia.org/wiki/Dhannalal_Jain",
+        "name": "XPRV",
+        "tm_pub_key": "LkVYSohOr72CQiHnUpvvtyaWBh7AxgPTNhhpnYuDf9A=",
+        "vega_pub_key": "6b1a03a10e09c8994189eebde269b5a34124750ab240dd31d08cbaf835146bfb",
+        "vega_pub_key_index": 1
+      },
+      "PgKf0icqvR+qarIDmnYBz9oj1xkIa98icVZgNex8Jts=": {
+        "avatar_url": "https://www.gravatar.com/avatar/dx1z061dodij6gsvtzwkvc4nqpa8qk5f?d=identicon",
+        "country": "PJ",
+        "ethereum_address": "0x95c5183eD5a3D851D315F27A4D3038c5C992aF87",
+        "id": "080646095c8296f410ee7e03edb6e09d439429017d591a628d2bfe868ad3b3c4",
+        "info_url": "https://en.wikipedia.org/wiki/Giovanni_Carlo_Aliberti",
+        "name": "Staking Facilities",
+        "tm_pub_key": "PgKf0icqvR+qarIDmnYBz9oj1xkIa98icVZgNex8Jts=",
+        "vega_pub_key": "6a99ea2f5590fccf973fa53ce723e4152d3e4b4a4b95481f43403149b01955c2",
         "vega_pub_key_index": 1
       },
       "Q7aJ8SNndfxTaZTQ9wQLKs3XC4gajkS1gf5j/djwzXY=": {
@@ -169,7 +209,7 @@
         "ethereum_address": "0x047F42fbEA58FD6c57c0c39A31d602A796c695B9",
         "id": "fe4e987dba1c2a91bd79dba27a40c4af66d675393fadf095342b205abc1a1d7d",
         "info_url": "https://en.wikipedia.org/wiki/Belgian_Railways_Class_23",
-        "name": "rhythmic-car",
+        "name": "Lovali",
         "tm_pub_key": "Q7aJ8SNndfxTaZTQ9wQLKs3XC4gajkS1gf5j/djwzXY=",
         "vega_pub_key": "e9cfacdffeb7e88d3c0cecb609339139bc1af6733823080c38322aa9aeee41d7",
         "vega_pub_key_index": 1
@@ -180,7 +220,7 @@
         "ethereum_address": "0x788dE4723a925ee2573FD75778DA7caf22d6C38B",
         "id": "6e9b47c40bb673ad359568d50aae778cb42e2f16e29670732859c2e0a31d4da3",
         "info_url": "https://en.wikipedia.org/wiki/Shekhawat",
-        "name": "noisy-chair",
+        "name": "B-Harvest",
         "tm_pub_key": "aJ4z6Eqeg4hKt92GfGboBQ+/aLXTC/nrg+LsMtKwwNs=",
         "vega_pub_key": "f04843fd3ce0987404e83e1abac514a880a73c490792dc2b0d0364c77af9b0df",
         "vega_pub_key_index": 1
@@ -191,9 +231,20 @@
         "ethereum_address": "0x5D29bD8695c8EF575bA7FC7F10A91e95cd412550",
         "id": "1b07a2878d25e5260384cac6987e1e2ce7f9d5ce96f088021ad9d05e405562e6",
         "info_url": "https://en.wikipedia.org/wiki/Rah%C4%ABm%C4%AB",
-        "name": "better-dog",
+        "name": "Nala",
         "tm_pub_key": "fzAIqCGUl+PUIwMmMlFYpxNOWJ3kF7y/Fkd7j95LFU8=",
         "vega_pub_key": "f0a92e9cb482be461bff41cb51919baa7a20be26e80809c4fd87986fbf1f88c6",
+        "vega_pub_key_index": 1
+      },
+      "kYzbWhZoAK5wpqlOWZmTjNwfPGBDAHJtSQjMkgCmI24=": {
+        "avatar_url": "https://www.gravatar.com/avatar/sit1t1kptrwmbvy2i9pf1uy8mxk3m4ry?d=identicon",
+        "country": "AU",
+        "ethereum_address": "0x0a3Ebc653315E94Ea30eB2FCF78Cf67D9f1fBb5A",
+        "id": "6d3deee8eeec5b48735bc9c4c1332d424fa609879232886d78f4d71163d4ca7b",
+        "info_url": "https://en.wikipedia.org/wiki/France_at_the_1928_Summer_Olympics",
+        "name": "RBF",
+        "tm_pub_key": "kYzbWhZoAK5wpqlOWZmTjNwfPGBDAHJtSQjMkgCmI24=",
+        "vega_pub_key": "695f9289ca69673049d5d06cf092cd6c5be1d67e144b942e43dfb22de9e42dfa",
         "vega_pub_key_index": 1
       },
       "oQPXiDjuHEV2AGPzMtTn2Vjb1yAoS6G721eGMVvH82E=": {
@@ -202,14 +253,25 @@
         "ethereum_address": "0xEf50f0E13072Cc8171F7b25f125e03cA4ae54ffF",
         "id": "973d8de51c79f2f9c40257701890790ffce129e84c9586847b5404e947aad5e6",
         "info_url": "https://en.wikipedia.org/wiki/Flanking_maneuver",
-        "name": "rhythmic-door",
+        "name": "NodesGuru",
         "tm_pub_key": "oQPXiDjuHEV2AGPzMtTn2Vjb1yAoS6G721eGMVvH82E=",
         "vega_pub_key": "f7ce318275441f049c34d5b70766532850521275fc2a541de377a41285de7dc2",
+        "vega_pub_key_index": 1
+      },
+      "xY3hpba0Mn80iQz8jIedX4DHiFhbycWT04cwTSb+lR4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/d1u7zcb8n74dbq9k0wgleh7favdo42ak?d=identicon",
+        "country": "QQ",
+        "ethereum_address": "0x3d95B104166fF8c81949687D53BA0712eF37CeF5",
+        "id": "2e44f9ed738e18b2f8220516357d379e755f51c9c0bf751c3958c34bf805a48f",
+        "info_url": "https://en.wikipedia.org/wiki/Catholic_Church_in_Nepal",
+        "name": "Ryabina",
+        "tm_pub_key": "xY3hpba0Mn80iQz8jIedX4DHiFhbycWT04cwTSb+lR4=",
+        "vega_pub_key": "2399f20676ae81680c536c9778a0507c85e8ce4a17e516e299609cbadb4677b2",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-mainnet-mirror-202212030446",
+  "chain_id": "vega-mainnet-mirror-202212071108",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -228,12 +290,12 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-03T04:46:40.13066Z",
+  "genesis_time": "2022-12-07T11:08:37.160663446Z",
   "initial_height": "0",
   "validators": [
     {
       "address": "2E26FBD2940905CEC363AB4958858E3AB2143EC1",
-      "name": "noisy-chair",
+      "name": "B-Harvest",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
@@ -242,7 +304,7 @@
     },
     {
       "address": "33C5E0A6DD565B630D27098F66B5F9236FF27237",
-      "name": "tender-book",
+      "name": "Commodum DAO",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
@@ -251,7 +313,7 @@
     },
     {
       "address": "E4CFE524B827B4239C72AE4BFBB89C13D37A0978",
-      "name": "intrigued-dog",
+      "name": "Figment",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
@@ -260,7 +322,7 @@
     },
     {
       "address": "185CE6363E0AB3B4651E1A3B74E6FBE336683F42",
-      "name": "easy-window",
+      "name": "GF1",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
@@ -269,7 +331,7 @@
     },
     {
       "address": "6B6E4FFF207314D6E5AFA397185AC668DC92D265",
-      "name": "rhythmic-car",
+      "name": "Lovali",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
@@ -278,7 +340,7 @@
     },
     {
       "address": "5FCBAD9BA249F0B093E380CE2140E425CBCC46EB",
-      "name": "better-dog",
+      "name": "Nala",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
@@ -287,11 +349,65 @@
     },
     {
       "address": "2F22E00E38D93D4360D419A3B31B4582746F9BFD",
-      "name": "rhythmic-door",
+      "name": "NodesGuru",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
         "value": "oQPXiDjuHEV2AGPzMtTn2Vjb1yAoS6G721eGMVvH82E="
+      }
+    },
+    {
+      "address": "674A0B49FB061E095A2BD9A1D4379DA32416EB22",
+      "name": "P2P.ORG",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "6dgCI0CYciLv5phjX1Owdx+8jmb9yPt7gt3Gk/oIAIU="
+      }
+    },
+    {
+      "address": "41989CB4D24A3B8A91F5A6E8C4DAA873D74E70EF",
+      "name": "RBF",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "kYzbWhZoAK5wpqlOWZmTjNwfPGBDAHJtSQjMkgCmI24="
+      }
+    },
+    {
+      "address": "54F8BBE2BA1BA21941360F0A479508EEF3261C73",
+      "name": "Staking Facilities",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "PgKf0icqvR+qarIDmnYBz9oj1xkIa98icVZgNex8Jts="
+      }
+    },
+    {
+      "address": "EDD224FB576B7E79B6FE714ED28679BA70E09114",
+      "name": "XPRV",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "LkVYSohOr72CQiHnUpvvtyaWBh7AxgPTNhhpnYuDf9A="
+      }
+    },
+    {
+      "address": "184EB7E7B92C33BF2153BD1B473595056504232A",
+      "name": "Ryabina",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "xY3hpba0Mn80iQz8jIedX4DHiFhbycWT04cwTSb+lR4="
+      }
+    },
+    {
+      "address": "19815823FDA71F5A11BC5CE06143BD7761F7A799",
+      "name": "Chorus One",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "/yqZyNqj8cKYvETbtq9wOH+PcsPs3MiwcAMMb1G6sDM="
       }
     }
   ]
