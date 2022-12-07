@@ -17,4 +17,6 @@ Node documentation page contains all useful informations about the node. You can
 | n02.stagnet1.vega.xyz | tm.n02.stagnet1.vega.xyz | api.n02.stagnet1.vega.xyz | sgp1 | s-4vcpu-8gb | do |
 | n03.stagnet1.vega.xyz | tm.n03.stagnet1.vega.xyz | api.n03.stagnet1.vega.xyz | eu-west-2c | c5.large | aws |
 | n04.stagnet1.vega.xyz | tm.n04.stagnet1.vega.xyz | api.n04.stagnet1.vega.xyz | asia-southeast1-a | n1-standard-4 | gcp |
+| n05.stagnet1.vega.xyz | tm.n05.stagnet1.vega.xyz | api.n05.stagnet1.vega.xyz | fra1 | s-4vcpu-8gb | do |
+| n06.stagnet1.vega.xyz | tm.n06.stagnet1.vega.xyz | api.n06.stagnet1.vega.xyz | fra1 | s-4vcpu-8gb | do |
 | be.stagnet1.vega.xyz | tm.be.stagnet1.vega.xyz | api.be.stagnet1.vega.xyz | fra1 | s-4vcpu-8gb | do |
