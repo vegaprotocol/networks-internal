@@ -19,4 +19,5 @@ Node documentation page contains all useful informations about the node. You can
 | n04.devnet1.vega.xyz | tm.n04.devnet1.vega.xyz | api.n04.devnet1.vega.xyz | fra1 | s-4vcpu-8gb | do |
 | n05.devnet1.vega.xyz | tm.n05.devnet1.vega.xyz | api.n05.devnet1.vega.xyz | fra1 | s-4vcpu-8gb | do |
 | n06.devnet1.vega.xyz | tm.n06.devnet1.vega.xyz | api.n06.devnet1.vega.xyz | fra1 | s-4vcpu-8gb | do |
+| n07.devnet1.vega.xyz | tm.n07.devnet1.vega.xyz | api.n07.devnet1.vega.xyz | fra1 | s-4vcpu-8gb | do |
 | be.devnet1.vega.xyz | tm.be.devnet1.vega.xyz | api.be.devnet1.vega.xyz | fra1 | s-4vcpu-8gb | do |
