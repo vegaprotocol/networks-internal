@@ -268,6 +268,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "6/lRXJv/mMUculPOAhbC3ot3nZmb1T8KQiI9zY/NlkE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/bizhaaaaij7gt0g5n4algcmid4ai6t8c?d=identicon",
+        "country": "FQ",
+        "ethereum_address": "0xe9E9cE53e70aD19f615e5bF2A821c239442569D2",
+        "id": "91dcbac9206cb36e80546fd588699965609813abcd934ac53ccda179d74f1c33",
+        "info_url": "https://en.wikipedia.org/wiki/2007_Eurocup_M%C3%A9gane_Trophy",
+        "name": "promising-table",
+        "tm_pub_key": "6/lRXJv/mMUculPOAhbC3ot3nZmb1T8KQiI9zY/NlkE=",
+        "vega_pub_key": "bb2e9643cdc013362a83eefcd638564cb3f88eca2737b5b5ddf52e79de1d1c78",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -301,17 +312,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "Vhj1Pn8cgu2iAunO84T2ghUTcNUYi6hti82Iziw+iHs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/8l9e6o3rn3r872w85lso2yj0q9qghzix?d=identicon",
-        "country": "ZD",
-        "ethereum_address": "0x6cCe63cA08401eeA315878594e34Ed64B04A2411",
-        "id": "9048b90adcd84b2f8e40aad14418be5f5ba1df450e038dac63b39d26f41985d9",
-        "info_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Patrice_Lumumba",
-        "name": "brave-phone",
-        "tm_pub_key": "Vhj1Pn8cgu2iAunO84T2ghUTcNUYi6hti82Iziw+iHs=",
-        "vega_pub_key": "8555cc463f96faba80de9c1da3293228f884cf169090bb405dfef1069942bbcf",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212081738",
+  "chain_id": "vega-devnet1-202212081756",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-08T17:38:32.21031662Z",
+  "genesis_time": "2022-12-08T17:56:27.349034987Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "6E22E754FD759854F15D27B54191DDF2A2D39E79",
-      "name": "brave-phone",
+      "address": "2DB6FC55D229832FEFCC03233533089BD54021BC",
+      "name": "promising-table",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Vhj1Pn8cgu2iAunO84T2ghUTcNUYi6hti82Iziw+iHs="
+        "value": "6/lRXJv/mMUculPOAhbC3ot3nZmb1T8KQiI9zY/NlkE="
       }
     }
   ]
