@@ -268,6 +268,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "4mdei2UF56LgygZ/7YTx7/erNJ/Wb9pzj/5oucZpVd8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/urwp4xxin24c772mrmdu10afno56alhs?d=identicon",
+        "country": "QW",
+        "ethereum_address": "0xa566F618d00479fCcE46635Ac92B0c32D50f49E0",
+        "id": "285d1d2e623c12d897e357ea9461186e785aa89469cd99ffeb209e524a18e2d9",
+        "info_url": "https://en.wikipedia.org/wiki/Docking_station",
+        "name": "echoing-book",
+        "tm_pub_key": "4mdei2UF56LgygZ/7YTx7/erNJ/Wb9pzj/5oucZpVd8=",
+        "vega_pub_key": "29d6662953223db7e84da8e9eaa4dd3517829f543b6b1b64a3f3f22b83e808a0",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -311,21 +322,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "xPAcKTKSF+rsugBSxpuFjk59gZNuHd+/6gmhN+Et/q8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/v4825fzcdacp2nhdpdcl3jg7nj9birrx?d=identicon",
-        "country": "ZG",
-        "ethereum_address": "0x9fef9E4e250DDCc29eD5555Bc45e518B7Dca572a",
-        "id": "b3fd46cbcf7f6733a9fec7b88b06d773b429be8c434fdd59d5045ee30dd7a8b8",
-        "info_url": "https://en.wikipedia.org/wiki/Cupertino_High_School",
-        "name": "powerful-month",
-        "tm_pub_key": "xPAcKTKSF+rsugBSxpuFjk59gZNuHd+/6gmhN+Et/q8=",
-        "vega_pub_key": "bbd20a69b12d298032878a2654432b179f8b8b682dc89697a45edcfdb6d4163c",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202212091033",
+  "chain_id": "vega-devnet1-202212091107",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-09T10:33:48.174311652Z",
+  "genesis_time": "2022-12-09T11:07:23.395085654Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "A1E6302EA0A94D99AAD4ACE6AB134B3775A87B2D",
-      "name": "powerful-month",
+      "address": "EF4A1DA5E19E538DEFB986AC5E9B8BDEC71505B2",
+      "name": "echoing-book",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "xPAcKTKSF+rsugBSxpuFjk59gZNuHd+/6gmhN+Et/q8="
+        "value": "4mdei2UF56LgygZ/7YTx7/erNJ/Wb9pzj/5oucZpVd8="
       }
     }
   ]
