@@ -268,17 +268,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "+bkI2XxWHHSvZcmIGBgtg16fcByWjyG+Pmqamrni2Q4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/zx2ks13nmdeh6jd3swwdvc7k5yua6fwg?d=identicon",
-        "country": "QA",
-        "ethereum_address": "0x1d8B11397C49d3ffAB8A0f8d831A17d190502159",
-        "id": "c90944b4269f34fcba3eb09aa9905e5f0cdddd328a79714734af4edd069cab3f",
-        "info_url": "https://en.wikipedia.org/wiki/Timeline_of_South_Australian_history",
-        "name": "rich-dog",
-        "tm_pub_key": "+bkI2XxWHHSvZcmIGBgtg16fcByWjyG+Pmqamrni2Q4=",
-        "vega_pub_key": "115ffe7b2ed4254d56b059057150eff922d46d1585eb1c60b8c0fa6eb72e34ab",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -299,6 +288,17 @@
         "name": "friendly-barber",
         "tm_pub_key": "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=",
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
+        "vega_pub_key_index": 1
+      },
+      "IuoaLA9vWvPHYRS4flTLlhm2Ksx35SvRi3sK0V5u6bc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/g4egekkp8v9qe83ror3ffpf04z36ytfg?d=identicon",
+        "country": "BW",
+        "ethereum_address": "0xCFc96B3Ca9808285A3B984aECE22D535FE7ba016",
+        "id": "6de57981451c86d53b0051308f7e423314889e3dc6ec0f9bdb38127abe0b49dd",
+        "info_url": "https://en.wikipedia.org/wiki/Stomopteryx_pallidella",
+        "name": "fuzzy-book",
+        "tm_pub_key": "IuoaLA9vWvPHYRS4flTLlhm2Ksx35SvRi3sK0V5u6bc=",
+        "vega_pub_key": "f1c221611b8b0829d739d541c2cd9c01e33172bfd5d53f2053531ca99ddb629b",
         "vega_pub_key_index": 1
       },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212091651",
+  "chain_id": "vega-devnet1-202212091733",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-09T16:51:43.201166324Z",
+  "genesis_time": "2022-12-09T17:33:07.373747967Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "68E750FEC0A30D6F66BA40E7D4807A5E6FB15398",
-      "name": "rich-dog",
+      "address": "5F3D70CAF60C88B8ECD2274D45EB75B97AAF11E6",
+      "name": "fuzzy-book",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "+bkI2XxWHHSvZcmIGBgtg16fcByWjyG+Pmqamrni2Q4="
+        "value": "IuoaLA9vWvPHYRS4flTLlhm2Ksx35SvRi3sK0V5u6bc="
       }
     }
   ]
