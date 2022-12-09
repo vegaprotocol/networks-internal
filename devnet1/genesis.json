@@ -268,15 +268,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "4mdei2UF56LgygZ/7YTx7/erNJ/Wb9pzj/5oucZpVd8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/urwp4xxin24c772mrmdu10afno56alhs?d=identicon",
-        "country": "QW",
-        "ethereum_address": "0xa566F618d00479fCcE46635Ac92B0c32D50f49E0",
-        "id": "285d1d2e623c12d897e357ea9461186e785aa89469cd99ffeb209e524a18e2d9",
-        "info_url": "https://en.wikipedia.org/wiki/Docking_station",
-        "name": "echoing-book",
-        "tm_pub_key": "4mdei2UF56LgygZ/7YTx7/erNJ/Wb9pzj/5oucZpVd8=",
-        "vega_pub_key": "29d6662953223db7e84da8e9eaa4dd3517829f543b6b1b64a3f3f22b83e808a0",
+      "7XaQ5xivHOl3i/nqlMnlpBdz3ZDfznPK/fb/pM/LeNc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/9f3elvgv75fu7ocqo9hpltayzoxm86l5?d=identicon",
+        "country": "YM",
+        "ethereum_address": "0x1B04D0aF944Dcdcc81E067bAc3F6F41f7772B49a",
+        "id": "170bd9d84f8067ea0cb6c826c9cb7f85d80d309540102c59ac0caf2fb7c7501a",
+        "info_url": "https://en.wikipedia.org/wiki/Lisa_Joann_Thompson",
+        "name": "hollow-teacher",
+        "tm_pub_key": "7XaQ5xivHOl3i/nqlMnlpBdz3ZDfznPK/fb/pM/LeNc=",
+        "vega_pub_key": "acc738d55847601a1f62f9b20932a5391bdad4acf3ae8e9cc8602cf69c7b65e3",
         "vega_pub_key_index": 1
       },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212091154",
+  "chain_id": "vega-devnet1-202212091357",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-09T11:54:17.425764957Z",
+  "genesis_time": "2022-12-09T13:57:38.94674316Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "EF4A1DA5E19E538DEFB986AC5E9B8BDEC71505B2",
-      "name": "echoing-book",
+      "address": "CF5121D09D3F7B050355E3288C9C81A6F374255E",
+      "name": "hollow-teacher",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "4mdei2UF56LgygZ/7YTx7/erNJ/Wb9pzj/5oucZpVd8="
+        "value": "7XaQ5xivHOl3i/nqlMnlpBdz3ZDfznPK/fb/pM/LeNc="
       }
     }
   ]
