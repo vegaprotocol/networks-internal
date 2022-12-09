@@ -268,17 +268,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "7XaQ5xivHOl3i/nqlMnlpBdz3ZDfznPK/fb/pM/LeNc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/9f3elvgv75fu7ocqo9hpltayzoxm86l5?d=identicon",
-        "country": "YM",
-        "ethereum_address": "0x1B04D0aF944Dcdcc81E067bAc3F6F41f7772B49a",
-        "id": "170bd9d84f8067ea0cb6c826c9cb7f85d80d309540102c59ac0caf2fb7c7501a",
-        "info_url": "https://en.wikipedia.org/wiki/Lisa_Joann_Thompson",
-        "name": "hollow-teacher",
-        "tm_pub_key": "7XaQ5xivHOl3i/nqlMnlpBdz3ZDfznPK/fb/pM/LeNc=",
-        "vega_pub_key": "acc738d55847601a1f62f9b20932a5391bdad4acf3ae8e9cc8602cf69c7b65e3",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -312,6 +301,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "gZYODmtuXz1hipLF4+FkCUjwLp/tRibdLTxNbtKpqSQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/2o5oibbz2fju9tds5m88derxgeeck0rr?d=identicon",
+        "country": "PS",
+        "ethereum_address": "0x10488E5d6A3943EfBe55c85461f2CD625C831B0b",
+        "id": "d8ed0390be61ddbfa52b001da29088f09b6864ba2de0714d756b167659d287d6",
+        "info_url": "https://en.wikipedia.org/wiki/Chris_Snitko",
+        "name": "unsightly-dog",
+        "tm_pub_key": "gZYODmtuXz1hipLF4+FkCUjwLp/tRibdLTxNbtKpqSQ=",
+        "vega_pub_key": "78a7879910fbd8db22030094c28fc3445f6244ada06bfb4376c2c6e3d40bd375",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212091357",
+  "chain_id": "vega-devnet1-202212091458",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-09T13:57:38.94674316Z",
+  "genesis_time": "2022-12-09T14:58:07.998649582Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "CF5121D09D3F7B050355E3288C9C81A6F374255E",
-      "name": "hollow-teacher",
+      "address": "E6BB5A0077E01083F3434867F0AB882BFB017122",
+      "name": "unsightly-dog",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "7XaQ5xivHOl3i/nqlMnlpBdz3ZDfznPK/fb/pM/LeNc="
+        "value": "gZYODmtuXz1hipLF4+FkCUjwLp/tRibdLTxNbtKpqSQ="
       }
     }
   ]
