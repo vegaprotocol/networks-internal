@@ -268,6 +268,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "+bkI2XxWHHSvZcmIGBgtg16fcByWjyG+Pmqamrni2Q4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/zx2ks13nmdeh6jd3swwdvc7k5yua6fwg?d=identicon",
+        "country": "QA",
+        "ethereum_address": "0x1d8B11397C49d3ffAB8A0f8d831A17d190502159",
+        "id": "c90944b4269f34fcba3eb09aa9905e5f0cdddd328a79714734af4edd069cab3f",
+        "info_url": "https://en.wikipedia.org/wiki/Timeline_of_South_Australian_history",
+        "name": "rich-dog",
+        "tm_pub_key": "+bkI2XxWHHSvZcmIGBgtg16fcByWjyG+Pmqamrni2Q4=",
+        "vega_pub_key": "115ffe7b2ed4254d56b059057150eff922d46d1585eb1c60b8c0fa6eb72e34ab",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -301,17 +312,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "gZYODmtuXz1hipLF4+FkCUjwLp/tRibdLTxNbtKpqSQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/2o5oibbz2fju9tds5m88derxgeeck0rr?d=identicon",
-        "country": "PS",
-        "ethereum_address": "0x10488E5d6A3943EfBe55c85461f2CD625C831B0b",
-        "id": "d8ed0390be61ddbfa52b001da29088f09b6864ba2de0714d756b167659d287d6",
-        "info_url": "https://en.wikipedia.org/wiki/Chris_Snitko",
-        "name": "unsightly-dog",
-        "tm_pub_key": "gZYODmtuXz1hipLF4+FkCUjwLp/tRibdLTxNbtKpqSQ=",
-        "vega_pub_key": "78a7879910fbd8db22030094c28fc3445f6244ada06bfb4376c2c6e3d40bd375",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212091458",
+  "chain_id": "vega-devnet1-202212091611",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-09T14:58:07.998649582Z",
+  "genesis_time": "2022-12-09T16:11:05.992572134Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "E6BB5A0077E01083F3434867F0AB882BFB017122",
-      "name": "unsightly-dog",
+      "address": "68E750FEC0A30D6F66BA40E7D4807A5E6FB15398",
+      "name": "rich-dog",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "gZYODmtuXz1hipLF4+FkCUjwLp/tRibdLTxNbtKpqSQ="
+        "value": "+bkI2XxWHHSvZcmIGBgtg16fcByWjyG+Pmqamrni2Q4="
       }
     }
   ]
