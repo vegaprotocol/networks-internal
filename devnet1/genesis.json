@@ -290,17 +290,6 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
-      "IuoaLA9vWvPHYRS4flTLlhm2Ksx35SvRi3sK0V5u6bc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/g4egekkp8v9qe83ror3ffpf04z36ytfg?d=identicon",
-        "country": "BW",
-        "ethereum_address": "0xCFc96B3Ca9808285A3B984aECE22D535FE7ba016",
-        "id": "6de57981451c86d53b0051308f7e423314889e3dc6ec0f9bdb38127abe0b49dd",
-        "info_url": "https://en.wikipedia.org/wiki/Stomopteryx_pallidella",
-        "name": "fuzzy-book",
-        "tm_pub_key": "IuoaLA9vWvPHYRS4flTLlhm2Ksx35SvRi3sK0V5u6bc=",
-        "vega_pub_key": "f1c221611b8b0829d739d541c2cd9c01e33172bfd5d53f2053531ca99ddb629b",
-        "vega_pub_key_index": 1
-      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -310,6 +299,17 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
+        "vega_pub_key_index": 1
+      },
+      "YZQioGDDoAXpxVTYR4KQ0XpTcB+Ar5iMZ0iXlZ57Bso=": {
+        "avatar_url": "https://www.gravatar.com/avatar/kckyvwv5j25ynvsfl90cfi7l8xhx72gq?d=identicon",
+        "country": "UK",
+        "ethereum_address": "0x77036A2060EB07B793D5d9BDEECAc100723D5cFa",
+        "id": "438c23c976d0743d76b0271d050b27d31d87b979bf2764f1aa6ec776a8027cef",
+        "info_url": "https://en.wikipedia.org/wiki/Ella_Ferris_Pell",
+        "name": "scruffy-fan",
+        "tm_pub_key": "YZQioGDDoAXpxVTYR4KQ0XpTcB+Ar5iMZ0iXlZ57Bso=",
+        "vega_pub_key": "025fd8f9e9008b85b9f220aa483d7a64d1ae487b2cf08117d121cfeb2a977fa6",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212091849",
+  "chain_id": "vega-devnet1-202212102215",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-09T18:49:10.899984121Z",
+  "genesis_time": "2022-12-10T22:15:26.496224653Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "5F3D70CAF60C88B8ECD2274D45EB75B97AAF11E6",
-      "name": "fuzzy-book",
+      "address": "BEC278D282F9F5581833E0BDE476F7E617E441D4",
+      "name": "scruffy-fan",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "IuoaLA9vWvPHYRS4flTLlhm2Ksx35SvRi3sK0V5u6bc="
+        "value": "YZQioGDDoAXpxVTYR4KQ0XpTcB+Ar5iMZ0iXlZ57Bso="
       }
     }
   ]
