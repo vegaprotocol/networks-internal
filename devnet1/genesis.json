@@ -279,6 +279,17 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
+      "BAwTbjryAefUUp03EeJZMBbKOApjFrJ0gwzVFnw4BvQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/fw6miokovtn0fre6a8g7ln4ewdb8tyuj?d=identicon",
+        "country": "SF",
+        "ethereum_address": "0x037721f8CC98Be9335CdA3578D9061ceaB330F16",
+        "id": "927cfbb1670d66263d377d3eb056961c45b0fdbe39a3c094d29c26a198b3d75c",
+        "info_url": "https://en.wikipedia.org/wiki/New_York_City%27s_30th_City_Council_district",
+        "name": "narrow-fan",
+        "tm_pub_key": "BAwTbjryAefUUp03EeJZMBbKOApjFrJ0gwzVFnw4BvQ=",
+        "vega_pub_key": "8a602f011f34577aa1713bfc4fd736aad18be8059d964cc5861b2976a4020474",
+        "vega_pub_key_index": 1
+      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -301,17 +312,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "YZQioGDDoAXpxVTYR4KQ0XpTcB+Ar5iMZ0iXlZ57Bso=": {
-        "avatar_url": "https://www.gravatar.com/avatar/kckyvwv5j25ynvsfl90cfi7l8xhx72gq?d=identicon",
-        "country": "UK",
-        "ethereum_address": "0x77036A2060EB07B793D5d9BDEECAc100723D5cFa",
-        "id": "438c23c976d0743d76b0271d050b27d31d87b979bf2764f1aa6ec776a8027cef",
-        "info_url": "https://en.wikipedia.org/wiki/Ella_Ferris_Pell",
-        "name": "scruffy-fan",
-        "tm_pub_key": "YZQioGDDoAXpxVTYR4KQ0XpTcB+Ar5iMZ0iXlZ57Bso=",
-        "vega_pub_key": "025fd8f9e9008b85b9f220aa483d7a64d1ae487b2cf08117d121cfeb2a977fa6",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212102215",
+  "chain_id": "vega-devnet1-202212121459",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-10T22:15:26.496224653Z",
+  "genesis_time": "2022-12-12T14:59:13.029425271Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "BEC278D282F9F5581833E0BDE476F7E617E441D4",
-      "name": "scruffy-fan",
+      "address": "401B1A24D617FB0ACF0332552D95B4333B1B4BE8",
+      "name": "narrow-fan",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "YZQioGDDoAXpxVTYR4KQ0XpTcB+Ar5iMZ0iXlZ57Bso="
+        "value": "BAwTbjryAefUUp03EeJZMBbKOApjFrJ0gwzVFnw4BvQ="
       }
     }
   ]
