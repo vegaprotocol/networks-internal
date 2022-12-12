@@ -279,17 +279,6 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
-      "BAwTbjryAefUUp03EeJZMBbKOApjFrJ0gwzVFnw4BvQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/fw6miokovtn0fre6a8g7ln4ewdb8tyuj?d=identicon",
-        "country": "SF",
-        "ethereum_address": "0x037721f8CC98Be9335CdA3578D9061ceaB330F16",
-        "id": "927cfbb1670d66263d377d3eb056961c45b0fdbe39a3c094d29c26a198b3d75c",
-        "info_url": "https://en.wikipedia.org/wiki/New_York_City%27s_30th_City_Council_district",
-        "name": "narrow-fan",
-        "tm_pub_key": "BAwTbjryAefUUp03EeJZMBbKOApjFrJ0gwzVFnw4BvQ=",
-        "vega_pub_key": "8a602f011f34577aa1713bfc4fd736aad18be8059d964cc5861b2976a4020474",
-        "vega_pub_key_index": 1
-      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -312,6 +301,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "be4KsiY5/aY2+i5geU7NfAd8ryx3kn1inUAmfoiJfls=": {
+        "avatar_url": "https://www.gravatar.com/avatar/hz7v58lwyzj8wh5ij2t3q3nyradpystr?d=identicon",
+        "country": "RV",
+        "ethereum_address": "0x9c286f373f07Dccb40bE10e49B83A717Ab425D86",
+        "id": "fc3c32a21b3d40997c6f0e33563adc9dd54a8a4af6cfb7c9d048bd912c056d3f",
+        "info_url": "https://en.wikipedia.org/wiki/Waipoua_River_(Wellington)",
+        "name": "frantic-tree",
+        "tm_pub_key": "be4KsiY5/aY2+i5geU7NfAd8ryx3kn1inUAmfoiJfls=",
+        "vega_pub_key": "5e365f94e93b3f375d5915638561119aebd667855ec392b11c7dc9c47971d95b",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212121459",
+  "chain_id": "vega-devnet1-202212121614",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-12T14:59:13.029425271Z",
+  "genesis_time": "2022-12-12T16:14:50.635353357Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "401B1A24D617FB0ACF0332552D95B4333B1B4BE8",
-      "name": "narrow-fan",
+      "address": "B41F29C89A36DF4C30ED7469BC7DD83E6628E6FC",
+      "name": "frantic-tree",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "BAwTbjryAefUUp03EeJZMBbKOApjFrJ0gwzVFnw4BvQ="
+        "value": "be4KsiY5/aY2+i5geU7NfAd8ryx3kn1inUAmfoiJfls="
       }
     }
   ]
