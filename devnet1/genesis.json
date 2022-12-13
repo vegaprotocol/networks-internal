@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "KVM9/dbwvQXIxY177Od5ns64Qx7MlzeWBR3I5X+BqcA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/8h6iw9jj0pzo7zf5ielb9blau5tzi9j5?d=identicon",
-        "country": "HC",
-        "ethereum_address": "0xcd8FFFf9aC9Aba26c5Cb43279bdEd635ccFA73F2",
-        "id": "7f1d22f0129d5761d6fe7439f5623757bfd0660d6e4d52188bb0e236bd2debd9",
-        "info_url": "https://en.wikipedia.org/wiki/2022_Ta%C3%A7a_de_Portugal_Final",
-        "name": "bright-television",
-        "tm_pub_key": "KVM9/dbwvQXIxY177Od5ns64Qx7MlzeWBR3I5X+BqcA=",
-        "vega_pub_key": "7fbd6b4e1817c3db4518bba9c94a995d109ec0b4ad5e4b817e20cf9c488564a3",
+      "d2PQ8ZKlhzbxD+q6jscD8saKbAKX04oryoK3y1QWveI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/7dp8ug0oe9uwqqh3yl7nxglrw5fj89sv?d=identicon",
+        "country": "QR",
+        "ethereum_address": "0x48b631c0b1338A8248b5E5041000a35d52e9d137",
+        "id": "abafec49d4616333996ba7b926957fe1a6e7bbe4b40f1a5ff55dca942b969273",
+        "info_url": "https://en.wikipedia.org/wiki/Felipe_Padilla_de_Le%C3%B3n",
+        "name": "whispering-teacher",
+        "tm_pub_key": "d2PQ8ZKlhzbxD+q6jscD8saKbAKX04oryoK3y1QWveI=",
+        "vega_pub_key": "be61f9192f96f2e7d4aea631786d3a25a0517df388dbfdea9cbf23c5a0bd0582",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212131410",
+  "chain_id": "vega-devnet1-202212131534",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-13T14:10:08.361043882Z",
+  "genesis_time": "2022-12-13T15:34:09.761579727Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "CB9161165038B72AF701E043F300B9E8E2C5DD4F",
-      "name": "bright-television",
+      "address": "A79AA21DC9DEBFE617066C3F55CBD7257CD47C5B",
+      "name": "whispering-teacher",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "KVM9/dbwvQXIxY177Od5ns64Qx7MlzeWBR3I5X+BqcA="
+        "value": "d2PQ8ZKlhzbxD+q6jscD8saKbAKX04oryoK3y1QWveI="
       }
     }
   ]
