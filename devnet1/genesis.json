@@ -290,6 +290,17 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
+      "Ijw+BXVx/J00XNJTOMmBB5hoYmEwTJt/jUUVaomYx30=": {
+        "avatar_url": "https://www.gravatar.com/avatar/rzx7lxlxudgttukrhuz6m74o4teut0ww?d=identicon",
+        "country": "UH",
+        "ethereum_address": "0x3F9C7c7EB479D91d23c4a6BC5d22CC6E05a5DdeD",
+        "id": "dc33d3fadedf670e7b9f0e87681e33f4b016d826c0ce95745f0068a862e59eb4",
+        "info_url": "https://en.wikipedia.org/wiki/Witch_of_Berkeley",
+        "name": "terrible-lake",
+        "tm_pub_key": "Ijw+BXVx/J00XNJTOMmBB5hoYmEwTJt/jUUVaomYx30=",
+        "vega_pub_key": "d9317c26606bd340a1b931793e3d7be76696e6f18bf32f788e3967b34a20439b",
+        "vega_pub_key_index": 1
+      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -299,17 +310,6 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
-        "vega_pub_key_index": 1
-      },
-      "be4KsiY5/aY2+i5geU7NfAd8ryx3kn1inUAmfoiJfls=": {
-        "avatar_url": "https://www.gravatar.com/avatar/hz7v58lwyzj8wh5ij2t3q3nyradpystr?d=identicon",
-        "country": "RV",
-        "ethereum_address": "0x9c286f373f07Dccb40bE10e49B83A717Ab425D86",
-        "id": "fc3c32a21b3d40997c6f0e33563adc9dd54a8a4af6cfb7c9d048bd912c056d3f",
-        "info_url": "https://en.wikipedia.org/wiki/Waipoua_River_(Wellington)",
-        "name": "frantic-tree",
-        "tm_pub_key": "be4KsiY5/aY2+i5geU7NfAd8ryx3kn1inUAmfoiJfls=",
-        "vega_pub_key": "5e365f94e93b3f375d5915638561119aebd667855ec392b11c7dc9c47971d95b",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212121614",
+  "chain_id": "vega-devnet1-202212130430",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-12T16:14:50.635353357Z",
+  "genesis_time": "2022-12-13T04:30:25.293355694Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "B41F29C89A36DF4C30ED7469BC7DD83E6628E6FC",
-      "name": "frantic-tree",
+      "address": "5D08364357AA255BE8D80E3C62A57995C9320D9A",
+      "name": "terrible-lake",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "be4KsiY5/aY2+i5geU7NfAd8ryx3kn1inUAmfoiJfls="
+        "value": "Ijw+BXVx/J00XNJTOMmBB5hoYmEwTJt/jUUVaomYx30="
       }
     }
   ]
