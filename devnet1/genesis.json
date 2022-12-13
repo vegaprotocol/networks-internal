@@ -290,17 +290,6 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
-      "FY421+/Fc9jJIdER0iEp3QNmbUJgUgdYvOcRIwXdbgM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/gyvll7q5g226js93swp2i5nj5l4z3ml3?d=identicon",
-        "country": "QE",
-        "ethereum_address": "0x9Ce25A5BA7E629C1ddfe2857B470B37f9c436808",
-        "id": "c5ca9a68098bd2b700bd3b722d762889cbb2c7c4cbddb9d6ea43200bb5953490",
-        "info_url": "https://en.wikipedia.org/wiki/Lunar_New_Year_Fair",
-        "name": "icy-plant",
-        "tm_pub_key": "FY421+/Fc9jJIdER0iEp3QNmbUJgUgdYvOcRIwXdbgM=",
-        "vega_pub_key": "e205754f7913846c23c157a59c39710e2aade03607be07f4be1c42e0f54219f8",
-        "vega_pub_key_index": 1
-      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -322,10 +311,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "wzejdridKB5mwDOzrfvyuCqkpBygrZC1fPhQ0b93bdg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ysmu0a853yaew0y6e1y05d791wmx4fvs?d=identicon",
+        "country": "HH",
+        "ethereum_address": "0xDFE1fa35B8D02B68B7332affA7FE773Ed6498006",
+        "id": "e1529ac409159c9595dae9e7c5e3070e83d44a4298ddbb96adf8145aeb304c91",
+        "info_url": "https://en.wikipedia.org/wiki/Louisiana_Highway_433",
+        "name": "distressed-bat",
+        "tm_pub_key": "wzejdridKB5mwDOzrfvyuCqkpBygrZC1fPhQ0b93bdg=",
+        "vega_pub_key": "05cf76fb75e4a82b126ba3212214c545e1941346effdcc77a79593c6ddd0ff0a",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202212131018",
+  "chain_id": "vega-devnet1-202212131302",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-13T10:18:43.706614613Z",
+  "genesis_time": "2022-12-13T13:02:26.325839069Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "2FEE64126CA1ADEBD259C42FAB2F7DD5F529252B",
-      "name": "icy-plant",
+      "address": "5B10ED02FF611E62DB5C6A868A9D09B8D7CF3FC5",
+      "name": "distressed-bat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "FY421+/Fc9jJIdER0iEp3QNmbUJgUgdYvOcRIwXdbgM="
+        "value": "wzejdridKB5mwDOzrfvyuCqkpBygrZC1fPhQ0b93bdg="
       }
     }
   ]
