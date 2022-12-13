@@ -301,6 +301,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "KVM9/dbwvQXIxY177Od5ns64Qx7MlzeWBR3I5X+BqcA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/8h6iw9jj0pzo7zf5ielb9blau5tzi9j5?d=identicon",
+        "country": "HC",
+        "ethereum_address": "0xcd8FFFf9aC9Aba26c5Cb43279bdEd635ccFA73F2",
+        "id": "7f1d22f0129d5761d6fe7439f5623757bfd0660d6e4d52188bb0e236bd2debd9",
+        "info_url": "https://en.wikipedia.org/wiki/2022_Ta%C3%A7a_de_Portugal_Final",
+        "name": "bright-television",
+        "tm_pub_key": "KVM9/dbwvQXIxY177Od5ns64Qx7MlzeWBR3I5X+BqcA=",
+        "vega_pub_key": "7fbd6b4e1817c3db4518bba9c94a995d109ec0b4ad5e4b817e20cf9c488564a3",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -311,21 +322,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "wzejdridKB5mwDOzrfvyuCqkpBygrZC1fPhQ0b93bdg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ysmu0a853yaew0y6e1y05d791wmx4fvs?d=identicon",
-        "country": "HH",
-        "ethereum_address": "0xDFE1fa35B8D02B68B7332affA7FE773Ed6498006",
-        "id": "e1529ac409159c9595dae9e7c5e3070e83d44a4298ddbb96adf8145aeb304c91",
-        "info_url": "https://en.wikipedia.org/wiki/Louisiana_Highway_433",
-        "name": "distressed-bat",
-        "tm_pub_key": "wzejdridKB5mwDOzrfvyuCqkpBygrZC1fPhQ0b93bdg=",
-        "vega_pub_key": "05cf76fb75e4a82b126ba3212214c545e1941346effdcc77a79593c6ddd0ff0a",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202212131302",
+  "chain_id": "vega-devnet1-202212131410",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-13T13:02:26.325839069Z",
+  "genesis_time": "2022-12-13T14:10:08.361043882Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "5B10ED02FF611E62DB5C6A868A9D09B8D7CF3FC5",
-      "name": "distressed-bat",
+      "address": "CB9161165038B72AF701E043F300B9E8E2C5DD4F",
+      "name": "bright-television",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "wzejdridKB5mwDOzrfvyuCqkpBygrZC1fPhQ0b93bdg="
+        "value": "KVM9/dbwvQXIxY177Od5ns64Qx7MlzeWBR3I5X+BqcA="
       }
     }
   ]
