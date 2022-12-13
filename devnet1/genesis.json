@@ -290,6 +290,17 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
+      "FY421+/Fc9jJIdER0iEp3QNmbUJgUgdYvOcRIwXdbgM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/gyvll7q5g226js93swp2i5nj5l4z3ml3?d=identicon",
+        "country": "QE",
+        "ethereum_address": "0x9Ce25A5BA7E629C1ddfe2857B470B37f9c436808",
+        "id": "c5ca9a68098bd2b700bd3b722d762889cbb2c7c4cbddb9d6ea43200bb5953490",
+        "info_url": "https://en.wikipedia.org/wiki/Lunar_New_Year_Fair",
+        "name": "icy-plant",
+        "tm_pub_key": "FY421+/Fc9jJIdER0iEp3QNmbUJgUgdYvOcRIwXdbgM=",
+        "vega_pub_key": "e205754f7913846c23c157a59c39710e2aade03607be07f4be1c42e0f54219f8",
+        "vega_pub_key_index": 1
+      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -299,17 +310,6 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
-        "vega_pub_key_index": 1
-      },
-      "h9KxzF1FS/iJ8ufrHE1DhtXtwqiyQ4gs2d8A+xgXn+A=": {
-        "avatar_url": "https://www.gravatar.com/avatar/xdk91qxvo72eoev5wwl9v55koe7xh5rx?d=identicon",
-        "country": "KT",
-        "ethereum_address": "0xf142040211059A0D5eD8cA0692eC7d5D33226aF4",
-        "id": "b3f3fa5da545a6efccad74fcaa33b9254273e3eccd7d8e636f7be7e7f4697f99",
-        "info_url": "https://en.wikipedia.org/wiki/Don%27t_Get_Mad,_Get_Even_(album)",
-        "name": "mysterious-horse",
-        "tm_pub_key": "h9KxzF1FS/iJ8ufrHE1DhtXtwqiyQ4gs2d8A+xgXn+A=",
-        "vega_pub_key": "7a63b93785597709e72d6f5841f6fe13a1adb2a1db219c5f0f62996cbe0e3dfc",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212130937",
+  "chain_id": "vega-devnet1-202212131018",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-13T09:37:30.64140315Z",
+  "genesis_time": "2022-12-13T10:18:43.706614613Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "30D928DDB6DDB4B2CF42BDC3FE99B5309AB44BC1",
-      "name": "mysterious-horse",
+      "address": "2FEE64126CA1ADEBD259C42FAB2F7DD5F529252B",
+      "name": "icy-plant",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "h9KxzF1FS/iJ8ufrHE1DhtXtwqiyQ4gs2d8A+xgXn+A="
+        "value": "FY421+/Fc9jJIdER0iEp3QNmbUJgUgdYvOcRIwXdbgM="
       }
     }
   ]
