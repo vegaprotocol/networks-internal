@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "d2PQ8ZKlhzbxD+q6jscD8saKbAKX04oryoK3y1QWveI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/7dp8ug0oe9uwqqh3yl7nxglrw5fj89sv?d=identicon",
-        "country": "QR",
-        "ethereum_address": "0x48b631c0b1338A8248b5E5041000a35d52e9d137",
-        "id": "abafec49d4616333996ba7b926957fe1a6e7bbe4b40f1a5ff55dca942b969273",
-        "info_url": "https://en.wikipedia.org/wiki/Felipe_Padilla_de_Le%C3%B3n",
-        "name": "whispering-teacher",
-        "tm_pub_key": "d2PQ8ZKlhzbxD+q6jscD8saKbAKX04oryoK3y1QWveI=",
-        "vega_pub_key": "be61f9192f96f2e7d4aea631786d3a25a0517df388dbfdea9cbf23c5a0bd0582",
+      "hAoz43oicELYXr/AopWd11B2DhDU2EtJMpQpE8Veu5M=": {
+        "avatar_url": "https://www.gravatar.com/avatar/f5mnw96h13weipx09ak3bc8tpddeika6?d=identicon",
+        "country": "YV",
+        "ethereum_address": "0xB286A54373033778c77f17627ED37C64433D216C",
+        "id": "53f8950f4981c939c630710936fdd0ef242eb370612c258f93195b7d6515b7d0",
+        "info_url": "https://en.wikipedia.org/wiki/Ing%C3%B3lfur_J%C3%B3nsson",
+        "name": "gifted-milk",
+        "tm_pub_key": "hAoz43oicELYXr/AopWd11B2DhDU2EtJMpQpE8Veu5M=",
+        "vega_pub_key": "962d34ea95c09ac94da7ba470ccc42a90d9f795c96014e272e285878d5463725",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212131534",
+  "chain_id": "vega-devnet1-202212132302",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-13T15:34:09.761579727Z",
+  "genesis_time": "2022-12-13T23:02:01.474829209Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "A79AA21DC9DEBFE617066C3F55CBD7257CD47C5B",
-      "name": "whispering-teacher",
+      "address": "3834B986C8A9B18B68F287FA0729BD7E59801C84",
+      "name": "gifted-milk",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "d2PQ8ZKlhzbxD+q6jscD8saKbAKX04oryoK3y1QWveI="
+        "value": "hAoz43oicELYXr/AopWd11B2DhDU2EtJMpQpE8Veu5M="
       }
     }
   ]
