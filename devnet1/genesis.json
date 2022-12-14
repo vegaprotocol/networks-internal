@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "fH8tjSRpIl//HEY4GnHZ9yQDFouCZYUJL0llJLuhxPY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/rexyn9kru77etzi9uwd0ecie6svghapf?d=identicon",
-        "country": "ZE",
-        "ethereum_address": "0x5BD71ff5C0a59834f580c09112820a50f68fFf38",
-        "id": "25c4fd7dbb2d18884d3d952c187fa120a4e187e92ec73917307c334d0550f71a",
-        "info_url": "https://en.wikipedia.org/wiki/Konoe_Uchisaki",
-        "name": "narrow-hill",
-        "tm_pub_key": "fH8tjSRpIl//HEY4GnHZ9yQDFouCZYUJL0llJLuhxPY=",
-        "vega_pub_key": "4ea25a96f0faa6878ba2219f89220037a5aad516518629c28aad2b00630e45d5",
+      "mS2lcdd/EtCHtX0mv+RmSLWnUuvE57MVihe3ldrzM6c=": {
+        "avatar_url": "https://www.gravatar.com/avatar/rkxpbfhw146yrlvta4cy8xo7fd4u827f?d=identicon",
+        "country": "EH",
+        "ethereum_address": "0xdFC40685aCFABcdeb458EE77782c39E4a0678f53",
+        "id": "051d145e206c5b4e1e6c179eb22dc95b3dfa297330d56c4854d5732cd9444d57",
+        "info_url": "https://en.wikipedia.org/wiki/St_Teilo%27s_Church,_Llandeloy",
+        "name": "hallowed-window",
+        "tm_pub_key": "mS2lcdd/EtCHtX0mv+RmSLWnUuvE57MVihe3ldrzM6c=",
+        "vega_pub_key": "3f35004c77b8fe00ded6eca09b2554e8dc5862e25ac3a4b1e5703f2222e1901b",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212141013",
+  "chain_id": "vega-devnet1-202212141201",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-14T10:13:23.314208279Z",
+  "genesis_time": "2022-12-14T12:01:04.560371763Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "10194F299FDADD8B74320DC02BDDC80E7BEDDC00",
-      "name": "narrow-hill",
+      "address": "B6DF24A368E97BF9E799B9715239160B3F7959C3",
+      "name": "hallowed-window",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "fH8tjSRpIl//HEY4GnHZ9yQDFouCZYUJL0llJLuhxPY="
+        "value": "mS2lcdd/EtCHtX0mv+RmSLWnUuvE57MVihe3ldrzM6c="
       }
     }
   ]
