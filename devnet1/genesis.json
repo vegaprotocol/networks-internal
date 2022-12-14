@@ -268,6 +268,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "0AhtQC6meJcB3P9HKq4C9e/6d0NlmbMFGwNrKnjRJew=": {
+        "avatar_url": "https://www.gravatar.com/avatar/s7ikkkiqnljla9l17pzc1wesk6c9mnly?d=identicon",
+        "country": "QI",
+        "ethereum_address": "0x36F8c361BA05E3673B76Cb402A02D11815F412f4",
+        "id": "330abc503236ed1b9cf9b7b21e6e3a6c3ef9544ad6fada66b2cf085e1acfcd07",
+        "info_url": "https://en.wikipedia.org/wiki/Electoral_results_for_the_district_of_Roe",
+        "name": "promising-man",
+        "tm_pub_key": "0AhtQC6meJcB3P9HKq4C9e/6d0NlmbMFGwNrKnjRJew=",
+        "vega_pub_key": "883a06b76cc0d189c97fe113787436f70d57c1f38ee08c5463daa9352ae0517d",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -301,17 +312,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "hAoz43oicELYXr/AopWd11B2DhDU2EtJMpQpE8Veu5M=": {
-        "avatar_url": "https://www.gravatar.com/avatar/f5mnw96h13weipx09ak3bc8tpddeika6?d=identicon",
-        "country": "YV",
-        "ethereum_address": "0xB286A54373033778c77f17627ED37C64433D216C",
-        "id": "53f8950f4981c939c630710936fdd0ef242eb370612c258f93195b7d6515b7d0",
-        "info_url": "https://en.wikipedia.org/wiki/Ing%C3%B3lfur_J%C3%B3nsson",
-        "name": "gifted-milk",
-        "tm_pub_key": "hAoz43oicELYXr/AopWd11B2DhDU2EtJMpQpE8Veu5M=",
-        "vega_pub_key": "962d34ea95c09ac94da7ba470ccc42a90d9f795c96014e272e285878d5463725",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212132302",
+  "chain_id": "vega-devnet1-202212140942",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-13T23:02:01.474829209Z",
+  "genesis_time": "2022-12-14T09:42:38.140668252Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "3834B986C8A9B18B68F287FA0729BD7E59801C84",
-      "name": "gifted-milk",
+      "address": "2C064D7D0EC3BC5C749EA613C2698DEB973692B5",
+      "name": "promising-man",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "hAoz43oicELYXr/AopWd11B2DhDU2EtJMpQpE8Veu5M="
+        "value": "0AhtQC6meJcB3P9HKq4C9e/6d0NlmbMFGwNrKnjRJew="
       }
     }
   ]
