@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "mS2lcdd/EtCHtX0mv+RmSLWnUuvE57MVihe3ldrzM6c=": {
-        "avatar_url": "https://www.gravatar.com/avatar/rkxpbfhw146yrlvta4cy8xo7fd4u827f?d=identicon",
-        "country": "EH",
-        "ethereum_address": "0xdFC40685aCFABcdeb458EE77782c39E4a0678f53",
-        "id": "051d145e206c5b4e1e6c179eb22dc95b3dfa297330d56c4854d5732cd9444d57",
-        "info_url": "https://en.wikipedia.org/wiki/St_Teilo%27s_Church,_Llandeloy",
-        "name": "hallowed-window",
-        "tm_pub_key": "mS2lcdd/EtCHtX0mv+RmSLWnUuvE57MVihe3ldrzM6c=",
-        "vega_pub_key": "3f35004c77b8fe00ded6eca09b2554e8dc5862e25ac3a4b1e5703f2222e1901b",
+      "pAIqUQz7lfCxkNvqC55QkVCj4Xa7WkTjQCwmWaBTwck=": {
+        "avatar_url": "https://www.gravatar.com/avatar/zo6sl0m5kctog5bwbjywkw2xp7p4xrtu?d=identicon",
+        "country": "CM",
+        "ethereum_address": "0x4caDbB5478F82dB65Cf74AEBDf995b0736850077",
+        "id": "bf7c94c1594464e8773f0349a605aa4b442f42ce508aa8735905c39e61e654fb",
+        "info_url": "https://en.wikipedia.org/wiki/Texas_and_Southwestern_Cattle_Raisers_Association",
+        "name": "loose-cookie",
+        "tm_pub_key": "pAIqUQz7lfCxkNvqC55QkVCj4Xa7WkTjQCwmWaBTwck=",
+        "vega_pub_key": "d19940162392ff59c46e7bc4ac309e2536c9f1add89760822c43dd8a245ac572",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212141201",
+  "chain_id": "vega-devnet1-202212141310",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-14T12:01:04.560371763Z",
+  "genesis_time": "2022-12-14T13:10:59.068051268Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "B6DF24A368E97BF9E799B9715239160B3F7959C3",
-      "name": "hallowed-window",
+      "address": "0BD600257BAFA7E9966EFCB45FA04B8CDB0384DB",
+      "name": "loose-cookie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "mS2lcdd/EtCHtX0mv+RmSLWnUuvE57MVihe3ldrzM6c="
+        "value": "pAIqUQz7lfCxkNvqC55QkVCj4Xa7WkTjQCwmWaBTwck="
       }
     }
   ]
