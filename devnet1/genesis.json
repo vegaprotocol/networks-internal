@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "ef9KAUQaug13nbsQv1y0IIhCvfGCMgMEyCBRiBmmbhg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/jvlshn4e4qhsv58fm171h0gpm3cw33z6?d=identicon",
-        "country": "XJ",
-        "ethereum_address": "0x78b688eB7e18f56A7f00564F6f05B1934BDA54e1",
-        "id": "baa92dbec220fc38fa3dc923434706085958caf6c463cf9abef391d5ec396c42",
-        "info_url": "https://en.wikipedia.org/wiki/Star%C3%A9_M%C4%9Bsto_(Karvin%C3%A1)",
-        "name": "harsh-country",
-        "tm_pub_key": "ef9KAUQaug13nbsQv1y0IIhCvfGCMgMEyCBRiBmmbhg=",
-        "vega_pub_key": "ea3f8a6f54077fc6a8fb21ceab07c12dbb72d7c7c39fb7ca3e52a6be2f4808ca",
+      "StiFapRLcwqLkScN2d7JCbHWGH8Vu6zJ9zcjo1v1WhM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/5a4k0hkemkhlhvb203h1o1km2vnprvmt?d=identicon",
+        "country": "KY",
+        "ethereum_address": "0x54108D56B218007EB85dFcb08E4f6199c49385AF",
+        "id": "18dd960acaf6ccbffe518adfa56e489d427236704aaf0e22b604e99c25cbbf39",
+        "info_url": "https://en.wikipedia.org/wiki/2005%E2%80%9306_Arkansas_Razorbacks_men%27s_basketball_team",
+        "name": "noisy-pizza",
+        "tm_pub_key": "StiFapRLcwqLkScN2d7JCbHWGH8Vu6zJ9zcjo1v1WhM=",
+        "vega_pub_key": "1e2d693da84d3101d3e40773f24fa43c5ec2dcc6f70c44209aeb1310d7cf1ee9",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212141434",
+  "chain_id": "vega-devnet1-202212141630",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-14T14:34:23.286834254Z",
+  "genesis_time": "2022-12-14T16:30:42.030549664Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "686AC7806622D4F241F816C7331A7DE7B0C66827",
-      "name": "harsh-country",
+      "address": "6F9E165CD6FAC3A3876906CAE1AE22D07CA44DAF",
+      "name": "noisy-pizza",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ef9KAUQaug13nbsQv1y0IIhCvfGCMgMEyCBRiBmmbhg="
+        "value": "StiFapRLcwqLkScN2d7JCbHWGH8Vu6zJ9zcjo1v1WhM="
       }
     }
   ]
