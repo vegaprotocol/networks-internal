@@ -290,17 +290,6 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
-      "DgVd68MwrNX27OobT2r7ymBm8oXfS+3uSXie4eAOrDw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ry5r4pv5cnzi93hc8gowth726ad8vtig?d=identicon",
-        "country": "HI",
-        "ethereum_address": "0xAFAfA38D6fBEEBc4De0310c2DdB973E8e824c4a1",
-        "id": "84b4fc5113ae691100cefce1ea9650841536cd329d7e08887ab6e56e7f6103f0",
-        "info_url": "https://en.wikipedia.org/wiki/Tejparkash_Singh_Brar",
-        "name": "vast-week",
-        "tm_pub_key": "DgVd68MwrNX27OobT2r7ymBm8oXfS+3uSXie4eAOrDw=",
-        "vega_pub_key": "a0b8cf9a2d87b91308cae951471679837adba0ae83bb25e8586aa9eb2fc02c33",
-        "vega_pub_key_index": 1
-      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -310,6 +299,17 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
+        "vega_pub_key_index": 1
+      },
+      "m+gGOAjZYwHtgP9g3JWJAgc3DzvPY9E1d6tekqF72S0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/kpl9wmkca4205myf6ygf8oylt02h1rlq?d=identicon",
+        "country": "MO",
+        "ethereum_address": "0x5C465813C65f8a65FF2877BD8F029F890C1d26C7",
+        "id": "6b2c5a1d681b86d63472a55d47f21aa0e5cc29cbcd7cfb923770ccf4c60903fe",
+        "info_url": "https://en.wikipedia.org/wiki/Kontihene",
+        "name": "important-milk",
+        "tm_pub_key": "m+gGOAjZYwHtgP9g3JWJAgc3DzvPY9E1d6tekqF72S0=",
+        "vega_pub_key": "7aff35f9005d8147508d3ea4f324ec8e7be0f674009a5c104659ad415e28c0fd",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212141732",
+  "chain_id": "vega-devnet1-202212141818",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-14T17:32:35.364442805Z",
+  "genesis_time": "2022-12-14T18:18:39.804357859Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "7E7A696EF35006B8AA15D3DDA1EEB399C93D0B87",
-      "name": "vast-week",
+      "address": "F6D5F68681307B72F223E5706684B90A30399FB7",
+      "name": "important-milk",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "DgVd68MwrNX27OobT2r7ymBm8oXfS+3uSXie4eAOrDw="
+        "value": "m+gGOAjZYwHtgP9g3JWJAgc3DzvPY9E1d6tekqF72S0="
       }
     }
   ]
