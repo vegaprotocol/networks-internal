@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "pAIqUQz7lfCxkNvqC55QkVCj4Xa7WkTjQCwmWaBTwck=": {
-        "avatar_url": "https://www.gravatar.com/avatar/zo6sl0m5kctog5bwbjywkw2xp7p4xrtu?d=identicon",
-        "country": "CM",
-        "ethereum_address": "0x4caDbB5478F82dB65Cf74AEBDf995b0736850077",
-        "id": "bf7c94c1594464e8773f0349a605aa4b442f42ce508aa8735905c39e61e654fb",
-        "info_url": "https://en.wikipedia.org/wiki/Texas_and_Southwestern_Cattle_Raisers_Association",
-        "name": "loose-cookie",
-        "tm_pub_key": "pAIqUQz7lfCxkNvqC55QkVCj4Xa7WkTjQCwmWaBTwck=",
-        "vega_pub_key": "d19940162392ff59c46e7bc4ac309e2536c9f1add89760822c43dd8a245ac572",
+      "ef9KAUQaug13nbsQv1y0IIhCvfGCMgMEyCBRiBmmbhg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/jvlshn4e4qhsv58fm171h0gpm3cw33z6?d=identicon",
+        "country": "XJ",
+        "ethereum_address": "0x78b688eB7e18f56A7f00564F6f05B1934BDA54e1",
+        "id": "baa92dbec220fc38fa3dc923434706085958caf6c463cf9abef391d5ec396c42",
+        "info_url": "https://en.wikipedia.org/wiki/Star%C3%A9_M%C4%9Bsto_(Karvin%C3%A1)",
+        "name": "harsh-country",
+        "tm_pub_key": "ef9KAUQaug13nbsQv1y0IIhCvfGCMgMEyCBRiBmmbhg=",
+        "vega_pub_key": "ea3f8a6f54077fc6a8fb21ceab07c12dbb72d7c7c39fb7ca3e52a6be2f4808ca",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212141310",
+  "chain_id": "vega-devnet1-202212141434",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-14T13:10:59.068051268Z",
+  "genesis_time": "2022-12-14T14:34:23.286834254Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "0BD600257BAFA7E9966EFCB45FA04B8CDB0384DB",
-      "name": "loose-cookie",
+      "address": "686AC7806622D4F241F816C7331A7DE7B0C66827",
+      "name": "harsh-country",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "pAIqUQz7lfCxkNvqC55QkVCj4Xa7WkTjQCwmWaBTwck="
+        "value": "ef9KAUQaug13nbsQv1y0IIhCvfGCMgMEyCBRiBmmbhg="
       }
     }
   ]
