@@ -268,6 +268,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "4vriJGdljdcMF3ayh5a9JNCOW7yAYTSVUuMVWZYLNuU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/dmz425p6b7j2h93p5ifbz67ib2yd0o55?d=identicon",
+        "country": "CA",
+        "ethereum_address": "0x6Ec715D75e3D8A989246013bD96943D895B62118",
+        "id": "5d5d25588baffc23ff284f9e3e6031950d0e72a3a7fd8e63cdcced5ac8750329",
+        "info_url": "https://en.wikipedia.org/wiki/Network-enabled_capability",
+        "name": "lemon-bird",
+        "tm_pub_key": "4vriJGdljdcMF3ayh5a9JNCOW7yAYTSVUuMVWZYLNuU=",
+        "vega_pub_key": "40697dc6474a38d6339e418a7425eadd883ed6b35f8e7ad914ad262bb8c4001b",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -301,17 +312,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "iQPPEMnISH3WTRR0KPVEk5iU8KsEHnakVa9hRhGdDDo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/38fiev3imjihfjeoih5k4sv3qakyq5tw?d=identicon",
-        "country": "FX",
-        "ethereum_address": "0x8e35E073De9ee67c349fFFbD8b93c55ed37d503f",
-        "id": "9f8c1e3a28848743984c8409244d1fe31763db1337816fd23439adc59f28cc99",
-        "info_url": "https://en.wikipedia.org/wiki/The_Daily_Stoic",
-        "name": "clever-party",
-        "tm_pub_key": "iQPPEMnISH3WTRR0KPVEk5iU8KsEHnakVa9hRhGdDDo=",
-        "vega_pub_key": "2eecd47aa84299ba1a8ae5c8bfa5cc8bd8a2b96408c934d2957860f211179d73",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212151142",
+  "chain_id": "vega-devnet1-202212151320",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-15T11:42:47.502777684Z",
+  "genesis_time": "2022-12-15T13:20:31.634833607Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "AEC8483E3385169F080725B91E138A84381AA3BE",
-      "name": "clever-party",
+      "address": "DA13061D3E713DDCB0FDA9827CD30A486B365B84",
+      "name": "lemon-bird",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "iQPPEMnISH3WTRR0KPVEk5iU8KsEHnakVa9hRhGdDDo="
+        "value": "4vriJGdljdcMF3ayh5a9JNCOW7yAYTSVUuMVWZYLNuU="
       }
     }
   ]
