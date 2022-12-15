@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "s9/jr4HjnHQomhncrHt6ZWxeMX9Don77i0HDR1QsyTo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/w3dgvz0hc5dh225w8d7lyn9cso21k9el?d=identicon",
-        "country": "NH",
-        "ethereum_address": "0xC73807cCb271c76af331cd06cBc34F150771117A",
-        "id": "28703e3aefc2fd93bb50bdb66dcdac11d1625079ccecb22526d689ead6cad90c",
-        "info_url": "https://en.wikipedia.org/wiki/Protofuse",
-        "name": "frightened-pencil",
-        "tm_pub_key": "s9/jr4HjnHQomhncrHt6ZWxeMX9Don77i0HDR1QsyTo=",
-        "vega_pub_key": "db2de43714aded2c3282e35c2707bb57e5a71445ca63b4db4dd81770ab4d41af",
+      "iQPPEMnISH3WTRR0KPVEk5iU8KsEHnakVa9hRhGdDDo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/38fiev3imjihfjeoih5k4sv3qakyq5tw?d=identicon",
+        "country": "FX",
+        "ethereum_address": "0x8e35E073De9ee67c349fFFbD8b93c55ed37d503f",
+        "id": "9f8c1e3a28848743984c8409244d1fe31763db1337816fd23439adc59f28cc99",
+        "info_url": "https://en.wikipedia.org/wiki/The_Daily_Stoic",
+        "name": "clever-party",
+        "tm_pub_key": "iQPPEMnISH3WTRR0KPVEk5iU8KsEHnakVa9hRhGdDDo=",
+        "vega_pub_key": "2eecd47aa84299ba1a8ae5c8bfa5cc8bd8a2b96408c934d2957860f211179d73",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212151102",
+  "chain_id": "vega-devnet1-202212151142",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-15T11:02:34.552932966Z",
+  "genesis_time": "2022-12-15T11:42:47.502777684Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "923AE8C86D7A17CCD58422AC6A64FA01A7C01E0D",
-      "name": "frightened-pencil",
+      "address": "AEC8483E3385169F080725B91E138A84381AA3BE",
+      "name": "clever-party",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "s9/jr4HjnHQomhncrHt6ZWxeMX9Don77i0HDR1QsyTo="
+        "value": "iQPPEMnISH3WTRR0KPVEk5iU8KsEHnakVa9hRhGdDDo="
       }
     }
   ]
