@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "m+gGOAjZYwHtgP9g3JWJAgc3DzvPY9E1d6tekqF72S0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/kpl9wmkca4205myf6ygf8oylt02h1rlq?d=identicon",
-        "country": "MO",
-        "ethereum_address": "0x5C465813C65f8a65FF2877BD8F029F890C1d26C7",
-        "id": "6b2c5a1d681b86d63472a55d47f21aa0e5cc29cbcd7cfb923770ccf4c60903fe",
-        "info_url": "https://en.wikipedia.org/wiki/Kontihene",
-        "name": "important-milk",
-        "tm_pub_key": "m+gGOAjZYwHtgP9g3JWJAgc3DzvPY9E1d6tekqF72S0=",
-        "vega_pub_key": "7aff35f9005d8147508d3ea4f324ec8e7be0f674009a5c104659ad415e28c0fd",
+      "Mwd4sYC5MXTlqaqm0eD24/6qz00hk9l9UV0fDAOmWHM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/jxypdkt3955ieixev0t47zhsy2ah2icd?d=identicon",
+        "country": "GM",
+        "ethereum_address": "0xC9A9569aA8abC55e6C2736d59460D4d37D883349",
+        "id": "383cd2104de1cf200e7138add22f5c01321d48a4de8253a44226f0acfdb9ffb3",
+        "info_url": "https://en.wikipedia.org/wiki/Goran_Obradovi%C4%87_(coach)",
+        "name": "perfect-shoe",
+        "tm_pub_key": "Mwd4sYC5MXTlqaqm0eD24/6qz00hk9l9UV0fDAOmWHM=",
+        "vega_pub_key": "2745f3051e5e13b4536a2a4164980446787002fa5ce0860ba665321f82e54e0e",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212141818",
+  "chain_id": "vega-devnet1-202212150940",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-14T18:18:39.804357859Z",
+  "genesis_time": "2022-12-15T09:40:57.535059238Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "F6D5F68681307B72F223E5706684B90A30399FB7",
-      "name": "important-milk",
+      "address": "9547EFAE728E8306921470CE58F576015087DD26",
+      "name": "perfect-shoe",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "m+gGOAjZYwHtgP9g3JWJAgc3DzvPY9E1d6tekqF72S0="
+        "value": "Mwd4sYC5MXTlqaqm0eD24/6qz00hk9l9UV0fDAOmWHM="
       }
     }
   ]
