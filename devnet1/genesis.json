@@ -268,15 +268,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "4vriJGdljdcMF3ayh5a9JNCOW7yAYTSVUuMVWZYLNuU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/dmz425p6b7j2h93p5ifbz67ib2yd0o55?d=identicon",
-        "country": "CA",
-        "ethereum_address": "0x6Ec715D75e3D8A989246013bD96943D895B62118",
-        "id": "5d5d25588baffc23ff284f9e3e6031950d0e72a3a7fd8e63cdcced5ac8750329",
-        "info_url": "https://en.wikipedia.org/wiki/Network-enabled_capability",
-        "name": "lemon-bird",
-        "tm_pub_key": "4vriJGdljdcMF3ayh5a9JNCOW7yAYTSVUuMVWZYLNuU=",
-        "vega_pub_key": "40697dc6474a38d6339e418a7425eadd883ed6b35f8e7ad914ad262bb8c4001b",
+      "94qZcIjOGhxCq4Y3vmT7VHVujf/e7WGX9mGTBi8NN3E=": {
+        "avatar_url": "https://www.gravatar.com/avatar/6v4y5aofo3c907ail0o016ab7mie62fq?d=identicon",
+        "country": "ZE",
+        "ethereum_address": "0xA836B5429Ed0CD4489c4191C330bCc2686913cd6",
+        "id": "42e346fe92e5f6b9edbcd8d31e34b430e349de8e2b6243f56386c2ade4e1f98b",
+        "info_url": "https://en.wikipedia.org/wiki/List_of_fellows_of_the_Royal_Society_elected_in_1989",
+        "name": "careful-window",
+        "tm_pub_key": "94qZcIjOGhxCq4Y3vmT7VHVujf/e7WGX9mGTBi8NN3E=",
+        "vega_pub_key": "4447ff8a2004e377e917ab09c6a79d1eba81f2ae845ca7f3238abf96e0f4e6b2",
         "vega_pub_key_index": 1
       },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212151350",
+  "chain_id": "vega-devnet1-202212151448",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-15T13:50:42.415366991Z",
+  "genesis_time": "2022-12-15T14:48:34.465574123Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "DA13061D3E713DDCB0FDA9827CD30A486B365B84",
-      "name": "lemon-bird",
+      "address": "FC639F2A5A2B512A6F18F0346785F2412E3C016C",
+      "name": "careful-window",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "4vriJGdljdcMF3ayh5a9JNCOW7yAYTSVUuMVWZYLNuU="
+        "value": "94qZcIjOGhxCq4Y3vmT7VHVujf/e7WGX9mGTBi8NN3E="
       }
     }
   ]
