@@ -268,17 +268,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "94qZcIjOGhxCq4Y3vmT7VHVujf/e7WGX9mGTBi8NN3E=": {
-        "avatar_url": "https://www.gravatar.com/avatar/6v4y5aofo3c907ail0o016ab7mie62fq?d=identicon",
-        "country": "ZE",
-        "ethereum_address": "0xA836B5429Ed0CD4489c4191C330bCc2686913cd6",
-        "id": "42e346fe92e5f6b9edbcd8d31e34b430e349de8e2b6243f56386c2ade4e1f98b",
-        "info_url": "https://en.wikipedia.org/wiki/List_of_fellows_of_the_Royal_Society_elected_in_1989",
-        "name": "careful-window",
-        "tm_pub_key": "94qZcIjOGhxCq4Y3vmT7VHVujf/e7WGX9mGTBi8NN3E=",
-        "vega_pub_key": "4447ff8a2004e377e917ab09c6a79d1eba81f2ae845ca7f3238abf96e0f4e6b2",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -312,6 +301,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "JymnWRL4qjJRsx9EVtpi+C+MEfCbsMuixn+BAE05qUU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/yax7e5kjp5jyk8t1wr6u7z9jeg6jhlai?d=identicon",
+        "country": "IC",
+        "ethereum_address": "0x5CE0513f0f9C55c558780831eC263eBDc23a99FA",
+        "id": "11ab944f4e1f6625ab18c31aac99e01c0bed8dd17a8ca8bf40928b51f6284490",
+        "info_url": "https://en.wikipedia.org/wiki/Gillam_station",
+        "name": "frustrating-wall",
+        "tm_pub_key": "JymnWRL4qjJRsx9EVtpi+C+MEfCbsMuixn+BAE05qUU=",
+        "vega_pub_key": "c9ee94cbaaa85987b3fbafcecc0e0c5f5788e99a9ed803f8b06368872a54e101",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212151448",
+  "chain_id": "vega-devnet1-202212160859",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-15T14:48:34.465574123Z",
+  "genesis_time": "2022-12-16T08:59:42.163360696Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "FC639F2A5A2B512A6F18F0346785F2412E3C016C",
-      "name": "careful-window",
+      "address": "6D57602B063411B0E5E11842BA3010F7DB838856",
+      "name": "frustrating-wall",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "94qZcIjOGhxCq4Y3vmT7VHVujf/e7WGX9mGTBi8NN3E="
+        "value": "JymnWRL4qjJRsx9EVtpi+C+MEfCbsMuixn+BAE05qUU="
       }
     }
   ]
