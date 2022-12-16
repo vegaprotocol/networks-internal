@@ -268,17 +268,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "/gCyBmfGgJYP1ik7atZS4KBIIjSn1RsQFfVVGAfhbU4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/9q4j7oufff4hfcghee7racp2qoe52l7w?d=identicon",
-        "country": "TJ",
-        "ethereum_address": "0x06Ec431eDb4fBC7d4bab35c2434a4D7a487e92e8",
-        "id": "e19404f74ec0f07722e519199b83d1a1260f126562253f07b531ac97a74b82a7",
-        "info_url": "https://en.wikipedia.org/wiki/2001_Oklahoma_state_budget",
-        "name": "shapely-pickle",
-        "tm_pub_key": "/gCyBmfGgJYP1ik7atZS4KBIIjSn1RsQFfVVGAfhbU4=",
-        "vega_pub_key": "8843500fdd804bba3dc8edf84678c9744470c0824edf4d28ee1c89bbacbf7a88",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -312,6 +301,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "rvxF8yv1xerdkA0fYed4aguRmkfW+eHJnlemOHIKKaQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/gm27gwm5lhenzhq8jxw5ys9m8jqfi7x3?d=identicon",
+        "country": "ZU",
+        "ethereum_address": "0xcA10b4b6969DD6ECE4163bB89B591644E272C5B2",
+        "id": "b6a35a8d71193cf1d1ceb075171adce2b3eda57380dffdd89e18d5c00c849f82",
+        "info_url": "https://en.wikipedia.org/wiki/Tadhg_de_B%C3%BArca",
+        "name": "frustrating-barber",
+        "tm_pub_key": "rvxF8yv1xerdkA0fYed4aguRmkfW+eHJnlemOHIKKaQ=",
+        "vega_pub_key": "ae84202bdc339a748a6ceb8afc071c0a804b99cd2689cdfeda46330a8e58d2b1",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212161208",
+  "chain_id": "vega-devnet1-202212161700",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-16T12:08:23.123238244Z",
+  "genesis_time": "2022-12-16T17:00:14.410825762Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "3C5D40F4C2C256AC79FA683148A56A8E7DA8F4D4",
-      "name": "shapely-pickle",
+      "address": "5622E28ADC4545203D80F4C4BCA6383C8818D049",
+      "name": "frustrating-barber",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "/gCyBmfGgJYP1ik7atZS4KBIIjSn1RsQFfVVGAfhbU4="
+        "value": "rvxF8yv1xerdkA0fYed4aguRmkfW+eHJnlemOHIKKaQ="
       }
     }
   ]
