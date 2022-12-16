@@ -268,6 +268,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "/gCyBmfGgJYP1ik7atZS4KBIIjSn1RsQFfVVGAfhbU4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/9q4j7oufff4hfcghee7racp2qoe52l7w?d=identicon",
+        "country": "TJ",
+        "ethereum_address": "0x06Ec431eDb4fBC7d4bab35c2434a4D7a487e92e8",
+        "id": "e19404f74ec0f07722e519199b83d1a1260f126562253f07b531ac97a74b82a7",
+        "info_url": "https://en.wikipedia.org/wiki/2001_Oklahoma_state_budget",
+        "name": "shapely-pickle",
+        "tm_pub_key": "/gCyBmfGgJYP1ik7atZS4KBIIjSn1RsQFfVVGAfhbU4=",
+        "vega_pub_key": "8843500fdd804bba3dc8edf84678c9744470c0824edf4d28ee1c89bbacbf7a88",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -301,17 +312,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "JymnWRL4qjJRsx9EVtpi+C+MEfCbsMuixn+BAE05qUU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/yax7e5kjp5jyk8t1wr6u7z9jeg6jhlai?d=identicon",
-        "country": "IC",
-        "ethereum_address": "0x5CE0513f0f9C55c558780831eC263eBDc23a99FA",
-        "id": "11ab944f4e1f6625ab18c31aac99e01c0bed8dd17a8ca8bf40928b51f6284490",
-        "info_url": "https://en.wikipedia.org/wiki/Gillam_station",
-        "name": "frustrating-wall",
-        "tm_pub_key": "JymnWRL4qjJRsx9EVtpi+C+MEfCbsMuixn+BAE05qUU=",
-        "vega_pub_key": "c9ee94cbaaa85987b3fbafcecc0e0c5f5788e99a9ed803f8b06368872a54e101",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212160859",
+  "chain_id": "vega-devnet1-202212161208",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-16T08:59:42.163360696Z",
+  "genesis_time": "2022-12-16T12:08:23.123238244Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "6D57602B063411B0E5E11842BA3010F7DB838856",
-      "name": "frustrating-wall",
+      "address": "3C5D40F4C2C256AC79FA683148A56A8E7DA8F4D4",
+      "name": "shapely-pickle",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "JymnWRL4qjJRsx9EVtpi+C+MEfCbsMuixn+BAE05qUU="
+        "value": "/gCyBmfGgJYP1ik7atZS4KBIIjSn1RsQFfVVGAfhbU4="
       }
     }
   ]
