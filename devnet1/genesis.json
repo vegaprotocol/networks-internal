@@ -268,17 +268,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "6pA8Who5wQbHZ0FuNvyOFWzIfSSgmxCK9wt8Cr1LhdQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/jvdyjqh6tomhd3ecd0mh8l4rc9bs4d5w?d=identicon",
-        "country": "BD",
-        "ethereum_address": "0x22f7c98a21b36c3B5118DF32A17647Cc1FC45a13",
-        "id": "eeb23bd3d4acb5d518354babb18564bc3e000c396fc601caad354ef98b8ebd99",
-        "info_url": "https://en.wikipedia.org/wiki/Motomachi,_Kobe",
-        "name": "excited-beach",
-        "tm_pub_key": "6pA8Who5wQbHZ0FuNvyOFWzIfSSgmxCK9wt8Cr1LhdQ=",
-        "vega_pub_key": "f2d485736ef28bb8346350b0cde0360479923c0acb89800c9df032df7044e04d",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -312,6 +301,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "hcvfbEJTM0SDRwrjIMvI1ItVM5PpR5a1B5vMfuwj1dQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/gk39gtok7eeyt8svit7ta4i7usfuhrcq?d=identicon",
+        "country": "GO",
+        "ethereum_address": "0x46bB199B88e81b7DEa4D9194AECa50Fa426ea0f0",
+        "id": "dc967ff232937ea51c45ed8e4f0e85774feae231ca72b6921b37faae7dcdb8dc",
+        "info_url": "https://en.wikipedia.org/wiki/Pterolophia_yunnanensis",
+        "name": "shy-chimney",
+        "tm_pub_key": "hcvfbEJTM0SDRwrjIMvI1ItVM5PpR5a1B5vMfuwj1dQ=",
+        "vega_pub_key": "9ce7fd4cb8675893417aba06db242edadce9b989305088e60edcaca6cfa194d2",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212191348",
+  "chain_id": "vega-devnet1-202212191442",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-19T13:48:05.290919896Z",
+  "genesis_time": "2022-12-19T14:42:13.650231411Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "2B9CF12BA6A329D251F8DBB5A151B32498BC64AE",
-      "name": "excited-beach",
+      "address": "85548543A8C8668BDED8BB8934BCEB0BC5E0B26D",
+      "name": "shy-chimney",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "6pA8Who5wQbHZ0FuNvyOFWzIfSSgmxCK9wt8Cr1LhdQ="
+        "value": "hcvfbEJTM0SDRwrjIMvI1ItVM5PpR5a1B5vMfuwj1dQ="
       }
     }
   ]
