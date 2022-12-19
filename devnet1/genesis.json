@@ -268,6 +268,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "4ZQDCXBXUc05seZc4a0mnEYLtlCb89S6BogrfOSdCC4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/h20v6pmr8o4tl6tpbxv00lqclj6bsf2y?d=identicon",
+        "country": "BK",
+        "ethereum_address": "0x28ABA9d704342d796B5b6dc68d7f2526dFE3e33e",
+        "id": "11ff0a6a44941502b7d5e74208ffa2fa063c41337acd757d9c06e6a78ee2d054",
+        "info_url": "https://en.wikipedia.org/wiki/Peoria_Heights_Community_Unit_School_District_325",
+        "name": "echoing-window",
+        "tm_pub_key": "4ZQDCXBXUc05seZc4a0mnEYLtlCb89S6BogrfOSdCC4=",
+        "vega_pub_key": "c5b669d6878c8a9fbe27d2f4cb1c161d8a6adcdd0ba8ce7e10fb5469913f24fc",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -288,17 +299,6 @@
         "name": "friendly-barber",
         "tm_pub_key": "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=",
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
-        "vega_pub_key_index": 1
-      },
-      "HLpSt6pNnio8uRVYJ/YyzeraAZf+HAUyrDTOwcpiFGA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/kfxcpnar6htmk6h654xz7226syb8ay9c?d=identicon",
-        "country": "FW",
-        "ethereum_address": "0xE6A7cE22C48551586bA50bCf332795DE713457F4",
-        "id": "1b45c5262fbe9efc9c8723df5d87c37a03bdeac6442d55ffd2276767a8924825",
-        "info_url": "https://en.wikipedia.org/wiki/Dominic_Smith_(footballer,_born_1995)",
-        "name": "shapely-milk",
-        "tm_pub_key": "HLpSt6pNnio8uRVYJ/YyzeraAZf+HAUyrDTOwcpiFGA=",
-        "vega_pub_key": "34ff80f67433feca40f0af55deb8ea8f6b262df84a445f82a2ee8ee81b82b91e",
         "vega_pub_key_index": 1
       },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212191528",
+  "chain_id": "vega-devnet1-202212191728",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-19T15:28:38.716094821Z",
+  "genesis_time": "2022-12-19T17:28:28.520926648Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "48A566F4D016EF24FF0F49EBCE064A0D858C160A",
-      "name": "shapely-milk",
+      "address": "471AA1A33DFADBA1F003A19E2CFA2575AD54236A",
+      "name": "echoing-window",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "HLpSt6pNnio8uRVYJ/YyzeraAZf+HAUyrDTOwcpiFGA="
+        "value": "4ZQDCXBXUc05seZc4a0mnEYLtlCb89S6BogrfOSdCC4="
       }
     }
   ]
