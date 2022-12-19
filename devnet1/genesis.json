@@ -268,6 +268,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "6pA8Who5wQbHZ0FuNvyOFWzIfSSgmxCK9wt8Cr1LhdQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/jvdyjqh6tomhd3ecd0mh8l4rc9bs4d5w?d=identicon",
+        "country": "BD",
+        "ethereum_address": "0x22f7c98a21b36c3B5118DF32A17647Cc1FC45a13",
+        "id": "eeb23bd3d4acb5d518354babb18564bc3e000c396fc601caad354ef98b8ebd99",
+        "info_url": "https://en.wikipedia.org/wiki/Motomachi,_Kobe",
+        "name": "excited-beach",
+        "tm_pub_key": "6pA8Who5wQbHZ0FuNvyOFWzIfSSgmxCK9wt8Cr1LhdQ=",
+        "vega_pub_key": "f2d485736ef28bb8346350b0cde0360479923c0acb89800c9df032df7044e04d",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -301,17 +312,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "JeAyGZl6HqujSTzUScOC9Vg9IifLuO7iLGQOEy3sqqk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/94cwqsb6ovvikm38xsu77pd7xkyhgqlz?d=identicon",
-        "country": "CI",
-        "ethereum_address": "0xf4ec7168828A683939bf2cDFe3A4A8aEF72c775d",
-        "id": "e1211909a08a77ef16fb265f2862f235d22f683d37b610e8165741c121c06d54",
-        "info_url": "https://en.wikipedia.org/wiki/Aeros_UL-2000_Flamingo",
-        "name": "promising-candle",
-        "tm_pub_key": "JeAyGZl6HqujSTzUScOC9Vg9IifLuO7iLGQOEy3sqqk=",
-        "vega_pub_key": "f6cb8d79e3d604a13345366d8fd9fe5b6e3eb48d11b77c3a0466a4867290b63e",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212191106",
+  "chain_id": "vega-devnet1-202212191348",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-19T11:06:57.808169132Z",
+  "genesis_time": "2022-12-19T13:48:05.290919896Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "E367C49A34E1393E8BBDF533FF9EAD7BB72963E6",
-      "name": "promising-candle",
+      "address": "2B9CF12BA6A329D251F8DBB5A151B32498BC64AE",
+      "name": "excited-beach",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "JeAyGZl6HqujSTzUScOC9Vg9IifLuO7iLGQOEy3sqqk="
+        "value": "6pA8Who5wQbHZ0FuNvyOFWzIfSSgmxCK9wt8Cr1LhdQ="
       }
     }
   ]
