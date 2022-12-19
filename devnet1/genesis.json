@@ -290,6 +290,17 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
+      "HLpSt6pNnio8uRVYJ/YyzeraAZf+HAUyrDTOwcpiFGA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/kfxcpnar6htmk6h654xz7226syb8ay9c?d=identicon",
+        "country": "FW",
+        "ethereum_address": "0xE6A7cE22C48551586bA50bCf332795DE713457F4",
+        "id": "1b45c5262fbe9efc9c8723df5d87c37a03bdeac6442d55ffd2276767a8924825",
+        "info_url": "https://en.wikipedia.org/wiki/Dominic_Smith_(footballer,_born_1995)",
+        "name": "shapely-milk",
+        "tm_pub_key": "HLpSt6pNnio8uRVYJ/YyzeraAZf+HAUyrDTOwcpiFGA=",
+        "vega_pub_key": "34ff80f67433feca40f0af55deb8ea8f6b262df84a445f82a2ee8ee81b82b91e",
+        "vega_pub_key_index": 1
+      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -299,17 +310,6 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
-        "vega_pub_key_index": 1
-      },
-      "hcvfbEJTM0SDRwrjIMvI1ItVM5PpR5a1B5vMfuwj1dQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/gk39gtok7eeyt8svit7ta4i7usfuhrcq?d=identicon",
-        "country": "GO",
-        "ethereum_address": "0x46bB199B88e81b7DEa4D9194AECa50Fa426ea0f0",
-        "id": "dc967ff232937ea51c45ed8e4f0e85774feae231ca72b6921b37faae7dcdb8dc",
-        "info_url": "https://en.wikipedia.org/wiki/Pterolophia_yunnanensis",
-        "name": "shy-chimney",
-        "tm_pub_key": "hcvfbEJTM0SDRwrjIMvI1ItVM5PpR5a1B5vMfuwj1dQ=",
-        "vega_pub_key": "9ce7fd4cb8675893417aba06db242edadce9b989305088e60edcaca6cfa194d2",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212191442",
+  "chain_id": "vega-devnet1-202212191528",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-19T14:42:13.650231411Z",
+  "genesis_time": "2022-12-19T15:28:38.716094821Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "85548543A8C8668BDED8BB8934BCEB0BC5E0B26D",
-      "name": "shy-chimney",
+      "address": "48A566F4D016EF24FF0F49EBCE064A0D858C160A",
+      "name": "shapely-milk",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "hcvfbEJTM0SDRwrjIMvI1ItVM5PpR5a1B5vMfuwj1dQ="
+        "value": "HLpSt6pNnio8uRVYJ/YyzeraAZf+HAUyrDTOwcpiFGA="
       }
     }
   ]
