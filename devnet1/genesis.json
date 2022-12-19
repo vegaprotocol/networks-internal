@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "rvxF8yv1xerdkA0fYed4aguRmkfW+eHJnlemOHIKKaQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/gm27gwm5lhenzhq8jxw5ys9m8jqfi7x3?d=identicon",
-        "country": "ZU",
-        "ethereum_address": "0xcA10b4b6969DD6ECE4163bB89B591644E272C5B2",
-        "id": "b6a35a8d71193cf1d1ceb075171adce2b3eda57380dffdd89e18d5c00c849f82",
-        "info_url": "https://en.wikipedia.org/wiki/Tadhg_de_B%C3%BArca",
-        "name": "frustrating-barber",
-        "tm_pub_key": "rvxF8yv1xerdkA0fYed4aguRmkfW+eHJnlemOHIKKaQ=",
-        "vega_pub_key": "ae84202bdc339a748a6ceb8afc071c0a804b99cd2689cdfeda46330a8e58d2b1",
+      "JeAyGZl6HqujSTzUScOC9Vg9IifLuO7iLGQOEy3sqqk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/94cwqsb6ovvikm38xsu77pd7xkyhgqlz?d=identicon",
+        "country": "CI",
+        "ethereum_address": "0xf4ec7168828A683939bf2cDFe3A4A8aEF72c775d",
+        "id": "e1211909a08a77ef16fb265f2862f235d22f683d37b610e8165741c121c06d54",
+        "info_url": "https://en.wikipedia.org/wiki/Aeros_UL-2000_Flamingo",
+        "name": "promising-candle",
+        "tm_pub_key": "JeAyGZl6HqujSTzUScOC9Vg9IifLuO7iLGQOEy3sqqk=",
+        "vega_pub_key": "f6cb8d79e3d604a13345366d8fd9fe5b6e3eb48d11b77c3a0466a4867290b63e",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212161700",
+  "chain_id": "vega-devnet1-202212191106",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-16T17:00:14.410825762Z",
+  "genesis_time": "2022-12-19T11:06:57.808169132Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "5622E28ADC4545203D80F4C4BCA6383C8818D049",
-      "name": "frustrating-barber",
+      "address": "E367C49A34E1393E8BBDF533FF9EAD7BB72963E6",
+      "name": "promising-candle",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "rvxF8yv1xerdkA0fYed4aguRmkfW+eHJnlemOHIKKaQ="
+        "value": "JeAyGZl6HqujSTzUScOC9Vg9IifLuO7iLGQOEy3sqqk="
       }
     }
   ]
