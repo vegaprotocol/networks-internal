@@ -268,6 +268,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "6dE6a9sO7gzm1wDpBBJcf6w2FSCD2+s6k34+l3LGNdU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/j7w610k25m97e5s6hwyq78ua9w2l74fl?d=identicon",
+        "country": "DT",
+        "ethereum_address": "0x29ae89f538778642122Cf956F1DC2FCD132cccDa",
+        "id": "0ab7279437ac6cd535d61262b16521d553c210139e45c30aad0c758f4bb66ce6",
+        "info_url": "https://en.wikipedia.org/wiki/H_Committee_of_Human_Vindication",
+        "name": "frustrating-sheep",
+        "tm_pub_key": "6dE6a9sO7gzm1wDpBBJcf6w2FSCD2+s6k34+l3LGNdU=",
+        "vega_pub_key": "402640b0d9afcbd556a98dc2bf0677e84cb564188d7a0c671928e19dd8c15a04",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -311,21 +322,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "w6uz7/LhbLOGUJvWzfl9Jj4/I3yJ7gpqKm2F/WuAKkY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/20ase054ozdg08uc80ybi607djjmlfq5?d=identicon",
-        "country": "LZ",
-        "ethereum_address": "0x3A9BDae62D66aE32EB5099742567A5c7e74501Ad",
-        "id": "84955a99c5e8d4769d1abfe9a4a01c3ea699999c400f33ea65d3f6383500fd31",
-        "info_url": "https://en.wikipedia.org/wiki/Heym_(gun_manufacturer)",
-        "name": "quaint-music",
-        "tm_pub_key": "w6uz7/LhbLOGUJvWzfl9Jj4/I3yJ7gpqKm2F/WuAKkY=",
-        "vega_pub_key": "f2e5a6675caa92a1cb5946764688e34d4db3b26e15e879f1df7c95557bb4eace",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202212201212",
+  "chain_id": "vega-devnet1-202212201450",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-20T12:12:35.799516717Z",
+  "genesis_time": "2022-12-20T14:50:52.308922082Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "CC52DCF59FACD918524AF6694903D432AF372C16",
-      "name": "quaint-music",
+      "address": "08999E1F384FC7666EECD57E14C343261FB5EB97",
+      "name": "frustrating-sheep",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "w6uz7/LhbLOGUJvWzfl9Jj4/I3yJ7gpqKm2F/WuAKkY="
+        "value": "6dE6a9sO7gzm1wDpBBJcf6w2FSCD2+s6k34+l3LGNdU="
       }
     }
   ]
