@@ -268,17 +268,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "4ZQDCXBXUc05seZc4a0mnEYLtlCb89S6BogrfOSdCC4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/h20v6pmr8o4tl6tpbxv00lqclj6bsf2y?d=identicon",
-        "country": "BK",
-        "ethereum_address": "0x28ABA9d704342d796B5b6dc68d7f2526dFE3e33e",
-        "id": "11ff0a6a44941502b7d5e74208ffa2fa063c41337acd757d9c06e6a78ee2d054",
-        "info_url": "https://en.wikipedia.org/wiki/Peoria_Heights_Community_Unit_School_District_325",
-        "name": "echoing-window",
-        "tm_pub_key": "4ZQDCXBXUc05seZc4a0mnEYLtlCb89S6BogrfOSdCC4=",
-        "vega_pub_key": "c5b669d6878c8a9fbe27d2f4cb1c161d8a6adcdd0ba8ce7e10fb5469913f24fc",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -322,10 +311,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "w6uz7/LhbLOGUJvWzfl9Jj4/I3yJ7gpqKm2F/WuAKkY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/20ase054ozdg08uc80ybi607djjmlfq5?d=identicon",
+        "country": "LZ",
+        "ethereum_address": "0x3A9BDae62D66aE32EB5099742567A5c7e74501Ad",
+        "id": "84955a99c5e8d4769d1abfe9a4a01c3ea699999c400f33ea65d3f6383500fd31",
+        "info_url": "https://en.wikipedia.org/wiki/Heym_(gun_manufacturer)",
+        "name": "quaint-music",
+        "tm_pub_key": "w6uz7/LhbLOGUJvWzfl9Jj4/I3yJ7gpqKm2F/WuAKkY=",
+        "vega_pub_key": "f2e5a6675caa92a1cb5946764688e34d4db3b26e15e879f1df7c95557bb4eace",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202212191728",
+  "chain_id": "vega-devnet1-202212201212",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-19T17:28:28.520926648Z",
+  "genesis_time": "2022-12-20T12:12:35.799516717Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "471AA1A33DFADBA1F003A19E2CFA2575AD54236A",
-      "name": "echoing-window",
+      "address": "CC52DCF59FACD918524AF6694903D432AF372C16",
+      "name": "quaint-music",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "4ZQDCXBXUc05seZc4a0mnEYLtlCb89S6BogrfOSdCC4="
+        "value": "w6uz7/LhbLOGUJvWzfl9Jj4/I3yJ7gpqKm2F/WuAKkY="
       }
     }
   ]
