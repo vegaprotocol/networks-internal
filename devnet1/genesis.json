@@ -268,6 +268,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "7AWiMcWbw1z4rm9FZQ/6FW6rXQIxUxhtaxrSpENvd2g=": {
+        "avatar_url": "https://www.gravatar.com/avatar/myqu917alof3x6sc2y7na2ew44lxhojs?d=identicon",
+        "country": "KN",
+        "ethereum_address": "0xEd98b3B9276Ee08b6cFd7f20102eDD91dbC08E58",
+        "id": "d21e73333536a19b019308f1c408ea771606b31af62dda612815d5c280db8283",
+        "info_url": "https://en.wikipedia.org/wiki/Bill_Ryder-Jones",
+        "name": "gifted-shoe",
+        "tm_pub_key": "7AWiMcWbw1z4rm9FZQ/6FW6rXQIxUxhtaxrSpENvd2g=",
+        "vega_pub_key": "19804c510fc31625682c52bfdc81a91825aaf8790ff492077662e7985acf3946",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -301,17 +312,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "kYN2G6LtX5AtQng3tugWQMaybqs/q3wnr6xIwzlSu5s=": {
-        "avatar_url": "https://www.gravatar.com/avatar/qoe64hmkijsaxknl8bqpkklp0bupyffr?d=identicon",
-        "country": "CN",
-        "ethereum_address": "0xEbDa549a07f4f46883B08DeC44Ef6Ddf03b61361",
-        "id": "952e443c1c34882369ff379c0c5f492b7ebb7f8702421a400df8cc5e5af95950",
-        "info_url": "https://en.wikipedia.org/wiki/WWF_Capital_Carnage",
-        "name": "bright-school",
-        "tm_pub_key": "kYN2G6LtX5AtQng3tugWQMaybqs/q3wnr6xIwzlSu5s=",
-        "vega_pub_key": "dfdecbf65e79ecd04288a25b64e3f3daed021519bfa9ed84ead78d01f788b796",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212211728",
+  "chain_id": "vega-devnet1-202212211816",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-21T17:28:47.502273251Z",
+  "genesis_time": "2022-12-21T18:16:58.201033976Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "A6CDFA630FEFF21CA4395A115104EA2F12C0C615",
-      "name": "bright-school",
+      "address": "AAB6285E753AD716D8B58F9697629D320661883E",
+      "name": "gifted-shoe",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "kYN2G6LtX5AtQng3tugWQMaybqs/q3wnr6xIwzlSu5s="
+        "value": "7AWiMcWbw1z4rm9FZQ/6FW6rXQIxUxhtaxrSpENvd2g="
       }
     }
   ]
