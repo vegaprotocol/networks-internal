@@ -279,17 +279,6 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
-      "DCZdht1DLC2upbDuR9MMoU7fILLBOlMiA4apgZwfE88=": {
-        "avatar_url": "https://www.gravatar.com/avatar/qtvbwct56ee0nbll92tuxc4cd2yl0qfc?d=identicon",
-        "country": "OT",
-        "ethereum_address": "0xF657797e5f4Ba6e35C2cb998F022a962de0a181C",
-        "id": "adc7bf73dd1de866e4a73ebf3d73e14d701db99308c228fcc52655888b09f263",
-        "info_url": "https://en.wikipedia.org/wiki/Mette_Dencker",
-        "name": "tender-baby",
-        "tm_pub_key": "DCZdht1DLC2upbDuR9MMoU7fILLBOlMiA4apgZwfE88=",
-        "vega_pub_key": "f70347cb8d3014763768c7cae724649dca119e5a6559ecc19934b027ce2dc701",
-        "vega_pub_key_index": 1
-      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -312,6 +301,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "kYN2G6LtX5AtQng3tugWQMaybqs/q3wnr6xIwzlSu5s=": {
+        "avatar_url": "https://www.gravatar.com/avatar/qoe64hmkijsaxknl8bqpkklp0bupyffr?d=identicon",
+        "country": "CN",
+        "ethereum_address": "0xEbDa549a07f4f46883B08DeC44Ef6Ddf03b61361",
+        "id": "952e443c1c34882369ff379c0c5f492b7ebb7f8702421a400df8cc5e5af95950",
+        "info_url": "https://en.wikipedia.org/wiki/WWF_Capital_Carnage",
+        "name": "bright-school",
+        "tm_pub_key": "kYN2G6LtX5AtQng3tugWQMaybqs/q3wnr6xIwzlSu5s=",
+        "vega_pub_key": "dfdecbf65e79ecd04288a25b64e3f3daed021519bfa9ed84ead78d01f788b796",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212211643",
+  "chain_id": "vega-devnet1-202212211728",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-21T16:43:57.514254815Z",
+  "genesis_time": "2022-12-21T17:28:47.502273251Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "CD1D3BCF5A2870A34DC6670EBD32BBB387C9C107",
-      "name": "tender-baby",
+      "address": "A6CDFA630FEFF21CA4395A115104EA2F12C0C615",
+      "name": "bright-school",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "DCZdht1DLC2upbDuR9MMoU7fILLBOlMiA4apgZwfE88="
+        "value": "kYN2G6LtX5AtQng3tugWQMaybqs/q3wnr6xIwzlSu5s="
       }
     }
   ]
