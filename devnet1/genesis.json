@@ -268,17 +268,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "6dE6a9sO7gzm1wDpBBJcf6w2FSCD2+s6k34+l3LGNdU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/j7w610k25m97e5s6hwyq78ua9w2l74fl?d=identicon",
-        "country": "DT",
-        "ethereum_address": "0x29ae89f538778642122Cf956F1DC2FCD132cccDa",
-        "id": "0ab7279437ac6cd535d61262b16521d553c210139e45c30aad0c758f4bb66ce6",
-        "info_url": "https://en.wikipedia.org/wiki/H_Committee_of_Human_Vindication",
-        "name": "frustrating-sheep",
-        "tm_pub_key": "6dE6a9sO7gzm1wDpBBJcf6w2FSCD2+s6k34+l3LGNdU=",
-        "vega_pub_key": "402640b0d9afcbd556a98dc2bf0677e84cb564188d7a0c671928e19dd8c15a04",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -312,6 +301,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "P/DU8HcgZxkq37sv9S4L/P+TbOO5UXke2p4Tl1t5C1A=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xwwgqzm9hi5gawp0gzkletiu1lvf2wjo?d=identicon",
+        "country": "OM",
+        "ethereum_address": "0x147CE4f28A0c862524e6AA10E6cd4C03Cc2aE54E",
+        "id": "2a1cb1f9214d363c3cb2031ec4da6a3a1b042a8b808945edeb91c3920c9d0b17",
+        "info_url": "https://en.wikipedia.org/wiki/Texas_Youth_Commission",
+        "name": "wicked-river",
+        "tm_pub_key": "P/DU8HcgZxkq37sv9S4L/P+TbOO5UXke2p4Tl1t5C1A=",
+        "vega_pub_key": "e7f01c741a8726d9a3a78b1de36c18b6f1d1d479f2ef9403b48ad695c121dcb4",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212201450",
+  "chain_id": "vega-devnet1-202212210206",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-20T14:50:52.308922082Z",
+  "genesis_time": "2022-12-21T02:06:56.66285051Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "08999E1F384FC7666EECD57E14C343261FB5EB97",
-      "name": "frustrating-sheep",
+      "address": "FD5BBD08B2CBADC6BD0485B78E9690DE8DC3632D",
+      "name": "wicked-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "6dE6a9sO7gzm1wDpBBJcf6w2FSCD2+s6k34+l3LGNdU="
+        "value": "P/DU8HcgZxkq37sv9S4L/P+TbOO5UXke2p4Tl1t5C1A="
       }
     }
   ]
