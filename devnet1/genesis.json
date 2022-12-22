@@ -268,15 +268,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "75G8iX55a5X/0E+5aR1xj73Xwym0mEV6j0vao2/bhSI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/6lh96hl7ncwzjxrg3xf24r7opxnpkmz0?d=identicon",
-        "country": "DU",
-        "ethereum_address": "0x1535d5C1D3B0AA73E78376f12386d72DCb8c2522",
-        "id": "018fe4009c6fd587bb899bd93e85bbd2f0be08ac41df040cf6a2240aa7ed75be",
-        "info_url": "https://en.wikipedia.org/wiki/Self-fabric",
-        "name": "agitated-bed",
-        "tm_pub_key": "75G8iX55a5X/0E+5aR1xj73Xwym0mEV6j0vao2/bhSI=",
-        "vega_pub_key": "7edb3d6c1a7c6029b1f4c220a1c8bcbd7dda461d1bd645ee10a1a30f0ffb51a1",
+      "6QZ27/r5fiqrC5g+9FrEaS/6rU0sfbHWpacFd1IlfSM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/8irpum2uy9avuvsyrdiw9b5kp7tvhhan?d=identicon",
+        "country": "ZY",
+        "ethereum_address": "0x05D5A4C0b6c1724AE85d40f62549Fd61Bd99cf53",
+        "id": "c53fb83df3fda1d5cf8985c817b962ba1798a4648a4307697a6502254f56a436",
+        "info_url": "https://en.wikipedia.org/wiki/Marc_St._Gil",
+        "name": "alert-chair",
+        "tm_pub_key": "6QZ27/r5fiqrC5g+9FrEaS/6rU0sfbHWpacFd1IlfSM=",
+        "vega_pub_key": "440965b1c0edbef53503a41146c43834c1c7fc35e2ee2335e38f76ce9c633f81",
         "vega_pub_key_index": 1
       },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212221300",
+  "chain_id": "vega-devnet1-202212221340",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-22T13:00:50.348154214Z",
+  "genesis_time": "2022-12-22T13:40:55.053964431Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "23E6CCD250C255A664189EB2EBCFC52AA6A569D0",
-      "name": "agitated-bed",
+      "address": "5E244420A84562ED849A983FE208DC0CB8C634FF",
+      "name": "alert-chair",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "75G8iX55a5X/0E+5aR1xj73Xwym0mEV6j0vao2/bhSI="
+        "value": "6QZ27/r5fiqrC5g+9FrEaS/6rU0sfbHWpacFd1IlfSM="
       }
     }
   ]
