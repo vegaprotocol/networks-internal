@@ -268,6 +268,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "4Uh1m+ELtU/yGLd7tg/0N/0mjao3eWgif7JxrKdOXJc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/rdvpne8lecvyq02y0h8zonnd4n8f3mgx?d=identicon",
+        "country": "VT",
+        "ethereum_address": "0x1B621fFC91158E6cEed07a09482F82660E8f5478",
+        "id": "4478131c68d786a62d2ca57707145b4929a7a48db9442b5e7407eae6c56dff2c",
+        "info_url": "https://en.wikipedia.org/wiki/Malthonea_panthera",
+        "name": "stocky-horse",
+        "tm_pub_key": "4Uh1m+ELtU/yGLd7tg/0N/0mjao3eWgif7JxrKdOXJc=",
+        "vega_pub_key": "d41d743d61464e6313dceb643120d66b684d9a9e8d4c95633a405b61170a434d",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -288,17 +299,6 @@
         "name": "friendly-barber",
         "tm_pub_key": "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=",
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
-        "vega_pub_key_index": 1
-      },
-      "FzHmGh+oMyNQzs0WLY9ollQacJLwW9uFVmVbxzubwYk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/63os9qkr1ww3h5eixnsybg9es9dyfx1x?d=identicon",
-        "country": "BD",
-        "ethereum_address": "0xe1d466a45F464e920EFc003A4edEE0581f412806",
-        "id": "78bb901c150e5ad41cc52f9a0759531f298a32d3480b00ec8167ef8e1f3237ea",
-        "info_url": "https://en.wikipedia.org/wiki/Metapramine",
-        "name": "important-vacuum",
-        "tm_pub_key": "FzHmGh+oMyNQzs0WLY9ollQacJLwW9uFVmVbxzubwYk=",
-        "vega_pub_key": "61c7fe69dc0eafcf6fb37a0c61dc267eb180cfeecd49f84500ea9b1a6632fe0b",
         "vega_pub_key_index": 1
       },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212221901",
+  "chain_id": "vega-devnet1-202212222235",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-22T19:01:17.954191295Z",
+  "genesis_time": "2022-12-22T22:35:06.012916504Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "DD154B75367D3D671746B6F615E4A5844BA70234",
-      "name": "important-vacuum",
+      "address": "46B35A71C6FEB5E67EDD5C0EEFD44A5B734CFFA6",
+      "name": "stocky-horse",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "FzHmGh+oMyNQzs0WLY9ollQacJLwW9uFVmVbxzubwYk="
+        "value": "4Uh1m+ELtU/yGLd7tg/0N/0mjao3eWgif7JxrKdOXJc="
       }
     }
   ]
