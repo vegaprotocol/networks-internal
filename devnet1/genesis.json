@@ -268,17 +268,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "7AWiMcWbw1z4rm9FZQ/6FW6rXQIxUxhtaxrSpENvd2g=": {
-        "avatar_url": "https://www.gravatar.com/avatar/myqu917alof3x6sc2y7na2ew44lxhojs?d=identicon",
-        "country": "KN",
-        "ethereum_address": "0xEd98b3B9276Ee08b6cFd7f20102eDD91dbC08E58",
-        "id": "d21e73333536a19b019308f1c408ea771606b31af62dda612815d5c280db8283",
-        "info_url": "https://en.wikipedia.org/wiki/Bill_Ryder-Jones",
-        "name": "gifted-shoe",
-        "tm_pub_key": "7AWiMcWbw1z4rm9FZQ/6FW6rXQIxUxhtaxrSpENvd2g=",
-        "vega_pub_key": "19804c510fc31625682c52bfdc81a91825aaf8790ff492077662e7985acf3946",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -299,6 +288,17 @@
         "name": "friendly-barber",
         "tm_pub_key": "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=",
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
+        "vega_pub_key_index": 1
+      },
+      "GnTJUoS8AbAxP38g2w/9tYWka3nkaLzWF2qA5LmwOi4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/1hwnqqw3zgcpjoxci109jo7o831a69sy?d=identicon",
+        "country": "HB",
+        "ethereum_address": "0x56E28b418d391d04d2E48B191BC28158A0AcaEd6",
+        "id": "bff6bd70e96db7696e04675dc51ab2628eb1b48a6080186154fab8203eeb8ebe",
+        "info_url": "https://en.wikipedia.org/wiki/Hyouka",
+        "name": "unsightly-hill",
+        "tm_pub_key": "GnTJUoS8AbAxP38g2w/9tYWka3nkaLzWF2qA5LmwOi4=",
+        "vega_pub_key": "a32b096632a2e6930265f3b5d22311e5c70d158b667342a21750eab35e01e54c",
         "vega_pub_key_index": 1
       },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212211859",
+  "chain_id": "vega-devnet1-202212221110",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-21T18:59:00.967142366Z",
+  "genesis_time": "2022-12-22T11:10:45.859284871Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "AAB6285E753AD716D8B58F9697629D320661883E",
-      "name": "gifted-shoe",
+      "address": "DA6421E60924B5C402A444174542FE1D71C8256A",
+      "name": "unsightly-hill",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "7AWiMcWbw1z4rm9FZQ/6FW6rXQIxUxhtaxrSpENvd2g="
+        "value": "GnTJUoS8AbAxP38g2w/9tYWka3nkaLzWF2qA5LmwOi4="
       }
     }
   ]
