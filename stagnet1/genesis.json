@@ -255,7 +255,7 @@
       "reward.staking.delegation.minimumValidatorStake": "3000000000000000000000",
       "reward.staking.delegation.payoutDelay": "5m",
       "reward.staking.delegation.payoutFraction": "0.007",
-      "snapshot.interval.length": "1000",
+      "snapshot.interval.length": "300",
       "spam.pow.difficulty": "2",
       "spam.pow.numberOfTxPerBlock": "100",
       "spam.protection.delegation.min.tokens": "1000000000000000000",
