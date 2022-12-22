@@ -270,7 +270,7 @@
             "reward.staking.delegation.minimumValidatorStake": "3000000000000000000000",
             "reward.staking.delegation.payoutDelay": "5m",
             "reward.staking.delegation.payoutFraction": "0.007",
-            "snapshot.interval.length": "300",
+            "snapshot.interval.length": "1000",
             "spam.pow.difficulty": "2",
             "spam.pow.numberOfTxPerBlock": "100",
             "spam.protection.delegation.min.tokens": "1000000000000000000",
@@ -285,7 +285,9 @@
             "network.transactions.maxgasperblock":"500000",
             "network.transaction.defaultgas":"1"
         },
-        "network_parameters_checkpoint_overwrite": null,
+        "network_parameters_checkpoint_overwrite": [
+            "snapshot.interval.length"
+        ],
         "validators": "-THIS-WILL-BE-FILLED-IN-"
     },
     "app_hash": ""
