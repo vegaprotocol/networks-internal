@@ -290,17 +290,6 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
-      "HGt2RjiLfEizHr1KgTNxN03WsKJNEu/kV7Qn8OMKo8U=": {
-        "avatar_url": "https://www.gravatar.com/avatar/4a19yygsrtl1d38kl0029p2y0mcyim1a?d=identicon",
-        "country": "MM",
-        "ethereum_address": "0xA58D1DEB9ACD76Dc8dF52E8260c41eB710F2382D",
-        "id": "78330f5928f358472ca93062c3f9aec908fda98527f1ae703509d80c9fa71224",
-        "info_url": "https://en.wikipedia.org/wiki/Digita",
-        "name": "dead-lake",
-        "tm_pub_key": "HGt2RjiLfEizHr1KgTNxN03WsKJNEu/kV7Qn8OMKo8U=",
-        "vega_pub_key": "12405b0fe8f13eed02242f41099f45d6d86a2c8e8439bd22d7afbda401398567",
-        "vega_pub_key_index": 1
-      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -310,6 +299,17 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
+        "vega_pub_key_index": 1
+      },
+      "g8YcUbwClr8pEDpkXm/wd2YqrVHivPdDlIL13Nc4Ivw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/buayosxcfx8g7jiar1l248wgy796ncrp?d=identicon",
+        "country": "RS",
+        "ethereum_address": "0x5De2070118bb1E468105C2A1183D501fc0489d3f",
+        "id": "f455a8d77e4cfd30313235c62ad04cddd858e2ba4d65cd0aebde96da8df90322",
+        "info_url": "https://en.wikipedia.org/wiki/Jester_Interactive",
+        "name": "powerful-cookie",
+        "tm_pub_key": "g8YcUbwClr8pEDpkXm/wd2YqrVHivPdDlIL13Nc4Ivw=",
+        "vega_pub_key": "78f9a668369a62f8ec0153571bb6922b0f65d1e77cb8d4ff9104ea565023f429",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212221559",
+  "chain_id": "vega-devnet1-202212221733",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-22T15:59:48.068710239Z",
+  "genesis_time": "2022-12-22T17:33:26.076627185Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "749BB7A1A764BE66BB81C324FE2C2B4DF89EDE6E",
-      "name": "dead-lake",
+      "address": "81B5205DEBD88FF9386910E598A221D1EDF3E2AD",
+      "name": "powerful-cookie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "HGt2RjiLfEizHr1KgTNxN03WsKJNEu/kV7Qn8OMKo8U="
+        "value": "g8YcUbwClr8pEDpkXm/wd2YqrVHivPdDlIL13Nc4Ivw="
       }
     }
   ]
