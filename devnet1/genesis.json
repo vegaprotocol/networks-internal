@@ -268,6 +268,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "75G8iX55a5X/0E+5aR1xj73Xwym0mEV6j0vao2/bhSI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/6lh96hl7ncwzjxrg3xf24r7opxnpkmz0?d=identicon",
+        "country": "DU",
+        "ethereum_address": "0x1535d5C1D3B0AA73E78376f12386d72DCb8c2522",
+        "id": "018fe4009c6fd587bb899bd93e85bbd2f0be08ac41df040cf6a2240aa7ed75be",
+        "info_url": "https://en.wikipedia.org/wiki/Self-fabric",
+        "name": "agitated-bed",
+        "tm_pub_key": "75G8iX55a5X/0E+5aR1xj73Xwym0mEV6j0vao2/bhSI=",
+        "vega_pub_key": "7edb3d6c1a7c6029b1f4c220a1c8bcbd7dda461d1bd645ee10a1a30f0ffb51a1",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -288,17 +299,6 @@
         "name": "friendly-barber",
         "tm_pub_key": "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=",
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
-        "vega_pub_key_index": 1
-      },
-      "GnTJUoS8AbAxP38g2w/9tYWka3nkaLzWF2qA5LmwOi4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/1hwnqqw3zgcpjoxci109jo7o831a69sy?d=identicon",
-        "country": "HB",
-        "ethereum_address": "0x56E28b418d391d04d2E48B191BC28158A0AcaEd6",
-        "id": "bff6bd70e96db7696e04675dc51ab2628eb1b48a6080186154fab8203eeb8ebe",
-        "info_url": "https://en.wikipedia.org/wiki/Hyouka",
-        "name": "unsightly-hill",
-        "tm_pub_key": "GnTJUoS8AbAxP38g2w/9tYWka3nkaLzWF2qA5LmwOi4=",
-        "vega_pub_key": "a32b096632a2e6930265f3b5d22311e5c70d158b667342a21750eab35e01e54c",
         "vega_pub_key_index": 1
       },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212221110",
+  "chain_id": "vega-devnet1-202212221201",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-22T11:10:45.859284871Z",
+  "genesis_time": "2022-12-22T12:01:19.383706162Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "DA6421E60924B5C402A444174542FE1D71C8256A",
-      "name": "unsightly-hill",
+      "address": "23E6CCD250C255A664189EB2EBCFC52AA6A569D0",
+      "name": "agitated-bed",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "GnTJUoS8AbAxP38g2w/9tYWka3nkaLzWF2qA5LmwOi4="
+        "value": "75G8iX55a5X/0E+5aR1xj73Xwym0mEV6j0vao2/bhSI="
       }
     }
   ]
