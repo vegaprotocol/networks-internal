@@ -268,17 +268,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "6QZ27/r5fiqrC5g+9FrEaS/6rU0sfbHWpacFd1IlfSM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/8irpum2uy9avuvsyrdiw9b5kp7tvhhan?d=identicon",
-        "country": "ZY",
-        "ethereum_address": "0x05D5A4C0b6c1724AE85d40f62549Fd61Bd99cf53",
-        "id": "c53fb83df3fda1d5cf8985c817b962ba1798a4648a4307697a6502254f56a436",
-        "info_url": "https://en.wikipedia.org/wiki/Marc_St._Gil",
-        "name": "alert-chair",
-        "tm_pub_key": "6QZ27/r5fiqrC5g+9FrEaS/6rU0sfbHWpacFd1IlfSM=",
-        "vega_pub_key": "440965b1c0edbef53503a41146c43834c1c7fc35e2ee2335e38f76ce9c633f81",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -299,6 +288,17 @@
         "name": "friendly-barber",
         "tm_pub_key": "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=",
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
+        "vega_pub_key_index": 1
+      },
+      "I8SZdUczyGy7TfEJ3lPWFpcj4wHNw8rKNmotljpQqH0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/52gy13ffj320l0exlix025d2y2ookdx3?d=identicon",
+        "country": "AE",
+        "ethereum_address": "0x7F1Bb23493E14621669Db8DfC6045E3dD88e258A",
+        "id": "af237c1fc0a70b75d57eaa608728734cb20181b839ded2346cdfc2bfb38f3270",
+        "info_url": "https://en.wikipedia.org/wiki/Sepp_Sch%C3%B6nmetzler",
+        "name": "graceful-roof",
+        "tm_pub_key": "I8SZdUczyGy7TfEJ3lPWFpcj4wHNw8rKNmotljpQqH0=",
+        "vega_pub_key": "bb6226af92b1ce4c2656bdedb89032413ba233384284b72aa24be10f45524a82",
         "vega_pub_key_index": 1
       },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212221421",
+  "chain_id": "vega-devnet1-202212221503",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-22T14:21:05.222475959Z",
+  "genesis_time": "2022-12-22T15:03:15.80885644Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "5E244420A84562ED849A983FE208DC0CB8C634FF",
-      "name": "alert-chair",
+      "address": "A370F786E6D3E9721348760309A088AA23462B68",
+      "name": "graceful-roof",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "6QZ27/r5fiqrC5g+9FrEaS/6rU0sfbHWpacFd1IlfSM="
+        "value": "I8SZdUczyGy7TfEJ3lPWFpcj4wHNw8rKNmotljpQqH0="
       }
     }
   ]
