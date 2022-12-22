@@ -290,15 +290,15 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
-      "I8SZdUczyGy7TfEJ3lPWFpcj4wHNw8rKNmotljpQqH0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/52gy13ffj320l0exlix025d2y2ookdx3?d=identicon",
-        "country": "AE",
-        "ethereum_address": "0x7F1Bb23493E14621669Db8DfC6045E3dD88e258A",
-        "id": "af237c1fc0a70b75d57eaa608728734cb20181b839ded2346cdfc2bfb38f3270",
-        "info_url": "https://en.wikipedia.org/wiki/Sepp_Sch%C3%B6nmetzler",
-        "name": "graceful-roof",
-        "tm_pub_key": "I8SZdUczyGy7TfEJ3lPWFpcj4wHNw8rKNmotljpQqH0=",
-        "vega_pub_key": "bb6226af92b1ce4c2656bdedb89032413ba233384284b72aa24be10f45524a82",
+      "HGt2RjiLfEizHr1KgTNxN03WsKJNEu/kV7Qn8OMKo8U=": {
+        "avatar_url": "https://www.gravatar.com/avatar/4a19yygsrtl1d38kl0029p2y0mcyim1a?d=identicon",
+        "country": "MM",
+        "ethereum_address": "0xA58D1DEB9ACD76Dc8dF52E8260c41eB710F2382D",
+        "id": "78330f5928f358472ca93062c3f9aec908fda98527f1ae703509d80c9fa71224",
+        "info_url": "https://en.wikipedia.org/wiki/Digita",
+        "name": "dead-lake",
+        "tm_pub_key": "HGt2RjiLfEizHr1KgTNxN03WsKJNEu/kV7Qn8OMKo8U=",
+        "vega_pub_key": "12405b0fe8f13eed02242f41099f45d6d86a2c8e8439bd22d7afbda401398567",
         "vega_pub_key_index": 1
       },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212221503",
+  "chain_id": "vega-devnet1-202212221559",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-22T15:03:15.80885644Z",
+  "genesis_time": "2022-12-22T15:59:48.068710239Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "A370F786E6D3E9721348760309A088AA23462B68",
-      "name": "graceful-roof",
+      "address": "749BB7A1A764BE66BB81C324FE2C2B4DF89EDE6E",
+      "name": "dead-lake",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "I8SZdUczyGy7TfEJ3lPWFpcj4wHNw8rKNmotljpQqH0="
+        "value": "HGt2RjiLfEizHr1KgTNxN03WsKJNEu/kV7Qn8OMKo8U="
       }
     }
   ]
