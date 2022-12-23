@@ -268,17 +268,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "6ExFtc1lZ+FdiM+yH3BwcAOXwTJbjNcciTnMHInAtF0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/naycktply406yvswnw1e4tbacstd5oaz?d=identicon",
-        "country": "WP",
-        "ethereum_address": "0x42E3d63853EFBc811Cf544E51D2b73EC6236a995",
-        "id": "51fa76f9063a2eeb8ee2537b2f8e306576fc5084d43f617bc1d10dbe9b6e7d02",
-        "info_url": "https://en.wikipedia.org/wiki/Cyanotech",
-        "name": "mysterious-horse",
-        "tm_pub_key": "6ExFtc1lZ+FdiM+yH3BwcAOXwTJbjNcciTnMHInAtF0=",
-        "vega_pub_key": "74d7969af024488baa8519ccdac768687703308514b9ef1c47c48fe804b6389e",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -312,6 +301,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "Ouxlh8qFs7cd2phIh5jxXiNwvYZtrHMKTvoTs77greg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/wkg4wxnc8kt2r925gklg5pv6ee3cydui?d=identicon",
+        "country": "GP",
+        "ethereum_address": "0xA675656D6d4627E582c1A5Fd94EB6DBDc95d63dF",
+        "id": "501a962281390fcc59224a51b464911b33deb758b72f45352659749ac54d93a8",
+        "info_url": "https://en.wikipedia.org/wiki/North_Alton,_Nova_Scotia",
+        "name": "harebrained-teacher",
+        "tm_pub_key": "Ouxlh8qFs7cd2phIh5jxXiNwvYZtrHMKTvoTs77greg=",
+        "vega_pub_key": "1a1a0299eafd277f779ac602479af453f106937f6d540abcf959cf691ae8b492",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212231548",
+  "chain_id": "vega-devnet1-202212231636",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-23T15:48:37.908474218Z",
+  "genesis_time": "2022-12-23T16:36:46.858254858Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "1A5760CB160FE9DF2C3A0134763140997830E4C9",
-      "name": "mysterious-horse",
+      "address": "F03ED0BA6126481A62F8137A5F5B83C46AB4CF68",
+      "name": "harebrained-teacher",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "6ExFtc1lZ+FdiM+yH3BwcAOXwTJbjNcciTnMHInAtF0="
+        "value": "Ouxlh8qFs7cd2phIh5jxXiNwvYZtrHMKTvoTs77greg="
       }
     }
   ]
