@@ -268,6 +268,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "+a6cf0ZfvOEYxJ9rBFz6IHKLR2nlu31n6Ay0jI6ry9Y=": {
+        "avatar_url": "https://www.gravatar.com/avatar/gl1fehaqg0zihi5pxuolb5xlvml5w4c2?d=identicon",
+        "country": "YY",
+        "ethereum_address": "0x1eCE00B8a8F144e954A76457FB3028281889f7eC",
+        "id": "ec2b3fc73d2966ba99d537f3d41369ac88a13e992c30da6fb847c516f68d18f1",
+        "info_url": "https://en.wikipedia.org/wiki/Kvemo-Machkhara",
+        "name": "bored-ball",
+        "tm_pub_key": "+a6cf0ZfvOEYxJ9rBFz6IHKLR2nlu31n6Ay0jI6ry9Y=",
+        "vega_pub_key": "8531dbe80197ce499baf318d8eec5f20d1507e3200f08aaa1718cedc79e3318e",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -301,17 +312,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "oFZKj8WuzZjS+9hG5fznbVG+OyvGT8VxkAbE7oHLRmo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/s9hx8954cfrjyoypmzg7s15rqbdtf45t?d=identicon",
-        "country": "GU",
-        "ethereum_address": "0x676Dde9Eb9938e1C7fDba5Ee793f607e0aa5B05b",
-        "id": "8a6d590dd321c41ba955e5dae020cb2e10d4591a2a935c770c6181509e9b0174",
-        "info_url": "https://en.wikipedia.org/wiki/Superior_Person%27s_Book_of_Words",
-        "name": "ashy-toy",
-        "tm_pub_key": "oFZKj8WuzZjS+9hG5fznbVG+OyvGT8VxkAbE7oHLRmo=",
-        "vega_pub_key": "6ad1128cac1ee8fd5b5190897201fa14bc146b761d245f885ac9ec5361c0f8f9",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212222307",
+  "chain_id": "vega-devnet1-202212231215",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-22T23:07:27.493749739Z",
+  "genesis_time": "2022-12-23T12:15:42.695574147Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "37F07E84E596342B8C6B81EE48E1173CDC6D81DF",
-      "name": "ashy-toy",
+      "address": "27FD5F0D604C85A5561AA9AA8D8A8BC1D0FE0E5B",
+      "name": "bored-ball",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "oFZKj8WuzZjS+9hG5fznbVG+OyvGT8VxkAbE7oHLRmo="
+        "value": "+a6cf0ZfvOEYxJ9rBFz6IHKLR2nlu31n6Ay0jI6ry9Y="
       }
     }
   ]
