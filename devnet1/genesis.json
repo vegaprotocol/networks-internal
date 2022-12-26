@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "pRoSCzMh6Ra6VaSYG7IfCdmRmXVhlZTWAu2ZtGov+T4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/qfukvu92c7bcgcrzpxx9642cmao0g3tg?d=identicon",
-        "country": "AT",
-        "ethereum_address": "0xd8B3Ea70624f5283A66F827e989f4CAC54bFAa15",
-        "id": "ab56c68c8c5b4ec7d22d781d30142a3cb82cfab9332a6e43da71dd57b3f86263",
-        "info_url": "https://en.wikipedia.org/wiki/Anthony_Smith_(explorer)",
-        "name": "narrow-cloud",
-        "tm_pub_key": "pRoSCzMh6Ra6VaSYG7IfCdmRmXVhlZTWAu2ZtGov+T4=",
-        "vega_pub_key": "e4c8006e1ce9783b8409fd875d24cf8d97909f8a1c6ca5dec503d2c77a8d8515",
+      "q47UTOE0z1vWORvpWUHVDp8UZM5Gjcimyg4tIhhUe28=": {
+        "avatar_url": "https://www.gravatar.com/avatar/80t5b80tem0ig6o1rr64yvql6qvpancf?d=identicon",
+        "country": "CP",
+        "ethereum_address": "0xEa4C70640035Beb269D046a6aF25D129F71c9758",
+        "id": "838f84d59b4e09516275e6925b23bc5dbe7f19444eb294ac51c83260457fd8d2",
+        "info_url": "https://en.wikipedia.org/wiki/List_of_instruments_used_in_anatomy",
+        "name": "easy-coffee",
+        "tm_pub_key": "q47UTOE0z1vWORvpWUHVDp8UZM5Gjcimyg4tIhhUe28=",
+        "vega_pub_key": "4a1712bf5e42965925ceca80707f499e29e360e83bb891801fd9c3322cab09d2",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212231701",
+  "chain_id": "vega-devnet1-202212261603",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-23T17:01:48.267105588Z",
+  "genesis_time": "2022-12-26T16:03:22.283359771Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "AB2A46CCA65776602B97BCDBD2291FBE14DAB2C8",
-      "name": "narrow-cloud",
+      "address": "5618DC06710334BDF93088C650CF9503DFCDEECA",
+      "name": "easy-coffee",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "pRoSCzMh6Ra6VaSYG7IfCdmRmXVhlZTWAu2ZtGov+T4="
+        "value": "q47UTOE0z1vWORvpWUHVDp8UZM5Gjcimyg4tIhhUe28="
       }
     }
   ]
