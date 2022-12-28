@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "q47UTOE0z1vWORvpWUHVDp8UZM5Gjcimyg4tIhhUe28=": {
-        "avatar_url": "https://www.gravatar.com/avatar/80t5b80tem0ig6o1rr64yvql6qvpancf?d=identicon",
-        "country": "CP",
-        "ethereum_address": "0xEa4C70640035Beb269D046a6aF25D129F71c9758",
-        "id": "838f84d59b4e09516275e6925b23bc5dbe7f19444eb294ac51c83260457fd8d2",
-        "info_url": "https://en.wikipedia.org/wiki/List_of_instruments_used_in_anatomy",
-        "name": "easy-coffee",
-        "tm_pub_key": "q47UTOE0z1vWORvpWUHVDp8UZM5Gjcimyg4tIhhUe28=",
-        "vega_pub_key": "4a1712bf5e42965925ceca80707f499e29e360e83bb891801fd9c3322cab09d2",
+      "MjIrUxJxnlxpk58G7RZQRSWfhiYeuhxx3+T3giRSVdo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/brdtevw8tvu83yacqyfsv0uf7vhqr2v0?d=identicon",
+        "country": "XW",
+        "ethereum_address": "0xA67AcB67a079c23Fbee891747D5DC65c593bEe13",
+        "id": "3535cff968115bf9deffb2a6941621824ef043e6aed90bb79bda9b454d5695d0",
+        "info_url": "https://en.wikipedia.org/wiki/1956%E2%80%9357_Philadelphia_Warriors_season",
+        "name": "howling-toy",
+        "tm_pub_key": "MjIrUxJxnlxpk58G7RZQRSWfhiYeuhxx3+T3giRSVdo=",
+        "vega_pub_key": "73c432f1127b5ecd1307a61949c38d3ba52cf0ec5efef21359e839420c1da345",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202212261603",
+  "chain_id": "vega-devnet1-202212281040",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-26T16:03:22.283359771Z",
+  "genesis_time": "2022-12-28T10:40:48.669023258Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "5618DC06710334BDF93088C650CF9503DFCDEECA",
-      "name": "easy-coffee",
+      "address": "80D4F6DAB65B752075C0C632489C9029A3A49E2D",
+      "name": "howling-toy",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "q47UTOE0z1vWORvpWUHVDp8UZM5Gjcimyg4tIhhUe28="
+        "value": "MjIrUxJxnlxpk58G7RZQRSWfhiYeuhxx3+T3giRSVdo="
       }
     }
   ]
