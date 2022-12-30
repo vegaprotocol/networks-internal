@@ -268,6 +268,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "6xcGfXo+9vZAKQrqbLX9HhbhkLRTVBUZwFYZq+NHIIE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/14x54joiqoqj6yzuvw2zn795zswi0x9c?d=identicon",
+        "country": "SG",
+        "ethereum_address": "0xD7143ce3eCFf0541ce965545f73806Be4E7941d2",
+        "id": "855a1316f552b1c27026617a8042830137564d96de8a141859f2ac0aa22bad00",
+        "info_url": "https://en.wikipedia.org/wiki/Andriy_Levchenko",
+        "name": "friendly-lake",
+        "tm_pub_key": "6xcGfXo+9vZAKQrqbLX9HhbhkLRTVBUZwFYZq+NHIIE=",
+        "vega_pub_key": "591a547d300dbf7abb7e7720935b97794216dfa461b61dbdb89e83bf570f7292",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -311,21 +322,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "yrI5oRERFfO/VA/H96uFYe8gRpQQN33I9I+YIQOj8BM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/j7nmf168xjybqww1ky17adwyjm8ktaws?d=identicon",
-        "country": "QP",
-        "ethereum_address": "0x70BcCc700233BbD9F59f6AdfaF62Dd820dCa76Cb",
-        "id": "fd5f968e5d81638f21278ef4cde9f828aedde920e268df49d3e35b4710bbaf36",
-        "info_url": "https://en.wikipedia.org/wiki/Rodden,_Illinois",
-        "name": "ashy-candle",
-        "tm_pub_key": "yrI5oRERFfO/VA/H96uFYe8gRpQQN33I9I+YIQOj8BM=",
-        "vega_pub_key": "e6e9266a242abe653bf94c08395c2671bb182bfd30421bd61224f6060f0b1cd2",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202212300857",
+  "chain_id": "vega-devnet1-202212301131",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-30T08:57:41.530890405Z",
+  "genesis_time": "2022-12-30T11:31:38.358157196Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "478DDFB134AE64FFF990005399F947ECD3CDE047",
-      "name": "ashy-candle",
+      "address": "280D1D7D8D7A2201CFF67DDDA8DBEB37A11C7498",
+      "name": "friendly-lake",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "yrI5oRERFfO/VA/H96uFYe8gRpQQN33I9I+YIQOj8BM="
+        "value": "6xcGfXo+9vZAKQrqbLX9HhbhkLRTVBUZwFYZq+NHIIE="
       }
     }
   ]
