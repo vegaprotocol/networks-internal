@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "N5YHkTkyYz0FxFJ2CyzZNZJ8ZF0MAnZ5WjK+h3Vsdvo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ln7hdx0e0x9zkjaleb9lb7kn5l6rz7my?d=identicon",
-        "country": "TE",
-        "ethereum_address": "0x494D1afC8FB642971cBa9B037438EE21C53797EB",
-        "id": "3bd209729360113cf6c895cd54a05d28ac54fe594f20c8af0f5829cd83b2518f",
-        "info_url": "https://en.wikipedia.org/wiki/Meerpet%E2%80%93Jillelguda",
-        "name": "crashing-dog",
-        "tm_pub_key": "N5YHkTkyYz0FxFJ2CyzZNZJ8ZF0MAnZ5WjK+h3Vsdvo=",
-        "vega_pub_key": "b36a8541bc6987093e1ff1c22ac44eb503f917364011acf481a55d74c9505210",
+      "mAmyNGsEOOgRbVsDg7OxGXKnAoXWK2xEREAvmAnYxz0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/3alzjcxr8cwpxo02fchln7owlp4wxms6?d=identicon",
+        "country": "RD",
+        "ethereum_address": "0xf86FC6E331B7139510d203df31e8400a1fA9F11b",
+        "id": "1d5026a4b374140cf6fba1a60631706ea169e7e83d07a32e100767260e2c0c55",
+        "info_url": "https://en.wikipedia.org/wiki/1981_in_fine_arts_of_the_Soviet_Union",
+        "name": "purple-bed",
+        "tm_pub_key": "mAmyNGsEOOgRbVsDg7OxGXKnAoXWK2xEREAvmAnYxz0=",
+        "vega_pub_key": "22e7e1af3afe91092b5e756994488f15f0371afa91a9b54543d22a8584f2ae42",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301040911",
+  "chain_id": "vega-devnet1-202301041041",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-04T09:11:34.905663911Z",
+  "genesis_time": "2023-01-04T10:41:30.295022556Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "4583676BEBC56221DE860DC76FA327C11BA95E78",
-      "name": "crashing-dog",
+      "address": "0EAE087B134ACB9902F85FF2C1016CE12C21BDDA",
+      "name": "purple-bed",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "N5YHkTkyYz0FxFJ2CyzZNZJ8ZF0MAnZ5WjK+h3Vsdvo="
+        "value": "mAmyNGsEOOgRbVsDg7OxGXKnAoXWK2xEREAvmAnYxz0="
       }
     }
   ]
