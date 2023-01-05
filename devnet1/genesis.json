@@ -290,15 +290,15 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
-      "Ep/l3pdKny8IlJ4gaJFjOpdqJ1DPbu5MCEBaiqBp3Os=": {
-        "avatar_url": "https://www.gravatar.com/avatar/rwsz2sau2xc1j5ex9jzrf2qj6xemgske?d=identicon",
-        "country": "TO",
-        "ethereum_address": "0xc6a60a501B457A22f1A454FdBd330F4d54b5C0FA",
-        "id": "29afdca820cdb90ddd5afe466e6dad134a949c882b4ee597b745dfd636f9ff71",
-        "info_url": "https://en.wikipedia.org/wiki/Dimitris_Koutsiabasakos",
-        "name": "adventurous-cloud",
-        "tm_pub_key": "Ep/l3pdKny8IlJ4gaJFjOpdqJ1DPbu5MCEBaiqBp3Os=",
-        "vega_pub_key": "c94b4063d49fab65e19fb038e83099c055f09bdecab5ffa86d176e83e6650103",
+      "JI8uIwfifcvQ53r5HzwOubBBAZ4p84wizIXTuKpuFtU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/96g9brkcwgsxpeywyupmqsxi71bcer4a?d=identicon",
+        "country": "QC",
+        "ethereum_address": "0x59404649aa9Dec8E7f6bE21bF0D877d0F80F3B8A",
+        "id": "f6e8389c086be7a36c284e9c5be5b48c8ac000f7ec6725289465ed9de0b3dae0",
+        "info_url": "https://en.wikipedia.org/wiki/Pemphredon_lugubris",
+        "name": "stocky-coffee",
+        "tm_pub_key": "JI8uIwfifcvQ53r5HzwOubBBAZ4p84wizIXTuKpuFtU=",
+        "vega_pub_key": "16709a5e9c4a9ea7573aa36de99d5b8d9d9e50110016b0a6c1bdc5576e6f2d24",
         "vega_pub_key_index": 1
       },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301051432",
+  "chain_id": "vega-devnet1-202301051517",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-05T14:32:16.890824321Z",
+  "genesis_time": "2023-01-05T15:17:20.046121905Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "2EF71D0AAE69677E90E26406399122E1AA64393D",
-      "name": "adventurous-cloud",
+      "address": "5E860DD158EDBF4DB5C624B93CBA45E5E34969AF",
+      "name": "stocky-coffee",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Ep/l3pdKny8IlJ4gaJFjOpdqJ1DPbu5MCEBaiqBp3Os="
+        "value": "JI8uIwfifcvQ53r5HzwOubBBAZ4p84wizIXTuKpuFtU="
       }
     }
   ]
