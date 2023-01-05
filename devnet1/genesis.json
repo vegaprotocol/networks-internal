@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "XDMNfquRoP/OoFKhI6lVcXLKPdN7vCLKdYfLXbfA/Cc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/9vikkqn410ukxm9ny5f4cojfir7sslvp?d=identicon",
-        "country": "WA",
-        "ethereum_address": "0x8A8035Ed0D8FC703b8184f4487827D8d96863363",
-        "id": "51a6f06d91c2d2b6570c9e7359b74d9cda5a452e29ea3430ff83b36858334032",
-        "info_url": "https://en.wikipedia.org/wiki/Pardon_My_Gun",
-        "name": "gifted-chimney",
-        "tm_pub_key": "XDMNfquRoP/OoFKhI6lVcXLKPdN7vCLKdYfLXbfA/Cc=",
-        "vega_pub_key": "c4dd5ba8eda16315bf0ddf666015468f98ae5f4b41a8c32e582d21c9d8b2561a",
+      "TrVJE6i9AlmzIASwV2+MrC3yseTpLhxOjMOXwmNfda8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/pzdu1ehbrhgxqgydug5b7rh7elcp1juo?d=identicon",
+        "country": "NA",
+        "ethereum_address": "0xcCDaDDe47b17Fa4526D8272BCD0FcA451D18ae31",
+        "id": "37017f746c72a796dd9e0d84d04053a462801ebd58aa7c1d78f5b9060a673deb",
+        "info_url": "https://en.wikipedia.org/wiki/Bor%C3%B3w,_%C5%81owicz_County",
+        "name": "extensive-park",
+        "tm_pub_key": "TrVJE6i9AlmzIASwV2+MrC3yseTpLhxOjMOXwmNfda8=",
+        "vega_pub_key": "f99736d15a41a3aa4443b6da4cf2af8f8f276fe35bf7586136a25c0ede9be036",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301051857",
+  "chain_id": "vega-devnet1-202301051937",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-05T18:57:38.469697243Z",
+  "genesis_time": "2023-01-05T19:37:43.621242974Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "2A65763A635AEA8A9D6EA0166118C9AFA52CA2D6",
-      "name": "gifted-chimney",
+      "address": "0ED4DCD7119E1A9135771AB8AA12B7E58D73763F",
+      "name": "extensive-park",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "XDMNfquRoP/OoFKhI6lVcXLKPdN7vCLKdYfLXbfA/Cc="
+        "value": "TrVJE6i9AlmzIASwV2+MrC3yseTpLhxOjMOXwmNfda8="
       }
     }
   ]
