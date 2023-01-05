@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "ZOdgCOeXJOqpflrGDpU8YCrJXM1EUaJ4zpHLUM9IhyU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/n4i1lu1agx3i4fu03ua4e2qyws9ybbxm?d=identicon",
-        "country": "RI",
-        "ethereum_address": "0x376bf229d44369410508F67596F864Bc568253B3",
-        "id": "b56d7cd1e6b784120f834364a489c8c9199fcb76a25f1c30d860118fa121c45e",
-        "info_url": "https://en.wikipedia.org/wiki/Colom_(surname)",
-        "name": "alert-toy",
-        "tm_pub_key": "ZOdgCOeXJOqpflrGDpU8YCrJXM1EUaJ4zpHLUM9IhyU=",
-        "vega_pub_key": "3125fec7bd29ca9c8410e9277b45d73b095c8db14d51f218843e72ce477ce5a2",
+      "XDMNfquRoP/OoFKhI6lVcXLKPdN7vCLKdYfLXbfA/Cc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/9vikkqn410ukxm9ny5f4cojfir7sslvp?d=identicon",
+        "country": "WA",
+        "ethereum_address": "0x8A8035Ed0D8FC703b8184f4487827D8d96863363",
+        "id": "51a6f06d91c2d2b6570c9e7359b74d9cda5a452e29ea3430ff83b36858334032",
+        "info_url": "https://en.wikipedia.org/wiki/Pardon_My_Gun",
+        "name": "gifted-chimney",
+        "tm_pub_key": "XDMNfquRoP/OoFKhI6lVcXLKPdN7vCLKdYfLXbfA/Cc=",
+        "vega_pub_key": "c4dd5ba8eda16315bf0ddf666015468f98ae5f4b41a8c32e582d21c9d8b2561a",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301051735",
+  "chain_id": "vega-devnet1-202301051819",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-05T17:35:38.400512174Z",
+  "genesis_time": "2023-01-05T18:19:34.581425091Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "4C9DE11F5CC1291F44B854908C4BC7E66C3C810C",
-      "name": "alert-toy",
+      "address": "2A65763A635AEA8A9D6EA0166118C9AFA52CA2D6",
+      "name": "gifted-chimney",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ZOdgCOeXJOqpflrGDpU8YCrJXM1EUaJ4zpHLUM9IhyU="
+        "value": "XDMNfquRoP/OoFKhI6lVcXLKPdN7vCLKdYfLXbfA/Cc="
       }
     }
   ]
