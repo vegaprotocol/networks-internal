@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "rTRBVBUqnQ9tOpp84bfF8jvAuCiwXrM6+43ERLJChsE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/j2bji6ucjge5vagdgthz1qp5ffcbvo31?d=identicon",
-        "country": "JH",
-        "ethereum_address": "0x3c5ade838EDD5d84cA358db9716278d7daae55EB",
-        "id": "e03ecabab7db69566be72806b3c73c1f5e851248cfefa3d208316e0f082604b7",
-        "info_url": "https://en.wikipedia.org/wiki/Bendt_J%C3%B8rgensen",
-        "name": "terrible-doctor",
-        "tm_pub_key": "rTRBVBUqnQ9tOpp84bfF8jvAuCiwXrM6+43ERLJChsE=",
-        "vega_pub_key": "6ad1ce9ba83d92e837d1a0a05627878940eb306c203d7dc266b8e7aad99d441c",
+      "adP7VgW3FZOyZJRjuhq7KgyeU0sasgkex0vBSaka83o=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ssgesew63u0qauicg3bx6aitn3zzpxgi?d=identicon",
+        "country": "QY",
+        "ethereum_address": "0xE6Bc99530d5dB3CC8886e88F9E94Ac9DA63a3b4c",
+        "id": "f0cf627a1b66e92bc2931d8df396d96761a2e3629681d7564c13e593a29cb292",
+        "info_url": "https://en.wikipedia.org/wiki/Union_of_Democrats_and_Independent_Progressives",
+        "name": "green-building",
+        "tm_pub_key": "adP7VgW3FZOyZJRjuhq7KgyeU0sasgkex0vBSaka83o=",
+        "vega_pub_key": "3a4d210cf054dec298c261927a6c024bc934a8586b3c15f537b4b878efeb14ec",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301051211",
+  "chain_id": "vega-devnet1-202301051319",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-05T12:11:28.546656908Z",
+  "genesis_time": "2023-01-05T13:19:30.743247079Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "9A5677AA2DFBC1E2A1C859BFF65FBDF9B7CE1CE2",
-      "name": "terrible-doctor",
+      "address": "29BF665F12C1053C78BF95BF9893BC814B7E447F",
+      "name": "green-building",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "rTRBVBUqnQ9tOpp84bfF8jvAuCiwXrM6+43ERLJChsE="
+        "value": "adP7VgW3FZOyZJRjuhq7KgyeU0sasgkex0vBSaka83o="
       }
     }
   ]
