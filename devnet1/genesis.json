@@ -290,6 +290,17 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
+      "Ep/l3pdKny8IlJ4gaJFjOpdqJ1DPbu5MCEBaiqBp3Os=": {
+        "avatar_url": "https://www.gravatar.com/avatar/rwsz2sau2xc1j5ex9jzrf2qj6xemgske?d=identicon",
+        "country": "TO",
+        "ethereum_address": "0xc6a60a501B457A22f1A454FdBd330F4d54b5C0FA",
+        "id": "29afdca820cdb90ddd5afe466e6dad134a949c882b4ee597b745dfd636f9ff71",
+        "info_url": "https://en.wikipedia.org/wiki/Dimitris_Koutsiabasakos",
+        "name": "adventurous-cloud",
+        "tm_pub_key": "Ep/l3pdKny8IlJ4gaJFjOpdqJ1DPbu5MCEBaiqBp3Os=",
+        "vega_pub_key": "c94b4063d49fab65e19fb038e83099c055f09bdecab5ffa86d176e83e6650103",
+        "vega_pub_key_index": 1
+      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -299,17 +310,6 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
-        "vega_pub_key_index": 1
-      },
-      "adP7VgW3FZOyZJRjuhq7KgyeU0sasgkex0vBSaka83o=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ssgesew63u0qauicg3bx6aitn3zzpxgi?d=identicon",
-        "country": "QY",
-        "ethereum_address": "0xE6Bc99530d5dB3CC8886e88F9E94Ac9DA63a3b4c",
-        "id": "f0cf627a1b66e92bc2931d8df396d96761a2e3629681d7564c13e593a29cb292",
-        "info_url": "https://en.wikipedia.org/wiki/Union_of_Democrats_and_Independent_Progressives",
-        "name": "green-building",
-        "tm_pub_key": "adP7VgW3FZOyZJRjuhq7KgyeU0sasgkex0vBSaka83o=",
-        "vega_pub_key": "3a4d210cf054dec298c261927a6c024bc934a8586b3c15f537b4b878efeb14ec",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301051319",
+  "chain_id": "vega-devnet1-202301051432",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-05T13:19:30.743247079Z",
+  "genesis_time": "2023-01-05T14:32:16.890824321Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "29BF665F12C1053C78BF95BF9893BC814B7E447F",
-      "name": "green-building",
+      "address": "2EF71D0AAE69677E90E26406399122E1AA64393D",
+      "name": "adventurous-cloud",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "adP7VgW3FZOyZJRjuhq7KgyeU0sasgkex0vBSaka83o="
+        "value": "Ep/l3pdKny8IlJ4gaJFjOpdqJ1DPbu5MCEBaiqBp3Os="
       }
     }
   ]
