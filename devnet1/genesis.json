@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "aS6GrPStxsO45jNHzfTt7l2x549GS4rHCzUddzoc1jg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/j2djlqj52ez5ka6gsj6rma8l9frylz4n?d=identicon",
-        "country": "PQ",
-        "ethereum_address": "0xC6c0Aee7c90863576ce4efe508aA287696BcaCB9",
-        "id": "79bc691700790b51ad7f7421c1ed742a9f76c2dc6b056bd377ea7a3690857a00",
-        "info_url": "https://en.wikipedia.org/wiki/Astor,_West_Virginia",
-        "name": "careful-building",
-        "tm_pub_key": "aS6GrPStxsO45jNHzfTt7l2x549GS4rHCzUddzoc1jg=",
-        "vega_pub_key": "79b3758aecbb1da8639e77a0affe31a4c8c3815179828dfdae39dee1c6ccfc8a",
+      "rTRBVBUqnQ9tOpp84bfF8jvAuCiwXrM6+43ERLJChsE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/j2bji6ucjge5vagdgthz1qp5ffcbvo31?d=identicon",
+        "country": "JH",
+        "ethereum_address": "0x3c5ade838EDD5d84cA358db9716278d7daae55EB",
+        "id": "e03ecabab7db69566be72806b3c73c1f5e851248cfefa3d208316e0f082604b7",
+        "info_url": "https://en.wikipedia.org/wiki/Bendt_J%C3%B8rgensen",
+        "name": "terrible-doctor",
+        "tm_pub_key": "rTRBVBUqnQ9tOpp84bfF8jvAuCiwXrM6+43ERLJChsE=",
+        "vega_pub_key": "6ad1ce9ba83d92e837d1a0a05627878940eb306c203d7dc266b8e7aad99d441c",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301050735",
+  "chain_id": "vega-devnet1-202301051211",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-05T07:35:44.053115828Z",
+  "genesis_time": "2023-01-05T12:11:28.546656908Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "4D23BB5BEA03FBC3AD0AD99C3750D54BBCB74B7A",
-      "name": "careful-building",
+      "address": "9A5677AA2DFBC1E2A1C859BFF65FBDF9B7CE1CE2",
+      "name": "terrible-doctor",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "aS6GrPStxsO45jNHzfTt7l2x549GS4rHCzUddzoc1jg="
+        "value": "rTRBVBUqnQ9tOpp84bfF8jvAuCiwXrM6+43ERLJChsE="
       }
     }
   ]
