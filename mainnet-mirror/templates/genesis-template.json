@@ -30,7 +30,6 @@
                 "decimals": 18,
                 "name": "Vega (Mainnet Mirror)",
                 "symbol": "VEGA",
-                "total_supply": "64999723000000000000000000",
                 "source": {
                     "erc20": {
                         "contract_address": "0x70d8e8f69A1AB5b36260aB98Bc0460bD0f178F1a"
