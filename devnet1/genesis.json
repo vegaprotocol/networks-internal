@@ -279,6 +279,17 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
+      "D9Rel4HrjdwMKEcdyJHowe9Nszta2Dt4vW9iKMjOarY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/0fczh6nctlcsshga51oy5cxib3065khm?d=identicon",
+        "country": "OO",
+        "ethereum_address": "0x95d8d64fE2Ed50763b16eb834765E26D2668e366",
+        "id": "c79075c2a0d932666c93efe720911520fd58a85b206d1476c1f3e589d18e6ca7",
+        "info_url": "https://en.wikipedia.org/wiki/Everything_(Anna_Vissi_song)",
+        "name": "wrong-vacuum",
+        "tm_pub_key": "D9Rel4HrjdwMKEcdyJHowe9Nszta2Dt4vW9iKMjOarY=",
+        "vega_pub_key": "501b7f14880c1f8e7bc25a2a34f5144b075dcbd863446ef56b45463c3f4397e6",
+        "vega_pub_key_index": 1
+      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -301,17 +312,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "PSBR+Vo4bEqQBs7eHZFWiM3L1ekJqAJMFuVZYrWPoWw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/l28lqs3y7hccd7bak4ts8xnc7ccq7trn?d=identicon",
-        "country": "SB",
-        "ethereum_address": "0x269F7f40AA3e045B44013E07E8447CFdffC5E947",
-        "id": "8f58751b359c9927119b2894029a2606e98ab131d20f05475481def2a6cdd712",
-        "info_url": "https://en.wikipedia.org/wiki/Just_Like_Old_Times",
-        "name": "inexpensive-bird",
-        "tm_pub_key": "PSBR+Vo4bEqQBs7eHZFWiM3L1ekJqAJMFuVZYrWPoWw=",
-        "vega_pub_key": "54acc4baec703c66796b01f7bd050596fa23b8be262f04a9ca36be4cd80ccd17",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301061425",
+  "chain_id": "vega-devnet1-202301061506",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-06T14:25:44.206436352Z",
+  "genesis_time": "2023-01-06T15:06:00.91759608Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "4244D90CC3E57843433B50CFDD3904A8E8BDBA85",
-      "name": "inexpensive-bird",
+      "address": "37F64FBF39ABA046E1649A3CCFF31A65ABA8150E",
+      "name": "wrong-vacuum",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "PSBR+Vo4bEqQBs7eHZFWiM3L1ekJqAJMFuVZYrWPoWw="
+        "value": "D9Rel4HrjdwMKEcdyJHowe9Nszta2Dt4vW9iKMjOarY="
       }
     }
   ]
