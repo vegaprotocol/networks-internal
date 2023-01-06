@@ -268,6 +268,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "1gVdv1l1fe/ligVek0ekBYdJuXolusN13IempZ+w9uU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/eg72dkro9olyg3tbcaueudcpiwq9xpp6?d=identicon",
+        "country": "HR",
+        "ethereum_address": "0xBDcc32D8067d261Cd4d05d6B95D0A7B2d3da9640",
+        "id": "37709a13eef99eb31256c02283a250963223c9f170d1145d6730f83166b73a8a",
+        "info_url": "https://en.wikipedia.org/wiki/1636_in_England",
+        "name": "dizzy-pizza",
+        "tm_pub_key": "1gVdv1l1fe/ligVek0ekBYdJuXolusN13IempZ+w9uU=",
+        "vega_pub_key": "a2990b70d06136caf6c6b69c899b06214dd917d9673e16e10cf4469fbdd3c057",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -301,17 +312,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "qFS6UlCELYTao9JyJt1cBQqL0vXuJgvoHEmWrBn0lBA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/l9mzby6x3gk26rd6jqsyx90zs3jhegb5?d=identicon",
-        "country": "TJ",
-        "ethereum_address": "0xCF4b30b710A1fAB041eC6A6Cf01118F16C2c1486",
-        "id": "47be4c85f4c415d34ad02e492ba06e57c9ce0b7976218696599da7bd5d9319cd",
-        "info_url": "https://en.wikipedia.org/wiki/Qadirabad,_Siddharthnagar_district",
-        "name": "tense-tree",
-        "tm_pub_key": "qFS6UlCELYTao9JyJt1cBQqL0vXuJgvoHEmWrBn0lBA=",
-        "vega_pub_key": "6321e2069d05686ca0731e0683d8680fa8e468d47c957a19803afd61b5ec7b82",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301061051",
+  "chain_id": "vega-devnet1-202301061159",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-06T10:51:16.185037054Z",
+  "genesis_time": "2023-01-06T11:59:44.53195899Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "29146B777EF892DC978D86F37D41CCDAAB9C089D",
-      "name": "tense-tree",
+      "address": "6F9F451677FBB07BF57F14A2FAFE580B231F34CA",
+      "name": "dizzy-pizza",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "qFS6UlCELYTao9JyJt1cBQqL0vXuJgvoHEmWrBn0lBA="
+        "value": "1gVdv1l1fe/ligVek0ekBYdJuXolusN13IempZ+w9uU="
       }
     }
   ]
