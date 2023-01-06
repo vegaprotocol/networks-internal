@@ -279,17 +279,6 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
-      "D9Rel4HrjdwMKEcdyJHowe9Nszta2Dt4vW9iKMjOarY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/0fczh6nctlcsshga51oy5cxib3065khm?d=identicon",
-        "country": "OO",
-        "ethereum_address": "0x95d8d64fE2Ed50763b16eb834765E26D2668e366",
-        "id": "c79075c2a0d932666c93efe720911520fd58a85b206d1476c1f3e589d18e6ca7",
-        "info_url": "https://en.wikipedia.org/wiki/Everything_(Anna_Vissi_song)",
-        "name": "wrong-vacuum",
-        "tm_pub_key": "D9Rel4HrjdwMKEcdyJHowe9Nszta2Dt4vW9iKMjOarY=",
-        "vega_pub_key": "501b7f14880c1f8e7bc25a2a34f5144b075dcbd863446ef56b45463c3f4397e6",
-        "vega_pub_key_index": 1
-      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -312,6 +301,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "LNBPqbiv4TNAoI4EPjGLO4wjkLuSAOtz91V4u5GUvXE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/j7e8r8rp3tljmhtjhyqwzm8ryfs7vvsm?d=identicon",
+        "country": "JN",
+        "ethereum_address": "0xa6c65a40E027E0F6134623F043D63A6231600B2E",
+        "id": "bd31b52aa6091cf76c994145a654921b3fd955d0f610dd4751833aac47875bca",
+        "info_url": "https://en.wikipedia.org/wiki/Potter%27s_field",
+        "name": "short-chimney",
+        "tm_pub_key": "LNBPqbiv4TNAoI4EPjGLO4wjkLuSAOtz91V4u5GUvXE=",
+        "vega_pub_key": "81304448eaaa355ba7c128d3b8e559dfce797be32ba0f3a12c92a069dbe69d15",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301061506",
+  "chain_id": "vega-devnet1-202301061803",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-06T15:06:00.91759608Z",
+  "genesis_time": "2023-01-06T18:03:31.754518718Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "37F64FBF39ABA046E1649A3CCFF31A65ABA8150E",
-      "name": "wrong-vacuum",
+      "address": "E0027849E467745B39FAB8931A9B3316C7F08F84",
+      "name": "short-chimney",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "D9Rel4HrjdwMKEcdyJHowe9Nszta2Dt4vW9iKMjOarY="
+        "value": "LNBPqbiv4TNAoI4EPjGLO4wjkLuSAOtz91V4u5GUvXE="
       }
     }
   ]
