@@ -11,8 +11,7 @@
             "contract_address": "0x70d8e8f69A1AB5b36260aB98Bc0460bD0f178F1a"
           }
         },
-        "symbol": "VEGA",
-        "total_supply": "64999723000000000000000000"
+        "symbol": "VEGA"
       }
     },
     "network": {
@@ -74,6 +73,7 @@
       "governance.proposal.updateNetParam.requiredMajority": "0.66",
       "governance.proposal.updateNetParam.requiredParticipation": "0.25",
       "limits.assets.proposeEnabledFrom": "2100-12-30T00:00:00Z",
+      "limits.markets.maxPeggedOrders": "1500",
       "limits.markets.proposeEnabledFrom": "2100-12-30T00:00:00Z",
       "market.auction.maximumDuration": "168h",
       "market.auction.minimumDuration": "30s",
@@ -84,24 +84,21 @@
       "market.liquidity.minimum.probabilityOfTrading.lpOrders": "0.000001",
       "market.liquidity.probabilityOfTrading.tau.scaling": "10.0",
       "market.liquidity.providers.fee.distributionTimeStep": "0",
-      "market.liquidity.stakeToCcySiskas": "0.5",
+      "market.liquidity.stakeToCcyVolume": "1",
       "market.liquidity.targetstake.triggering.ratio": "0.25",
       "market.liquidityProvision.minLpStakeQuantumMultiple": "10000",
       "market.liquidityProvision.shapes.maxSize": "5",
       "market.margin.scalingFactors": "{\"search_level\": 1.1, \"initial_margin\": 1.5, \"collateral_release\": 1.7}",
       "market.monitor.price.defaultParameters": "{\"triggers\": [{\"auction_extension\": 300, \"horizon\": 43200, \"probability\": \"0.9999999\"}] }",
-      "market.monitor.price.updateFrequency": "1s",
       "market.stake.target.scalingFactor": "0.05",
       "market.stake.target.timeWindow": "1h",
       "market.value.windowLength": "168h",
-      "network.checkpoint.marketFreezeDate": "2021-12-30T00:00:00Z",
-      "network.checkpoint.networkEndOfLifeDate": "2021-12-31T23:59:00Z",
       "network.checkpoint.timeElapsedBetweenCheckpoints": "5m",
       "network.floatingPointUpdates.delay": "5m",
       "network.markPriceUpdateMaximumFrequency": "5s",
       "network.transaction.defaultgas": "1",
       "network.transactions.maxgasperblock": "1000000",
-      "network.transactions.minBlockCapacity": "32s",
+      "network.transactions.minBlockCapacity": "32",
       "network.validators.ersatz.multipleOfTendermintValidators": "0",
       "network.validators.ersatz.rewardFactor": "0.5",
       "network.validators.incumbentBonus": "1",
@@ -135,6 +132,7 @@
       "spam.protection.voting.min.tokens": "1000000000000000000",
       "transfer.fee.factor": "0.001",
       "transfer.minTransferQuantumMultiple": "0.1",
+      "validator.performance.scaling.factor": "0",
       "validators.delegation.minAmount": "100000000000000000",
       "validators.epoch.length": "30m",
       "validators.vote.required": "0.67"
@@ -286,7 +284,7 @@
       }
     }
   },
-  "chain_id": "vega-mainnet-mirror-202301061336",
+  "chain_id": "vega-mainnet-mirror-202301061510",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -305,7 +303,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-06T12:36:24.176854Z",
+  "genesis_time": "2023-01-06T14:10:51.279209Z",
   "initial_height": "0",
   "validators": [
     {
