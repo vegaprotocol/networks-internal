@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "LNBPqbiv4TNAoI4EPjGLO4wjkLuSAOtz91V4u5GUvXE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/j7e8r8rp3tljmhtjhyqwzm8ryfs7vvsm?d=identicon",
-        "country": "JN",
-        "ethereum_address": "0xa6c65a40E027E0F6134623F043D63A6231600B2E",
-        "id": "bd31b52aa6091cf76c994145a654921b3fd955d0f610dd4751833aac47875bca",
-        "info_url": "https://en.wikipedia.org/wiki/Potter%27s_field",
-        "name": "short-chimney",
-        "tm_pub_key": "LNBPqbiv4TNAoI4EPjGLO4wjkLuSAOtz91V4u5GUvXE=",
-        "vega_pub_key": "81304448eaaa355ba7c128d3b8e559dfce797be32ba0f3a12c92a069dbe69d15",
+      "UhIbHWirU8q5q1C3pG00XzjTY05KtCyi5Y+MiVkhld0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/usxa07dfx2tym6ec3wtednewpxamr1jy?d=identicon",
+        "country": "CN",
+        "ethereum_address": "0x1462793017652c6129702b80F029623b12561D60",
+        "id": "7a60ef683b450b26a56410c4630c55bab8f61d3281af8d9be79919e519f42a6a",
+        "info_url": "https://en.wikipedia.org/wiki/Bryanston_East,_Gauteng",
+        "name": "hallowed-day",
+        "tm_pub_key": "UhIbHWirU8q5q1C3pG00XzjTY05KtCyi5Y+MiVkhld0=",
+        "vega_pub_key": "56ddff4d8ebb5f13852f289800853870f656bad99296c4bdcf6de39eb6d06b8d",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301061803",
+  "chain_id": "vega-devnet1-202301062044",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-06T18:03:31.754518718Z",
+  "genesis_time": "2023-01-06T20:44:32.150284673Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "E0027849E467745B39FAB8931A9B3316C7F08F84",
-      "name": "short-chimney",
+      "address": "DE3B26C093DDFCF037BA738E1055BFCB33407279",
+      "name": "hallowed-day",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "LNBPqbiv4TNAoI4EPjGLO4wjkLuSAOtz91V4u5GUvXE="
+        "value": "UhIbHWirU8q5q1C3pG00XzjTY05KtCyi5Y+MiVkhld0="
       }
     }
   ]
