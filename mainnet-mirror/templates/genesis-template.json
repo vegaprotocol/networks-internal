@@ -113,7 +113,6 @@
             "market.stake.target.timeWindow": "1h",
             "market.value.windowLength": "168h",
             "network.checkpoint.marketFreezeDate": "2021-12-30T00:00:00Z",
-            "network.checkpoint.networkEndOfLifeDate": "2021-12-31T23:59:00Z",
             "network.checkpoint.timeElapsedBetweenCheckpoints": "5m",
             "network.floatingPointUpdates.delay": "5m",
             "network.markPriceUpdateMaximumFrequency": "5s",
