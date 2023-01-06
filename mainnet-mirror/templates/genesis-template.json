@@ -103,7 +103,6 @@
             "market.liquidity.minimum.probabilityOfTrading.lpOrders": "0.000001",
             "market.liquidity.probabilityOfTrading.tau.scaling": "10.0",
             "market.liquidity.providers.fee.distributionTimeStep": "0",
-            "market.liquidity.stakeToCcySiskas": "0.5",
             "market.liquidity.targetstake.triggering.ratio": "0.25",
             "market.liquidityProvision.minLpStakeQuantumMultiple": "10000",
             "market.liquidityProvision.shapes.maxSize": "5",
