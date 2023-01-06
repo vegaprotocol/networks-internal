@@ -268,17 +268,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "1gVdv1l1fe/ligVek0ekBYdJuXolusN13IempZ+w9uU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/eg72dkro9olyg3tbcaueudcpiwq9xpp6?d=identicon",
-        "country": "HR",
-        "ethereum_address": "0xBDcc32D8067d261Cd4d05d6B95D0A7B2d3da9640",
-        "id": "37709a13eef99eb31256c02283a250963223c9f170d1145d6730f83166b73a8a",
-        "info_url": "https://en.wikipedia.org/wiki/1636_in_England",
-        "name": "dizzy-pizza",
-        "tm_pub_key": "1gVdv1l1fe/ligVek0ekBYdJuXolusN13IempZ+w9uU=",
-        "vega_pub_key": "a2990b70d06136caf6c6b69c899b06214dd917d9673e16e10cf4469fbdd3c057",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -312,6 +301,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "PSBR+Vo4bEqQBs7eHZFWiM3L1ekJqAJMFuVZYrWPoWw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/l28lqs3y7hccd7bak4ts8xnc7ccq7trn?d=identicon",
+        "country": "SB",
+        "ethereum_address": "0x269F7f40AA3e045B44013E07E8447CFdffC5E947",
+        "id": "8f58751b359c9927119b2894029a2606e98ab131d20f05475481def2a6cdd712",
+        "info_url": "https://en.wikipedia.org/wiki/Just_Like_Old_Times",
+        "name": "inexpensive-bird",
+        "tm_pub_key": "PSBR+Vo4bEqQBs7eHZFWiM3L1ekJqAJMFuVZYrWPoWw=",
+        "vega_pub_key": "54acc4baec703c66796b01f7bd050596fa23b8be262f04a9ca36be4cd80ccd17",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301061242",
+  "chain_id": "vega-devnet1-202301061425",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-06T12:42:17.844817905Z",
+  "genesis_time": "2023-01-06T14:25:44.206436352Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "6F9F451677FBB07BF57F14A2FAFE580B231F34CA",
-      "name": "dizzy-pizza",
+      "address": "4244D90CC3E57843433B50CFDD3904A8E8BDBA85",
+      "name": "inexpensive-bird",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "1gVdv1l1fe/ligVek0ekBYdJuXolusN13IempZ+w9uU="
+        "value": "PSBR+Vo4bEqQBs7eHZFWiM3L1ekJqAJMFuVZYrWPoWw="
       }
     }
   ]
