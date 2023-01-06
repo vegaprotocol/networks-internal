@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "TrVJE6i9AlmzIASwV2+MrC3yseTpLhxOjMOXwmNfda8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/pzdu1ehbrhgxqgydug5b7rh7elcp1juo?d=identicon",
-        "country": "NA",
-        "ethereum_address": "0xcCDaDDe47b17Fa4526D8272BCD0FcA451D18ae31",
-        "id": "37017f746c72a796dd9e0d84d04053a462801ebd58aa7c1d78f5b9060a673deb",
-        "info_url": "https://en.wikipedia.org/wiki/Bor%C3%B3w,_%C5%81owicz_County",
-        "name": "extensive-park",
-        "tm_pub_key": "TrVJE6i9AlmzIASwV2+MrC3yseTpLhxOjMOXwmNfda8=",
-        "vega_pub_key": "f99736d15a41a3aa4443b6da4cf2af8f8f276fe35bf7586136a25c0ede9be036",
+      "qFS6UlCELYTao9JyJt1cBQqL0vXuJgvoHEmWrBn0lBA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/l9mzby6x3gk26rd6jqsyx90zs3jhegb5?d=identicon",
+        "country": "TJ",
+        "ethereum_address": "0xCF4b30b710A1fAB041eC6A6Cf01118F16C2c1486",
+        "id": "47be4c85f4c415d34ad02e492ba06e57c9ce0b7976218696599da7bd5d9319cd",
+        "info_url": "https://en.wikipedia.org/wiki/Qadirabad,_Siddharthnagar_district",
+        "name": "tense-tree",
+        "tm_pub_key": "qFS6UlCELYTao9JyJt1cBQqL0vXuJgvoHEmWrBn0lBA=",
+        "vega_pub_key": "6321e2069d05686ca0731e0683d8680fa8e468d47c957a19803afd61b5ec7b82",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301051937",
+  "chain_id": "vega-devnet1-202301061051",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-05T19:37:43.621242974Z",
+  "genesis_time": "2023-01-06T10:51:16.185037054Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "0ED4DCD7119E1A9135771AB8AA12B7E58D73763F",
-      "name": "extensive-park",
+      "address": "29146B777EF892DC978D86F37D41CCDAAB9C089D",
+      "name": "tense-tree",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "TrVJE6i9AlmzIASwV2+MrC3yseTpLhxOjMOXwmNfda8="
+        "value": "qFS6UlCELYTao9JyJt1cBQqL0vXuJgvoHEmWrBn0lBA="
       }
     }
   ]
