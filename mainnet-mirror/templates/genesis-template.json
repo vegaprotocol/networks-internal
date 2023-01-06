@@ -156,7 +156,10 @@
             "transfer.minTransferQuantumMultiple": "0.1",
             "validators.delegation.minAmount": "100000000000000000",
             "validators.epoch.length": "30m",
-            "validators.vote.required": "0.67"
+            "validators.vote.required": "0.67",
+            "limits.markets.maxPeggedOrders": "1500",
+            "validator.performance.scaling.factor": "0",
+            "market.liquidity.stakeToCcyVolume": "1"
 
         },
         "network_parameters_checkpoint_overwrite": [
