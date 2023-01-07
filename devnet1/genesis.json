@@ -268,17 +268,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "+EGOeISrrSxzSB4m2WjRapPSw+njiztQR1tDS1KvIzk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/z42a12h0umf63ombq1a0xphm9796gy47?d=identicon",
-        "country": "WU",
-        "ethereum_address": "0xCF5dc16eA0d6F396AE090675256De5D9424fe90D",
-        "id": "583042712aeb39d455bf024f663f6a12a5625aae5da1bd7c2a5fe394e7641d31",
-        "info_url": "https://en.wikipedia.org/wiki/Government_of_Manouchehr_Eghbal",
-        "name": "bored-flowers",
-        "tm_pub_key": "+EGOeISrrSxzSB4m2WjRapPSw+njiztQR1tDS1KvIzk=",
-        "vega_pub_key": "40f0868958b354331b87e16565e7264a09368d766463187f780f9ee1028d14ca",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -312,6 +301,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "ZI0igHc+R6mH5eNsL4vYlfT5t6tiLVVv/sUydq0nyvg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/29pzrf1440w1vc6glainf7tjasn21yb0?d=identicon",
+        "country": "UL",
+        "ethereum_address": "0xE4D2727900724b9A7DA01F3e3Df93a3e777bE755",
+        "id": "c733daa5341535e36daa037292f8697007d873801bfcf89e86f9bf1438125079",
+        "info_url": "https://en.wikipedia.org/wiki/Rinchen_Chok_of_Ma",
+        "name": "lovely-farmer",
+        "tm_pub_key": "ZI0igHc+R6mH5eNsL4vYlfT5t6tiLVVv/sUydq0nyvg=",
+        "vega_pub_key": "a1fbf7c566a196e140dadd051081177bcac836ee111e74673db544596cbe08fd",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301071032",
+  "chain_id": "vega-devnet1-202301071059",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-07T10:32:56.897148542Z",
+  "genesis_time": "2023-01-07T10:59:39.173851849Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "E5D0AB8A356164628208FB48FF69494427E5926E",
-      "name": "bored-flowers",
+      "address": "4A54D8E8571D891BC8FAEDA52CF01472C6315CC4",
+      "name": "lovely-farmer",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "+EGOeISrrSxzSB4m2WjRapPSw+njiztQR1tDS1KvIzk="
+        "value": "ZI0igHc+R6mH5eNsL4vYlfT5t6tiLVVv/sUydq0nyvg="
       }
     }
   ]
