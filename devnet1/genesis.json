@@ -268,6 +268,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "+EGOeISrrSxzSB4m2WjRapPSw+njiztQR1tDS1KvIzk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/z42a12h0umf63ombq1a0xphm9796gy47?d=identicon",
+        "country": "WU",
+        "ethereum_address": "0xCF5dc16eA0d6F396AE090675256De5D9424fe90D",
+        "id": "583042712aeb39d455bf024f663f6a12a5625aae5da1bd7c2a5fe394e7641d31",
+        "info_url": "https://en.wikipedia.org/wiki/Government_of_Manouchehr_Eghbal",
+        "name": "bored-flowers",
+        "tm_pub_key": "+EGOeISrrSxzSB4m2WjRapPSw+njiztQR1tDS1KvIzk=",
+        "vega_pub_key": "40f0868958b354331b87e16565e7264a09368d766463187f780f9ee1028d14ca",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -301,17 +312,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "UhIbHWirU8q5q1C3pG00XzjTY05KtCyi5Y+MiVkhld0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/usxa07dfx2tym6ec3wtednewpxamr1jy?d=identicon",
-        "country": "CN",
-        "ethereum_address": "0x1462793017652c6129702b80F029623b12561D60",
-        "id": "7a60ef683b450b26a56410c4630c55bab8f61d3281af8d9be79919e519f42a6a",
-        "info_url": "https://en.wikipedia.org/wiki/Bryanston_East,_Gauteng",
-        "name": "hallowed-day",
-        "tm_pub_key": "UhIbHWirU8q5q1C3pG00XzjTY05KtCyi5Y+MiVkhld0=",
-        "vega_pub_key": "56ddff4d8ebb5f13852f289800853870f656bad99296c4bdcf6de39eb6d06b8d",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301062044",
+  "chain_id": "vega-devnet1-202301071032",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-06T20:44:32.150284673Z",
+  "genesis_time": "2023-01-07T10:32:56.897148542Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "DE3B26C093DDFCF037BA738E1055BFCB33407279",
-      "name": "hallowed-day",
+      "address": "E5D0AB8A356164628208FB48FF69494427E5926E",
+      "name": "bored-flowers",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "UhIbHWirU8q5q1C3pG00XzjTY05KtCyi5Y+MiVkhld0="
+        "value": "+EGOeISrrSxzSB4m2WjRapPSw+njiztQR1tDS1KvIzk="
       }
     }
   ]
