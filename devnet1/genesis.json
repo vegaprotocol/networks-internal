@@ -301,17 +301,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "m9hcq3o5GiArW8YhkbJJrFCL+O+3HThUhnMeGiIA+ys=": {
-        "avatar_url": "https://www.gravatar.com/avatar/3lx7ut2pflrbobzdosfq3l536tzymalr?d=identicon",
-        "country": "IZ",
-        "ethereum_address": "0x7233187C30D90386A676961b2c59c76F04419547",
-        "id": "fb378b56f586d4d0e0b9a51a72f73dbcd1888ce360ef44272ec0802a39cebd2d",
-        "info_url": "https://en.wikipedia.org/wiki/Bernarda_Seitz",
-        "name": "icy-sheep",
-        "tm_pub_key": "m9hcq3o5GiArW8YhkbJJrFCL+O+3HThUhnMeGiIA+ys=",
-        "vega_pub_key": "7abdfbe68ef0db99ebcb1513fcbb386e20df7b4136dfcb2e1e3059b971ad0a14",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -322,10 +311,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "uLjHh2P2c09BarVt5zWX6XaB+A8v6l4LTBuBMBj3PtU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/6xh7j1v0nhh7e6ehb9lz4frd7k2i6dwo?d=identicon",
+        "country": "IE",
+        "ethereum_address": "0x0DB0df90a01690f3d1aEe5a7113d0a4644c030CC",
+        "id": "a981149891ede8395e707ba0199dd2668e581e2edd239d431c95f0d39dfd747f",
+        "info_url": "https://en.wikipedia.org/wiki/Example.com",
+        "name": "faint-day",
+        "tm_pub_key": "uLjHh2P2c09BarVt5zWX6XaB+A8v6l4LTBuBMBj3PtU=",
+        "vega_pub_key": "e7a57c312febbb35d97c3667b29f11d24398efdfa7868bf7a067f6a887fc0256",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202301091611",
+  "chain_id": "vega-devnet1-202301091800",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-09T16:11:43.59381259Z",
+  "genesis_time": "2023-01-09T18:00:36.670099063Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "8E28E3AE9D8585B97790E1A7C6CA7B3AFADDA8D4",
-      "name": "icy-sheep",
+      "address": "A7D0C9139C0A8425C757616728621F0D569CDE43",
+      "name": "faint-day",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "m9hcq3o5GiArW8YhkbJJrFCL+O+3HThUhnMeGiIA+ys="
+        "value": "uLjHh2P2c09BarVt5zWX6XaB+A8v6l4LTBuBMBj3PtU="
       }
     }
   ]
