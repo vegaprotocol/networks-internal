@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "owiWHamQvetvCyZFnqBn75qUHvXjuOxPQeGObM66djQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/vnz7q129isgxw6j8hwiqnmdrf4n5f7uw?d=identicon",
-        "country": "AJ",
-        "ethereum_address": "0x0Fb2a49bB27C8b966739A1A1f09d534eed49898c",
-        "id": "4d7380c634b674407574c091a55b1138cc571d33c81250e897d69c10f60303ee",
-        "info_url": "https://en.wikipedia.org/wiki/Burnside_Project",
-        "name": "fuzzy-biscuit",
-        "tm_pub_key": "owiWHamQvetvCyZFnqBn75qUHvXjuOxPQeGObM66djQ=",
-        "vega_pub_key": "6c3e4a90bd6d8addf0aef762ad919ca9ecfb67adbf7448d400df07aa4ae0427b",
+      "m9hcq3o5GiArW8YhkbJJrFCL+O+3HThUhnMeGiIA+ys=": {
+        "avatar_url": "https://www.gravatar.com/avatar/3lx7ut2pflrbobzdosfq3l536tzymalr?d=identicon",
+        "country": "IZ",
+        "ethereum_address": "0x7233187C30D90386A676961b2c59c76F04419547",
+        "id": "fb378b56f586d4d0e0b9a51a72f73dbcd1888ce360ef44272ec0802a39cebd2d",
+        "info_url": "https://en.wikipedia.org/wiki/Bernarda_Seitz",
+        "name": "icy-sheep",
+        "tm_pub_key": "m9hcq3o5GiArW8YhkbJJrFCL+O+3HThUhnMeGiIA+ys=",
+        "vega_pub_key": "7abdfbe68ef0db99ebcb1513fcbb386e20df7b4136dfcb2e1e3059b971ad0a14",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301091525",
+  "chain_id": "vega-devnet1-202301091611",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-09T15:25:43.042122161Z",
+  "genesis_time": "2023-01-09T16:11:43.59381259Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "B82DBCC43F6043A7DB278BFE6AF1BD04CF70EA9C",
-      "name": "fuzzy-biscuit",
+      "address": "8E28E3AE9D8585B97790E1A7C6CA7B3AFADDA8D4",
+      "name": "icy-sheep",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "owiWHamQvetvCyZFnqBn75qUHvXjuOxPQeGObM66djQ="
+        "value": "m9hcq3o5GiArW8YhkbJJrFCL+O+3HThUhnMeGiIA+ys="
       }
     }
   ]
