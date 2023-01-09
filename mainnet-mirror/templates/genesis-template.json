@@ -149,7 +149,7 @@
             "spam.protection.proposal.min.tokens": "2000000000000000000000",
             "spam.protection.voting.min.tokens": "1000000000000000000",
             "transfer.fee.factor": "0.001",
-            "transfer.minTransferQuantumMultiple": "0.1",
+            "transfer.minTransferQuantumMultiple": "100",
             "validators.delegation.minAmount": "100000000000000000",
             "validators.epoch.length": "30m",
             "validators.vote.required": "0.67",
