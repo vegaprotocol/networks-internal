@@ -301,17 +301,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "ZI0igHc+R6mH5eNsL4vYlfT5t6tiLVVv/sUydq0nyvg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/29pzrf1440w1vc6glainf7tjasn21yb0?d=identicon",
-        "country": "UL",
-        "ethereum_address": "0xE4D2727900724b9A7DA01F3e3Df93a3e777bE755",
-        "id": "c733daa5341535e36daa037292f8697007d873801bfcf89e86f9bf1438125079",
-        "info_url": "https://en.wikipedia.org/wiki/Rinchen_Chok_of_Ma",
-        "name": "lovely-farmer",
-        "tm_pub_key": "ZI0igHc+R6mH5eNsL4vYlfT5t6tiLVVv/sUydq0nyvg=",
-        "vega_pub_key": "a1fbf7c566a196e140dadd051081177bcac836ee111e74673db544596cbe08fd",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -322,10 +311,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "zw+wn9D8LcYA97M4xPC3bKFSqMWGz/9p3hBWP5GuxaU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/pp2hxlza9mok3kupnq82d6euv1e60uxp?d=identicon",
+        "country": "SU",
+        "ethereum_address": "0x6e544e5C43373D2827C34cC850a7DFab84a5803e",
+        "id": "57952b3b130b090ef27791e7edb6622ba07ac2f60ed1af2f89a6911f2fa2a4e6",
+        "info_url": "https://en.wikipedia.org/wiki/Yuriko",
+        "name": "fresh-roof",
+        "tm_pub_key": "zw+wn9D8LcYA97M4xPC3bKFSqMWGz/9p3hBWP5GuxaU=",
+        "vega_pub_key": "dd69dac504913ee4d154486dec7c08c64dd1868cd72a74ac92d8236daf9c23c6",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202301071059",
+  "chain_id": "vega-devnet1-202301091008",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-07T10:59:39.173851849Z",
+  "genesis_time": "2023-01-09T10:08:26.120710912Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "4A54D8E8571D891BC8FAEDA52CF01472C6315CC4",
-      "name": "lovely-farmer",
+      "address": "AB178C5F569A83C4EB4DCE2CCDBE07B1AA2B7623",
+      "name": "fresh-roof",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ZI0igHc+R6mH5eNsL4vYlfT5t6tiLVVv/sUydq0nyvg="
+        "value": "zw+wn9D8LcYA97M4xPC3bKFSqMWGz/9p3hBWP5GuxaU="
       }
     }
   ]
