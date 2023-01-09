@@ -284,7 +284,7 @@
       }
     }
   },
-  "chain_id": "vega-mainnet-mirror-202301061510",
+  "chain_id": "vega-mainnet-mirror-202301091220",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -303,7 +303,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-06T14:10:51.279209Z",
+  "genesis_time": "2023-01-09T11:20:22.514391815Z",
   "initial_height": "0",
   "validators": [
     {
