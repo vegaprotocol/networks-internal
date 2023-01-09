@@ -290,17 +290,6 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
-      "Iyz7kbFiohT4eejfqOJaG5XTHvmLadkWzNSmHbBhBPw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/q29bzqzbhp7jt7clfpclm6yi2o3f52vz?d=identicon",
-        "country": "FS",
-        "ethereum_address": "0x276EB798090021d909f991A62E94A05AE0215f28",
-        "id": "240e8749f998849e6154d916bbd5487fcf968ac82f44a5f90047a1e7c51116ec",
-        "info_url": "https://en.wikipedia.org/wiki/Kichatna_Mountains",
-        "name": "mango-vacuum",
-        "tm_pub_key": "Iyz7kbFiohT4eejfqOJaG5XTHvmLadkWzNSmHbBhBPw=",
-        "vega_pub_key": "af619f5197bb81171352c0d4a6069d0a58785652621dd81675156541cb6c0452",
-        "vega_pub_key_index": 1
-      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -310,6 +299,17 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
+        "vega_pub_key_index": 1
+      },
+      "owiWHamQvetvCyZFnqBn75qUHvXjuOxPQeGObM66djQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/vnz7q129isgxw6j8hwiqnmdrf4n5f7uw?d=identicon",
+        "country": "AJ",
+        "ethereum_address": "0x0Fb2a49bB27C8b966739A1A1f09d534eed49898c",
+        "id": "4d7380c634b674407574c091a55b1138cc571d33c81250e897d69c10f60303ee",
+        "info_url": "https://en.wikipedia.org/wiki/Burnside_Project",
+        "name": "fuzzy-biscuit",
+        "tm_pub_key": "owiWHamQvetvCyZFnqBn75qUHvXjuOxPQeGObM66djQ=",
+        "vega_pub_key": "6c3e4a90bd6d8addf0aef762ad919ca9ecfb67adbf7448d400df07aa4ae0427b",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301091205",
+  "chain_id": "vega-devnet1-202301091459",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-09T12:05:30.644472268Z",
+  "genesis_time": "2023-01-09T14:59:06.836651568Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "C6D6E0B9D7B3372FA7DA0834728670DE84394C15",
-      "name": "mango-vacuum",
+      "address": "B82DBCC43F6043A7DB278BFE6AF1BD04CF70EA9C",
+      "name": "fuzzy-biscuit",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Iyz7kbFiohT4eejfqOJaG5XTHvmLadkWzNSmHbBhBPw="
+        "value": "owiWHamQvetvCyZFnqBn75qUHvXjuOxPQeGObM66djQ="
       }
     }
   ]
