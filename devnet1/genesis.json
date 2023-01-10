@@ -301,17 +301,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "LaFjjqCKNBCnsnaYq/3vR7rtxQfFzWzDIA5fC3hC62E=": {
-        "avatar_url": "https://www.gravatar.com/avatar/f82jr5kw4s2knrvm3saq34j1sh6n3z3o?d=identicon",
-        "country": "TH",
-        "ethereum_address": "0xD15f65613A7C789Ecb343E83A0331365aa4729dB",
-        "id": "5da7ff56e7f0107f8b55a1582a5344a940ac2be7b0d3367d4a2ffba4984db3cc",
-        "info_url": "https://en.wikipedia.org/wiki/Robert_Chideka",
-        "name": "alert-hat",
-        "tm_pub_key": "LaFjjqCKNBCnsnaYq/3vR7rtxQfFzWzDIA5fC3hC62E=",
-        "vega_pub_key": "4fc6ec4bc79dd45437ec29d5104657a07c20afe13bb41c5577d9e3191dc6df38",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -322,10 +311,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "u9o+Jads8K8cwAwBNiildAmNOrglelVIBqcmNTQz88s=": {
+        "avatar_url": "https://www.gravatar.com/avatar/921z2ktcd0jkcllfjy4afh2p78glgr7k?d=identicon",
+        "country": "YM",
+        "ethereum_address": "0x8e57a08E79f78c4e475491EFff8ABc2700760b02",
+        "id": "723fd2dc335d72bc0b11d37960ed9b93bd337988fbb23271c0ecb45866d6c7c7",
+        "info_url": "https://en.wikipedia.org/wiki/Museum_of_the_Center_for_the_Acropolis_Studies",
+        "name": "alert-town",
+        "tm_pub_key": "u9o+Jads8K8cwAwBNiildAmNOrglelVIBqcmNTQz88s=",
+        "vega_pub_key": "ebbe11a4c798123ec8442f9e9eeabd51f7d3bb7ee1a5f1dee6f2f5cc5ffed87d",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202301101538",
+  "chain_id": "vega-devnet1-202301101640",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-10T15:38:36.752355045Z",
+  "genesis_time": "2023-01-10T16:40:49.743290117Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "C83E890C0A734FDF97A356F4684238DA27DF7625",
-      "name": "alert-hat",
+      "address": "85ABDA8F1053D9F9D1DA2AC18C4C10EB36600096",
+      "name": "alert-town",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "LaFjjqCKNBCnsnaYq/3vR7rtxQfFzWzDIA5fC3hC62E="
+        "value": "u9o+Jads8K8cwAwBNiildAmNOrglelVIBqcmNTQz88s="
       }
     }
   ]
