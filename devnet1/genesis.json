@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "iW9lkZqcMY3TGPNC/Lj+HrkiPJRpWldZAxD0SzEkoyE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/pgtga1jmgp21lmkib6zuem7bbv5ynw8y?d=identicon",
-        "country": "OU",
-        "ethereum_address": "0x6668DfC9348BF1151D88B4Ea9b31Bd971e56Be5C",
-        "id": "c2ee36ff1e77dbdcc2358a3046ddbe47c1956b1f08f5caa7734e1ad4a4b3925c",
-        "info_url": "https://en.wikipedia.org/wiki/CBL-FM",
-        "name": "lovely-book",
-        "tm_pub_key": "iW9lkZqcMY3TGPNC/Lj+HrkiPJRpWldZAxD0SzEkoyE=",
-        "vega_pub_key": "fb76a4c745982942627d7598b36c7327583192c8f03f68c4d568fc2bf359e41d",
+      "LaFjjqCKNBCnsnaYq/3vR7rtxQfFzWzDIA5fC3hC62E=": {
+        "avatar_url": "https://www.gravatar.com/avatar/f82jr5kw4s2knrvm3saq34j1sh6n3z3o?d=identicon",
+        "country": "TH",
+        "ethereum_address": "0xD15f65613A7C789Ecb343E83A0331365aa4729dB",
+        "id": "5da7ff56e7f0107f8b55a1582a5344a940ac2be7b0d3367d4a2ffba4984db3cc",
+        "info_url": "https://en.wikipedia.org/wiki/Robert_Chideka",
+        "name": "alert-hat",
+        "tm_pub_key": "LaFjjqCKNBCnsnaYq/3vR7rtxQfFzWzDIA5fC3hC62E=",
+        "vega_pub_key": "4fc6ec4bc79dd45437ec29d5104657a07c20afe13bb41c5577d9e3191dc6df38",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301101059",
+  "chain_id": "vega-devnet1-202301101538",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-10T10:59:46.155302915Z",
+  "genesis_time": "2023-01-10T15:38:36.752355045Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "E3F9301301A3B00B9828DA14AA651B0141AF72A2",
-      "name": "lovely-book",
+      "address": "C83E890C0A734FDF97A356F4684238DA27DF7625",
+      "name": "alert-hat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "iW9lkZqcMY3TGPNC/Lj+HrkiPJRpWldZAxD0SzEkoyE="
+        "value": "LaFjjqCKNBCnsnaYq/3vR7rtxQfFzWzDIA5fC3hC62E="
       }
     }
   ]
