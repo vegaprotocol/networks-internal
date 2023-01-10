@@ -301,6 +301,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "iW9lkZqcMY3TGPNC/Lj+HrkiPJRpWldZAxD0SzEkoyE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/pgtga1jmgp21lmkib6zuem7bbv5ynw8y?d=identicon",
+        "country": "OU",
+        "ethereum_address": "0x6668DfC9348BF1151D88B4Ea9b31Bd971e56Be5C",
+        "id": "c2ee36ff1e77dbdcc2358a3046ddbe47c1956b1f08f5caa7734e1ad4a4b3925c",
+        "info_url": "https://en.wikipedia.org/wiki/CBL-FM",
+        "name": "lovely-book",
+        "tm_pub_key": "iW9lkZqcMY3TGPNC/Lj+HrkiPJRpWldZAxD0SzEkoyE=",
+        "vega_pub_key": "fb76a4c745982942627d7598b36c7327583192c8f03f68c4d568fc2bf359e41d",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -311,21 +322,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "uLjHh2P2c09BarVt5zWX6XaB+A8v6l4LTBuBMBj3PtU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/6xh7j1v0nhh7e6ehb9lz4frd7k2i6dwo?d=identicon",
-        "country": "IE",
-        "ethereum_address": "0x0DB0df90a01690f3d1aEe5a7113d0a4644c030CC",
-        "id": "a981149891ede8395e707ba0199dd2668e581e2edd239d431c95f0d39dfd747f",
-        "info_url": "https://en.wikipedia.org/wiki/Example.com",
-        "name": "faint-day",
-        "tm_pub_key": "uLjHh2P2c09BarVt5zWX6XaB+A8v6l4LTBuBMBj3PtU=",
-        "vega_pub_key": "e7a57c312febbb35d97c3667b29f11d24398efdfa7868bf7a067f6a887fc0256",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202301091834",
+  "chain_id": "vega-devnet1-202301101059",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-09T18:34:11.54823637Z",
+  "genesis_time": "2023-01-10T10:59:46.155302915Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "A7D0C9139C0A8425C757616728621F0D569CDE43",
-      "name": "faint-day",
+      "address": "E3F9301301A3B00B9828DA14AA651B0141AF72A2",
+      "name": "lovely-book",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "uLjHh2P2c09BarVt5zWX6XaB+A8v6l4LTBuBMBj3PtU="
+        "value": "iW9lkZqcMY3TGPNC/Lj+HrkiPJRpWldZAxD0SzEkoyE="
       }
     }
   ]
