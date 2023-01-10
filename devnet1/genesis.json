@@ -290,6 +290,17 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
+      "GHMZEV8lX+SeDDJo5wbXsl/88hMkkY8JPlGOiRbE84I=": {
+        "avatar_url": "https://www.gravatar.com/avatar/hcncihkowmiadp0xtfugnfu75etpo0aa?d=identicon",
+        "country": "JP",
+        "ethereum_address": "0xd65bFF272055EF320c795a68886f320919034B2C",
+        "id": "370bf76eca3d0dfac15e642199bb724cf76340398c191badff02f8fd9f2bc426",
+        "info_url": "https://en.wikipedia.org/wiki/The_Man_Who_(play)",
+        "name": "foolish-hat",
+        "tm_pub_key": "GHMZEV8lX+SeDDJo5wbXsl/88hMkkY8JPlGOiRbE84I=",
+        "vega_pub_key": "93862b4d72d7a5ebedb7ac8066a70a4abb6ca7a9a0f3b1231f3254a6907c7914",
+        "vega_pub_key_index": 1
+      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -299,17 +310,6 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
-        "vega_pub_key_index": 1
-      },
-      "spaPmykEHf+m7/4nV6jwPSFEAQoBVblQVc8JBgQpFog=": {
-        "avatar_url": "https://www.gravatar.com/avatar/4crflmzywcny47ezpyg32mu5r9than9p?d=identicon",
-        "country": "YH",
-        "ethereum_address": "0x2df78513Da50E4042556EeFeCbf067aF6193ac34",
-        "id": "f24065a0820f5968996f8b23489947fe900a574b988f52367dc6ac28b1d618e0",
-        "info_url": "https://en.wikipedia.org/wiki/Nerio_I_Acciaioli",
-        "name": "irate-apple",
-        "tm_pub_key": "spaPmykEHf+m7/4nV6jwPSFEAQoBVblQVc8JBgQpFog=",
-        "vega_pub_key": "2e3ff500b8ab00d427686d2b9a6d6b80396e0bf029bedfeb0970f46ec5bc2513",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301101706",
+  "chain_id": "vega-devnet1-202301101759",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-10T17:06:30.414493275Z",
+  "genesis_time": "2023-01-10T17:59:15.282250776Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "DE266EA577F8B57933FBBCAC3720F1D21122EDF1",
-      "name": "irate-apple",
+      "address": "EBE02C461F9645B6B12236A7824301758A6C46FC",
+      "name": "foolish-hat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "spaPmykEHf+m7/4nV6jwPSFEAQoBVblQVc8JBgQpFog="
+        "value": "GHMZEV8lX+SeDDJo5wbXsl/88hMkkY8JPlGOiRbE84I="
       }
     }
   ]
