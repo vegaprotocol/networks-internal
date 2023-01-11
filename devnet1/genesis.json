@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "Q/E9PAyAMgvTf6MNfH1OKLnkDA7JoWh7k9JaKgNfwZ0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/r4lsvqbbyzgv041kfl220vvp9unw4utf?d=identicon",
-        "country": "YF",
-        "ethereum_address": "0x5c376FfE018C3958ADc6C48da78F227EF807b38D",
-        "id": "c9dca9032b3097f59b1d3a7ab131c0985ba1a7eaf523a5e8f34ea9065304555d",
-        "info_url": "https://en.wikipedia.org/wiki/Miss_South_Africa_2022",
-        "name": "frightened-doctor",
-        "tm_pub_key": "Q/E9PAyAMgvTf6MNfH1OKLnkDA7JoWh7k9JaKgNfwZ0=",
-        "vega_pub_key": "4f50fb0667de0c4f515fef3c2dffd97007c081b9dbec3aef9898f8c42b5b3631",
+      "mGIb0KQWotSN4iTE1ernfJlWVwk2HdWyXyP0ks06aPQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/gcdntkal6iqltnw13epva6sp73x94rxd?d=identicon",
+        "country": "BY",
+        "ethereum_address": "0x73b4B4D2fD7E9c78f459b891cB1990afb0D9c35D",
+        "id": "c6e1cdb436d38ce958e0161b8453147373763836010cb2b5b79b070a619ff11a",
+        "info_url": "https://en.wikipedia.org/wiki/Indian_Heart_Association",
+        "name": "icy-roof",
+        "tm_pub_key": "mGIb0KQWotSN4iTE1ernfJlWVwk2HdWyXyP0ks06aPQ=",
+        "vega_pub_key": "86f0d9521e08dc292b6064b12b94f6156c255c0bd2bb555057ab2c52646ae2a2",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301111600",
+  "chain_id": "vega-devnet1-202301112127",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-11T16:00:11.370621958Z",
+  "genesis_time": "2023-01-11T21:27:30.291112977Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "AA0BF5C1E7A52FA1E4B4C285ADEECC7C37FF5706",
-      "name": "frightened-doctor",
+      "address": "2C4645BE818C596C740C804B8389AE058219EE04",
+      "name": "icy-roof",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Q/E9PAyAMgvTf6MNfH1OKLnkDA7JoWh7k9JaKgNfwZ0="
+        "value": "mGIb0KQWotSN4iTE1ernfJlWVwk2HdWyXyP0ks06aPQ="
       }
     }
   ]
