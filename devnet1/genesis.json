@@ -290,17 +290,6 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
-      "HZvXWGXrwcVuYIBg6t//HYCQqRULl/cWs+TXka3bNJc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/owgtelccjqgece9prge4h8hoc7dqrdci?d=identicon",
-        "country": "EC",
-        "ethereum_address": "0x3cA46D2d1C203Ce232E795fbB28cd3208E9dDb31",
-        "id": "aeaafdb0b199dc1254486ad4ec0c4f753ca2f4aeb1881b18c5583b164f1b0c35",
-        "info_url": "https://en.wikipedia.org/wiki/Prince_Gabriel_of_Thurn_and_Taxis",
-        "name": "helpful-shoe",
-        "tm_pub_key": "HZvXWGXrwcVuYIBg6t//HYCQqRULl/cWs+TXka3bNJc=",
-        "vega_pub_key": "57dd0cb7630f0517ef9f00fd02f38293e085532d24f3db0cdc2d3b5d390cb13a",
-        "vega_pub_key_index": 1
-      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -310,6 +299,17 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
+        "vega_pub_key_index": 1
+      },
+      "Q/E9PAyAMgvTf6MNfH1OKLnkDA7JoWh7k9JaKgNfwZ0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/r4lsvqbbyzgv041kfl220vvp9unw4utf?d=identicon",
+        "country": "YF",
+        "ethereum_address": "0x5c376FfE018C3958ADc6C48da78F227EF807b38D",
+        "id": "c9dca9032b3097f59b1d3a7ab131c0985ba1a7eaf523a5e8f34ea9065304555d",
+        "info_url": "https://en.wikipedia.org/wiki/Miss_South_Africa_2022",
+        "name": "frightened-doctor",
+        "tm_pub_key": "Q/E9PAyAMgvTf6MNfH1OKLnkDA7JoWh7k9JaKgNfwZ0=",
+        "vega_pub_key": "4f50fb0667de0c4f515fef3c2dffd97007c081b9dbec3aef9898f8c42b5b3631",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301111057",
+  "chain_id": "vega-devnet1-202301111600",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-11T10:57:21.598376Z",
+  "genesis_time": "2023-01-11T16:00:11.370621958Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "1ACC76C8380FC91B8006149544F575FDAFA1036C",
-      "name": "helpful-shoe",
+      "address": "AA0BF5C1E7A52FA1E4B4C285ADEECC7C37FF5706",
+      "name": "frightened-doctor",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "HZvXWGXrwcVuYIBg6t//HYCQqRULl/cWs+TXka3bNJc="
+        "value": "Q/E9PAyAMgvTf6MNfH1OKLnkDA7JoWh7k9JaKgNfwZ0="
       }
     }
   ]
