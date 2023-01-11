@@ -268,17 +268,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "1nTDZn/JhjphntwZNwujnzndZ7DPUOfmov1VaYk2KYc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ihx03zllu1yfcrrn6mr2sa363ll8nqjt?d=identicon",
-        "country": "HD",
-        "ethereum_address": "0x4A40214a2355D128B2f3FA96AA62abF56c11554f",
-        "id": "8e909659e3c19cca0f6008d87c6d461d6ac0e29b43d40dd655ae34e7ac401519",
-        "info_url": "https://en.wikipedia.org/wiki/PARC_Universal_Packet",
-        "name": "purring-cookie",
-        "tm_pub_key": "1nTDZn/JhjphntwZNwujnzndZ7DPUOfmov1VaYk2KYc=",
-        "vega_pub_key": "31cb1cd14c98066165992e491f0cfd45071a39ed5f6b0e9277fb8401ba8d5f00",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -299,6 +288,17 @@
         "name": "friendly-barber",
         "tm_pub_key": "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=",
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
+        "vega_pub_key_index": 1
+      },
+      "HZvXWGXrwcVuYIBg6t//HYCQqRULl/cWs+TXka3bNJc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/owgtelccjqgece9prge4h8hoc7dqrdci?d=identicon",
+        "country": "EC",
+        "ethereum_address": "0x3cA46D2d1C203Ce232E795fbB28cd3208E9dDb31",
+        "id": "aeaafdb0b199dc1254486ad4ec0c4f753ca2f4aeb1881b18c5583b164f1b0c35",
+        "info_url": "https://en.wikipedia.org/wiki/Prince_Gabriel_of_Thurn_and_Taxis",
+        "name": "helpful-shoe",
+        "tm_pub_key": "HZvXWGXrwcVuYIBg6t//HYCQqRULl/cWs+TXka3bNJc=",
+        "vega_pub_key": "57dd0cb7630f0517ef9f00fd02f38293e085532d24f3db0cdc2d3b5d390cb13a",
         "vega_pub_key_index": 1
       },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301111029",
+  "chain_id": "vega-devnet1-202301111057",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-11T10:29:07.665103179Z",
+  "genesis_time": "2023-01-11T10:57:21.598376Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "3FE3EFCC0FB3CBBECE2CD8385FD82EC6E6E8FBAA",
-      "name": "purring-cookie",
+      "address": "1ACC76C8380FC91B8006149544F575FDAFA1036C",
+      "name": "helpful-shoe",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "1nTDZn/JhjphntwZNwujnzndZ7DPUOfmov1VaYk2KYc="
+        "value": "HZvXWGXrwcVuYIBg6t//HYCQqRULl/cWs+TXka3bNJc="
       }
     }
   ]
