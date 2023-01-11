@@ -268,6 +268,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "1nTDZn/JhjphntwZNwujnzndZ7DPUOfmov1VaYk2KYc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ihx03zllu1yfcrrn6mr2sa363ll8nqjt?d=identicon",
+        "country": "HD",
+        "ethereum_address": "0x4A40214a2355D128B2f3FA96AA62abF56c11554f",
+        "id": "8e909659e3c19cca0f6008d87c6d461d6ac0e29b43d40dd655ae34e7ac401519",
+        "info_url": "https://en.wikipedia.org/wiki/PARC_Universal_Packet",
+        "name": "purring-cookie",
+        "tm_pub_key": "1nTDZn/JhjphntwZNwujnzndZ7DPUOfmov1VaYk2KYc=",
+        "vega_pub_key": "31cb1cd14c98066165992e491f0cfd45071a39ed5f6b0e9277fb8401ba8d5f00",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -301,17 +312,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "sdS62SIEc3db/oYk7pGllgdNSJjCc8JbCBWSbkqGk8Q=": {
-        "avatar_url": "https://www.gravatar.com/avatar/mw1veis628msqbetx2piwx6fjkfa79tc?d=identicon",
-        "country": "OM",
-        "ethereum_address": "0x0b342C6859f88E51791aBFbfF191EA53b3600AFC",
-        "id": "dd3c2dfcf084b3f84cfd38d3ae138427d2c9f4da8178e4a485ba3408f0ffe4e0",
-        "info_url": "https://en.wikipedia.org/wiki/Pipestela_occidentalis",
-        "name": "unsightly-duck",
-        "tm_pub_key": "sdS62SIEc3db/oYk7pGllgdNSJjCc8JbCBWSbkqGk8Q=",
-        "vega_pub_key": "56eea7ba3529d800475497c74ec102905f52fe066122bcfe8116f963aa095695",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301110927",
+  "chain_id": "vega-devnet1-202301111016",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-11T09:27:40.720474579Z",
+  "genesis_time": "2023-01-11T10:16:34.416023404Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "C8E6EC93EE6FF006ADF3C74AEE58DA89D02C9A37",
-      "name": "unsightly-duck",
+      "address": "3FE3EFCC0FB3CBBECE2CD8385FD82EC6E6E8FBAA",
+      "name": "purring-cookie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "sdS62SIEc3db/oYk7pGllgdNSJjCc8JbCBWSbkqGk8Q="
+        "value": "1nTDZn/JhjphntwZNwujnzndZ7DPUOfmov1VaYk2KYc="
       }
     }
   ]
