@@ -19,3 +19,4 @@ Node documentation page contains all useful informations about the node. You can
 | n04.sandbox.vega.xyz | tm.n04.sandbox.vega.xyz | api.n04.sandbox.vega.xyz | fra1 | s-4vcpu-8gb | do |
 | n05.sandbox.vega.xyz | tm.n05.sandbox.vega.xyz | api.n05.sandbox.vega.xyz | fra1 | s-4vcpu-8gb | do |
 | n06.sandbox.vega.xyz | tm.n06.sandbox.vega.xyz | api.n06.sandbox.vega.xyz | fra1 | s-4vcpu-8gb | do |
+| n07.sandbox.vega.xyz | tm.n07.sandbox.vega.xyz | api.n07.sandbox.vega.xyz | fra1 | s-4vcpu-8gb | do |
