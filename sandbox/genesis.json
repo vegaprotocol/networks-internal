@@ -84,7 +84,7 @@
       "market.liquidity.minimum.probabilityOfTrading.lpOrders": "0.00000001",
       "market.liquidity.probabilityOfTrading.tau.scaling": "10",
       "market.liquidity.providers.fee.distributionTimeStep": "60m",
-      "market.liquidity.stakeToCcySiskas": "1",
+      "market.liquidity.stakeToCcyVolume": "1",
       "market.liquidity.targetstake.triggering.ratio": "0.7",
       "market.liquidityProvision.minLpStakeQuantumMultiple": "1",
       "market.liquidityProvision.shapes.maxSize": "100",
@@ -213,7 +213,7 @@
       }
     }
   },
-  "chain_id": "vega-sandbox-202301121414",
+  "chain_id": "vega-sandbox-202301121434",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -232,7 +232,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-12T14:14:42.859482311Z",
+  "genesis_time": "2023-01-12T14:34:11.607485375Z",
   "initial_height": "0",
   "validators": [
     {
