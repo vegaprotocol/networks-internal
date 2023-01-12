@@ -301,15 +301,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "mGIb0KQWotSN4iTE1ernfJlWVwk2HdWyXyP0ks06aPQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/gcdntkal6iqltnw13epva6sp73x94rxd?d=identicon",
-        "country": "BY",
-        "ethereum_address": "0x73b4B4D2fD7E9c78f459b891cB1990afb0D9c35D",
-        "id": "c6e1cdb436d38ce958e0161b8453147373763836010cb2b5b79b070a619ff11a",
-        "info_url": "https://en.wikipedia.org/wiki/Indian_Heart_Association",
-        "name": "icy-roof",
-        "tm_pub_key": "mGIb0KQWotSN4iTE1ernfJlWVwk2HdWyXyP0ks06aPQ=",
-        "vega_pub_key": "86f0d9521e08dc292b6064b12b94f6156c255c0bd2bb555057ab2c52646ae2a2",
+      "hZMfOPIumJe6xx0Ct1uuy3AZ0ku6uo3dLAY9uxQRy0Y=": {
+        "avatar_url": "https://www.gravatar.com/avatar/kan2ubltxunsm126uthdva3o2fka835t?d=identicon",
+        "country": "TU",
+        "ethereum_address": "0x34b4bC8Aa1064aA27fbEACe0CD0f40040151De72",
+        "id": "5d795204842ee49b732b9635b9aa65db94919844a5cda66ffeccca69a0425fad",
+        "info_url": "https://en.wikipedia.org/wiki/Gorakhnath",
+        "name": "easy-horse",
+        "tm_pub_key": "hZMfOPIumJe6xx0Ct1uuy3AZ0ku6uo3dLAY9uxQRy0Y=",
+        "vega_pub_key": "4ed5afbd68c554fd1d800f83f9774ec6d2d73a0efddb0eafdcfeed54e42ab5d9",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301112127",
+  "chain_id": "vega-devnet1-202301121703",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-11T21:27:30.291112977Z",
+  "genesis_time": "2023-01-12T17:03:36.354687714Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "2C4645BE818C596C740C804B8389AE058219EE04",
-      "name": "icy-roof",
+      "address": "50244EB2C823F4276B11F32FA5D6FC579B6B9932",
+      "name": "easy-horse",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "mGIb0KQWotSN4iTE1ernfJlWVwk2HdWyXyP0ks06aPQ="
+        "value": "hZMfOPIumJe6xx0Ct1uuy3AZ0ku6uo3dLAY9uxQRy0Y="
       }
     }
   ]
