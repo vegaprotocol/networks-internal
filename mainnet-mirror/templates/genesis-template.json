@@ -159,6 +159,21 @@
 
         },
         "network_parameters_checkpoint_overwrite": [
+            "governance.proposal.asset.requiredParticipation",
+            "governance.proposal.market.minProposerBalance",
+            "governance.proposal.market.minVoterBalance",
+            "governance.proposal.updateMarket.minProposerBalance",
+            "governance.proposal.updateMarket.minProposerEquityLikeShare",
+            "governance.proposal.updateMarket.requiredParticipationLP",
+            "governance.proposal.updateNetParam.minProposerBalance",
+            "market.liquidity.minimum.probabilityOfTrading.lpOrders",
+            "market.liquidity.providers.fee.distributionTimeStep",
+            "market.liquidity.targetstake.triggering.ratio",
+            "market.liquidityProvision.minLpStakeQuantumMultiple",
+            "market.liquidityProvision.shapes.maxSize",
+            "market.stake.target.scalingFactor",
+            "reward.staking.delegation.maxPayoutPerEpoch",
+            "transfer.minTransferQuantumMultiple"
         ],
         "network_limits": {
             "propose_market_enabled": true,
