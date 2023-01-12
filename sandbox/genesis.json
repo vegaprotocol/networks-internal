@@ -156,6 +156,17 @@
         "vega_pub_key": "1a94865a473e547c3e284f266af627856680cadf29fb52aecb3bf72ffff447ad",
         "vega_pub_key_index": 1
       },
+      "bc7jtolvneqSoz/j8gZ9kJ6s/sp51leRwP25zUX0wNU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/m8giroe9eyh4ed3tbg6t6p0eeriq1u01?d=identicon",
+        "country": "GM",
+        "ethereum_address": "0x8FB41467115749Bd2B8aB523d83b5c0CFA33Eae9",
+        "id": "e7a18993d251fdcef57eb6f23f2e6fe7f759125e125bea6040ba6ba58c80599f",
+        "info_url": "https://en.wikipedia.org/wiki/William_Lebghil",
+        "name": "ideal-bat",
+        "tm_pub_key": "bc7jtolvneqSoz/j8gZ9kJ6s/sp51leRwP25zUX0wNU=",
+        "vega_pub_key": "dcfe6503e835494e43527100bfbf29b9feaf9e9f07b7b39c380e7f3b2182d41a",
+        "vega_pub_key_index": 1
+      },
       "fgwH0hw8TuHECk9wTds1II4T/AvhL2Eqor1nSNcRyJA=": {
         "avatar_url": "https://www.gravatar.com/avatar/cadirsdr6ntxjvev0uton16y77l6sndm?d=identicon",
         "country": "XP",
@@ -202,7 +213,7 @@
       }
     }
   },
-  "chain_id": "vega-sandbox-202212050124",
+  "chain_id": "vega-sandbox-202301121210",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -221,7 +232,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2022-12-05T01:24:35.821388805Z",
+  "genesis_time": "2023-01-12T12:10:57.668376494Z",
   "initial_height": "0",
   "validators": [
     {
@@ -276,6 +287,15 @@
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
         "value": "rnAecw6ssOvK0hjsSDAKKGRp0MBOeeqICdbn/bDi6ao="
+      }
+    },
+    {
+      "address": "6E5BFDE7191DD6E13394D3AB90490EA188D6B0C4",
+      "name": "ideal-bat",
+      "power": "10",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "bc7jtolvneqSoz/j8gZ9kJ6s/sp51leRwP25zUX0wNU="
       }
     }
   ]
