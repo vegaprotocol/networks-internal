@@ -213,7 +213,7 @@
       }
     }
   },
-  "chain_id": "vega-sandbox-202301121540",
+  "chain_id": "vega-sandbox-202301121554",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -232,7 +232,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-12T15:40:44.49475133Z",
+  "genesis_time": "2023-01-12T15:54:45.123776748Z",
   "initial_height": "0",
   "validators": [
     {
