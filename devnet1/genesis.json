@@ -268,6 +268,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "/6cFOmX/4vO568QFdPGzT82dqUYnlSFyQpoKhf5NsLw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/y145wolxve0tjt6ogrndgtfrs9wkv4wv?d=identicon",
+        "country": "YZ",
+        "ethereum_address": "0x5ee5160223Ad27d8A62BF2ef95Bfd589d06abfe3",
+        "id": "b1f3e9c361c95dfe405c38ae0df1e7e5799d418f0f166dfc78d82920c4d31f90",
+        "info_url": "https://en.wikipedia.org/wiki/Juan_Gualberto_Gonz%C3%A1lez",
+        "name": "exuberant-movie",
+        "tm_pub_key": "/6cFOmX/4vO568QFdPGzT82dqUYnlSFyQpoKhf5NsLw=",
+        "vega_pub_key": "95fc5c68e6210e1c8b1e2e75c0e3b7b33dc40eba35f8c5192b8564ddefcaaaed",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -301,17 +312,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "hZMfOPIumJe6xx0Ct1uuy3AZ0ku6uo3dLAY9uxQRy0Y=": {
-        "avatar_url": "https://www.gravatar.com/avatar/kan2ubltxunsm126uthdva3o2fka835t?d=identicon",
-        "country": "TU",
-        "ethereum_address": "0x34b4bC8Aa1064aA27fbEACe0CD0f40040151De72",
-        "id": "5d795204842ee49b732b9635b9aa65db94919844a5cda66ffeccca69a0425fad",
-        "info_url": "https://en.wikipedia.org/wiki/Gorakhnath",
-        "name": "easy-horse",
-        "tm_pub_key": "hZMfOPIumJe6xx0Ct1uuy3AZ0ku6uo3dLAY9uxQRy0Y=",
-        "vega_pub_key": "4ed5afbd68c554fd1d800f83f9774ec6d2d73a0efddb0eafdcfeed54e42ab5d9",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301131633",
+  "chain_id": "vega-devnet1-202301131658",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-13T16:33:38.432316274Z",
+  "genesis_time": "2023-01-13T16:58:43.595824837Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "50244EB2C823F4276B11F32FA5D6FC579B6B9932",
-      "name": "easy-horse",
+      "address": "F3BF7DB08445FF458EE5FDA6EEA0D663E7EBF75B",
+      "name": "exuberant-movie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "hZMfOPIumJe6xx0Ct1uuy3AZ0ku6uo3dLAY9uxQRy0Y="
+        "value": "/6cFOmX/4vO568QFdPGzT82dqUYnlSFyQpoKhf5NsLw="
       }
     }
   ]
