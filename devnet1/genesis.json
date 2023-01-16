@@ -291,6 +291,17 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
+      "E6ICdIuMqQRah5FJXJ5co7yihJCUKPd9360c5RC6oPo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/5mwu1515n0fnlyvzpo1rhm0csdxgnyu5?d=identicon",
+        "country": "HX",
+        "ethereum_address": "0x5C61A0Bd407c594569eeb11f142BafeE8Bc1ecB1",
+        "id": "a38a2330bed8d0aeacac687dff6083e5356ce9fff68387b09b1832ffb9a70dd9",
+        "info_url": "https://en.wikipedia.org/wiki/W%C3%B6hrden",
+        "name": "icy-wind",
+        "tm_pub_key": "E6ICdIuMqQRah5FJXJ5co7yihJCUKPd9360c5RC6oPo=",
+        "vega_pub_key": "c56d9242773afbedd4007cdc8ef922e00ceefa7b8b9a34f368eb3da4b50dc0ae",
+        "vega_pub_key_index": 1
+      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -300,17 +311,6 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
-        "vega_pub_key_index": 1
-      },
-      "cYTdewHRz8NVusoU86hArnlOn/mC78yTPk+yHlmXkL8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/d847kxfydrmt3h08as8nzv8dz8as3z3q?d=identicon",
-        "country": "BB",
-        "ethereum_address": "0x3BfE602c8c9fd872dAa05013dF7C891f7d18D419",
-        "id": "fe33a96f1e1f08177df186f17ea8c526f389c461e502db54de74f4cff3382c56",
-        "info_url": "https://en.wikipedia.org/wiki/Huang_Xinting",
-        "name": "bored-key",
-        "tm_pub_key": "cYTdewHRz8NVusoU86hArnlOn/mC78yTPk+yHlmXkL8=",
-        "vega_pub_key": "c2248a480de71add8611da076471d7616431cc9cd617731275a9f5d64e7361b0",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301161702",
+  "chain_id": "vega-devnet1-202301162303",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-16T17:02:50.373725731Z",
+  "genesis_time": "2023-01-16T23:03:11.188917145Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "DC6F2E389E22E950449E7343FE8A3C578D6B2A3D",
-      "name": "bored-key",
+      "address": "9C44BC3502D4842D446BC4174A0D12E42FFB7A7B",
+      "name": "icy-wind",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "cYTdewHRz8NVusoU86hArnlOn/mC78yTPk+yHlmXkL8="
+        "value": "E6ICdIuMqQRah5FJXJ5co7yihJCUKPd9360c5RC6oPo="
       }
     }
   ]
