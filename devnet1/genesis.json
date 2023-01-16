@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "piRkCOHkONiAE2q5SZLDoKwLCwiloGXSoZN0oVgbNmw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/160hbsdk8xj5d0jhnngiiia9jnf5b2vd?d=identicon",
-        "country": "GQ",
-        "ethereum_address": "0x6E78F4f70e8d156dDfA6B5938972BDe7ea283711",
-        "id": "edbb95a67b130ef16eb4625119dbeb9d909e25c6f7f399ea871af1208b5eae29",
-        "info_url": "https://en.wikipedia.org/wiki/Heston_model",
-        "name": "agitated-train",
-        "tm_pub_key": "piRkCOHkONiAE2q5SZLDoKwLCwiloGXSoZN0oVgbNmw=",
-        "vega_pub_key": "273d62a8a0f6714566c1fddeb7e8a8c0c4a8b2a85b5319f26365e062c86230f1",
+      "XT5WinjAYGpQhACfX/FkSKVT8B8ng2svWcaZsNI/1R4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/v8ozjaxwkn8jfzcuu4a5z6z5m12ybs59?d=identicon",
+        "country": "NA",
+        "ethereum_address": "0x3A5C429d6ebb86816d9dd5C2aa8eF2efB39cDD19",
+        "id": "028bcedaf31b074499a09761891ce30485261b58acf24d92cab1b64dcb396185",
+        "info_url": "https://en.wikipedia.org/wiki/2001_Goodwill_Games",
+        "name": "powerful-candle",
+        "tm_pub_key": "XT5WinjAYGpQhACfX/FkSKVT8B8ng2svWcaZsNI/1R4=",
+        "vega_pub_key": "0868275626240ecf9b4a0463cc5f50a1d9beb0eaf6cc3e9057aec7cd88e70007",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301161230",
+  "chain_id": "vega-devnet1-202301161320",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-16T12:30:47.603923792Z",
+  "genesis_time": "2023-01-16T13:20:05.515880599Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "C7A0DA15515547E1F95940E1E62C3ABD7A24600A",
-      "name": "agitated-train",
+      "address": "357CF3165A9ABB3FD9E93419368D99728A6EA86D",
+      "name": "powerful-candle",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "piRkCOHkONiAE2q5SZLDoKwLCwiloGXSoZN0oVgbNmw="
+        "value": "XT5WinjAYGpQhACfX/FkSKVT8B8ng2svWcaZsNI/1R4="
       }
     }
   ]
