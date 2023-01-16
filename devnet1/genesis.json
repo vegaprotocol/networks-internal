@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "aJKQOtn0XXdoHSc8VUP99YiXlLi3k0YVJpknHeWLKFI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/f7uj0zm2j37vhgzn03hgku3y4dy3k5zs?d=identicon",
-        "country": "YD",
-        "ethereum_address": "0x472f666821c486f0A191B1058F138f412f321879",
-        "id": "b6d6f7206bc07e8a16b1fe16fbd88e0c7d307e3d0ea2980190d9149e9fef592b",
-        "info_url": "https://en.wikipedia.org/wiki/Bretts_Wharf",
-        "name": "frightened-dress",
-        "tm_pub_key": "aJKQOtn0XXdoHSc8VUP99YiXlLi3k0YVJpknHeWLKFI=",
-        "vega_pub_key": "7d3e21d07281c0df706aa5b197a1e515898eacd3ed348c980f53a24a13181d88",
+      "cYTdewHRz8NVusoU86hArnlOn/mC78yTPk+yHlmXkL8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/d847kxfydrmt3h08as8nzv8dz8as3z3q?d=identicon",
+        "country": "BB",
+        "ethereum_address": "0x3BfE602c8c9fd872dAa05013dF7C891f7d18D419",
+        "id": "fe33a96f1e1f08177df186f17ea8c526f389c461e502db54de74f4cff3382c56",
+        "info_url": "https://en.wikipedia.org/wiki/Huang_Xinting",
+        "name": "bored-key",
+        "tm_pub_key": "cYTdewHRz8NVusoU86hArnlOn/mC78yTPk+yHlmXkL8=",
+        "vega_pub_key": "c2248a480de71add8611da076471d7616431cc9cd617731275a9f5d64e7361b0",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301161418",
+  "chain_id": "vega-devnet1-202301161702",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-16T14:18:51.078210727Z",
+  "genesis_time": "2023-01-16T17:02:50.373725731Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "3BC5AF11869F2C8DDB63D2B74BF49EAE64C8C4C8",
-      "name": "frightened-dress",
+      "address": "DC6F2E389E22E950449E7343FE8A3C578D6B2A3D",
+      "name": "bored-key",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "aJKQOtn0XXdoHSc8VUP99YiXlLi3k0YVJpknHeWLKFI="
+        "value": "cYTdewHRz8NVusoU86hArnlOn/mC78yTPk+yHlmXkL8="
       }
     }
   ]
