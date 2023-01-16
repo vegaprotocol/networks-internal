@@ -268,17 +268,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "/6cFOmX/4vO568QFdPGzT82dqUYnlSFyQpoKhf5NsLw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/y145wolxve0tjt6ogrndgtfrs9wkv4wv?d=identicon",
-        "country": "YZ",
-        "ethereum_address": "0x5ee5160223Ad27d8A62BF2ef95Bfd589d06abfe3",
-        "id": "b1f3e9c361c95dfe405c38ae0df1e7e5799d418f0f166dfc78d82920c4d31f90",
-        "info_url": "https://en.wikipedia.org/wiki/Juan_Gualberto_Gonz%C3%A1lez",
-        "name": "exuberant-movie",
-        "tm_pub_key": "/6cFOmX/4vO568QFdPGzT82dqUYnlSFyQpoKhf5NsLw=",
-        "vega_pub_key": "95fc5c68e6210e1c8b1e2e75c0e3b7b33dc40eba35f8c5192b8564ddefcaaaed",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -312,6 +301,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "piRkCOHkONiAE2q5SZLDoKwLCwiloGXSoZN0oVgbNmw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/160hbsdk8xj5d0jhnngiiia9jnf5b2vd?d=identicon",
+        "country": "GQ",
+        "ethereum_address": "0x6E78F4f70e8d156dDfA6B5938972BDe7ea283711",
+        "id": "edbb95a67b130ef16eb4625119dbeb9d909e25c6f7f399ea871af1208b5eae29",
+        "info_url": "https://en.wikipedia.org/wiki/Heston_model",
+        "name": "agitated-train",
+        "tm_pub_key": "piRkCOHkONiAE2q5SZLDoKwLCwiloGXSoZN0oVgbNmw=",
+        "vega_pub_key": "273d62a8a0f6714566c1fddeb7e8a8c0c4a8b2a85b5319f26365e062c86230f1",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -325,7 +325,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301131730",
+  "chain_id": "vega-devnet1-202301161101",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -344,7 +344,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-13T17:30:13.980250087Z",
+  "genesis_time": "2023-01-16T11:01:47.601200414Z",
   "initial_height": "0",
   "validators": [
     {
@@ -384,12 +384,12 @@
       }
     },
     {
-      "address": "F3BF7DB08445FF458EE5FDA6EEA0D663E7EBF75B",
-      "name": "exuberant-movie",
+      "address": "C7A0DA15515547E1F95940E1E62C3ABD7A24600A",
+      "name": "agitated-train",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "/6cFOmX/4vO568QFdPGzT82dqUYnlSFyQpoKhf5NsLw="
+        "value": "piRkCOHkONiAE2q5SZLDoKwLCwiloGXSoZN0oVgbNmw="
       }
     }
   ]
