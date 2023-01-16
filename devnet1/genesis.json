@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "XT5WinjAYGpQhACfX/FkSKVT8B8ng2svWcaZsNI/1R4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/v8ozjaxwkn8jfzcuu4a5z6z5m12ybs59?d=identicon",
-        "country": "NA",
-        "ethereum_address": "0x3A5C429d6ebb86816d9dd5C2aa8eF2efB39cDD19",
-        "id": "028bcedaf31b074499a09761891ce30485261b58acf24d92cab1b64dcb396185",
-        "info_url": "https://en.wikipedia.org/wiki/2001_Goodwill_Games",
-        "name": "powerful-candle",
-        "tm_pub_key": "XT5WinjAYGpQhACfX/FkSKVT8B8ng2svWcaZsNI/1R4=",
-        "vega_pub_key": "0868275626240ecf9b4a0463cc5f50a1d9beb0eaf6cc3e9057aec7cd88e70007",
+      "aJKQOtn0XXdoHSc8VUP99YiXlLi3k0YVJpknHeWLKFI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/f7uj0zm2j37vhgzn03hgku3y4dy3k5zs?d=identicon",
+        "country": "YD",
+        "ethereum_address": "0x472f666821c486f0A191B1058F138f412f321879",
+        "id": "b6d6f7206bc07e8a16b1fe16fbd88e0c7d307e3d0ea2980190d9149e9fef592b",
+        "info_url": "https://en.wikipedia.org/wiki/Bretts_Wharf",
+        "name": "frightened-dress",
+        "tm_pub_key": "aJKQOtn0XXdoHSc8VUP99YiXlLi3k0YVJpknHeWLKFI=",
+        "vega_pub_key": "7d3e21d07281c0df706aa5b197a1e515898eacd3ed348c980f53a24a13181d88",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301161346",
+  "chain_id": "vega-devnet1-202301161418",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-16T13:46:44.798452144Z",
+  "genesis_time": "2023-01-16T14:18:51.078210727Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "357CF3165A9ABB3FD9E93419368D99728A6EA86D",
-      "name": "powerful-candle",
+      "address": "3BC5AF11869F2C8DDB63D2B74BF49EAE64C8C4C8",
+      "name": "frightened-dress",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "XT5WinjAYGpQhACfX/FkSKVT8B8ng2svWcaZsNI/1R4="
+        "value": "aJKQOtn0XXdoHSc8VUP99YiXlLi3k0YVJpknHeWLKFI="
       }
     }
   ]
