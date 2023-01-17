@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "n4t4WrZihaG7VOb+CA4pp5F/Xsw92tytzU8Vq2ZBQqI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/vf0tbcocjl22abzio5yfr7pgl0vs04b7?d=identicon",
-        "country": "NM",
-        "ethereum_address": "0xE9Ea21D266666e5519feb2edfF8Eb41d937d8bE3",
-        "id": "f5ba89cbcd10195908da9119be956a7b6524a357e4c46a3203a3ccb51adcf715",
-        "info_url": "https://en.wikipedia.org/wiki/Paraguayan_Sign_Language",
-        "name": "wailing-monkey",
-        "tm_pub_key": "n4t4WrZihaG7VOb+CA4pp5F/Xsw92tytzU8Vq2ZBQqI=",
-        "vega_pub_key": "d310a4fb8a19d439edc073d929680c42f67568b11123b3755f2d90cf885cb24c",
+      "LIw2QxTC4p7MAsyE8B6Ev8LXjYckchYBBuGTqC5hJW8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/lasci2pxe6fqwrhidmz1yy092v76daky?d=identicon",
+        "country": "SH",
+        "ethereum_address": "0xEcaC286d0658B2f5BF5a53A6eDE418e3D6a3DB59",
+        "id": "69be32f3bd67f64dbeddd9274b08dbe8af71f35f79662ee55c7eb3eb0f268d45",
+        "info_url": "https://en.wikipedia.org/wiki/An_Gael",
+        "name": "harsh-train",
+        "tm_pub_key": "LIw2QxTC4p7MAsyE8B6Ev8LXjYckchYBBuGTqC5hJW8=",
+        "vega_pub_key": "bea30d5cf1a336dd43f38dabac9d7f93c82e8872ef345083cd36c2609c085d50",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301171411",
+  "chain_id": "vega-devnet1-202301171500",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-17T14:11:17.475588931Z",
+  "genesis_time": "2023-01-17T15:00:48.722182712Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "3B35661E73A379528EDF48284C18A1A23E242291",
-      "name": "wailing-monkey",
+      "address": "88CF36FAF5CC05792AE997BE56B75ED029048603",
+      "name": "harsh-train",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "n4t4WrZihaG7VOb+CA4pp5F/Xsw92tytzU8Vq2ZBQqI="
+        "value": "LIw2QxTC4p7MAsyE8B6Ev8LXjYckchYBBuGTqC5hJW8="
       }
     }
   ]
