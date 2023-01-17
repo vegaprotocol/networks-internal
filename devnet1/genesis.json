@@ -280,6 +280,17 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
+      "CvJxzFKODsRJvpDKDcnC1kidPt2JkgoasgWkeXydDy4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ntrzwsbwf70vdzey4e9skvwog4n8gu3u?d=identicon",
+        "country": "WX",
+        "ethereum_address": "0xCd3415159032D7eb45bfA83417240c362B5eED3D",
+        "id": "064334a7075b06274ff0fe70d7f0af5b06b8bcc9bb4b5cafe7735b0b162fefb8",
+        "info_url": "https://en.wikipedia.org/wiki/Winfred_G._Leutner",
+        "name": "rich-fisherman",
+        "tm_pub_key": "CvJxzFKODsRJvpDKDcnC1kidPt2JkgoasgWkeXydDy4=",
+        "vega_pub_key": "6267ffc4faba153850cc15c80c102819eaedf01736573d82e0c9a5b020e6bdaf",
+        "vega_pub_key_index": 1
+      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -289,17 +300,6 @@
         "name": "friendly-barber",
         "tm_pub_key": "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=",
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
-        "vega_pub_key_index": 1
-      },
-      "E6ICdIuMqQRah5FJXJ5co7yihJCUKPd9360c5RC6oPo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/5mwu1515n0fnlyvzpo1rhm0csdxgnyu5?d=identicon",
-        "country": "HX",
-        "ethereum_address": "0x5C61A0Bd407c594569eeb11f142BafeE8Bc1ecB1",
-        "id": "a38a2330bed8d0aeacac687dff6083e5356ce9fff68387b09b1832ffb9a70dd9",
-        "info_url": "https://en.wikipedia.org/wiki/W%C3%B6hrden",
-        "name": "icy-wind",
-        "tm_pub_key": "E6ICdIuMqQRah5FJXJ5co7yihJCUKPd9360c5RC6oPo=",
-        "vega_pub_key": "c56d9242773afbedd4007cdc8ef922e00ceefa7b8b9a34f368eb3da4b50dc0ae",
         "vega_pub_key_index": 1
       },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301162303",
+  "chain_id": "vega-devnet1-202301171004",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-16T23:03:11.188917145Z",
+  "genesis_time": "2023-01-17T10:04:44.977111694Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "9C44BC3502D4842D446BC4174A0D12E42FFB7A7B",
-      "name": "icy-wind",
+      "address": "16C176B92D576118408EFDED7F9DDC6682CE407A",
+      "name": "rich-fisherman",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "E6ICdIuMqQRah5FJXJ5co7yihJCUKPd9360c5RC6oPo="
+        "value": "CvJxzFKODsRJvpDKDcnC1kidPt2JkgoasgWkeXydDy4="
       }
     }
   ]
