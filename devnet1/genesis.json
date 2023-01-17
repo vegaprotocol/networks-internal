@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "O5CNpg3ukuaBDMR7JXjeBTnNh504ahA5rODMHXJfvRI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/fm6r7lwl1k01y354armayt1s0ry8n5as?d=identicon",
-        "country": "VC",
-        "ethereum_address": "0x0deaCb869f38a2414640A25a438Adb9be145480A",
-        "id": "4a7e68cf8daf2ee98be624e258f0af55bd3d165fd8f7fe8c2157f911ab586e9b",
-        "info_url": "https://en.wikipedia.org/wiki/Allah_maana",
-        "name": "frightened-tile",
-        "tm_pub_key": "O5CNpg3ukuaBDMR7JXjeBTnNh504ahA5rODMHXJfvRI=",
-        "vega_pub_key": "61341634314bb99676954326dcb254a60d63621bd2eb44116d738e88be051176",
+      "n4t4WrZihaG7VOb+CA4pp5F/Xsw92tytzU8Vq2ZBQqI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/vf0tbcocjl22abzio5yfr7pgl0vs04b7?d=identicon",
+        "country": "NM",
+        "ethereum_address": "0xE9Ea21D266666e5519feb2edfF8Eb41d937d8bE3",
+        "id": "f5ba89cbcd10195908da9119be956a7b6524a357e4c46a3203a3ccb51adcf715",
+        "info_url": "https://en.wikipedia.org/wiki/Paraguayan_Sign_Language",
+        "name": "wailing-monkey",
+        "tm_pub_key": "n4t4WrZihaG7VOb+CA4pp5F/Xsw92tytzU8Vq2ZBQqI=",
+        "vega_pub_key": "d310a4fb8a19d439edc073d929680c42f67568b11123b3755f2d90cf885cb24c",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301171145",
+  "chain_id": "vega-devnet1-202301171411",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-17T11:45:18.949513429Z",
+  "genesis_time": "2023-01-17T14:11:17.475588931Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "6FEFACBF3442870E85166479DC84D0A435BE7840",
-      "name": "frightened-tile",
+      "address": "3B35661E73A379528EDF48284C18A1A23E242291",
+      "name": "wailing-monkey",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "O5CNpg3ukuaBDMR7JXjeBTnNh504ahA5rODMHXJfvRI="
+        "value": "n4t4WrZihaG7VOb+CA4pp5F/Xsw92tytzU8Vq2ZBQqI="
       }
     }
   ]
