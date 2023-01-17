@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "Ro5DkmnkW0Du+kDP1ik8nPSTJUNMYm+CMmBemSe8VpQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/pcmr75w7w8n57qv8s3zd5ongiwxr23ec?d=identicon",
-        "country": "WC",
-        "ethereum_address": "0x9b14df403415222b4A59e3eA4091B17D27850a81",
-        "id": "3c6dee178be0c50e950cf2cbdd1232e0ebf346f89a61c8ecc3f727fc7b45d800",
-        "info_url": "https://en.wikipedia.org/wiki/Jayawantrao_Sawant_College_of_Engineering",
-        "name": "fuzzy-table",
-        "tm_pub_key": "Ro5DkmnkW0Du+kDP1ik8nPSTJUNMYm+CMmBemSe8VpQ=",
-        "vega_pub_key": "32bc263ce93333bb0bbbe55edc1d47e2b801408978c050261a458fa5a217c2a1",
+      "L7E1mwToCfx5iyZYXvQln8aw5+040BjGG/zD1u41tDA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/4k3q2gmrme867mfe16yr1qjb8ctzv1ht?d=identicon",
+        "country": "QR",
+        "ethereum_address": "0x99779148d4B0aAe0cddc1bc8d743FD8914908e1b",
+        "id": "17e702b97dcd08a51f44c3f91aeb1a00d5637e24c31888327c2fa0965032f616",
+        "info_url": "https://en.wikipedia.org/wiki/Thomas_Reeve",
+        "name": "promising-building",
+        "tm_pub_key": "L7E1mwToCfx5iyZYXvQln8aw5+040BjGG/zD1u41tDA=",
+        "vega_pub_key": "6519b8baac4298308df3519f59bab3c51a6b385d36ce18e9fcf392937d9735c5",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301171737",
+  "chain_id": "vega-devnet1-202301171815",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-17T17:37:40.122680085Z",
+  "genesis_time": "2023-01-17T18:15:45.920617857Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "F377EC9F660FAD00F9F5F9D3C4753049C8C665C9",
-      "name": "fuzzy-table",
+      "address": "5ED939516FEFA461CD38CD9173236786FD641F3A",
+      "name": "promising-building",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Ro5DkmnkW0Du+kDP1ik8nPSTJUNMYm+CMmBemSe8VpQ="
+        "value": "L7E1mwToCfx5iyZYXvQln8aw5+040BjGG/zD1u41tDA="
       }
     }
   ]
