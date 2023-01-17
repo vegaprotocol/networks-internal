@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "L7E1mwToCfx5iyZYXvQln8aw5+040BjGG/zD1u41tDA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/4k3q2gmrme867mfe16yr1qjb8ctzv1ht?d=identicon",
-        "country": "QR",
-        "ethereum_address": "0x99779148d4B0aAe0cddc1bc8d743FD8914908e1b",
-        "id": "17e702b97dcd08a51f44c3f91aeb1a00d5637e24c31888327c2fa0965032f616",
-        "info_url": "https://en.wikipedia.org/wiki/Thomas_Reeve",
-        "name": "promising-building",
-        "tm_pub_key": "L7E1mwToCfx5iyZYXvQln8aw5+040BjGG/zD1u41tDA=",
-        "vega_pub_key": "6519b8baac4298308df3519f59bab3c51a6b385d36ce18e9fcf392937d9735c5",
+      "bkJv+Qwj68KzT33i8V+J3MCzoqT/0itRpk87DVzd6qw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/czh4l7nbncj0alrtrpqxwvzpzf1kqc88?d=identicon",
+        "country": "TO",
+        "ethereum_address": "0x3717f468C2b90264883245544f648C37b0FA432d",
+        "id": "495085fb0e44a3f7442011501ce3959a83d3906b5763fa6c543b0335ef319699",
+        "info_url": "https://en.wikipedia.org/wiki/Zach_Niles",
+        "name": "famous-bee",
+        "tm_pub_key": "bkJv+Qwj68KzT33i8V+J3MCzoqT/0itRpk87DVzd6qw=",
+        "vega_pub_key": "919ad77a782d36a412a4ae504e0a201544a2d591a863a800d0b7bc98421b3a03",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301171815",
+  "chain_id": "vega-devnet1-202301171927",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-17T18:15:45.920617857Z",
+  "genesis_time": "2023-01-17T19:27:57.745328378Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "5ED939516FEFA461CD38CD9173236786FD641F3A",
-      "name": "promising-building",
+      "address": "65DE44EA612E7B178600D13F0F21BE70BD96D98B",
+      "name": "famous-bee",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "L7E1mwToCfx5iyZYXvQln8aw5+040BjGG/zD1u41tDA="
+        "value": "bkJv+Qwj68KzT33i8V+J3MCzoqT/0itRpk87DVzd6qw="
       }
     }
   ]
