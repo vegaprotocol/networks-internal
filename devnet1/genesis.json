@@ -302,17 +302,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "LIw2QxTC4p7MAsyE8B6Ev8LXjYckchYBBuGTqC5hJW8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/lasci2pxe6fqwrhidmz1yy092v76daky?d=identicon",
-        "country": "SH",
-        "ethereum_address": "0xEcaC286d0658B2f5BF5a53A6eDE418e3D6a3DB59",
-        "id": "69be32f3bd67f64dbeddd9274b08dbe8af71f35f79662ee55c7eb3eb0f268d45",
-        "info_url": "https://en.wikipedia.org/wiki/An_Gael",
-        "name": "harsh-train",
-        "tm_pub_key": "LIw2QxTC4p7MAsyE8B6Ev8LXjYckchYBBuGTqC5hJW8=",
-        "vega_pub_key": "bea30d5cf1a336dd43f38dabac9d7f93c82e8872ef345083cd36c2609c085d50",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "zwQeawBYY+vzwVIswVbaIfwpL1EZq9xXI66GUQ0Gmkg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/pdxvv3s98zr73ufmuntftxsyug0re3zl?d=identicon",
+        "country": "JW",
+        "ethereum_address": "0xeAdc748ffDaeaCC810a9A27835634AC26C48c7aD",
+        "id": "7b92a24c7a03a4fcc28aff826c51c112fef9c7b4765a2d8bed6894a8f41bd6bd",
+        "info_url": "https://en.wikipedia.org/wiki/Hugh_F._Blunt",
+        "name": "gray-swing",
+        "tm_pub_key": "zwQeawBYY+vzwVIswVbaIfwpL1EZq9xXI66GUQ0Gmkg=",
+        "vega_pub_key": "79ed42ed8acc09dc1698bd2df5335c29562a3403f309463430c63b3744402ad3",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202301171526",
+  "chain_id": "vega-devnet1-202301171600",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-17T15:26:33.185867436Z",
+  "genesis_time": "2023-01-17T16:00:40.5437957Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "88CF36FAF5CC05792AE997BE56B75ED029048603",
-      "name": "harsh-train",
+      "address": "86ADE1DABF28E4115DD1491E82B733EB9601C40E",
+      "name": "gray-swing",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "LIw2QxTC4p7MAsyE8B6Ev8LXjYckchYBBuGTqC5hJW8="
+        "value": "zwQeawBYY+vzwVIswVbaIfwpL1EZq9xXI66GUQ0Gmkg="
       }
     }
   ]
