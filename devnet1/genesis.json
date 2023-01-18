@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "Jv7pLvzTMVY5stUS0dIZF02i+uR2ebusyLQPyzRVeqY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/n7kynn9vxrwcddqftt4frpndh01akhhg?d=identicon",
-        "country": "LY",
-        "ethereum_address": "0xbD0cD505A4d5FaD250732457478a38a583552f2F",
-        "id": "da9a2ae4e56c1a2bf84cebe63f7e35f6862fb338d642207ff26d3a8b98a3c68e",
-        "info_url": "https://en.wikipedia.org/wiki/Jim_Hill_Mountain",
-        "name": "gray-cloud",
-        "tm_pub_key": "Jv7pLvzTMVY5stUS0dIZF02i+uR2ebusyLQPyzRVeqY=",
-        "vega_pub_key": "f53409201899ce3f7edddfb9205bf13d1558e5d9fddca98c6da590ae972290ef",
+      "p2AbSM2S3UTdpgIOVZ/eq8prP7L9H7GekQ0n2wBYoCM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/b8smki7l4wb3ayz72gi2ogrhjnkxsdpt?d=identicon",
+        "country": "KW",
+        "ethereum_address": "0x3b5A6A9293700502b225C06eabCB498C1b445a16",
+        "id": "ae7868ede7c6abe001570d07144d0a38eab431f9a218abe81cf8db3c2433051b",
+        "info_url": "https://en.wikipedia.org/wiki/Igor_Sanakoyev",
+        "name": "rich-bird",
+        "tm_pub_key": "p2AbSM2S3UTdpgIOVZ/eq8prP7L9H7GekQ0n2wBYoCM=",
+        "vega_pub_key": "341aced8864f833cc9a7f636a21c241c41805588a78a81b4bd8923b52afaebf7",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301181442",
+  "chain_id": "vega-devnet1-202301181806",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-18T14:42:43.782105521Z",
+  "genesis_time": "2023-01-18T18:06:09.666469329Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "C57C6581ADF4C513CC4764F2E9AA3ED4C4281E73",
-      "name": "gray-cloud",
+      "address": "9BF254326EEC35B10BF812FEC0C84962BAF71FCC",
+      "name": "rich-bird",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Jv7pLvzTMVY5stUS0dIZF02i+uR2ebusyLQPyzRVeqY="
+        "value": "p2AbSM2S3UTdpgIOVZ/eq8prP7L9H7GekQ0n2wBYoCM="
       }
     }
   ]
