@@ -302,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "t5I/1kqLbFrp2sdxPVhFWlEi2AlC1Xr4TEooLqAJ8Pw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/uwp5aym0fdpa74tq3vlki4ao3dxi9rwl?d=identicon",
+        "country": "OP",
+        "ethereum_address": "0x9579f1fC0aABB06180b4B5921A171ceA09ae164f",
+        "id": "57a408a9d51b36e2426e4162c35ee4b5b2dd2d0b66cec6779f823008fc92eacf",
+        "info_url": "https://en.wikipedia.org/wiki/Melisa_Miranda",
+        "name": "quaint-door",
+        "tm_pub_key": "t5I/1kqLbFrp2sdxPVhFWlEi2AlC1Xr4TEooLqAJ8Pw=",
+        "vega_pub_key": "6434470aab4dcb55a9b53a2907a9edc3b13f54d7477f3aba499b96a78652bb37",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "tqTtIjL3B87S5D8HgiEsdHVHwauA9MkqdIN4+CWBSss=": {
-        "avatar_url": "https://www.gravatar.com/avatar/dq671weqhpre1sfcqii3ti2pjjsdgn7w?d=identicon",
-        "country": "DL",
-        "ethereum_address": "0x42577E9ab8bd6f6217fdA0B1c81528b6c8d0902a",
-        "id": "32b7c920ac2dcec57eb1dba3f357fb279a1fe83ac8a5824146e9aa6ed2873d07",
-        "info_url": "https://en.wikipedia.org/wiki/CE_Handbol_Mar%C3%ADtim",
-        "name": "excited-doctor",
-        "tm_pub_key": "tqTtIjL3B87S5D8HgiEsdHVHwauA9MkqdIN4+CWBSss=",
-        "vega_pub_key": "f149312029eb98211d97997aa2ee4a25cc587a9499a0dd181099d501e196e9ec",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202301182045",
+  "chain_id": "vega-devnet1-202301182127",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-18T20:45:04.010978707Z",
+  "genesis_time": "2023-01-18T21:27:24.523473333Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "A6DEA415DEDE18A900CACEC3AE4EC2D6ECD7555C",
-      "name": "excited-doctor",
+      "address": "95A307AEFAF5881243BC6F4A80364061A0E1A689",
+      "name": "quaint-door",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "tqTtIjL3B87S5D8HgiEsdHVHwauA9MkqdIN4+CWBSss="
+        "value": "t5I/1kqLbFrp2sdxPVhFWlEi2AlC1Xr4TEooLqAJ8Pw="
       }
     }
   ]
