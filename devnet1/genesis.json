@@ -280,17 +280,6 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
-      "9VeTSaVLzeThHeYacZqbbDDfaci45xUzSDMondNJr00=": {
-        "avatar_url": "https://www.gravatar.com/avatar/tg5y6sye3rew5tvgtair283a0vk545b1?d=identicon",
-        "country": "RB",
-        "ethereum_address": "0xeAf13d44f4DCf5DCB22b0aE05d732F9A43B5B6C1",
-        "id": "153728971ae289aa6da28b805b76ed852096d3398c58161007cdee0275cb1493",
-        "info_url": "https://en.wikipedia.org/wiki/Steve_Connor",
-        "name": "fresh-park",
-        "tm_pub_key": "9VeTSaVLzeThHeYacZqbbDDfaci45xUzSDMondNJr00=",
-        "vega_pub_key": "1035aeb2c8ec610430f2cd584e8ac7c856831ff71f73a5fb39336d7ac18a6262",
-        "vega_pub_key_index": 1
-      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "tqTtIjL3B87S5D8HgiEsdHVHwauA9MkqdIN4+CWBSss=": {
+        "avatar_url": "https://www.gravatar.com/avatar/dq671weqhpre1sfcqii3ti2pjjsdgn7w?d=identicon",
+        "country": "DL",
+        "ethereum_address": "0x42577E9ab8bd6f6217fdA0B1c81528b6c8d0902a",
+        "id": "32b7c920ac2dcec57eb1dba3f357fb279a1fe83ac8a5824146e9aa6ed2873d07",
+        "info_url": "https://en.wikipedia.org/wiki/CE_Handbol_Mar%C3%ADtim",
+        "name": "excited-doctor",
+        "tm_pub_key": "tqTtIjL3B87S5D8HgiEsdHVHwauA9MkqdIN4+CWBSss=",
+        "vega_pub_key": "f149312029eb98211d97997aa2ee4a25cc587a9499a0dd181099d501e196e9ec",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202301181928",
+  "chain_id": "vega-devnet1-202301182002",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-18T19:28:30.607041401Z",
+  "genesis_time": "2023-01-18T20:02:31.678242215Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "9BDF726840CA406F405584A0845D798BD7212E73",
-      "name": "fresh-park",
+      "address": "A6DEA415DEDE18A900CACEC3AE4EC2D6ECD7555C",
+      "name": "excited-doctor",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "9VeTSaVLzeThHeYacZqbbDDfaci45xUzSDMondNJr00="
+        "value": "tqTtIjL3B87S5D8HgiEsdHVHwauA9MkqdIN4+CWBSss="
       }
     }
   ]
