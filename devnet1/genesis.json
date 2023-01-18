@@ -302,17 +302,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "t5I/1kqLbFrp2sdxPVhFWlEi2AlC1Xr4TEooLqAJ8Pw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/uwp5aym0fdpa74tq3vlki4ao3dxi9rwl?d=identicon",
-        "country": "OP",
-        "ethereum_address": "0x9579f1fC0aABB06180b4B5921A171ceA09ae164f",
-        "id": "57a408a9d51b36e2426e4162c35ee4b5b2dd2d0b66cec6779f823008fc92eacf",
-        "info_url": "https://en.wikipedia.org/wiki/Melisa_Miranda",
-        "name": "quaint-door",
-        "tm_pub_key": "t5I/1kqLbFrp2sdxPVhFWlEi2AlC1Xr4TEooLqAJ8Pw=",
-        "vega_pub_key": "6434470aab4dcb55a9b53a2907a9edc3b13f54d7477f3aba499b96a78652bb37",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "z3SKox/nShVSk/bN8pqSO5nBWRo+g/JFu/OcNLz7la0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/uuh6yti9a16tgbzhh4v4hndzuj2ns8jt?d=identicon",
+        "country": "TR",
+        "ethereum_address": "0x95e6E8021c61D36D0Ef90568CeEef02A737Fb3d3",
+        "id": "cad0666645d9d988e61122497ee68e50562e5925832336cbd1c6608d60dbcbb8",
+        "info_url": "https://en.wikipedia.org/wiki/Bestiary_(Hail_Mary_Mallon_album)",
+        "name": "alive-television",
+        "tm_pub_key": "z3SKox/nShVSk/bN8pqSO5nBWRo+g/JFu/OcNLz7la0=",
+        "vega_pub_key": "b6db4467bc789d7d17e664dfbe1c98009fcc8b4295900358150bc553efb1d399",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202301182127",
+  "chain_id": "vega-devnet1-202301182237",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-18T21:27:24.523473333Z",
+  "genesis_time": "2023-01-18T22:37:06.018335408Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "95A307AEFAF5881243BC6F4A80364061A0E1A689",
-      "name": "quaint-door",
+      "address": "42D495644942A94CF10034568F643E4EB694178F",
+      "name": "alive-television",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "t5I/1kqLbFrp2sdxPVhFWlEi2AlC1Xr4TEooLqAJ8Pw="
+        "value": "z3SKox/nShVSk/bN8pqSO5nBWRo+g/JFu/OcNLz7la0="
       }
     }
   ]
