@@ -280,6 +280,17 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
+      "9VeTSaVLzeThHeYacZqbbDDfaci45xUzSDMondNJr00=": {
+        "avatar_url": "https://www.gravatar.com/avatar/tg5y6sye3rew5tvgtair283a0vk545b1?d=identicon",
+        "country": "RB",
+        "ethereum_address": "0xeAf13d44f4DCf5DCB22b0aE05d732F9A43B5B6C1",
+        "id": "153728971ae289aa6da28b805b76ed852096d3398c58161007cdee0275cb1493",
+        "info_url": "https://en.wikipedia.org/wiki/Steve_Connor",
+        "name": "fresh-park",
+        "tm_pub_key": "9VeTSaVLzeThHeYacZqbbDDfaci45xUzSDMondNJr00=",
+        "vega_pub_key": "1035aeb2c8ec610430f2cd584e8ac7c856831ff71f73a5fb39336d7ac18a6262",
+        "vega_pub_key_index": 1
+      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "p2AbSM2S3UTdpgIOVZ/eq8prP7L9H7GekQ0n2wBYoCM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/b8smki7l4wb3ayz72gi2ogrhjnkxsdpt?d=identicon",
-        "country": "KW",
-        "ethereum_address": "0x3b5A6A9293700502b225C06eabCB498C1b445a16",
-        "id": "ae7868ede7c6abe001570d07144d0a38eab431f9a218abe81cf8db3c2433051b",
-        "info_url": "https://en.wikipedia.org/wiki/Igor_Sanakoyev",
-        "name": "rich-bird",
-        "tm_pub_key": "p2AbSM2S3UTdpgIOVZ/eq8prP7L9H7GekQ0n2wBYoCM=",
-        "vega_pub_key": "341aced8864f833cc9a7f636a21c241c41805588a78a81b4bd8923b52afaebf7",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301181806",
+  "chain_id": "vega-devnet1-202301181902",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-18T18:06:09.666469329Z",
+  "genesis_time": "2023-01-18T19:02:07.763075148Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "9BF254326EEC35B10BF812FEC0C84962BAF71FCC",
-      "name": "rich-bird",
+      "address": "9BDF726840CA406F405584A0845D798BD7212E73",
+      "name": "fresh-park",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "p2AbSM2S3UTdpgIOVZ/eq8prP7L9H7GekQ0n2wBYoCM="
+        "value": "9VeTSaVLzeThHeYacZqbbDDfaci45xUzSDMondNJr00="
       }
     }
   ]
