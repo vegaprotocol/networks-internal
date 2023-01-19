@@ -56,7 +56,7 @@
             "governance.proposal.asset.minProposerBalance" : "1000000000000000000",
             "governance.proposal.asset.minVoterBalance" : "1000000000000000000",
             "governance.proposal.asset.requiredMajority" : "0.66",
-            "governance.proposal.asset.requiredParticipation" : "0.5",
+            "governance.proposal.asset.requiredParticipation" : "0.1",
             "governance.proposal.freeform.maxClose" : "8760h0m0s",
             "governance.proposal.freeform.minClose" : "10m",
             "governance.proposal.freeform.minProposerBalance" : "1000000000000000000",
