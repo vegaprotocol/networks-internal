@@ -302,17 +302,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "p2HPXBdq/AdxQRSjUhkkRe25wZvvrw+hiCdYf3Ffupw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/gj25ol0t916qlglom21aarujog361ix4?d=identicon",
-        "country": "GM",
-        "ethereum_address": "0x5c15Af63c334B7aEeE28ee96A4DBa482a2f235f4",
-        "id": "ef7c559099987bb54ec310c99ddec8773a81546a952c2e92c31d78ca6a22c4b5",
-        "info_url": "https://en.wikipedia.org/wiki/Coat_of_arms_of_Slobozia",
-        "name": "rich-roof",
-        "tm_pub_key": "p2HPXBdq/AdxQRSjUhkkRe25wZvvrw+hiCdYf3Ffupw=",
-        "vega_pub_key": "b0fb097976580ebb0c06ab02eeb36fd838ad1d8a47669243dde719419ff849ce",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "xlXd10xI6TXsvpQGRj1i6DKg+IECxJjFvHSTOY5OL70=": {
+        "avatar_url": "https://www.gravatar.com/avatar/paewdlsgwbeoz4citbxf69sohckfho7f?d=identicon",
+        "country": "UJ",
+        "ethereum_address": "0xE437C43CdC434Ab32419d7Bc9356284a116557F5",
+        "id": "bf931dd4d5f3c20d6a157b8caee0a08398366d68bb996d5d279dfd3e4bb3f085",
+        "info_url": "https://en.wikipedia.org/wiki/Niemeyera",
+        "name": "friendly-week",
+        "tm_pub_key": "xlXd10xI6TXsvpQGRj1i6DKg+IECxJjFvHSTOY5OL70=",
+        "vega_pub_key": "4a385f83ff19272d304ab6fe7ee15dcad2e4966ad6f55b955397814e7bc082d8",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202301191752",
+  "chain_id": "vega-devnet1-202301191919",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-19T17:52:22.656341328Z",
+  "genesis_time": "2023-01-19T19:19:17.824239192Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "A1F102066FC8F3AA02E2E1E6C1CF2095C2B6F88C",
-      "name": "rich-roof",
+      "address": "04C0818C9F9C716CEC644C24509A2459799CDCF5",
+      "name": "friendly-week",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "p2HPXBdq/AdxQRSjUhkkRe25wZvvrw+hiCdYf3Ffupw="
+        "value": "xlXd10xI6TXsvpQGRj1i6DKg+IECxJjFvHSTOY5OL70="
       }
     }
   ]
