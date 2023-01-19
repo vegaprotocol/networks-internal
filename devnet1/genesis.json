@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "7zQdlip5SgpSxymhC1x61KJXeh+Wjn5JLWXAsLdT/O8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/inowy7lusdhbtnk3n7ymp636cspnjugf?d=identicon",
-        "country": "KK",
-        "ethereum_address": "0xf9B386CCDb4205412471a07707815f50d1e0926e",
-        "id": "9b746329dc0f75785d77e9ff0b8b95df6a526b91cc5ee0f13e6f8946f8326e88",
-        "info_url": "https://en.wikipedia.org/wiki/1952_in_baseball",
-        "name": "ideal-town",
-        "tm_pub_key": "7zQdlip5SgpSxymhC1x61KJXeh+Wjn5JLWXAsLdT/O8=",
-        "vega_pub_key": "12569f01b20b4b14c63ae207a52fce371a7b2dd8bf9088107b95a18067eb18ff",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "q4Mg2HYwhY0wGJfwEAnM1Hco25Osc3QpwQR2x3GueVc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/7188ci2l8vqfpw9txn8ftk4hvtpca0v9?d=identicon",
+        "country": "AU",
+        "ethereum_address": "0x00cd982B5A8318Ee776340c7DD6c3596441d9c05",
+        "id": "26f73af302c3f40ee42118e409e4da6ca569810de5a4d6bfbf5e00cbb8282a23",
+        "info_url": "https://en.wikipedia.org/wiki/Carignan_(Bouthiller)_Aerodrome",
+        "name": "helpless-cat",
+        "tm_pub_key": "q4Mg2HYwhY0wGJfwEAnM1Hco25Osc3QpwQR2x3GueVc=",
+        "vega_pub_key": "cef57911b06f11f8f496e1cc63d424d178e0a6cdae49a7b2f5c80ae84e860aa3",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301191344",
+  "chain_id": "vega-devnet1-202301191425",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-19T13:44:55.500431052Z",
+  "genesis_time": "2023-01-19T14:25:15.029299779Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "BF94D2ADF8763BE69F76CFD807F506C5FE2F8E06",
-      "name": "ideal-town",
+      "address": "D2DC3BC4FF38A3F8AEFE10530C13A5F10ED7EA68",
+      "name": "helpless-cat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "7zQdlip5SgpSxymhC1x61KJXeh+Wjn5JLWXAsLdT/O8="
+        "value": "q4Mg2HYwhY0wGJfwEAnM1Hco25Osc3QpwQR2x3GueVc="
       }
     }
   ]
