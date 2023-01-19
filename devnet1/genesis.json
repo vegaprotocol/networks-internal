@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "1FGmAif3hJV12Dh95kaLdNWaB0o/XDTI6IBpApDbnS4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/hg776uteancoychckwx8g670df4hqrum?d=identicon",
+        "country": "EM",
+        "ethereum_address": "0x35F9934Cc546aAD49D55ABEe0650a874CCf2182a",
+        "id": "3d9e3388f91c53e66c63668d268ba3291b3489b81cfa54c8118be143c834074b",
+        "info_url": "https://en.wikipedia.org/wiki/10th_Delaware_General_Assembly",
+        "name": "wicked-farmer",
+        "tm_pub_key": "1FGmAif3hJV12Dh95kaLdNWaB0o/XDTI6IBpApDbnS4=",
+        "vega_pub_key": "a17cf228b926bfd95a5a0a86ed59bc955b15ab0cbeeba8e598d0e2fcf6526519",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "q4Mg2HYwhY0wGJfwEAnM1Hco25Osc3QpwQR2x3GueVc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/7188ci2l8vqfpw9txn8ftk4hvtpca0v9?d=identicon",
-        "country": "AU",
-        "ethereum_address": "0x00cd982B5A8318Ee776340c7DD6c3596441d9c05",
-        "id": "26f73af302c3f40ee42118e409e4da6ca569810de5a4d6bfbf5e00cbb8282a23",
-        "info_url": "https://en.wikipedia.org/wiki/Carignan_(Bouthiller)_Aerodrome",
-        "name": "helpless-cat",
-        "tm_pub_key": "q4Mg2HYwhY0wGJfwEAnM1Hco25Osc3QpwQR2x3GueVc=",
-        "vega_pub_key": "cef57911b06f11f8f496e1cc63d424d178e0a6cdae49a7b2f5c80ae84e860aa3",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301191425",
+  "chain_id": "vega-devnet1-202301191700",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-19T14:25:15.029299779Z",
+  "genesis_time": "2023-01-19T17:00:38.78418972Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "D2DC3BC4FF38A3F8AEFE10530C13A5F10ED7EA68",
-      "name": "helpless-cat",
+      "address": "5DD69D3141F8B702181EE35DB7DE33CCA5F4D7E2",
+      "name": "wicked-farmer",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "q4Mg2HYwhY0wGJfwEAnM1Hco25Osc3QpwQR2x3GueVc="
+        "value": "1FGmAif3hJV12Dh95kaLdNWaB0o/XDTI6IBpApDbnS4="
       }
     }
   ]
