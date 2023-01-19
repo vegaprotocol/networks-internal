@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "7zQdlip5SgpSxymhC1x61KJXeh+Wjn5JLWXAsLdT/O8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/inowy7lusdhbtnk3n7ymp636cspnjugf?d=identicon",
+        "country": "KK",
+        "ethereum_address": "0xf9B386CCDb4205412471a07707815f50d1e0926e",
+        "id": "9b746329dc0f75785d77e9ff0b8b95df6a526b91cc5ee0f13e6f8946f8326e88",
+        "info_url": "https://en.wikipedia.org/wiki/1952_in_baseball",
+        "name": "ideal-town",
+        "tm_pub_key": "7zQdlip5SgpSxymhC1x61KJXeh+Wjn5JLWXAsLdT/O8=",
+        "vega_pub_key": "12569f01b20b4b14c63ae207a52fce371a7b2dd8bf9088107b95a18067eb18ff",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "JRMp9j/YLxl5oJ1mqm9i9B6vlDr6eKjsRjAkkF7HLMM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/a1t3cafcj9dejn8dioch47syl8r5kzsi?d=identicon",
-        "country": "KH",
-        "ethereum_address": "0x7a47F199e42f05c39359db2D4B3c6733855c07d2",
-        "id": "9299fef6748a79ff11c44ead492db787ee72740c3ea05747b623a2a5536193ad",
-        "info_url": "https://en.wikipedia.org/wiki/Johnny_Abarrientos",
-        "name": "odd-book",
-        "tm_pub_key": "JRMp9j/YLxl5oJ1mqm9i9B6vlDr6eKjsRjAkkF7HLMM=",
-        "vega_pub_key": "b50eea1457e17f3f61176a38b93d23a353ffb6b53de19cc1e05df60256e637b2",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301190830",
+  "chain_id": "vega-devnet1-202301191221",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-19T08:30:48.424848044Z",
+  "genesis_time": "2023-01-19T12:21:46.014169906Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "68CF147CE29B98CBC4E991FD08FBEBAA51DFAFBB",
-      "name": "odd-book",
+      "address": "BF94D2ADF8763BE69F76CFD807F506C5FE2F8E06",
+      "name": "ideal-town",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "JRMp9j/YLxl5oJ1mqm9i9B6vlDr6eKjsRjAkkF7HLMM="
+        "value": "7zQdlip5SgpSxymhC1x61KJXeh+Wjn5JLWXAsLdT/O8="
       }
     }
   ]
