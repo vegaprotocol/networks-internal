@@ -269,15 +269,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "5W1RsCrAWRHRyeJj33XWyc4yjb1eBsuDryKy1YNb99w=": {
-        "avatar_url": "https://www.gravatar.com/avatar/u3akgijul4k7l09jlrashhi373k7g59b?d=identicon",
-        "country": "UL",
-        "ethereum_address": "0xA028179644268A8f7758A09A135Ea1a7b96d1d64",
-        "id": "6569a361197db4873aff454cd33c05599f4e16cfb96e817d1d348740fb15e3cb",
-        "info_url": "https://en.wikipedia.org/wiki/Revoicer",
-        "name": "stocky-mango",
-        "tm_pub_key": "5W1RsCrAWRHRyeJj33XWyc4yjb1eBsuDryKy1YNb99w=",
-        "vega_pub_key": "fe3a16b0e3a13c5566f6a6533dd9eb60c811559ef57fdb0e1d0e997a702ce5b5",
+      "5kru3MI9cmt6qMESjLSK4mFU0ji+4SwavNqPYSTNk5U=": {
+        "avatar_url": "https://www.gravatar.com/avatar/v0qv9i212mo8rxgyh4b9ql752ojokwn7?d=identicon",
+        "country": "RF",
+        "ethereum_address": "0xE3a083E4B9183208324fF57569a3868a21F3e387",
+        "id": "2bf19ece6004e5394ee778cd8a5814828b0b5e9d47f5d719d39e36e601423d62",
+        "info_url": "https://en.wikipedia.org/wiki/Carrier_Strike_Group_7",
+        "name": "alert-farmer",
+        "tm_pub_key": "5kru3MI9cmt6qMESjLSK4mFU0ji+4SwavNqPYSTNk5U=",
+        "vega_pub_key": "e960cbf2ce9ba4baafa7a241d50556b90c5d074976bca54c52719c16cdc3cf6a",
         "vega_pub_key_index": 1
       },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301201300",
+  "chain_id": "vega-devnet1-202301201633",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-20T13:00:51.754804078Z",
+  "genesis_time": "2023-01-20T16:33:12.7503634Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "840DFB8BC863F00AA5A172EFA5CE46439C143757",
-      "name": "stocky-mango",
+      "address": "B064D4E4C7F7D94AD466A9E04000DE270AAF37F6",
+      "name": "alert-farmer",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "5W1RsCrAWRHRyeJj33XWyc4yjb1eBsuDryKy1YNb99w="
+        "value": "5kru3MI9cmt6qMESjLSK4mFU0ji+4SwavNqPYSTNk5U="
       }
     }
   ]
