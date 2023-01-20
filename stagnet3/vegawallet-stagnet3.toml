@@ -7,14 +7,14 @@ TokenExpiry = "168h0m0s"
 [API]
 
   [API.GRPC]
-    Hosts = ["api.stagnet3.vega.xyz:3007", "api.n00.stagnet3.vega.xyz:3007", "api.n05.stagnet3.vega.xyz:3007"]
+    Hosts = ["api.stagnet3.vega.xyz:3007", "api.n05.stagnet3.vega.xyz:3007", "api.n06.stagnet3.vega.xyz:3007", "api.n07.stagnet3.vega.xyz:3007"]
     Retries = 5
 
   [API.GraphQL]
-    Hosts = ["https://api.stagnet3.vega.xyz/graphql", "https://api.n00.stagnet3.vega.xyz/graphql", "https://api.n05.stagnet3.vega.xyz/graphql"]
+    Hosts = ["https://api.stagnet3.vega.xyz/graphql", "https://api.n05.stagnet3.vega.xyz/graphql", "https://api.n06.stagnet3.vega.xyz/graphql", "https://api.n07.stagnet3.vega.xyz/graphql"]
 
   [API.REST]
-    Hosts = ["https://api.stagnet3.vega.xyz", "https://api.n00.stagnet3.vega.xyz", "https://api.n05.stagnet3.vega.xyz"]
+    Hosts = ["https://api.stagnet3.vega.xyz", "https://api.n05.stagnet3.vega.xyz", "https://api.n06.stagnet3.vega.xyz", "https://api.n07.stagnet3.vega.xyz"]
 
 [Console]
   LocalPort = 1847
