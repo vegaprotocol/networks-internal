@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "5W1RsCrAWRHRyeJj33XWyc4yjb1eBsuDryKy1YNb99w=": {
+        "avatar_url": "https://www.gravatar.com/avatar/u3akgijul4k7l09jlrashhi373k7g59b?d=identicon",
+        "country": "UL",
+        "ethereum_address": "0xA028179644268A8f7758A09A135Ea1a7b96d1d64",
+        "id": "6569a361197db4873aff454cd33c05599f4e16cfb96e817d1d348740fb15e3cb",
+        "info_url": "https://en.wikipedia.org/wiki/Revoicer",
+        "name": "stocky-mango",
+        "tm_pub_key": "5W1RsCrAWRHRyeJj33XWyc4yjb1eBsuDryKy1YNb99w=",
+        "vega_pub_key": "fe3a16b0e3a13c5566f6a6533dd9eb60c811559ef57fdb0e1d0e997a702ce5b5",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "xlXd10xI6TXsvpQGRj1i6DKg+IECxJjFvHSTOY5OL70=": {
-        "avatar_url": "https://www.gravatar.com/avatar/paewdlsgwbeoz4citbxf69sohckfho7f?d=identicon",
-        "country": "UJ",
-        "ethereum_address": "0xE437C43CdC434Ab32419d7Bc9356284a116557F5",
-        "id": "bf931dd4d5f3c20d6a157b8caee0a08398366d68bb996d5d279dfd3e4bb3f085",
-        "info_url": "https://en.wikipedia.org/wiki/Niemeyera",
-        "name": "friendly-week",
-        "tm_pub_key": "xlXd10xI6TXsvpQGRj1i6DKg+IECxJjFvHSTOY5OL70=",
-        "vega_pub_key": "4a385f83ff19272d304ab6fe7ee15dcad2e4966ad6f55b955397814e7bc082d8",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202301191919",
+  "chain_id": "vega-devnet1-202301201217",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-19T19:19:17.824239192Z",
+  "genesis_time": "2023-01-20T12:17:03.89709653Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "04C0818C9F9C716CEC644C24509A2459799CDCF5",
-      "name": "friendly-week",
+      "address": "840DFB8BC863F00AA5A172EFA5CE46439C143757",
+      "name": "stocky-mango",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "xlXd10xI6TXsvpQGRj1i6DKg+IECxJjFvHSTOY5OL70="
+        "value": "5W1RsCrAWRHRyeJj33XWyc4yjb1eBsuDryKy1YNb99w="
       }
     }
   ]
