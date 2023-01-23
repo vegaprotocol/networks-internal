@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "5kru3MI9cmt6qMESjLSK4mFU0ji+4SwavNqPYSTNk5U=": {
-        "avatar_url": "https://www.gravatar.com/avatar/v0qv9i212mo8rxgyh4b9ql752ojokwn7?d=identicon",
-        "country": "RF",
-        "ethereum_address": "0xE3a083E4B9183208324fF57569a3868a21F3e387",
-        "id": "2bf19ece6004e5394ee778cd8a5814828b0b5e9d47f5d719d39e36e601423d62",
-        "info_url": "https://en.wikipedia.org/wiki/Carrier_Strike_Group_7",
-        "name": "alert-farmer",
-        "tm_pub_key": "5kru3MI9cmt6qMESjLSK4mFU0ji+4SwavNqPYSTNk5U=",
-        "vega_pub_key": "e960cbf2ce9ba4baafa7a241d50556b90c5d074976bca54c52719c16cdc3cf6a",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "XTHF+HHmVsCk8Vgq0tEKioAtQTAKb0eGhqgfNOqQ0Ik=": {
+        "avatar_url": "https://www.gravatar.com/avatar/m1wfffla3qjv37t3vadsbzkxtoyrklp0?d=identicon",
+        "country": "EZ",
+        "ethereum_address": "0x3C7987eB2521379B41bEF1CeB2d502c53F28E943",
+        "id": "5cee9e84e0e0a6741bcc00bb7fabc8676cb5ed60face0169777ae505d4ebbcb9",
+        "info_url": "https://en.wikipedia.org/wiki/Kjerstin_Dellert",
+        "name": "gritty-park",
+        "tm_pub_key": "XTHF+HHmVsCk8Vgq0tEKioAtQTAKb0eGhqgfNOqQ0Ik=",
+        "vega_pub_key": "23bfe7ddab46913386ff4f9d24e1797c90be1f7b427f20b925014a2698af8f86",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301201633",
+  "chain_id": "vega-devnet1-202301231918",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-20T16:33:12.7503634Z",
+  "genesis_time": "2023-01-23T19:18:57.019088794Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "B064D4E4C7F7D94AD466A9E04000DE270AAF37F6",
-      "name": "alert-farmer",
+      "address": "2BEEBE7A300E0A0DA61E06218AC839F30007AA55",
+      "name": "gritty-park",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "5kru3MI9cmt6qMESjLSK4mFU0ji+4SwavNqPYSTNk5U="
+        "value": "XTHF+HHmVsCk8Vgq0tEKioAtQTAKb0eGhqgfNOqQ0Ik="
       }
     }
   ]
