@@ -302,17 +302,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "fNlc7ORgQ2PBexxaZLF+FZwsuWdNl4hSXdSXlmgyTRM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/qckzsgg1sjtbk4qiugpxf8di7noeiql3?d=identicon",
-        "country": "XR",
-        "ethereum_address": "0x409c287f3B84DF8ddf009A1C519E1541FE4836A7",
-        "id": "cce8fa8e2b7cab9e8d48b0847d0e90378b9ba7d8d344f108f38d8e2d958d802a",
-        "info_url": "https://en.wikipedia.org/wiki/Michael_Daniel",
-        "name": "ugly-horse",
-        "tm_pub_key": "fNlc7ORgQ2PBexxaZLF+FZwsuWdNl4hSXdSXlmgyTRM=",
-        "vega_pub_key": "6a2c197e60029a3c72b2ffc0c64008d1c591e3544da0f5f31f5e3e1884262ac1",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "xvZqSFmXwdG02HdDVnv5H10pQMBnYq+z7HdcXBE1i18=": {
+        "avatar_url": "https://www.gravatar.com/avatar/gwcnhwrjugpq8y7wvss71kbtrk9xrkx1?d=identicon",
+        "country": "DT",
+        "ethereum_address": "0xaDD3138515357f348bE2C43DECb34bA6Cd4148B5",
+        "id": "6a0d924fa0a67ef11aa822ee9344c6a35e8f6399f2569b0ec6d8af95ba1a2295",
+        "info_url": "https://en.wikipedia.org/wiki/Pudu_Prison",
+        "name": "timely-shoe",
+        "tm_pub_key": "xvZqSFmXwdG02HdDVnv5H10pQMBnYq+z7HdcXBE1i18=",
+        "vega_pub_key": "54159f12e4a46af92fdf100c5a45775198240e3ede1ec1ab4d9f5bc29978df4b",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202301241729",
+  "chain_id": "vega-devnet1-202301241816",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-24T17:29:47.369417884Z",
+  "genesis_time": "2023-01-24T18:16:43.832254622Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "3C4B35DD85218FC72F76192BCF4E83D3A7A13027",
-      "name": "ugly-horse",
+      "address": "229DA98DCAEE1A4B6877B07299E5A1A9D77ED42F",
+      "name": "timely-shoe",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "fNlc7ORgQ2PBexxaZLF+FZwsuWdNl4hSXdSXlmgyTRM="
+        "value": "xvZqSFmXwdG02HdDVnv5H10pQMBnYq+z7HdcXBE1i18="
       }
     }
   ]
