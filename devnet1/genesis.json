@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "XTHF+HHmVsCk8Vgq0tEKioAtQTAKb0eGhqgfNOqQ0Ik=": {
-        "avatar_url": "https://www.gravatar.com/avatar/m1wfffla3qjv37t3vadsbzkxtoyrklp0?d=identicon",
-        "country": "EZ",
-        "ethereum_address": "0x3C7987eB2521379B41bEF1CeB2d502c53F28E943",
-        "id": "5cee9e84e0e0a6741bcc00bb7fabc8676cb5ed60face0169777ae505d4ebbcb9",
-        "info_url": "https://en.wikipedia.org/wiki/Kjerstin_Dellert",
-        "name": "gritty-park",
-        "tm_pub_key": "XTHF+HHmVsCk8Vgq0tEKioAtQTAKb0eGhqgfNOqQ0Ik=",
-        "vega_pub_key": "23bfe7ddab46913386ff4f9d24e1797c90be1f7b427f20b925014a2698af8f86",
+      "TCCepu/TRRzPDt7cgEJ5frwFwpQG7a/jFv3rAGJw8yU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ycckehuw954ro3lga3s9h4upiym4byrj?d=identicon",
+        "country": "IP",
+        "ethereum_address": "0x4E0664669eF29d6b4e086Df94d9cD0e8BD1cd33E",
+        "id": "ec75d5a4ff108e0e4e29a858bc84663aba4ef4b991a41b7a52cbea238acb867b",
+        "info_url": "https://en.wikipedia.org/wiki/Belvidere,_Nebraska",
+        "name": "noisy-taxi",
+        "tm_pub_key": "TCCepu/TRRzPDt7cgEJ5frwFwpQG7a/jFv3rAGJw8yU=",
+        "vega_pub_key": "293a07907f66f6ee94823fff8c9c718384338fbe3828faeddcdcc9eb9b84f569",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301240945",
+  "chain_id": "vega-devnet1-202301241640",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-24T09:45:45.552092771Z",
+  "genesis_time": "2023-01-24T16:40:21.571139381Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "2BEEBE7A300E0A0DA61E06218AC839F30007AA55",
-      "name": "gritty-park",
+      "address": "B98E6FADB4F88D4C97718D87A30C47BC0B0DFE78",
+      "name": "noisy-taxi",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "XTHF+HHmVsCk8Vgq0tEKioAtQTAKb0eGhqgfNOqQ0Ik="
+        "value": "TCCepu/TRRzPDt7cgEJ5frwFwpQG7a/jFv3rAGJw8yU="
       }
     }
   ]
