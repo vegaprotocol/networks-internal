@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "TCCepu/TRRzPDt7cgEJ5frwFwpQG7a/jFv3rAGJw8yU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ycckehuw954ro3lga3s9h4upiym4byrj?d=identicon",
-        "country": "IP",
-        "ethereum_address": "0x4E0664669eF29d6b4e086Df94d9cD0e8BD1cd33E",
-        "id": "ec75d5a4ff108e0e4e29a858bc84663aba4ef4b991a41b7a52cbea238acb867b",
-        "info_url": "https://en.wikipedia.org/wiki/Belvidere,_Nebraska",
-        "name": "noisy-taxi",
-        "tm_pub_key": "TCCepu/TRRzPDt7cgEJ5frwFwpQG7a/jFv3rAGJw8yU=",
-        "vega_pub_key": "293a07907f66f6ee94823fff8c9c718384338fbe3828faeddcdcc9eb9b84f569",
+      "fNlc7ORgQ2PBexxaZLF+FZwsuWdNl4hSXdSXlmgyTRM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/qckzsgg1sjtbk4qiugpxf8di7noeiql3?d=identicon",
+        "country": "XR",
+        "ethereum_address": "0x409c287f3B84DF8ddf009A1C519E1541FE4836A7",
+        "id": "cce8fa8e2b7cab9e8d48b0847d0e90378b9ba7d8d344f108f38d8e2d958d802a",
+        "info_url": "https://en.wikipedia.org/wiki/Michael_Daniel",
+        "name": "ugly-horse",
+        "tm_pub_key": "fNlc7ORgQ2PBexxaZLF+FZwsuWdNl4hSXdSXlmgyTRM=",
+        "vega_pub_key": "6a2c197e60029a3c72b2ffc0c64008d1c591e3544da0f5f31f5e3e1884262ac1",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301241640",
+  "chain_id": "vega-devnet1-202301241729",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-24T16:40:21.571139381Z",
+  "genesis_time": "2023-01-24T17:29:47.369417884Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "B98E6FADB4F88D4C97718D87A30C47BC0B0DFE78",
-      "name": "noisy-taxi",
+      "address": "3C4B35DD85218FC72F76192BCF4E83D3A7A13027",
+      "name": "ugly-horse",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "TCCepu/TRRzPDt7cgEJ5frwFwpQG7a/jFv3rAGJw8yU="
+        "value": "fNlc7ORgQ2PBexxaZLF+FZwsuWdNl4hSXdSXlmgyTRM="
       }
     }
   ]
