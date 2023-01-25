@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "ddpP18N6DVjwLJ87kVKDLcI4OsG3Oy6Vhol+rkcnyck=": {
-        "avatar_url": "https://www.gravatar.com/avatar/efv5bs5cb43xufk6iy5k8gt2eirbje3u?d=identicon",
-        "country": "KF",
-        "ethereum_address": "0x94a63Eb0A552d1541dA9aa9cb13e540829eBE20E",
-        "id": "1086c4021d873acf3c688bc992e04321b6368dd98b459e529c543193b1500e69",
-        "info_url": "https://en.wikipedia.org/wiki/Jean-Marie_Dessureault",
-        "name": "whining-dress",
-        "tm_pub_key": "ddpP18N6DVjwLJ87kVKDLcI4OsG3Oy6Vhol+rkcnyck=",
-        "vega_pub_key": "496b7def81b44c578ef2adb9184df0ab294b02409bd0181b7fe79511483bd369",
+      "SV24W08d7qtlYOewJ/EJccXeIGTX9ESvDVK5ZpU2QF0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/5potxsgoq3fo9z6ehbz7fzn5whl45r5h?d=identicon",
+        "country": "RG",
+        "ethereum_address": "0xc3f77a69Fd9aD5532EEcF78deDD4300e57924B74",
+        "id": "89d7240ef72164a91376e169789c34ed04322aabb775e2fadb5e944baf3148ff",
+        "info_url": "https://en.wikipedia.org/wiki/Walter_G._Winne",
+        "name": "confused-bed",
+        "tm_pub_key": "SV24W08d7qtlYOewJ/EJccXeIGTX9ESvDVK5ZpU2QF0=",
+        "vega_pub_key": "5a55dbdbe7fb93b8713b1a344c29d530af353036f7342c47a7db55b7d6ce37f6",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301252033",
+  "chain_id": "vega-devnet1-202301252103",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-25T20:33:28.254436201Z",
+  "genesis_time": "2023-01-25T21:03:00.516786842Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "2F9BE0D7C8A14DF3C2727ED87F67A86532105D62",
-      "name": "whining-dress",
+      "address": "F20B3E7FEE3B607DF1915FD4AEC95969CEBD3DD5",
+      "name": "confused-bed",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ddpP18N6DVjwLJ87kVKDLcI4OsG3Oy6Vhol+rkcnyck="
+        "value": "SV24W08d7qtlYOewJ/EJccXeIGTX9ESvDVK5ZpU2QF0="
       }
     }
   ]
