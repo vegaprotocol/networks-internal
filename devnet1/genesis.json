@@ -172,7 +172,7 @@
         "quantum": "1",
         "source": {
           "erc20": {
-            "contract_address": "0x5828c979B1D262678918ba84a44093d1ec3016EE",
+            "contract_address": "0x1816116a8a4927D85a7Eb5a0121c95aEc182AB9C",
             "lifetime_limit": "",
             "withdraw_threshold": ""
           }
@@ -189,7 +189,7 @@
       "propose_market_enabled": true
     },
     "network_parameters": {
-      "blockchains.ethereumConfig": "{ \"network_id\": \"11155111\", \"chain_id\": \"11155111\", \"confirmations\": 3, \"collateral_bridge_contract\": { \"address\": \"0x5fD8f0aE5ff88a7C5F0F27102bD34ebaeFEcEECA\" }, \"staking_bridge_contract\": { \"address\": \"0x4Ea6DE36631d2e23A50Fc83Deb43EfF008DFEE7e\", \"deployment_block_height\": 1928399 }, \"token_vesting_contract\": { \"address\": \"0xb3fa547eAD77F255142C907eB04f8E72B3a36537\", \"deployment_block_height\": 1928401 }, \"multisig_control_contract\": { \"address\": \"0x4B969d3C5754DAcbf56c2622AC4E4eBe129b6CF7\", \"deployment_block_height\": 1928394 } }",
+      "blockchains.ethereumConfig": "{ \"network_id\": \"11155111\", \"chain_id\": \"11155111\", \"confirmations\": 3, \"collateral_bridge_contract\": { \"address\": \"0x15b722d2E90587DfC2ee1C7fa235F7EF5E72E31D\" }, \"staking_bridge_contract\": { \"address\": \"0x38eCF970c0a223b15C4F82205EFeb38A86501172\", \"deployment_block_height\": 2765155 }, \"token_vesting_contract\": { \"address\": \"0x43b54E46Be898E0734344CAD118F826fe1810903\", \"deployment_block_height\": 2765158 }, \"multisig_control_contract\": { \"address\": \"0xa204bE9564a1D6C2bAEAe74D53d2f1C25831B418\", \"deployment_block_height\": 2765151 } }",
       "governance.proposal.asset.maxClose": "8760h0m0s",
       "governance.proposal.asset.maxEnact": "8760h0m0s",
       "governance.proposal.asset.minClose": "5s",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301252307",
+  "chain_id": "vega-devnet1-202301252329",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-25T23:07:09.40659628Z",
+  "genesis_time": "2023-01-25T23:29:15.889445038Z",
   "initial_height": "0",
   "validators": [
     {
