@@ -302,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "ddpP18N6DVjwLJ87kVKDLcI4OsG3Oy6Vhol+rkcnyck=": {
+        "avatar_url": "https://www.gravatar.com/avatar/efv5bs5cb43xufk6iy5k8gt2eirbje3u?d=identicon",
+        "country": "KF",
+        "ethereum_address": "0x94a63Eb0A552d1541dA9aa9cb13e540829eBE20E",
+        "id": "1086c4021d873acf3c688bc992e04321b6368dd98b459e529c543193b1500e69",
+        "info_url": "https://en.wikipedia.org/wiki/Jean-Marie_Dessureault",
+        "name": "whining-dress",
+        "tm_pub_key": "ddpP18N6DVjwLJ87kVKDLcI4OsG3Oy6Vhol+rkcnyck=",
+        "vega_pub_key": "496b7def81b44c578ef2adb9184df0ab294b02409bd0181b7fe79511483bd369",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "xcnM/zT82erMFZEJOuw4IcnwVkmnMnoguo2YCHfEc7c=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ffvm44u247r52tsjah9mt9i3wczdd0jj?d=identicon",
-        "country": "YT",
-        "ethereum_address": "0x007Dc20Cb16087b17981f5bEB68fA53a0540bF79",
-        "id": "18065138cbcc6b5284e5099f93ac2608c215a0d623591ebad5dcac583dc7c395",
-        "info_url": "https://en.wikipedia.org/wiki/Church_of_the_Holy_Mother_of_God,_Darashamb",
-        "name": "harsh-bee",
-        "tm_pub_key": "xcnM/zT82erMFZEJOuw4IcnwVkmnMnoguo2YCHfEc7c=",
-        "vega_pub_key": "3f264df27cda2ae6294b6a9be889970d0e8cef49a44b58d0f7f92801b852be5c",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202301251826",
+  "chain_id": "vega-devnet1-202301252033",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-25T18:26:47.957954861Z",
+  "genesis_time": "2023-01-25T20:33:28.254436201Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "5AF5BBE05F58FFB40CE8303946839402BA70C34C",
-      "name": "harsh-bee",
+      "address": "2F9BE0D7C8A14DF3C2727ED87F67A86532105D62",
+      "name": "whining-dress",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "xcnM/zT82erMFZEJOuw4IcnwVkmnMnoguo2YCHfEc7c="
+        "value": "ddpP18N6DVjwLJ87kVKDLcI4OsG3Oy6Vhol+rkcnyck="
       }
     }
   ]
