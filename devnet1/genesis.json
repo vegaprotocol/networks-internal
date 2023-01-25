@@ -313,20 +313,20 @@
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
       },
-      "xvZqSFmXwdG02HdDVnv5H10pQMBnYq+z7HdcXBE1i18=": {
-        "avatar_url": "https://www.gravatar.com/avatar/gwcnhwrjugpq8y7wvss71kbtrk9xrkx1?d=identicon",
-        "country": "DT",
-        "ethereum_address": "0xaDD3138515357f348bE2C43DECb34bA6Cd4148B5",
-        "id": "6a0d924fa0a67ef11aa822ee9344c6a35e8f6399f2569b0ec6d8af95ba1a2295",
-        "info_url": "https://en.wikipedia.org/wiki/Pudu_Prison",
-        "name": "timely-shoe",
-        "tm_pub_key": "xvZqSFmXwdG02HdDVnv5H10pQMBnYq+z7HdcXBE1i18=",
-        "vega_pub_key": "54159f12e4a46af92fdf100c5a45775198240e3ede1ec1ab4d9f5bc29978df4b",
+      "xcnM/zT82erMFZEJOuw4IcnwVkmnMnoguo2YCHfEc7c=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ffvm44u247r52tsjah9mt9i3wczdd0jj?d=identicon",
+        "country": "YT",
+        "ethereum_address": "0x007Dc20Cb16087b17981f5bEB68fA53a0540bF79",
+        "id": "18065138cbcc6b5284e5099f93ac2608c215a0d623591ebad5dcac583dc7c395",
+        "info_url": "https://en.wikipedia.org/wiki/Church_of_the_Holy_Mother_of_God,_Darashamb",
+        "name": "harsh-bee",
+        "tm_pub_key": "xcnM/zT82erMFZEJOuw4IcnwVkmnMnoguo2YCHfEc7c=",
+        "vega_pub_key": "3f264df27cda2ae6294b6a9be889970d0e8cef49a44b58d0f7f92801b852be5c",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202301241900",
+  "chain_id": "vega-devnet1-202301251826",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-24T19:00:58.271457728Z",
+  "genesis_time": "2023-01-25T18:26:47.957954861Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "229DA98DCAEE1A4B6877B07299E5A1A9D77ED42F",
-      "name": "timely-shoe",
+      "address": "5AF5BBE05F58FFB40CE8303946839402BA70C34C",
+      "name": "harsh-bee",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "xvZqSFmXwdG02HdDVnv5H10pQMBnYq+z7HdcXBE1i18="
+        "value": "xcnM/zT82erMFZEJOuw4IcnwVkmnMnoguo2YCHfEc7c="
       }
     }
   ]
