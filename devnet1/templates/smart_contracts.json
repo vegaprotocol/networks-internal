@@ -1,31 +1,31 @@
 {
 	"MultisigControl": {
-		"address": "0x4B969d3C5754DAcbf56c2622AC4E4eBe129b6CF7",
+		"address": "0xa204bE9564a1D6C2bAEAe74D53d2f1C25831B418",
 		"version": "v2"
 	},
 	"ERC20Bridge": {
-		"address": "0x5fD8f0aE5ff88a7C5F0F27102bD34ebaeFEcEECA",
+		"address": "0x15b722d2E90587DfC2ee1C7fa235F7EF5E72E31D",
 		"version": "v2"
 	},
 	"ERC20AssetPool": {
-		"address": "0xF2cf37035bFB91D9ec55F5429454e3bcfB4b301F",
+		"address": "0xb7EB2DFB33bF6AF448c5Cb00f62A4170F60918db",
 		"version": "v1"
 	},
 	"StakingBridge": {
-		"address": "0x4Ea6DE36631d2e23A50Fc83Deb43EfF008DFEE7e",
+		"address": "0x38eCF970c0a223b15C4F82205EFeb38A86501172",
 		"version": "v1"
 	},
 	"VestingBridge": {
-		"address": "0xb3fa547eAD77F255142C907eB04f8E72B3a36537",
+		"address": "0x43b54E46Be898E0734344CAD118F826fe1810903",
 		"version": "v1"
 	},
 	"VegaToken": {
-		"address": "0x5828c979B1D262678918ba84a44093d1ec3016EE",
+		"address": "0x1816116a8a4927D85a7Eb5a0121c95aEc182AB9C",
 		"version": "TokenBase",
 		"minter": "0xf4A9a832A84F4d9A52dFB21828eb91CB93697Fa9"
 	},
 	"V1Token": {
-		"address": "0x8F2AB9627939Ef2dD959d3b9910A1B7B57b00268",
+		"address": "0xD76dF54d77535409DAab31227e2B6578B9f1B865",
 		"version": "TokenBase",
 		"minter": "0xf4A9a832A84F4d9A52dFB21828eb91CB93697Fa9"
 	}
