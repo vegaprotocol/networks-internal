@@ -302,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "coyfPyMVCMup1oWOCNbcFTqAelA6MSrpOqlVZJpTPGw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/4fsnx5ozv53uq0ricabzcoe5xrndwbex?d=identicon",
+        "country": "BA",
+        "ethereum_address": "0x74D233cf2337dbb53fBBFB8112cF10912a65B83B",
+        "id": "b65880837726c19eae2d615c208af4c979083394de1586ec79b9dcab2e64037c",
+        "info_url": "https://en.wikipedia.org/wiki/2015%E2%80%9316_FA_Youth_Cup",
+        "name": "healthy-doctor",
+        "tm_pub_key": "coyfPyMVCMup1oWOCNbcFTqAelA6MSrpOqlVZJpTPGw=",
+        "vega_pub_key": "6a594b3d4917f714320ec295effdcb226555fab229999f08afd99da914f297f4",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "unxUoZ+AU6RVaIkwSSzPShwy3ZfYcgPO31vzb7iz9W8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/6ognj6dw6hmpsczelqgtlskvh4xai4re?d=identicon",
-        "country": "TL",
-        "ethereum_address": "0x1a6A634eb20671D83B21574984de7D8133e76729",
-        "id": "c7968645d0884a4c6eb455c12939773e718b64d3a6912b8d9114797fdd4fb6b7",
-        "info_url": "https://en.wikipedia.org/wiki/AeroSpace_and_Defence_Industries_Association_of_Europe",
-        "name": "careful-park",
-        "tm_pub_key": "unxUoZ+AU6RVaIkwSSzPShwy3ZfYcgPO31vzb7iz9W8=",
-        "vega_pub_key": "2e2d9a5b5d5f5f837048ab6f502adc4775436f9410d700c794d5bb93239d7ee3",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202301252339",
+  "chain_id": "vega-devnet1-202301260902",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-25T23:39:45.513159974Z",
+  "genesis_time": "2023-01-26T09:02:59.330323436Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "594EB08FC277A2FFB0F38981B67CF3F8F74765FA",
-      "name": "careful-park",
+      "address": "A766A386AE5F9462A3AE1D9062A28E16B15316EE",
+      "name": "healthy-doctor",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "unxUoZ+AU6RVaIkwSSzPShwy3ZfYcgPO31vzb7iz9W8="
+        "value": "coyfPyMVCMup1oWOCNbcFTqAelA6MSrpOqlVZJpTPGw="
       }
     }
   ]
