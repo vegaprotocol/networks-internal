@@ -291,17 +291,6 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
-      "E7hUowjAHqmDiehReoMo2XrPIQQlNC/uT4dBIohz+xY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/e0qvbvhda9ibv834wwauvt3x0xvjpj9z?d=identicon",
-        "country": "TJ",
-        "ethereum_address": "0xC3C89C5788C95c78C1de0DdbAa2dfe556c14f151",
-        "id": "bc127a8f320d76b4e17d794a091749fe887525ec56780436f6b22c258edbd601",
-        "info_url": "https://en.wikipedia.org/wiki/Wellington_Centre",
-        "name": "odd-tree",
-        "tm_pub_key": "E7hUowjAHqmDiehReoMo2XrPIQQlNC/uT4dBIohz+xY=",
-        "vega_pub_key": "08dfa083941a18fd7f07164a391792c2b3bd95545ff261dcf5fb0b8cb62ac7f1",
-        "vega_pub_key_index": 1
-      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -311,6 +300,17 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
+        "vega_pub_key_index": 1
+      },
+      "pKAexEfx/R4xeNX9ohUiNMt+ELbUecta0p3V/Y1VC+M=": {
+        "avatar_url": "https://www.gravatar.com/avatar/unr9ztdoiyhd9podpogf69y2hkwfgeqi?d=identicon",
+        "country": "CE",
+        "ethereum_address": "0x409b1A6973E2CA25550Bc3639c023F2DBC3e93C6",
+        "id": "f7efb59c0b97b13f81819a2a8b851178c6bbc122c1dd6f44d6ef872fcb093d3a",
+        "info_url": "https://en.wikipedia.org/wiki/Satoru_Terao",
+        "name": "odd-spoon",
+        "tm_pub_key": "pKAexEfx/R4xeNX9ohUiNMt+ELbUecta0p3V/Y1VC+M=",
+        "vega_pub_key": "5f68e1d089c0154c1234b6dc5eabfd633cc9c888618c7593322bc486a151313f",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301261209",
+  "chain_id": "vega-devnet1-202301261426",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-26T12:09:35.22585704Z",
+  "genesis_time": "2023-01-26T14:26:46.628301221Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "21E43CA6A275F32E6E2CB071E21163C2DE68CF9E",
-      "name": "odd-tree",
+      "address": "2C190F99FF8C50CC648D70FF151B8DC4B24CB113",
+      "name": "odd-spoon",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "E7hUowjAHqmDiehReoMo2XrPIQQlNC/uT4dBIohz+xY="
+        "value": "pKAexEfx/R4xeNX9ohUiNMt+ELbUecta0p3V/Y1VC+M="
       }
     }
   ]
