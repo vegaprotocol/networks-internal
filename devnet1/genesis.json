@@ -291,6 +291,17 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
+      "E7hUowjAHqmDiehReoMo2XrPIQQlNC/uT4dBIohz+xY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/e0qvbvhda9ibv834wwauvt3x0xvjpj9z?d=identicon",
+        "country": "TJ",
+        "ethereum_address": "0xC3C89C5788C95c78C1de0DdbAa2dfe556c14f151",
+        "id": "bc127a8f320d76b4e17d794a091749fe887525ec56780436f6b22c258edbd601",
+        "info_url": "https://en.wikipedia.org/wiki/Wellington_Centre",
+        "name": "odd-tree",
+        "tm_pub_key": "E7hUowjAHqmDiehReoMo2XrPIQQlNC/uT4dBIohz+xY=",
+        "vega_pub_key": "08dfa083941a18fd7f07164a391792c2b3bd95545ff261dcf5fb0b8cb62ac7f1",
+        "vega_pub_key_index": 1
+      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -300,17 +311,6 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
-        "vega_pub_key_index": 1
-      },
-      "coyfPyMVCMup1oWOCNbcFTqAelA6MSrpOqlVZJpTPGw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/4fsnx5ozv53uq0ricabzcoe5xrndwbex?d=identicon",
-        "country": "BA",
-        "ethereum_address": "0x74D233cf2337dbb53fBBFB8112cF10912a65B83B",
-        "id": "b65880837726c19eae2d615c208af4c979083394de1586ec79b9dcab2e64037c",
-        "info_url": "https://en.wikipedia.org/wiki/2015%E2%80%9316_FA_Youth_Cup",
-        "name": "healthy-doctor",
-        "tm_pub_key": "coyfPyMVCMup1oWOCNbcFTqAelA6MSrpOqlVZJpTPGw=",
-        "vega_pub_key": "6a594b3d4917f714320ec295effdcb226555fab229999f08afd99da914f297f4",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301260940",
+  "chain_id": "vega-devnet1-202301261209",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-26T09:40:36.691959619Z",
+  "genesis_time": "2023-01-26T12:09:35.22585704Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "A766A386AE5F9462A3AE1D9062A28E16B15316EE",
-      "name": "healthy-doctor",
+      "address": "21E43CA6A275F32E6E2CB071E21163C2DE68CF9E",
+      "name": "odd-tree",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "coyfPyMVCMup1oWOCNbcFTqAelA6MSrpOqlVZJpTPGw="
+        "value": "E7hUowjAHqmDiehReoMo2XrPIQQlNC/uT4dBIohz+xY="
       }
     }
   ]
