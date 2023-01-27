@@ -291,17 +291,6 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
-      "EcTCqAmu0WeJX88sh9b8Aq1fpgTbczxNv5dAqfqCiyE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/2bn2y6m6yqfvtbz3mc8iksbl6jqbknh8?d=identicon",
-        "country": "MK",
-        "ethereum_address": "0x07783e21d9ccd9E87F91011Bf0A2d16858AaB6ae",
-        "id": "0bf9fbe25f943fed2822987c80efb301375d3dda69f9473d261adb7fd6c9b9d6",
-        "info_url": "https://en.wikipedia.org/wiki/Port_of_Rizhao",
-        "name": "echoing-fisherman",
-        "tm_pub_key": "EcTCqAmu0WeJX88sh9b8Aq1fpgTbczxNv5dAqfqCiyE=",
-        "vega_pub_key": "b79ed6442d7ac0da31d433467e152adac13bfcc80c5732e8ed240e3e7b5ca7f9",
-        "vega_pub_key_index": 1
-      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "vztkh0IwUm4Lnp0HRqYpZfChT/nvZ6I+JFv7iazZG/8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/5kdj8ou8dvkvqpjqx4knyz2x15qv4pvj?d=identicon",
+        "country": "QF",
+        "ethereum_address": "0xa3E71c430c38A927a2982BC08Fc82a10D005B785",
+        "id": "68dda4ec0a31e58b3047fd84eb3d48ca250208e59cbe7f23585f1af7d5ef52f0",
+        "info_url": "https://en.wikipedia.org/wiki/Nicoline_van_der_Sijs",
+        "name": "mango-tree",
+        "tm_pub_key": "vztkh0IwUm4Lnp0HRqYpZfChT/nvZ6I+JFv7iazZG/8=",
+        "vega_pub_key": "b369c0eaaf2b0318dcb124c9516c01fbe6e50e452e0f8cecace207a72ba052b8",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202301271341",
+  "chain_id": "vega-devnet1-202301271433",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-27T13:41:52.569618655Z",
+  "genesis_time": "2023-01-27T14:33:57.0651425Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "70C0B3F7BFF08D72A6E4C5DE335AED9E5DBA498C",
-      "name": "echoing-fisherman",
+      "address": "ABD589F1B4F7065DD518B67D1F8049C928F6FC0D",
+      "name": "mango-tree",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "EcTCqAmu0WeJX88sh9b8Aq1fpgTbczxNv5dAqfqCiyE="
+        "value": "vztkh0IwUm4Lnp0HRqYpZfChT/nvZ6I+JFv7iazZG/8="
       }
     }
   ]
