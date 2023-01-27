@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "9R5q58p//kn1w6PnGw1p1R9NO1vfWuoGwpWfsaJfLF8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/7kg5nfh5z5xsjdfqzp7rrvbyr4zg1yl5?d=identicon",
-        "country": "HG",
-        "ethereum_address": "0x374D1B314578B7ED9833Fd1B4751BD1E43A7b26d",
-        "id": "f5510b14956671f65baee00d7c7d0c5e786db3ca8565105a4717a3bcc0a48239",
-        "info_url": "https://en.wikipedia.org/wiki/Tania_Kernaghan",
-        "name": "dizzy-pickle",
-        "tm_pub_key": "9R5q58p//kn1w6PnGw1p1R9NO1vfWuoGwpWfsaJfLF8=",
-        "vega_pub_key": "d81aad92974ceb4a40d890135d067ac56f4be7b8080b38feee93c813ad1a3ca1",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -300,6 +289,17 @@
         "name": "friendly-barber",
         "tm_pub_key": "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=",
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
+        "vega_pub_key_index": 1
+      },
+      "EcTCqAmu0WeJX88sh9b8Aq1fpgTbczxNv5dAqfqCiyE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/2bn2y6m6yqfvtbz3mc8iksbl6jqbknh8?d=identicon",
+        "country": "MK",
+        "ethereum_address": "0x07783e21d9ccd9E87F91011Bf0A2d16858AaB6ae",
+        "id": "0bf9fbe25f943fed2822987c80efb301375d3dda69f9473d261adb7fd6c9b9d6",
+        "info_url": "https://en.wikipedia.org/wiki/Port_of_Rizhao",
+        "name": "echoing-fisherman",
+        "tm_pub_key": "EcTCqAmu0WeJX88sh9b8Aq1fpgTbczxNv5dAqfqCiyE=",
+        "vega_pub_key": "b79ed6442d7ac0da31d433467e152adac13bfcc80c5732e8ed240e3e7b5ca7f9",
         "vega_pub_key_index": 1
       },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301271208",
+  "chain_id": "vega-devnet1-202301271301",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-27T12:08:02.048664438Z",
+  "genesis_time": "2023-01-27T13:01:45.392691555Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "26160E1F944F10728E431A4CB48D731501CC9D40",
-      "name": "dizzy-pickle",
+      "address": "70C0B3F7BFF08D72A6E4C5DE335AED9E5DBA498C",
+      "name": "echoing-fisherman",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "9R5q58p//kn1w6PnGw1p1R9NO1vfWuoGwpWfsaJfLF8="
+        "value": "EcTCqAmu0WeJX88sh9b8Aq1fpgTbczxNv5dAqfqCiyE="
       }
     }
   ]
