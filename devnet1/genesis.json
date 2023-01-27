@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "6Od5SrQ17T2g7hLt1BAavSmRFqtDSCdg124QiOyflqs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ccjg1m80kspozrmm489y60mhnng09to6?d=identicon",
+        "country": "EG",
+        "ethereum_address": "0xAeeEACb2C729657BD60C140025CFEF907D6f9d82",
+        "id": "406887123a3e122629df13f4406c41ca7dae24a78aaa54af15637758e1649afc",
+        "info_url": "https://en.wikipedia.org/wiki/Parlok",
+        "name": "helpful-town",
+        "tm_pub_key": "6Od5SrQ17T2g7hLt1BAavSmRFqtDSCdg124QiOyflqs=",
+        "vega_pub_key": "944b5bbe5bfe39163fc5b1bdf9fce9d7048b38b01f05dae8bcf3bdafab2c117d",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "vztkh0IwUm4Lnp0HRqYpZfChT/nvZ6I+JFv7iazZG/8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/5kdj8ou8dvkvqpjqx4knyz2x15qv4pvj?d=identicon",
-        "country": "QF",
-        "ethereum_address": "0xa3E71c430c38A927a2982BC08Fc82a10D005B785",
-        "id": "68dda4ec0a31e58b3047fd84eb3d48ca250208e59cbe7f23585f1af7d5ef52f0",
-        "info_url": "https://en.wikipedia.org/wiki/Nicoline_van_der_Sijs",
-        "name": "mango-tree",
-        "tm_pub_key": "vztkh0IwUm4Lnp0HRqYpZfChT/nvZ6I+JFv7iazZG/8=",
-        "vega_pub_key": "b369c0eaaf2b0318dcb124c9516c01fbe6e50e452e0f8cecace207a72ba052b8",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202301271433",
+  "chain_id": "vega-devnet1-202301271508",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-27T14:33:57.0651425Z",
+  "genesis_time": "2023-01-27T15:08:26.584225162Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "ABD589F1B4F7065DD518B67D1F8049C928F6FC0D",
-      "name": "mango-tree",
+      "address": "B81E632B62F0293EE5370CC5891F2D50861A348C",
+      "name": "helpful-town",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "vztkh0IwUm4Lnp0HRqYpZfChT/nvZ6I+JFv7iazZG/8="
+        "value": "6Od5SrQ17T2g7hLt1BAavSmRFqtDSCdg124QiOyflqs="
       }
     }
   ]
