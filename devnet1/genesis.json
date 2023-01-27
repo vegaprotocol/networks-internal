@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "1dR3AIjrM9TsZOYWU4qr02mxLyO13zM8Zs/iNIFLg50=": {
+        "avatar_url": "https://www.gravatar.com/avatar/emf2uxibuvne1b5w1bcb79o9vx89mng6?d=identicon",
+        "country": "RT",
+        "ethereum_address": "0x3B68E2a0B8d5a5bB9899dD84C831739623242925",
+        "id": "17889262698db21d0450e588c5b8fd3fbf5660f1b9a85da1976dfa800909fac6",
+        "info_url": "https://en.wikipedia.org/wiki/Forward_Taguig_Patriots",
+        "name": "dizzy-phone",
+        "tm_pub_key": "1dR3AIjrM9TsZOYWU4qr02mxLyO13zM8Zs/iNIFLg50=",
+        "vega_pub_key": "ea946e95f14dba9af41dcb7932a93c798266e06307d140f7be4f58a6b04cb1f5",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "pKAexEfx/R4xeNX9ohUiNMt+ELbUecta0p3V/Y1VC+M=": {
-        "avatar_url": "https://www.gravatar.com/avatar/unr9ztdoiyhd9podpogf69y2hkwfgeqi?d=identicon",
-        "country": "CE",
-        "ethereum_address": "0x409b1A6973E2CA25550Bc3639c023F2DBC3e93C6",
-        "id": "f7efb59c0b97b13f81819a2a8b851178c6bbc122c1dd6f44d6ef872fcb093d3a",
-        "info_url": "https://en.wikipedia.org/wiki/Satoru_Terao",
-        "name": "odd-spoon",
-        "tm_pub_key": "pKAexEfx/R4xeNX9ohUiNMt+ELbUecta0p3V/Y1VC+M=",
-        "vega_pub_key": "5f68e1d089c0154c1234b6dc5eabfd633cc9c888618c7593322bc486a151313f",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301261439",
+  "chain_id": "vega-devnet1-202301271018",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-26T14:39:00.73827605Z",
+  "genesis_time": "2023-01-27T10:18:23.009119786Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "2C190F99FF8C50CC648D70FF151B8DC4B24CB113",
-      "name": "odd-spoon",
+      "address": "BB2DBE056665BDFC7157C5344D7FC6B863D15E51",
+      "name": "dizzy-phone",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "pKAexEfx/R4xeNX9ohUiNMt+ELbUecta0p3V/Y1VC+M="
+        "value": "1dR3AIjrM9TsZOYWU4qr02mxLyO13zM8Zs/iNIFLg50="
       }
     }
   ]
