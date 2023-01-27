@@ -269,15 +269,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "1dR3AIjrM9TsZOYWU4qr02mxLyO13zM8Zs/iNIFLg50=": {
-        "avatar_url": "https://www.gravatar.com/avatar/emf2uxibuvne1b5w1bcb79o9vx89mng6?d=identicon",
-        "country": "RT",
-        "ethereum_address": "0x3B68E2a0B8d5a5bB9899dD84C831739623242925",
-        "id": "17889262698db21d0450e588c5b8fd3fbf5660f1b9a85da1976dfa800909fac6",
-        "info_url": "https://en.wikipedia.org/wiki/Forward_Taguig_Patriots",
-        "name": "dizzy-phone",
-        "tm_pub_key": "1dR3AIjrM9TsZOYWU4qr02mxLyO13zM8Zs/iNIFLg50=",
-        "vega_pub_key": "ea946e95f14dba9af41dcb7932a93c798266e06307d140f7be4f58a6b04cb1f5",
+      "9R5q58p//kn1w6PnGw1p1R9NO1vfWuoGwpWfsaJfLF8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/7kg5nfh5z5xsjdfqzp7rrvbyr4zg1yl5?d=identicon",
+        "country": "HG",
+        "ethereum_address": "0x374D1B314578B7ED9833Fd1B4751BD1E43A7b26d",
+        "id": "f5510b14956671f65baee00d7c7d0c5e786db3ca8565105a4717a3bcc0a48239",
+        "info_url": "https://en.wikipedia.org/wiki/Tania_Kernaghan",
+        "name": "dizzy-pickle",
+        "tm_pub_key": "9R5q58p//kn1w6PnGw1p1R9NO1vfWuoGwpWfsaJfLF8=",
+        "vega_pub_key": "d81aad92974ceb4a40d890135d067ac56f4be7b8080b38feee93c813ad1a3ca1",
         "vega_pub_key_index": 1
       },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301271018",
+  "chain_id": "vega-devnet1-202301271208",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-27T10:18:23.009119786Z",
+  "genesis_time": "2023-01-27T12:08:02.048664438Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "BB2DBE056665BDFC7157C5344D7FC6B863D15E51",
-      "name": "dizzy-phone",
+      "address": "26160E1F944F10728E431A4CB48D731501CC9D40",
+      "name": "dizzy-pickle",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "1dR3AIjrM9TsZOYWU4qr02mxLyO13zM8Zs/iNIFLg50="
+        "value": "9R5q58p//kn1w6PnGw1p1R9NO1vfWuoGwpWfsaJfLF8="
       }
     }
   ]
