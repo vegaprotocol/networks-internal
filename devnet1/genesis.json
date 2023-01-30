@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "6Od5SrQ17T2g7hLt1BAavSmRFqtDSCdg124QiOyflqs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ccjg1m80kspozrmm489y60mhnng09to6?d=identicon",
-        "country": "EG",
-        "ethereum_address": "0xAeeEACb2C729657BD60C140025CFEF907D6f9d82",
-        "id": "406887123a3e122629df13f4406c41ca7dae24a78aaa54af15637758e1649afc",
-        "info_url": "https://en.wikipedia.org/wiki/Parlok",
-        "name": "helpful-town",
-        "tm_pub_key": "6Od5SrQ17T2g7hLt1BAavSmRFqtDSCdg124QiOyflqs=",
-        "vega_pub_key": "944b5bbe5bfe39163fc5b1bdf9fce9d7048b38b01f05dae8bcf3bdafab2c117d",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "f7ctEIFpDFCckAqV6TfO8pJJr60qYkjDQd5/iZxYMPg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/bjm54ph2poft8cb62ktem4w0qwut2bsm?d=identicon",
+        "country": "UB",
+        "ethereum_address": "0x4179E4e598A495A5a403d3F3Fe030B4906b6cDbB",
+        "id": "d9b6afb9e9956d1707a6aa46b2e82259c9f86407d2842bb3f8e7219c67d578e5",
+        "info_url": "https://en.wikipedia.org/wiki/Tilku",
+        "name": "green-coffee",
+        "tm_pub_key": "f7ctEIFpDFCckAqV6TfO8pJJr60qYkjDQd5/iZxYMPg=",
+        "vega_pub_key": "7b4c5de4006053d57d7ebb615ace47ec5ec1d1bb6c87f3494bf3c64a8c591f39",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301271528",
+  "chain_id": "vega-devnet1-202301300907",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-27T15:28:56.95333678Z",
+  "genesis_time": "2023-01-30T09:07:41.952355284Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "B81E632B62F0293EE5370CC5891F2D50861A348C",
-      "name": "helpful-town",
+      "address": "888F8A60F3240BBF09F084C1EF6016A62F53C9E7",
+      "name": "green-coffee",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "6Od5SrQ17T2g7hLt1BAavSmRFqtDSCdg124QiOyflqs="
+        "value": "f7ctEIFpDFCckAqV6TfO8pJJr60qYkjDQd5/iZxYMPg="
       }
     }
   ]
