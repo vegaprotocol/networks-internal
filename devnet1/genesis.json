@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "5gnask+JX0AIwuvC6/1Tn9LdaFMYiboWfxoqwXDVueg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/cnf4n9ajsqfkgnnilhxwfexhu11t6tjs?d=identicon",
+        "country": "WW",
+        "ethereum_address": "0x3BDcF4528A741FFdE0511EB2Fe168Fc3C1Ac3d84",
+        "id": "f65ae41093262316f9f2e75c4fbf11ef2c1b6f19f4214cc790159d09f5d9c26d",
+        "info_url": "https://en.wikipedia.org/wiki/SZSE_200_Index",
+        "name": "happy-brother",
+        "tm_pub_key": "5gnask+JX0AIwuvC6/1Tn9LdaFMYiboWfxoqwXDVueg=",
+        "vega_pub_key": "78e664209ed5007dfaa6c2eaf35ce962816a90884c5f6b759990474c788db1d4",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -289,17 +300,6 @@
         "name": "friendly-barber",
         "tm_pub_key": "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=",
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
-        "vega_pub_key_index": 1
-      },
-      "GnG42psAF3Rngtnmo+oJHxQpqFa7c4vDxsZSWAgYz8w=": {
-        "avatar_url": "https://www.gravatar.com/avatar/h170ddo6r21c99zca01uppat2ii4qqhx?d=identicon",
-        "country": "UN",
-        "ethereum_address": "0x62941d4364ce301f87fa0378A0ae515E774C4AA3",
-        "id": "2141667a9e28670b944f87db6067ef569316ab209d96c8a902c277bfc8cb44cf",
-        "info_url": "https://en.wikipedia.org/wiki/1981_Tel_Aviv_Open",
-        "name": "faint-shirt",
-        "tm_pub_key": "GnG42psAF3Rngtnmo+oJHxQpqFa7c4vDxsZSWAgYz8w=",
-        "vega_pub_key": "659de9c2ee0db356d5a25d8c42ba2831f04a3825ca55d8eec9c30044b7951087",
         "vega_pub_key_index": 1
       },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301301126",
+  "chain_id": "vega-devnet1-202301301202",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-30T11:26:04.247627159Z",
+  "genesis_time": "2023-01-30T12:02:35.953634421Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "A0D1D063A507E47CCFA4DB2D800D859A24B7A3F3",
-      "name": "faint-shirt",
+      "address": "DE6834BF32842C5D4E33EC08BB0A3306262E4450",
+      "name": "happy-brother",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "GnG42psAF3Rngtnmo+oJHxQpqFa7c4vDxsZSWAgYz8w="
+        "value": "5gnask+JX0AIwuvC6/1Tn9LdaFMYiboWfxoqwXDVueg="
       }
     }
   ]
