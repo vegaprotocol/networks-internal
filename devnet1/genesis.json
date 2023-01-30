@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "5gnask+JX0AIwuvC6/1Tn9LdaFMYiboWfxoqwXDVueg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/cnf4n9ajsqfkgnnilhxwfexhu11t6tjs?d=identicon",
-        "country": "WW",
-        "ethereum_address": "0x3BDcF4528A741FFdE0511EB2Fe168Fc3C1Ac3d84",
-        "id": "f65ae41093262316f9f2e75c4fbf11ef2c1b6f19f4214cc790159d09f5d9c26d",
-        "info_url": "https://en.wikipedia.org/wiki/SZSE_200_Index",
-        "name": "happy-brother",
-        "tm_pub_key": "5gnask+JX0AIwuvC6/1Tn9LdaFMYiboWfxoqwXDVueg=",
-        "vega_pub_key": "78e664209ed5007dfaa6c2eaf35ce962816a90884c5f6b759990474c788db1d4",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "vybikrsmbQA/+wxhmr8VYzB5uFWg7LHK960H++DyR6U=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ac7tbpyizo4ezzk12fwuaqybgibgaz3s?d=identicon",
+        "country": "SA",
+        "ethereum_address": "0xDF5367076018995fd106A5401d8045e41170D365",
+        "id": "c38a768a2c02f1c8a11c82569abac52000e9e688e26b112bec18bac5de60d996",
+        "info_url": "https://en.wikipedia.org/wiki/Excoecaria_bantamensis",
+        "name": "dizzy-candle",
+        "tm_pub_key": "vybikrsmbQA/+wxhmr8VYzB5uFWg7LHK960H++DyR6U=",
+        "vega_pub_key": "f7e511f9a917030542919c4540a5f750fe1be133d315dbb3374af360af718dfa",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202301301202",
+  "chain_id": "vega-devnet1-202301301700",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-30T12:02:35.953634421Z",
+  "genesis_time": "2023-01-30T17:00:39.063888968Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "DE6834BF32842C5D4E33EC08BB0A3306262E4450",
-      "name": "happy-brother",
+      "address": "1EDB2DFF2E47131D544D13C00B68059BA2140F6C",
+      "name": "dizzy-candle",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "5gnask+JX0AIwuvC6/1Tn9LdaFMYiboWfxoqwXDVueg="
+        "value": "vybikrsmbQA/+wxhmr8VYzB5uFWg7LHK960H++DyR6U="
       }
     }
   ]
