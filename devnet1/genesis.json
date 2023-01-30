@@ -291,6 +291,17 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
+      "GnG42psAF3Rngtnmo+oJHxQpqFa7c4vDxsZSWAgYz8w=": {
+        "avatar_url": "https://www.gravatar.com/avatar/h170ddo6r21c99zca01uppat2ii4qqhx?d=identicon",
+        "country": "UN",
+        "ethereum_address": "0x62941d4364ce301f87fa0378A0ae515E774C4AA3",
+        "id": "2141667a9e28670b944f87db6067ef569316ab209d96c8a902c277bfc8cb44cf",
+        "info_url": "https://en.wikipedia.org/wiki/1981_Tel_Aviv_Open",
+        "name": "faint-shirt",
+        "tm_pub_key": "GnG42psAF3Rngtnmo+oJHxQpqFa7c4vDxsZSWAgYz8w=",
+        "vega_pub_key": "659de9c2ee0db356d5a25d8c42ba2831f04a3825ca55d8eec9c30044b7951087",
+        "vega_pub_key_index": 1
+      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -300,17 +311,6 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
-        "vega_pub_key_index": 1
-      },
-      "f7ctEIFpDFCckAqV6TfO8pJJr60qYkjDQd5/iZxYMPg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/bjm54ph2poft8cb62ktem4w0qwut2bsm?d=identicon",
-        "country": "UB",
-        "ethereum_address": "0x4179E4e598A495A5a403d3F3Fe030B4906b6cDbB",
-        "id": "d9b6afb9e9956d1707a6aa46b2e82259c9f86407d2842bb3f8e7219c67d578e5",
-        "info_url": "https://en.wikipedia.org/wiki/Tilku",
-        "name": "green-coffee",
-        "tm_pub_key": "f7ctEIFpDFCckAqV6TfO8pJJr60qYkjDQd5/iZxYMPg=",
-        "vega_pub_key": "7b4c5de4006053d57d7ebb615ace47ec5ec1d1bb6c87f3494bf3c64a8c591f39",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202301300907",
+  "chain_id": "vega-devnet1-202301301126",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-30T09:07:41.952355284Z",
+  "genesis_time": "2023-01-30T11:26:04.247627159Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "888F8A60F3240BBF09F084C1EF6016A62F53C9E7",
-      "name": "green-coffee",
+      "address": "A0D1D063A507E47CCFA4DB2D800D859A24B7A3F3",
+      "name": "faint-shirt",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "f7ctEIFpDFCckAqV6TfO8pJJr60qYkjDQd5/iZxYMPg="
+        "value": "GnG42psAF3Rngtnmo+oJHxQpqFa7c4vDxsZSWAgYz8w="
       }
     }
   ]
