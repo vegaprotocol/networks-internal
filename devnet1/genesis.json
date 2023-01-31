@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "5vmGlrZC7YNW2CGzL4sJ2wl2ScBa3wP8qUk2A+olqDY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/5qrdjtj47q822jprnrbytlsaheae0hta?d=identicon",
-        "country": "IX",
-        "ethereum_address": "0x8C44596A01ED110a361308aDFd385616e9602269",
-        "id": "a389c32a56b815392b84dd63eeed677f783f8f062f6a4550b3905a55aac2c001",
-        "info_url": "https://en.wikipedia.org/wiki/Zlatari%C4%87_family",
-        "name": "shapely-movie",
-        "tm_pub_key": "5vmGlrZC7YNW2CGzL4sJ2wl2ScBa3wP8qUk2A+olqDY=",
-        "vega_pub_key": "14f125a3e384fc8e03c7836c80e4444d78a0d5e4b0298c31ae0b845f4e02292c",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "w6ZEurDCEAraV7V+fEx9SpJFAYP9rbUz2/zkkBmR4sE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/nwzxgbh8czog6z8n263mtq6vuzntjubj?d=identicon",
+        "country": "HZ",
+        "ethereum_address": "0x7883b12eb77Ae76c37fC61a7A8680d1E68dDCD47",
+        "id": "b8d659c8a4707c5deb82103f47907e108fdfbd6beeda1b20028753c1cd7dbc6a",
+        "info_url": "https://en.wikipedia.org/wiki/Bob_Gemmill",
+        "name": "tense-tile",
+        "tm_pub_key": "w6ZEurDCEAraV7V+fEx9SpJFAYP9rbUz2/zkkBmR4sE=",
+        "vega_pub_key": "1986cc06e95d5cb1e9c03141ab525146fe7be3cf103ff1efa5f60c867faac083",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202301311519",
+  "chain_id": "vega-devnet1-202301311919",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-31T15:19:34.216157712Z",
+  "genesis_time": "2023-01-31T19:19:05.302088996Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "2DD043FDB4F70D5A063B11EC2EF766057E018D0A",
-      "name": "shapely-movie",
+      "address": "2F1F10C475C9041BF55F97DDBC9FC772ABB40AC6",
+      "name": "tense-tile",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "5vmGlrZC7YNW2CGzL4sJ2wl2ScBa3wP8qUk2A+olqDY="
+        "value": "w6ZEurDCEAraV7V+fEx9SpJFAYP9rbUz2/zkkBmR4sE="
       }
     }
   ]
