@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "+wssv+lUOEK/htMWpG9tJtqsJYZaaKACGh4cfTWK6Tc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/gvc9vabidzg0f0g38ovpnx99qxwr9g2h?d=identicon",
-        "country": "PL",
-        "ethereum_address": "0xc9715F2298bF2D80785eC6c8e23F1E08A1a8Eed1",
-        "id": "d6af4a537716eba1369dc7699c8fdaf89ed1313d8c93a164da3dcc831f1fc181",
-        "info_url": "https://en.wikipedia.org/wiki/Basel_drum",
-        "name": "important-lake",
-        "tm_pub_key": "+wssv+lUOEK/htMWpG9tJtqsJYZaaKACGh4cfTWK6Tc=",
-        "vega_pub_key": "fd0f16ca0f4485516f8d3c438c084164d4a442c02e54a9ce7dbe457751ea2357",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "Kfovx1D6HpRZ+QO8D+UObAJ/ZC/7QzUqehFa3tpFitY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/5fd8s2t7b33xcquuqtk3u16nza9c0sf6?d=identicon",
+        "country": "TG",
+        "ethereum_address": "0xf805BB6e7748bc128fCDBBb72C187bA83B5232F7",
+        "id": "b80c343c376b8da3e49503a7bd748b6ce8a4dfdddd92697e23cd0b3a28b6ae1a",
+        "info_url": "https://en.wikipedia.org/wiki/Colonnaded_Street",
+        "name": "excited-honey",
+        "tm_pub_key": "Kfovx1D6HpRZ+QO8D+UObAJ/ZC/7QzUqehFa3tpFitY=",
+        "vega_pub_key": "ffb27179ae8f67b1b103ec77ea29b36b98f3a479c14b11b6167b0ca9e23dd13e",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302011314",
+  "chain_id": "vega-devnet1-202302011414",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-01T13:14:22.712099299Z",
+  "genesis_time": "2023-02-01T14:14:41.687785491Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "AD4DE77D83FACE588C53A47A03C05F19D3F7E8B1",
-      "name": "important-lake",
+      "address": "2150B61D4ADA5B4DCAB251AF3F6553B9A6B70E74",
+      "name": "excited-honey",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "+wssv+lUOEK/htMWpG9tJtqsJYZaaKACGh4cfTWK6Tc="
+        "value": "Kfovx1D6HpRZ+QO8D+UObAJ/ZC/7QzUqehFa3tpFitY="
       }
     }
   ]
