@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "M5EGIpzM6TM7c54gNOpm92FCdpyNurrGVRQgb+kEfl8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/gpiwn51cl63pxz8jtgncw70tyvsgtg0z?d=identicon",
-        "country": "TV",
-        "ethereum_address": "0x8a931D254Bf5c3C94A11FE0C8F566514DA13FA37",
-        "id": "317d96b1ca02f5a618ee2a53481f6420c1e19991cd4f6de1bc019ebba1743c12",
-        "info_url": "https://en.wikipedia.org/wiki/Marian_Dra%C5%BCd%C5%BCewski",
-        "name": "courageous-pickle",
-        "tm_pub_key": "M5EGIpzM6TM7c54gNOpm92FCdpyNurrGVRQgb+kEfl8=",
-        "vega_pub_key": "64124bdaa403dfd43acbf85fa65a05c07a6dbaa7f3b447dd9ed3509ceed9d42c",
+      "V5PBpDWVZomtgtazHpWOnU15Snya1bfkxE0fMqyuIF8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/1p27f4rcbep8eyfsju3scrk4l4i2xhw9?d=identicon",
+        "country": "LO",
+        "ethereum_address": "0x7b33B9fEf8Ba01522CC292F2531c585CCBB7EbEF",
+        "id": "8452d1a9a4456751b030546342a761b4ba8eda63b5566589fd7d2d4193c5495b",
+        "info_url": "https://en.wikipedia.org/wiki/How_Europe_Underdeveloped_Africa",
+        "name": "friendly-spoon",
+        "tm_pub_key": "V5PBpDWVZomtgtazHpWOnU15Snya1bfkxE0fMqyuIF8=",
+        "vega_pub_key": "91bc5a6b8d3c40d174180e90045229a2c6e9b61d2a0bd2feffa1bcc4ec22747a",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302011102",
+  "chain_id": "vega-devnet1-202302011212",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-01T11:02:07.179765778Z",
+  "genesis_time": "2023-02-01T12:12:56.032057258Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "D4B857953A3F6AA593B7071BC6D6DF3CD86548F5",
-      "name": "courageous-pickle",
+      "address": "6259BE0B295190C4B85732114358234CF87073A8",
+      "name": "friendly-spoon",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "M5EGIpzM6TM7c54gNOpm92FCdpyNurrGVRQgb+kEfl8="
+        "value": "V5PBpDWVZomtgtazHpWOnU15Snya1bfkxE0fMqyuIF8="
       }
     }
   ]
