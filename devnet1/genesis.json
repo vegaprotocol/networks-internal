@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "hlAG1Gm2smj+6gsoXFcAy1xikf5gEHwjJT8evMn+J0w=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ji2ysh2yil3q0705ff2nha5lk6krl2dp?d=identicon",
-        "country": "DI",
-        "ethereum_address": "0x3ffe540EdA0b583e53b0F737e462fDae86CD66f0",
-        "id": "5d2ce32321c9fb090269dfd2c77331f409734d4d6672edf4edfdc2a1980e174c",
-        "info_url": "https://en.wikipedia.org/wiki/Malinie,_Lublin_Voivodeship",
-        "name": "costly-roof",
-        "tm_pub_key": "hlAG1Gm2smj+6gsoXFcAy1xikf5gEHwjJT8evMn+J0w=",
-        "vega_pub_key": "29831d0245b3e2d3b9acd2e11daa73080689b92312d1485c1c228827c6dbd10a",
+      "M5EGIpzM6TM7c54gNOpm92FCdpyNurrGVRQgb+kEfl8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/gpiwn51cl63pxz8jtgncw70tyvsgtg0z?d=identicon",
+        "country": "TV",
+        "ethereum_address": "0x8a931D254Bf5c3C94A11FE0C8F566514DA13FA37",
+        "id": "317d96b1ca02f5a618ee2a53481f6420c1e19991cd4f6de1bc019ebba1743c12",
+        "info_url": "https://en.wikipedia.org/wiki/Marian_Dra%C5%BCd%C5%BCewski",
+        "name": "courageous-pickle",
+        "tm_pub_key": "M5EGIpzM6TM7c54gNOpm92FCdpyNurrGVRQgb+kEfl8=",
+        "vega_pub_key": "64124bdaa403dfd43acbf85fa65a05c07a6dbaa7f3b447dd9ed3509ceed9d42c",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302011032",
+  "chain_id": "vega-devnet1-202302011102",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-01T10:32:27.638422038Z",
+  "genesis_time": "2023-02-01T11:02:07.179765778Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "6672F58712021370FC15EB8975CBD82C307B008F",
-      "name": "costly-roof",
+      "address": "D4B857953A3F6AA593B7071BC6D6DF3CD86548F5",
+      "name": "courageous-pickle",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "hlAG1Gm2smj+6gsoXFcAy1xikf5gEHwjJT8evMn+J0w="
+        "value": "M5EGIpzM6TM7c54gNOpm92FCdpyNurrGVRQgb+kEfl8="
       }
     }
   ]
