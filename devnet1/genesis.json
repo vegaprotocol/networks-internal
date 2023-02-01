@@ -302,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "hlAG1Gm2smj+6gsoXFcAy1xikf5gEHwjJT8evMn+J0w=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ji2ysh2yil3q0705ff2nha5lk6krl2dp?d=identicon",
+        "country": "DI",
+        "ethereum_address": "0x3ffe540EdA0b583e53b0F737e462fDae86CD66f0",
+        "id": "5d2ce32321c9fb090269dfd2c77331f409734d4d6672edf4edfdc2a1980e174c",
+        "info_url": "https://en.wikipedia.org/wiki/Malinie,_Lublin_Voivodeship",
+        "name": "costly-roof",
+        "tm_pub_key": "hlAG1Gm2smj+6gsoXFcAy1xikf5gEHwjJT8evMn+J0w=",
+        "vega_pub_key": "29831d0245b3e2d3b9acd2e11daa73080689b92312d1485c1c228827c6dbd10a",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "w6ZEurDCEAraV7V+fEx9SpJFAYP9rbUz2/zkkBmR4sE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/nwzxgbh8czog6z8n263mtq6vuzntjubj?d=identicon",
-        "country": "HZ",
-        "ethereum_address": "0x7883b12eb77Ae76c37fC61a7A8680d1E68dDCD47",
-        "id": "b8d659c8a4707c5deb82103f47907e108fdfbd6beeda1b20028753c1cd7dbc6a",
-        "info_url": "https://en.wikipedia.org/wiki/Bob_Gemmill",
-        "name": "tense-tile",
-        "tm_pub_key": "w6ZEurDCEAraV7V+fEx9SpJFAYP9rbUz2/zkkBmR4sE=",
-        "vega_pub_key": "1986cc06e95d5cb1e9c03141ab525146fe7be3cf103ff1efa5f60c867faac083",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202301311919",
+  "chain_id": "vega-devnet1-202302011032",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-01-31T19:19:05.302088996Z",
+  "genesis_time": "2023-02-01T10:32:27.638422038Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "2F1F10C475C9041BF55F97DDBC9FC772ABB40AC6",
-      "name": "tense-tile",
+      "address": "6672F58712021370FC15EB8975CBD82C307B008F",
+      "name": "costly-roof",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "w6ZEurDCEAraV7V+fEx9SpJFAYP9rbUz2/zkkBmR4sE="
+        "value": "hlAG1Gm2smj+6gsoXFcAy1xikf5gEHwjJT8evMn+J0w="
       }
     }
   ]
