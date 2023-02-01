@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "+wssv+lUOEK/htMWpG9tJtqsJYZaaKACGh4cfTWK6Tc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/gvc9vabidzg0f0g38ovpnx99qxwr9g2h?d=identicon",
+        "country": "PL",
+        "ethereum_address": "0xc9715F2298bF2D80785eC6c8e23F1E08A1a8Eed1",
+        "id": "d6af4a537716eba1369dc7699c8fdaf89ed1313d8c93a164da3dcc831f1fc181",
+        "info_url": "https://en.wikipedia.org/wiki/Basel_drum",
+        "name": "important-lake",
+        "tm_pub_key": "+wssv+lUOEK/htMWpG9tJtqsJYZaaKACGh4cfTWK6Tc=",
+        "vega_pub_key": "fd0f16ca0f4485516f8d3c438c084164d4a442c02e54a9ce7dbe457751ea2357",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "V5PBpDWVZomtgtazHpWOnU15Snya1bfkxE0fMqyuIF8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/1p27f4rcbep8eyfsju3scrk4l4i2xhw9?d=identicon",
-        "country": "LO",
-        "ethereum_address": "0x7b33B9fEf8Ba01522CC292F2531c585CCBB7EbEF",
-        "id": "8452d1a9a4456751b030546342a761b4ba8eda63b5566589fd7d2d4193c5495b",
-        "info_url": "https://en.wikipedia.org/wiki/How_Europe_Underdeveloped_Africa",
-        "name": "friendly-spoon",
-        "tm_pub_key": "V5PBpDWVZomtgtazHpWOnU15Snya1bfkxE0fMqyuIF8=",
-        "vega_pub_key": "91bc5a6b8d3c40d174180e90045229a2c6e9b61d2a0bd2feffa1bcc4ec22747a",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302011212",
+  "chain_id": "vega-devnet1-202302011314",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-01T12:12:56.032057258Z",
+  "genesis_time": "2023-02-01T13:14:22.712099299Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "6259BE0B295190C4B85732114358234CF87073A8",
-      "name": "friendly-spoon",
+      "address": "AD4DE77D83FACE588C53A47A03C05F19D3F7E8B1",
+      "name": "important-lake",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "V5PBpDWVZomtgtazHpWOnU15Snya1bfkxE0fMqyuIF8="
+        "value": "+wssv+lUOEK/htMWpG9tJtqsJYZaaKACGh4cfTWK6Tc="
       }
     }
   ]
