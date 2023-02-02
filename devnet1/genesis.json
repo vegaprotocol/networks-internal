@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "21K/Sk8UPYOmqZK1uDHqgNffP5uGx19Qwsw1p0iWFBE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/a1r5tk4th3mhl2fu68v4ujksojbyuk1w?d=identicon",
-        "country": "AN",
-        "ethereum_address": "0x3D41D8923ed985e6439E7b27956EE5A409389566",
-        "id": "202018169210f6d1ea9d8c68ae513851ac600bc0ee9bdbb16c820f10afddf7d0",
-        "info_url": "https://en.wikipedia.org/wiki/Ziauddin_Ahmed_Bablu",
-        "name": "irate-beach",
-        "tm_pub_key": "21K/Sk8UPYOmqZK1uDHqgNffP5uGx19Qwsw1p0iWFBE=",
-        "vega_pub_key": "c9e55527cad29db746db3851f88a1719396c20e4cd55c74a8307f595f1e7f9d6",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "yLqC2nS6mzllPo9HLX3lvvfX1KeDHViffp6qaCnBK58=": {
+        "avatar_url": "https://www.gravatar.com/avatar/onx4rbar5jyaav2v946rvonntuxzmo2f?d=identicon",
+        "country": "DL",
+        "ethereum_address": "0x2cB3486e29c844f37f0B207404c398f4ba048894",
+        "id": "b2639eff4a84e628b1b0064acc305a165444f692fe027e1757e13085a721094e",
+        "info_url": "https://en.wikipedia.org/wiki/Benji_B",
+        "name": "stocky-coffee",
+        "tm_pub_key": "yLqC2nS6mzllPo9HLX3lvvfX1KeDHViffp6qaCnBK58=",
+        "vega_pub_key": "90b2f6668fa9b2d1f859dc9fa4765997e5df149aa0860c42040e52fc72a3f61c",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202302020949",
+  "chain_id": "vega-devnet1-202302021018",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-02T09:49:00.638785904Z",
+  "genesis_time": "2023-02-02T10:18:17.437969798Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "271169256FE790CCE32E272EA45F0364DF2E18A0",
-      "name": "irate-beach",
+      "address": "DDADAB44243EE949A79CE69D53CE3BA80DDE719B",
+      "name": "stocky-coffee",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "21K/Sk8UPYOmqZK1uDHqgNffP5uGx19Qwsw1p0iWFBE="
+        "value": "yLqC2nS6mzllPo9HLX3lvvfX1KeDHViffp6qaCnBK58="
       }
     }
   ]
