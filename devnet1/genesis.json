@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "ffhCRGl3uekZcdnH2akmISZOzWIDwSZgVz0YMaOMZkw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/yhrxs8ljizjx7xs20l33iqm0kwf0z8w4?d=identicon",
-        "country": "HM",
-        "ethereum_address": "0x7770d99D6833eaf1D2B63a042176f67867933751",
-        "id": "24e43418b12b5dab430b3556a770ba706c4e3694591f9e9e6786dfd64239fc25",
-        "info_url": "https://en.wikipedia.org/wiki/SafeToNet",
-        "name": "terrible-road",
-        "tm_pub_key": "ffhCRGl3uekZcdnH2akmISZOzWIDwSZgVz0YMaOMZkw=",
-        "vega_pub_key": "79a06f3e32ae10264204b0833fe5de803c4a7857756e8059f71f4b7334376b21",
+      "NCJTAopRUPYUbAeTFtaUUxaaIuEiwO5hO3f0bIipFhE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/9pgc7whov2bx6rtlh0jvbdis4eqin5j7?d=identicon",
+        "country": "DA",
+        "ethereum_address": "0x3a07d72bA01C41326db96ea525a79Ba1605E79ea",
+        "id": "c8564c7e083fe4f6dc9ca58db092693450b5970c3322aca8a9298b19da2b219b",
+        "info_url": "https://en.wikipedia.org/wiki/Shim_Soon-taek",
+        "name": "rich-car",
+        "tm_pub_key": "NCJTAopRUPYUbAeTFtaUUxaaIuEiwO5hO3f0bIipFhE=",
+        "vega_pub_key": "c192384aa9e1b6a82e9c58178603f74d9b2a16c20b1e9ab90c71bee3716881ee",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302021126",
+  "chain_id": "vega-devnet1-202302021217",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-02T11:26:04.873775001Z",
+  "genesis_time": "2023-02-02T12:17:57.314506087Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "0B590B9C66F89033061EED39D3D508545D4FF537",
-      "name": "terrible-road",
+      "address": "691E316DE7D96718EA7B315F874952C5328FF277",
+      "name": "rich-car",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ffhCRGl3uekZcdnH2akmISZOzWIDwSZgVz0YMaOMZkw="
+        "value": "NCJTAopRUPYUbAeTFtaUUxaaIuEiwO5hO3f0bIipFhE="
       }
     }
   ]
