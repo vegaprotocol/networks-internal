@@ -302,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "ffhCRGl3uekZcdnH2akmISZOzWIDwSZgVz0YMaOMZkw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/yhrxs8ljizjx7xs20l33iqm0kwf0z8w4?d=identicon",
+        "country": "HM",
+        "ethereum_address": "0x7770d99D6833eaf1D2B63a042176f67867933751",
+        "id": "24e43418b12b5dab430b3556a770ba706c4e3694591f9e9e6786dfd64239fc25",
+        "info_url": "https://en.wikipedia.org/wiki/SafeToNet",
+        "name": "terrible-road",
+        "tm_pub_key": "ffhCRGl3uekZcdnH2akmISZOzWIDwSZgVz0YMaOMZkw=",
+        "vega_pub_key": "79a06f3e32ae10264204b0833fe5de803c4a7857756e8059f71f4b7334376b21",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "yLqC2nS6mzllPo9HLX3lvvfX1KeDHViffp6qaCnBK58=": {
-        "avatar_url": "https://www.gravatar.com/avatar/onx4rbar5jyaav2v946rvonntuxzmo2f?d=identicon",
-        "country": "DL",
-        "ethereum_address": "0x2cB3486e29c844f37f0B207404c398f4ba048894",
-        "id": "b2639eff4a84e628b1b0064acc305a165444f692fe027e1757e13085a721094e",
-        "info_url": "https://en.wikipedia.org/wiki/Benji_B",
-        "name": "stocky-coffee",
-        "tm_pub_key": "yLqC2nS6mzllPo9HLX3lvvfX1KeDHViffp6qaCnBK58=",
-        "vega_pub_key": "90b2f6668fa9b2d1f859dc9fa4765997e5df149aa0860c42040e52fc72a3f61c",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202302021018",
+  "chain_id": "vega-devnet1-202302021126",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-02T10:18:17.437969798Z",
+  "genesis_time": "2023-02-02T11:26:04.873775001Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "DDADAB44243EE949A79CE69D53CE3BA80DDE719B",
-      "name": "stocky-coffee",
+      "address": "0B590B9C66F89033061EED39D3D508545D4FF537",
+      "name": "terrible-road",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "yLqC2nS6mzllPo9HLX3lvvfX1KeDHViffp6qaCnBK58="
+        "value": "ffhCRGl3uekZcdnH2akmISZOzWIDwSZgVz0YMaOMZkw="
       }
     }
   ]
