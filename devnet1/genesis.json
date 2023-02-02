@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "NCJTAopRUPYUbAeTFtaUUxaaIuEiwO5hO3f0bIipFhE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/9pgc7whov2bx6rtlh0jvbdis4eqin5j7?d=identicon",
-        "country": "DA",
-        "ethereum_address": "0x3a07d72bA01C41326db96ea525a79Ba1605E79ea",
-        "id": "c8564c7e083fe4f6dc9ca58db092693450b5970c3322aca8a9298b19da2b219b",
-        "info_url": "https://en.wikipedia.org/wiki/Shim_Soon-taek",
-        "name": "rich-car",
-        "tm_pub_key": "NCJTAopRUPYUbAeTFtaUUxaaIuEiwO5hO3f0bIipFhE=",
-        "vega_pub_key": "c192384aa9e1b6a82e9c58178603f74d9b2a16c20b1e9ab90c71bee3716881ee",
+      "LYNfXQSze39whHVakAcoQAnxJ0BvPwQ3qPlbGt3rr0M=": {
+        "avatar_url": "https://www.gravatar.com/avatar/kvf87cr1vqpdg9p9n2fz6gl3zikfuld3?d=identicon",
+        "country": "TR",
+        "ethereum_address": "0x436130940d1c4253BE741b530afa974fa46C7705",
+        "id": "a5ecb2326b4fc0fde1578e7c78a515303b850e92a8da3acfda622a1fb6f9c1c0",
+        "info_url": "https://en.wikipedia.org/wiki/List_of_United_States_senators_in_the_94th_Congress",
+        "name": "frightened-computer",
+        "tm_pub_key": "LYNfXQSze39whHVakAcoQAnxJ0BvPwQ3qPlbGt3rr0M=",
+        "vega_pub_key": "76755e94ce7a170703cb53f934eb8e611b2b35aca04a67a23d78b9ccedeea3e2",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302021251",
+  "chain_id": "vega-devnet1-202302021711",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-02T12:51:31.869235183Z",
+  "genesis_time": "2023-02-02T17:11:11.043493234Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "691E316DE7D96718EA7B315F874952C5328FF277",
-      "name": "rich-car",
+      "address": "B0BB9EFBF77897F1C2327635E1EDBFD0DCF01D40",
+      "name": "frightened-computer",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "NCJTAopRUPYUbAeTFtaUUxaaIuEiwO5hO3f0bIipFhE="
+        "value": "LYNfXQSze39whHVakAcoQAnxJ0BvPwQ3qPlbGt3rr0M="
       }
     }
   ]
