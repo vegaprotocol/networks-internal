@@ -280,6 +280,17 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
+      "CrGHCTsKw59Wh1Um5A1muxwiiTRM8sPiIB1DICSvyFc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/j1j5gu9oc4v70yc2yszupkwl9u2bnwde?d=identicon",
+        "country": "OM",
+        "ethereum_address": "0xAe5C931aE84406323319cd1C238BA242FC6F6168",
+        "id": "6f311f049cd1e3b09176912c235b43e90bb815f05ff13df0c006eaedcc7df03e",
+        "info_url": "https://en.wikipedia.org/wiki/Pilocarpaceae",
+        "name": "hollow-duck",
+        "tm_pub_key": "CrGHCTsKw59Wh1Um5A1muxwiiTRM8sPiIB1DICSvyFc=",
+        "vega_pub_key": "97f0e8a411522f2ba374a4311753aed3b031423be82e3e232eb2e9a1cd72fd0e",
+        "vega_pub_key_index": 1
+      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "LYNfXQSze39whHVakAcoQAnxJ0BvPwQ3qPlbGt3rr0M=": {
-        "avatar_url": "https://www.gravatar.com/avatar/kvf87cr1vqpdg9p9n2fz6gl3zikfuld3?d=identicon",
-        "country": "TR",
-        "ethereum_address": "0x436130940d1c4253BE741b530afa974fa46C7705",
-        "id": "a5ecb2326b4fc0fde1578e7c78a515303b850e92a8da3acfda622a1fb6f9c1c0",
-        "info_url": "https://en.wikipedia.org/wiki/List_of_United_States_senators_in_the_94th_Congress",
-        "name": "frightened-computer",
-        "tm_pub_key": "LYNfXQSze39whHVakAcoQAnxJ0BvPwQ3qPlbGt3rr0M=",
-        "vega_pub_key": "76755e94ce7a170703cb53f934eb8e611b2b35aca04a67a23d78b9ccedeea3e2",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302021711",
+  "chain_id": "vega-devnet1-202302021938",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-02T17:11:11.043493234Z",
+  "genesis_time": "2023-02-02T19:38:45.145961961Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "B0BB9EFBF77897F1C2327635E1EDBFD0DCF01D40",
-      "name": "frightened-computer",
+      "address": "3CC5E4E02A1B0AFD11A4E6E6E497A9579B72A8F2",
+      "name": "hollow-duck",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "LYNfXQSze39whHVakAcoQAnxJ0BvPwQ3qPlbGt3rr0M="
+        "value": "CrGHCTsKw59Wh1Um5A1muxwiiTRM8sPiIB1DICSvyFc="
       }
     }
   ]
