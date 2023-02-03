@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "2ia5hSZ5Rb1jEVk0/gpNiWB59OvexpKPHxc/eBUsO5g=": {
+        "avatar_url": "https://www.gravatar.com/avatar/09b60bx3j7bcg1g1zz00k5nf6o6gwr0l?d=identicon",
+        "country": "KE",
+        "ethereum_address": "0x8F9bC00AeBE1558B938C36105d483c32BC54677B",
+        "id": "c0369343ad1b19c312311cdf57b05b594e1c1b4a7b6d711545572c990374fc77",
+        "info_url": "https://en.wikipedia.org/wiki/BizarroLand_Film_Festival",
+        "name": "lovely-television",
+        "tm_pub_key": "2ia5hSZ5Rb1jEVk0/gpNiWB59OvexpKPHxc/eBUsO5g=",
+        "vega_pub_key": "dde5151e29380bbdc4d1447d5edd54d6d1c9e1f832f6f93e4cff5baf91eef22c",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -278,17 +289,6 @@
         "name": "tricky-teacher",
         "tm_pub_key": "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=",
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
-        "vega_pub_key_index": 1
-      },
-      "CrGHCTsKw59Wh1Um5A1muxwiiTRM8sPiIB1DICSvyFc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/j1j5gu9oc4v70yc2yszupkwl9u2bnwde?d=identicon",
-        "country": "OM",
-        "ethereum_address": "0xAe5C931aE84406323319cd1C238BA242FC6F6168",
-        "id": "6f311f049cd1e3b09176912c235b43e90bb815f05ff13df0c006eaedcc7df03e",
-        "info_url": "https://en.wikipedia.org/wiki/Pilocarpaceae",
-        "name": "hollow-duck",
-        "tm_pub_key": "CrGHCTsKw59Wh1Um5A1muxwiiTRM8sPiIB1DICSvyFc=",
-        "vega_pub_key": "97f0e8a411522f2ba374a4311753aed3b031423be82e3e232eb2e9a1cd72fd0e",
         "vega_pub_key_index": 1
       },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302021938",
+  "chain_id": "vega-devnet1-202302031107",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-02T19:38:45.145961961Z",
+  "genesis_time": "2023-02-03T11:07:19.047194594Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "3CC5E4E02A1B0AFD11A4E6E6E497A9579B72A8F2",
-      "name": "hollow-duck",
+      "address": "CAA8563FD236C5D8E7C1423D106900040DAE0EF5",
+      "name": "lovely-television",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "CrGHCTsKw59Wh1Um5A1muxwiiTRM8sPiIB1DICSvyFc="
+        "value": "2ia5hSZ5Rb1jEVk0/gpNiWB59OvexpKPHxc/eBUsO5g="
       }
     }
   ]
