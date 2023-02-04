@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "2ia5hSZ5Rb1jEVk0/gpNiWB59OvexpKPHxc/eBUsO5g=": {
-        "avatar_url": "https://www.gravatar.com/avatar/09b60bx3j7bcg1g1zz00k5nf6o6gwr0l?d=identicon",
-        "country": "KE",
-        "ethereum_address": "0x8F9bC00AeBE1558B938C36105d483c32BC54677B",
-        "id": "c0369343ad1b19c312311cdf57b05b594e1c1b4a7b6d711545572c990374fc77",
-        "info_url": "https://en.wikipedia.org/wiki/BizarroLand_Film_Festival",
-        "name": "lovely-television",
-        "tm_pub_key": "2ia5hSZ5Rb1jEVk0/gpNiWB59OvexpKPHxc/eBUsO5g=",
-        "vega_pub_key": "dde5151e29380bbdc4d1447d5edd54d6d1c9e1f832f6f93e4cff5baf91eef22c",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "LEGoDJPONNw/BnRon0vgqj/JdiRZ1XZL5dy2e6r5ot4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/17m3cma0byk10eacn09fbk8zaaz7ssvr?d=identicon",
+        "country": "FA",
+        "ethereum_address": "0x48F9D0F5a1a475E906514F12226fCe07c22fCc4E",
+        "id": "d07de970560d71feaa051282bd86a0ca087eeabbcd9ad7359e83a3db27e16391",
+        "info_url": "https://en.wikipedia.org/wiki/Eruciform",
+        "name": "lemon-cloud",
+        "tm_pub_key": "LEGoDJPONNw/BnRon0vgqj/JdiRZ1XZL5dy2e6r5ot4=",
+        "vega_pub_key": "6176a66e4ce17c71b83cd5f5f5be3a649dfa7be0bd9914e914f482e3ccb1d92b",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302031107",
+  "chain_id": "vega-devnet1-202302041306",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-03T11:07:19.047194594Z",
+  "genesis_time": "2023-02-04T13:06:39.481224625Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "CAA8563FD236C5D8E7C1423D106900040DAE0EF5",
-      "name": "lovely-television",
+      "address": "D8CFACB5DAB54F9540CA8A29CD9055D86E2E31C7",
+      "name": "lemon-cloud",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "2ia5hSZ5Rb1jEVk0/gpNiWB59OvexpKPHxc/eBUsO5g="
+        "value": "LEGoDJPONNw/BnRon0vgqj/JdiRZ1XZL5dy2e6r5ot4="
       }
     }
   ]
