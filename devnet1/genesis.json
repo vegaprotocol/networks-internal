@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "6PtJ3yaW7qV5roWgp4+RA5vvqKYhVTwIMbL0AEIXYt8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/eu11tpfzds39brhp3rjybh7gbyyzgmkb?d=identicon",
-        "country": "JZ",
-        "ethereum_address": "0x64c1fF171a6d986dA37514463eF763761b8082EE",
-        "id": "73034e4e8a34d28bc71e0565a0248e28b853e6a7dfc0c15088c73c5ecb92c6a8",
-        "info_url": "https://en.wikipedia.org/wiki/Soviet_cruiser_Aleksandr_Nevsky",
-        "name": "harsh-table",
-        "tm_pub_key": "6PtJ3yaW7qV5roWgp4+RA5vvqKYhVTwIMbL0AEIXYt8=",
-        "vega_pub_key": "88e5a47e74a57d7f34064b7e280be127cc02cdedc82a285f5bd2d7a24ab137f9",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "qttXqo0SSXix8vh/6bCkUeuSj9yJN+EK8gb/p9POM70=": {
+        "avatar_url": "https://www.gravatar.com/avatar/9e6ho4ezc17cuq2qk8g9sv53utfgfou7?d=identicon",
+        "country": "AL",
+        "ethereum_address": "0x8B02dA81A4fCbAE8BF5aE410CfEdE9B02D519245",
+        "id": "d40dae38a576443f3444081df180c065858398fbb9d70f205f83a59a2aa4ddc4",
+        "info_url": "https://en.wikipedia.org/wiki/2014_Waratah_Cup",
+        "name": "wrong-spoon",
+        "tm_pub_key": "qttXqo0SSXix8vh/6bCkUeuSj9yJN+EK8gb/p9POM70=",
+        "vega_pub_key": "d1df4a316b09482d4d5705dc0c7dad339529671795175fff80350ef7b8a07aed",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302061007",
+  "chain_id": "vega-devnet1-202302061427",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-06T10:07:49.490146684Z",
+  "genesis_time": "2023-02-06T14:27:15.585660043Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "AA169A29E96DD7F915D8C6F3F364C16C588135E0",
-      "name": "harsh-table",
+      "address": "48784AD57376110B89FEA99A5ACA8DD599AAD76F",
+      "name": "wrong-spoon",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "6PtJ3yaW7qV5roWgp4+RA5vvqKYhVTwIMbL0AEIXYt8="
+        "value": "qttXqo0SSXix8vh/6bCkUeuSj9yJN+EK8gb/p9POM70="
       }
     }
   ]
