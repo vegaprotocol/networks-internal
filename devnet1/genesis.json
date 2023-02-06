@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "P/RDkp5Ys2/qPHqnovWQKQOwdSThw4a6QqLvPfQpx+c=": {
-        "avatar_url": "https://www.gravatar.com/avatar/zyidvdykwqoj764l9a1a92q64pouyrrl?d=identicon",
-        "country": "MJ",
-        "ethereum_address": "0xa8b6A4b5660C22756eA5BE5E61898A601284D7A5",
-        "id": "0bfeca41aa6e408a82803328e1d437e76da89263f8acb17661b72036a6800ff4",
-        "info_url": "https://en.wikipedia.org/wiki/Courcelle-sur-Yvette_station",
-        "name": "terrible-computer",
-        "tm_pub_key": "P/RDkp5Ys2/qPHqnovWQKQOwdSThw4a6QqLvPfQpx+c=",
-        "vega_pub_key": "58d6cf6b50527ca9d8b1f915629d763e7a765093a53f7d933809ef440bfa14c9",
+      "RzSyWtJ9DJW+MZIVroP/QhvgYAQIJpX7ZdByg6pYIz8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/itd570614ieobdol6cz79juiifaj8i2x?d=identicon",
+        "country": "BE",
+        "ethereum_address": "0x0574829133215884d2C6354C4F74448340bF8dB1",
+        "id": "05d8cd6b355c21f5f03041139c7a1c7cb69c86ad5a40e9113baf185875da5be4",
+        "info_url": "https://en.wikipedia.org/wiki/Golden_(Brandon_Beal_song)",
+        "name": "vast-building",
+        "tm_pub_key": "RzSyWtJ9DJW+MZIVroP/QhvgYAQIJpX7ZdByg6pYIz8=",
+        "vega_pub_key": "d2e2b3a34ad4ed62f756d717bddb50d6316b3cc0bb0bbba93c6a0c572efa8769",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302061625",
+  "chain_id": "vega-devnet1-202302061743",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-06T16:25:23.863696033Z",
+  "genesis_time": "2023-02-06T17:43:27.628392067Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "24F3386829B5A9EEF5D5F20D4A9EF4AA6332999E",
-      "name": "terrible-computer",
+      "address": "D23436750CAA427A5AAF66A521FCAEE4B22D61F2",
+      "name": "vast-building",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "P/RDkp5Ys2/qPHqnovWQKQOwdSThw4a6QqLvPfQpx+c="
+        "value": "RzSyWtJ9DJW+MZIVroP/QhvgYAQIJpX7ZdByg6pYIz8="
       }
     }
   ]
