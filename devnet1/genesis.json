@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "6PtJ3yaW7qV5roWgp4+RA5vvqKYhVTwIMbL0AEIXYt8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/eu11tpfzds39brhp3rjybh7gbyyzgmkb?d=identicon",
+        "country": "JZ",
+        "ethereum_address": "0x64c1fF171a6d986dA37514463eF763761b8082EE",
+        "id": "73034e4e8a34d28bc71e0565a0248e28b853e6a7dfc0c15088c73c5ecb92c6a8",
+        "info_url": "https://en.wikipedia.org/wiki/Soviet_cruiser_Aleksandr_Nevsky",
+        "name": "harsh-table",
+        "tm_pub_key": "6PtJ3yaW7qV5roWgp4+RA5vvqKYhVTwIMbL0AEIXYt8=",
+        "vega_pub_key": "88e5a47e74a57d7f34064b7e280be127cc02cdedc82a285f5bd2d7a24ab137f9",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "LEGoDJPONNw/BnRon0vgqj/JdiRZ1XZL5dy2e6r5ot4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/17m3cma0byk10eacn09fbk8zaaz7ssvr?d=identicon",
-        "country": "FA",
-        "ethereum_address": "0x48F9D0F5a1a475E906514F12226fCe07c22fCc4E",
-        "id": "d07de970560d71feaa051282bd86a0ca087eeabbcd9ad7359e83a3db27e16391",
-        "info_url": "https://en.wikipedia.org/wiki/Eruciform",
-        "name": "lemon-cloud",
-        "tm_pub_key": "LEGoDJPONNw/BnRon0vgqj/JdiRZ1XZL5dy2e6r5ot4=",
-        "vega_pub_key": "6176a66e4ce17c71b83cd5f5f5be3a649dfa7be0bd9914e914f482e3ccb1d92b",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302041306",
+  "chain_id": "vega-devnet1-202302061007",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-04T13:06:39.481224625Z",
+  "genesis_time": "2023-02-06T10:07:49.490146684Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "D8CFACB5DAB54F9540CA8A29CD9055D86E2E31C7",
-      "name": "lemon-cloud",
+      "address": "AA169A29E96DD7F915D8C6F3F364C16C588135E0",
+      "name": "harsh-table",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "LEGoDJPONNw/BnRon0vgqj/JdiRZ1XZL5dy2e6r5ot4="
+        "value": "6PtJ3yaW7qV5roWgp4+RA5vvqKYhVTwIMbL0AEIXYt8="
       }
     }
   ]
