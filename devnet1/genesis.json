@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "qttXqo0SSXix8vh/6bCkUeuSj9yJN+EK8gb/p9POM70=": {
-        "avatar_url": "https://www.gravatar.com/avatar/9e6ho4ezc17cuq2qk8g9sv53utfgfou7?d=identicon",
-        "country": "AL",
-        "ethereum_address": "0x8B02dA81A4fCbAE8BF5aE410CfEdE9B02D519245",
-        "id": "d40dae38a576443f3444081df180c065858398fbb9d70f205f83a59a2aa4ddc4",
-        "info_url": "https://en.wikipedia.org/wiki/2014_Waratah_Cup",
-        "name": "wrong-spoon",
-        "tm_pub_key": "qttXqo0SSXix8vh/6bCkUeuSj9yJN+EK8gb/p9POM70=",
-        "vega_pub_key": "d1df4a316b09482d4d5705dc0c7dad339529671795175fff80350ef7b8a07aed",
+      "b035cMdEmBCQAx4mvHF2b/KpYdXeOBI4lNSU6WMD1uM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/b3voh1jv2bw83bvuivtd59qv46w30ok3?d=identicon",
+        "country": "TR",
+        "ethereum_address": "0xfDFcA9f53aF86d86B1fE5cc4e1d34aE1175e5d3d",
+        "id": "55646cf43d583c05436d02693f722746e7f594ff9cac86a84be9ec7abd131ef3",
+        "info_url": "https://en.wikipedia.org/wiki/Loyn_%26_Co",
+        "name": "graceful-tree",
+        "tm_pub_key": "b035cMdEmBCQAx4mvHF2b/KpYdXeOBI4lNSU6WMD1uM=",
+        "vega_pub_key": "bb177e1504b538efe2f05b311bfb4855e850019f513ae493bdb22c7ec6e63372",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302061427",
+  "chain_id": "vega-devnet1-202302061518",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-06T14:27:15.585660043Z",
+  "genesis_time": "2023-02-06T15:18:29.72051913Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "48784AD57376110B89FEA99A5ACA8DD599AAD76F",
-      "name": "wrong-spoon",
+      "address": "C466A4FFBF4F3FC6032BDE9BC3B3D04CED23EEEF",
+      "name": "graceful-tree",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "qttXqo0SSXix8vh/6bCkUeuSj9yJN+EK8gb/p9POM70="
+        "value": "b035cMdEmBCQAx4mvHF2b/KpYdXeOBI4lNSU6WMD1uM="
       }
     }
   ]
