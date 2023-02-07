@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "0i38qtKOqWp47ufbisB4BuBtWdmGDuWm6wx2Nf/n2Hw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/v1qfaf4c0fpod4wn4sa6p2zjrcx6m1ej?d=identicon",
+        "country": "NO",
+        "ethereum_address": "0xC64420AC207A8fE9d75D1EAbC98835018Cbe28f7",
+        "id": "ca0240cb8d762d437b2af34312cd59043a6075ab2a81ba514e662bd527deb21c",
+        "info_url": "https://en.wikipedia.org/wiki/Dinesh_Debbarma",
+        "name": "gray-music",
+        "tm_pub_key": "0i38qtKOqWp47ufbisB4BuBtWdmGDuWm6wx2Nf/n2Hw=",
+        "vega_pub_key": "d3ff44217b6073051fca1b194f6438c7366be6a88724e254b19271118ba2b880",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "Jr7O3uGZFxTL9AIGytrrXAJ7YnnAscdjhEXLDr/dsuc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/i9rb45m8079k43dudptlf7gud9jzd9sk?d=identicon",
-        "country": "OV",
-        "ethereum_address": "0x2343F3019Be86fEe3c2e8891A376CedF72b1d12A",
-        "id": "4dc90e96f1ec57a298d9750c9d413b0ec6dc82e71d21e5862b6d00b52dd0091b",
-        "info_url": "https://en.wikipedia.org/wiki/Mohammad_Soleiman_Alizadeh",
-        "name": "mysterious-policeman",
-        "tm_pub_key": "Jr7O3uGZFxTL9AIGytrrXAJ7YnnAscdjhEXLDr/dsuc=",
-        "vega_pub_key": "0e3b52d89fe221bd783549444bffda89b41b8c669881dea7d8f411661a2bf992",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302062144",
+  "chain_id": "vega-devnet1-202302070928",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-06T21:44:32.013495928Z",
+  "genesis_time": "2023-02-07T09:28:45.624509476Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "FEA691429E9FAED0A02127183A00B8BAFFE7933B",
-      "name": "mysterious-policeman",
+      "address": "B0706B5A46139CCD24F2A8AB12049646B2E88A17",
+      "name": "gray-music",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Jr7O3uGZFxTL9AIGytrrXAJ7YnnAscdjhEXLDr/dsuc="
+        "value": "0i38qtKOqWp47ufbisB4BuBtWdmGDuWm6wx2Nf/n2Hw="
       }
     }
   ]
