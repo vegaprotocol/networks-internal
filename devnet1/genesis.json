@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "0i38qtKOqWp47ufbisB4BuBtWdmGDuWm6wx2Nf/n2Hw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/v1qfaf4c0fpod4wn4sa6p2zjrcx6m1ej?d=identicon",
-        "country": "NO",
-        "ethereum_address": "0xC64420AC207A8fE9d75D1EAbC98835018Cbe28f7",
-        "id": "ca0240cb8d762d437b2af34312cd59043a6075ab2a81ba514e662bd527deb21c",
-        "info_url": "https://en.wikipedia.org/wiki/Dinesh_Debbarma",
-        "name": "gray-music",
-        "tm_pub_key": "0i38qtKOqWp47ufbisB4BuBtWdmGDuWm6wx2Nf/n2Hw=",
-        "vega_pub_key": "d3ff44217b6073051fca1b194f6438c7366be6a88724e254b19271118ba2b880",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "YNVyvqqtqxboee40Gut7xS+0u4MAy9Yqa5Wp8z9Q9vg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/0bvh7dj9ut386f9r4tsmierycsf49qvw?d=identicon",
+        "country": "UC",
+        "ethereum_address": "0xac8DdAe72dd178B8751e55d7e756Eb54f536C307",
+        "id": "8ab522aac47a9082105ea092db25fa3e000c686b9e46048af5d84d78976a9183",
+        "info_url": "https://en.wikipedia.org/wiki/Kuseyevo",
+        "name": "disturbed-man",
+        "tm_pub_key": "YNVyvqqtqxboee40Gut7xS+0u4MAy9Yqa5Wp8z9Q9vg=",
+        "vega_pub_key": "78cec206ca49d222a0b490be206428cb9b9257a971c1eea6fe6ecffd3834ba4b",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302070928",
+  "chain_id": "vega-devnet1-202302071030",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-07T09:28:45.624509476Z",
+  "genesis_time": "2023-02-07T10:30:08.543833779Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "B0706B5A46139CCD24F2A8AB12049646B2E88A17",
-      "name": "gray-music",
+      "address": "89A54E63A764276E74369E12EB6E34B6457DCCA3",
+      "name": "disturbed-man",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "0i38qtKOqWp47ufbisB4BuBtWdmGDuWm6wx2Nf/n2Hw="
+        "value": "YNVyvqqtqxboee40Gut7xS+0u4MAy9Yqa5Wp8z9Q9vg="
       }
     }
   ]
