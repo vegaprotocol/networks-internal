@@ -291,6 +291,17 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
+      "JCjhEu2d8ERuKSqEdq8JIIQMNDUTxEhimFE2uXuOtX8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/n034soc34g4k88erxdegbaikj3v2kg3z?d=identicon",
+        "country": "WP",
+        "ethereum_address": "0xDc660E29Ae4Ef1287f7426a2D6825A0D152fCECe",
+        "id": "8f2709d3d80240a2d0f3fa0811fdfae4f574fe9442902bbe44b246c56341a3b7",
+        "info_url": "https://en.wikipedia.org/wiki/%C3%89tude_Op._10,_No._6_(Chopin)",
+        "name": "helpful-dress",
+        "tm_pub_key": "JCjhEu2d8ERuKSqEdq8JIIQMNDUTxEhimFE2uXuOtX8=",
+        "vega_pub_key": "d68b22e56ef92cbfaa8e1613cb6979430cf47b331a89355e11c9ebb5ad64713f",
+        "vega_pub_key_index": 1
+      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -300,17 +311,6 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
-        "vega_pub_key_index": 1
-      },
-      "YNVyvqqtqxboee40Gut7xS+0u4MAy9Yqa5Wp8z9Q9vg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/0bvh7dj9ut386f9r4tsmierycsf49qvw?d=identicon",
-        "country": "UC",
-        "ethereum_address": "0xac8DdAe72dd178B8751e55d7e756Eb54f536C307",
-        "id": "8ab522aac47a9082105ea092db25fa3e000c686b9e46048af5d84d78976a9183",
-        "info_url": "https://en.wikipedia.org/wiki/Kuseyevo",
-        "name": "disturbed-man",
-        "tm_pub_key": "YNVyvqqtqxboee40Gut7xS+0u4MAy9Yqa5Wp8z9Q9vg=",
-        "vega_pub_key": "78cec206ca49d222a0b490be206428cb9b9257a971c1eea6fe6ecffd3834ba4b",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302071030",
+  "chain_id": "vega-devnet1-202302071114",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-07T10:30:08.543833779Z",
+  "genesis_time": "2023-02-07T11:14:40.832109801Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "89A54E63A764276E74369E12EB6E34B6457DCCA3",
-      "name": "disturbed-man",
+      "address": "C40E17E1D4C1CFD2E0B89E7744B3E0DCD088704C",
+      "name": "helpful-dress",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "YNVyvqqtqxboee40Gut7xS+0u4MAy9Yqa5Wp8z9Q9vg="
+        "value": "JCjhEu2d8ERuKSqEdq8JIIQMNDUTxEhimFE2uXuOtX8="
       }
     }
   ]
