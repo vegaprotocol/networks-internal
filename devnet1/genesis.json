@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "fK5GHTFRV4bHlqCDpmVh24vowRdYFNJ08hbl+TPZJeQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/1ke4nbu98un1od30rart80o5leetsrl5?d=identicon",
-        "country": "PV",
-        "ethereum_address": "0x38bcA006ca1902f76F74eF9AF952bDAF0b064733",
-        "id": "106e5185b79653096c868eeb76d3195dd3edff990f12868fc9a40f19e30cbec8",
-        "info_url": "https://en.wikipedia.org/wiki/Football_at_the_2009_Summer_Universiade",
-        "name": "foolish-dress",
-        "tm_pub_key": "fK5GHTFRV4bHlqCDpmVh24vowRdYFNJ08hbl+TPZJeQ=",
-        "vega_pub_key": "cc876cb233af10b3402bd9be9be5ec01bfb6ec11dc494d6eeac1164c36d9f6c1",
+      "QIf5XwUehT+jrBRm2Qldtr7pY+keA4u3/G9xnPDJhSI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/rapjnff4ns0ggnqpevm4wwrgmaktk3z6?d=identicon",
+        "country": "YU",
+        "ethereum_address": "0x83D4705201D19fB1a4cBBC630fb3de6986e68953",
+        "id": "4d05e3f906f3c492751acfbeb503fbd290dbb8ad99f41cf707ae303f8e6c718b",
+        "info_url": "https://en.wikipedia.org/wiki/Tommy_Franks",
+        "name": "gifted-window",
+        "tm_pub_key": "QIf5XwUehT+jrBRm2Qldtr7pY+keA4u3/G9xnPDJhSI=",
+        "vega_pub_key": "40a2749f1582daff17976b2d0b6c511effcce431234c9fa4ee565ae203ed3857",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302071603",
+  "chain_id": "vega-devnet1-202302071747",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-07T16:03:20.842594503Z",
+  "genesis_time": "2023-02-07T17:47:14.250640795Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "37345F7EA23DAA45D3C47AC4D9FF6ABE5318B54B",
-      "name": "foolish-dress",
+      "address": "D953C2E04B355C11203EA92959A2E541A9B61EF7",
+      "name": "gifted-window",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "fK5GHTFRV4bHlqCDpmVh24vowRdYFNJ08hbl+TPZJeQ="
+        "value": "QIf5XwUehT+jrBRm2Qldtr7pY+keA4u3/G9xnPDJhSI="
       }
     }
   ]
