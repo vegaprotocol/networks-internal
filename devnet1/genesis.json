@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "QIf5XwUehT+jrBRm2Qldtr7pY+keA4u3/G9xnPDJhSI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/rapjnff4ns0ggnqpevm4wwrgmaktk3z6?d=identicon",
-        "country": "YU",
-        "ethereum_address": "0x83D4705201D19fB1a4cBBC630fb3de6986e68953",
-        "id": "4d05e3f906f3c492751acfbeb503fbd290dbb8ad99f41cf707ae303f8e6c718b",
-        "info_url": "https://en.wikipedia.org/wiki/Tommy_Franks",
-        "name": "gifted-window",
-        "tm_pub_key": "QIf5XwUehT+jrBRm2Qldtr7pY+keA4u3/G9xnPDJhSI=",
-        "vega_pub_key": "40a2749f1582daff17976b2d0b6c511effcce431234c9fa4ee565ae203ed3857",
+      "VVfEr+PexyN8rgW7f9TANPazFt5xHQXiXBTUcEJarZ8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ixb2qzpzqalloj1sbz7u770nao1ckf9m?d=identicon",
+        "country": "FE",
+        "ethereum_address": "0xC7c798569bA237D62347802cF04eb4c090ACd907",
+        "id": "6c97066c213c26d2579949857c8669cab1076c167fae3a2fab9540df920f2012",
+        "info_url": "https://en.wikipedia.org/wiki/Teuvo_Tulio",
+        "name": "better-pickle",
+        "tm_pub_key": "VVfEr+PexyN8rgW7f9TANPazFt5xHQXiXBTUcEJarZ8=",
+        "vega_pub_key": "0024184d4cf642de4bc88d1218b9cdc1feeb7b8229f3142d0c243c01429d7001",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302071747",
+  "chain_id": "vega-devnet1-202302081129",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-07T17:47:14.250640795Z",
+  "genesis_time": "2023-02-08T11:29:40.605390921Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "D953C2E04B355C11203EA92959A2E541A9B61EF7",
-      "name": "gifted-window",
+      "address": "D67A79274DA54BC8928B2E364A4688FEB1030221",
+      "name": "better-pickle",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "QIf5XwUehT+jrBRm2Qldtr7pY+keA4u3/G9xnPDJhSI="
+        "value": "VVfEr+PexyN8rgW7f9TANPazFt5xHQXiXBTUcEJarZ8="
       }
     }
   ]
