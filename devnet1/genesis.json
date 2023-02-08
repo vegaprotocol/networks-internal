@@ -302,17 +302,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "VVfEr+PexyN8rgW7f9TANPazFt5xHQXiXBTUcEJarZ8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ixb2qzpzqalloj1sbz7u770nao1ckf9m?d=identicon",
-        "country": "FE",
-        "ethereum_address": "0xC7c798569bA237D62347802cF04eb4c090ACd907",
-        "id": "6c97066c213c26d2579949857c8669cab1076c167fae3a2fab9540df920f2012",
-        "info_url": "https://en.wikipedia.org/wiki/Teuvo_Tulio",
-        "name": "better-pickle",
-        "tm_pub_key": "VVfEr+PexyN8rgW7f9TANPazFt5xHQXiXBTUcEJarZ8=",
-        "vega_pub_key": "0024184d4cf642de4bc88d1218b9cdc1feeb7b8229f3142d0c243c01429d7001",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "zf0fxGUI1ms/9yFaAv38kHQSCZ9Vxh7B7GNZpY7joFY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/wf2kkmhu0zgmb45noeornkrp3ij5dawe?d=identicon",
+        "country": "RM",
+        "ethereum_address": "0x0c23435674a94092662f1D9779372d2bC638Ff6a",
+        "id": "af0d4fc6cf0618bf9b38d3548d5ce0e45ec3faa75acfb726d8627ab07bd33141",
+        "info_url": "https://en.wikipedia.org/wiki/Toye,_Kenning_%26_Spencer",
+        "name": "ideal-duck",
+        "tm_pub_key": "zf0fxGUI1ms/9yFaAv38kHQSCZ9Vxh7B7GNZpY7joFY=",
+        "vega_pub_key": "4e055c19786207cd1157b33ee9617f7a92162c4c1b8643676e2d1269dea26312",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202302081129",
+  "chain_id": "vega-devnet1-202302081302",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-08T11:29:40.605390921Z",
+  "genesis_time": "2023-02-08T13:02:05.633032458Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "D67A79274DA54BC8928B2E364A4688FEB1030221",
-      "name": "better-pickle",
+      "address": "857A7057EB794F404A0472754877AA861902493D",
+      "name": "ideal-duck",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "VVfEr+PexyN8rgW7f9TANPazFt5xHQXiXBTUcEJarZ8="
+        "value": "zf0fxGUI1ms/9yFaAv38kHQSCZ9Vxh7B7GNZpY7joFY="
       }
     }
   ]
