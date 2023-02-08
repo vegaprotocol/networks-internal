@@ -302,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "lvtDtazyKi9v5P64347KIXhcAklJL1cb+wLKPbaE5DU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/x8d0s5kv4kjtkh1oyrmuqrl41kemlc35?d=identicon",
+        "country": "FU",
+        "ethereum_address": "0xFa8a565225d919A6051C4307da0205be78eE227e",
+        "id": "ffaacad7ed1642cd143c845349f33e6d1652354a87637af68af991bcca1eeca4",
+        "info_url": "https://en.wikipedia.org/wiki/Sannomiya_Station_(JR_West)",
+        "name": "exuberant-dog",
+        "tm_pub_key": "lvtDtazyKi9v5P64347KIXhcAklJL1cb+wLKPbaE5DU=",
+        "vega_pub_key": "1604e1f8b68728a9f4a88a9e74fb07991b1fdf1c913363a93c21b257d94636c5",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "zf0fxGUI1ms/9yFaAv38kHQSCZ9Vxh7B7GNZpY7joFY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/wf2kkmhu0zgmb45noeornkrp3ij5dawe?d=identicon",
-        "country": "RM",
-        "ethereum_address": "0x0c23435674a94092662f1D9779372d2bC638Ff6a",
-        "id": "af0d4fc6cf0618bf9b38d3548d5ce0e45ec3faa75acfb726d8627ab07bd33141",
-        "info_url": "https://en.wikipedia.org/wiki/Toye,_Kenning_%26_Spencer",
-        "name": "ideal-duck",
-        "tm_pub_key": "zf0fxGUI1ms/9yFaAv38kHQSCZ9Vxh7B7GNZpY7joFY=",
-        "vega_pub_key": "4e055c19786207cd1157b33ee9617f7a92162c4c1b8643676e2d1269dea26312",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202302081451",
+  "chain_id": "vega-devnet1-202302081628",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-08T14:51:03.080266846Z",
+  "genesis_time": "2023-02-08T16:28:12.355052399Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "857A7057EB794F404A0472754877AA861902493D",
-      "name": "ideal-duck",
+      "address": "62FF999C1B131095B621B932FB150D17D63B3837",
+      "name": "exuberant-dog",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "zf0fxGUI1ms/9yFaAv38kHQSCZ9Vxh7B7GNZpY7joFY="
+        "value": "lvtDtazyKi9v5P64347KIXhcAklJL1cb+wLKPbaE5DU="
       }
     }
   ]
