@@ -302,17 +302,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "PGVvr4PuCkPjoTjQ+LQMJchyX+RD1VpPJyeZjNprP54=": {
-        "avatar_url": "https://www.gravatar.com/avatar/e87b58sk1k1e2z7ysuzb5jsuymeblu5t?d=identicon",
-        "country": "BO",
-        "ethereum_address": "0xF64649a48AFDEA05da1D906319F5F8Bc204D0376",
-        "id": "9d956c7b13d2a04e69a9acfc5a997d07ebf64461a9e535c773f213e78e4fc97a",
-        "info_url": "https://en.wikipedia.org/wiki/Lascoria_ambigualis",
-        "name": "irate-horse",
-        "tm_pub_key": "PGVvr4PuCkPjoTjQ+LQMJchyX+RD1VpPJyeZjNprP54=",
-        "vega_pub_key": "1cb691569ab8243ddf04d9bde4fe0087edc01fa966944dce7fe49bfab5366964",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "zjLlH9YB75Xg87sKGRZUaVoQLBueulqgAQxQfwj5h2E=": {
+        "avatar_url": "https://www.gravatar.com/avatar/0uw4hlpd5ssv7nxb43s5i08zzxoy2rej?d=identicon",
+        "country": "CK",
+        "ethereum_address": "0x5aB51cB3d46b27949D5f0c4B1B444e6F45Da7E70",
+        "id": "b0401c14d017272aa0ae5137a98954b18406a6237b14c50f325e37784d978a7d",
+        "info_url": "https://en.wikipedia.org/wiki/Splash:_Le_Grand_Plongeon",
+        "name": "better-toy",
+        "tm_pub_key": "zjLlH9YB75Xg87sKGRZUaVoQLBueulqgAQxQfwj5h2E=",
+        "vega_pub_key": "15b4316a6d7af373a44505095c461a3868d25290232dd417cceaec3ef724116c",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202302091540",
+  "chain_id": "vega-devnet1-202302091702",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-09T15:40:17.015478967Z",
+  "genesis_time": "2023-02-09T17:02:26.221420736Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "40DC142340D74E2756199BEBA38D350E6B7C0330",
-      "name": "irate-horse",
+      "address": "7E18837B3542AAAF83A780E86AC7A18D27B26A72",
+      "name": "better-toy",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "PGVvr4PuCkPjoTjQ+LQMJchyX+RD1VpPJyeZjNprP54="
+        "value": "zjLlH9YB75Xg87sKGRZUaVoQLBueulqgAQxQfwj5h2E="
       }
     }
   ]
