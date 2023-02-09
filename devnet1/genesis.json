@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "o55uLX0Xtp+D+im0h5QgwjIbUaN3NIzzmnalY3NB70A=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ozkm5rdbduf1r4hiktsxgdwrrm8ddboi?d=identicon",
-        "country": "HS",
-        "ethereum_address": "0x1DaFDf1d6bf785589cc18AADE94f7B8c5031c843",
-        "id": "322c393698d4ff3792be4240182790a851c853cf3275584648bb56a129356143",
-        "info_url": "https://en.wikipedia.org/wiki/The_Dark_Tower_(2017_film)",
-        "name": "bored-cloud",
-        "tm_pub_key": "o55uLX0Xtp+D+im0h5QgwjIbUaN3NIzzmnalY3NB70A=",
-        "vega_pub_key": "e8102211e06eb75291d6e184ab5c0e95ea7657f4bc355de2fecc6dfbf2abd3ba",
+      "lsT8qy4bQhJuQ4yYNterwLokJaJCo7Kg23e+9k9s2lU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/3dreoo3oa2isua1lqpnkmsad4lny8i7b?d=identicon",
+        "country": "SE",
+        "ethereum_address": "0xa22C844242Caf93BeF9Ca17877CbFcd3483477cc",
+        "id": "32de91776b108d69c8b9eadc5a512fa3ed8e6994d3809bd1b6752dae639c8dac",
+        "info_url": "https://en.wikipedia.org/wiki/Estadio_Profesor_Alberto_Suppici",
+        "name": "skinny-sister",
+        "tm_pub_key": "lsT8qy4bQhJuQ4yYNterwLokJaJCo7Kg23e+9k9s2lU=",
+        "vega_pub_key": "21160e27744c59ace56f3fa36a0e9d829e4fd34a750cc39ef48a7c3dd87301e6",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302081746",
+  "chain_id": "vega-devnet1-202302090803",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-08T17:46:51.042931868Z",
+  "genesis_time": "2023-02-09T08:03:27.817800818Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "4E245D01A2F0E712F767E6929065570100E6900A",
-      "name": "bored-cloud",
+      "address": "F7B31D6681F8AB47B97090CC1BB2FBF849FA3CA8",
+      "name": "skinny-sister",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "o55uLX0Xtp+D+im0h5QgwjIbUaN3NIzzmnalY3NB70A="
+        "value": "lsT8qy4bQhJuQ4yYNterwLokJaJCo7Kg23e+9k9s2lU="
       }
     }
   ]
