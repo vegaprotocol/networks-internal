@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "ZMI3JXTvdWyEMYKB5N8FOrOTZiDJSKt/sw5pn0bxE/0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/07s46jpkokmidw3oi6pumd7iti837mww?d=identicon",
-        "country": "ML",
-        "ethereum_address": "0x4044b34AE6E6b28A23d776eBE7857459966E8Ea9",
-        "id": "dd6acff02b4ef5aa8bd45c2728b69934d3bc244f7e3018e1e6f7ce5c53894cf0",
-        "info_url": "https://en.wikipedia.org/wiki/Bradford_Shoe_Company_Building",
-        "name": "whining-biscuit",
-        "tm_pub_key": "ZMI3JXTvdWyEMYKB5N8FOrOTZiDJSKt/sw5pn0bxE/0=",
-        "vega_pub_key": "9b1f87707771ca01598ae804d8ea638c9293ffc10fb40fb1f9a01f5279d9c4dd",
+      "PGVvr4PuCkPjoTjQ+LQMJchyX+RD1VpPJyeZjNprP54=": {
+        "avatar_url": "https://www.gravatar.com/avatar/e87b58sk1k1e2z7ysuzb5jsuymeblu5t?d=identicon",
+        "country": "BO",
+        "ethereum_address": "0xF64649a48AFDEA05da1D906319F5F8Bc204D0376",
+        "id": "9d956c7b13d2a04e69a9acfc5a997d07ebf64461a9e535c773f213e78e4fc97a",
+        "info_url": "https://en.wikipedia.org/wiki/Lascoria_ambigualis",
+        "name": "irate-horse",
+        "tm_pub_key": "PGVvr4PuCkPjoTjQ+LQMJchyX+RD1VpPJyeZjNprP54=",
+        "vega_pub_key": "1cb691569ab8243ddf04d9bde4fe0087edc01fa966944dce7fe49bfab5366964",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302091231",
+  "chain_id": "vega-devnet1-202302091540",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-09T12:31:17.257863627Z",
+  "genesis_time": "2023-02-09T15:40:17.015478967Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "5AD2CB2E224FD1756442DF3FA3C1D10DCD1234AA",
-      "name": "whining-biscuit",
+      "address": "40DC142340D74E2756199BEBA38D350E6B7C0330",
+      "name": "irate-horse",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ZMI3JXTvdWyEMYKB5N8FOrOTZiDJSKt/sw5pn0bxE/0="
+        "value": "PGVvr4PuCkPjoTjQ+LQMJchyX+RD1VpPJyeZjNprP54="
       }
     }
   ]
