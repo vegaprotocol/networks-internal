@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "lsT8qy4bQhJuQ4yYNterwLokJaJCo7Kg23e+9k9s2lU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/3dreoo3oa2isua1lqpnkmsad4lny8i7b?d=identicon",
-        "country": "SE",
-        "ethereum_address": "0xa22C844242Caf93BeF9Ca17877CbFcd3483477cc",
-        "id": "32de91776b108d69c8b9eadc5a512fa3ed8e6994d3809bd1b6752dae639c8dac",
-        "info_url": "https://en.wikipedia.org/wiki/Estadio_Profesor_Alberto_Suppici",
-        "name": "skinny-sister",
-        "tm_pub_key": "lsT8qy4bQhJuQ4yYNterwLokJaJCo7Kg23e+9k9s2lU=",
-        "vega_pub_key": "21160e27744c59ace56f3fa36a0e9d829e4fd34a750cc39ef48a7c3dd87301e6",
+      "ZMI3JXTvdWyEMYKB5N8FOrOTZiDJSKt/sw5pn0bxE/0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/07s46jpkokmidw3oi6pumd7iti837mww?d=identicon",
+        "country": "ML",
+        "ethereum_address": "0x4044b34AE6E6b28A23d776eBE7857459966E8Ea9",
+        "id": "dd6acff02b4ef5aa8bd45c2728b69934d3bc244f7e3018e1e6f7ce5c53894cf0",
+        "info_url": "https://en.wikipedia.org/wiki/Bradford_Shoe_Company_Building",
+        "name": "whining-biscuit",
+        "tm_pub_key": "ZMI3JXTvdWyEMYKB5N8FOrOTZiDJSKt/sw5pn0bxE/0=",
+        "vega_pub_key": "9b1f87707771ca01598ae804d8ea638c9293ffc10fb40fb1f9a01f5279d9c4dd",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302090803",
+  "chain_id": "vega-devnet1-202302091231",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-09T08:03:27.817800818Z",
+  "genesis_time": "2023-02-09T12:31:17.257863627Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "F7B31D6681F8AB47B97090CC1BB2FBF849FA3CA8",
-      "name": "skinny-sister",
+      "address": "5AD2CB2E224FD1756442DF3FA3C1D10DCD1234AA",
+      "name": "whining-biscuit",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "lsT8qy4bQhJuQ4yYNterwLokJaJCo7Kg23e+9k9s2lU="
+        "value": "ZMI3JXTvdWyEMYKB5N8FOrOTZiDJSKt/sw5pn0bxE/0="
       }
     }
   ]
