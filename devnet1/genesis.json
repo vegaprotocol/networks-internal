@@ -302,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "UQaWcsxQOzc99KG/dCmDrb4fjNFlA0oZ7m0UnEycWNA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/nnhgt4iugxogefw5pgkcrgt559ov7jkf?d=identicon",
+        "country": "EO",
+        "ethereum_address": "0x01b612306795c0294c5F8997025E2d2181a7f7dF",
+        "id": "62fb773086afcaebb1acf52cd67470eb2e9a89cde9774e947e8098aec438206d",
+        "info_url": "https://en.wikipedia.org/wiki/Gove_Dam",
+        "name": "icy-ball",
+        "tm_pub_key": "UQaWcsxQOzc99KG/dCmDrb4fjNFlA0oZ7m0UnEycWNA=",
+        "vega_pub_key": "ee6998b684a12ee934b33a1aad64bd1c76d2e81a1884bc0fc5059f41d1b7b899",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "zjLlH9YB75Xg87sKGRZUaVoQLBueulqgAQxQfwj5h2E=": {
-        "avatar_url": "https://www.gravatar.com/avatar/0uw4hlpd5ssv7nxb43s5i08zzxoy2rej?d=identicon",
-        "country": "CK",
-        "ethereum_address": "0x5aB51cB3d46b27949D5f0c4B1B444e6F45Da7E70",
-        "id": "b0401c14d017272aa0ae5137a98954b18406a6237b14c50f325e37784d978a7d",
-        "info_url": "https://en.wikipedia.org/wiki/Splash:_Le_Grand_Plongeon",
-        "name": "better-toy",
-        "tm_pub_key": "zjLlH9YB75Xg87sKGRZUaVoQLBueulqgAQxQfwj5h2E=",
-        "vega_pub_key": "15b4316a6d7af373a44505095c461a3868d25290232dd417cceaec3ef724116c",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202302091702",
+  "chain_id": "vega-devnet1-202302101106",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-09T17:02:26.221420736Z",
+  "genesis_time": "2023-02-10T11:06:28.108876675Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "7E18837B3542AAAF83A780E86AC7A18D27B26A72",
-      "name": "better-toy",
+      "address": "5C1494196E295C694E823ACC55623DAF00CA8FF5",
+      "name": "icy-ball",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "zjLlH9YB75Xg87sKGRZUaVoQLBueulqgAQxQfwj5h2E="
+        "value": "UQaWcsxQOzc99KG/dCmDrb4fjNFlA0oZ7m0UnEycWNA="
       }
     }
   ]
