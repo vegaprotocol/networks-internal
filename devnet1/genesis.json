@@ -291,6 +291,17 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
+      "GtV5fWYWRI7P1ArM4s/hyYCQywEqb0sfizlNpWtahZw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/i1iai9nvo96fffw1aw28m1lq7exryq3o?d=identicon",
+        "country": "PH",
+        "ethereum_address": "0x10b3d95caE60f6d33813934D1F542ba964075F3A",
+        "id": "a106d1c6e1b0ef8b2d346ef89610b21f988399e94d6c37ae9d4ccf708c5ff55c",
+        "info_url": "https://en.wikipedia.org/wiki/Pallene_(mythology)",
+        "name": "fresh-pickle",
+        "tm_pub_key": "GtV5fWYWRI7P1ArM4s/hyYCQywEqb0sfizlNpWtahZw=",
+        "vega_pub_key": "56a0bbdf4b1bcecbf4dac80448578637a4bb3d27437d2b79dc6273c9981cd3ce",
+        "vega_pub_key_index": 1
+      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -300,17 +311,6 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
-        "vega_pub_key_index": 1
-      },
-      "UQaWcsxQOzc99KG/dCmDrb4fjNFlA0oZ7m0UnEycWNA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/nnhgt4iugxogefw5pgkcrgt559ov7jkf?d=identicon",
-        "country": "EO",
-        "ethereum_address": "0x01b612306795c0294c5F8997025E2d2181a7f7dF",
-        "id": "62fb773086afcaebb1acf52cd67470eb2e9a89cde9774e947e8098aec438206d",
-        "info_url": "https://en.wikipedia.org/wiki/Gove_Dam",
-        "name": "icy-ball",
-        "tm_pub_key": "UQaWcsxQOzc99KG/dCmDrb4fjNFlA0oZ7m0UnEycWNA=",
-        "vega_pub_key": "ee6998b684a12ee934b33a1aad64bd1c76d2e81a1884bc0fc5059f41d1b7b899",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302101106",
+  "chain_id": "vega-devnet1-202302101534",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-10T11:06:28.108876675Z",
+  "genesis_time": "2023-02-10T15:34:16.931096371Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "5C1494196E295C694E823ACC55623DAF00CA8FF5",
-      "name": "icy-ball",
+      "address": "2D767D2A6EC7963948A94BF46D0F1988CB289998",
+      "name": "fresh-pickle",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "UQaWcsxQOzc99KG/dCmDrb4fjNFlA0oZ7m0UnEycWNA="
+        "value": "GtV5fWYWRI7P1ArM4s/hyYCQywEqb0sfizlNpWtahZw="
       }
     }
   ]
