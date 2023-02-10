@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "7L//giNm1E+afEmKaTRXFV2WM1Mo2lhIy8SDZPFAhn0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/0rlqiobs05v705sgub78dwca96sue6ow?d=identicon",
+        "country": "FR",
+        "ethereum_address": "0xE172ef31E097cB9dD150cC7065fA224000567eB3",
+        "id": "0fc6550e301699a3de5287ccddce05503adadcde39350ad7d595c7d9236c2524",
+        "info_url": "https://en.wikipedia.org/wiki/PBA_Bowling_Tour:_1965_Season",
+        "name": "exuberant-burger",
+        "tm_pub_key": "7L//giNm1E+afEmKaTRXFV2WM1Mo2lhIy8SDZPFAhn0=",
+        "vega_pub_key": "36c2c418bebe49cf009ca263a5f2699be328bab993ca78ca8833e03bd47eeb2e",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -289,17 +300,6 @@
         "name": "friendly-barber",
         "tm_pub_key": "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=",
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
-        "vega_pub_key_index": 1
-      },
-      "GtV5fWYWRI7P1ArM4s/hyYCQywEqb0sfizlNpWtahZw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/i1iai9nvo96fffw1aw28m1lq7exryq3o?d=identicon",
-        "country": "PH",
-        "ethereum_address": "0x10b3d95caE60f6d33813934D1F542ba964075F3A",
-        "id": "a106d1c6e1b0ef8b2d346ef89610b21f988399e94d6c37ae9d4ccf708c5ff55c",
-        "info_url": "https://en.wikipedia.org/wiki/Pallene_(mythology)",
-        "name": "fresh-pickle",
-        "tm_pub_key": "GtV5fWYWRI7P1ArM4s/hyYCQywEqb0sfizlNpWtahZw=",
-        "vega_pub_key": "56a0bbdf4b1bcecbf4dac80448578637a4bb3d27437d2b79dc6273c9981cd3ce",
         "vega_pub_key_index": 1
       },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302101534",
+  "chain_id": "vega-devnet1-202302101602",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-10T15:34:16.931096371Z",
+  "genesis_time": "2023-02-10T16:02:03.054018836Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "2D767D2A6EC7963948A94BF46D0F1988CB289998",
-      "name": "fresh-pickle",
+      "address": "53E1837E208F3E7650878947104E5374D06C1ECF",
+      "name": "exuberant-burger",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "GtV5fWYWRI7P1ArM4s/hyYCQywEqb0sfizlNpWtahZw="
+        "value": "7L//giNm1E+afEmKaTRXFV2WM1Mo2lhIy8SDZPFAhn0="
       }
     }
   ]
