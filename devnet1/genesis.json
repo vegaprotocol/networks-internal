@@ -269,15 +269,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "/nQWYkMSSm1NB7k6ou3e8cd9b/+wAxAPcTi4BLKrm7c=": {
-        "avatar_url": "https://www.gravatar.com/avatar/cn7iko8w0z7g0xh4pajt6c1c20oel8my?d=identicon",
-        "country": "DI",
-        "ethereum_address": "0x8e773D5e1203C5e52dD5E10B30f565d3BA018080",
-        "id": "b1a73bb156debf15794a58da1d56aeaf877dcefb9693fb341e140f64883c4ebb",
-        "info_url": "https://en.wikipedia.org/wiki/Vitaliy_Parkhuts",
-        "name": "famous-swing",
-        "tm_pub_key": "/nQWYkMSSm1NB7k6ou3e8cd9b/+wAxAPcTi4BLKrm7c=",
-        "vega_pub_key": "d24586e28c66dd9fdc8cdaad8477df695022ce8b5461290e701450405e6a0a41",
+      "5FGvQPFp53YwvHSSXxCrtPcRnfbd+3+ziOSl5UzwAGA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/w8go7u598rwnjepyb0fd8l97cgvl4xpl?d=identicon",
+        "country": "KQ",
+        "ethereum_address": "0x8383D63fAeB406552bB46779024E3F38777cb93F",
+        "id": "35574a2ee24853c766c62caca0ac3baf7a7210019c99a82c1571b6ed546195cb",
+        "info_url": "https://en.wikipedia.org/wiki/Marten_Bequest",
+        "name": "helpful-barber",
+        "tm_pub_key": "5FGvQPFp53YwvHSSXxCrtPcRnfbd+3+ziOSl5UzwAGA=",
+        "vega_pub_key": "b9f2cfee1dc011aaf484768d8eeebb0cbf627205d6e5acc9d600581fc8372bd1",
         "vega_pub_key_index": 1
       },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302131833",
+  "chain_id": "vega-devnet1-202302132035",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-13T18:33:57.034565176Z",
+  "genesis_time": "2023-02-13T20:35:28.87525633Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "27368C5ED6B5637371007C318852B6B03B189446",
-      "name": "famous-swing",
+      "address": "201BE50A100D068A685A2657CE62CCC3A723D9C4",
+      "name": "helpful-barber",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "/nQWYkMSSm1NB7k6ou3e8cd9b/+wAxAPcTi4BLKrm7c="
+        "value": "5FGvQPFp53YwvHSSXxCrtPcRnfbd+3+ziOSl5UzwAGA="
       }
     }
   ]
