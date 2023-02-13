@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "5FGvQPFp53YwvHSSXxCrtPcRnfbd+3+ziOSl5UzwAGA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/w8go7u598rwnjepyb0fd8l97cgvl4xpl?d=identicon",
-        "country": "KQ",
-        "ethereum_address": "0x8383D63fAeB406552bB46779024E3F38777cb93F",
-        "id": "35574a2ee24853c766c62caca0ac3baf7a7210019c99a82c1571b6ed546195cb",
-        "info_url": "https://en.wikipedia.org/wiki/Marten_Bequest",
-        "name": "helpful-barber",
-        "tm_pub_key": "5FGvQPFp53YwvHSSXxCrtPcRnfbd+3+ziOSl5UzwAGA=",
-        "vega_pub_key": "b9f2cfee1dc011aaf484768d8eeebb0cbf627205d6e5acc9d600581fc8372bd1",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "hqMEYRGmPmxLPXdChLMwK0lbEYqQMvh5e2hn5gu+uX8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/oq2ocwogmsd1ngc8dojalg6dzd91ua25?d=identicon",
+        "country": "DR",
+        "ethereum_address": "0x6B176D621395C608A39862447A42ed5A1ef5B381",
+        "id": "4b6ea3eb7d5ea0e54bbaded2cc0c2aa00a67f45658193cfd23952c823539febf",
+        "info_url": "https://en.wikipedia.org/wiki/Gimnasio_USBI",
+        "name": "scruffy-swing",
+        "tm_pub_key": "hqMEYRGmPmxLPXdChLMwK0lbEYqQMvh5e2hn5gu+uX8=",
+        "vega_pub_key": "20cba06c547ca4e33782e60e2a31cfad672d44cbf7c4e627253ed7d39f85375c",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302132035",
+  "chain_id": "vega-devnet1-202302132131",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-13T20:35:28.87525633Z",
+  "genesis_time": "2023-02-13T21:31:46.635171821Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "201BE50A100D068A685A2657CE62CCC3A723D9C4",
-      "name": "helpful-barber",
+      "address": "1394B44CB9252F4C5145A8827DA623651193215B",
+      "name": "scruffy-swing",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "5FGvQPFp53YwvHSSXxCrtPcRnfbd+3+ziOSl5UzwAGA="
+        "value": "hqMEYRGmPmxLPXdChLMwK0lbEYqQMvh5e2hn5gu+uX8="
       }
     }
   ]
