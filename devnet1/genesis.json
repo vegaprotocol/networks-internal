@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "/nQWYkMSSm1NB7k6ou3e8cd9b/+wAxAPcTi4BLKrm7c=": {
+        "avatar_url": "https://www.gravatar.com/avatar/cn7iko8w0z7g0xh4pajt6c1c20oel8my?d=identicon",
+        "country": "DI",
+        "ethereum_address": "0x8e773D5e1203C5e52dD5E10B30f565d3BA018080",
+        "id": "b1a73bb156debf15794a58da1d56aeaf877dcefb9693fb341e140f64883c4ebb",
+        "info_url": "https://en.wikipedia.org/wiki/Vitaliy_Parkhuts",
+        "name": "famous-swing",
+        "tm_pub_key": "/nQWYkMSSm1NB7k6ou3e8cd9b/+wAxAPcTi4BLKrm7c=",
+        "vega_pub_key": "d24586e28c66dd9fdc8cdaad8477df695022ce8b5461290e701450405e6a0a41",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -289,17 +300,6 @@
         "name": "friendly-barber",
         "tm_pub_key": "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=",
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
-        "vega_pub_key_index": 1
-      },
-      "EwCfaf1cuA38uKVAJXP69NI7fP0Yw4CoYoZUWYccc18=": {
-        "avatar_url": "https://www.gravatar.com/avatar/6tf6fxd4fy8ul2m0jvkbzcxbtcw3ly7a?d=identicon",
-        "country": "TZ",
-        "ethereum_address": "0xBcf6a1E0eEDf5583E5dA30862AB7BeFD48Ca610a",
-        "id": "7df51854b7d0cbc9b9c28a5942de8b9d3c47ee5f2b0145a1a88729061fd3f1d7",
-        "info_url": "https://en.wikipedia.org/wiki/Cornelis_Ketel",
-        "name": "happy-computer",
-        "tm_pub_key": "EwCfaf1cuA38uKVAJXP69NI7fP0Yw4CoYoZUWYccc18=",
-        "vega_pub_key": "59d15adf02f7ee79563ef43f0aa9a2633c9fcc03b725ccbcdf8c32aaa41a4176",
         "vega_pub_key_index": 1
       },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302131607",
+  "chain_id": "vega-devnet1-202302131833",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-13T16:07:37.749634976Z",
+  "genesis_time": "2023-02-13T18:33:57.034565176Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "ED25994ADA293F3935478F3EB64E3BA31574FE1F",
-      "name": "happy-computer",
+      "address": "27368C5ED6B5637371007C318852B6B03B189446",
+      "name": "famous-swing",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "EwCfaf1cuA38uKVAJXP69NI7fP0Yw4CoYoZUWYccc18="
+        "value": "/nQWYkMSSm1NB7k6ou3e8cd9b/+wAxAPcTi4BLKrm7c="
       }
     }
   ]
