@@ -291,6 +291,17 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
+      "EwCfaf1cuA38uKVAJXP69NI7fP0Yw4CoYoZUWYccc18=": {
+        "avatar_url": "https://www.gravatar.com/avatar/6tf6fxd4fy8ul2m0jvkbzcxbtcw3ly7a?d=identicon",
+        "country": "TZ",
+        "ethereum_address": "0xBcf6a1E0eEDf5583E5dA30862AB7BeFD48Ca610a",
+        "id": "7df51854b7d0cbc9b9c28a5942de8b9d3c47ee5f2b0145a1a88729061fd3f1d7",
+        "info_url": "https://en.wikipedia.org/wiki/Cornelis_Ketel",
+        "name": "happy-computer",
+        "tm_pub_key": "EwCfaf1cuA38uKVAJXP69NI7fP0Yw4CoYoZUWYccc18=",
+        "vega_pub_key": "59d15adf02f7ee79563ef43f0aa9a2633c9fcc03b725ccbcdf8c32aaa41a4176",
+        "vega_pub_key_index": 1
+      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -300,17 +311,6 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
-        "vega_pub_key_index": 1
-      },
-      "RY4aJ6TjZmCSK/s5G8XpktO4CTnKOxE36SkOuDkvs5Y=": {
-        "avatar_url": "https://www.gravatar.com/avatar/9p7x1swl5rdtztdhldqgan84nnsnudfc?d=identicon",
-        "country": "LP",
-        "ethereum_address": "0x951c6a6F40467f4017607B762231fba7d4867975",
-        "id": "36bb42d459e61c6a2dc93405e2fd51cf590842026e9a2ea457b52348fcd8c618",
-        "info_url": "https://en.wikipedia.org/wiki/Freddy_Le%C3%B3n",
-        "name": "purring-week",
-        "tm_pub_key": "RY4aJ6TjZmCSK/s5G8XpktO4CTnKOxE36SkOuDkvs5Y=",
-        "vega_pub_key": "4ffb66ab9abfeb79fcab551d8945d89b2875ddb2805a53419735381527d5a178",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302131538",
+  "chain_id": "vega-devnet1-202302131607",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-13T15:38:35.347832424Z",
+  "genesis_time": "2023-02-13T16:07:37.749634976Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "A5D9ABF0ECDDC3A808031587B84B847FC78E96DD",
-      "name": "purring-week",
+      "address": "ED25994ADA293F3935478F3EB64E3BA31574FE1F",
+      "name": "happy-computer",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "RY4aJ6TjZmCSK/s5G8XpktO4CTnKOxE36SkOuDkvs5Y="
+        "value": "EwCfaf1cuA38uKVAJXP69NI7fP0Yw4CoYoZUWYccc18="
       }
     }
   ]
