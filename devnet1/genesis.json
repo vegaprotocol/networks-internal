@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "kDLDEqGKUsuRTFg7HhFQ9ez4Ln4rFYbopv8MjQANnKs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/xlui4hc0q6489yd3ncmtgmukdsnphjlx?d=identicon",
-        "country": "FE",
-        "ethereum_address": "0xe6Ea6390635b1737cb6ce7d4cc12dafF1902A4d8",
-        "id": "a08cc007c3e13337a5b6745e9e5479fa9e63e3d579aad4924c878193aa2e4910",
-        "info_url": "https://en.wikipedia.org/wiki/Alfa_Romeo_800",
-        "name": "graceful-plant",
-        "tm_pub_key": "kDLDEqGKUsuRTFg7HhFQ9ez4Ln4rFYbopv8MjQANnKs=",
-        "vega_pub_key": "20ca6bfda4c7194b376c475f1d664a8d4b60f8c5e13491a5da1cc18603f09025",
+      "RY4aJ6TjZmCSK/s5G8XpktO4CTnKOxE36SkOuDkvs5Y=": {
+        "avatar_url": "https://www.gravatar.com/avatar/9p7x1swl5rdtztdhldqgan84nnsnudfc?d=identicon",
+        "country": "LP",
+        "ethereum_address": "0x951c6a6F40467f4017607B762231fba7d4867975",
+        "id": "36bb42d459e61c6a2dc93405e2fd51cf590842026e9a2ea457b52348fcd8c618",
+        "info_url": "https://en.wikipedia.org/wiki/Freddy_Le%C3%B3n",
+        "name": "purring-week",
+        "tm_pub_key": "RY4aJ6TjZmCSK/s5G8XpktO4CTnKOxE36SkOuDkvs5Y=",
+        "vega_pub_key": "4ffb66ab9abfeb79fcab551d8945d89b2875ddb2805a53419735381527d5a178",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302131417",
+  "chain_id": "vega-devnet1-202302131508",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-13T14:17:03.210162371Z",
+  "genesis_time": "2023-02-13T15:08:43.758648347Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "A822B2A1868F13170AE1E42640EB80A914DC3C44",
-      "name": "graceful-plant",
+      "address": "A5D9ABF0ECDDC3A808031587B84B847FC78E96DD",
+      "name": "purring-week",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "kDLDEqGKUsuRTFg7HhFQ9ez4Ln4rFYbopv8MjQANnKs="
+        "value": "RY4aJ6TjZmCSK/s5G8XpktO4CTnKOxE36SkOuDkvs5Y="
       }
     }
   ]
