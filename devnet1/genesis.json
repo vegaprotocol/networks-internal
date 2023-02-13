@@ -280,17 +280,6 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
-      "ClmNhA9Ru25gYnSM5LCksQ131604OROYLIZTgdkCSCI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/h5iyl9bg1hsjzt6h7kqcii8is9pd8dxu?d=identicon",
-        "country": "JG",
-        "ethereum_address": "0x01c398F8eD1716Df6bD669789ff02Af5c720edCF",
-        "id": "91e55b42a42e7a24a927c1c6bc45f204550a9e1db5dd222a1d6bd7cd202c6929",
-        "info_url": "https://en.wikipedia.org/wiki/Liebing,_Austria",
-        "name": "exuberant-taxi",
-        "tm_pub_key": "ClmNhA9Ru25gYnSM5LCksQ131604OROYLIZTgdkCSCI=",
-        "vega_pub_key": "8b599f95e07094127eb09bd8f529fcaba3d6ebb97470762d0f51fcaa0bf24623",
-        "vega_pub_key_index": 1
-      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "kDLDEqGKUsuRTFg7HhFQ9ez4Ln4rFYbopv8MjQANnKs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xlui4hc0q6489yd3ncmtgmukdsnphjlx?d=identicon",
+        "country": "FE",
+        "ethereum_address": "0xe6Ea6390635b1737cb6ce7d4cc12dafF1902A4d8",
+        "id": "a08cc007c3e13337a5b6745e9e5479fa9e63e3d579aad4924c878193aa2e4910",
+        "info_url": "https://en.wikipedia.org/wiki/Alfa_Romeo_800",
+        "name": "graceful-plant",
+        "tm_pub_key": "kDLDEqGKUsuRTFg7HhFQ9ez4Ln4rFYbopv8MjQANnKs=",
+        "vega_pub_key": "20ca6bfda4c7194b376c475f1d664a8d4b60f8c5e13491a5da1cc18603f09025",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302131333",
+  "chain_id": "vega-devnet1-202302131417",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-13T13:33:23.484763046Z",
+  "genesis_time": "2023-02-13T14:17:03.210162371Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "0E41E930C6DEF18FFBCEEB93E7F149A1ED741BC7",
-      "name": "exuberant-taxi",
+      "address": "A822B2A1868F13170AE1E42640EB80A914DC3C44",
+      "name": "graceful-plant",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ClmNhA9Ru25gYnSM5LCksQ131604OROYLIZTgdkCSCI="
+        "value": "kDLDEqGKUsuRTFg7HhFQ9ez4Ln4rFYbopv8MjQANnKs="
       }
     }
   ]
