@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "7L//giNm1E+afEmKaTRXFV2WM1Mo2lhIy8SDZPFAhn0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/0rlqiobs05v705sgub78dwca96sue6ow?d=identicon",
-        "country": "FR",
-        "ethereum_address": "0xE172ef31E097cB9dD150cC7065fA224000567eB3",
-        "id": "0fc6550e301699a3de5287ccddce05503adadcde39350ad7d595c7d9236c2524",
-        "info_url": "https://en.wikipedia.org/wiki/PBA_Bowling_Tour:_1965_Season",
-        "name": "exuberant-burger",
-        "tm_pub_key": "7L//giNm1E+afEmKaTRXFV2WM1Mo2lhIy8SDZPFAhn0=",
-        "vega_pub_key": "36c2c418bebe49cf009ca263a5f2699be328bab993ca78ca8833e03bd47eeb2e",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "MFVCmZWn9PgU5oPo3gDyfV4HoNiGiCVNlDR5Jg7Nj00=": {
+        "avatar_url": "https://www.gravatar.com/avatar/81opnl91n3u4hsgmnl4ymfn536abr4fl?d=identicon",
+        "country": "GI",
+        "ethereum_address": "0x216f492FeEcea9ACF708F9BD927c6CdfAb374Cd1",
+        "id": "5813a7e502e1f2efa5f12b72f38cd066168db3c765cd8761ebf871181cc4e158",
+        "info_url": "https://en.wikipedia.org/wiki/Hackney_Cut",
+        "name": "opportune-week",
+        "tm_pub_key": "MFVCmZWn9PgU5oPo3gDyfV4HoNiGiCVNlDR5Jg7Nj00=",
+        "vega_pub_key": "79c511d4545a600508c95f5838f324cc37f9481e136f93be9d4b7f2d59f7f568",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302101602",
+  "chain_id": "vega-devnet1-202302130955",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-10T16:02:03.054018836Z",
+  "genesis_time": "2023-02-13T09:55:52.524895922Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "53E1837E208F3E7650878947104E5374D06C1ECF",
-      "name": "exuberant-burger",
+      "address": "77D4C04201702B120DEDB40FB6BE5E039BF1F050",
+      "name": "opportune-week",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "7L//giNm1E+afEmKaTRXFV2WM1Mo2lhIy8SDZPFAhn0="
+        "value": "MFVCmZWn9PgU5oPo3gDyfV4HoNiGiCVNlDR5Jg7Nj00="
       }
     }
   ]
