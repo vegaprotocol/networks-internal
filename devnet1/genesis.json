@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "MFVCmZWn9PgU5oPo3gDyfV4HoNiGiCVNlDR5Jg7Nj00=": {
-        "avatar_url": "https://www.gravatar.com/avatar/81opnl91n3u4hsgmnl4ymfn536abr4fl?d=identicon",
-        "country": "GI",
-        "ethereum_address": "0x216f492FeEcea9ACF708F9BD927c6CdfAb374Cd1",
-        "id": "5813a7e502e1f2efa5f12b72f38cd066168db3c765cd8761ebf871181cc4e158",
-        "info_url": "https://en.wikipedia.org/wiki/Hackney_Cut",
-        "name": "opportune-week",
-        "tm_pub_key": "MFVCmZWn9PgU5oPo3gDyfV4HoNiGiCVNlDR5Jg7Nj00=",
-        "vega_pub_key": "79c511d4545a600508c95f5838f324cc37f9481e136f93be9d4b7f2d59f7f568",
+      "fyWHUgFzC5u0nBBj6OpJfk9ZQnJqEiXbkGSUp6hlfO0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/2867sz92q9p533p8u38mfriopkqxcqo1?d=identicon",
+        "country": "KM",
+        "ethereum_address": "0x785dc78533e3fe49c0d4052E253e24C9e22aa641",
+        "id": "d27d94b94af3b4fd2a6ad5c3a94a274b1116ed32795d087a4e5620de36415d5c",
+        "info_url": "https://en.wikipedia.org/wiki/Cerelles",
+        "name": "gray-bus",
+        "tm_pub_key": "fyWHUgFzC5u0nBBj6OpJfk9ZQnJqEiXbkGSUp6hlfO0=",
+        "vega_pub_key": "41b1f9d1ba42905b4221f7830513798599e14a0953b7cba4937dca6ce8bd3730",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302130955",
+  "chain_id": "vega-devnet1-202302131128",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-13T09:55:52.524895922Z",
+  "genesis_time": "2023-02-13T11:28:07.713197636Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "77D4C04201702B120DEDB40FB6BE5E039BF1F050",
-      "name": "opportune-week",
+      "address": "4E8FA764AD10973A162BED8442ED15E1B9BDE737",
+      "name": "gray-bus",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "MFVCmZWn9PgU5oPo3gDyfV4HoNiGiCVNlDR5Jg7Nj00="
+        "value": "fyWHUgFzC5u0nBBj6OpJfk9ZQnJqEiXbkGSUp6hlfO0="
       }
     }
   ]
