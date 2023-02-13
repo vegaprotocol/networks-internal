@@ -280,6 +280,17 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
+      "ClmNhA9Ru25gYnSM5LCksQ131604OROYLIZTgdkCSCI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/h5iyl9bg1hsjzt6h7kqcii8is9pd8dxu?d=identicon",
+        "country": "JG",
+        "ethereum_address": "0x01c398F8eD1716Df6bD669789ff02Af5c720edCF",
+        "id": "91e55b42a42e7a24a927c1c6bc45f204550a9e1db5dd222a1d6bd7cd202c6929",
+        "info_url": "https://en.wikipedia.org/wiki/Liebing,_Austria",
+        "name": "exuberant-taxi",
+        "tm_pub_key": "ClmNhA9Ru25gYnSM5LCksQ131604OROYLIZTgdkCSCI=",
+        "vega_pub_key": "8b599f95e07094127eb09bd8f529fcaba3d6ebb97470762d0f51fcaa0bf24623",
+        "vega_pub_key_index": 1
+      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "fyWHUgFzC5u0nBBj6OpJfk9ZQnJqEiXbkGSUp6hlfO0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/2867sz92q9p533p8u38mfriopkqxcqo1?d=identicon",
-        "country": "KM",
-        "ethereum_address": "0x785dc78533e3fe49c0d4052E253e24C9e22aa641",
-        "id": "d27d94b94af3b4fd2a6ad5c3a94a274b1116ed32795d087a4e5620de36415d5c",
-        "info_url": "https://en.wikipedia.org/wiki/Cerelles",
-        "name": "gray-bus",
-        "tm_pub_key": "fyWHUgFzC5u0nBBj6OpJfk9ZQnJqEiXbkGSUp6hlfO0=",
-        "vega_pub_key": "41b1f9d1ba42905b4221f7830513798599e14a0953b7cba4937dca6ce8bd3730",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302131128",
+  "chain_id": "vega-devnet1-202302131333",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-13T11:28:07.713197636Z",
+  "genesis_time": "2023-02-13T13:33:23.484763046Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "4E8FA764AD10973A162BED8442ED15E1B9BDE737",
-      "name": "gray-bus",
+      "address": "0E41E930C6DEF18FFBCEEB93E7F149A1ED741BC7",
+      "name": "exuberant-taxi",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "fyWHUgFzC5u0nBBj6OpJfk9ZQnJqEiXbkGSUp6hlfO0="
+        "value": "ClmNhA9Ru25gYnSM5LCksQ131604OROYLIZTgdkCSCI="
       }
     }
   ]
