@@ -280,6 +280,17 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
+      "DOq3dHSqTbqtE6mczqyNpGM2a1d/64BZa/we+zzhhA4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/4rw05od4skyx2ii0ivy7l7kf24wzgaue?d=identicon",
+        "country": "LV",
+        "ethereum_address": "0x244891a001578e29D4dd12085942F9EF43055413",
+        "id": "4f8b09d71015b458a04c0eac6aa8d71ead529a48be706bffdc5706de93ce1416",
+        "info_url": "https://en.wikipedia.org/wiki/Black_%26_White_Festival",
+        "name": "agitated-plant",
+        "tm_pub_key": "DOq3dHSqTbqtE6mczqyNpGM2a1d/64BZa/we+zzhhA4=",
+        "vega_pub_key": "3183675cf0537530243c6063e3d48fb9902435d542837316318c026be5b14176",
+        "vega_pub_key_index": 1
+      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "x+xaQhLOuq2zU/kkQAN+WAGCTDYfS9rLhg0hpEEKzs4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/d29od2yfe2m55jnjtju04jro1ocb0oca?d=identicon",
-        "country": "DG",
-        "ethereum_address": "0x5e0A1E229Acec4Bf7Db8025558C9d0EFce005D71",
-        "id": "bc930915e29f90c90499e80d09d2ea7ed84fdc405c5f5d6091e0be9613971308",
-        "info_url": "https://en.wikipedia.org/wiki/Lethenteron_appendix",
-        "name": "courageous-dress",
-        "tm_pub_key": "x+xaQhLOuq2zU/kkQAN+WAGCTDYfS9rLhg0hpEEKzs4=",
-        "vega_pub_key": "8bd09026490f94628280d1ca2e35d10b764eac18ffafc14d63208693f5cb3b33",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202302141130",
+  "chain_id": "vega-devnet1-202302141201",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-14T11:30:54.418396363Z",
+  "genesis_time": "2023-02-14T12:01:52.724039968Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "A10A990D3381DB8EE36EEFFC1B7D3DD338D8361B",
-      "name": "courageous-dress",
+      "address": "E91D028F356F161CFDAFD983B3A6541ACE48CBF8",
+      "name": "agitated-plant",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "x+xaQhLOuq2zU/kkQAN+WAGCTDYfS9rLhg0hpEEKzs4="
+        "value": "DOq3dHSqTbqtE6mczqyNpGM2a1d/64BZa/we+zzhhA4="
       }
     }
   ]
