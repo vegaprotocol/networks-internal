@@ -280,17 +280,6 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
-      "DOq3dHSqTbqtE6mczqyNpGM2a1d/64BZa/we+zzhhA4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/4rw05od4skyx2ii0ivy7l7kf24wzgaue?d=identicon",
-        "country": "LV",
-        "ethereum_address": "0x244891a001578e29D4dd12085942F9EF43055413",
-        "id": "4f8b09d71015b458a04c0eac6aa8d71ead529a48be706bffdc5706de93ce1416",
-        "info_url": "https://en.wikipedia.org/wiki/Black_%26_White_Festival",
-        "name": "agitated-plant",
-        "tm_pub_key": "DOq3dHSqTbqtE6mczqyNpGM2a1d/64BZa/we+zzhhA4=",
-        "vega_pub_key": "3183675cf0537530243c6063e3d48fb9902435d542837316318c026be5b14176",
-        "vega_pub_key_index": 1
-      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "S+hwZNYB6fEtTPBVkaFaPwXgENR3tLJNvqFqyjnmqYs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ahmul6okz4x36a42dseevyggel2a70dd?d=identicon",
+        "country": "IU",
+        "ethereum_address": "0xF9f5071f2d248005683bf56aA642763Ec1cAaB7D",
+        "id": "f0087faff5d858b019fab02f5e6050b30b134f95f4633f9be0c8e744416a13ac",
+        "info_url": "https://en.wikipedia.org/wiki/Yomitan",
+        "name": "condescending-shirt",
+        "tm_pub_key": "S+hwZNYB6fEtTPBVkaFaPwXgENR3tLJNvqFqyjnmqYs=",
+        "vega_pub_key": "f5dbd4d42188e47c1ef0fddc887c23c025d49e7f619df94d4f49ceb528df2b3d",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302141201",
+  "chain_id": "vega-devnet1-202302141404",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-14T12:01:52.724039968Z",
+  "genesis_time": "2023-02-14T14:04:57.282415281Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "E91D028F356F161CFDAFD983B3A6541ACE48CBF8",
-      "name": "agitated-plant",
+      "address": "583B1389B1429E5E59E1130B8471056CB7748FA3",
+      "name": "condescending-shirt",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "DOq3dHSqTbqtE6mczqyNpGM2a1d/64BZa/we+zzhhA4="
+        "value": "S+hwZNYB6fEtTPBVkaFaPwXgENR3tLJNvqFqyjnmqYs="
       }
     }
   ]
