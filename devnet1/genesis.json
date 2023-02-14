@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "gTeogpaMpLB1yTQ6wCPYT75sZ9HNbWhaBOKBtULZVgc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ysc9fp72d2mvctvp8n60d4wmazbl3qhn?d=identicon",
-        "country": "FG",
-        "ethereum_address": "0x8C7c5f63204D2A5a97c4d8726c9e7a0C0913dCC1",
-        "id": "76dcbeaeef77d9042a98b96535fccaa657f3646316802a1dbd202da391447b29",
-        "info_url": "https://en.wikipedia.org/wiki/Lewis_D._Apsley",
-        "name": "wailing-pencil",
-        "tm_pub_key": "gTeogpaMpLB1yTQ6wCPYT75sZ9HNbWhaBOKBtULZVgc=",
-        "vega_pub_key": "0cdb02d0eb890693deb38a07ff4bcd743d63e16a77a3a6a9d08f60a758853f11",
+      "dtXehi+DWaKLshmb/kzyGPDgNFTqegRUI5aEGlSFIAk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/8uefxx30x4wxbhmk2c3wtmdk0ap1vu49?d=identicon",
+        "country": "IY",
+        "ethereum_address": "0x9fEe11e09F246b9ddbf4c4d47A79298d222b31ea",
+        "id": "5591f256d43702abb70a681d8593cef17b245396d7f20849673f9cde519ab7cc",
+        "info_url": "https://en.wikipedia.org/wiki/Special_adviser_(Norway)",
+        "name": "dead-cookie",
+        "tm_pub_key": "dtXehi+DWaKLshmb/kzyGPDgNFTqegRUI5aEGlSFIAk=",
+        "vega_pub_key": "a887881cb4d7c12685743c1bce9529af2e1978552be04bd597c63de09e228f87",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302141804",
+  "chain_id": "vega-devnet1-202302141927",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-14T18:04:14.644593723Z",
+  "genesis_time": "2023-02-14T19:27:36.467360792Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "DDB862B017E7C643EE317354D4B36F04F7E0E635",
-      "name": "wailing-pencil",
+      "address": "E07714011CC3A2660A3894672ED17E976354A967",
+      "name": "dead-cookie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "gTeogpaMpLB1yTQ6wCPYT75sZ9HNbWhaBOKBtULZVgc="
+        "value": "dtXehi+DWaKLshmb/kzyGPDgNFTqegRUI5aEGlSFIAk="
       }
     }
   ]
