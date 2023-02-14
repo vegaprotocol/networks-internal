@@ -302,17 +302,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "hqMEYRGmPmxLPXdChLMwK0lbEYqQMvh5e2hn5gu+uX8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/oq2ocwogmsd1ngc8dojalg6dzd91ua25?d=identicon",
-        "country": "DR",
-        "ethereum_address": "0x6B176D621395C608A39862447A42ed5A1ef5B381",
-        "id": "4b6ea3eb7d5ea0e54bbaded2cc0c2aa00a67f45658193cfd23952c823539febf",
-        "info_url": "https://en.wikipedia.org/wiki/Gimnasio_USBI",
-        "name": "scruffy-swing",
-        "tm_pub_key": "hqMEYRGmPmxLPXdChLMwK0lbEYqQMvh5e2hn5gu+uX8=",
-        "vega_pub_key": "20cba06c547ca4e33782e60e2a31cfad672d44cbf7c4e627253ed7d39f85375c",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "x+xaQhLOuq2zU/kkQAN+WAGCTDYfS9rLhg0hpEEKzs4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/d29od2yfe2m55jnjtju04jro1ocb0oca?d=identicon",
+        "country": "DG",
+        "ethereum_address": "0x5e0A1E229Acec4Bf7Db8025558C9d0EFce005D71",
+        "id": "bc930915e29f90c90499e80d09d2ea7ed84fdc405c5f5d6091e0be9613971308",
+        "info_url": "https://en.wikipedia.org/wiki/Lethenteron_appendix",
+        "name": "courageous-dress",
+        "tm_pub_key": "x+xaQhLOuq2zU/kkQAN+WAGCTDYfS9rLhg0hpEEKzs4=",
+        "vega_pub_key": "8bd09026490f94628280d1ca2e35d10b764eac18ffafc14d63208693f5cb3b33",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202302132131",
+  "chain_id": "vega-devnet1-202302141130",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-13T21:31:46.635171821Z",
+  "genesis_time": "2023-02-14T11:30:54.418396363Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "1394B44CB9252F4C5145A8827DA623651193215B",
-      "name": "scruffy-swing",
+      "address": "A10A990D3381DB8EE36EEFFC1B7D3DD338D8361B",
+      "name": "courageous-dress",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "hqMEYRGmPmxLPXdChLMwK0lbEYqQMvh5e2hn5gu+uX8="
+        "value": "x+xaQhLOuq2zU/kkQAN+WAGCTDYfS9rLhg0hpEEKzs4="
       }
     }
   ]
