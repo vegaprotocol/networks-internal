@@ -280,6 +280,17 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
+      "By1Ghfi+arEX3CM2ch0v4x5DMQGyA/wckZDXzh8YEjs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/h28hgejo7d2bhf8eiocq34sitiy2q6sy?d=identicon",
+        "country": "GA",
+        "ethereum_address": "0x28D77DeF2dB639A8DF399277e502d751216ED127",
+        "id": "5f91eb9db6a6f38fdcb5d3518cfe5cb70672002e1d96eb4f5e966744ba3311b0",
+        "info_url": "https://en.wikipedia.org/wiki/Exochomus_metallicus",
+        "name": "harebrained-ball",
+        "tm_pub_key": "By1Ghfi+arEX3CM2ch0v4x5DMQGyA/wckZDXzh8YEjs=",
+        "vega_pub_key": "72e7a4c7fb4bf50a8e29f825460e2681af75a68b7a081f4322cd74bfd029ebe5",
+        "vega_pub_key_index": 1
+      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "S+hwZNYB6fEtTPBVkaFaPwXgENR3tLJNvqFqyjnmqYs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ahmul6okz4x36a42dseevyggel2a70dd?d=identicon",
-        "country": "IU",
-        "ethereum_address": "0xF9f5071f2d248005683bf56aA642763Ec1cAaB7D",
-        "id": "f0087faff5d858b019fab02f5e6050b30b134f95f4633f9be0c8e744416a13ac",
-        "info_url": "https://en.wikipedia.org/wiki/Yomitan",
-        "name": "condescending-shirt",
-        "tm_pub_key": "S+hwZNYB6fEtTPBVkaFaPwXgENR3tLJNvqFqyjnmqYs=",
-        "vega_pub_key": "f5dbd4d42188e47c1ef0fddc887c23c025d49e7f619df94d4f49ceb528df2b3d",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302141425",
+  "chain_id": "vega-devnet1-202302141706",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-14T14:25:16.326740567Z",
+  "genesis_time": "2023-02-14T17:06:09.128382977Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "583B1389B1429E5E59E1130B8471056CB7748FA3",
-      "name": "condescending-shirt",
+      "address": "3B340FB8F9D97EA05F0B0ED420379546CF808CFD",
+      "name": "harebrained-ball",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "S+hwZNYB6fEtTPBVkaFaPwXgENR3tLJNvqFqyjnmqYs="
+        "value": "By1Ghfi+arEX3CM2ch0v4x5DMQGyA/wckZDXzh8YEjs="
       }
     }
   ]
