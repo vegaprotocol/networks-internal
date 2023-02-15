@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "dtXehi+DWaKLshmb/kzyGPDgNFTqegRUI5aEGlSFIAk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/8uefxx30x4wxbhmk2c3wtmdk0ap1vu49?d=identicon",
-        "country": "IY",
-        "ethereum_address": "0x9fEe11e09F246b9ddbf4c4d47A79298d222b31ea",
-        "id": "5591f256d43702abb70a681d8593cef17b245396d7f20849673f9cde519ab7cc",
-        "info_url": "https://en.wikipedia.org/wiki/Special_adviser_(Norway)",
-        "name": "dead-cookie",
-        "tm_pub_key": "dtXehi+DWaKLshmb/kzyGPDgNFTqegRUI5aEGlSFIAk=",
-        "vega_pub_key": "a887881cb4d7c12685743c1bce9529af2e1978552be04bd597c63de09e228f87",
+      "epQHaYeWCAjD8dDFNPDmfjqV6sRl/MRv56mTgxILEUs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/69mx0zfkr7yl76hl3qgfjbvtgfs62lwg?d=identicon",
+        "country": "GS",
+        "ethereum_address": "0x2df17F8D49F026920bfAfc00A127430078Ca8990",
+        "id": "b0ab4aeee3e12b32a628ae246ec0c2083367557a60482263a694ca53c45f9b25",
+        "info_url": "https://en.wikipedia.org/wiki/Gradey_Dick",
+        "name": "happy-hill",
+        "tm_pub_key": "epQHaYeWCAjD8dDFNPDmfjqV6sRl/MRv56mTgxILEUs=",
+        "vega_pub_key": "720e9730e71efc1fae64f612d21af02c301ee930ad089a490b8055cd032abccb",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302141927",
+  "chain_id": "vega-devnet1-202302150925",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-14T19:27:36.467360792Z",
+  "genesis_time": "2023-02-15T09:25:31.206914188Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "E07714011CC3A2660A3894672ED17E976354A967",
-      "name": "dead-cookie",
+      "address": "BF10B393FCDC7E505A7E4E81B0E81C873834777F",
+      "name": "happy-hill",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "dtXehi+DWaKLshmb/kzyGPDgNFTqegRUI5aEGlSFIAk="
+        "value": "epQHaYeWCAjD8dDFNPDmfjqV6sRl/MRv56mTgxILEUs="
       }
     }
   ]
