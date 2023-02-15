@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "oxmtrtKTPUQAzxgo3++cY+ZWFCMFdcmGM3fHrWPI74o=": {
-        "avatar_url": "https://www.gravatar.com/avatar/5zj8b22fzp52bhwzqkc94rb0jqjs8map?d=identicon",
-        "country": "LE",
-        "ethereum_address": "0x348a446fbFa77b2D129f4d4179c971302c54c564",
-        "id": "bd70a8080221bd09ce36ff142f645085e197ebe31955b2c89a4d2bada71880bd",
-        "info_url": "https://en.wikipedia.org/wiki/Howel_Samuel",
-        "name": "quaint-mango",
-        "tm_pub_key": "oxmtrtKTPUQAzxgo3++cY+ZWFCMFdcmGM3fHrWPI74o=",
-        "vega_pub_key": "4fe1bf0ded9a872b2f46c57eca39aba9f06b636bd4aaf09aea74b6d54aecce57",
+      "MRJ1Hhgr81rULhN2OO599loOqvqnJ7zmmJU/PSLOa6U=": {
+        "avatar_url": "https://www.gravatar.com/avatar/cjfw89y4hm2ewimies79dzfrpckev88a?d=identicon",
+        "country": "KS",
+        "ethereum_address": "0xFcDC1A90E1793C0E7625FCA0c73188a0c2c9ED69",
+        "id": "4e6f87f5c4fbee731a3e7f5ba4aaaacdb69ff721a719c56c7b4382f62071e2c5",
+        "info_url": "https://en.wikipedia.org/wiki/Sarah_Reid_(skeleton_racer)",
+        "name": "courageous-building",
+        "tm_pub_key": "MRJ1Hhgr81rULhN2OO599loOqvqnJ7zmmJU/PSLOa6U=",
+        "vega_pub_key": "b14f464ca6a6f5f527a1d5d3b25010e731af19a781ef9d8358db2333866e87f2",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302151616",
+  "chain_id": "vega-devnet1-202302151701",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-15T16:16:16.070004787Z",
+  "genesis_time": "2023-02-15T17:01:31.523254083Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "8DBD748BBAAC1B1EC2B235C671ED2D4AA9EAC772",
-      "name": "quaint-mango",
+      "address": "15687DF7B386F8C609429FB0CA457A8EEDEA64CC",
+      "name": "courageous-building",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "oxmtrtKTPUQAzxgo3++cY+ZWFCMFdcmGM3fHrWPI74o="
+        "value": "MRJ1Hhgr81rULhN2OO599loOqvqnJ7zmmJU/PSLOa6U="
       }
     }
   ]
