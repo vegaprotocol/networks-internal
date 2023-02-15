@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "MRJ1Hhgr81rULhN2OO599loOqvqnJ7zmmJU/PSLOa6U=": {
-        "avatar_url": "https://www.gravatar.com/avatar/cjfw89y4hm2ewimies79dzfrpckev88a?d=identicon",
-        "country": "KS",
-        "ethereum_address": "0xFcDC1A90E1793C0E7625FCA0c73188a0c2c9ED69",
-        "id": "4e6f87f5c4fbee731a3e7f5ba4aaaacdb69ff721a719c56c7b4382f62071e2c5",
-        "info_url": "https://en.wikipedia.org/wiki/Sarah_Reid_(skeleton_racer)",
-        "name": "courageous-building",
-        "tm_pub_key": "MRJ1Hhgr81rULhN2OO599loOqvqnJ7zmmJU/PSLOa6U=",
-        "vega_pub_key": "b14f464ca6a6f5f527a1d5d3b25010e731af19a781ef9d8358db2333866e87f2",
+      "dJjP3qb9iMOEHEiRped61w0IlJCambb0v0JuCIwzo1k=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ab1p6q2vsdoivl1zpzmef7h5pio2qrqb?d=identicon",
+        "country": "ID",
+        "ethereum_address": "0xc162e64a5066E090e88096882A239D4460b88BCD",
+        "id": "6c8acfa248585f44fded790c66d055621d0e84a0418379e40fafa9b0856005f5",
+        "info_url": "https://en.wikipedia.org/wiki/Hainanpotamon",
+        "name": "brave-chair",
+        "tm_pub_key": "dJjP3qb9iMOEHEiRped61w0IlJCambb0v0JuCIwzo1k=",
+        "vega_pub_key": "a9dc69e87e38f39f8ffac8fb3f1a6c990ab6bd1338f950050ce1da27fd069850",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302151701",
+  "chain_id": "vega-devnet1-202302151825",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-15T17:01:31.523254083Z",
+  "genesis_time": "2023-02-15T18:25:09.223473249Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "15687DF7B386F8C609429FB0CA457A8EEDEA64CC",
-      "name": "courageous-building",
+      "address": "E741E74DF7DF22780D5030F8902E2C24614E5A68",
+      "name": "brave-chair",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "MRJ1Hhgr81rULhN2OO599loOqvqnJ7zmmJU/PSLOa6U="
+        "value": "dJjP3qb9iMOEHEiRped61w0IlJCambb0v0JuCIwzo1k="
       }
     }
   ]
