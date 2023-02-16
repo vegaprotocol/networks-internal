@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "hqQS82++7YZ6X1n2wKdl3Gle3+EbNU0o/wXr4V2BuAQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/h3yo6jkh9604rb1szb9u2ib8xvovxv13?d=identicon",
-        "country": "CI",
-        "ethereum_address": "0x27D316fae9153F84d9C4570469f720Ce651e9Aa1",
-        "id": "8023497d5e0305c03a055ddc2638d05522328a1bf6c3b4a81bd39aa3018233e0",
-        "info_url": "https://en.wikipedia.org/wiki/Muehlenbeckia_hastulata",
-        "name": "careful-day",
-        "tm_pub_key": "hqQS82++7YZ6X1n2wKdl3Gle3+EbNU0o/wXr4V2BuAQ=",
-        "vega_pub_key": "9962b2d71835d4cc08c55ad11f6ee5d5fe6d118c7454334dd86cd51e1da3d856",
+      "dofzxdxy16AJOlcamwfl0ViJ6uY4M3rU6uQyQwvrDyQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/3mfwspp3ufu7pne3cx8s9oo7khnkdz4h?d=identicon",
+        "country": "DS",
+        "ethereum_address": "0xe54C7Aa8e09bC42dd422B6138A949023929774a7",
+        "id": "9530a8bfbe7dd1104cd896392a5b4a3bec7dfda1ed1de61a37b3ac60e0ba6683",
+        "info_url": "https://en.wikipedia.org/wiki/Joseph_Perl",
+        "name": "agitated-phone",
+        "tm_pub_key": "dofzxdxy16AJOlcamwfl0ViJ6uY4M3rU6uQyQwvrDyQ=",
+        "vega_pub_key": "7093f9d0a8784cef50d549e5104ed47ba7f05ced0048d0c98b0e1be43467c388",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302161341",
+  "chain_id": "vega-devnet1-202302161425",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-16T13:41:30.608749416Z",
+  "genesis_time": "2023-02-16T14:25:06.472008486Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "6B3FF2C8BF33DB57A50786EE9F8191D5A2BB1DEA",
-      "name": "careful-day",
+      "address": "5E0DB103FA6A269C8D8E7BFC8C5C1BF4A94EB74B",
+      "name": "agitated-phone",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "hqQS82++7YZ6X1n2wKdl3Gle3+EbNU0o/wXr4V2BuAQ="
+        "value": "dofzxdxy16AJOlcamwfl0ViJ6uY4M3rU6uQyQwvrDyQ="
       }
     }
   ]
