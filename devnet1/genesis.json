@@ -302,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "hqQS82++7YZ6X1n2wKdl3Gle3+EbNU0o/wXr4V2BuAQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/h3yo6jkh9604rb1szb9u2ib8xvovxv13?d=identicon",
+        "country": "CI",
+        "ethereum_address": "0x27D316fae9153F84d9C4570469f720Ce651e9Aa1",
+        "id": "8023497d5e0305c03a055ddc2638d05522328a1bf6c3b4a81bd39aa3018233e0",
+        "info_url": "https://en.wikipedia.org/wiki/Muehlenbeckia_hastulata",
+        "name": "careful-day",
+        "tm_pub_key": "hqQS82++7YZ6X1n2wKdl3Gle3+EbNU0o/wXr4V2BuAQ=",
+        "vega_pub_key": "9962b2d71835d4cc08c55ad11f6ee5d5fe6d118c7454334dd86cd51e1da3d856",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "ycz1XDclAnRGvk4bO93zOOSNJjLb8qjRqBJS7aV0QO4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ieql8v2b9hj3whawkjcjtospg9g0opi4?d=identicon",
-        "country": "FE",
-        "ethereum_address": "0x815FD04C86B9787b12eB35ef0f4a8053EFEc6d67",
-        "id": "4dd92b08ad498a6e8302bb6357ba24965bc0a120c7842d1f56f1aaf98a1fd647",
-        "info_url": "https://en.wikipedia.org/wiki/Spicy_City",
-        "name": "cooperative-car",
-        "tm_pub_key": "ycz1XDclAnRGvk4bO93zOOSNJjLb8qjRqBJS7aV0QO4=",
-        "vega_pub_key": "03d68cc57abc1c59086c655bfb151c37c379145fdbbcf63e7e9d5b59935d433d",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202302161201",
+  "chain_id": "vega-devnet1-202302161341",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-16T12:01:53.73165226Z",
+  "genesis_time": "2023-02-16T13:41:30.608749416Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "F2954E52778D147E0A57225DF2CFE107744F517F",
-      "name": "cooperative-car",
+      "address": "6B3FF2C8BF33DB57A50786EE9F8191D5A2BB1DEA",
+      "name": "careful-day",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ycz1XDclAnRGvk4bO93zOOSNJjLb8qjRqBJS7aV0QO4="
+        "value": "hqQS82++7YZ6X1n2wKdl3Gle3+EbNU0o/wXr4V2BuAQ="
       }
     }
   ]
