@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "dofzxdxy16AJOlcamwfl0ViJ6uY4M3rU6uQyQwvrDyQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/3mfwspp3ufu7pne3cx8s9oo7khnkdz4h?d=identicon",
-        "country": "DS",
-        "ethereum_address": "0xe54C7Aa8e09bC42dd422B6138A949023929774a7",
-        "id": "9530a8bfbe7dd1104cd896392a5b4a3bec7dfda1ed1de61a37b3ac60e0ba6683",
-        "info_url": "https://en.wikipedia.org/wiki/Joseph_Perl",
-        "name": "agitated-phone",
-        "tm_pub_key": "dofzxdxy16AJOlcamwfl0ViJ6uY4M3rU6uQyQwvrDyQ=",
-        "vega_pub_key": "7093f9d0a8784cef50d549e5104ed47ba7f05ced0048d0c98b0e1be43467c388",
+      "g7fo4A9v5qfbKJHyCTxKMnw+S7RZ33t7Bg8mw6PpLQs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/hjrswo1z47inn52fsvagwr3ium4es5zr?d=identicon",
+        "country": "KV",
+        "ethereum_address": "0xBfb58098BB8265353Db2A913824F83E222c18E47",
+        "id": "b44c8f085b31340e5d578a614866afc3cc2c464198391fcf39b35ad7ff14f592",
+        "info_url": "https://en.wikipedia.org/wiki/GNB4",
+        "name": "tricky-stove",
+        "tm_pub_key": "g7fo4A9v5qfbKJHyCTxKMnw+S7RZ33t7Bg8mw6PpLQs=",
+        "vega_pub_key": "33b9f8d72dfa0cc6171ca38d0e478f07800083c5dd4513287a80d8655e83baed",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302161425",
+  "chain_id": "vega-devnet1-202302161503",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-16T14:25:06.472008486Z",
+  "genesis_time": "2023-02-16T15:03:44.959905574Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "5E0DB103FA6A269C8D8E7BFC8C5C1BF4A94EB74B",
-      "name": "agitated-phone",
+      "address": "25C19A9C5EB6AD900AE7216D29A5CCF27BE3D6B8",
+      "name": "tricky-stove",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "dofzxdxy16AJOlcamwfl0ViJ6uY4M3rU6uQyQwvrDyQ="
+        "value": "g7fo4A9v5qfbKJHyCTxKMnw+S7RZ33t7Bg8mw6PpLQs="
       }
     }
   ]
