@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "dJjP3qb9iMOEHEiRped61w0IlJCambb0v0JuCIwzo1k=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ab1p6q2vsdoivl1zpzmef7h5pio2qrqb?d=identicon",
-        "country": "ID",
-        "ethereum_address": "0xc162e64a5066E090e88096882A239D4460b88BCD",
-        "id": "6c8acfa248585f44fded790c66d055621d0e84a0418379e40fafa9b0856005f5",
-        "info_url": "https://en.wikipedia.org/wiki/Hainanpotamon",
-        "name": "brave-chair",
-        "tm_pub_key": "dJjP3qb9iMOEHEiRped61w0IlJCambb0v0JuCIwzo1k=",
-        "vega_pub_key": "a9dc69e87e38f39f8ffac8fb3f1a6c990ab6bd1338f950050ce1da27fd069850",
+      "mMbtJgEnllKuajb5WuZ8Gmm8WvwEdykBlfl/34ywXlo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/jepj064pt87u55kvzj77y6rbwv4rmsps?d=identicon",
+        "country": "JR",
+        "ethereum_address": "0x4fd3069EC03496a1a38e3ddf75fC842d3E40902a",
+        "id": "f12d129e63d9f72d2fcc3921886abfbf831fb6f638be55c3208bd520ebc467b9",
+        "info_url": "https://en.wikipedia.org/wiki/Zvezdan",
+        "name": "tricky-vacuum",
+        "tm_pub_key": "mMbtJgEnllKuajb5WuZ8Gmm8WvwEdykBlfl/34ywXlo=",
+        "vega_pub_key": "714a25c7dc2df791a10fb7cc50b1fc76ff6c398f8a5c30d891ed4b1f5c3dfa88",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302151825",
+  "chain_id": "vega-devnet1-202302161108",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-15T18:25:09.223473249Z",
+  "genesis_time": "2023-02-16T11:08:04.58988683Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "E741E74DF7DF22780D5030F8902E2C24614E5A68",
-      "name": "brave-chair",
+      "address": "6C07FE642A1985BDF10ED29E45CC77A95B81B58E",
+      "name": "tricky-vacuum",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "dJjP3qb9iMOEHEiRped61w0IlJCambb0v0JuCIwzo1k="
+        "value": "mMbtJgEnllKuajb5WuZ8Gmm8WvwEdykBlfl/34ywXlo="
       }
     }
   ]
