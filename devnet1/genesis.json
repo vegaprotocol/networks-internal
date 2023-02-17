@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "s5+XB4Upx7GlVpRjPLQY1QNWtXsAqM37cHZQMSJsJb4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ci7t646g7h2pcrvurjxzqgk0jssokhm3?d=identicon",
-        "country": "VU",
-        "ethereum_address": "0x382cB37853DEFf7488c15490Fc1ddf4E300032Ea",
-        "id": "8f81058330bcb577a1d0e2081dd279105eaa5dec5ed95f47c3f0c90cf042519c",
-        "info_url": "https://en.wikipedia.org/wiki/Tshopo",
-        "name": "hollow-man",
-        "tm_pub_key": "s5+XB4Upx7GlVpRjPLQY1QNWtXsAqM37cHZQMSJsJb4=",
-        "vega_pub_key": "6014987bf8f9e088175f6038fdec71e5d72e63ef6f1b51d5d6a3973f560782d2",
+      "YWtk3o0wWO76/FgxC2X1iOnvE5G64GZ8Ruy3EHLa9nE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/v0n64922m9sw2p3yr89xypjghwxns9j0?d=identicon",
+        "country": "QZ",
+        "ethereum_address": "0xC29605C71EC652c6dCDfCaA965d525543E919674",
+        "id": "1529f965f1258b2a0c2941873a1589b835844ed84ee3cd0200e8a89d80171bf9",
+        "info_url": "https://en.wikipedia.org/wiki/Ian_Patterson_(poet)",
+        "name": "lucky-wall",
+        "tm_pub_key": "YWtk3o0wWO76/FgxC2X1iOnvE5G64GZ8Ruy3EHLa9nE=",
+        "vega_pub_key": "95dfe25581916ca707731061e70c3f5c9aed4e3fa99a3169e5752991cf42964e",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302171710",
+  "chain_id": "vega-devnet1-202302171901",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-17T17:10:13.364530951Z",
+  "genesis_time": "2023-02-17T19:01:35.766134572Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "3E5C6B79B897B0AEBB6BCEB319A9A2879AF21D61",
-      "name": "hollow-man",
+      "address": "AB022FFD0A4978F68D92DFBA89D951DA05AB51D7",
+      "name": "lucky-wall",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "s5+XB4Upx7GlVpRjPLQY1QNWtXsAqM37cHZQMSJsJb4="
+        "value": "YWtk3o0wWO76/FgxC2X1iOnvE5G64GZ8Ruy3EHLa9nE="
       }
     }
   ]
