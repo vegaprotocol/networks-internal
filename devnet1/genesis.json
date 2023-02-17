@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "rPdPjSsCQJ16z2WuLgjMGB4gqRPz/45gxrmDlqNjcuQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ushco8klebc1ls7ewrojjyzn4yk1vglp?d=identicon",
-        "country": "SM",
-        "ethereum_address": "0x7CAe6363144800a5DfF1C1c96F920133E9dad33d",
-        "id": "c834a4e41cf221cdc76674578dac9a1e4a011c27cfc11ab8fd3d7c02a308ccf7",
-        "info_url": "https://en.wikipedia.org/wiki/Carl_Browallius",
-        "name": "easy-butterfly",
-        "tm_pub_key": "rPdPjSsCQJ16z2WuLgjMGB4gqRPz/45gxrmDlqNjcuQ=",
-        "vega_pub_key": "a78eb93cc22200ed19c6af3c173a364ffe10d210c29b8568f2fbfc45cef7c15a",
+      "s5+XB4Upx7GlVpRjPLQY1QNWtXsAqM37cHZQMSJsJb4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ci7t646g7h2pcrvurjxzqgk0jssokhm3?d=identicon",
+        "country": "VU",
+        "ethereum_address": "0x382cB37853DEFf7488c15490Fc1ddf4E300032Ea",
+        "id": "8f81058330bcb577a1d0e2081dd279105eaa5dec5ed95f47c3f0c90cf042519c",
+        "info_url": "https://en.wikipedia.org/wiki/Tshopo",
+        "name": "hollow-man",
+        "tm_pub_key": "s5+XB4Upx7GlVpRjPLQY1QNWtXsAqM37cHZQMSJsJb4=",
+        "vega_pub_key": "6014987bf8f9e088175f6038fdec71e5d72e63ef6f1b51d5d6a3973f560782d2",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302171447",
+  "chain_id": "vega-devnet1-202302171710",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-17T14:47:15.197469659Z",
+  "genesis_time": "2023-02-17T17:10:13.364530951Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "48CA74DEAE9CFAB637FCDFEF5B04FB1D220135BD",
-      "name": "easy-butterfly",
+      "address": "3E5C6B79B897B0AEBB6BCEB319A9A2879AF21D61",
+      "name": "hollow-man",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "rPdPjSsCQJ16z2WuLgjMGB4gqRPz/45gxrmDlqNjcuQ="
+        "value": "s5+XB4Upx7GlVpRjPLQY1QNWtXsAqM37cHZQMSJsJb4="
       }
     }
   ]
