@@ -280,17 +280,6 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
-      "9lenh1TDEHD383BDwENw/txgSApnVl7vNb1sxZQXobg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/bwsz4ng6upintaz5kzo4vdkx668txdvk?d=identicon",
-        "country": "SP",
-        "ethereum_address": "0x7d82858686985AE447E8B7BA301684718A413E01",
-        "id": "d3357868b11d0aff24ef4a6b689fca945aa780b5756e02b5e93b6230a894aedd",
-        "info_url": "https://en.wikipedia.org/wiki/Oenocarpus_bacaba",
-        "name": "stocky-ball",
-        "tm_pub_key": "9lenh1TDEHD383BDwENw/txgSApnVl7vNb1sxZQXobg=",
-        "vega_pub_key": "1ef967ed66e7c7402a9d99a05c8315331ffda5f0e645590da018f0aec7eafb9a",
-        "vega_pub_key_index": 1
-      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "OfQSJ2H03aOIpeA1f9g1jyiRc+qkQM8zIHCsNR2OmDk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/8x05chkjdkvpdtckkn8wloew49sak3oy?d=identicon",
+        "country": "ER",
+        "ethereum_address": "0xaCe477cD9aDA8cf71345f5981BB67A963eDD2A43",
+        "id": "48a33d25cef326a374d8c3a28fa0bbb56251fa7e28cc2ace4ce0e96d29c146ca",
+        "info_url": "https://en.wikipedia.org/wiki/William_Leo_Hansberry",
+        "name": "icy-tree",
+        "tm_pub_key": "OfQSJ2H03aOIpeA1f9g1jyiRc+qkQM8zIHCsNR2OmDk=",
+        "vega_pub_key": "23506e87a16af7367bcf74793066247e33f20f31fc868a8ace39ad422409d84e",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302191136",
+  "chain_id": "vega-devnet1-202302191741",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-19T11:36:33.112980858Z",
+  "genesis_time": "2023-02-19T17:41:44.656155539Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "1735CDF10A9E73655A0A39324C0AFE7C93C683D9",
-      "name": "stocky-ball",
+      "address": "39D69768C543B59425F7E7537919FA86C056C5B1",
+      "name": "icy-tree",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "9lenh1TDEHD383BDwENw/txgSApnVl7vNb1sxZQXobg="
+        "value": "OfQSJ2H03aOIpeA1f9g1jyiRc+qkQM8zIHCsNR2OmDk="
       }
     }
   ]
