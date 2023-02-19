@@ -280,6 +280,17 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
+      "9lenh1TDEHD383BDwENw/txgSApnVl7vNb1sxZQXobg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/bwsz4ng6upintaz5kzo4vdkx668txdvk?d=identicon",
+        "country": "SP",
+        "ethereum_address": "0x7d82858686985AE447E8B7BA301684718A413E01",
+        "id": "d3357868b11d0aff24ef4a6b689fca945aa780b5756e02b5e93b6230a894aedd",
+        "info_url": "https://en.wikipedia.org/wiki/Oenocarpus_bacaba",
+        "name": "stocky-ball",
+        "tm_pub_key": "9lenh1TDEHD383BDwENw/txgSApnVl7vNb1sxZQXobg=",
+        "vega_pub_key": "1ef967ed66e7c7402a9d99a05c8315331ffda5f0e645590da018f0aec7eafb9a",
+        "vega_pub_key_index": 1
+      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "YWtk3o0wWO76/FgxC2X1iOnvE5G64GZ8Ruy3EHLa9nE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/v0n64922m9sw2p3yr89xypjghwxns9j0?d=identicon",
-        "country": "QZ",
-        "ethereum_address": "0xC29605C71EC652c6dCDfCaA965d525543E919674",
-        "id": "1529f965f1258b2a0c2941873a1589b835844ed84ee3cd0200e8a89d80171bf9",
-        "info_url": "https://en.wikipedia.org/wiki/Ian_Patterson_(poet)",
-        "name": "lucky-wall",
-        "tm_pub_key": "YWtk3o0wWO76/FgxC2X1iOnvE5G64GZ8Ruy3EHLa9nE=",
-        "vega_pub_key": "95dfe25581916ca707731061e70c3f5c9aed4e3fa99a3169e5752991cf42964e",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302171901",
+  "chain_id": "vega-devnet1-202302191136",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-17T19:01:35.766134572Z",
+  "genesis_time": "2023-02-19T11:36:33.112980858Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "AB022FFD0A4978F68D92DFBA89D951DA05AB51D7",
-      "name": "lucky-wall",
+      "address": "1735CDF10A9E73655A0A39324C0AFE7C93C683D9",
+      "name": "stocky-ball",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "YWtk3o0wWO76/FgxC2X1iOnvE5G64GZ8Ruy3EHLa9nE="
+        "value": "9lenh1TDEHD383BDwENw/txgSApnVl7vNb1sxZQXobg="
       }
     }
   ]
