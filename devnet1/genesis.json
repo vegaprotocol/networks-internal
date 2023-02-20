@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "tnAG5CM+jGt7XWtQhesfPNL+7LBtbJE0AW9YVGuGe0U=": {
-        "avatar_url": "https://www.gravatar.com/avatar/jk8dfo6z6s0t47qtykft2engx2bny0ns?d=identicon",
-        "country": "BA",
-        "ethereum_address": "0x82E26708046a2dFbab1e0230A66dB147A3A3829C",
-        "id": "1b235378628bec4d0b1164a707220e2a248dcd39b49c344427befe4f12cde933",
-        "info_url": "https://en.wikipedia.org/wiki/2022_GB_Pro-Series_Shrewsbury_%E2%80%93_Singles",
-        "name": "wicked-bird",
-        "tm_pub_key": "tnAG5CM+jGt7XWtQhesfPNL+7LBtbJE0AW9YVGuGe0U=",
-        "vega_pub_key": "46f5db65850572027e438adc30e1e37e392d7febc35e97dadac6afaf5a5977a5",
+      "irGOi4EycMD4vcT/dRRZmCPMYRJt7++bSTqykuJb3V4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/7jnbhl5ot684os4ldb0pyfiu5mob0kpk?d=identicon",
+        "country": "AS",
+        "ethereum_address": "0x28638e3A4713Eeb52A6476FF5A9b0AE52c02A234",
+        "id": "6434e8bd2164794d245f8677997d8448c80b440a9056d8f336134a9b8872a007",
+        "info_url": "https://en.wikipedia.org/wiki/Senegal_at_the_Paralympics",
+        "name": "impressionable-road",
+        "tm_pub_key": "irGOi4EycMD4vcT/dRRZmCPMYRJt7++bSTqykuJb3V4=",
+        "vega_pub_key": "1ae7b56e6b7ba6752e22f593e728cf02ba41518a7ffa17b1b52887911d204a62",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302201649",
+  "chain_id": "vega-devnet1-202302201718",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-20T16:49:47.176588744Z",
+  "genesis_time": "2023-02-20T17:18:45.504641382Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "DC98BB3B8B71E4FAC803D322E35DE7CBDB4EDB66",
-      "name": "wicked-bird",
+      "address": "F5DC9704A3B1B65689CE1D0E3589F4EB66BA16DB",
+      "name": "impressionable-road",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "tnAG5CM+jGt7XWtQhesfPNL+7LBtbJE0AW9YVGuGe0U="
+        "value": "irGOi4EycMD4vcT/dRRZmCPMYRJt7++bSTqykuJb3V4="
       }
     }
   ]
