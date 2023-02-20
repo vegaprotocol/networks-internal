@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "irGOi4EycMD4vcT/dRRZmCPMYRJt7++bSTqykuJb3V4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/7jnbhl5ot684os4ldb0pyfiu5mob0kpk?d=identicon",
-        "country": "AS",
-        "ethereum_address": "0x28638e3A4713Eeb52A6476FF5A9b0AE52c02A234",
-        "id": "6434e8bd2164794d245f8677997d8448c80b440a9056d8f336134a9b8872a007",
-        "info_url": "https://en.wikipedia.org/wiki/Senegal_at_the_Paralympics",
-        "name": "impressionable-road",
-        "tm_pub_key": "irGOi4EycMD4vcT/dRRZmCPMYRJt7++bSTqykuJb3V4=",
-        "vega_pub_key": "1ae7b56e6b7ba6752e22f593e728cf02ba41518a7ffa17b1b52887911d204a62",
+      "lmWgvgI0Tya0qvJiKAUfMet4FKADtcxs3du20pHm2fg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/be9odmk0ll81dmsb2o8ix6jroo89fxsl?d=identicon",
+        "country": "DD",
+        "ethereum_address": "0xD889afAD9090BC1257805042C174B9184deE1E41",
+        "id": "fae45b89fa9acde450549aa2fc7e4edc1b74ce049f991e79bbdf80463345843f",
+        "info_url": "https://en.wikipedia.org/wiki/Lapido_Media",
+        "name": "echoing-town",
+        "tm_pub_key": "lmWgvgI0Tya0qvJiKAUfMet4FKADtcxs3du20pHm2fg=",
+        "vega_pub_key": "d0078499495d9f5ebe91b160adfd460b34817221aebf6092fff5173f8282228e",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302201718",
+  "chain_id": "vega-devnet1-202302202026",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-20T17:18:45.504641382Z",
+  "genesis_time": "2023-02-20T20:26:06.505431137Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "F5DC9704A3B1B65689CE1D0E3589F4EB66BA16DB",
-      "name": "impressionable-road",
+      "address": "5596DE382CE3F4FD54CFF65024D64ABFD0EF8A0C",
+      "name": "echoing-town",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "irGOi4EycMD4vcT/dRRZmCPMYRJt7++bSTqykuJb3V4="
+        "value": "lmWgvgI0Tya0qvJiKAUfMet4FKADtcxs3du20pHm2fg="
       }
     }
   ]
