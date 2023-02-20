@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "NXofInomiUpsim3izzN2zQCVFcbI4kGH9mBYxrd/PZ8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/kawbrcgl9u992mqfsw2dz33bwuqty2oe?d=identicon",
-        "country": "VH",
-        "ethereum_address": "0xa691363A0Ec9475be49910A4B4Cbebc1aBFd7993",
-        "id": "86ab742f980c1d93bae375cf63fff4dc3d65dfc1533e85e1ac101246e725e6b4",
-        "info_url": "https://en.wikipedia.org/wiki/2009_Porsche_Tennis_Grand_Prix_%E2%80%93_Singles",
-        "name": "brave-brother",
-        "tm_pub_key": "NXofInomiUpsim3izzN2zQCVFcbI4kGH9mBYxrd/PZ8=",
-        "vega_pub_key": "41f38b508f710ab39ce257e8e2c32daba27da426ca4b7045f02292d75fbb262a",
+      "tnAG5CM+jGt7XWtQhesfPNL+7LBtbJE0AW9YVGuGe0U=": {
+        "avatar_url": "https://www.gravatar.com/avatar/jk8dfo6z6s0t47qtykft2engx2bny0ns?d=identicon",
+        "country": "BA",
+        "ethereum_address": "0x82E26708046a2dFbab1e0230A66dB147A3A3829C",
+        "id": "1b235378628bec4d0b1164a707220e2a248dcd39b49c344427befe4f12cde933",
+        "info_url": "https://en.wikipedia.org/wiki/2022_GB_Pro-Series_Shrewsbury_%E2%80%93_Singles",
+        "name": "wicked-bird",
+        "tm_pub_key": "tnAG5CM+jGt7XWtQhesfPNL+7LBtbJE0AW9YVGuGe0U=",
+        "vega_pub_key": "46f5db65850572027e438adc30e1e37e392d7febc35e97dadac6afaf5a5977a5",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302201045",
+  "chain_id": "vega-devnet1-202302201607",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-20T10:45:22.11885378Z",
+  "genesis_time": "2023-02-20T16:07:21.97571654Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "FC633B3B742E491FF1717AB62112E974A4C45CFF",
-      "name": "brave-brother",
+      "address": "DC98BB3B8B71E4FAC803D322E35DE7CBDB4EDB66",
+      "name": "wicked-bird",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "NXofInomiUpsim3izzN2zQCVFcbI4kGH9mBYxrd/PZ8="
+        "value": "tnAG5CM+jGt7XWtQhesfPNL+7LBtbJE0AW9YVGuGe0U="
       }
     }
   ]
