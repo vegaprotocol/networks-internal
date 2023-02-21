@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "e0164BTbKVfzI1FHc/JXNimyP52t5LY50fudlnETpMg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/yxrz8dgby4ha7hu6p40fq8jsn97l352w?d=identicon",
-        "country": "PP",
-        "ethereum_address": "0x7dBBBcdAB12270dcD757f80170aCCF94BbdAAb48",
-        "id": "d3a1c5f2f34a2ad5f3f67d5535c64745df18cbcde00039a0f8add3b65ce3eaec",
-        "info_url": "https://en.wikipedia.org/wiki/Anna_Fermin",
-        "name": "gritty-stove",
-        "tm_pub_key": "e0164BTbKVfzI1FHc/JXNimyP52t5LY50fudlnETpMg=",
-        "vega_pub_key": "e2fb46a7071f54b955877de1a6485c648a48139341f66a0c9c594d046a8e797f",
+      "hjiInEjaZn2DdF8IkmBfnew6+f55qkSUJE31CQj5k80=": {
+        "avatar_url": "https://www.gravatar.com/avatar/u4wb7xe5725cqlpoj53m2260tyfejt5q?d=identicon",
+        "country": "OR",
+        "ethereum_address": "0xB0C58aAe212fF789F85F21E20DfA7953dBFCB115",
+        "id": "72682946106a0fe9424d986d0936b156d19760afa96fef4a56fc06dd5516bc1e",
+        "info_url": "https://en.wikipedia.org/wiki/Chatrud_District",
+        "name": "short-book",
+        "tm_pub_key": "hjiInEjaZn2DdF8IkmBfnew6+f55qkSUJE31CQj5k80=",
+        "vega_pub_key": "28bf7ac1712f85f11786aba436885a9445fb4d3bab802b15c6b2408c838f9cfd",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302211438",
+  "chain_id": "vega-devnet1-202302211538",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-21T14:38:12.825583762Z",
+  "genesis_time": "2023-02-21T15:38:28.955884136Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "0BA732ED471946148B457588FE81D0171CB534C2",
-      "name": "gritty-stove",
+      "address": "987C81E0841BA5C50E5FA9B5BB4A9FEFC6CD72F5",
+      "name": "short-book",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "e0164BTbKVfzI1FHc/JXNimyP52t5LY50fudlnETpMg="
+        "value": "hjiInEjaZn2DdF8IkmBfnew6+f55qkSUJE31CQj5k80="
       }
     }
   ]
