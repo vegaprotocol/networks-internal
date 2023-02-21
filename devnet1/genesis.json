@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "1VjyUP69jQ6tgPvNwaUUSXe6FF9D65Pta5s94Ge9knM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/subrqo8pqbrwg7l41ixmyseas4trtjkl?d=identicon",
+        "country": "BC",
+        "ethereum_address": "0x9a2d405B26e5623B6c17cdE1e48Af2c72227D82B",
+        "id": "335e8107350938a81ade1b1a8f412f42d99c09be8785792395bb15361d51ab62",
+        "info_url": "https://en.wikipedia.org/wiki/Pseudaulacaspis",
+        "name": "hollow-barber",
+        "tm_pub_key": "1VjyUP69jQ6tgPvNwaUUSXe6FF9D65Pta5s94Ge9knM=",
+        "vega_pub_key": "e492de539a7aebfc60909e94baae61b424bad6a2cea110664f33605482bf4ad8",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "lmWgvgI0Tya0qvJiKAUfMet4FKADtcxs3du20pHm2fg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/be9odmk0ll81dmsb2o8ix6jroo89fxsl?d=identicon",
-        "country": "DD",
-        "ethereum_address": "0xD889afAD9090BC1257805042C174B9184deE1E41",
-        "id": "fae45b89fa9acde450549aa2fc7e4edc1b74ce049f991e79bbdf80463345843f",
-        "info_url": "https://en.wikipedia.org/wiki/Lapido_Media",
-        "name": "echoing-town",
-        "tm_pub_key": "lmWgvgI0Tya0qvJiKAUfMet4FKADtcxs3du20pHm2fg=",
-        "vega_pub_key": "d0078499495d9f5ebe91b160adfd460b34817221aebf6092fff5173f8282228e",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302202026",
+  "chain_id": "vega-devnet1-202302211126",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-20T20:26:06.505431137Z",
+  "genesis_time": "2023-02-21T11:26:35.255648788Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "5596DE382CE3F4FD54CFF65024D64ABFD0EF8A0C",
-      "name": "echoing-town",
+      "address": "20EDF01DAB41D932BDC04CB7627472FEF91B02AD",
+      "name": "hollow-barber",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "lmWgvgI0Tya0qvJiKAUfMet4FKADtcxs3du20pHm2fg="
+        "value": "1VjyUP69jQ6tgPvNwaUUSXe6FF9D65Pta5s94Ge9knM="
       }
     }
   ]
