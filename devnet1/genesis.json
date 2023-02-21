@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "/1k53D+M7RAtO8Zo+/1HPIWd1PU0wEjsoqPHJ4N82nY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/3mfra1o4jywpfgcrrpnhtzjdeqdwwtru?d=identicon",
-        "country": "CA",
-        "ethereum_address": "0x85bD44adfe0B029103D897263497bCCb15e7A927",
-        "id": "39c2bc8a0fb24bccc88e7c76005a419077c59edf18cb75e96649fc7d42d6c693",
-        "info_url": "https://en.wikipedia.org/wiki/2009_African_Nations_Championship",
-        "name": "irate-baby",
-        "tm_pub_key": "/1k53D+M7RAtO8Zo+/1HPIWd1PU0wEjsoqPHJ4N82nY=",
-        "vega_pub_key": "706d93a80818124139f968a59d22640f105d16bcea775eeeaeab74d656d9cf32",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "VyIj9Iavv/7A3ehw7zwT6BeL9c9IV4Ugc4lpWqUR+2U=": {
+        "avatar_url": "https://www.gravatar.com/avatar/gpfs4pbl9busa9rcptg812zzkdk99q2c?d=identicon",
+        "country": "MH",
+        "ethereum_address": "0x671312c00DdfdEAf6DCEFa3E9d7d5450045a80Ca",
+        "id": "81f6380bef7c12994fa546a2de69518a96f9336201c46b1540b99ac2d7524aa7",
+        "info_url": "https://en.wikipedia.org/wiki/Imre_Kaffka",
+        "name": "famous-teacher",
+        "tm_pub_key": "VyIj9Iavv/7A3ehw7zwT6BeL9c9IV4Ugc4lpWqUR+2U=",
+        "vega_pub_key": "d138d8bd9171aa290e60f330720ef2ac72ea94f142a54ceb90617a8541d44ac9",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302211709",
+  "chain_id": "vega-devnet1-202302211800",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-21T17:09:58.461674146Z",
+  "genesis_time": "2023-02-21T18:00:49.772675839Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "C7B04EE197AA4D454DD635541283397F6BCD478B",
-      "name": "irate-baby",
+      "address": "73CFB5F742214D613979498305E2BC3ABBBCE5B7",
+      "name": "famous-teacher",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "/1k53D+M7RAtO8Zo+/1HPIWd1PU0wEjsoqPHJ4N82nY="
+        "value": "VyIj9Iavv/7A3ehw7zwT6BeL9c9IV4Ugc4lpWqUR+2U="
       }
     }
   ]
