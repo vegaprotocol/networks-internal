@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "/1k53D+M7RAtO8Zo+/1HPIWd1PU0wEjsoqPHJ4N82nY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/3mfra1o4jywpfgcrrpnhtzjdeqdwwtru?d=identicon",
+        "country": "CA",
+        "ethereum_address": "0x85bD44adfe0B029103D897263497bCCb15e7A927",
+        "id": "39c2bc8a0fb24bccc88e7c76005a419077c59edf18cb75e96649fc7d42d6c693",
+        "info_url": "https://en.wikipedia.org/wiki/2009_African_Nations_Championship",
+        "name": "irate-baby",
+        "tm_pub_key": "/1k53D+M7RAtO8Zo+/1HPIWd1PU0wEjsoqPHJ4N82nY=",
+        "vega_pub_key": "706d93a80818124139f968a59d22640f105d16bcea775eeeaeab74d656d9cf32",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "VTfXKLrhY3j9/h3uJHgcwxKzoW++sj4epbQ26XKjvAw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/p8knnbyzhf6s5xzijahregd38oc1illn?d=identicon",
-        "country": "YZ",
-        "ethereum_address": "0x6AC5A28EB28De38AE71B7f7E018627C873253229",
-        "id": "083125d976a402a13e5dba9789918f1cba0ab19aed5caff88afecd09ffd30975",
-        "info_url": "https://en.wikipedia.org/wiki/2018_in_chess",
-        "name": "whispering-car",
-        "tm_pub_key": "VTfXKLrhY3j9/h3uJHgcwxKzoW++sj4epbQ26XKjvAw=",
-        "vega_pub_key": "640282b9f0af3e45731caac6a38eca6e5c974a4761ac5b9346a2bfbebd6d4570",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302211618",
+  "chain_id": "vega-devnet1-202302211709",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-21T16:18:58.914456052Z",
+  "genesis_time": "2023-02-21T17:09:58.461674146Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "DCBBC2D916AE52EC8A25D8A70EB1EEF6314F898B",
-      "name": "whispering-car",
+      "address": "C7B04EE197AA4D454DD635541283397F6BCD478B",
+      "name": "irate-baby",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "VTfXKLrhY3j9/h3uJHgcwxKzoW++sj4epbQ26XKjvAw="
+        "value": "/1k53D+M7RAtO8Zo+/1HPIWd1PU0wEjsoqPHJ4N82nY="
       }
     }
   ]
