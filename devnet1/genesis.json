@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "1VjyUP69jQ6tgPvNwaUUSXe6FF9D65Pta5s94Ge9knM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/subrqo8pqbrwg7l41ixmyseas4trtjkl?d=identicon",
-        "country": "BC",
-        "ethereum_address": "0x9a2d405B26e5623B6c17cdE1e48Af2c72227D82B",
-        "id": "335e8107350938a81ade1b1a8f412f42d99c09be8785792395bb15361d51ab62",
-        "info_url": "https://en.wikipedia.org/wiki/Pseudaulacaspis",
-        "name": "hollow-barber",
-        "tm_pub_key": "1VjyUP69jQ6tgPvNwaUUSXe6FF9D65Pta5s94Ge9knM=",
-        "vega_pub_key": "e492de539a7aebfc60909e94baae61b424bad6a2cea110664f33605482bf4ad8",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "e0164BTbKVfzI1FHc/JXNimyP52t5LY50fudlnETpMg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/yxrz8dgby4ha7hu6p40fq8jsn97l352w?d=identicon",
+        "country": "PP",
+        "ethereum_address": "0x7dBBBcdAB12270dcD757f80170aCCF94BbdAAb48",
+        "id": "d3a1c5f2f34a2ad5f3f67d5535c64745df18cbcde00039a0f8add3b65ce3eaec",
+        "info_url": "https://en.wikipedia.org/wiki/Anna_Fermin",
+        "name": "gritty-stove",
+        "tm_pub_key": "e0164BTbKVfzI1FHc/JXNimyP52t5LY50fudlnETpMg=",
+        "vega_pub_key": "e2fb46a7071f54b955877de1a6485c648a48139341f66a0c9c594d046a8e797f",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302211126",
+  "chain_id": "vega-devnet1-202302211438",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-21T11:26:35.255648788Z",
+  "genesis_time": "2023-02-21T14:38:12.825583762Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "20EDF01DAB41D932BDC04CB7627472FEF91B02AD",
-      "name": "hollow-barber",
+      "address": "0BA732ED471946148B457588FE81D0171CB534C2",
+      "name": "gritty-stove",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "1VjyUP69jQ6tgPvNwaUUSXe6FF9D65Pta5s94Ge9knM="
+        "value": "e0164BTbKVfzI1FHc/JXNimyP52t5LY50fudlnETpMg="
       }
     }
   ]
