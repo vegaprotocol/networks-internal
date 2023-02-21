@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "hjiInEjaZn2DdF8IkmBfnew6+f55qkSUJE31CQj5k80=": {
-        "avatar_url": "https://www.gravatar.com/avatar/u4wb7xe5725cqlpoj53m2260tyfejt5q?d=identicon",
-        "country": "OR",
-        "ethereum_address": "0xB0C58aAe212fF789F85F21E20DfA7953dBFCB115",
-        "id": "72682946106a0fe9424d986d0936b156d19760afa96fef4a56fc06dd5516bc1e",
-        "info_url": "https://en.wikipedia.org/wiki/Chatrud_District",
-        "name": "short-book",
-        "tm_pub_key": "hjiInEjaZn2DdF8IkmBfnew6+f55qkSUJE31CQj5k80=",
-        "vega_pub_key": "28bf7ac1712f85f11786aba436885a9445fb4d3bab802b15c6b2408c838f9cfd",
+      "VTfXKLrhY3j9/h3uJHgcwxKzoW++sj4epbQ26XKjvAw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/p8knnbyzhf6s5xzijahregd38oc1illn?d=identicon",
+        "country": "YZ",
+        "ethereum_address": "0x6AC5A28EB28De38AE71B7f7E018627C873253229",
+        "id": "083125d976a402a13e5dba9789918f1cba0ab19aed5caff88afecd09ffd30975",
+        "info_url": "https://en.wikipedia.org/wiki/2018_in_chess",
+        "name": "whispering-car",
+        "tm_pub_key": "VTfXKLrhY3j9/h3uJHgcwxKzoW++sj4epbQ26XKjvAw=",
+        "vega_pub_key": "640282b9f0af3e45731caac6a38eca6e5c974a4761ac5b9346a2bfbebd6d4570",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302211538",
+  "chain_id": "vega-devnet1-202302211618",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-21T15:38:28.955884136Z",
+  "genesis_time": "2023-02-21T16:18:58.914456052Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "987C81E0841BA5C50E5FA9B5BB4A9FEFC6CD72F5",
-      "name": "short-book",
+      "address": "DCBBC2D916AE52EC8A25D8A70EB1EEF6314F898B",
+      "name": "whispering-car",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "hjiInEjaZn2DdF8IkmBfnew6+f55qkSUJE31CQj5k80="
+        "value": "VTfXKLrhY3j9/h3uJHgcwxKzoW++sj4epbQ26XKjvAw="
       }
     }
   ]
