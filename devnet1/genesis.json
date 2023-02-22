@@ -291,6 +291,17 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
+      "GMAM3hTGPWymKXHO34CMQBRva4wy8zB8NvlQROfg/GU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/40kjikspkgfi2bv4v72jr7ouaa8xmfk3?d=identicon",
+        "country": "LT",
+        "ethereum_address": "0xeE3c585D792B0BE8Ac5416D2c10B7810494adCAf",
+        "id": "c463e04dd6f658f575aeda2e376da2dc7ceac16a1a84b751760babdfacecc1bd",
+        "info_url": "https://en.wikipedia.org/wiki/Obl%C4%99gorek",
+        "name": "loud-building",
+        "tm_pub_key": "GMAM3hTGPWymKXHO34CMQBRva4wy8zB8NvlQROfg/GU=",
+        "vega_pub_key": "0ceb124bb14012932fdd906e4ef2441d535c0293fbbfa5a0245edf64957a38ce",
+        "vega_pub_key_index": 1
+      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -300,17 +311,6 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
-        "vega_pub_key_index": 1
-      },
-      "VyIj9Iavv/7A3ehw7zwT6BeL9c9IV4Ugc4lpWqUR+2U=": {
-        "avatar_url": "https://www.gravatar.com/avatar/gpfs4pbl9busa9rcptg812zzkdk99q2c?d=identicon",
-        "country": "MH",
-        "ethereum_address": "0x671312c00DdfdEAf6DCEFa3E9d7d5450045a80Ca",
-        "id": "81f6380bef7c12994fa546a2de69518a96f9336201c46b1540b99ac2d7524aa7",
-        "info_url": "https://en.wikipedia.org/wiki/Imre_Kaffka",
-        "name": "famous-teacher",
-        "tm_pub_key": "VyIj9Iavv/7A3ehw7zwT6BeL9c9IV4Ugc4lpWqUR+2U=",
-        "vega_pub_key": "d138d8bd9171aa290e60f330720ef2ac72ea94f142a54ceb90617a8541d44ac9",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302211800",
+  "chain_id": "vega-devnet1-202302221003",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-21T18:00:49.772675839Z",
+  "genesis_time": "2023-02-22T10:03:55.756857063Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "73CFB5F742214D613979498305E2BC3ABBBCE5B7",
-      "name": "famous-teacher",
+      "address": "EB3BD63300DBAC0ECE693BD67E98D026C1A6BDD6",
+      "name": "loud-building",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "VyIj9Iavv/7A3ehw7zwT6BeL9c9IV4Ugc4lpWqUR+2U="
+        "value": "GMAM3hTGPWymKXHO34CMQBRva4wy8zB8NvlQROfg/GU="
       }
     }
   ]
