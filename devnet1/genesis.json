@@ -280,6 +280,17 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
+      "Avhjfs+rA5etedBLHeqUEMeCq2n8NvQ+1k0OLrDUkHo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/on2gk4zadzxngr12phx6a1g9tsxuavu3?d=identicon",
+        "country": "WF",
+        "ethereum_address": "0xF1792AE9d54794Cb7B750D38b71D7b7B70cE9D13",
+        "id": "979270dd0bcaf65478eba3a59fb11cd2d0f18c04f2dfc057c863ed1679ec0ebf",
+        "info_url": "https://en.wikipedia.org/wiki/Victoria_Bridge,_Glasgow",
+        "name": "important-school",
+        "tm_pub_key": "Avhjfs+rA5etedBLHeqUEMeCq2n8NvQ+1k0OLrDUkHo=",
+        "vega_pub_key": "a17ac76989f783691191ff949eb10bdea5cee8a3d5ce20b9991b5ee05bc39fdc",
+        "vega_pub_key_index": 1
+      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -289,17 +300,6 @@
         "name": "friendly-barber",
         "tm_pub_key": "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=",
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
-        "vega_pub_key_index": 1
-      },
-      "GMAM3hTGPWymKXHO34CMQBRva4wy8zB8NvlQROfg/GU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/40kjikspkgfi2bv4v72jr7ouaa8xmfk3?d=identicon",
-        "country": "LT",
-        "ethereum_address": "0xeE3c585D792B0BE8Ac5416D2c10B7810494adCAf",
-        "id": "c463e04dd6f658f575aeda2e376da2dc7ceac16a1a84b751760babdfacecc1bd",
-        "info_url": "https://en.wikipedia.org/wiki/Obl%C4%99gorek",
-        "name": "loud-building",
-        "tm_pub_key": "GMAM3hTGPWymKXHO34CMQBRva4wy8zB8NvlQROfg/GU=",
-        "vega_pub_key": "0ceb124bb14012932fdd906e4ef2441d535c0293fbbfa5a0245edf64957a38ce",
         "vega_pub_key_index": 1
       },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302221028",
+  "chain_id": "vega-devnet1-202302221104",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-22T10:28:30.736392811Z",
+  "genesis_time": "2023-02-22T11:04:23.152421915Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "EB3BD63300DBAC0ECE693BD67E98D026C1A6BDD6",
-      "name": "loud-building",
+      "address": "65D417DAC95454DAD5614C90C29C06984C582542",
+      "name": "important-school",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "GMAM3hTGPWymKXHO34CMQBRva4wy8zB8NvlQROfg/GU="
+        "value": "Avhjfs+rA5etedBLHeqUEMeCq2n8NvQ+1k0OLrDUkHo="
       }
     }
   ]
