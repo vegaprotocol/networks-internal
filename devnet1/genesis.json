@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "XI8EDW/OYj3Zq5pIpeGDuFgMRioi8tREXm2j40qHje4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/vdinsaikg6yx5w00tslwfd14v53frmrg?d=identicon",
-        "country": "HW",
-        "ethereum_address": "0x1E0bbCce3f3a4eAcbBc29Bc7624F6DD2572c9aFe",
-        "id": "92613e98fcb4b46ccee81329db1d564709077c312b7ff86600df16f5b33483a3",
-        "info_url": "https://en.wikipedia.org/wiki/Pelagibacterium_lixinzhangensis",
-        "name": "hallowed-hat",
-        "tm_pub_key": "XI8EDW/OYj3Zq5pIpeGDuFgMRioi8tREXm2j40qHje4=",
-        "vega_pub_key": "ee01b5ebfd82d5eb4eb565ed622a0dbcda087927d1629f2b6a390e94760a9d47",
+      "PaBnDe83exA5qSVm5CfX5VykJgFy6kNlO0xsNQQMEj4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/4a46dsi6a44vgv6hamnospns46skmiwa?d=identicon",
+        "country": "JC",
+        "ethereum_address": "0x59f5784cdfc29843E7629Fa5dA727D11be3C5086",
+        "id": "17f840fc6b87dba39b14de8d3ab6372d33115691b609ab6129380f72a47a76ba",
+        "info_url": "https://en.wikipedia.org/wiki/Stumpy_Point_Bay",
+        "name": "important-spoon",
+        "tm_pub_key": "PaBnDe83exA5qSVm5CfX5VykJgFy6kNlO0xsNQQMEj4=",
+        "vega_pub_key": "34a71ba9b9e65219bd8de0b16b429ef9bc8fa7d0b91577dd07ead4afd633aa64",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302221208",
+  "chain_id": "vega-devnet1-202302221646",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-22T12:08:33.082011908Z",
+  "genesis_time": "2023-02-22T16:46:21.052224086Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "4AD55BCE23BE67690411BD90E253BB353C659807",
-      "name": "hallowed-hat",
+      "address": "1FB50F3D955BD188375BAF37377B27693E595B52",
+      "name": "important-spoon",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "XI8EDW/OYj3Zq5pIpeGDuFgMRioi8tREXm2j40qHje4="
+        "value": "PaBnDe83exA5qSVm5CfX5VykJgFy6kNlO0xsNQQMEj4="
       }
     }
   ]
