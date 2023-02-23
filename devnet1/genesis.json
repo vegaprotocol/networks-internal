@@ -280,15 +280,15 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
-      "D92Sfe87XeNrsK/ouesEU+WqRokC6OHpCCAwxttACSs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/rvfomviv0dv40jaklps3knjqb5g01jzl?d=identicon",
-        "country": "LP",
-        "ethereum_address": "0x881bDb1c578A1Bd331869E72210035Bc808B0406",
-        "id": "b5b977db6d4425d0e2f09211f7b6d3d79369ff8c1125774e7d835dccb68a5332",
-        "info_url": "https://en.wikipedia.org/wiki/Turkish_War_of_Independence",
-        "name": "green-farmer",
-        "tm_pub_key": "D92Sfe87XeNrsK/ouesEU+WqRokC6OHpCCAwxttACSs=",
-        "vega_pub_key": "264fc946d5a906e2fd77bf31e0ed3d81368a7e2f81a4026fbf9f4b22aba5d948",
+      "DKkKvkbtHeHyhhb1CQq1O90Fz5F2RIzyFuEcUAiSlr0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/kuut0w60g0ecc58u2inn3gfztjrsb5xz?d=identicon",
+        "country": "OK",
+        "ethereum_address": "0xa6254de5D6a258b6D7e24F5bc7C8a4Ad93CB97FE",
+        "id": "c3e15af7f7f91fd6efdff99198c83ea0985bb25d1592919b953bb2825deffa20",
+        "info_url": "https://en.wikipedia.org/wiki/USS_Spoonbill_(MSC-202)",
+        "name": "purple-stove",
+        "tm_pub_key": "DKkKvkbtHeHyhhb1CQq1O90Fz5F2RIzyFuEcUAiSlr0=",
+        "vega_pub_key": "9199a0947895fb3d5dcdf9a593c8c7c14b81e54f1f60f183d38adfe9ec7aaad7",
         "vega_pub_key_index": 1
       },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302231417",
+  "chain_id": "vega-devnet1-202302231911",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-23T14:17:03.395410806Z",
+  "genesis_time": "2023-02-23T19:11:01.58252744Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "4DF7AE4407A968FCED559109FCF17EFDC286E19B",
-      "name": "green-farmer",
+      "address": "5CE13F92E754D6F1DA3912D1FA2E5E4C51366B88",
+      "name": "purple-stove",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "D92Sfe87XeNrsK/ouesEU+WqRokC6OHpCCAwxttACSs="
+        "value": "DKkKvkbtHeHyhhb1CQq1O90Fz5F2RIzyFuEcUAiSlr0="
       }
     }
   ]
