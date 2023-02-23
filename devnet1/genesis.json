@@ -280,17 +280,6 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
-      "D35yBKNNZSljjcJrXvdeuiWo1La9PCTr6CPsmsl23qA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/hzypiycesjcfsaqr51mipt5ux0ppiamg?d=identicon",
-        "country": "ML",
-        "ethereum_address": "0xd5aF521a4404B320fBF4F4C32836Fb84E8f4e07d",
-        "id": "05d4549c221983e6031b521a13c43736a8aad40581180b4ca1c37267b2e43419",
-        "info_url": "https://en.wikipedia.org/wiki/Walter_Rinder",
-        "name": "crashing-bird",
-        "tm_pub_key": "D35yBKNNZSljjcJrXvdeuiWo1La9PCTr6CPsmsl23qA=",
-        "vega_pub_key": "417f84107f34100945bd81baa3259b8a8b38f076e7eb831f66216a42bd5faec6",
-        "vega_pub_key_index": 1
-      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "l4AN/FWnWS03/hhYVbqD0x4Ov8KMvPPfRyWuaKek5Ew=": {
+        "avatar_url": "https://www.gravatar.com/avatar/egyww27jv6ydefb4nd6mthtecq48fszk?d=identicon",
+        "country": "VJ",
+        "ethereum_address": "0x02c9074Bf1E4F7B467c02740ffc28066A6d43f50",
+        "id": "67bf354488fd074ea86781d1509c969262327329a014c3df869d3edd091fd635",
+        "info_url": "https://en.wikipedia.org/wiki/Dogmatic_Infidel_Comedown_OK",
+        "name": "wrong-milk",
+        "tm_pub_key": "l4AN/FWnWS03/hhYVbqD0x4Ov8KMvPPfRyWuaKek5Ew=",
+        "vega_pub_key": "67dff60adf4f851d0cb379c2e95804cb2699c253c26c83318a5ac8d4f0ad440d",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302221930",
+  "chain_id": "vega-devnet1-202302231006",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-22T19:30:58.526020059Z",
+  "genesis_time": "2023-02-23T10:06:43.651839425Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "B702A12065031E80BD180750BEE0774BEF8081E0",
-      "name": "crashing-bird",
+      "address": "92046E920BAB24CA929791B37705F138B4D962DB",
+      "name": "wrong-milk",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "D35yBKNNZSljjcJrXvdeuiWo1La9PCTr6CPsmsl23qA="
+        "value": "l4AN/FWnWS03/hhYVbqD0x4Ov8KMvPPfRyWuaKek5Ew="
       }
     }
   ]
