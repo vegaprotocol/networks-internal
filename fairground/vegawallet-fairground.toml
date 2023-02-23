@@ -1,8 +1,8 @@
-Host = "127.0.0.1"
-Level = "info"
 Name = "fairground"
-Port = 1789
-TokenExpiry = "168h0m0s"
+
+[[Metadata]]
+key = "network"
+name = "fairground"
 
 [API]
 
@@ -16,10 +16,7 @@ TokenExpiry = "168h0m0s"
   [API.REST]
     Hosts = ["https://api.n06.testnet.vega.xyz", "https://api.n07.testnet.vega.xyz", "https://api.n08.testnet.vega.xyz", "https://api.n09.testnet.vega.xyz", "https://api.n10.testnet.vega.xyz", "https://api.n11.testnet.vega.xyz", "https://api.n12.testnet.vega.xyz"]
 
-[Console]
-  LocalPort = 1847
-  URL = "console.fairground.wtf"
-
-[TokenDApp]
-  LocalPort = 1848
-  URL = "token.fairground.wtf"
+[Apps]
+  Console = "console.fairground.wtf"
+  TokenDApp = "token.fairground.wtf"
+  Explorer = "explorer.fairground.wtf"
