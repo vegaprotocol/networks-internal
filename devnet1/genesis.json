@@ -280,6 +280,17 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
+      "D92Sfe87XeNrsK/ouesEU+WqRokC6OHpCCAwxttACSs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/rvfomviv0dv40jaklps3knjqb5g01jzl?d=identicon",
+        "country": "LP",
+        "ethereum_address": "0x881bDb1c578A1Bd331869E72210035Bc808B0406",
+        "id": "b5b977db6d4425d0e2f09211f7b6d3d79369ff8c1125774e7d835dccb68a5332",
+        "info_url": "https://en.wikipedia.org/wiki/Turkish_War_of_Independence",
+        "name": "green-farmer",
+        "tm_pub_key": "D92Sfe87XeNrsK/ouesEU+WqRokC6OHpCCAwxttACSs=",
+        "vega_pub_key": "264fc946d5a906e2fd77bf31e0ed3d81368a7e2f81a4026fbf9f4b22aba5d948",
+        "vega_pub_key_index": 1
+      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "tsuDFaui03ezPtrAl6saDRBvXudw3Z8TZxR8nCVry7Y=": {
-        "avatar_url": "https://www.gravatar.com/avatar/15t621imwuj6u40mzah8inrnv77ttjf2?d=identicon",
-        "country": "RN",
-        "ethereum_address": "0xbA2aAB441e4C6FB9ebA1460Bf1f1E01F529CAafB",
-        "id": "3feb60339970ec36698d68462a1534de755df1cbb8af9f5b08a18b179f762dfa",
-        "info_url": "https://en.wikipedia.org/wiki/Helcystogramma_helicopis",
-        "name": "intrigued-duck",
-        "tm_pub_key": "tsuDFaui03ezPtrAl6saDRBvXudw3Z8TZxR8nCVry7Y=",
-        "vega_pub_key": "22a4b5ef3802bc5eb6b9657772ada1ef294cfaca33e2a56deeb5d56509fc232e",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202302231119",
+  "chain_id": "vega-devnet1-202302231417",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-23T11:19:04.226303467Z",
+  "genesis_time": "2023-02-23T14:17:03.395410806Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "9548A85F14FBBA094CAC1739F4110D1D82D5DFD8",
-      "name": "intrigued-duck",
+      "address": "4DF7AE4407A968FCED559109FCF17EFDC286E19B",
+      "name": "green-farmer",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "tsuDFaui03ezPtrAl6saDRBvXudw3Z8TZxR8nCVry7Y="
+        "value": "D92Sfe87XeNrsK/ouesEU+WqRokC6OHpCCAwxttACSs="
       }
     }
   ]
