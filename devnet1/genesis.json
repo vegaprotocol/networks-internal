@@ -280,17 +280,6 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
-      "DKkKvkbtHeHyhhb1CQq1O90Fz5F2RIzyFuEcUAiSlr0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/kuut0w60g0ecc58u2inn3gfztjrsb5xz?d=identicon",
-        "country": "OK",
-        "ethereum_address": "0xa6254de5D6a258b6D7e24F5bc7C8a4Ad93CB97FE",
-        "id": "c3e15af7f7f91fd6efdff99198c83ea0985bb25d1592919b953bb2825deffa20",
-        "info_url": "https://en.wikipedia.org/wiki/USS_Spoonbill_(MSC-202)",
-        "name": "purple-stove",
-        "tm_pub_key": "DKkKvkbtHeHyhhb1CQq1O90Fz5F2RIzyFuEcUAiSlr0=",
-        "vega_pub_key": "9199a0947895fb3d5dcdf9a593c8c7c14b81e54f1f60f183d38adfe9ec7aaad7",
-        "vega_pub_key_index": 1
-      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "mLBLvbal3dJ0rAzwVBHL3TdmczRRQrFxmMZqlY45hNI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/8mm69ccjmag9giy57d2guakh89lnm3rt?d=identicon",
+        "country": "RQ",
+        "ethereum_address": "0xc42117F9623e5C44cC41feAC510B0668516b8B05",
+        "id": "3397da27a622d7f16ccb3d344476d33c068eaad86c12fa491f167961da0cc0a4",
+        "info_url": "https://en.wikipedia.org/wiki/Drug_recall",
+        "name": "dead-baby",
+        "tm_pub_key": "mLBLvbal3dJ0rAzwVBHL3TdmczRRQrFxmMZqlY45hNI=",
+        "vega_pub_key": "d53ce2371d7a88be02676bd8f956f7b03a7e95bdf896815b26f531dc41c66981",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302231911",
+  "chain_id": "vega-devnet1-202302232008",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-23T19:11:01.58252744Z",
+  "genesis_time": "2023-02-23T20:08:10.415200348Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "5CE13F92E754D6F1DA3912D1FA2E5E4C51366B88",
-      "name": "purple-stove",
+      "address": "BA1874A1605E158C1D6B60DC69337B31E94A5CCE",
+      "name": "dead-baby",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "DKkKvkbtHeHyhhb1CQq1O90Fz5F2RIzyFuEcUAiSlr0="
+        "value": "mLBLvbal3dJ0rAzwVBHL3TdmczRRQrFxmMZqlY45hNI="
       }
     }
   ]
