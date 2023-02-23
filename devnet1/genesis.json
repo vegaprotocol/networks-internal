@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "mLBLvbal3dJ0rAzwVBHL3TdmczRRQrFxmMZqlY45hNI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/8mm69ccjmag9giy57d2guakh89lnm3rt?d=identicon",
-        "country": "RQ",
-        "ethereum_address": "0xc42117F9623e5C44cC41feAC510B0668516b8B05",
-        "id": "3397da27a622d7f16ccb3d344476d33c068eaad86c12fa491f167961da0cc0a4",
-        "info_url": "https://en.wikipedia.org/wiki/Drug_recall",
-        "name": "dead-baby",
-        "tm_pub_key": "mLBLvbal3dJ0rAzwVBHL3TdmczRRQrFxmMZqlY45hNI=",
-        "vega_pub_key": "d53ce2371d7a88be02676bd8f956f7b03a7e95bdf896815b26f531dc41c66981",
+      "WMwsbuG7fBlOmQfEpTHP7TYa6URSGb3m5nDq6dQdgAA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/j4cks9nnakue8o4y0vnwz37sdindhxpt?d=identicon",
+        "country": "UC",
+        "ethereum_address": "0x357177891DAb913c1b839f82fcFEe62f785934B1",
+        "id": "72f520ebca168d2e631afbaca455d012f97588c92e8bfa0d281ae9d4a86d649d",
+        "info_url": "https://en.wikipedia.org/wiki/Gungriffon_Blaze",
+        "name": "condescending-spoon",
+        "tm_pub_key": "WMwsbuG7fBlOmQfEpTHP7TYa6URSGb3m5nDq6dQdgAA=",
+        "vega_pub_key": "5f2a07885c40abb974ae5d3314a46fb0d9f669424677f08f13124a8bbaac20bc",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302232045",
+  "chain_id": "vega-devnet1-202302232114",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-23T20:45:16.65251492Z",
+  "genesis_time": "2023-02-23T21:14:00.117631827Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "BA1874A1605E158C1D6B60DC69337B31E94A5CCE",
-      "name": "dead-baby",
+      "address": "1AD22CE7A7E35B9E518C0783E2C28982848A0BE4",
+      "name": "condescending-spoon",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "mLBLvbal3dJ0rAzwVBHL3TdmczRRQrFxmMZqlY45hNI="
+        "value": "WMwsbuG7fBlOmQfEpTHP7TYa6URSGb3m5nDq6dQdgAA="
       }
     }
   ]
