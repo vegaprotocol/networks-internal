@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "8wOKiEv3mADkgshIE4AHLXplcoHQhCmRMsxQ65bdbNM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/h7ojgov2went3qtqjcchh40ors2fdm0u?d=identicon",
+        "country": "UY",
+        "ethereum_address": "0xbC0cFEdAec57c1067Da8E770F24df9A340507B1c",
+        "id": "4844633e7a99e14408abe4f3a29464db27222afdc1fa8f0b84fba5ba6492df33",
+        "info_url": "https://en.wikipedia.org/wiki/Birtukan_Adamu",
+        "name": "hollow-pen",
+        "tm_pub_key": "8wOKiEv3mADkgshIE4AHLXplcoHQhCmRMsxQ65bdbNM=",
+        "vega_pub_key": "5dcc8bfb6e26d6ef6a14be7e37d731c7d96c5766000735230751671ad450e75c",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "WMwsbuG7fBlOmQfEpTHP7TYa6URSGb3m5nDq6dQdgAA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/j4cks9nnakue8o4y0vnwz37sdindhxpt?d=identicon",
-        "country": "UC",
-        "ethereum_address": "0x357177891DAb913c1b839f82fcFEe62f785934B1",
-        "id": "72f520ebca168d2e631afbaca455d012f97588c92e8bfa0d281ae9d4a86d649d",
-        "info_url": "https://en.wikipedia.org/wiki/Gungriffon_Blaze",
-        "name": "condescending-spoon",
-        "tm_pub_key": "WMwsbuG7fBlOmQfEpTHP7TYa6URSGb3m5nDq6dQdgAA=",
-        "vega_pub_key": "5f2a07885c40abb974ae5d3314a46fb0d9f669424677f08f13124a8bbaac20bc",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302232114",
+  "chain_id": "vega-devnet1-202302241320",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-23T21:14:00.117631827Z",
+  "genesis_time": "2023-02-24T13:20:27.271134895Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "1AD22CE7A7E35B9E518C0783E2C28982848A0BE4",
-      "name": "condescending-spoon",
+      "address": "FC386BC9D3F7D88CF287C6611B7A502D317E4396",
+      "name": "hollow-pen",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "WMwsbuG7fBlOmQfEpTHP7TYa6URSGb3m5nDq6dQdgAA="
+        "value": "8wOKiEv3mADkgshIE4AHLXplcoHQhCmRMsxQ65bdbNM="
       }
     }
   ]
