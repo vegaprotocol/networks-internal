@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "9O7WRy8Bsygp57Mv6HGMLclAlQKVc59ztqe5eMHI7XA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/qhbzk1vd8acatd9l0pi4uhw8yxwno0am?d=identicon",
-        "country": "MR",
-        "ethereum_address": "0x38CD766966F1c84d8d00A8Cc8206266F032DaD00",
-        "id": "78e6eae0eeadcb0720866147c200f8e545f7605c722e6488ccdd870faafa69bd",
-        "info_url": "https://en.wikipedia.org/wiki/Miconia_caelata",
-        "name": "bored-toy",
-        "tm_pub_key": "9O7WRy8Bsygp57Mv6HGMLclAlQKVc59ztqe5eMHI7XA=",
-        "vega_pub_key": "91fa4f559fb9726b748b55db907150b2049ef656ff72b781cf0bac538382da4b",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "iFzA9cNC2Ed1L1Nex72cFEZa+tuoK+4skAVMEpkK6CI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/qp8nghmtskjxyvu0jcl7eukyygshfaf5?d=identicon",
+        "country": "LS",
+        "ethereum_address": "0xeEA79770561D67fA71fB6f70eB17dF87238068A0",
+        "id": "53eb60cfe7c10c426578567969a06795ec615c4a20cee87d83e81c7ad1534b8f",
+        "info_url": "https://en.wikipedia.org/wiki/Ntala_Skinner",
+        "name": "dizzy-television",
+        "tm_pub_key": "iFzA9cNC2Ed1L1Nex72cFEZa+tuoK+4skAVMEpkK6CI=",
+        "vega_pub_key": "768f81b09b6c1c6e2562e31218d2262461fe0c50645a90d9c6c83f8b03b8c305",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302270835",
+  "chain_id": "vega-devnet1-202302271130",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-27T08:35:02.65069725Z",
+  "genesis_time": "2023-02-27T11:30:48.45691416Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "27D9D8FD3D8C8D2DDFB201A546BE66F1B50641AD",
-      "name": "bored-toy",
+      "address": "CBEDE4A86471F130F6C64004C8DC6892E54659DB",
+      "name": "dizzy-television",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "9O7WRy8Bsygp57Mv6HGMLclAlQKVc59ztqe5eMHI7XA="
+        "value": "iFzA9cNC2Ed1L1Nex72cFEZa+tuoK+4skAVMEpkK6CI="
       }
     }
   ]
