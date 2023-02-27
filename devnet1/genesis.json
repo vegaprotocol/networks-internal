@@ -269,15 +269,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "8wOKiEv3mADkgshIE4AHLXplcoHQhCmRMsxQ65bdbNM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/h7ojgov2went3qtqjcchh40ors2fdm0u?d=identicon",
-        "country": "UY",
-        "ethereum_address": "0xbC0cFEdAec57c1067Da8E770F24df9A340507B1c",
-        "id": "4844633e7a99e14408abe4f3a29464db27222afdc1fa8f0b84fba5ba6492df33",
-        "info_url": "https://en.wikipedia.org/wiki/Birtukan_Adamu",
-        "name": "hollow-pen",
-        "tm_pub_key": "8wOKiEv3mADkgshIE4AHLXplcoHQhCmRMsxQ65bdbNM=",
-        "vega_pub_key": "5dcc8bfb6e26d6ef6a14be7e37d731c7d96c5766000735230751671ad450e75c",
+      "9O7WRy8Bsygp57Mv6HGMLclAlQKVc59ztqe5eMHI7XA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/qhbzk1vd8acatd9l0pi4uhw8yxwno0am?d=identicon",
+        "country": "MR",
+        "ethereum_address": "0x38CD766966F1c84d8d00A8Cc8206266F032DaD00",
+        "id": "78e6eae0eeadcb0720866147c200f8e545f7605c722e6488ccdd870faafa69bd",
+        "info_url": "https://en.wikipedia.org/wiki/Miconia_caelata",
+        "name": "bored-toy",
+        "tm_pub_key": "9O7WRy8Bsygp57Mv6HGMLclAlQKVc59ztqe5eMHI7XA=",
+        "vega_pub_key": "91fa4f559fb9726b748b55db907150b2049ef656ff72b781cf0bac538382da4b",
         "vega_pub_key_index": 1
       },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302241526",
+  "chain_id": "vega-devnet1-202302270835",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-24T15:26:09.445194291Z",
+  "genesis_time": "2023-02-27T08:35:02.65069725Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "FC386BC9D3F7D88CF287C6611B7A502D317E4396",
-      "name": "hollow-pen",
+      "address": "27D9D8FD3D8C8D2DDFB201A546BE66F1B50641AD",
+      "name": "bored-toy",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "8wOKiEv3mADkgshIE4AHLXplcoHQhCmRMsxQ65bdbNM="
+        "value": "9O7WRy8Bsygp57Mv6HGMLclAlQKVc59ztqe5eMHI7XA="
       }
     }
   ]
