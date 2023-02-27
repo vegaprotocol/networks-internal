@@ -13,8 +13,8 @@ Node documentation page contains all useful informations about the node. You can
 | Node DNS | Tendermint DNS | API DNS | Geographic Location | Hardware Setup | Cloud |
 | ----------------------------------------- | -------------- | --------------------------------------------| ------------------- | -------------- | ----- |
 | n00.testnet.vega.xyz | tm.n00.testnet.vega.xyz | api.n00.testnet.vega.xyz | fra1 | s-8vcpu-16gb | do |
-| n01.testnet.vega.xyz | tm.n01.testnet.vega.xyz | api.n01.testnet.vega.xyz | fra1 | s-4vcpu-8gb | do |
-| n02.testnet.vega.xyz | tm.n02.testnet.vega.xyz | api.n02.testnet.vega.xyz | sfo3 | s-4vcpu-8gb | do |
+| n01.testnet.vega.xyz | tm.n01.testnet.vega.xyz | api.n01.testnet.vega.xyz | fra1 | s-8vcpu-16gb | do |
+| n02.testnet.vega.xyz | tm.n02.testnet.vega.xyz | api.n02.testnet.vega.xyz | sfo3 | s-8vcpu-16gb | do |
 | n03.testnet.vega.xyz | tm.n03.testnet.vega.xyz | api.n03.testnet.vega.xyz | sgp1 | s-4vcpu-8gb | do |
 | n04.testnet.vega.xyz | tm.n04.testnet.vega.xyz | api.n04.testnet.vega.xyz | asia-east2-a | n1-standard-2 | gcp |
 | n05.testnet.vega.xyz | tm.n05.testnet.vega.xyz | api.n05.testnet.vega.xyz | eu-west-2c | m5.large | aws |
