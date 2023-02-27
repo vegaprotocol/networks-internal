@@ -19,7 +19,7 @@ Node documentation page contains all useful informations about the node. You can
 | n04.testnet.vega.xyz | tm.n04.testnet.vega.xyz | api.n04.testnet.vega.xyz | asia-east2-a | n1-standard-2 | gcp |
 | n05.testnet.vega.xyz | tm.n05.testnet.vega.xyz | api.n05.testnet.vega.xyz | eu-west-2c | m5.large | aws |
 | n06.testnet.vega.xyz | tm.n06.testnet.vega.xyz | api.n06.testnet.vega.xyz | fra1 | s-4vcpu-8gb | do |
-| n07.testnet.vega.xyz | tm.n07.testnet.vega.xyz | api.n07.testnet.vega.xyz | asia-northeast1-a | n1-highmem-4 | gcp |
+| n07.testnet.vega.xyz | tm.n07.testnet.vega.xyz | api.n07.testnet.vega.xyz | asia-northeast1-a | c2d-highcpu-8 | gcp |
 | n08.testnet.vega.xyz | tm.n08.testnet.vega.xyz | api.n08.testnet.vega.xyz | eu-west-2c | m5.large | aws |
 | n09.testnet.vega.xyz | tm.n09.testnet.vega.xyz | api.n09.testnet.vega.xyz | sfo3 | s-4vcpu-8gb | do |
 | n10.testnet.vega.xyz | tm.n10.testnet.vega.xyz | api.n10.testnet.vega.xyz | sgp1 | s-4vcpu-8gb | do |
