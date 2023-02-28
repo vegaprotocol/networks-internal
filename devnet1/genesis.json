@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "gOhOap3raOcvYuNmDy/7x3+3QaQSDFJnzGwX/YWeRr4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/nixobgkoanurkj7m4f5trniqtjciedrq?d=identicon",
-        "country": "TC",
-        "ethereum_address": "0x0cDE351185293852c1ceecEe6201f5cA2AcC7771",
-        "id": "4781c81aed8524d870bb0d778bc4de03743d09df4ef2eab6f3e80499c2fd6ab6",
-        "info_url": "https://en.wikipedia.org/wiki/Symmetric_Phase_Recording",
-        "name": "perplexed-wind",
-        "tm_pub_key": "gOhOap3raOcvYuNmDy/7x3+3QaQSDFJnzGwX/YWeRr4=",
-        "vega_pub_key": "2a6fc7eab6e91a6f32572e8fd4ff6c575a78f6e26e99479b0a92ff6ca105a5b5",
+      "T2uPbigU7iOBpFLixnbV2x5Q4WnvVYpUgn1xS5hX3Ik=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ykh54vmr6yi8cd1a54luetxilwm6g2tv?d=identicon",
+        "country": "WC",
+        "ethereum_address": "0x222641Ec53DB69c3eCa9470eC3284E3247759973",
+        "id": "f7df5b547b0ac0b35df986b369c7f0e9cf3783949a9980d66fbcb6266b7cd062",
+        "info_url": "https://en.wikipedia.org/wiki/Kuji-kiri",
+        "name": "adorable-swing",
+        "tm_pub_key": "T2uPbigU7iOBpFLixnbV2x5Q4WnvVYpUgn1xS5hX3Ik=",
+        "vega_pub_key": "d553939d290ff3c16f98037cb7b17cd545ea090982ebd37ddd146bd11fbe621f",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302280902",
+  "chain_id": "vega-devnet1-202302281021",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-28T09:02:27.507425363Z",
+  "genesis_time": "2023-02-28T10:21:09.019765119Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "0B133FDE3F7C8D41EAFEE1D3C03AC1FEB71AE1B1",
-      "name": "perplexed-wind",
+      "address": "8AD17D8B7F2CB3F0F15A7E8FC7308355277E2198",
+      "name": "adorable-swing",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "gOhOap3raOcvYuNmDy/7x3+3QaQSDFJnzGwX/YWeRr4="
+        "value": "T2uPbigU7iOBpFLixnbV2x5Q4WnvVYpUgn1xS5hX3Ik="
       }
     }
   ]
