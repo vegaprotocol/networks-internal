@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "Qv/V6sHgl4E4Vl5DCNTIwEkpqhN1h6lhMPiomF71g6k=": {
-        "avatar_url": "https://www.gravatar.com/avatar/rfgo1iurtp9drm7cobi2uzqnid2vjxef?d=identicon",
-        "country": "QQ",
-        "ethereum_address": "0x7749cA62246eA1073789ECEf89b0a91f20be2916",
-        "id": "74d736f29e91acbe736b3dbff277ad3655239166b9af239faa145e5b6631904e",
-        "info_url": "https://en.wikipedia.org/wiki/Sexual_abuse_scandal_in_the_Roman_Catholic_Diocese_of_Phoenix",
-        "name": "skinny-fan",
-        "tm_pub_key": "Qv/V6sHgl4E4Vl5DCNTIwEkpqhN1h6lhMPiomF71g6k=",
-        "vega_pub_key": "b6165c4d7290e1a67bc02c06728ee965fc118ae1f37ed85db84ea981784d40e3",
+      "LzdVC1KnnxzkHTB7Q7DEYCrfHOebSCkDyvvzp9St6h4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/es6x96vq9ah5g9barka1amnbexl4tz0u?d=identicon",
+        "country": "SX",
+        "ethereum_address": "0xDA9ae1B1286B555A8BbF2992fbBd0655436a6618",
+        "id": "20a5c688fc407e407d5fb7b43715851ccf737162b2853286fe17044b5dcf8c9c",
+        "info_url": "https://en.wikipedia.org/wiki/The_Remix_Album_(4hero_album)",
+        "name": "fluky-swing",
+        "tm_pub_key": "LzdVC1KnnxzkHTB7Q7DEYCrfHOebSCkDyvvzp9St6h4=",
+        "vega_pub_key": "f93c4b9cf0920efe7a0b9fa27a895c776055e6ed7885e784455bc3a6e79af35a",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302281217",
+  "chain_id": "vega-devnet1-202302281505",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-28T12:17:34.165149057Z",
+  "genesis_time": "2023-02-28T15:05:35.137371868Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "DAB4A26158AFA9209900784A7B6EDFEF0995DB6F",
-      "name": "skinny-fan",
+      "address": "068103BAA423474F0035ED1D8363A0002EF7D7AF",
+      "name": "fluky-swing",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Qv/V6sHgl4E4Vl5DCNTIwEkpqhN1h6lhMPiomF71g6k="
+        "value": "LzdVC1KnnxzkHTB7Q7DEYCrfHOebSCkDyvvzp9St6h4="
       }
     }
   ]
