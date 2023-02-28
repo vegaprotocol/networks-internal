@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "Mz5DzImUH5f/1pPwH/SiWGJEUczmc5qANdHDYHUvpQo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/hguwfhx3ul134hcu1z73bgaqhzo84vnh?d=identicon",
-        "country": "XN",
-        "ethereum_address": "0x1013c4ab82F678cc6DD35040cf50478BCE9F9A58",
-        "id": "4f7ecb261f0d5f8139e987d7e65b1f8ddabae12a2f183bb9976aa403fef9e4af",
-        "info_url": "https://en.wikipedia.org/wiki/Sorquainville",
-        "name": "skinny-flowers",
-        "tm_pub_key": "Mz5DzImUH5f/1pPwH/SiWGJEUczmc5qANdHDYHUvpQo=",
-        "vega_pub_key": "0250dd216b4dc38963934ecc5bf26623f4ef84ad43e923bfac266f422678b11d",
+      "gOhOap3raOcvYuNmDy/7x3+3QaQSDFJnzGwX/YWeRr4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/nixobgkoanurkj7m4f5trniqtjciedrq?d=identicon",
+        "country": "TC",
+        "ethereum_address": "0x0cDE351185293852c1ceecEe6201f5cA2AcC7771",
+        "id": "4781c81aed8524d870bb0d778bc4de03743d09df4ef2eab6f3e80499c2fd6ab6",
+        "info_url": "https://en.wikipedia.org/wiki/Symmetric_Phase_Recording",
+        "name": "perplexed-wind",
+        "tm_pub_key": "gOhOap3raOcvYuNmDy/7x3+3QaQSDFJnzGwX/YWeRr4=",
+        "vega_pub_key": "2a6fc7eab6e91a6f32572e8fd4ff6c575a78f6e26e99479b0a92ff6ca105a5b5",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202302271311",
+  "chain_id": "vega-devnet1-202302280902",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-02-27T13:11:12.879794616Z",
+  "genesis_time": "2023-02-28T09:02:27.507425363Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "6193B7B7278DADB8D39D103C665F8DA88AEF2C9D",
-      "name": "skinny-flowers",
+      "address": "0B133FDE3F7C8D41EAFEE1D3C03AC1FEB71AE1B1",
+      "name": "perplexed-wind",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Mz5DzImUH5f/1pPwH/SiWGJEUczmc5qANdHDYHUvpQo="
+        "value": "gOhOap3raOcvYuNmDy/7x3+3QaQSDFJnzGwX/YWeRr4="
       }
     }
   ]
