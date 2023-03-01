@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "5qjNmyb8fU2cddXovElHt8aoSNY5tYvOqtzTIdxZox4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/roc0su2hdoku8q4rhax7bxwrm1cy9di6?d=identicon",
-        "country": "KS",
-        "ethereum_address": "0xb531db0275C6fF2312a57c2A89FE43a15De71F70",
-        "id": "a932d0af62535adb3af58f8abc1ebaa4fda7ba251cec40c693ca20c3b5577383",
-        "info_url": "https://en.wikipedia.org/wiki/Helene_Glatzer",
-        "name": "frustrating-school",
-        "tm_pub_key": "5qjNmyb8fU2cddXovElHt8aoSNY5tYvOqtzTIdxZox4=",
-        "vega_pub_key": "21c52c7aeb49c8b9524081d5074b6271ff19957694a6713c69d002a5c5029137",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "kEq6Sw4MrJraImVf9vgp0jRXTn2nwl3wVFDw766RLA4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/6rh8m5t683wvqd5n8vrp35o3kmzcf4yo?d=identicon",
+        "country": "SD",
+        "ethereum_address": "0x4347b8099754D82305fB5C577E3325Df4bfd138e",
+        "id": "5e362f55fc49bf7a6bcffc7214a36bdeab76fcd6bbf03abd6b3e1b722537d4ee",
+        "info_url": "https://en.wikipedia.org/wiki/Ram%C3%B3n_ten_Hove",
+        "name": "howling-mouse",
+        "tm_pub_key": "kEq6Sw4MrJraImVf9vgp0jRXTn2nwl3wVFDw766RLA4=",
+        "vega_pub_key": "493ac19115de9f12873ffdee9b246ad63098e14e872f48d6256f56695b3a291f",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303011536",
+  "chain_id": "vega-devnet1-202303011730",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-01T15:36:29.445306807Z",
+  "genesis_time": "2023-03-01T17:30:40.871525925Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "BA0E010F7EC417A4BBC5F4185F6C1F2C9A258303",
-      "name": "frustrating-school",
+      "address": "3DD3BA9DE20278B9234B2D66F5131C447042CD9E",
+      "name": "howling-mouse",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "5qjNmyb8fU2cddXovElHt8aoSNY5tYvOqtzTIdxZox4="
+        "value": "kEq6Sw4MrJraImVf9vgp0jRXTn2nwl3wVFDw766RLA4="
       }
     }
   ]
