@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "kEq6Sw4MrJraImVf9vgp0jRXTn2nwl3wVFDw766RLA4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/6rh8m5t683wvqd5n8vrp35o3kmzcf4yo?d=identicon",
-        "country": "SD",
-        "ethereum_address": "0x4347b8099754D82305fB5C577E3325Df4bfd138e",
-        "id": "5e362f55fc49bf7a6bcffc7214a36bdeab76fcd6bbf03abd6b3e1b722537d4ee",
-        "info_url": "https://en.wikipedia.org/wiki/Ram%C3%B3n_ten_Hove",
-        "name": "howling-mouse",
-        "tm_pub_key": "kEq6Sw4MrJraImVf9vgp0jRXTn2nwl3wVFDw766RLA4=",
-        "vega_pub_key": "493ac19115de9f12873ffdee9b246ad63098e14e872f48d6256f56695b3a291f",
+      "gNeNy23tUKlVl5Qz2zxCJAJEpwoBNg1AKMh/MMRjoMY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/jelexlpdk7zn9f9k4owb042blkv2zw81?d=identicon",
+        "country": "HN",
+        "ethereum_address": "0x509C9a5002436e96e6412fdf085331E2A364074D",
+        "id": "3e8f2bf74f5b0375eb5ca575a4d17725c44c202b2f62dcc46e59416875cf01b2",
+        "info_url": "https://en.wikipedia.org/wiki/Spencer_Bayles",
+        "name": "exuberant-movie",
+        "tm_pub_key": "gNeNy23tUKlVl5Qz2zxCJAJEpwoBNg1AKMh/MMRjoMY=",
+        "vega_pub_key": "eb4f60d2d971b7f4465eb9bd1eb9e76356b1c4b0d06134f93dc7aab4ca219a31",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303011730",
+  "chain_id": "vega-devnet1-202303011818",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-01T17:30:40.871525925Z",
+  "genesis_time": "2023-03-01T18:18:18.711412978Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "3DD3BA9DE20278B9234B2D66F5131C447042CD9E",
-      "name": "howling-mouse",
+      "address": "CAA1CD3B3552383A7A85B1F86E82C23322C667BA",
+      "name": "exuberant-movie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "kEq6Sw4MrJraImVf9vgp0jRXTn2nwl3wVFDw766RLA4="
+        "value": "gNeNy23tUKlVl5Qz2zxCJAJEpwoBNg1AKMh/MMRjoMY="
       }
     }
   ]
