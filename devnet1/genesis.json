@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "gNeNy23tUKlVl5Qz2zxCJAJEpwoBNg1AKMh/MMRjoMY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/jelexlpdk7zn9f9k4owb042blkv2zw81?d=identicon",
-        "country": "HN",
-        "ethereum_address": "0x509C9a5002436e96e6412fdf085331E2A364074D",
-        "id": "3e8f2bf74f5b0375eb5ca575a4d17725c44c202b2f62dcc46e59416875cf01b2",
-        "info_url": "https://en.wikipedia.org/wiki/Spencer_Bayles",
-        "name": "exuberant-movie",
-        "tm_pub_key": "gNeNy23tUKlVl5Qz2zxCJAJEpwoBNg1AKMh/MMRjoMY=",
-        "vega_pub_key": "eb4f60d2d971b7f4465eb9bd1eb9e76356b1c4b0d06134f93dc7aab4ca219a31",
+      "qyD2mwbpDKqegMFVvMIM0OKYbAnhk7sL5VCNRZCJffA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/dcpuskvzylfwnxnxndr5cdthy2sluthq?d=identicon",
+        "country": "DQ",
+        "ethereum_address": "0xa2dF8bA0Ddf95B3978d6f5c16E1Ef1831a41C075",
+        "id": "8403da1d4454e6970ed879dd6be095f725d7e0ddef238a1782bd861221cd3896",
+        "info_url": "https://en.wikipedia.org/wiki/Unsatisfiable_core",
+        "name": "famous-town",
+        "tm_pub_key": "qyD2mwbpDKqegMFVvMIM0OKYbAnhk7sL5VCNRZCJffA=",
+        "vega_pub_key": "1411e994a99b4c8fc6de7bfa1ce83d9a6cd8c0af58504dc3ce51075f9be2395d",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303011818",
+  "chain_id": "vega-devnet1-202303011947",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-01T18:18:18.711412978Z",
+  "genesis_time": "2023-03-01T19:47:12.40072041Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "CAA1CD3B3552383A7A85B1F86E82C23322C667BA",
-      "name": "exuberant-movie",
+      "address": "8746CF0A794812BC7CE649A4C8D0A85B9284B0F7",
+      "name": "famous-town",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "gNeNy23tUKlVl5Qz2zxCJAJEpwoBNg1AKMh/MMRjoMY="
+        "value": "qyD2mwbpDKqegMFVvMIM0OKYbAnhk7sL5VCNRZCJffA="
       }
     }
   ]
