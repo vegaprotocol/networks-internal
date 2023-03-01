@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "+Mk+U/ehFlDCPBYEhXwYhzI+I88r4a6z8Jd89HOGFG0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/2i6jl12ozo77bmvscfu7dim1kemakbga?d=identicon",
-        "country": "WS",
-        "ethereum_address": "0xbF36162D4AC78bAA73E0071e9d4Ddb1AAb1D07ed",
-        "id": "86cf683d1b1278dbedc19b62271aca4bf72d016da354215b8e2a5dfb48f477a3",
-        "info_url": "https://en.wikipedia.org/wiki/Riccardo_Primo",
-        "name": "gritty-building",
-        "tm_pub_key": "+Mk+U/ehFlDCPBYEhXwYhzI+I88r4a6z8Jd89HOGFG0=",
-        "vega_pub_key": "f7aa083f568e5e256569464829524e9c0a53ce6c874d46fe82d5e5e01096f003",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "mdgOwCdMk1tg+1gOpD5j6erDr5GChwgiPwIZrGkZ+1Y=": {
+        "avatar_url": "https://www.gravatar.com/avatar/9b51bu5ra4m6n5mdgvol4loa3m75spe5?d=identicon",
+        "country": "HW",
+        "ethereum_address": "0x7258a1c7123AC0965e22e043f8fAA7371946C376",
+        "id": "6c907d948dbb4556f662fe48da802370df061e5c0b4ca0cf28d3f321dce76743",
+        "info_url": "https://en.wikipedia.org/wiki/Vivian_Adjei",
+        "name": "healthy-fisherman",
+        "tm_pub_key": "mdgOwCdMk1tg+1gOpD5j6erDr5GChwgiPwIZrGkZ+1Y=",
+        "vega_pub_key": "8b7cebaf8d9ba24c7e1852763b97ac8244381a11e14a29c8d1b94fba7951abd6",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303010904",
+  "chain_id": "vega-devnet1-202303011006",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-01T09:04:53.151609943Z",
+  "genesis_time": "2023-03-01T10:06:47.704282483Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "4558E5EFBA56B4E8C284D996B8E04B47D9EF1268",
-      "name": "gritty-building",
+      "address": "4CE64608DFF5325C54A67C802D1A8D07C468988F",
+      "name": "healthy-fisherman",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "+Mk+U/ehFlDCPBYEhXwYhzI+I88r4a6z8Jd89HOGFG0="
+        "value": "mdgOwCdMk1tg+1gOpD5j6erDr5GChwgiPwIZrGkZ+1Y="
       }
     }
   ]
