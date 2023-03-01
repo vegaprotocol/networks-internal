@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "5qjNmyb8fU2cddXovElHt8aoSNY5tYvOqtzTIdxZox4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/roc0su2hdoku8q4rhax7bxwrm1cy9di6?d=identicon",
+        "country": "KS",
+        "ethereum_address": "0xb531db0275C6fF2312a57c2A89FE43a15De71F70",
+        "id": "a932d0af62535adb3af58f8abc1ebaa4fda7ba251cec40c693ca20c3b5577383",
+        "info_url": "https://en.wikipedia.org/wiki/Helene_Glatzer",
+        "name": "frustrating-school",
+        "tm_pub_key": "5qjNmyb8fU2cddXovElHt8aoSNY5tYvOqtzTIdxZox4=",
+        "vega_pub_key": "21c52c7aeb49c8b9524081d5074b6271ff19957694a6713c69d002a5c5029137",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "mdgOwCdMk1tg+1gOpD5j6erDr5GChwgiPwIZrGkZ+1Y=": {
-        "avatar_url": "https://www.gravatar.com/avatar/9b51bu5ra4m6n5mdgvol4loa3m75spe5?d=identicon",
-        "country": "HW",
-        "ethereum_address": "0x7258a1c7123AC0965e22e043f8fAA7371946C376",
-        "id": "6c907d948dbb4556f662fe48da802370df061e5c0b4ca0cf28d3f321dce76743",
-        "info_url": "https://en.wikipedia.org/wiki/Vivian_Adjei",
-        "name": "healthy-fisherman",
-        "tm_pub_key": "mdgOwCdMk1tg+1gOpD5j6erDr5GChwgiPwIZrGkZ+1Y=",
-        "vega_pub_key": "8b7cebaf8d9ba24c7e1852763b97ac8244381a11e14a29c8d1b94fba7951abd6",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303011006",
+  "chain_id": "vega-devnet1-202303011536",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-01T10:06:47.704282483Z",
+  "genesis_time": "2023-03-01T15:36:29.445306807Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "4CE64608DFF5325C54A67C802D1A8D07C468988F",
-      "name": "healthy-fisherman",
+      "address": "BA0E010F7EC417A4BBC5F4185F6C1F2C9A258303",
+      "name": "frustrating-school",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "mdgOwCdMk1tg+1gOpD5j6erDr5GChwgiPwIZrGkZ+1Y="
+        "value": "5qjNmyb8fU2cddXovElHt8aoSNY5tYvOqtzTIdxZox4="
       }
     }
   ]
