@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "SLHAUWbnD7WmElHENryrAQxkma5wYmcNd29b0LffcTc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/yzb2sjpq79fzevwsgpuphb9h043zwx7m?d=identicon",
-        "country": "CU",
-        "ethereum_address": "0xd5e3dE3a2bf1f59593EA01bD3E7B27fAC905Ff45",
-        "id": "d457bc6c1979b82e435866f2be27f1cfb610718b2d8b76732f0c2829c009a90d",
-        "info_url": "https://en.wikipedia.org/wiki/1998_CPSL_League_Cup",
-        "name": "mango-horse",
-        "tm_pub_key": "SLHAUWbnD7WmElHENryrAQxkma5wYmcNd29b0LffcTc=",
-        "vega_pub_key": "976ac8441a74e23e33937c2fc69f4a07d8b6d2a7788f377bcb6a4ba424c63a94",
+      "qGR6ZO2gkHL5oSVdGDk3ajX3+po3Szw7zXfNMHaaXUU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/gtvhqmui45yph7ec7hfjgteixctpf66n?d=identicon",
+        "country": "WD",
+        "ethereum_address": "0x5f476879C65908850FaC553b4ce0268F67790fC6",
+        "id": "0457e1eb8a77d4f21779e255b5eb58697dbd083a235edce2c4f27fc8837e89bf",
+        "info_url": "https://en.wikipedia.org/wiki/Houston_Carnegie_Library",
+        "name": "loose-table",
+        "tm_pub_key": "qGR6ZO2gkHL5oSVdGDk3ajX3+po3Szw7zXfNMHaaXUU=",
+        "vega_pub_key": "ade93ebbb488f7d39da6c30a06ed11f2f8ab4ab4c648b8a9a5f9ba9ab8bc2d03",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303021244",
+  "chain_id": "vega-devnet1-202303021417",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-02T12:44:48.788028286Z",
+  "genesis_time": "2023-03-02T14:17:55.429220558Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "2D0B884A7500B05F5AE3ED1339D5A0AF6275FCE4",
-      "name": "mango-horse",
+      "address": "0D28CE26ED941286F3685039B8E7DD6AA6A8B001",
+      "name": "loose-table",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "SLHAUWbnD7WmElHENryrAQxkma5wYmcNd29b0LffcTc="
+        "value": "qGR6ZO2gkHL5oSVdGDk3ajX3+po3Szw7zXfNMHaaXUU="
       }
     }
   ]
