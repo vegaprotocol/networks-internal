@@ -302,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "SLHAUWbnD7WmElHENryrAQxkma5wYmcNd29b0LffcTc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/yzb2sjpq79fzevwsgpuphb9h043zwx7m?d=identicon",
+        "country": "CU",
+        "ethereum_address": "0xd5e3dE3a2bf1f59593EA01bD3E7B27fAC905Ff45",
+        "id": "d457bc6c1979b82e435866f2be27f1cfb610718b2d8b76732f0c2829c009a90d",
+        "info_url": "https://en.wikipedia.org/wiki/1998_CPSL_League_Cup",
+        "name": "mango-horse",
+        "tm_pub_key": "SLHAUWbnD7WmElHENryrAQxkma5wYmcNd29b0LffcTc=",
+        "vega_pub_key": "976ac8441a74e23e33937c2fc69f4a07d8b6d2a7788f377bcb6a4ba424c63a94",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "z/xTvZYXmINOm1GCaA4nzAIzguCOmlhBTQ20+DRO+Rs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/5j8y99y97liuc6potjnjmom0wtze8r3t?d=identicon",
-        "country": "GF",
-        "ethereum_address": "0xB1f88787B393A2A50f9b4C28368Ca3154bf09BC8",
-        "id": "6b59309f61894b1aa3e99483481c4f4d6af6a766e1761c44aff25c1e3f26d491",
-        "info_url": "https://en.wikipedia.org/wiki/Alick_Kay",
-        "name": "terrible-month",
-        "tm_pub_key": "z/xTvZYXmINOm1GCaA4nzAIzguCOmlhBTQ20+DRO+Rs=",
-        "vega_pub_key": "db4c9d28308e05918d47a4578df93a6a76dd77c907af9160ecca14d035417b97",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202303021016",
+  "chain_id": "vega-devnet1-202303021244",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-02T10:16:38.362372193Z",
+  "genesis_time": "2023-03-02T12:44:48.788028286Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "6D920D8EF63DA348283F5519C41C6F9EF398F6E4",
-      "name": "terrible-month",
+      "address": "2D0B884A7500B05F5AE3ED1339D5A0AF6275FCE4",
+      "name": "mango-horse",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "z/xTvZYXmINOm1GCaA4nzAIzguCOmlhBTQ20+DRO+Rs="
+        "value": "SLHAUWbnD7WmElHENryrAQxkma5wYmcNd29b0LffcTc="
       }
     }
   ]
