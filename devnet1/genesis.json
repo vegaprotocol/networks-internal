@@ -302,17 +302,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "qyD2mwbpDKqegMFVvMIM0OKYbAnhk7sL5VCNRZCJffA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/dcpuskvzylfwnxnxndr5cdthy2sluthq?d=identicon",
-        "country": "DQ",
-        "ethereum_address": "0xa2dF8bA0Ddf95B3978d6f5c16E1Ef1831a41C075",
-        "id": "8403da1d4454e6970ed879dd6be095f725d7e0ddef238a1782bd861221cd3896",
-        "info_url": "https://en.wikipedia.org/wiki/Unsatisfiable_core",
-        "name": "famous-town",
-        "tm_pub_key": "qyD2mwbpDKqegMFVvMIM0OKYbAnhk7sL5VCNRZCJffA=",
-        "vega_pub_key": "1411e994a99b4c8fc6de7bfa1ce83d9a6cd8c0af58504dc3ce51075f9be2395d",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "z/xTvZYXmINOm1GCaA4nzAIzguCOmlhBTQ20+DRO+Rs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/5j8y99y97liuc6potjnjmom0wtze8r3t?d=identicon",
+        "country": "GF",
+        "ethereum_address": "0xB1f88787B393A2A50f9b4C28368Ca3154bf09BC8",
+        "id": "6b59309f61894b1aa3e99483481c4f4d6af6a766e1761c44aff25c1e3f26d491",
+        "info_url": "https://en.wikipedia.org/wiki/Alick_Kay",
+        "name": "terrible-month",
+        "tm_pub_key": "z/xTvZYXmINOm1GCaA4nzAIzguCOmlhBTQ20+DRO+Rs=",
+        "vega_pub_key": "db4c9d28308e05918d47a4578df93a6a76dd77c907af9160ecca14d035417b97",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202303011947",
+  "chain_id": "vega-devnet1-202303021016",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-01T19:47:12.40072041Z",
+  "genesis_time": "2023-03-02T10:16:38.362372193Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "8746CF0A794812BC7CE649A4C8D0A85B9284B0F7",
-      "name": "famous-town",
+      "address": "6D920D8EF63DA348283F5519C41C6F9EF398F6E4",
+      "name": "terrible-month",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "qyD2mwbpDKqegMFVvMIM0OKYbAnhk7sL5VCNRZCJffA="
+        "value": "z/xTvZYXmINOm1GCaA4nzAIzguCOmlhBTQ20+DRO+Rs="
       }
     }
   ]
