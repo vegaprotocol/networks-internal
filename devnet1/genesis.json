@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "qsAEABWgWdtxILCRKyfgL8w4+0vjXbU0PwBMim17Y3M=": {
-        "avatar_url": "https://www.gravatar.com/avatar/56wpfqwn7t6umuundg2030deknswm09m?d=identicon",
-        "country": "ZI",
-        "ethereum_address": "0xd812197E34E1A3C7D6d4679c2feeDB5218856dF1",
-        "id": "e92f7e49c28a625660a8668420463e4a5f673368b183dba380558d7867b9dbdb",
-        "info_url": "https://en.wikipedia.org/wiki/Donkervoort_S8",
-        "name": "harebrained-honey",
-        "tm_pub_key": "qsAEABWgWdtxILCRKyfgL8w4+0vjXbU0PwBMim17Y3M=",
-        "vega_pub_key": "799ebaa0d4c9f29a44586dc241cc23fe6abd40132d256325a8aac4db36383ec5",
+      "Odd3CAPapb9oQaUFEqMd9xsV/mRp2mps5WnOLpSACXE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/59yt33e4mfv63u15n0texaty5ry7ltes?d=identicon",
+        "country": "BS",
+        "ethereum_address": "0x150a4B8542BF06bCc3684c763369A3D67EA3eEAc",
+        "id": "24cbcaca15aece84b9931e3565654b46bb2dd1c941ce4741f969bb0b8f5ca9e4",
+        "info_url": "https://en.wikipedia.org/wiki/Dino_Martin",
+        "name": "colossal-ball",
+        "tm_pub_key": "Odd3CAPapb9oQaUFEqMd9xsV/mRp2mps5WnOLpSACXE=",
+        "vega_pub_key": "f95919b40a18561161ee65b994beb15696a730ddaef06a90b7b9cba216dba810",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303021625",
+  "chain_id": "vega-devnet1-202303031405",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-02T16:25:20.04198823Z",
+  "genesis_time": "2023-03-03T14:05:12.600274255Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "21BBDE070A11AFD7FAE518900236CD56D6769730",
-      "name": "harebrained-honey",
+      "address": "D41DDB42D544713C94F5C50AE5AFA8956E1567F8",
+      "name": "colossal-ball",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "qsAEABWgWdtxILCRKyfgL8w4+0vjXbU0PwBMim17Y3M="
+        "value": "Odd3CAPapb9oQaUFEqMd9xsV/mRp2mps5WnOLpSACXE="
       }
     }
   ]
