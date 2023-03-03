@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "Odd3CAPapb9oQaUFEqMd9xsV/mRp2mps5WnOLpSACXE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/59yt33e4mfv63u15n0texaty5ry7ltes?d=identicon",
-        "country": "BS",
-        "ethereum_address": "0x150a4B8542BF06bCc3684c763369A3D67EA3eEAc",
-        "id": "24cbcaca15aece84b9931e3565654b46bb2dd1c941ce4741f969bb0b8f5ca9e4",
-        "info_url": "https://en.wikipedia.org/wiki/Dino_Martin",
-        "name": "colossal-ball",
-        "tm_pub_key": "Odd3CAPapb9oQaUFEqMd9xsV/mRp2mps5WnOLpSACXE=",
-        "vega_pub_key": "f95919b40a18561161ee65b994beb15696a730ddaef06a90b7b9cba216dba810",
+      "poJSbt78/uKiVLiAoO6FuMXuMcm500RCdHzgVFcuX4s=": {
+        "avatar_url": "https://www.gravatar.com/avatar/a70vyabb9t7z3y8rw32c5pxbviwsrh9k?d=identicon",
+        "country": "UK",
+        "ethereum_address": "0x4e5Ec1B7451DA12c54EDC3BcB3C6e183640ab3c5",
+        "id": "5976eb2fb62c1b7145d25b03b2e896f28972bedc4c153b25484cbda885f2c2e9",
+        "info_url": "https://en.wikipedia.org/wiki/Robert_Thorne_(typographer)",
+        "name": "friendly-television",
+        "tm_pub_key": "poJSbt78/uKiVLiAoO6FuMXuMcm500RCdHzgVFcuX4s=",
+        "vega_pub_key": "b1d04b4442e832eaa63c4c1d5b8beb5caf6fde7f9c5dd856e14e24f6343fa060",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303031405",
+  "chain_id": "vega-devnet1-202303031602",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-03T14:05:12.600274255Z",
+  "genesis_time": "2023-03-03T16:02:27.231950291Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "D41DDB42D544713C94F5C50AE5AFA8956E1567F8",
-      "name": "colossal-ball",
+      "address": "6B24AAE74C026D561DE3E403B1ABCAD3020B6907",
+      "name": "friendly-television",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Odd3CAPapb9oQaUFEqMd9xsV/mRp2mps5WnOLpSACXE="
+        "value": "poJSbt78/uKiVLiAoO6FuMXuMcm500RCdHzgVFcuX4s="
       }
     }
   ]
