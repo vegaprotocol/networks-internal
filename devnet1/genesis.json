@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "UsqhXBiwTr6ZHn8EBpSN53ooNGAutnakvUIuE+aNoDo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/d2lgh3vjkxateotixl5bpydyfazifbep?d=identicon",
-        "country": "ET",
-        "ethereum_address": "0x62711957ABF949817D77221751E4430f3Aba0b1E",
-        "id": "731135d3cfa1ac05e93cf5e69a284b86a85914b5a5e6b6bfde4cc0a72ec1d119",
-        "info_url": "https://en.wikipedia.org/wiki/Georgi_Karakashev",
-        "name": "irate-television",
-        "tm_pub_key": "UsqhXBiwTr6ZHn8EBpSN53ooNGAutnakvUIuE+aNoDo=",
-        "vega_pub_key": "5b5ea6646179bb4c5b403fe2914c471c754aa66f012447e53d5a2bbafd76f96c",
+      "f6910SsBZQFcH1QGgywxQmPnfvpM53m5lI1BSUtyIcw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/6xsvk47hii4onmdtaphd1hvohlbsrm7f?d=identicon",
+        "country": "BV",
+        "ethereum_address": "0x657aAE6a9a15209B1E72a62f18410f1b82aDd18a",
+        "id": "2d8e23790092e611c7ab75931a35b5046579bb89c5050ce8d78b86abc6ffdf6a",
+        "info_url": "https://en.wikipedia.org/wiki/Big_Bottom_Farm",
+        "name": "whining-chimney",
+        "tm_pub_key": "f6910SsBZQFcH1QGgywxQmPnfvpM53m5lI1BSUtyIcw=",
+        "vega_pub_key": "1f5203af9242552c215fe2189c1eac769f0fff0f9f85c2545612300264c1b939",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303031749",
+  "chain_id": "vega-devnet1-202303031825",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-03T17:49:16.127402852Z",
+  "genesis_time": "2023-03-03T18:25:12.22871011Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "A517494825EE15AA0E1A0A6C742C98F1A19FBFB1",
-      "name": "irate-television",
+      "address": "35C4B5E03797CE8368DA219EC5DD32C66C64F901",
+      "name": "whining-chimney",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "UsqhXBiwTr6ZHn8EBpSN53ooNGAutnakvUIuE+aNoDo="
+        "value": "f6910SsBZQFcH1QGgywxQmPnfvpM53m5lI1BSUtyIcw="
       }
     }
   ]
