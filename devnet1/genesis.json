@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "f6910SsBZQFcH1QGgywxQmPnfvpM53m5lI1BSUtyIcw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/6xsvk47hii4onmdtaphd1hvohlbsrm7f?d=identicon",
-        "country": "BV",
-        "ethereum_address": "0x657aAE6a9a15209B1E72a62f18410f1b82aDd18a",
-        "id": "2d8e23790092e611c7ab75931a35b5046579bb89c5050ce8d78b86abc6ffdf6a",
-        "info_url": "https://en.wikipedia.org/wiki/Big_Bottom_Farm",
-        "name": "whining-chimney",
-        "tm_pub_key": "f6910SsBZQFcH1QGgywxQmPnfvpM53m5lI1BSUtyIcw=",
-        "vega_pub_key": "1f5203af9242552c215fe2189c1eac769f0fff0f9f85c2545612300264c1b939",
+      "VG/2lJMTeFzVZTMGf9x0xg36yq5Y364qwlBw7XIhXTs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ie7mkuj0w0c8jf6yc9j8s7jydhztctzp?d=identicon",
+        "country": "BR",
+        "ethereum_address": "0x0059416934eC3D8Eefc74cc606dD77D49D63A1f2",
+        "id": "6c702aac579d983e5b8a2c8759c150957a6efeb7cff9c34ab211f02d8c676b5b",
+        "info_url": "https://en.wikipedia.org/wiki/Stacy_Mitchhart",
+        "name": "brave-month",
+        "tm_pub_key": "VG/2lJMTeFzVZTMGf9x0xg36yq5Y364qwlBw7XIhXTs=",
+        "vega_pub_key": "4ded2636236c9f3766ae4af2a6c9830cbf2929dd6b2c4117791916d6b6309b1d",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303031825",
+  "chain_id": "vega-devnet1-202303041401",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-03T18:25:12.22871011Z",
+  "genesis_time": "2023-03-04T14:01:36.174482692Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "35C4B5E03797CE8368DA219EC5DD32C66C64F901",
-      "name": "whining-chimney",
+      "address": "9B9D9464DD1B94D4826FBC634292E91B47CEC318",
+      "name": "brave-month",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "f6910SsBZQFcH1QGgywxQmPnfvpM53m5lI1BSUtyIcw="
+        "value": "VG/2lJMTeFzVZTMGf9x0xg36yq5Y364qwlBw7XIhXTs="
       }
     }
   ]
