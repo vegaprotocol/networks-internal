@@ -21,7 +21,7 @@ Node documentation page contains all useful informations about the node. You can
 | n06.testnet.vega.xyz | tm.n06.testnet.vega.xyz | api.n06.testnet.vega.xyz | ams3 | s-8vcpu-16gb | do |
 | n07.testnet.vega.xyz | tm.n07.testnet.vega.xyz | api.n07.testnet.vega.xyz | asia-northeast1-a | n1-standard-8 | gcp |
 | n08.testnet.vega.xyz | tm.n08.testnet.vega.xyz | api.n08.testnet.vega.xyz | eu-west-2c | m5.2xlarge | aws |
-| n09.testnet.vega.xyz | tm.n09.testnet.vega.xyz | api.n09.testnet.vega.xyz | sfo3 | s-8vcpu-16gb | do |
+| n09.testnet.vega.xyz | tm.n09.testnet.vega.xyz | api.n09.testnet.vega.xyz | sfo3 | so-8vcpu-64gb | do |
 | n10.testnet.vega.xyz | tm.n10.testnet.vega.xyz | api.n10.testnet.vega.xyz | sgp1 | s-8vcpu-16gb | do |
 | n11.testnet.vega.xyz | tm.n11.testnet.vega.xyz | api.n11.testnet.vega.xyz | syd1 | s-8vcpu-16gb | do |
 | n12.testnet.vega.xyz | tm.n12.testnet.vega.xyz | api.n12.testnet.vega.xyz | nyc3 | s-8vcpu-16gb | do |
