@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "RoDWvlMMXNFZiuYeR9dRvfzG2CKayT3MnxvNL6PJWps=": {
-        "avatar_url": "https://www.gravatar.com/avatar/fmej1ixica03r976fox3kblqf5b0o0jj?d=identicon",
-        "country": "DE",
-        "ethereum_address": "0x9941f1F957877A15BB71b27c2D6006d7f0ECa859",
-        "id": "182c264b8e6e846ca87561da3407df843d5414ee6b17aa3eadb05081278ce052",
-        "info_url": "https://en.wikipedia.org/wiki/Butyrate_esterase",
-        "name": "clean-shoe",
-        "tm_pub_key": "RoDWvlMMXNFZiuYeR9dRvfzG2CKayT3MnxvNL6PJWps=",
-        "vega_pub_key": "289ccbd44d9cc86cc8f76aa66ac159eefd880bfe48ae01bd3df80e453266df2d",
+      "nQV/c1YoNDBtrCGYdmjE6AFJu6acBGckfMLk3wSM98M=": {
+        "avatar_url": "https://www.gravatar.com/avatar/zvgmc9bbwlf3idmahxd0oawaz4x3jwfj?d=identicon",
+        "country": "ZJ",
+        "ethereum_address": "0x778e8e0Bd187492a84cF602300932aF7eFc43cE3",
+        "id": "eb0cae7fc8fc62c47130de26cbc676619074ee3a155fa81ee9902b9538112686",
+        "info_url": "https://en.wikipedia.org/wiki/Paul_Chack",
+        "name": "brave-duck",
+        "tm_pub_key": "nQV/c1YoNDBtrCGYdmjE6AFJu6acBGckfMLk3wSM98M=",
+        "vega_pub_key": "fe6104ceac9eabe56062f9ccdb11fc15d163d4cce611cbb282b9e9a699178f4b",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303060846",
+  "chain_id": "vega-devnet1-202303061651",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-06T08:46:04.844349061Z",
+  "genesis_time": "2023-03-06T16:51:41.003791238Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "A6D8274BCA47DFAC1CE091E36D95C8C2D2274A54",
-      "name": "clean-shoe",
+      "address": "7E1315001377885795B7613449E38F926A71A9DF",
+      "name": "brave-duck",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "RoDWvlMMXNFZiuYeR9dRvfzG2CKayT3MnxvNL6PJWps="
+        "value": "nQV/c1YoNDBtrCGYdmjE6AFJu6acBGckfMLk3wSM98M="
       }
     }
   ]
