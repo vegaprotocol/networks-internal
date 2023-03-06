@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "VG/2lJMTeFzVZTMGf9x0xg36yq5Y364qwlBw7XIhXTs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ie7mkuj0w0c8jf6yc9j8s7jydhztctzp?d=identicon",
-        "country": "BR",
-        "ethereum_address": "0x0059416934eC3D8Eefc74cc606dD77D49D63A1f2",
-        "id": "6c702aac579d983e5b8a2c8759c150957a6efeb7cff9c34ab211f02d8c676b5b",
-        "info_url": "https://en.wikipedia.org/wiki/Stacy_Mitchhart",
-        "name": "brave-month",
-        "tm_pub_key": "VG/2lJMTeFzVZTMGf9x0xg36yq5Y364qwlBw7XIhXTs=",
-        "vega_pub_key": "4ded2636236c9f3766ae4af2a6c9830cbf2929dd6b2c4117791916d6b6309b1d",
+      "RoDWvlMMXNFZiuYeR9dRvfzG2CKayT3MnxvNL6PJWps=": {
+        "avatar_url": "https://www.gravatar.com/avatar/fmej1ixica03r976fox3kblqf5b0o0jj?d=identicon",
+        "country": "DE",
+        "ethereum_address": "0x9941f1F957877A15BB71b27c2D6006d7f0ECa859",
+        "id": "182c264b8e6e846ca87561da3407df843d5414ee6b17aa3eadb05081278ce052",
+        "info_url": "https://en.wikipedia.org/wiki/Butyrate_esterase",
+        "name": "clean-shoe",
+        "tm_pub_key": "RoDWvlMMXNFZiuYeR9dRvfzG2CKayT3MnxvNL6PJWps=",
+        "vega_pub_key": "289ccbd44d9cc86cc8f76aa66ac159eefd880bfe48ae01bd3df80e453266df2d",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303041401",
+  "chain_id": "vega-devnet1-202303060829",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-04T14:01:36.174482692Z",
+  "genesis_time": "2023-03-06T08:29:58.10206413Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "9B9D9464DD1B94D4826FBC634292E91B47CEC318",
-      "name": "brave-month",
+      "address": "A6D8274BCA47DFAC1CE091E36D95C8C2D2274A54",
+      "name": "clean-shoe",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "VG/2lJMTeFzVZTMGf9x0xg36yq5Y364qwlBw7XIhXTs="
+        "value": "RoDWvlMMXNFZiuYeR9dRvfzG2CKayT3MnxvNL6PJWps="
       }
     }
   ]
