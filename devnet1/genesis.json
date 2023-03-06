@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "nQV/c1YoNDBtrCGYdmjE6AFJu6acBGckfMLk3wSM98M=": {
-        "avatar_url": "https://www.gravatar.com/avatar/zvgmc9bbwlf3idmahxd0oawaz4x3jwfj?d=identicon",
-        "country": "ZJ",
-        "ethereum_address": "0x778e8e0Bd187492a84cF602300932aF7eFc43cE3",
-        "id": "eb0cae7fc8fc62c47130de26cbc676619074ee3a155fa81ee9902b9538112686",
-        "info_url": "https://en.wikipedia.org/wiki/Paul_Chack",
-        "name": "brave-duck",
-        "tm_pub_key": "nQV/c1YoNDBtrCGYdmjE6AFJu6acBGckfMLk3wSM98M=",
-        "vega_pub_key": "fe6104ceac9eabe56062f9ccdb11fc15d163d4cce611cbb282b9e9a699178f4b",
+      "P+wG1ITQjXFYKqU9MUNwBXI3R82xa1cd7hVl700tlRI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/blsc27e1b3vlcxte4iti1wfo4hbx05cl?d=identicon",
+        "country": "KY",
+        "ethereum_address": "0x29950B1f06FEdc4Fa6eDff7a18E3BCf6Dad35E27",
+        "id": "3746683563f1a42a68048be1988f78b5c3d857f0e7cec4b58576fd3abaf50f73",
+        "info_url": "https://en.wikipedia.org/wiki/Bliecos",
+        "name": "frustrating-chimney",
+        "tm_pub_key": "P+wG1ITQjXFYKqU9MUNwBXI3R82xa1cd7hVl700tlRI=",
+        "vega_pub_key": "0fe60cd7aa6bcc842849f982c2543ad4d78c40c646eb5b996bb2143655c82d46",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303061651",
+  "chain_id": "vega-devnet1-202303061807",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-06T16:51:41.003791238Z",
+  "genesis_time": "2023-03-06T18:07:01.745579354Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "7E1315001377885795B7613449E38F926A71A9DF",
-      "name": "brave-duck",
+      "address": "58AB3028935195EC35C4FB34E70A758A231FE9E1",
+      "name": "frustrating-chimney",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "nQV/c1YoNDBtrCGYdmjE6AFJu6acBGckfMLk3wSM98M="
+        "value": "P+wG1ITQjXFYKqU9MUNwBXI3R82xa1cd7hVl700tlRI="
       }
     }
   ]
