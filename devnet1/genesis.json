@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "dkEEYBIIw77GG1bNxT9atp/xYQaRZuy1mscHq4poc7k=": {
-        "avatar_url": "https://www.gravatar.com/avatar/kk71r1nwqid23yan9wznmmr1s139y9rh?d=identicon",
-        "country": "GU",
-        "ethereum_address": "0xc2560FF232D8724a86F9c6c14da8999439B6eff3",
-        "id": "a8c852ae7ae1870bb6e31ed144490483f076c89544e35a8e3bf15f2d740c76bb",
-        "info_url": "https://en.wikipedia.org/wiki/Victoria_Bridge,_Mar_Lodge_Estate",
-        "name": "important-bed",
-        "tm_pub_key": "dkEEYBIIw77GG1bNxT9atp/xYQaRZuy1mscHq4poc7k=",
-        "vega_pub_key": "7830808bc550cecd7b0a29c9eccd5a4bb9ab66c2053246cdf9cd30b3ccc2021e",
+      "a1ErpRAxqoFfM8VNJjstFNDmbsUSlo6mVj2UKUPBzIk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/2logjvf30zn1uudsq7h18j66gjkzoviy?d=identicon",
+        "country": "BD",
+        "ethereum_address": "0xDDDa3Fc174B32B2d7FeBf35Cdb4cA6dF9EF112Da",
+        "id": "3c389e787994bd35ee1bf34c84276277924ce3ebb1d59c94dfc99278eafc1f86",
+        "info_url": "https://en.wikipedia.org/wiki/Timotheos_Thomas",
+        "name": "frantic-beach",
+        "tm_pub_key": "a1ErpRAxqoFfM8VNJjstFNDmbsUSlo6mVj2UKUPBzIk=",
+        "vega_pub_key": "4363d55b68667e415152bb4dca2c99d2703ee43b91c99b0713eab329a2ec8b4b",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303071035",
+  "chain_id": "vega-devnet1-202303071101",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-07T10:35:57.837840848Z",
+  "genesis_time": "2023-03-07T11:01:10.046974218Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "A6B91BDC801C98B51C575B0DFBDCEDEC25A94FCB",
-      "name": "important-bed",
+      "address": "1F2B2EE8BDDE462BE6D079555F841555DC4654D8",
+      "name": "frantic-beach",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "dkEEYBIIw77GG1bNxT9atp/xYQaRZuy1mscHq4poc7k="
+        "value": "a1ErpRAxqoFfM8VNJjstFNDmbsUSlo6mVj2UKUPBzIk="
       }
     }
   ]
