@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "1es2V4EGXPdImbQKnF8GrIUr0j3aYj3rodPJH7iRK8A=": {
+        "avatar_url": "https://www.gravatar.com/avatar/jb5xftv4z88f1k9q1fmh22rpwo7rmacg?d=identicon",
+        "country": "LM",
+        "ethereum_address": "0xDB3C4075359A2b27874B6AECE1ea074CFEF92A5B",
+        "id": "d258ec7ea5679ee3dadaf2caa069db68651a4b88bd8ea8924d6513b710d73424",
+        "info_url": "https://en.wikipedia.org/wiki/Lardass",
+        "name": "yummy-pool",
+        "tm_pub_key": "1es2V4EGXPdImbQKnF8GrIUr0j3aYj3rodPJH7iRK8A=",
+        "vega_pub_key": "6fcfa3f7f961cd2b8fb8ebe782799713a6a6c260c1fc7622245e6764e04d4f6d",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "a1ErpRAxqoFfM8VNJjstFNDmbsUSlo6mVj2UKUPBzIk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/2logjvf30zn1uudsq7h18j66gjkzoviy?d=identicon",
-        "country": "BD",
-        "ethereum_address": "0xDDDa3Fc174B32B2d7FeBf35Cdb4cA6dF9EF112Da",
-        "id": "3c389e787994bd35ee1bf34c84276277924ce3ebb1d59c94dfc99278eafc1f86",
-        "info_url": "https://en.wikipedia.org/wiki/Timotheos_Thomas",
-        "name": "frantic-beach",
-        "tm_pub_key": "a1ErpRAxqoFfM8VNJjstFNDmbsUSlo6mVj2UKUPBzIk=",
-        "vega_pub_key": "4363d55b68667e415152bb4dca2c99d2703ee43b91c99b0713eab329a2ec8b4b",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303071101",
+  "chain_id": "vega-devnet1-202303071304",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-07T11:01:10.046974218Z",
+  "genesis_time": "2023-03-07T13:04:53.781741133Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "1F2B2EE8BDDE462BE6D079555F841555DC4654D8",
-      "name": "frantic-beach",
+      "address": "6FF826D3F9B8BA3B369C98F2DA7AD3A1A6D9BA2F",
+      "name": "yummy-pool",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "a1ErpRAxqoFfM8VNJjstFNDmbsUSlo6mVj2UKUPBzIk="
+        "value": "1es2V4EGXPdImbQKnF8GrIUr0j3aYj3rodPJH7iRK8A="
       }
     }
   ]
