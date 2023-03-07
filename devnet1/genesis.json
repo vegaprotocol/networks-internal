@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "XWhOE0eA0AAQK0LhigNmDBj9X4/F9NVRaDugk8UAqUM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/kn5tph7r6pc12mamia56i01ef03fqmng?d=identicon",
-        "country": "OB",
-        "ethereum_address": "0x233f8Bc84cf7AF1ED03293623E77516D71d14117",
-        "id": "167ff7235a273081cfddef2c0ced98878476143b171c0acecb3a2ef957a0ad55",
-        "info_url": "https://en.wikipedia.org/wiki/Thomas_Cheeseman",
-        "name": "adventurous-roof",
-        "tm_pub_key": "XWhOE0eA0AAQK0LhigNmDBj9X4/F9NVRaDugk8UAqUM=",
-        "vega_pub_key": "e7cdd0cb2ca1c559156a57b45dd4d558edb952ef26adfc46ec3693656e265c94",
+      "WI3CvyPr9hLi4kg+YXBNt/YeBgjf9vXKFBIoNOBFEtE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ri0ejpat9hbtr5szuv5sdwtch3r27hvw?d=identicon",
+        "country": "DE",
+        "ethereum_address": "0x432bf588aF65640BAf8f8E125D07E45866F157b0",
+        "id": "fa00f8364a5b6ab008913834ca17283200b27bf26d9d8f592fc3e589a3c6f235",
+        "info_url": "https://en.wikipedia.org/wiki/Malgaru",
+        "name": "happy-town",
+        "tm_pub_key": "WI3CvyPr9hLi4kg+YXBNt/YeBgjf9vXKFBIoNOBFEtE=",
+        "vega_pub_key": "4ad7bca8ff2c6be1d5a82c48947fd51b0f2dd1b894eff5da997f03343f62ddf5",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303070827",
+  "chain_id": "vega-devnet1-202303070921",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-07T08:27:34.652425853Z",
+  "genesis_time": "2023-03-07T09:21:45.340182474Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "0CBE3D0BD66C95A6E33F5FAE562D79E4252C9EBF",
-      "name": "adventurous-roof",
+      "address": "6A0A8F0C3EF41EAD26E25ECBBA70048E2E6AE01B",
+      "name": "happy-town",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "XWhOE0eA0AAQK0LhigNmDBj9X4/F9NVRaDugk8UAqUM="
+        "value": "WI3CvyPr9hLi4kg+YXBNt/YeBgjf9vXKFBIoNOBFEtE="
       }
     }
   ]
