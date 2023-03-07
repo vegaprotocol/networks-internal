@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "i6pC5yxvridvY7DLRWK2FIfD/8DkDtWAro896xSlIYc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/xdzdzgaprp3ihwxjwrncwbgj8pd9v8wv?d=identicon",
-        "country": "YY",
-        "ethereum_address": "0x174bfEe408344732731e088bAE70e69E20E96703",
-        "id": "002f00fc7b47c51171b484d7af69ca223c72d1aa4c8d8bc81ebdee91478717f2",
-        "info_url": "https://en.wikipedia.org/wiki/Nicole_Beharie",
-        "name": "salmon-wind",
-        "tm_pub_key": "i6pC5yxvridvY7DLRWK2FIfD/8DkDtWAro896xSlIYc=",
-        "vega_pub_key": "03e1ff4639345ebcd0e8d29faf5f3096addf96751dba74910386b979ae5d1ded",
+      "Rm8bZLndVLaKRYGWVM2wK43BYVGlrfylGskd9R7oKC8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/38e5jr40home4idics06ztidvm347lmc?d=identicon",
+        "country": "KJ",
+        "ethereum_address": "0xeeCE37Fc3c97B2b54aD78715C566F80C932491D0",
+        "id": "bb3b32a7951830e7bcc28e9feb5f343edc681c42d93963470f9f22da98fcd956",
+        "info_url": "https://en.wikipedia.org/wiki/Isotta_Fraschini_Tipo_8B",
+        "name": "better-music",
+        "tm_pub_key": "Rm8bZLndVLaKRYGWVM2wK43BYVGlrfylGskd9R7oKC8=",
+        "vega_pub_key": "bdc92c6e75684ae28aba173349bb29ce7f33bf8f45b7dddba3f087134be17624",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303071646",
+  "chain_id": "vega-devnet1-202303071920",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-07T16:46:12.906704879Z",
+  "genesis_time": "2023-03-07T19:20:45.725744635Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "97065060A7F4DDAD3CD36F23FE65FC349CC8618D",
-      "name": "salmon-wind",
+      "address": "C16135C78BDDF1BE676B87CE0527A84E1E910106",
+      "name": "better-music",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "i6pC5yxvridvY7DLRWK2FIfD/8DkDtWAro896xSlIYc="
+        "value": "Rm8bZLndVLaKRYGWVM2wK43BYVGlrfylGskd9R7oKC8="
       }
     }
   ]
