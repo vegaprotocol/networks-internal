@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "1es2V4EGXPdImbQKnF8GrIUr0j3aYj3rodPJH7iRK8A=": {
-        "avatar_url": "https://www.gravatar.com/avatar/jb5xftv4z88f1k9q1fmh22rpwo7rmacg?d=identicon",
-        "country": "LM",
-        "ethereum_address": "0xDB3C4075359A2b27874B6AECE1ea074CFEF92A5B",
-        "id": "d258ec7ea5679ee3dadaf2caa069db68651a4b88bd8ea8924d6513b710d73424",
-        "info_url": "https://en.wikipedia.org/wiki/Lardass",
-        "name": "yummy-pool",
-        "tm_pub_key": "1es2V4EGXPdImbQKnF8GrIUr0j3aYj3rodPJH7iRK8A=",
-        "vega_pub_key": "6fcfa3f7f961cd2b8fb8ebe782799713a6a6c260c1fc7622245e6764e04d4f6d",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "mItcB0b0D5G1+HDMsVPUihmCMDkir3t9Z00t01wYgk4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/250u9fnklhwjz4gj863cd12tzy0pmri3?d=identicon",
+        "country": "MN",
+        "ethereum_address": "0x8CB4A05C648cF298E9aF2951023Fc26e588463EA",
+        "id": "2f3407b6a3a6472f34433c2cc510e4c98af53fba172d8f12175b8026c51733fb",
+        "info_url": "https://en.wikipedia.org/wiki/Billy_Moore_(rugby_league)",
+        "name": "purring-plant",
+        "tm_pub_key": "mItcB0b0D5G1+HDMsVPUihmCMDkir3t9Z00t01wYgk4=",
+        "vega_pub_key": "37bd1e217890e0609a702cb761d7c29607fbafb4f993becc80b142e935dee3d2",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303071347",
+  "chain_id": "vega-devnet1-202303071412",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-07T13:47:25.442672435Z",
+  "genesis_time": "2023-03-07T14:12:44.792284971Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "6FF826D3F9B8BA3B369C98F2DA7AD3A1A6D9BA2F",
-      "name": "yummy-pool",
+      "address": "01E40C5B66C42D803177ACA89B847F2CA3313392",
+      "name": "purring-plant",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "1es2V4EGXPdImbQKnF8GrIUr0j3aYj3rodPJH7iRK8A="
+        "value": "mItcB0b0D5G1+HDMsVPUihmCMDkir3t9Z00t01wYgk4="
       }
     }
   ]
