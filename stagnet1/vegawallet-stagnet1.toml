@@ -1,8 +1,8 @@
-Host = "127.0.0.1"
-Level = "info"
 Name = "stagnet1"
-Port = 1789
-TokenExpiry = "168h0m0s"
+
+[[Metadata]]
+key = "network"
+name = "stagnet1"
 
 [API]
 
@@ -16,10 +16,7 @@ TokenExpiry = "168h0m0s"
   [API.REST]
     Hosts = ["https://api.stagnet1.vega.xyz", "https://api.n05.stagnet1.vega.xyz", "https://api.n06.stagnet1.vega.xyz"]
 
-[Console]
-  LocalPort = 1847
-  URL = ""
-
-[TokenDApp]
-  LocalPort = 1848
-  URL = ""
+[Apps]
+  Console = "stagnet1.console.vega.xyz"
+  TokenDApp = "stagnet1.governance.vega.xyz"
+  Explorer = "stagnet1.explorer.vega.xyz"
