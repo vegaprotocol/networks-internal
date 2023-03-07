@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "P+wG1ITQjXFYKqU9MUNwBXI3R82xa1cd7hVl700tlRI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/blsc27e1b3vlcxte4iti1wfo4hbx05cl?d=identicon",
-        "country": "KY",
-        "ethereum_address": "0x29950B1f06FEdc4Fa6eDff7a18E3BCf6Dad35E27",
-        "id": "3746683563f1a42a68048be1988f78b5c3d857f0e7cec4b58576fd3abaf50f73",
-        "info_url": "https://en.wikipedia.org/wiki/Bliecos",
-        "name": "frustrating-chimney",
-        "tm_pub_key": "P+wG1ITQjXFYKqU9MUNwBXI3R82xa1cd7hVl700tlRI=",
-        "vega_pub_key": "0fe60cd7aa6bcc842849f982c2543ad4d78c40c646eb5b996bb2143655c82d46",
+      "XWhOE0eA0AAQK0LhigNmDBj9X4/F9NVRaDugk8UAqUM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/kn5tph7r6pc12mamia56i01ef03fqmng?d=identicon",
+        "country": "OB",
+        "ethereum_address": "0x233f8Bc84cf7AF1ED03293623E77516D71d14117",
+        "id": "167ff7235a273081cfddef2c0ced98878476143b171c0acecb3a2ef957a0ad55",
+        "info_url": "https://en.wikipedia.org/wiki/Thomas_Cheeseman",
+        "name": "adventurous-roof",
+        "tm_pub_key": "XWhOE0eA0AAQK0LhigNmDBj9X4/F9NVRaDugk8UAqUM=",
+        "vega_pub_key": "e7cdd0cb2ca1c559156a57b45dd4d558edb952ef26adfc46ec3693656e265c94",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303061840",
+  "chain_id": "vega-devnet1-202303070827",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-06T18:40:05.375148828Z",
+  "genesis_time": "2023-03-07T08:27:34.652425853Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "58AB3028935195EC35C4FB34E70A758A231FE9E1",
-      "name": "frustrating-chimney",
+      "address": "0CBE3D0BD66C95A6E33F5FAE562D79E4252C9EBF",
+      "name": "adventurous-roof",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "P+wG1ITQjXFYKqU9MUNwBXI3R82xa1cd7hVl700tlRI="
+        "value": "XWhOE0eA0AAQK0LhigNmDBj9X4/F9NVRaDugk8UAqUM="
       }
     }
   ]
