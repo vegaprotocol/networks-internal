@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "WI3CvyPr9hLi4kg+YXBNt/YeBgjf9vXKFBIoNOBFEtE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ri0ejpat9hbtr5szuv5sdwtch3r27hvw?d=identicon",
-        "country": "DE",
-        "ethereum_address": "0x432bf588aF65640BAf8f8E125D07E45866F157b0",
-        "id": "fa00f8364a5b6ab008913834ca17283200b27bf26d9d8f592fc3e589a3c6f235",
-        "info_url": "https://en.wikipedia.org/wiki/Malgaru",
-        "name": "happy-town",
-        "tm_pub_key": "WI3CvyPr9hLi4kg+YXBNt/YeBgjf9vXKFBIoNOBFEtE=",
-        "vega_pub_key": "4ad7bca8ff2c6be1d5a82c48947fd51b0f2dd1b894eff5da997f03343f62ddf5",
+      "dkEEYBIIw77GG1bNxT9atp/xYQaRZuy1mscHq4poc7k=": {
+        "avatar_url": "https://www.gravatar.com/avatar/kk71r1nwqid23yan9wznmmr1s139y9rh?d=identicon",
+        "country": "GU",
+        "ethereum_address": "0xc2560FF232D8724a86F9c6c14da8999439B6eff3",
+        "id": "a8c852ae7ae1870bb6e31ed144490483f076c89544e35a8e3bf15f2d740c76bb",
+        "info_url": "https://en.wikipedia.org/wiki/Victoria_Bridge,_Mar_Lodge_Estate",
+        "name": "important-bed",
+        "tm_pub_key": "dkEEYBIIw77GG1bNxT9atp/xYQaRZuy1mscHq4poc7k=",
+        "vega_pub_key": "7830808bc550cecd7b0a29c9eccd5a4bb9ab66c2053246cdf9cd30b3ccc2021e",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303070949",
+  "chain_id": "vega-devnet1-202303071004",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-07T09:49:07.963169782Z",
+  "genesis_time": "2023-03-07T10:04:39.308529257Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "6A0A8F0C3EF41EAD26E25ECBBA70048E2E6AE01B",
-      "name": "happy-town",
+      "address": "A6B91BDC801C98B51C575B0DFBDCEDEC25A94FCB",
+      "name": "important-bed",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "WI3CvyPr9hLi4kg+YXBNt/YeBgjf9vXKFBIoNOBFEtE="
+        "value": "dkEEYBIIw77GG1bNxT9atp/xYQaRZuy1mscHq4poc7k="
       }
     }
   ]
