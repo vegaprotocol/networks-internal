@@ -302,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "i6pC5yxvridvY7DLRWK2FIfD/8DkDtWAro896xSlIYc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xdzdzgaprp3ihwxjwrncwbgj8pd9v8wv?d=identicon",
+        "country": "YY",
+        "ethereum_address": "0x174bfEe408344732731e088bAE70e69E20E96703",
+        "id": "002f00fc7b47c51171b484d7af69ca223c72d1aa4c8d8bc81ebdee91478717f2",
+        "info_url": "https://en.wikipedia.org/wiki/Nicole_Beharie",
+        "name": "salmon-wind",
+        "tm_pub_key": "i6pC5yxvridvY7DLRWK2FIfD/8DkDtWAro896xSlIYc=",
+        "vega_pub_key": "03e1ff4639345ebcd0e8d29faf5f3096addf96751dba74910386b979ae5d1ded",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "xkBPfheAdmeouHS7QIgu9d4XwEcZOKodipt2mtUhpS8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/r06c1een0qc7osolbiynseq8i0zz9tw3?d=identicon",
-        "country": "WT",
-        "ethereum_address": "0xF5D8c02939A356D665c040F83C1Ea2A65E7d9A71",
-        "id": "2bc840da5dd6965d0fa4b589198099a1f5a837ee5b613f20cb87ca3bfe95fbd2",
-        "info_url": "https://en.wikipedia.org/wiki/K%C3%ABnga_Magjike_2005",
-        "name": "zippy-taxi",
-        "tm_pub_key": "xkBPfheAdmeouHS7QIgu9d4XwEcZOKodipt2mtUhpS8=",
-        "vega_pub_key": "4674ac458217c95f0aa5632935b633dbf3d1ecf545ca5ae3a0ad6c864b25c889",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202303071506",
+  "chain_id": "vega-devnet1-202303071646",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-07T15:06:09.881410768Z",
+  "genesis_time": "2023-03-07T16:46:12.906704879Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "184B8D727E2F35A2E462FC23101FB5549FC52AAA",
-      "name": "zippy-taxi",
+      "address": "97065060A7F4DDAD3CD36F23FE65FC349CC8618D",
+      "name": "salmon-wind",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "xkBPfheAdmeouHS7QIgu9d4XwEcZOKodipt2mtUhpS8="
+        "value": "i6pC5yxvridvY7DLRWK2FIfD/8DkDtWAro896xSlIYc="
       }
     }
   ]
