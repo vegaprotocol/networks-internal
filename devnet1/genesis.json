@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "iafcj9nrmVGXtUAWkgba4Svbhh1XjPsYjVJ0zT5Kf0Y=": {
-        "avatar_url": "https://www.gravatar.com/avatar/nhchtn9s7wa9h73phtcfq2q3s5vteb4t?d=identicon",
-        "country": "RX",
-        "ethereum_address": "0xeFB1fd779edD1D71136F71DDF99bbaB46d2BA70F",
-        "id": "65fc1633442565e6445c335ab61dc3865530bb229c13dd8ecda158bf5017af75",
-        "info_url": "https://en.wikipedia.org/wiki/Manstein_Plan",
-        "name": "important-cookie",
-        "tm_pub_key": "iafcj9nrmVGXtUAWkgba4Svbhh1XjPsYjVJ0zT5Kf0Y=",
-        "vega_pub_key": "1e00b954c172dc1b2f62d83ffd0389e43f67ce700bb5d0f4a99a46f19ba35271",
+      "Qb0ycm0Gz0Vbexz04Z45xBq0OKf+lHVZ2aMAsSfwqg8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/gxzd1azybv2wm1p3jtda5w47jdrp43za?d=identicon",
+        "country": "TO",
+        "ethereum_address": "0xae154f5882A37AddA62c4ed266f94fE61C6b42Be",
+        "id": "93d116725f3c2cbd04cf6715eb1f87492a6f82aff67d7918335b14701e5dff5d",
+        "info_url": "https://en.wikipedia.org/wiki/Navobod,_Tursunzoda",
+        "name": "quiet-building",
+        "tm_pub_key": "Qb0ycm0Gz0Vbexz04Z45xBq0OKf+lHVZ2aMAsSfwqg8=",
+        "vega_pub_key": "f1ccca27a71aa12d6a57356ba8f135798efde9dc5ffd41cc546adda48b4c8f05",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303081229",
+  "chain_id": "vega-devnet1-202303081651",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-08T12:29:59.460221352Z",
+  "genesis_time": "2023-03-08T16:51:23.451538871Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "AD04339FA71033360C0AC7CBCB66C5AABBBEF9EC",
-      "name": "important-cookie",
+      "address": "55AAE27238A8BE50CD5269FCC6461030FE54029C",
+      "name": "quiet-building",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "iafcj9nrmVGXtUAWkgba4Svbhh1XjPsYjVJ0zT5Kf0Y="
+        "value": "Qb0ycm0Gz0Vbexz04Z45xBq0OKf+lHVZ2aMAsSfwqg8="
       }
     }
   ]
