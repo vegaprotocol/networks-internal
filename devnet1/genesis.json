@@ -291,17 +291,6 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
-      "DmAovgEthmTmS+BplblWRDYaodc4j7x3Z4xNDgdbN6I=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ng9nb1w10r559qxb9qfy8wox46cujw1j?d=identicon",
-        "country": "OY",
-        "ethereum_address": "0xA452EE5c3DcB39710F60c84D56FEB38f95225A19",
-        "id": "a9bcba3b3373eb1c4613297da05021c28791f0280966becf15bdf42de66b8e5a",
-        "info_url": "https://en.wikipedia.org/wiki/Chadds_Ford,_Pennsylvania",
-        "name": "faint-cat",
-        "tm_pub_key": "DmAovgEthmTmS+BplblWRDYaodc4j7x3Z4xNDgdbN6I=",
-        "vega_pub_key": "5cdcd864f7ac5943558ca0943c92816836818df265cb3d08d81d26a073ad6b35",
-        "vega_pub_key_index": 1
-      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -311,6 +300,17 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
+        "vega_pub_key_index": 1
+      },
+      "NBiOM7k4tnLUHblY273A4JRiiZPlTMg6oKUc0FMJNUE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xgyt35awhbg1nml5uzm8wgtvx8zc54ee?d=identicon",
+        "country": "PH",
+        "ethereum_address": "0x6EBb1b1C322a4Cd21324898Fe32d71BdeA240339",
+        "id": "046ab3a44708a9396452db83189797527126fe63af326d81f82a7ce8037c2402",
+        "info_url": "https://en.wikipedia.org/wiki/Mazzoni",
+        "name": "wicked-baby",
+        "tm_pub_key": "NBiOM7k4tnLUHblY273A4JRiiZPlTMg6oKUc0FMJNUE=",
+        "vega_pub_key": "aa73158892257aea71d5d270e9b8e385d4b40ff0c48d7d2aec00290513964a55",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303080830",
+  "chain_id": "vega-devnet1-202303080906",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-08T08:30:37.238141717Z",
+  "genesis_time": "2023-03-08T09:06:27.126355702Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "203C5652CC126E6E6061196F7F9A956ACB6BA8A2",
-      "name": "faint-cat",
+      "address": "FB74C5C04B7092193C44F4913CB137217E6EA361",
+      "name": "wicked-baby",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "DmAovgEthmTmS+BplblWRDYaodc4j7x3Z4xNDgdbN6I="
+        "value": "NBiOM7k4tnLUHblY273A4JRiiZPlTMg6oKUc0FMJNUE="
       }
     }
   ]
