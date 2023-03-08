@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "mOZZSA03tTNJQcdPy+YCC+XMPkiuYnymb8ODvGKEDjg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ru90xbvcfs2p4svvp7qdx7fik113fomz?d=identicon",
-        "country": "TT",
-        "ethereum_address": "0xEE61010c280C249E3A827d8c26D5774629fcF237",
-        "id": "9a6e9ef794c9c079eb83e0ad028dce2c993fba8eaa2fb01477349924e7a5068d",
-        "info_url": "https://en.wikipedia.org/wiki/SpotHero",
-        "name": "purple-river",
-        "tm_pub_key": "mOZZSA03tTNJQcdPy+YCC+XMPkiuYnymb8ODvGKEDjg=",
-        "vega_pub_key": "ffffa47dc2f13fb47b7338ea005de73ae6e4e96dba49936ff6c99bca2a0fc1a6",
+      "iafcj9nrmVGXtUAWkgba4Svbhh1XjPsYjVJ0zT5Kf0Y=": {
+        "avatar_url": "https://www.gravatar.com/avatar/nhchtn9s7wa9h73phtcfq2q3s5vteb4t?d=identicon",
+        "country": "RX",
+        "ethereum_address": "0xeFB1fd779edD1D71136F71DDF99bbaB46d2BA70F",
+        "id": "65fc1633442565e6445c335ab61dc3865530bb229c13dd8ecda158bf5017af75",
+        "info_url": "https://en.wikipedia.org/wiki/Manstein_Plan",
+        "name": "important-cookie",
+        "tm_pub_key": "iafcj9nrmVGXtUAWkgba4Svbhh1XjPsYjVJ0zT5Kf0Y=",
+        "vega_pub_key": "1e00b954c172dc1b2f62d83ffd0389e43f67ce700bb5d0f4a99a46f19ba35271",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303081159",
+  "chain_id": "vega-devnet1-202303081229",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-08T11:59:41.592750904Z",
+  "genesis_time": "2023-03-08T12:29:59.460221352Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "C7618FB5932D0DBEB391698AACBC9EF0ED5424AD",
-      "name": "purple-river",
+      "address": "AD04339FA71033360C0AC7CBCB66C5AABBBEF9EC",
+      "name": "important-cookie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "mOZZSA03tTNJQcdPy+YCC+XMPkiuYnymb8ODvGKEDjg="
+        "value": "iafcj9nrmVGXtUAWkgba4Svbhh1XjPsYjVJ0zT5Kf0Y="
       }
     }
   ]
