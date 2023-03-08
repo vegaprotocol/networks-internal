@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "6sJ61r7lThDbg9T8fc1niKlptO+br/17RCiaRjqENd8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/s8ltwe8iogcyp10s0u8pgw9u6ipmntcu?d=identicon",
-        "country": "ZP",
-        "ethereum_address": "0xB3A8DB5B548cCAA78d5122e7C8435AE587b56C7B",
-        "id": "ee8f94d86440960f2d3e437cfdecaec972d0b8ada080cc57209ad33732e367d1",
-        "info_url": "https://en.wikipedia.org/wiki/Cyrtocrinida",
-        "name": "perfect-cookie",
-        "tm_pub_key": "6sJ61r7lThDbg9T8fc1niKlptO+br/17RCiaRjqENd8=",
-        "vega_pub_key": "f53ac58d847f5c83fc91893af02c18ffb6a32b552ad84791e68ab1a5db3ddc4f",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "zbVS47sC7lwVGqzHOD93hHYSWXpYSj6Dh8h3pOm7qRw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/u8r0ds70xmvnfmdnc8lubgw6cv0vyb7m?d=identicon",
+        "country": "YU",
+        "ethereum_address": "0xF23B188adFf4D668DDB5FE6000D9eCB79deA6D11",
+        "id": "4a5a148b51a77d01a077a0f5083d08cf6a7e6701b1ac99b5f13cc701a0b45513",
+        "info_url": "https://en.wikipedia.org/wiki/Curt_W._Janke",
+        "name": "timely-school",
+        "tm_pub_key": "zbVS47sC7lwVGqzHOD93hHYSWXpYSj6Dh8h3pOm7qRw=",
+        "vega_pub_key": "e9c0262293b0fa3e2b0db45122cfd49807c43280703bec168d48e12604f9a8ef",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202303081901",
+  "chain_id": "vega-devnet1-202303082300",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-08T19:01:27.506519969Z",
+  "genesis_time": "2023-03-08T23:00:03.466161801Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "58389D17EFA926A346E32188971C9E6CC5285CE3",
-      "name": "perfect-cookie",
+      "address": "9C7A53DFD80448515EDCA61270CDEFF1765360B2",
+      "name": "timely-school",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "6sJ61r7lThDbg9T8fc1niKlptO+br/17RCiaRjqENd8="
+        "value": "zbVS47sC7lwVGqzHOD93hHYSWXpYSj6Dh8h3pOm7qRw="
       }
     }
   ]
