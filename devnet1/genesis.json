@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "6sJ61r7lThDbg9T8fc1niKlptO+br/17RCiaRjqENd8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/s8ltwe8iogcyp10s0u8pgw9u6ipmntcu?d=identicon",
+        "country": "ZP",
+        "ethereum_address": "0xB3A8DB5B548cCAA78d5122e7C8435AE587b56C7B",
+        "id": "ee8f94d86440960f2d3e437cfdecaec972d0b8ada080cc57209ad33732e367d1",
+        "info_url": "https://en.wikipedia.org/wiki/Cyrtocrinida",
+        "name": "perfect-cookie",
+        "tm_pub_key": "6sJ61r7lThDbg9T8fc1niKlptO+br/17RCiaRjqENd8=",
+        "vega_pub_key": "f53ac58d847f5c83fc91893af02c18ffb6a32b552ad84791e68ab1a5db3ddc4f",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -289,17 +300,6 @@
         "name": "friendly-barber",
         "tm_pub_key": "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=",
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
-        "vega_pub_key_index": 1
-      },
-      "FJCSDHLO/rn9uTcb9PTDum4bfDQD6wKRcjcR+YFRafc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/jj2nbk84u27s32bu3m5mek426h9zdjtj?d=identicon",
-        "country": "AF",
-        "ethereum_address": "0xe1A618D50baE7A03425e507ca067938742ec4Ad6",
-        "id": "38017823400d1b8dc40200cc252c212c1a05bc3d39ac01e5b70d4ea6ee398e1b",
-        "info_url": "https://en.wikipedia.org/wiki/Reciprocal_cross",
-        "name": "red-dog",
-        "tm_pub_key": "FJCSDHLO/rn9uTcb9PTDum4bfDQD6wKRcjcR+YFRafc=",
-        "vega_pub_key": "8a5f991400d13286cc917747bdf1d365c15d1609cf9b3398dc137be2937970ff",
         "vega_pub_key_index": 1
       },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303081810",
+  "chain_id": "vega-devnet1-202303081901",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-08T18:10:58.015237921Z",
+  "genesis_time": "2023-03-08T19:01:27.506519969Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "C94C9082CD0EC28FC0F7EA940AF1AAEDFDD4CD4D",
-      "name": "red-dog",
+      "address": "58389D17EFA926A346E32188971C9E6CC5285CE3",
+      "name": "perfect-cookie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "FJCSDHLO/rn9uTcb9PTDum4bfDQD6wKRcjcR+YFRafc="
+        "value": "6sJ61r7lThDbg9T8fc1niKlptO+br/17RCiaRjqENd8="
       }
     }
   ]
