@@ -302,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "PDLIA5AU/iL4CMPadq6BAuMaprlU1I7ak6OsPgmvwO8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ai89g5mr3w6tt5ixsejlzghzf1owl54d?d=identicon",
+        "country": "TJ",
+        "ethereum_address": "0x01988fB39E7f9E22fCe6E565Ed8BdFB66bCECAB9",
+        "id": "bfda5fe222b6f8d261977dd7e38db004bb0783c95f3faf61fc496e4b2b45a4d1",
+        "info_url": "https://en.wikipedia.org/wiki/George_Koumantarakis",
+        "name": "gifted-roof",
+        "tm_pub_key": "PDLIA5AU/iL4CMPadq6BAuMaprlU1I7ak6OsPgmvwO8=",
+        "vega_pub_key": "152d398947da2c96f70f0d1513c4fbeb3e3f0f08cbaed5989c7ff97e54e7ab8f",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "u7XoRvqdrbA1v5P0dV49GWPpFkcWM29pkhfJIi+Dj68=": {
-        "avatar_url": "https://www.gravatar.com/avatar/j8rt6wzrfr68fuz8l0toze006ozwe969?d=identicon",
-        "country": "UG",
-        "ethereum_address": "0x7a7816edeE2FB141F76CbC3926831f7464bd0464",
-        "id": "cfb9364181862d73466e8fad3d4551eede4d3ae966002939ec9af1b9d20e0621",
-        "info_url": "https://en.wikipedia.org/wiki/John_Aston_Warder",
-        "name": "immense-teacher",
-        "tm_pub_key": "u7XoRvqdrbA1v5P0dV49GWPpFkcWM29pkhfJIi+Dj68=",
-        "vega_pub_key": "2e31aaa7b23f2fac2abdb55641713400040156bb5d8f10097174fff11a0e7d32",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202303091240",
+  "chain_id": "vega-devnet1-202303091404",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-09T12:40:25.080793849Z",
+  "genesis_time": "2023-03-09T14:04:18.877913483Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "C10E44E5B86C5AFCB0ED997E4DD3ADAC58E5C152",
-      "name": "immense-teacher",
+      "address": "15EB59AA55363958079DC08798593FAFFF0004AD",
+      "name": "gifted-roof",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "u7XoRvqdrbA1v5P0dV49GWPpFkcWM29pkhfJIi+Dj68="
+        "value": "PDLIA5AU/iL4CMPadq6BAuMaprlU1I7ak6OsPgmvwO8="
       }
     }
   ]
