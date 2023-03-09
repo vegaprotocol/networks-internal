@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "35E30oFJQGG+RfE80XJUS2xxKQb3UXBBxdZQ5H/lvxA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/a7n8zae2t8177i4m8ntel69xk9b2ey2f?d=identicon",
+        "country": "HA",
+        "ethereum_address": "0x762D09913aae885824d0fa189c227390cF05672c",
+        "id": "d166784df397a601442d7316c9b57600648ce3ada97c3522f36ae94b959ab8c2",
+        "info_url": "https://en.wikipedia.org/wiki/Aoba-Japan_International_School",
+        "name": "harebrained-book",
+        "tm_pub_key": "35E30oFJQGG+RfE80XJUS2xxKQb3UXBBxdZQ5H/lvxA=",
+        "vega_pub_key": "7028c52e431ede845ad1059b0b2c87479fda6f801c2fa7a4f1dbcb02e401b5c8",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "zbVS47sC7lwVGqzHOD93hHYSWXpYSj6Dh8h3pOm7qRw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/u8r0ds70xmvnfmdnc8lubgw6cv0vyb7m?d=identicon",
-        "country": "YU",
-        "ethereum_address": "0xF23B188adFf4D668DDB5FE6000D9eCB79deA6D11",
-        "id": "4a5a148b51a77d01a077a0f5083d08cf6a7e6701b1ac99b5f13cc701a0b45513",
-        "info_url": "https://en.wikipedia.org/wiki/Curt_W._Janke",
-        "name": "timely-school",
-        "tm_pub_key": "zbVS47sC7lwVGqzHOD93hHYSWXpYSj6Dh8h3pOm7qRw=",
-        "vega_pub_key": "e9c0262293b0fa3e2b0db45122cfd49807c43280703bec168d48e12604f9a8ef",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202303082333",
+  "chain_id": "vega-devnet1-202303091020",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-08T23:33:19.578026151Z",
+  "genesis_time": "2023-03-09T10:20:05.449189962Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "9C7A53DFD80448515EDCA61270CDEFF1765360B2",
-      "name": "timely-school",
+      "address": "738451B5DA0A99DD3C6D2E19004574BC25D2F4AC",
+      "name": "harebrained-book",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "zbVS47sC7lwVGqzHOD93hHYSWXpYSj6Dh8h3pOm7qRw="
+        "value": "35E30oFJQGG+RfE80XJUS2xxKQb3UXBBxdZQ5H/lvxA="
       }
     }
   ]
