@@ -291,17 +291,6 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
-      "JEdmdS1zsuFSc6rF3mVJ6Y/BDzfqfa/D4A2c7nX3X9c=": {
-        "avatar_url": "https://www.gravatar.com/avatar/9o56md4je8swi4cfrxx4bsq4v0uza3qc?d=identicon",
-        "country": "TL",
-        "ethereum_address": "0x4295B1B8A4522fb8c6d7915Cc1bdaA6641af72d9",
-        "id": "134e34d26abee78479b11587aeb204dbc979dde09f89a6b9a8d17b312b2c33dd",
-        "info_url": "https://en.wikipedia.org/wiki/Monika_Schnarre",
-        "name": "helpless-movie",
-        "tm_pub_key": "JEdmdS1zsuFSc6rF3mVJ6Y/BDzfqfa/D4A2c7nX3X9c=",
-        "vega_pub_key": "b4447d135042b564ae1dcc7ec437604039405617c6abe426421dc062eee972ce",
-        "vega_pub_key_index": 1
-      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -311,6 +300,17 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
+        "vega_pub_key_index": 1
+      },
+      "UeYa1lFzyiwzunE2f4HGU4JiUYdnlhKFCME6SERdL38=": {
+        "avatar_url": "https://www.gravatar.com/avatar/h71imum45s8ujxh30anx70uf5rwggigg?d=identicon",
+        "country": "WI",
+        "ethereum_address": "0x331EB7a1db12A891D09F3D85F639ACfBFE0E656F",
+        "id": "fc81710662920ef183d1af5b97435ff036850347ad6ec65cac5ee3b1b57d2958",
+        "info_url": "https://en.wikipedia.org/wiki/Galina_Arsenkina",
+        "name": "helpful-biscuit",
+        "tm_pub_key": "UeYa1lFzyiwzunE2f4HGU4JiUYdnlhKFCME6SERdL38=",
+        "vega_pub_key": "c6d53eaed681103a2788d26ca8952f384c7a0d9d2953f1f34d5482e439d4147b",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303091531",
+  "chain_id": "vega-devnet1-202303091611",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-09T15:31:03.487441973Z",
+  "genesis_time": "2023-03-09T16:11:49.861472942Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "F1D551A4B88FB454B4D47BDD18082B1A28793DAA",
-      "name": "helpless-movie",
+      "address": "2617C5A48690ED27DB687CFF4CB341D884C2BE72",
+      "name": "helpful-biscuit",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "JEdmdS1zsuFSc6rF3mVJ6Y/BDzfqfa/D4A2c7nX3X9c="
+        "value": "UeYa1lFzyiwzunE2f4HGU4JiUYdnlhKFCME6SERdL38="
       }
     }
   ]
