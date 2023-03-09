@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "scGCyIH7fyGdFrzjzuQPwU9xROSyp08CValu3+JO1zY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/4qv1q2g7ky7yy5a6na77548r2i7vu1qs?d=identicon",
-        "country": "AE",
-        "ethereum_address": "0xA90A0eD61aB690B039966b06Aa45007bA7117635",
-        "id": "9ec0278b1ee06d3adc1cfcf9a6d3739836cb035de90a48177e0fb8d73005b83f",
-        "info_url": "https://en.wikipedia.org/wiki/Qaqortuatsiaq",
-        "name": "agitated-mouse",
-        "tm_pub_key": "scGCyIH7fyGdFrzjzuQPwU9xROSyp08CValu3+JO1zY=",
-        "vega_pub_key": "7bf2376b5146cdeffd79d5ac284b30751ee79d1433848bfdeed236866de78f35",
+      "TVL9fAaXPLSiQEEQmqUV4Sg0DQuhM/eHxwI28m/XCl4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/wpk6lt7aj3sy63mb7z5lpme4bhzynvlj?d=identicon",
+        "country": "TY",
+        "ethereum_address": "0x4Ac11B6e1f08e363A894C7713f48C751bE849D5A",
+        "id": "f14e69104ca9d35e1c0f06454438f74e89b9f117d9dd26c3cef06b776f09665c",
+        "info_url": "https://en.wikipedia.org/wiki/KPDQ_(AM)",
+        "name": "wrong-baby",
+        "tm_pub_key": "TVL9fAaXPLSiQEEQmqUV4Sg0DQuhM/eHxwI28m/XCl4=",
+        "vega_pub_key": "286c3b61524ebb0053c20fa818d224dfc883deb968f2eb1261f31cbaa2907c35",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303091732",
+  "chain_id": "vega-devnet1-202303092353",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-09T17:32:36.338782508Z",
+  "genesis_time": "2023-03-09T23:53:53.331157447Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "4C2481011CA6B8A1DC639913AEA41EEFA29A5704",
-      "name": "agitated-mouse",
+      "address": "F6CAD6AB8212FB5C74DD7E71CE8BFE0F0CDA2CB6",
+      "name": "wrong-baby",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "scGCyIH7fyGdFrzjzuQPwU9xROSyp08CValu3+JO1zY="
+        "value": "TVL9fAaXPLSiQEEQmqUV4Sg0DQuhM/eHxwI28m/XCl4="
       }
     }
   ]
