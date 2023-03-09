@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "35E30oFJQGG+RfE80XJUS2xxKQb3UXBBxdZQ5H/lvxA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/a7n8zae2t8177i4m8ntel69xk9b2ey2f?d=identicon",
-        "country": "HA",
-        "ethereum_address": "0x762D09913aae885824d0fa189c227390cF05672c",
-        "id": "d166784df397a601442d7316c9b57600648ce3ada97c3522f36ae94b959ab8c2",
-        "info_url": "https://en.wikipedia.org/wiki/Aoba-Japan_International_School",
-        "name": "harebrained-book",
-        "tm_pub_key": "35E30oFJQGG+RfE80XJUS2xxKQb3UXBBxdZQ5H/lvxA=",
-        "vega_pub_key": "7028c52e431ede845ad1059b0b2c87479fda6f801c2fa7a4f1dbcb02e401b5c8",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "u7XoRvqdrbA1v5P0dV49GWPpFkcWM29pkhfJIi+Dj68=": {
+        "avatar_url": "https://www.gravatar.com/avatar/j8rt6wzrfr68fuz8l0toze006ozwe969?d=identicon",
+        "country": "UG",
+        "ethereum_address": "0x7a7816edeE2FB141F76CbC3926831f7464bd0464",
+        "id": "cfb9364181862d73466e8fad3d4551eede4d3ae966002939ec9af1b9d20e0621",
+        "info_url": "https://en.wikipedia.org/wiki/John_Aston_Warder",
+        "name": "immense-teacher",
+        "tm_pub_key": "u7XoRvqdrbA1v5P0dV49GWPpFkcWM29pkhfJIi+Dj68=",
+        "vega_pub_key": "2e31aaa7b23f2fac2abdb55641713400040156bb5d8f10097174fff11a0e7d32",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202303091120",
+  "chain_id": "vega-devnet1-202303091240",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-09T11:20:34.083376541Z",
+  "genesis_time": "2023-03-09T12:40:25.080793849Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "738451B5DA0A99DD3C6D2E19004574BC25D2F4AC",
-      "name": "harebrained-book",
+      "address": "C10E44E5B86C5AFCB0ED997E4DD3ADAC58E5C152",
+      "name": "immense-teacher",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "35E30oFJQGG+RfE80XJUS2xxKQb3UXBBxdZQ5H/lvxA="
+        "value": "u7XoRvqdrbA1v5P0dV49GWPpFkcWM29pkhfJIi+Dj68="
       }
     }
   ]
