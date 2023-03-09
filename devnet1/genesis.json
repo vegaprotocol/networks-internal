@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "UeYa1lFzyiwzunE2f4HGU4JiUYdnlhKFCME6SERdL38=": {
-        "avatar_url": "https://www.gravatar.com/avatar/h71imum45s8ujxh30anx70uf5rwggigg?d=identicon",
-        "country": "WI",
-        "ethereum_address": "0x331EB7a1db12A891D09F3D85F639ACfBFE0E656F",
-        "id": "fc81710662920ef183d1af5b97435ff036850347ad6ec65cac5ee3b1b57d2958",
-        "info_url": "https://en.wikipedia.org/wiki/Galina_Arsenkina",
-        "name": "helpful-biscuit",
-        "tm_pub_key": "UeYa1lFzyiwzunE2f4HGU4JiUYdnlhKFCME6SERdL38=",
-        "vega_pub_key": "c6d53eaed681103a2788d26ca8952f384c7a0d9d2953f1f34d5482e439d4147b",
+      "scGCyIH7fyGdFrzjzuQPwU9xROSyp08CValu3+JO1zY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/4qv1q2g7ky7yy5a6na77548r2i7vu1qs?d=identicon",
+        "country": "AE",
+        "ethereum_address": "0xA90A0eD61aB690B039966b06Aa45007bA7117635",
+        "id": "9ec0278b1ee06d3adc1cfcf9a6d3739836cb035de90a48177e0fb8d73005b83f",
+        "info_url": "https://en.wikipedia.org/wiki/Qaqortuatsiaq",
+        "name": "agitated-mouse",
+        "tm_pub_key": "scGCyIH7fyGdFrzjzuQPwU9xROSyp08CValu3+JO1zY=",
+        "vega_pub_key": "7bf2376b5146cdeffd79d5ac284b30751ee79d1433848bfdeed236866de78f35",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303091611",
+  "chain_id": "vega-devnet1-202303091732",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-09T16:11:49.861472942Z",
+  "genesis_time": "2023-03-09T17:32:36.338782508Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "2617C5A48690ED27DB687CFF4CB341D884C2BE72",
-      "name": "helpful-biscuit",
+      "address": "4C2481011CA6B8A1DC639913AEA41EEFA29A5704",
+      "name": "agitated-mouse",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "UeYa1lFzyiwzunE2f4HGU4JiUYdnlhKFCME6SERdL38="
+        "value": "scGCyIH7fyGdFrzjzuQPwU9xROSyp08CValu3+JO1zY="
       }
     }
   ]
