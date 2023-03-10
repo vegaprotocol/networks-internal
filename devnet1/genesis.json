@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "msKjXd3YugwqrTOgJq2+4LdI4rLP+ND+GqjfNCAUVAw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/1l0tmsqj3rlf5iv0no12eltranojv2sf?d=identicon",
-        "country": "KU",
-        "ethereum_address": "0xe3a024c0165bE63E57285D358FB6A46f7675f945",
-        "id": "6d9ebce80556a717c6b3434a3960e314d1be76cc28ec272731483d943d5df2aa",
-        "info_url": "https://en.wikipedia.org/wiki/Keat_Hwa_High_School",
-        "name": "blue-candle",
-        "tm_pub_key": "msKjXd3YugwqrTOgJq2+4LdI4rLP+ND+GqjfNCAUVAw=",
-        "vega_pub_key": "acef2e30094f22d823c5ce8b2cc2cbda6cd7c3105846012c9269ed9b425d485e",
+      "t2NRo7xofVMRa8twML4r0XYXV/VMYhdmoambxbMkqP8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xvcbqual4f9u0p9lshs9ftwviej9ez9e?d=identicon",
+        "country": "QP",
+        "ethereum_address": "0x41aE22034810930a63745C99EF0e9f5c2f1a3F15",
+        "id": "22d4217dd9136924716c372bbfca30871bcf570586908b3e594207ff540361aa",
+        "info_url": "https://en.wikipedia.org/wiki/Onyekachi_Wambu",
+        "name": "short-mouse",
+        "tm_pub_key": "t2NRo7xofVMRa8twML4r0XYXV/VMYhdmoambxbMkqP8=",
+        "vega_pub_key": "bab10539741d9916017e9728c436314671ec7f1ea49c4f8fd85b5f70aa08cef4",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303101547",
+  "chain_id": "vega-devnet1-202303101702",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-10T15:47:07.917820415Z",
+  "genesis_time": "2023-03-10T17:02:29.5075288Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "8690D720DA76866876D18380CF1581772D9A80A8",
-      "name": "blue-candle",
+      "address": "252F89638F53F46D4CE913F0336D8D2826250AC6",
+      "name": "short-mouse",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "msKjXd3YugwqrTOgJq2+4LdI4rLP+ND+GqjfNCAUVAw="
+        "value": "t2NRo7xofVMRa8twML4r0XYXV/VMYhdmoambxbMkqP8="
       }
     }
   ]
