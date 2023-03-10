@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "TVL9fAaXPLSiQEEQmqUV4Sg0DQuhM/eHxwI28m/XCl4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/wpk6lt7aj3sy63mb7z5lpme4bhzynvlj?d=identicon",
-        "country": "TY",
-        "ethereum_address": "0x4Ac11B6e1f08e363A894C7713f48C751bE849D5A",
-        "id": "f14e69104ca9d35e1c0f06454438f74e89b9f117d9dd26c3cef06b776f09665c",
-        "info_url": "https://en.wikipedia.org/wiki/KPDQ_(AM)",
-        "name": "wrong-baby",
-        "tm_pub_key": "TVL9fAaXPLSiQEEQmqUV4Sg0DQuhM/eHxwI28m/XCl4=",
-        "vega_pub_key": "286c3b61524ebb0053c20fa818d224dfc883deb968f2eb1261f31cbaa2907c35",
+      "nh+vHytaLQDg6nPs3APc0kfgu8Vbt4MZ0WMPz10uULQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/i14zgtxys7ke9dz31at3moa9p437mm1z?d=identicon",
+        "country": "BD",
+        "ethereum_address": "0xF61f407E93e5A6Bd90A319b691B10665f740C2f7",
+        "id": "8271d6e453a4b8e457346195eb6a936da12e7348d00a053bf5f23f8ba9007c15",
+        "info_url": "https://en.wikipedia.org/wiki/Vilnes_Church",
+        "name": "extensive-cloud",
+        "tm_pub_key": "nh+vHytaLQDg6nPs3APc0kfgu8Vbt4MZ0WMPz10uULQ=",
+        "vega_pub_key": "8dd7674477504aab7e9ea76f5f2be7ce27502035eed5f0e9fbe3cdab27734216",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303092353",
+  "chain_id": "vega-devnet1-202303101344",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-09T23:53:53.331157447Z",
+  "genesis_time": "2023-03-10T13:44:25.376841926Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "F6CAD6AB8212FB5C74DD7E71CE8BFE0F0CDA2CB6",
-      "name": "wrong-baby",
+      "address": "3B5457C4CB18F10CE3D89DCA680434049CE86FCC",
+      "name": "extensive-cloud",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "TVL9fAaXPLSiQEEQmqUV4Sg0DQuhM/eHxwI28m/XCl4="
+        "value": "nh+vHytaLQDg6nPs3APc0kfgu8Vbt4MZ0WMPz10uULQ="
       }
     }
   ]
