@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "qfP6wQwNXN11sZ354yGMv+NXVTwyOezdlHQBtA8jTis=": {
-        "avatar_url": "https://www.gravatar.com/avatar/n6dcvgoyfc1cztvqkku7wq9f13qvqcc5?d=identicon",
-        "country": "RO",
-        "ethereum_address": "0x1854B8e4a26146c108e402dc0c1923F28Cfa57d7",
-        "id": "62e0263fd1c5bf8661fe08e40e58e1f523efd5cf57364a26b0c6812ca6e831b5",
-        "info_url": "https://en.wikipedia.org/wiki/Democratic_Party_of_Kazakhstan",
-        "name": "courageous-duck",
-        "tm_pub_key": "qfP6wQwNXN11sZ354yGMv+NXVTwyOezdlHQBtA8jTis=",
-        "vega_pub_key": "bf4a08b9fc9fd0c1468f458c77c40c19dde2fa49ee533c3a830f959c39cb2090",
+      "msKjXd3YugwqrTOgJq2+4LdI4rLP+ND+GqjfNCAUVAw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/1l0tmsqj3rlf5iv0no12eltranojv2sf?d=identicon",
+        "country": "KU",
+        "ethereum_address": "0xe3a024c0165bE63E57285D358FB6A46f7675f945",
+        "id": "6d9ebce80556a717c6b3434a3960e314d1be76cc28ec272731483d943d5df2aa",
+        "info_url": "https://en.wikipedia.org/wiki/Keat_Hwa_High_School",
+        "name": "blue-candle",
+        "tm_pub_key": "msKjXd3YugwqrTOgJq2+4LdI4rLP+ND+GqjfNCAUVAw=",
+        "vega_pub_key": "acef2e30094f22d823c5ce8b2cc2cbda6cd7c3105846012c9269ed9b425d485e",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303101416",
+  "chain_id": "vega-devnet1-202303101547",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-10T14:16:25.21876038Z",
+  "genesis_time": "2023-03-10T15:47:07.917820415Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "A26D68483CC572EE31BCB04683FE2DFCF3CE5964",
-      "name": "courageous-duck",
+      "address": "8690D720DA76866876D18380CF1581772D9A80A8",
+      "name": "blue-candle",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "qfP6wQwNXN11sZ354yGMv+NXVTwyOezdlHQBtA8jTis="
+        "value": "msKjXd3YugwqrTOgJq2+4LdI4rLP+ND+GqjfNCAUVAw="
       }
     }
   ]
