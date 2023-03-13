@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "/nl2E21Ad0beQCwbeNEj0qdki4s3NYDhiL8DF1aBWMQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/4151ftuo7dowp5goigkc3gbbj08tgnuj?d=identicon",
-        "country": "HN",
-        "ethereum_address": "0x50FE5E058f69f688AAe8DA40d6940D58402122cb",
-        "id": "06996988d2079086fb3205422fd663192ebfc96b1665d76b29976c9868dfae7c",
-        "info_url": "https://en.wikipedia.org/wiki/Waihi_Beach",
-        "name": "helpful-hill",
-        "tm_pub_key": "/nl2E21Ad0beQCwbeNEj0qdki4s3NYDhiL8DF1aBWMQ=",
-        "vega_pub_key": "eaa1e0736b9275464d248a17bf442fc3526af021ec776e9032ef4971dbbcd182",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "x1BnxmRM+seGeA3FQcRqUIcCGYa3JeADPxUaggfJMoI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/uqa6lixuoft7z4cczc3awl5by6yznaeh?d=identicon",
+        "country": "TR",
+        "ethereum_address": "0x8d6704A99A83eed9B6c2Cab85b65733165d94213",
+        "id": "f8e00be2212dc2b0f79a0f661dd9a28d758743e6cf41b587fa1af588c1535f27",
+        "info_url": "https://en.wikipedia.org/wiki/Tyler_Cain",
+        "name": "inexpensive-doctor",
+        "tm_pub_key": "x1BnxmRM+seGeA3FQcRqUIcCGYa3JeADPxUaggfJMoI=",
+        "vega_pub_key": "28eb5de82699c30d20f08c5b0ff5360b970c72274542520c57527d2e379f3996",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202303101801",
+  "chain_id": "vega-devnet1-202303131028",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-10T18:01:39.697714959Z",
+  "genesis_time": "2023-03-13T10:28:35.704653892Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "89C993D211F51D97CD968E0FC1967E4DE7F7E999",
-      "name": "helpful-hill",
+      "address": "B40C1A50D859B7B1ACF497EF3D7C1977C165B405",
+      "name": "inexpensive-doctor",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "/nl2E21Ad0beQCwbeNEj0qdki4s3NYDhiL8DF1aBWMQ="
+        "value": "x1BnxmRM+seGeA3FQcRqUIcCGYa3JeADPxUaggfJMoI="
       }
     }
   ]
