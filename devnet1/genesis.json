@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "0GZ6s/fVRYWccaUgFo0cfA+WwG/yYZMgXa4igU1OPeI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/0inyzjafreg7qj89lizkaftei0vv9mpi?d=identicon",
+        "country": "TG",
+        "ethereum_address": "0xda21DF0C357a474E414ad1630DA101DA1D20E52C",
+        "id": "8d1b2c76fe232007b4b53337d09885d1fa5f1dcf5d4e2c21fe1d4863c431987b",
+        "info_url": "https://en.wikipedia.org/wiki/Stewart_Greene",
+        "name": "magnificent-wind",
+        "tm_pub_key": "0GZ6s/fVRYWccaUgFo0cfA+WwG/yYZMgXa4igU1OPeI=",
+        "vega_pub_key": "e60671201fe1be7f7b0bf1545d47a94a53c246f3486ca5151880d1e6622cb7fe",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "x1BnxmRM+seGeA3FQcRqUIcCGYa3JeADPxUaggfJMoI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/uqa6lixuoft7z4cczc3awl5by6yznaeh?d=identicon",
-        "country": "TR",
-        "ethereum_address": "0x8d6704A99A83eed9B6c2Cab85b65733165d94213",
-        "id": "f8e00be2212dc2b0f79a0f661dd9a28d758743e6cf41b587fa1af588c1535f27",
-        "info_url": "https://en.wikipedia.org/wiki/Tyler_Cain",
-        "name": "inexpensive-doctor",
-        "tm_pub_key": "x1BnxmRM+seGeA3FQcRqUIcCGYa3JeADPxUaggfJMoI=",
-        "vega_pub_key": "28eb5de82699c30d20f08c5b0ff5360b970c72274542520c57527d2e379f3996",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202303131028",
+  "chain_id": "vega-devnet1-202303131247",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-13T10:28:35.704653892Z",
+  "genesis_time": "2023-03-13T12:47:16.411197168Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "B40C1A50D859B7B1ACF497EF3D7C1977C165B405",
-      "name": "inexpensive-doctor",
+      "address": "43AC1676D3B95D75C7CA3FD57AAFA3F570CEF38B",
+      "name": "magnificent-wind",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "x1BnxmRM+seGeA3FQcRqUIcCGYa3JeADPxUaggfJMoI="
+        "value": "0GZ6s/fVRYWccaUgFo0cfA+WwG/yYZMgXa4igU1OPeI="
       }
     }
   ]
