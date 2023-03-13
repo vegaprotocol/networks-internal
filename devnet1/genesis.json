@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "3uZe08et6971PFT3Pe+nccs73dR08HRBMbOm9RuHpCw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/26g66m8u4k7nu211edhrrsbu40nmetmc?d=identicon",
-        "country": "LO",
-        "ethereum_address": "0x3e7A26f5ab8207A0e964f0272Af8093Bc56f1f45",
-        "id": "52fbf8091d32a87f4cccb36e3af4d46729d81709dcadbbea6aa3f855366cdcc3",
-        "info_url": "https://en.wikipedia.org/wiki/Joseph_Desler_Costa",
-        "name": "lemon-sheep",
-        "tm_pub_key": "3uZe08et6971PFT3Pe+nccs73dR08HRBMbOm9RuHpCw=",
-        "vega_pub_key": "13864fb38bba3fbc69d7465d00d168f0b129b97bd2e144c72b07ba8fb9569f0a",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "Qbw32tysKHhrNFt5xq/wqeESNG482JypWrWz3urCQt0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/cxjzacrrmkkh3owgdn2x3ob1yzp65rud?d=identicon",
+        "country": "BE",
+        "ethereum_address": "0x39D60a349d5f988A2f4dc9748458aA130eB83468",
+        "id": "155701f8d631ab66f04ab3722acb8975abd623ee0625a8a4225b88690298637d",
+        "info_url": "https://en.wikipedia.org/wiki/Whistl",
+        "name": "lucky-river",
+        "tm_pub_key": "Qbw32tysKHhrNFt5xq/wqeESNG482JypWrWz3urCQt0=",
+        "vega_pub_key": "4e0ca22ecc2f250250f3645a64e3ade42611b30f5f96f10bb4330a669ea19258",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303131513",
+  "chain_id": "vega-devnet1-202303131642",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-13T15:13:08.963723286Z",
+  "genesis_time": "2023-03-13T16:42:03.629765898Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "956F29591B886CD67C59905543325EA16DE14126",
-      "name": "lemon-sheep",
+      "address": "7E283660E15D5B054883D99D0738956B8500CDFC",
+      "name": "lucky-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "3uZe08et6971PFT3Pe+nccs73dR08HRBMbOm9RuHpCw="
+        "value": "Qbw32tysKHhrNFt5xq/wqeESNG482JypWrWz3urCQt0="
       }
     }
   ]
