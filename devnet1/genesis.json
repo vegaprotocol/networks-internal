@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "0GZ6s/fVRYWccaUgFo0cfA+WwG/yYZMgXa4igU1OPeI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/0inyzjafreg7qj89lizkaftei0vv9mpi?d=identicon",
-        "country": "TG",
-        "ethereum_address": "0xda21DF0C357a474E414ad1630DA101DA1D20E52C",
-        "id": "8d1b2c76fe232007b4b53337d09885d1fa5f1dcf5d4e2c21fe1d4863c431987b",
-        "info_url": "https://en.wikipedia.org/wiki/Stewart_Greene",
-        "name": "magnificent-wind",
-        "tm_pub_key": "0GZ6s/fVRYWccaUgFo0cfA+WwG/yYZMgXa4igU1OPeI=",
-        "vega_pub_key": "e60671201fe1be7f7b0bf1545d47a94a53c246f3486ca5151880d1e6622cb7fe",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "XcS+6mOWxd2Q6e2AKdE6cLbPA19EHTgmfwldK9njzPI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xcslq4hmwvu7vizxtxces2ptb15rlzok?d=identicon",
+        "country": "WT",
+        "ethereum_address": "0x33dD828a118C949550b8E1a8543F914c64FE4699",
+        "id": "4d2109f027df8aae107570f8490195c4abba7e0937ac5ccbeeb83a53ff751954",
+        "info_url": "https://en.wikipedia.org/wiki/Palaces_of_Montezuma",
+        "name": "hollow-monkey",
+        "tm_pub_key": "XcS+6mOWxd2Q6e2AKdE6cLbPA19EHTgmfwldK9njzPI=",
+        "vega_pub_key": "6f322db291f165ac34105dc66d8687eec81570569bcbd058cf6ae5f760ed0e9f",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303131247",
+  "chain_id": "vega-devnet1-202303131327",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-13T12:47:16.411197168Z",
+  "genesis_time": "2023-03-13T13:27:24.5728492Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "43AC1676D3B95D75C7CA3FD57AAFA3F570CEF38B",
-      "name": "magnificent-wind",
+      "address": "9DF6F7C9C7C9AB2C11D176563F0E6587F5D5961C",
+      "name": "hollow-monkey",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "0GZ6s/fVRYWccaUgFo0cfA+WwG/yYZMgXa4igU1OPeI="
+        "value": "XcS+6mOWxd2Q6e2AKdE6cLbPA19EHTgmfwldK9njzPI="
       }
     }
   ]
