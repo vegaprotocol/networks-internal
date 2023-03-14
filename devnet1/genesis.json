@@ -302,17 +302,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "csdMlVtN+ZAyPKql8WYeKAE69m+d0dMwmykbf9qIIEk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/9etteftcyypkzwnpiafozsh204vgb2m1?d=identicon",
-        "country": "MI",
-        "ethereum_address": "0xEF8F9A6943C64e288F270032B153dE00240ee944",
-        "id": "3a8f1b0c588b486ba939fce8b7f652bd179675fbd4c78e318c6554cdb106332a",
-        "info_url": "https://en.wikipedia.org/wiki/List_of_gene_prediction_software",
-        "name": "wailing-policeman",
-        "tm_pub_key": "csdMlVtN+ZAyPKql8WYeKAE69m+d0dMwmykbf9qIIEk=",
-        "vega_pub_key": "b4041c69762c54b45977fe0a289648c12c55e95ffe655ed01d8e4c5a7dc56451",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "ug6AhHjhE98sQhmi2Nx6PeGrpwxxN1Hv2xQWpj6U+no=": {
+        "avatar_url": "https://www.gravatar.com/avatar/k64xpe0p9q7bpsor2d0f0j78gghnrr9a?d=identicon",
+        "country": "TM",
+        "ethereum_address": "0xf5424dd870e9313f69aA8A8dE3aF2954EF1C1F77",
+        "id": "e740f46532c52cead63f8f23f6134236fb4f0f16f3d0821e9596e84740303426",
+        "info_url": "https://en.wikipedia.org/wiki/2011_MAC_Championship_Game",
+        "name": "echoing-policeman",
+        "tm_pub_key": "ug6AhHjhE98sQhmi2Nx6PeGrpwxxN1Hv2xQWpj6U+no=",
+        "vega_pub_key": "457a6a6bad1e2b009ac0a607b4e191708376418fcd21da313208ed2bd077922d",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202303141018",
+  "chain_id": "vega-devnet1-202303141131",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-14T10:18:52.217352965Z",
+  "genesis_time": "2023-03-14T11:31:11.460126457Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "9EE12EC938B886511E84AC8C1CCEA1F1B9BA8721",
-      "name": "wailing-policeman",
+      "address": "47809F7729914986863E4212FBFF45B92727F5C5",
+      "name": "echoing-policeman",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "csdMlVtN+ZAyPKql8WYeKAE69m+d0dMwmykbf9qIIEk="
+        "value": "ug6AhHjhE98sQhmi2Nx6PeGrpwxxN1Hv2xQWpj6U+no="
       }
     }
   ]
