@@ -280,17 +280,6 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
-      "BCGzTKpONAWCVTT+ANxivUBi+Pco1VZJuVVN0lw75sg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ufciarzri8npqmr32tkzlx1fkok241zj?d=identicon",
-        "country": "SF",
-        "ethereum_address": "0x9dC881a279dD38911464Cd7064f78670016E06FC",
-        "id": "2f6c95dc26dbd0b334794243835248dcf72e2adfc21ea3cafe467f75a42d0a53",
-        "info_url": "https://en.wikipedia.org/wiki/Seven_Sisters_station",
-        "name": "foolish-shoe",
-        "tm_pub_key": "BCGzTKpONAWCVTT+ANxivUBi+Pco1VZJuVVN0lw75sg=",
-        "vega_pub_key": "64542e8fa8667f529bf67ad5c4e0e9e70ed07dff44d9154fe4a3ae9068a055c6",
-        "vega_pub_key_index": 1
-      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "csdMlVtN+ZAyPKql8WYeKAE69m+d0dMwmykbf9qIIEk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/9etteftcyypkzwnpiafozsh204vgb2m1?d=identicon",
+        "country": "MI",
+        "ethereum_address": "0xEF8F9A6943C64e288F270032B153dE00240ee944",
+        "id": "3a8f1b0c588b486ba939fce8b7f652bd179675fbd4c78e318c6554cdb106332a",
+        "info_url": "https://en.wikipedia.org/wiki/List_of_gene_prediction_software",
+        "name": "wailing-policeman",
+        "tm_pub_key": "csdMlVtN+ZAyPKql8WYeKAE69m+d0dMwmykbf9qIIEk=",
+        "vega_pub_key": "b4041c69762c54b45977fe0a289648c12c55e95ffe655ed01d8e4c5a7dc56451",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303131739",
+  "chain_id": "vega-devnet1-202303141018",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-13T17:39:46.413472981Z",
+  "genesis_time": "2023-03-14T10:18:52.217352965Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "CD8BADA621C43B37CD6F571ECA26E3AE62DA108D",
-      "name": "foolish-shoe",
+      "address": "9EE12EC938B886511E84AC8C1CCEA1F1B9BA8721",
+      "name": "wailing-policeman",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "BCGzTKpONAWCVTT+ANxivUBi+Pco1VZJuVVN0lw75sg="
+        "value": "csdMlVtN+ZAyPKql8WYeKAE69m+d0dMwmykbf9qIIEk="
       }
     }
   ]
