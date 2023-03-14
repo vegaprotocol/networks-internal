@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "MBexpuQ1D38erb1EzzFZ4LiUFHWdPt8wt7ouuf9aFw0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/g05s7lfecq60peszx3jxxq74nmcnm9gz?d=identicon",
-        "country": "DG",
-        "ethereum_address": "0x63c139A85f7178E46abe5C9D640b8112eD822fe1",
-        "id": "8f33a8f00e42619b72ae970997909def369e7c8d341f5626b43fd2afef33ab26",
-        "info_url": "https://en.wikipedia.org/wiki/Bruce_Centre_(provincial_electoral_district)",
-        "name": "crashing-duck",
-        "tm_pub_key": "MBexpuQ1D38erb1EzzFZ4LiUFHWdPt8wt7ouuf9aFw0=",
-        "vega_pub_key": "2a4056a5ecc57b9b4c7bebb81b635552c1297d1ba9ca17c42da1f0a507ecdafb",
+      "SuBJy5FJaGCkjIRGDcgoUp2Iu/XQGqWhDlaKW/7VJwI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/1pkeingpkb0nzlq6mjjvl7fuok21n8eg?d=identicon",
+        "country": "QM",
+        "ethereum_address": "0x94BF36FD7a978c88229905bEFb2668f62B904C0f",
+        "id": "c41158162f6023e92a3a0115b072b7eb4947088dd97b1332978c7b4ecfa366bc",
+        "info_url": "https://en.wikipedia.org/wiki/Forbes_County",
+        "name": "easy-teacher",
+        "tm_pub_key": "SuBJy5FJaGCkjIRGDcgoUp2Iu/XQGqWhDlaKW/7VJwI=",
+        "vega_pub_key": "d560c184f7416302a23f1f1b9012e0797087973f449f63a0f5a9a1e0a92b56e1",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303141641",
+  "chain_id": "vega-devnet1-202303141739",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-14T16:41:58.49722208Z",
+  "genesis_time": "2023-03-14T17:39:38.797369258Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "C2BE8EA2F0D110B435365A79D1153F09D43E3ABE",
-      "name": "crashing-duck",
+      "address": "313B69E5FC91C4A36E444FD0615E8A0847B0D7EB",
+      "name": "easy-teacher",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "MBexpuQ1D38erb1EzzFZ4LiUFHWdPt8wt7ouuf9aFw0="
+        "value": "SuBJy5FJaGCkjIRGDcgoUp2Iu/XQGqWhDlaKW/7VJwI="
       }
     }
   ]
