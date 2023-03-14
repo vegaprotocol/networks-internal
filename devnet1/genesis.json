@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "84ja06/UmiDYnvQgcDD3UKqiGTySVoQBxyQzYsHlo0c=": {
+        "avatar_url": "https://www.gravatar.com/avatar/rdpqu5hqaomxj7u1qwl2a2gza0y0mcat?d=identicon",
+        "country": "QF",
+        "ethereum_address": "0x3a3e724F46785E5e0824083C2F822264C343E6F7",
+        "id": "e7686d80c7fa88c27556e98c5f870b06c869bef00131bad4424dc3e8a2be41bc",
+        "info_url": "https://en.wikipedia.org/wiki/Blessing_the_Children_International",
+        "name": "quiet-fan",
+        "tm_pub_key": "84ja06/UmiDYnvQgcDD3UKqiGTySVoQBxyQzYsHlo0c=",
+        "vega_pub_key": "0f6f2e8c9b72e87eb5ce6e56b2ef70511a99db305b0ce1cc9502c7ad2db957b0",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "ug6AhHjhE98sQhmi2Nx6PeGrpwxxN1Hv2xQWpj6U+no=": {
-        "avatar_url": "https://www.gravatar.com/avatar/k64xpe0p9q7bpsor2d0f0j78gghnrr9a?d=identicon",
-        "country": "TM",
-        "ethereum_address": "0xf5424dd870e9313f69aA8A8dE3aF2954EF1C1F77",
-        "id": "e740f46532c52cead63f8f23f6134236fb4f0f16f3d0821e9596e84740303426",
-        "info_url": "https://en.wikipedia.org/wiki/2011_MAC_Championship_Game",
-        "name": "echoing-policeman",
-        "tm_pub_key": "ug6AhHjhE98sQhmi2Nx6PeGrpwxxN1Hv2xQWpj6U+no=",
-        "vega_pub_key": "457a6a6bad1e2b009ac0a607b4e191708376418fcd21da313208ed2bd077922d",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202303141131",
+  "chain_id": "vega-devnet1-202303141530",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-14T11:31:11.460126457Z",
+  "genesis_time": "2023-03-14T15:30:53.015758603Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "47809F7729914986863E4212FBFF45B92727F5C5",
-      "name": "echoing-policeman",
+      "address": "ABFD375F3FB8B8E2EF7FB1ACE1EFC4EC79C4CF18",
+      "name": "quiet-fan",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ug6AhHjhE98sQhmi2Nx6PeGrpwxxN1Hv2xQWpj6U+no="
+        "value": "84ja06/UmiDYnvQgcDD3UKqiGTySVoQBxyQzYsHlo0c="
       }
     }
   ]
