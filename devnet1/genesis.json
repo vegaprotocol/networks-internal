@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "SuBJy5FJaGCkjIRGDcgoUp2Iu/XQGqWhDlaKW/7VJwI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/1pkeingpkb0nzlq6mjjvl7fuok21n8eg?d=identicon",
-        "country": "QM",
-        "ethereum_address": "0x94BF36FD7a978c88229905bEFb2668f62B904C0f",
-        "id": "c41158162f6023e92a3a0115b072b7eb4947088dd97b1332978c7b4ecfa366bc",
-        "info_url": "https://en.wikipedia.org/wiki/Forbes_County",
-        "name": "easy-teacher",
-        "tm_pub_key": "SuBJy5FJaGCkjIRGDcgoUp2Iu/XQGqWhDlaKW/7VJwI=",
-        "vega_pub_key": "d560c184f7416302a23f1f1b9012e0797087973f449f63a0f5a9a1e0a92b56e1",
+      "JpN0BRbFdaZvL2K6OKdcMlzmCagukhqoRE9ggKD0cvs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/751ts0a409kr34y3tt326a22r91oe4zz?d=identicon",
+        "country": "QW",
+        "ethereum_address": "0xe6a8C09dBad0614a5c2ECCACfc5657E3aaF82ee3",
+        "id": "646a8fabdf12f9e135e4bffbce394ef2e956ac38a5dd7edcad99df806c69164f",
+        "info_url": "https://en.wikipedia.org/wiki/Hussain_Sharif",
+        "name": "magnificent-pickle",
+        "tm_pub_key": "JpN0BRbFdaZvL2K6OKdcMlzmCagukhqoRE9ggKD0cvs=",
+        "vega_pub_key": "5703ff5f48f2c9e12b95c00bb5061fc61fcec4ff588626abb60807309acd8216",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303141842",
+  "chain_id": "vega-devnet1-202303142104",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-14T18:42:02.481670674Z",
+  "genesis_time": "2023-03-14T21:04:38.886903361Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "313B69E5FC91C4A36E444FD0615E8A0847B0D7EB",
-      "name": "easy-teacher",
+      "address": "B479527E486AC199C20019DC905113BB471FFA2C",
+      "name": "magnificent-pickle",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "SuBJy5FJaGCkjIRGDcgoUp2Iu/XQGqWhDlaKW/7VJwI="
+        "value": "JpN0BRbFdaZvL2K6OKdcMlzmCagukhqoRE9ggKD0cvs="
       }
     }
   ]
