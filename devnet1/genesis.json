@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "84ja06/UmiDYnvQgcDD3UKqiGTySVoQBxyQzYsHlo0c=": {
-        "avatar_url": "https://www.gravatar.com/avatar/rdpqu5hqaomxj7u1qwl2a2gza0y0mcat?d=identicon",
-        "country": "QF",
-        "ethereum_address": "0x3a3e724F46785E5e0824083C2F822264C343E6F7",
-        "id": "e7686d80c7fa88c27556e98c5f870b06c869bef00131bad4424dc3e8a2be41bc",
-        "info_url": "https://en.wikipedia.org/wiki/Blessing_the_Children_International",
-        "name": "quiet-fan",
-        "tm_pub_key": "84ja06/UmiDYnvQgcDD3UKqiGTySVoQBxyQzYsHlo0c=",
-        "vega_pub_key": "0f6f2e8c9b72e87eb5ce6e56b2ef70511a99db305b0ce1cc9502c7ad2db957b0",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "MBexpuQ1D38erb1EzzFZ4LiUFHWdPt8wt7ouuf9aFw0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/g05s7lfecq60peszx3jxxq74nmcnm9gz?d=identicon",
+        "country": "DG",
+        "ethereum_address": "0x63c139A85f7178E46abe5C9D640b8112eD822fe1",
+        "id": "8f33a8f00e42619b72ae970997909def369e7c8d341f5626b43fd2afef33ab26",
+        "info_url": "https://en.wikipedia.org/wiki/Bruce_Centre_(provincial_electoral_district)",
+        "name": "crashing-duck",
+        "tm_pub_key": "MBexpuQ1D38erb1EzzFZ4LiUFHWdPt8wt7ouuf9aFw0=",
+        "vega_pub_key": "2a4056a5ecc57b9b4c7bebb81b635552c1297d1ba9ca17c42da1f0a507ecdafb",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303141530",
+  "chain_id": "vega-devnet1-202303141641",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-14T15:30:53.015758603Z",
+  "genesis_time": "2023-03-14T16:41:58.49722208Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "ABFD375F3FB8B8E2EF7FB1ACE1EFC4EC79C4CF18",
-      "name": "quiet-fan",
+      "address": "C2BE8EA2F0D110B435365A79D1153F09D43E3ABE",
+      "name": "crashing-duck",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "84ja06/UmiDYnvQgcDD3UKqiGTySVoQBxyQzYsHlo0c="
+        "value": "MBexpuQ1D38erb1EzzFZ4LiUFHWdPt8wt7ouuf9aFw0="
       }
     }
   ]
