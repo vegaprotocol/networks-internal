@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "9M6ixWxAwlf0MfDUXyRgxAhG/eMfQQMoTs3oyTqz+BE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/qxdtioqx7h4j33q3jqpzclo1n0h8o08m?d=identicon",
+        "country": "GI",
+        "ethereum_address": "0xc1e2d4a1e2e5956555dDa127b016eC7F8236378A",
+        "id": "46ff69d431dd0513df03e0b0189b404540aa836d9671e0c7f442343f7f44806b",
+        "info_url": "https://en.wikipedia.org/wiki/1975_Campeonato_Paulista",
+        "name": "dizzy-fan",
+        "tm_pub_key": "9M6ixWxAwlf0MfDUXyRgxAhG/eMfQQMoTs3oyTqz+BE=",
+        "vega_pub_key": "c749179405dc094ad36654bfc3ee76475a9ec6c17d94642777f64c56bac5d833",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "maPqvl7qkXN8J9RZaeypbVXMvOX47VIgM1L+15G13LQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/3nxqv0sz76q90y8ghphdkgkhcmy88leo?d=identicon",
-        "country": "YQ",
-        "ethereum_address": "0x04C35719749B07b3cF6Da982Ee6F268431Fa2f9d",
-        "id": "212c4fbbadac641ccbe49d669f8206ad168008bbdecafe1a5c62d0465a8cec1d",
-        "info_url": "https://en.wikipedia.org/wiki/Murphy_Prototypes",
-        "name": "determined-bat",
-        "tm_pub_key": "maPqvl7qkXN8J9RZaeypbVXMvOX47VIgM1L+15G13LQ=",
-        "vega_pub_key": "8c2417db10a97983d83cfffc1eb8ed0c8c0599474a4574e69b5b508ae0264353",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303151508",
+  "chain_id": "vega-devnet1-202303151631",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-15T15:08:08.249497355Z",
+  "genesis_time": "2023-03-15T16:31:09.945857785Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "A2A8D9E347708CBC7073C98570DF65DAA555BF0F",
-      "name": "determined-bat",
+      "address": "0841A174D49E0EDDC577AA19CCFD08263AFEB3CC",
+      "name": "dizzy-fan",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "maPqvl7qkXN8J9RZaeypbVXMvOX47VIgM1L+15G13LQ="
+        "value": "9M6ixWxAwlf0MfDUXyRgxAhG/eMfQQMoTs3oyTqz+BE="
       }
     }
   ]
