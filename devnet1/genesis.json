@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "JpN0BRbFdaZvL2K6OKdcMlzmCagukhqoRE9ggKD0cvs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/751ts0a409kr34y3tt326a22r91oe4zz?d=identicon",
-        "country": "QW",
-        "ethereum_address": "0xe6a8C09dBad0614a5c2ECCACfc5657E3aaF82ee3",
-        "id": "646a8fabdf12f9e135e4bffbce394ef2e956ac38a5dd7edcad99df806c69164f",
-        "info_url": "https://en.wikipedia.org/wiki/Hussain_Sharif",
-        "name": "magnificent-pickle",
-        "tm_pub_key": "JpN0BRbFdaZvL2K6OKdcMlzmCagukhqoRE9ggKD0cvs=",
-        "vega_pub_key": "5703ff5f48f2c9e12b95c00bb5061fc61fcec4ff588626abb60807309acd8216",
+      "t+FJP8RFT/MngzgywhJczdohZe0N6aBs02z3Czmhk8M=": {
+        "avatar_url": "https://www.gravatar.com/avatar/38vmd7pbba0k2huce4l6z6wxdo382iw1?d=identicon",
+        "country": "OI",
+        "ethereum_address": "0x5F178e5f8f1a13f5CFaAdf14D3755b50d58c8ee2",
+        "id": "fdc7863b1238682f4493b125c6ca3607a8144bf163b78d12004a71125ea223ec",
+        "info_url": "https://en.wikipedia.org/wiki/David_Grubbs",
+        "name": "orange-spoon",
+        "tm_pub_key": "t+FJP8RFT/MngzgywhJczdohZe0N6aBs02z3Czmhk8M=",
+        "vega_pub_key": "9a377ddd43a373dc7b11613a2774bf56768b77af968c4759707bc699b8459de7",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303142104",
+  "chain_id": "vega-devnet1-202303151018",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-14T21:04:38.886903361Z",
+  "genesis_time": "2023-03-15T10:18:56.537085692Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "B479527E486AC199C20019DC905113BB471FFA2C",
-      "name": "magnificent-pickle",
+      "address": "216BBF3D36C9FA59644ABC4130F29185BDF0B5CF",
+      "name": "orange-spoon",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "JpN0BRbFdaZvL2K6OKdcMlzmCagukhqoRE9ggKD0cvs="
+        "value": "t+FJP8RFT/MngzgywhJczdohZe0N6aBs02z3Czmhk8M="
       }
     }
   ]
