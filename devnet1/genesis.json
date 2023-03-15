@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "2Q9Rh5JmKq57Q5MFUUvpGEs+ai/FwvNRYhaygYg6vl0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/rv0nhla20i0tq8qfrde8rvyq6z2pgk06?d=identicon",
+        "country": "PU",
+        "ethereum_address": "0xe03657B692D829af168FF007A1832644618c35E4",
+        "id": "690378f917f5bfc1894f5860f39e40b394888211a74c89aedc8017c84d619dd7",
+        "info_url": "https://en.wikipedia.org/wiki/1995_Dutch_TT",
+        "name": "magnificent-roof",
+        "tm_pub_key": "2Q9Rh5JmKq57Q5MFUUvpGEs+ai/FwvNRYhaygYg6vl0=",
+        "vega_pub_key": "333ce080afabca8410e9ff23ab8fbdf114252d00b05f3b71b4f128ffd38a6721",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "Q1C4kEmUa/UOYpSYEFBhiiIeKEuuXLCPjGYiHiiXfsA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/q2i8w78biavpi76eegypb5mf1nn8al19?d=identicon",
-        "country": "QV",
-        "ethereum_address": "0xAb50F9a1565Fbe90a0cAf83De6d1bc5239D1FB2c",
-        "id": "de4b02e984dcc3f02ad9fbab102133f038817994e8a8aeb2d574d57cc6a02d8d",
-        "info_url": "https://en.wikipedia.org/wiki/Chris_Reed_(figure_skater)",
-        "name": "whining-cookie",
-        "tm_pub_key": "Q1C4kEmUa/UOYpSYEFBhiiIeKEuuXLCPjGYiHiiXfsA=",
-        "vega_pub_key": "8a327ae9ff70f6ba5f32a79987d4e63aaa96d99d47ee8b7c653ffce8bc730c91",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303151148",
+  "chain_id": "vega-devnet1-202303151226",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-15T11:48:13.01793273Z",
+  "genesis_time": "2023-03-15T12:26:21.808266581Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "820F0DB7DB3E1DB6705A09C1705DDCB531B62BAB",
-      "name": "whining-cookie",
+      "address": "ECF1F60716410C12DD5EC307DBDA422070490142",
+      "name": "magnificent-roof",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Q1C4kEmUa/UOYpSYEFBhiiIeKEuuXLCPjGYiHiiXfsA="
+        "value": "2Q9Rh5JmKq57Q5MFUUvpGEs+ai/FwvNRYhaygYg6vl0="
       }
     }
   ]
