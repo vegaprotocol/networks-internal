@@ -269,15 +269,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "2Q9Rh5JmKq57Q5MFUUvpGEs+ai/FwvNRYhaygYg6vl0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/rv0nhla20i0tq8qfrde8rvyq6z2pgk06?d=identicon",
-        "country": "PU",
-        "ethereum_address": "0xe03657B692D829af168FF007A1832644618c35E4",
-        "id": "690378f917f5bfc1894f5860f39e40b394888211a74c89aedc8017c84d619dd7",
-        "info_url": "https://en.wikipedia.org/wiki/1995_Dutch_TT",
-        "name": "magnificent-roof",
-        "tm_pub_key": "2Q9Rh5JmKq57Q5MFUUvpGEs+ai/FwvNRYhaygYg6vl0=",
-        "vega_pub_key": "333ce080afabca8410e9ff23ab8fbdf114252d00b05f3b71b4f128ffd38a6721",
+      "8Hs3okUmxvhWUgcYLN8vLF2kWqQGD/H5I+n+epwkTIs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ag67mll74qg86r5l1uy72mljcrvjiuc7?d=identicon",
+        "country": "KB",
+        "ethereum_address": "0x8bF7900866F6E84020d3CB40f96652318feF39a1",
+        "id": "8a8d5fb6a71e628757358577732c0cfdfd94fb5007802e002ca9738ce233e51b",
+        "info_url": "https://en.wikipedia.org/wiki/(24)7.ai",
+        "name": "faint-farmer",
+        "tm_pub_key": "8Hs3okUmxvhWUgcYLN8vLF2kWqQGD/H5I+n+epwkTIs=",
+        "vega_pub_key": "476c112161f55b641aec8d00e1b73db95b790074906990c34a9ec3a44431ac38",
         "vega_pub_key_index": 1
       },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303151226",
+  "chain_id": "vega-devnet1-202303151301",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-15T12:26:21.808266581Z",
+  "genesis_time": "2023-03-15T13:01:44.855599517Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "ECF1F60716410C12DD5EC307DBDA422070490142",
-      "name": "magnificent-roof",
+      "address": "F1D81C41B65113D7D370AAC7C973197AEB7FF381",
+      "name": "faint-farmer",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "2Q9Rh5JmKq57Q5MFUUvpGEs+ai/FwvNRYhaygYg6vl0="
+        "value": "8Hs3okUmxvhWUgcYLN8vLF2kWqQGD/H5I+n+epwkTIs="
       }
     }
   ]
