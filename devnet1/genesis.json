@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "t+FJP8RFT/MngzgywhJczdohZe0N6aBs02z3Czmhk8M=": {
-        "avatar_url": "https://www.gravatar.com/avatar/38vmd7pbba0k2huce4l6z6wxdo382iw1?d=identicon",
-        "country": "OI",
-        "ethereum_address": "0x5F178e5f8f1a13f5CFaAdf14D3755b50d58c8ee2",
-        "id": "fdc7863b1238682f4493b125c6ca3607a8144bf163b78d12004a71125ea223ec",
-        "info_url": "https://en.wikipedia.org/wiki/David_Grubbs",
-        "name": "orange-spoon",
-        "tm_pub_key": "t+FJP8RFT/MngzgywhJczdohZe0N6aBs02z3Czmhk8M=",
-        "vega_pub_key": "9a377ddd43a373dc7b11613a2774bf56768b77af968c4759707bc699b8459de7",
+      "Q1C4kEmUa/UOYpSYEFBhiiIeKEuuXLCPjGYiHiiXfsA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/q2i8w78biavpi76eegypb5mf1nn8al19?d=identicon",
+        "country": "QV",
+        "ethereum_address": "0xAb50F9a1565Fbe90a0cAf83De6d1bc5239D1FB2c",
+        "id": "de4b02e984dcc3f02ad9fbab102133f038817994e8a8aeb2d574d57cc6a02d8d",
+        "info_url": "https://en.wikipedia.org/wiki/Chris_Reed_(figure_skater)",
+        "name": "whining-cookie",
+        "tm_pub_key": "Q1C4kEmUa/UOYpSYEFBhiiIeKEuuXLCPjGYiHiiXfsA=",
+        "vega_pub_key": "8a327ae9ff70f6ba5f32a79987d4e63aaa96d99d47ee8b7c653ffce8bc730c91",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303151018",
+  "chain_id": "vega-devnet1-202303151148",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-15T10:18:56.537085692Z",
+  "genesis_time": "2023-03-15T11:48:13.01793273Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "216BBF3D36C9FA59644ABC4130F29185BDF0B5CF",
-      "name": "orange-spoon",
+      "address": "820F0DB7DB3E1DB6705A09C1705DDCB531B62BAB",
+      "name": "whining-cookie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "t+FJP8RFT/MngzgywhJczdohZe0N6aBs02z3Czmhk8M="
+        "value": "Q1C4kEmUa/UOYpSYEFBhiiIeKEuuXLCPjGYiHiiXfsA="
       }
     }
   ]
