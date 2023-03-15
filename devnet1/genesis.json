@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "9M6ixWxAwlf0MfDUXyRgxAhG/eMfQQMoTs3oyTqz+BE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/qxdtioqx7h4j33q3jqpzclo1n0h8o08m?d=identicon",
-        "country": "GI",
-        "ethereum_address": "0xc1e2d4a1e2e5956555dDa127b016eC7F8236378A",
-        "id": "46ff69d431dd0513df03e0b0189b404540aa836d9671e0c7f442343f7f44806b",
-        "info_url": "https://en.wikipedia.org/wiki/1975_Campeonato_Paulista",
-        "name": "dizzy-fan",
-        "tm_pub_key": "9M6ixWxAwlf0MfDUXyRgxAhG/eMfQQMoTs3oyTqz+BE=",
-        "vega_pub_key": "c749179405dc094ad36654bfc3ee76475a9ec6c17d94642777f64c56bac5d833",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "agHXxN6h2TPg/WZYqw9gUpVK4mMbdH7D8oyek0eDw+U=": {
+        "avatar_url": "https://www.gravatar.com/avatar/hcw8ayqwbpdy1hxtjzl4jlg36wm4k78c?d=identicon",
+        "country": "GA",
+        "ethereum_address": "0xd043E37694b9C0dD1bBef47C2E96914ea9D809ac",
+        "id": "ae5415d629111c324083bff1946bfecb87a30e1be070feaa092a6d24d0ca8f20",
+        "info_url": "https://en.wikipedia.org/wiki/Edwin_Markham",
+        "name": "magnificent-phone",
+        "tm_pub_key": "agHXxN6h2TPg/WZYqw9gUpVK4mMbdH7D8oyek0eDw+U=",
+        "vega_pub_key": "c8845b31e12282cfbddcc2bba19e7a3e13bafe9392a5f225edc352622ebf5dc4",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303151631",
+  "chain_id": "vega-devnet1-202303151803",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-15T16:31:09.945857785Z",
+  "genesis_time": "2023-03-15T18:03:49.541336483Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "0841A174D49E0EDDC577AA19CCFD08263AFEB3CC",
-      "name": "dizzy-fan",
+      "address": "0CB15CDDE6FE88382CD02E3C48DECE96F809DCAF",
+      "name": "magnificent-phone",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "9M6ixWxAwlf0MfDUXyRgxAhG/eMfQQMoTs3oyTqz+BE="
+        "value": "agHXxN6h2TPg/WZYqw9gUpVK4mMbdH7D8oyek0eDw+U="
       }
     }
   ]
