@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "8Hs3okUmxvhWUgcYLN8vLF2kWqQGD/H5I+n+epwkTIs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ag67mll74qg86r5l1uy72mljcrvjiuc7?d=identicon",
-        "country": "KB",
-        "ethereum_address": "0x8bF7900866F6E84020d3CB40f96652318feF39a1",
-        "id": "8a8d5fb6a71e628757358577732c0cfdfd94fb5007802e002ca9738ce233e51b",
-        "info_url": "https://en.wikipedia.org/wiki/(24)7.ai",
-        "name": "faint-farmer",
-        "tm_pub_key": "8Hs3okUmxvhWUgcYLN8vLF2kWqQGD/H5I+n+epwkTIs=",
-        "vega_pub_key": "476c112161f55b641aec8d00e1b73db95b790074906990c34a9ec3a44431ac38",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "maPqvl7qkXN8J9RZaeypbVXMvOX47VIgM1L+15G13LQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/3nxqv0sz76q90y8ghphdkgkhcmy88leo?d=identicon",
+        "country": "YQ",
+        "ethereum_address": "0x04C35719749B07b3cF6Da982Ee6F268431Fa2f9d",
+        "id": "212c4fbbadac641ccbe49d669f8206ad168008bbdecafe1a5c62d0465a8cec1d",
+        "info_url": "https://en.wikipedia.org/wiki/Murphy_Prototypes",
+        "name": "determined-bat",
+        "tm_pub_key": "maPqvl7qkXN8J9RZaeypbVXMvOX47VIgM1L+15G13LQ=",
+        "vega_pub_key": "8c2417db10a97983d83cfffc1eb8ed0c8c0599474a4574e69b5b508ae0264353",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303151347",
+  "chain_id": "vega-devnet1-202303151508",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-15T13:47:37.104016585Z",
+  "genesis_time": "2023-03-15T15:08:08.249497355Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "F1D81C41B65113D7D370AAC7C973197AEB7FF381",
-      "name": "faint-farmer",
+      "address": "A2A8D9E347708CBC7073C98570DF65DAA555BF0F",
+      "name": "determined-bat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "8Hs3okUmxvhWUgcYLN8vLF2kWqQGD/H5I+n+epwkTIs="
+        "value": "maPqvl7qkXN8J9RZaeypbVXMvOX47VIgM1L+15G13LQ="
       }
     }
   ]
