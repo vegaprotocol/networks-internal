@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "1rFhC9JZKNHwdx36HcRHWNUJyiNt29odwFI/8KpYiCw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/7g72q86u6g5s4va2k0c6dmaqzk9ju74s?d=identicon",
-        "country": "UO",
-        "ethereum_address": "0xc61876c7007C1d42Ad812eb9A934825DD791f98D",
-        "id": "2e1201a5e4812af2deecf099a77a946a6ffe38d5d21e03114ee2fb3a7af4365e",
-        "info_url": "https://en.wikipedia.org/wiki/Pierre_Simon_Jaillot",
-        "name": "funny-swing",
-        "tm_pub_key": "1rFhC9JZKNHwdx36HcRHWNUJyiNt29odwFI/8KpYiCw=",
-        "vega_pub_key": "5832e36e2da2565458bb45818e61f7fcb62b3272f13921893507f3ca028f02f8",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "Jii9E1OBbBBAKpDediaE2F1JTAlku5ile5gAPvSV46Y=": {
+        "avatar_url": "https://www.gravatar.com/avatar/866numpui6dg948gcb2wtc4bf6d6i75n?d=identicon",
+        "country": "NI",
+        "ethereum_address": "0x5A4cebcd1B500553d8f7ecf9b5F461C939241D36",
+        "id": "eec0404d2f8dbf2302bdee8dd993578c5f28be19c41d371bd67a8609fee787cb",
+        "info_url": "https://en.wikipedia.org/wiki/Piotta,_Switzerland",
+        "name": "funny-sister",
+        "tm_pub_key": "Jii9E1OBbBBAKpDediaE2F1JTAlku5ile5gAPvSV46Y=",
+        "vega_pub_key": "6724126096c783f1b357cb747b49b71bb4f0e3a0f9784cd925ae63ac311ae99f",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303160001",
+  "chain_id": "vega-devnet1-202303161004",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-16T00:01:30.117630081Z",
+  "genesis_time": "2023-03-16T10:04:40.864706509Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "AED3088FA0E070E412B24DD2C0437C07F22095BB",
-      "name": "funny-swing",
+      "address": "DC79110EB7BB238CAC0DE66DFC73E7175E97C26C",
+      "name": "funny-sister",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "1rFhC9JZKNHwdx36HcRHWNUJyiNt29odwFI/8KpYiCw="
+        "value": "Jii9E1OBbBBAKpDediaE2F1JTAlku5ile5gAPvSV46Y="
       }
     }
   ]
