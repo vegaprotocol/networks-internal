@@ -291,6 +291,17 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
+      "DW6DD5ai1ONz7NR+BQ4krhaFT/VIougr1ZBFBbuVsvk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/7q3sgyo0kmzb89ql4hcvbf2d0w16leki?d=identicon",
+        "country": "YN",
+        "ethereum_address": "0x5eE3e75EAE9229C5BCc97908DB7a125E4a34eF8B",
+        "id": "8e9beaaf98f56943945a6e6a2bb8bb39583ea317a9c4cceeb108e9d964d8fd44",
+        "info_url": "https://en.wikipedia.org/wiki/BR_Caprotti_Black_Fives",
+        "name": "purple-roof",
+        "tm_pub_key": "DW6DD5ai1ONz7NR+BQ4krhaFT/VIougr1ZBFBbuVsvk=",
+        "vega_pub_key": "c2a3da75e5e58c9e9081141f6a9a444704ff332b2d1310998bd1c2eb7a1c1049",
+        "vega_pub_key_index": 1
+      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -300,17 +311,6 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
-        "vega_pub_key_index": 1
-      },
-      "qb/XItDAhrw4klln/6JmHSivFI8ZB4qDWfzP8XTivOw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/diuf9zu43z7cf3ox88qs7j80o6lmt1g7?d=identicon",
-        "country": "ZY",
-        "ethereum_address": "0xa849ddb4fbfd7C6A01bB7A9CfCc61058d28CB3b0",
-        "id": "ed0d8f70ed7113663dd31d20c778989367da38bcd9f22a896a96d8aaf991146a",
-        "info_url": "https://en.wikipedia.org/wiki/Driver_Friendly",
-        "name": "unsightly-milk",
-        "tm_pub_key": "qb/XItDAhrw4klln/6JmHSivFI8ZB4qDWfzP8XTivOw=",
-        "vega_pub_key": "e5fffff6ff29884e7797da05423c3eaf19cbd2a15e2be7e32d28d14f606cec61",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303161848",
+  "chain_id": "vega-devnet1-202303161932",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-16T18:48:51.250936521Z",
+  "genesis_time": "2023-03-16T19:32:41.973137181Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "065A5504E52E742C87DD0A3932DEDB6D8E0A028B",
-      "name": "unsightly-milk",
+      "address": "A32D80E8740339DE2B0558400506A76E43DD59EE",
+      "name": "purple-roof",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "qb/XItDAhrw4klln/6JmHSivFI8ZB4qDWfzP8XTivOw="
+        "value": "DW6DD5ai1ONz7NR+BQ4krhaFT/VIougr1ZBFBbuVsvk="
       }
     }
   ]
