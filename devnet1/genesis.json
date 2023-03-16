@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "Jii9E1OBbBBAKpDediaE2F1JTAlku5ile5gAPvSV46Y=": {
-        "avatar_url": "https://www.gravatar.com/avatar/866numpui6dg948gcb2wtc4bf6d6i75n?d=identicon",
-        "country": "NI",
-        "ethereum_address": "0x5A4cebcd1B500553d8f7ecf9b5F461C939241D36",
-        "id": "eec0404d2f8dbf2302bdee8dd993578c5f28be19c41d371bd67a8609fee787cb",
-        "info_url": "https://en.wikipedia.org/wiki/Piotta,_Switzerland",
-        "name": "funny-sister",
-        "tm_pub_key": "Jii9E1OBbBBAKpDediaE2F1JTAlku5ile5gAPvSV46Y=",
-        "vega_pub_key": "6724126096c783f1b357cb747b49b71bb4f0e3a0f9784cd925ae63ac311ae99f",
+      "UVd+a8hi29oXpI9pWIYTYtdhnqqFY+7h782xyJxB5aY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/1rw0ylb2whyhpltnvk0jd9y4zkqnbrhn?d=identicon",
+        "country": "JA",
+        "ethereum_address": "0x4a37F9eF9bA97Beb48155A10Fe437f13e46828e7",
+        "id": "890f29e8a01c9a873db961661b31aea779a5837c8ea3103ba07b1eea2757cf12",
+        "info_url": "https://en.wikipedia.org/wiki/Portugal_in_the_Middle_Ages",
+        "name": "narrow-month",
+        "tm_pub_key": "UVd+a8hi29oXpI9pWIYTYtdhnqqFY+7h782xyJxB5aY=",
+        "vega_pub_key": "a67ae7b3a2bfd31ea1537b87edb6cdd10530ec4860a6bfe822211b8e26044120",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303161041",
+  "chain_id": "vega-devnet1-202303161206",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-16T10:41:05.850729898Z",
+  "genesis_time": "2023-03-16T12:06:41.855546487Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "DC79110EB7BB238CAC0DE66DFC73E7175E97C26C",
-      "name": "funny-sister",
+      "address": "CDE61989DC2BB61C363CD7E2A3B41B3CE6E32366",
+      "name": "narrow-month",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Jii9E1OBbBBAKpDediaE2F1JTAlku5ile5gAPvSV46Y="
+        "value": "UVd+a8hi29oXpI9pWIYTYtdhnqqFY+7h782xyJxB5aY="
       }
     }
   ]
