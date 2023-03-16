@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "X7AUDzESsBTGclH4XDfIyFSss3+HUTKWzoQxYBrsjTA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/f8hmb8lesp8wacrg4hdr40q3v96zpilj?d=identicon",
-        "country": "UA",
-        "ethereum_address": "0xf946e3bB8D996cD887acA26ca5543694A751f969",
-        "id": "495d1e029aabb4943805573e0e8f0036d570ec53209e7e293fc7b5045dc1ad43",
-        "info_url": "https://en.wikipedia.org/wiki/1989%E2%80%9390_NK_Rijeka_season",
-        "name": "quaint-fisherman",
-        "tm_pub_key": "X7AUDzESsBTGclH4XDfIyFSss3+HUTKWzoQxYBrsjTA=",
-        "vega_pub_key": "e802fa09c7cca017ee105de18285b06954f0f12ce6cd8275f3e45287c47d909b",
+      "qb/XItDAhrw4klln/6JmHSivFI8ZB4qDWfzP8XTivOw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/diuf9zu43z7cf3ox88qs7j80o6lmt1g7?d=identicon",
+        "country": "ZY",
+        "ethereum_address": "0xa849ddb4fbfd7C6A01bB7A9CfCc61058d28CB3b0",
+        "id": "ed0d8f70ed7113663dd31d20c778989367da38bcd9f22a896a96d8aaf991146a",
+        "info_url": "https://en.wikipedia.org/wiki/Driver_Friendly",
+        "name": "unsightly-milk",
+        "tm_pub_key": "qb/XItDAhrw4klln/6JmHSivFI8ZB4qDWfzP8XTivOw=",
+        "vega_pub_key": "e5fffff6ff29884e7797da05423c3eaf19cbd2a15e2be7e32d28d14f606cec61",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303161606",
+  "chain_id": "vega-devnet1-202303161848",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-16T16:06:34.372682699Z",
+  "genesis_time": "2023-03-16T18:48:51.250936521Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "1D55F33D883B50D7B6E5EABA7ECF4390C102A48A",
-      "name": "quaint-fisherman",
+      "address": "065A5504E52E742C87DD0A3932DEDB6D8E0A028B",
+      "name": "unsightly-milk",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "X7AUDzESsBTGclH4XDfIyFSss3+HUTKWzoQxYBrsjTA="
+        "value": "qb/XItDAhrw4klln/6JmHSivFI8ZB4qDWfzP8XTivOw="
       }
     }
   ]
