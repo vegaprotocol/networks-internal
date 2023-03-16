@@ -302,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "X7AUDzESsBTGclH4XDfIyFSss3+HUTKWzoQxYBrsjTA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/f8hmb8lesp8wacrg4hdr40q3v96zpilj?d=identicon",
+        "country": "UA",
+        "ethereum_address": "0xf946e3bB8D996cD887acA26ca5543694A751f969",
+        "id": "495d1e029aabb4943805573e0e8f0036d570ec53209e7e293fc7b5045dc1ad43",
+        "info_url": "https://en.wikipedia.org/wiki/1989%E2%80%9390_NK_Rijeka_season",
+        "name": "quaint-fisherman",
+        "tm_pub_key": "X7AUDzESsBTGclH4XDfIyFSss3+HUTKWzoQxYBrsjTA=",
+        "vega_pub_key": "e802fa09c7cca017ee105de18285b06954f0f12ce6cd8275f3e45287c47d909b",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "wzD4VspgIpj3n64NC0g5Nbew2ell6Knc1V6MkknK44I=": {
-        "avatar_url": "https://www.gravatar.com/avatar/6m3qze4657vds1u7oqxud8wd7leemwd6?d=identicon",
-        "country": "QI",
-        "ethereum_address": "0xc120d9a6Ad0a8F35E6A3c76662604E4805c311e4",
-        "id": "af4a724d5515f7347b2ffe0b29b4d0afecbee45f3b98532863e74eae01a7191a",
-        "info_url": "https://en.wikipedia.org/wiki/Kijewo_Kr%C3%B3lewskie",
-        "name": "inexpensive-window",
-        "tm_pub_key": "wzD4VspgIpj3n64NC0g5Nbew2ell6Knc1V6MkknK44I=",
-        "vega_pub_key": "ac5bb16d1e2466f0f64e6a000e0b3a0be86a7fe309629ca5345a2216c249bed0",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202303161404",
+  "chain_id": "vega-devnet1-202303161606",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-16T14:04:25.189699072Z",
+  "genesis_time": "2023-03-16T16:06:34.372682699Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "7F5E5554E99027B3B1B4667EF3C9401324215BB3",
-      "name": "inexpensive-window",
+      "address": "1D55F33D883B50D7B6E5EABA7ECF4390C102A48A",
+      "name": "quaint-fisherman",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "wzD4VspgIpj3n64NC0g5Nbew2ell6Knc1V6MkknK44I="
+        "value": "X7AUDzESsBTGclH4XDfIyFSss3+HUTKWzoQxYBrsjTA="
       }
     }
   ]
