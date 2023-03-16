@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "1rFhC9JZKNHwdx36HcRHWNUJyiNt29odwFI/8KpYiCw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/7g72q86u6g5s4va2k0c6dmaqzk9ju74s?d=identicon",
+        "country": "UO",
+        "ethereum_address": "0xc61876c7007C1d42Ad812eb9A934825DD791f98D",
+        "id": "2e1201a5e4812af2deecf099a77a946a6ffe38d5d21e03114ee2fb3a7af4365e",
+        "info_url": "https://en.wikipedia.org/wiki/Pierre_Simon_Jaillot",
+        "name": "funny-swing",
+        "tm_pub_key": "1rFhC9JZKNHwdx36HcRHWNUJyiNt29odwFI/8KpYiCw=",
+        "vega_pub_key": "5832e36e2da2565458bb45818e61f7fcb62b3272f13921893507f3ca028f02f8",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "agHXxN6h2TPg/WZYqw9gUpVK4mMbdH7D8oyek0eDw+U=": {
-        "avatar_url": "https://www.gravatar.com/avatar/hcw8ayqwbpdy1hxtjzl4jlg36wm4k78c?d=identicon",
-        "country": "GA",
-        "ethereum_address": "0xd043E37694b9C0dD1bBef47C2E96914ea9D809ac",
-        "id": "ae5415d629111c324083bff1946bfecb87a30e1be070feaa092a6d24d0ca8f20",
-        "info_url": "https://en.wikipedia.org/wiki/Edwin_Markham",
-        "name": "magnificent-phone",
-        "tm_pub_key": "agHXxN6h2TPg/WZYqw9gUpVK4mMbdH7D8oyek0eDw+U=",
-        "vega_pub_key": "c8845b31e12282cfbddcc2bba19e7a3e13bafe9392a5f225edc352622ebf5dc4",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303151803",
+  "chain_id": "vega-devnet1-202303160001",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-15T18:03:49.541336483Z",
+  "genesis_time": "2023-03-16T00:01:30.117630081Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "0CB15CDDE6FE88382CD02E3C48DECE96F809DCAF",
-      "name": "magnificent-phone",
+      "address": "AED3088FA0E070E412B24DD2C0437C07F22095BB",
+      "name": "funny-swing",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "agHXxN6h2TPg/WZYqw9gUpVK4mMbdH7D8oyek0eDw+U="
+        "value": "1rFhC9JZKNHwdx36HcRHWNUJyiNt29odwFI/8KpYiCw="
       }
     }
   ]
