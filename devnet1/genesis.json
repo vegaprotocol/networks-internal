@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "pJhWTQJNglW9A5othd+L8p1nsqJEmoofcijy4I9N7qo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/yksi9xws9i97zhqwojnoqen8u6xlqvz8?d=identicon",
-        "country": "GR",
-        "ethereum_address": "0x883b8E07d6cBf33a630A880aDe3125bb8C5Ee346",
-        "id": "c86754c63973108556a6384c08a5fd14f6f6d3bf108872d3724650eadd1b063e",
-        "info_url": "https://en.wikipedia.org/wiki/Yellow-footed_gull",
-        "name": "quaint-swing",
-        "tm_pub_key": "pJhWTQJNglW9A5othd+L8p1nsqJEmoofcijy4I9N7qo=",
-        "vega_pub_key": "7716773468c406ddf7aa926e44c84220f5a877ce347d03f5aed03dcd15e01626",
+      "eIXupU38e2mMyGO3fs4AJ7wz5JxYCwgPpRRotSqT5Ho=": {
+        "avatar_url": "https://www.gravatar.com/avatar/6d2c3exms1mw5d32mmvve6nyv7dysql7?d=identicon",
+        "country": "TI",
+        "ethereum_address": "0x6FEEa8904e5CfDA14F9149c7A1A4109845B8E4E7",
+        "id": "52362ad9368b68c2c4636b4a8deef266894cffa69cf08f1594a3420533e2be20",
+        "info_url": "https://en.wikipedia.org/wiki/Rota_(architecture)",
+        "name": "powerful-key",
+        "tm_pub_key": "eIXupU38e2mMyGO3fs4AJ7wz5JxYCwgPpRRotSqT5Ho=",
+        "vega_pub_key": "612a1dda755be3bc3d364ea154f4546b4c5e207b2061968021ada32b28d36436",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303171343",
+  "chain_id": "vega-devnet1-202303171607",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-17T13:43:24.188358621Z",
+  "genesis_time": "2023-03-17T16:07:45.558806921Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "8B18C96CCEF316D0A9D9FAC2ABA5508790D108AB",
-      "name": "quaint-swing",
+      "address": "E283108F128C1596E7FE302540186605066B29EC",
+      "name": "powerful-key",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "pJhWTQJNglW9A5othd+L8p1nsqJEmoofcijy4I9N7qo="
+        "value": "eIXupU38e2mMyGO3fs4AJ7wz5JxYCwgPpRRotSqT5Ho="
       }
     }
   ]
