@@ -291,17 +291,6 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
-      "DW6DD5ai1ONz7NR+BQ4krhaFT/VIougr1ZBFBbuVsvk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/7q3sgyo0kmzb89ql4hcvbf2d0w16leki?d=identicon",
-        "country": "YN",
-        "ethereum_address": "0x5eE3e75EAE9229C5BCc97908DB7a125E4a34eF8B",
-        "id": "8e9beaaf98f56943945a6e6a2bb8bb39583ea317a9c4cceeb108e9d964d8fd44",
-        "info_url": "https://en.wikipedia.org/wiki/BR_Caprotti_Black_Fives",
-        "name": "purple-roof",
-        "tm_pub_key": "DW6DD5ai1ONz7NR+BQ4krhaFT/VIougr1ZBFBbuVsvk=",
-        "vega_pub_key": "c2a3da75e5e58c9e9081141f6a9a444704ff332b2d1310998bd1c2eb7a1c1049",
-        "vega_pub_key_index": 1
-      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -311,6 +300,17 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
+        "vega_pub_key_index": 1
+      },
+      "OYJH5edfsODyYWfrAbPg5FDno4mydzh8PdJ02ch45HE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/6d975tawd5y8u8xm7bnajsgxpyczva92?d=identicon",
+        "country": "HP",
+        "ethereum_address": "0x8805246b65073a5859Ca5e4191a0bE3B2443a326",
+        "id": "a9ccc1ed37be53ba32be4f33ae7ed5778d84c48f383f49cdb58cfa313248f3bd",
+        "info_url": "https://en.wikipedia.org/wiki/Atherigona",
+        "name": "helpless-building",
+        "tm_pub_key": "OYJH5edfsODyYWfrAbPg5FDno4mydzh8PdJ02ch45HE=",
+        "vega_pub_key": "aea0827062e746d0e8c4287a8e233878af91f36af482e110e78427fde0397a88",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303161932",
+  "chain_id": "vega-devnet1-202303171014",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-16T19:32:41.973137181Z",
+  "genesis_time": "2023-03-17T10:14:22.606786966Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "A32D80E8740339DE2B0558400506A76E43DD59EE",
-      "name": "purple-roof",
+      "address": "87B23FA3C3B6708A32B4E88B41AFDCB54FD14493",
+      "name": "helpless-building",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "DW6DD5ai1ONz7NR+BQ4krhaFT/VIougr1ZBFBbuVsvk="
+        "value": "OYJH5edfsODyYWfrAbPg5FDno4mydzh8PdJ02ch45HE="
       }
     }
   ]
