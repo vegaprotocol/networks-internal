@@ -291,6 +291,17 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
+      "HX5rx8SrtKFVAWW29MNVCQsHxMwZfMS+XViza4V8VcU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/2ll795ot0a03ioq4aoawsgrv5odgmyde?d=identicon",
+        "country": "SW",
+        "ethereum_address": "0xA7C484eF7008fF4CcE7F53a249A5A1FB830f6FDb",
+        "id": "785a5c16eb2b703fba823420ebffb7ab274cb29c4a411c34f017b085c1bd7682",
+        "info_url": "https://en.wikipedia.org/wiki/Tom_Fisher_(1960s_pitcher)",
+        "name": "mango-monkey",
+        "tm_pub_key": "HX5rx8SrtKFVAWW29MNVCQsHxMwZfMS+XViza4V8VcU=",
+        "vega_pub_key": "f6ec21ece6142e2098879c7ecc375c4b48c6215b6e5b69a45de89cea4cab43f2",
+        "vega_pub_key_index": 1
+      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -300,17 +311,6 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
-        "vega_pub_key_index": 1
-      },
-      "OYJH5edfsODyYWfrAbPg5FDno4mydzh8PdJ02ch45HE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/6d975tawd5y8u8xm7bnajsgxpyczva92?d=identicon",
-        "country": "HP",
-        "ethereum_address": "0x8805246b65073a5859Ca5e4191a0bE3B2443a326",
-        "id": "a9ccc1ed37be53ba32be4f33ae7ed5778d84c48f383f49cdb58cfa313248f3bd",
-        "info_url": "https://en.wikipedia.org/wiki/Atherigona",
-        "name": "helpless-building",
-        "tm_pub_key": "OYJH5edfsODyYWfrAbPg5FDno4mydzh8PdJ02ch45HE=",
-        "vega_pub_key": "aea0827062e746d0e8c4287a8e233878af91f36af482e110e78427fde0397a88",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303171047",
+  "chain_id": "vega-devnet1-202303171149",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-17T10:47:45.971438097Z",
+  "genesis_time": "2023-03-17T11:49:34.43227618Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "87B23FA3C3B6708A32B4E88B41AFDCB54FD14493",
-      "name": "helpless-building",
+      "address": "1C54D9152211BEFCB80B26BF338A95546D0D472A",
+      "name": "mango-monkey",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "OYJH5edfsODyYWfrAbPg5FDno4mydzh8PdJ02ch45HE="
+        "value": "HX5rx8SrtKFVAWW29MNVCQsHxMwZfMS+XViza4V8VcU="
       }
     }
   ]
