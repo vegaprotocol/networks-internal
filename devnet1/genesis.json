@@ -291,17 +291,6 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
-      "HX5rx8SrtKFVAWW29MNVCQsHxMwZfMS+XViza4V8VcU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/2ll795ot0a03ioq4aoawsgrv5odgmyde?d=identicon",
-        "country": "SW",
-        "ethereum_address": "0xA7C484eF7008fF4CcE7F53a249A5A1FB830f6FDb",
-        "id": "785a5c16eb2b703fba823420ebffb7ab274cb29c4a411c34f017b085c1bd7682",
-        "info_url": "https://en.wikipedia.org/wiki/Tom_Fisher_(1960s_pitcher)",
-        "name": "mango-monkey",
-        "tm_pub_key": "HX5rx8SrtKFVAWW29MNVCQsHxMwZfMS+XViza4V8VcU=",
-        "vega_pub_key": "f6ec21ece6142e2098879c7ecc375c4b48c6215b6e5b69a45de89cea4cab43f2",
-        "vega_pub_key_index": 1
-      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -311,6 +300,17 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
+        "vega_pub_key_index": 1
+      },
+      "pJhWTQJNglW9A5othd+L8p1nsqJEmoofcijy4I9N7qo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/yksi9xws9i97zhqwojnoqen8u6xlqvz8?d=identicon",
+        "country": "GR",
+        "ethereum_address": "0x883b8E07d6cBf33a630A880aDe3125bb8C5Ee346",
+        "id": "c86754c63973108556a6384c08a5fd14f6f6d3bf108872d3724650eadd1b063e",
+        "info_url": "https://en.wikipedia.org/wiki/Yellow-footed_gull",
+        "name": "quaint-swing",
+        "tm_pub_key": "pJhWTQJNglW9A5othd+L8p1nsqJEmoofcijy4I9N7qo=",
+        "vega_pub_key": "7716773468c406ddf7aa926e44c84220f5a877ce347d03f5aed03dcd15e01626",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303171149",
+  "chain_id": "vega-devnet1-202303171343",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-17T11:49:34.43227618Z",
+  "genesis_time": "2023-03-17T13:43:24.188358621Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "1C54D9152211BEFCB80B26BF338A95546D0D472A",
-      "name": "mango-monkey",
+      "address": "8B18C96CCEF316D0A9D9FAC2ABA5508790D108AB",
+      "name": "quaint-swing",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "HX5rx8SrtKFVAWW29MNVCQsHxMwZfMS+XViza4V8VcU="
+        "value": "pJhWTQJNglW9A5othd+L8p1nsqJEmoofcijy4I9N7qo="
       }
     }
   ]
