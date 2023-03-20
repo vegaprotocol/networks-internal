@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "37+cj5rW93F58D/0qah390VBDuiAESKIgtg+SQ4lFp4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/243hnykk3sxe1vszmyz5al76irc8yjpt?d=identicon",
+        "country": "KL",
+        "ethereum_address": "0xE01B4F2981611E67EdeA26106721CC38a87eC6c0",
+        "id": "2fc68b656dc84e391394eaeff81c069721147f8ca79bc54cd62d3635e94508fd",
+        "info_url": "https://en.wikipedia.org/wiki/Frank_A._Armstrong",
+        "name": "gifted-train",
+        "tm_pub_key": "37+cj5rW93F58D/0qah390VBDuiAESKIgtg+SQ4lFp4=",
+        "vega_pub_key": "7b7bd18095a788e4a84df6be15b4e6f6d466efaad8d196f60034987b72c4bdf2",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "sB5shZSekmXYALveyqCMH+LRoRCOUfB49Hj1Ic+PNJg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/30jkxb6b6c0r32k3w6xr5wvtdian0c3s?d=identicon",
-        "country": "PC",
-        "ethereum_address": "0xB9277ea80eF22944B5AFF6E4beA12952908D5BdE",
-        "id": "9f852a71cfe38fb215a1a10f3b5c2eaa5c3e4a0fc08793a8c5d3e92ce1ab73f9",
-        "info_url": "https://en.wikipedia.org/wiki/Skerry,_New_York",
-        "name": "exuberant-lake",
-        "tm_pub_key": "sB5shZSekmXYALveyqCMH+LRoRCOUfB49Hj1Ic+PNJg=",
-        "vega_pub_key": "d69a59e58450b3a0b34d87f582b7f2779517e9c7b3b55161cff9dd4e9e7e8f29",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303201003",
+  "chain_id": "vega-devnet1-202303201230",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-20T10:03:23.792224212Z",
+  "genesis_time": "2023-03-20T12:30:28.733723675Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "54BEF1C1021CF67BFB663EF7256E3D36D67E8E34",
-      "name": "exuberant-lake",
+      "address": "5A1EB26ADBA5A5B8DA43271736D4702C2A6E0192",
+      "name": "gifted-train",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "sB5shZSekmXYALveyqCMH+LRoRCOUfB49Hj1Ic+PNJg="
+        "value": "37+cj5rW93F58D/0qah390VBDuiAESKIgtg+SQ4lFp4="
       }
     }
   ]
