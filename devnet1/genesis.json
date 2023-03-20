@@ -291,6 +291,17 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
+      "G/G23qVbT07pS9A3LI55YZWb5LhozSyTRZf5xeD+WwM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/j8f8cgp28iwlj6r5rf2sz209oruzz5tj?d=identicon",
+        "country": "XG",
+        "ethereum_address": "0x6955D531E3aB25eCf8C141E7C4be6A2aF9E17E6C",
+        "id": "2a717771f498d961c4bfe6ac1f5f44be9e5d4b0d316163d16584dacc5a25990f",
+        "info_url": "https://en.wikipedia.org/wiki/Baranomys_kowalskii",
+        "name": "ideal-window",
+        "tm_pub_key": "G/G23qVbT07pS9A3LI55YZWb5LhozSyTRZf5xeD+WwM=",
+        "vega_pub_key": "e45f223f4086ad5d52629b4a597ae56b69d358251f6252e6b422e718154c6adf",
+        "vega_pub_key_index": 1
+      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -300,17 +311,6 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
-        "vega_pub_key_index": 1
-      },
-      "NyQ+IyVNPDbYXK7qujtRASB7OTUJxqAVOeQamuvt6/s=": {
-        "avatar_url": "https://www.gravatar.com/avatar/wjb7jh8j4rl44y2ccrpgx856m1nuqqgp?d=identicon",
-        "country": "RE",
-        "ethereum_address": "0x9E10C87617328e0071EC4236752a06D05ABD1459",
-        "id": "b5207c1501398574b293da8929428a865f78b1b3668e0ca410d8f9848c2037dd",
-        "info_url": "https://en.wikipedia.org/wiki/Dick_Curtis_(boxer)",
-        "name": "scruffy-town",
-        "tm_pub_key": "NyQ+IyVNPDbYXK7qujtRASB7OTUJxqAVOeQamuvt6/s=",
-        "vega_pub_key": "91aeb113aa08724e78ec5f17923c4c938bd8ab1cb00333744cebf94fca1a30b7",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303201402",
+  "chain_id": "vega-devnet1-202303201541",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-20T14:02:50.409747334Z",
+  "genesis_time": "2023-03-20T15:41:11.809589397Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "276C0A8DA2128A8970C4CEB96CB8846C65053688",
-      "name": "scruffy-town",
+      "address": "D336EE44747707E79915B0B0DE67B17991F2720F",
+      "name": "ideal-window",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "NyQ+IyVNPDbYXK7qujtRASB7OTUJxqAVOeQamuvt6/s="
+        "value": "G/G23qVbT07pS9A3LI55YZWb5LhozSyTRZf5xeD+WwM="
       }
     }
   ]
