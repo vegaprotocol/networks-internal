@@ -291,17 +291,6 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
-      "Hyue29FbjRaZXfrQsLZcweB1uAFeG3voJKMxtjvwdmA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ltz9cq5nnyl7msbdlc3zbka9d1w28tlh?d=identicon",
-        "country": "WN",
-        "ethereum_address": "0x2797a4E90E1bA5D686bB8B801352fE0651e068c5",
-        "id": "9e5d9412f6146ca26e4fe24e0cb4e5479302203db0d8acc3aa734070784414f8",
-        "info_url": "https://en.wikipedia.org/wiki/Athletics_at_the_1955_Pan_American_Games_%E2%80%93_Women%27s_100_metres",
-        "name": "important-vacuum",
-        "tm_pub_key": "Hyue29FbjRaZXfrQsLZcweB1uAFeG3voJKMxtjvwdmA=",
-        "vega_pub_key": "3e523d3f3dfdf000f6277fa6bdaf0c4314ae361dad442c67cb42b43a8288d410",
-        "vega_pub_key_index": 1
-      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -311,6 +300,17 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
+        "vega_pub_key_index": 1
+      },
+      "sB5shZSekmXYALveyqCMH+LRoRCOUfB49Hj1Ic+PNJg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/30jkxb6b6c0r32k3w6xr5wvtdian0c3s?d=identicon",
+        "country": "PC",
+        "ethereum_address": "0xB9277ea80eF22944B5AFF6E4beA12952908D5BdE",
+        "id": "9f852a71cfe38fb215a1a10f3b5c2eaa5c3e4a0fc08793a8c5d3e92ce1ab73f9",
+        "info_url": "https://en.wikipedia.org/wiki/Skerry,_New_York",
+        "name": "exuberant-lake",
+        "tm_pub_key": "sB5shZSekmXYALveyqCMH+LRoRCOUfB49Hj1Ic+PNJg=",
+        "vega_pub_key": "d69a59e58450b3a0b34d87f582b7f2779517e9c7b3b55161cff9dd4e9e7e8f29",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303181130",
+  "chain_id": "vega-devnet1-202303201003",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-18T11:30:06.858496255Z",
+  "genesis_time": "2023-03-20T10:03:23.792224212Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "44AB4A90ADBFAA6AB7B680995A958D21BA253DF0",
-      "name": "important-vacuum",
+      "address": "54BEF1C1021CF67BFB663EF7256E3D36D67E8E34",
+      "name": "exuberant-lake",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Hyue29FbjRaZXfrQsLZcweB1uAFeG3voJKMxtjvwdmA="
+        "value": "sB5shZSekmXYALveyqCMH+LRoRCOUfB49Hj1Ic+PNJg="
       }
     }
   ]
