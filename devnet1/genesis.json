@@ -269,15 +269,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "37+cj5rW93F58D/0qah390VBDuiAESKIgtg+SQ4lFp4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/243hnykk3sxe1vszmyz5al76irc8yjpt?d=identicon",
-        "country": "KL",
-        "ethereum_address": "0xE01B4F2981611E67EdeA26106721CC38a87eC6c0",
-        "id": "2fc68b656dc84e391394eaeff81c069721147f8ca79bc54cd62d3635e94508fd",
-        "info_url": "https://en.wikipedia.org/wiki/Frank_A._Armstrong",
-        "name": "gifted-train",
-        "tm_pub_key": "37+cj5rW93F58D/0qah390VBDuiAESKIgtg+SQ4lFp4=",
-        "vega_pub_key": "7b7bd18095a788e4a84df6be15b4e6f6d466efaad8d196f60034987b72c4bdf2",
+      "7XcQPoLPGWnCq009f1U8fH7HFciCrUZTN+QmRwdlte0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/zshatof38p2no5mdd6w7um5d9otktcyq?d=identicon",
+        "country": "WG",
+        "ethereum_address": "0x853E3807d21849D5ac137fb8446B652663aa49F3",
+        "id": "dd02b463bf9e94f8dff2bcdf3dd668072e8ac50d78957fc63d4477537f78bed8",
+        "info_url": "https://en.wikipedia.org/wiki/Virbia_opella",
+        "name": "lovely-mango",
+        "tm_pub_key": "7XcQPoLPGWnCq009f1U8fH7HFciCrUZTN+QmRwdlte0=",
+        "vega_pub_key": "754e5a9dda3721c75b3e7db4bd958970dbb17b42c7b1786f1ea0a73a676402c8",
         "vega_pub_key_index": 1
       },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303201230",
+  "chain_id": "vega-devnet1-202303201302",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-20T12:30:28.733723675Z",
+  "genesis_time": "2023-03-20T13:02:15.076676119Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "5A1EB26ADBA5A5B8DA43271736D4702C2A6E0192",
-      "name": "gifted-train",
+      "address": "D37334B5510CE458B15A794E154CEFE1FB2E7260",
+      "name": "lovely-mango",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "37+cj5rW93F58D/0qah390VBDuiAESKIgtg+SQ4lFp4="
+        "value": "7XcQPoLPGWnCq009f1U8fH7HFciCrUZTN+QmRwdlte0="
       }
     }
   ]
