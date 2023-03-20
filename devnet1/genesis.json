@@ -269,15 +269,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "82LkoJ/YFukYW0qsBDkmHqF+112p2mlhoh5eiRR6yNI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/41bc4d0yewoipzz3ou6ksmdwsttuawch?d=identicon",
-        "country": "BI",
-        "ethereum_address": "0x0856989de6375c159642e6a660DD55DEBBF8fa0D",
-        "id": "f5a1072da3dc4bda59c7b38dabd80e3eaee5c54d8979249e81608f7cce777e06",
-        "info_url": "https://en.wikipedia.org/wiki/Butane_(data_page)",
-        "name": "disturbed-cat",
-        "tm_pub_key": "82LkoJ/YFukYW0qsBDkmHqF+112p2mlhoh5eiRR6yNI=",
-        "vega_pub_key": "836c69c485b926e0159a21d4cf2bb40f4ad49ade67805b4d8babaed8a9d3e4cf",
+      "/9dkkofg7gvfRQDTsh+Zif/q9XDkZutcizjiFyDrKfY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ttd96smdrrlcv1wjzxhetcuhnt4wsoix?d=identicon",
+        "country": "NU",
+        "ethereum_address": "0x27AEf9fb7Ced650aEAaea6519B865923a7892cD6",
+        "id": "41e69b1aadbd9a0d355a55f3d154a9b4ba14dd35eededfdc0fcae7c2860e7031",
+        "info_url": "https://en.wikipedia.org/wiki/Dimchevo",
+        "name": "glorious-shoe",
+        "tm_pub_key": "/9dkkofg7gvfRQDTsh+Zif/q9XDkZutcizjiFyDrKfY=",
+        "vega_pub_key": "c5497663c9d218197c44a0126d8a1fc51dd1e34dfc6a7f32a133309f6912d3dc",
         "vega_pub_key_index": 1
       },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303201942",
+  "chain_id": "vega-devnet1-202303202031",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-20T19:42:17.359791366Z",
+  "genesis_time": "2023-03-20T20:31:59.653983437Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "4B36E327EEA7B8E37B2E6BAC6AD189EF173BB367",
-      "name": "disturbed-cat",
+      "address": "1A5634B5769431A2D768DBC02B5DD6CA9B73EC6A",
+      "name": "glorious-shoe",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "82LkoJ/YFukYW0qsBDkmHqF+112p2mlhoh5eiRR6yNI="
+        "value": "/9dkkofg7gvfRQDTsh+Zif/q9XDkZutcizjiFyDrKfY="
       }
     }
   ]
