@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "7XcQPoLPGWnCq009f1U8fH7HFciCrUZTN+QmRwdlte0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/zshatof38p2no5mdd6w7um5d9otktcyq?d=identicon",
-        "country": "WG",
-        "ethereum_address": "0x853E3807d21849D5ac137fb8446B652663aa49F3",
-        "id": "dd02b463bf9e94f8dff2bcdf3dd668072e8ac50d78957fc63d4477537f78bed8",
-        "info_url": "https://en.wikipedia.org/wiki/Virbia_opella",
-        "name": "lovely-mango",
-        "tm_pub_key": "7XcQPoLPGWnCq009f1U8fH7HFciCrUZTN+QmRwdlte0=",
-        "vega_pub_key": "754e5a9dda3721c75b3e7db4bd958970dbb17b42c7b1786f1ea0a73a676402c8",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "NyQ+IyVNPDbYXK7qujtRASB7OTUJxqAVOeQamuvt6/s=": {
+        "avatar_url": "https://www.gravatar.com/avatar/wjb7jh8j4rl44y2ccrpgx856m1nuqqgp?d=identicon",
+        "country": "RE",
+        "ethereum_address": "0x9E10C87617328e0071EC4236752a06D05ABD1459",
+        "id": "b5207c1501398574b293da8929428a865f78b1b3668e0ca410d8f9848c2037dd",
+        "info_url": "https://en.wikipedia.org/wiki/Dick_Curtis_(boxer)",
+        "name": "scruffy-town",
+        "tm_pub_key": "NyQ+IyVNPDbYXK7qujtRASB7OTUJxqAVOeQamuvt6/s=",
+        "vega_pub_key": "91aeb113aa08724e78ec5f17923c4c938bd8ab1cb00333744cebf94fca1a30b7",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303201302",
+  "chain_id": "vega-devnet1-202303201402",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-20T13:02:15.076676119Z",
+  "genesis_time": "2023-03-20T14:02:50.409747334Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "D37334B5510CE458B15A794E154CEFE1FB2E7260",
-      "name": "lovely-mango",
+      "address": "276C0A8DA2128A8970C4CEB96CB8846C65053688",
+      "name": "scruffy-town",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "7XcQPoLPGWnCq009f1U8fH7HFciCrUZTN+QmRwdlte0="
+        "value": "NyQ+IyVNPDbYXK7qujtRASB7OTUJxqAVOeQamuvt6/s="
       }
     }
   ]
