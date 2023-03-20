@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "82LkoJ/YFukYW0qsBDkmHqF+112p2mlhoh5eiRR6yNI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/41bc4d0yewoipzz3ou6ksmdwsttuawch?d=identicon",
+        "country": "BI",
+        "ethereum_address": "0x0856989de6375c159642e6a660DD55DEBBF8fa0D",
+        "id": "f5a1072da3dc4bda59c7b38dabd80e3eaee5c54d8979249e81608f7cce777e06",
+        "info_url": "https://en.wikipedia.org/wiki/Butane_(data_page)",
+        "name": "disturbed-cat",
+        "tm_pub_key": "82LkoJ/YFukYW0qsBDkmHqF+112p2mlhoh5eiRR6yNI=",
+        "vega_pub_key": "836c69c485b926e0159a21d4cf2bb40f4ad49ade67805b4d8babaed8a9d3e4cf",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -289,17 +300,6 @@
         "name": "friendly-barber",
         "tm_pub_key": "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=",
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
-        "vega_pub_key_index": 1
-      },
-      "G/G23qVbT07pS9A3LI55YZWb5LhozSyTRZf5xeD+WwM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/j8f8cgp28iwlj6r5rf2sz209oruzz5tj?d=identicon",
-        "country": "XG",
-        "ethereum_address": "0x6955D531E3aB25eCf8C141E7C4be6A2aF9E17E6C",
-        "id": "2a717771f498d961c4bfe6ac1f5f44be9e5d4b0d316163d16584dacc5a25990f",
-        "info_url": "https://en.wikipedia.org/wiki/Baranomys_kowalskii",
-        "name": "ideal-window",
-        "tm_pub_key": "G/G23qVbT07pS9A3LI55YZWb5LhozSyTRZf5xeD+WwM=",
-        "vega_pub_key": "e45f223f4086ad5d52629b4a597ae56b69d358251f6252e6b422e718154c6adf",
         "vega_pub_key_index": 1
       },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303201541",
+  "chain_id": "vega-devnet1-202303201942",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-20T15:41:11.809589397Z",
+  "genesis_time": "2023-03-20T19:42:17.359791366Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "D336EE44747707E79915B0B0DE67B17991F2720F",
-      "name": "ideal-window",
+      "address": "4B36E327EEA7B8E37B2E6BAC6AD189EF173BB367",
+      "name": "disturbed-cat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "G/G23qVbT07pS9A3LI55YZWb5LhozSyTRZf5xeD+WwM="
+        "value": "82LkoJ/YFukYW0qsBDkmHqF+112p2mlhoh5eiRR6yNI="
       }
     }
   ]
