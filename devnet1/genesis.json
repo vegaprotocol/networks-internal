@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "3z2OziwWfUkIPAcakvb1m4N+k4EqoAIO8lay00oxm8k=": {
-        "avatar_url": "https://www.gravatar.com/avatar/9rhnmrpikc6a1bingroy5v76yhtbu74x?d=identicon",
-        "country": "RX",
-        "ethereum_address": "0x5989C6A59C8b6B904975b4D56Ac6441192F10d93",
-        "id": "1cdb62516008fb4db797209fefcb3919b2f3c71fc0b272532bc54b0ed785a77a",
-        "info_url": "https://en.wikipedia.org/wiki/Derolathrus",
-        "name": "disturbed-bed",
-        "tm_pub_key": "3z2OziwWfUkIPAcakvb1m4N+k4EqoAIO8lay00oxm8k=",
-        "vega_pub_key": "2935cf9025b30a7617be8e14dc2af301e71309be5e2dac2c8152970d51c3ee2d",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "JS5FljhHq+p3AQvSPS/VbvYDDqI/GCBMj4E+Pqxcb+I=": {
+        "avatar_url": "https://www.gravatar.com/avatar/8hunqcvvhs3tpgqrh3pf311vmgflyoo6?d=identicon",
+        "country": "OX",
+        "ethereum_address": "0x2865c21f2DED4785689c3aB5b10b17A60B2B530a",
+        "id": "dd1d603a1f2d40fc71ec6762b282a9fcca5f7ed88aaef6fa643724eb4ad0716b",
+        "info_url": "https://en.wikipedia.org/wiki/2011_UCI_Track_Cycling_World_Championships_%E2%80%93_Men%27s_team_pursuit",
+        "name": "orange-policeman",
+        "tm_pub_key": "JS5FljhHq+p3AQvSPS/VbvYDDqI/GCBMj4E+Pqxcb+I=",
+        "vega_pub_key": "f4f601b3da5c6896b4a0e300ca298e5d99a08697fda60e4f040977920ebe2163",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303210938",
+  "chain_id": "vega-devnet1-202303211021",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-21T09:38:09.910491282Z",
+  "genesis_time": "2023-03-21T10:21:13.286586452Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "A2948F8B6AF92B38859AA8E231C9ED89B3DAE37E",
-      "name": "disturbed-bed",
+      "address": "91856C5CE131F8778306971A73F52D3693FB049B",
+      "name": "orange-policeman",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "3z2OziwWfUkIPAcakvb1m4N+k4EqoAIO8lay00oxm8k="
+        "value": "JS5FljhHq+p3AQvSPS/VbvYDDqI/GCBMj4E+Pqxcb+I="
       }
     }
   ]
