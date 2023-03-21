@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "JS5FljhHq+p3AQvSPS/VbvYDDqI/GCBMj4E+Pqxcb+I=": {
-        "avatar_url": "https://www.gravatar.com/avatar/8hunqcvvhs3tpgqrh3pf311vmgflyoo6?d=identicon",
-        "country": "OX",
-        "ethereum_address": "0x2865c21f2DED4785689c3aB5b10b17A60B2B530a",
-        "id": "dd1d603a1f2d40fc71ec6762b282a9fcca5f7ed88aaef6fa643724eb4ad0716b",
-        "info_url": "https://en.wikipedia.org/wiki/2011_UCI_Track_Cycling_World_Championships_%E2%80%93_Men%27s_team_pursuit",
-        "name": "orange-policeman",
-        "tm_pub_key": "JS5FljhHq+p3AQvSPS/VbvYDDqI/GCBMj4E+Pqxcb+I=",
-        "vega_pub_key": "f4f601b3da5c6896b4a0e300ca298e5d99a08697fda60e4f040977920ebe2163",
+      "P1X+xpoGsm911Asu43ai88uCWYn7cEw74WuIZ0elAV4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/i69jhzgjmcvawxhmmth7yvldtd36ylvs?d=identicon",
+        "country": "SK",
+        "ethereum_address": "0x80cd16A7839444560d7caB5007e19eCCA3Fa8933",
+        "id": "ded0c74097a7510c6c446c4a9c1e85735a504046ba4e717a0d692d3143ff68f6",
+        "info_url": "https://en.wikipedia.org/wiki/So_Close,_So_Far_(song)",
+        "name": "immense-dress",
+        "tm_pub_key": "P1X+xpoGsm911Asu43ai88uCWYn7cEw74WuIZ0elAV4=",
+        "vega_pub_key": "ef1bc436a5ed0d40bc988f8b61f03924835fb0352ce6530388ad776b56cabddb",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303211021",
+  "chain_id": "vega-devnet1-202303211806",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-21T10:21:13.286586452Z",
+  "genesis_time": "2023-03-21T18:06:38.23264672Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "91856C5CE131F8778306971A73F52D3693FB049B",
-      "name": "orange-policeman",
+      "address": "F9AFE9872F4CB8A281DEE1F5552C7CF43514997B",
+      "name": "immense-dress",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "JS5FljhHq+p3AQvSPS/VbvYDDqI/GCBMj4E+Pqxcb+I="
+        "value": "P1X+xpoGsm911Asu43ai88uCWYn7cEw74WuIZ0elAV4="
       }
     }
   ]
