@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "dfIDKHyKlUuXJ8qVNqy12NVMYNsB92UrTxGD1FLdfkU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/32ijfwmp1too04o9qtqp3gz8pwv4pj8z?d=identicon",
-        "country": "NK",
-        "ethereum_address": "0x1C4f9949d565778b9eef86a87408CCD615B0e711",
-        "id": "fa04e5a86cd03743d736c00466a227d8fc5969336dcf6f334ca8c295091fbbe6",
-        "info_url": "https://en.wikipedia.org/wiki/A_Family_Upside_Down",
-        "name": "narrow-fan",
-        "tm_pub_key": "dfIDKHyKlUuXJ8qVNqy12NVMYNsB92UrTxGD1FLdfkU=",
-        "vega_pub_key": "5043d8dacf91f2947e53736968a993e82ed87d6fd69cc15df6a923caf5f9916e",
+      "T7XeCKWukEvJGdvZvRgyYehvYydM8ZGZMyjoz714FAg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/t7q3qss1i4pqm13mdmwej4ci0h2zvmq9?d=identicon",
+        "country": "BD",
+        "ethereum_address": "0x49D2F663aB201649838c7a6C00881A607D85F020",
+        "id": "c17b37e90c8210b8c03177a558d0a14b7ccb280061f8507151c534c7a931b6df",
+        "info_url": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Lanno",
+        "name": "harsh-burger",
+        "tm_pub_key": "T7XeCKWukEvJGdvZvRgyYehvYydM8ZGZMyjoz714FAg=",
+        "vega_pub_key": "b0a57ffa3eef33c48d6ddf95dde2f0cad005a0cf9cb6b0f62f50d9521729b590",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303221321",
+  "chain_id": "vega-devnet1-202303221402",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-22T13:21:14.2487625Z",
+  "genesis_time": "2023-03-22T14:02:52.065738Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "1D1B85249D06F70CA1BEB1718DCB8268F9C7E3C5",
-      "name": "narrow-fan",
+      "address": "7489C5DD2E38E7140ECA839A5B44D5A73B6EA026",
+      "name": "harsh-burger",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "dfIDKHyKlUuXJ8qVNqy12NVMYNsB92UrTxGD1FLdfkU="
+        "value": "T7XeCKWukEvJGdvZvRgyYehvYydM8ZGZMyjoz714FAg="
       }
     }
   ]
