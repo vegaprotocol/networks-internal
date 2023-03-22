@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "LoUYZkMZWTyLIRVlT5lTdUF3mSjy93Sn2VqTN+jubrE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/wjnc0uuad9rt1ayd6hsu0oc9v1fu3qb4?d=identicon",
-        "country": "HU",
-        "ethereum_address": "0xCFFB01ab1f053fE3d0269f214C0Be9D50aF755e0",
-        "id": "2fec0f141afe58aa8e2f7b5ff5be3db29685358696d32140fb3469dccdce1dde",
-        "info_url": "https://en.wikipedia.org/wiki/Chakradhar_Swami",
-        "name": "healthy-doctor",
-        "tm_pub_key": "LoUYZkMZWTyLIRVlT5lTdUF3mSjy93Sn2VqTN+jubrE=",
-        "vega_pub_key": "5528f359dec66958251488b8f2d0deb77d2e5ad8b24869b4c5e0835235e5f280",
+      "ZyvhZ9YjY4JJH8v/4o0lIr2A+CdsJBUtEGrG33urN84=": {
+        "avatar_url": "https://www.gravatar.com/avatar/vni4oqvsmcy0ctn16s1lr1o2f3qe5b3i?d=identicon",
+        "country": "GI",
+        "ethereum_address": "0x4006c82b838f1d29b815586Fdc657C18230a718E",
+        "id": "393b3025e3050353f34465e118f82fd8b16d8caecc2c69811b8584bb056e9b1d",
+        "info_url": "https://en.wikipedia.org/wiki/Knox_County,_Ohio",
+        "name": "frustrating-river",
+        "tm_pub_key": "ZyvhZ9YjY4JJH8v/4o0lIr2A+CdsJBUtEGrG33urN84=",
+        "vega_pub_key": "631a732476d5112118216196a61a29f90711381c1c1706280573cb03420a9451",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303220935",
+  "chain_id": "vega-devnet1-202303221203",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-22T09:35:09.800525515Z",
+  "genesis_time": "2023-03-22T12:03:04.791596589Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "E187AC68A87F9B0ADC0E9A2541A80CD741FD0B02",
-      "name": "healthy-doctor",
+      "address": "67D4B66CC8F4F7676F1C44266A942E4E218BDE13",
+      "name": "frustrating-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "LoUYZkMZWTyLIRVlT5lTdUF3mSjy93Sn2VqTN+jubrE="
+        "value": "ZyvhZ9YjY4JJH8v/4o0lIr2A+CdsJBUtEGrG33urN84="
       }
     }
   ]
