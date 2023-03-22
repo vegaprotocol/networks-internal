@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "ZyvhZ9YjY4JJH8v/4o0lIr2A+CdsJBUtEGrG33urN84=": {
-        "avatar_url": "https://www.gravatar.com/avatar/vni4oqvsmcy0ctn16s1lr1o2f3qe5b3i?d=identicon",
-        "country": "GI",
-        "ethereum_address": "0x4006c82b838f1d29b815586Fdc657C18230a718E",
-        "id": "393b3025e3050353f34465e118f82fd8b16d8caecc2c69811b8584bb056e9b1d",
-        "info_url": "https://en.wikipedia.org/wiki/Knox_County,_Ohio",
-        "name": "frustrating-river",
-        "tm_pub_key": "ZyvhZ9YjY4JJH8v/4o0lIr2A+CdsJBUtEGrG33urN84=",
-        "vega_pub_key": "631a732476d5112118216196a61a29f90711381c1c1706280573cb03420a9451",
+      "dfIDKHyKlUuXJ8qVNqy12NVMYNsB92UrTxGD1FLdfkU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/32ijfwmp1too04o9qtqp3gz8pwv4pj8z?d=identicon",
+        "country": "NK",
+        "ethereum_address": "0x1C4f9949d565778b9eef86a87408CCD615B0e711",
+        "id": "fa04e5a86cd03743d736c00466a227d8fc5969336dcf6f334ca8c295091fbbe6",
+        "info_url": "https://en.wikipedia.org/wiki/A_Family_Upside_Down",
+        "name": "narrow-fan",
+        "tm_pub_key": "dfIDKHyKlUuXJ8qVNqy12NVMYNsB92UrTxGD1FLdfkU=",
+        "vega_pub_key": "5043d8dacf91f2947e53736968a993e82ed87d6fd69cc15df6a923caf5f9916e",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303221203",
+  "chain_id": "vega-devnet1-202303221321",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-22T12:03:04.791596589Z",
+  "genesis_time": "2023-03-22T13:21:14.2487625Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "67D4B66CC8F4F7676F1C44266A942E4E218BDE13",
-      "name": "frustrating-river",
+      "address": "1D1B85249D06F70CA1BEB1718DCB8268F9C7E3C5",
+      "name": "narrow-fan",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ZyvhZ9YjY4JJH8v/4o0lIr2A+CdsJBUtEGrG33urN84="
+        "value": "dfIDKHyKlUuXJ8qVNqy12NVMYNsB92UrTxGD1FLdfkU="
       }
     }
   ]
