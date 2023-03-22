@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "P1X+xpoGsm911Asu43ai88uCWYn7cEw74WuIZ0elAV4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/i69jhzgjmcvawxhmmth7yvldtd36ylvs?d=identicon",
-        "country": "SK",
-        "ethereum_address": "0x80cd16A7839444560d7caB5007e19eCCA3Fa8933",
-        "id": "ded0c74097a7510c6c446c4a9c1e85735a504046ba4e717a0d692d3143ff68f6",
-        "info_url": "https://en.wikipedia.org/wiki/So_Close,_So_Far_(song)",
-        "name": "immense-dress",
-        "tm_pub_key": "P1X+xpoGsm911Asu43ai88uCWYn7cEw74WuIZ0elAV4=",
-        "vega_pub_key": "ef1bc436a5ed0d40bc988f8b61f03924835fb0352ce6530388ad776b56cabddb",
+      "LoUYZkMZWTyLIRVlT5lTdUF3mSjy93Sn2VqTN+jubrE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/wjnc0uuad9rt1ayd6hsu0oc9v1fu3qb4?d=identicon",
+        "country": "HU",
+        "ethereum_address": "0xCFFB01ab1f053fE3d0269f214C0Be9D50aF755e0",
+        "id": "2fec0f141afe58aa8e2f7b5ff5be3db29685358696d32140fb3469dccdce1dde",
+        "info_url": "https://en.wikipedia.org/wiki/Chakradhar_Swami",
+        "name": "healthy-doctor",
+        "tm_pub_key": "LoUYZkMZWTyLIRVlT5lTdUF3mSjy93Sn2VqTN+jubrE=",
+        "vega_pub_key": "5528f359dec66958251488b8f2d0deb77d2e5ad8b24869b4c5e0835235e5f280",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303211806",
+  "chain_id": "vega-devnet1-202303220935",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-21T18:06:38.23264672Z",
+  "genesis_time": "2023-03-22T09:35:09.800525515Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "F9AFE9872F4CB8A281DEE1F5552C7CF43514997B",
-      "name": "immense-dress",
+      "address": "E187AC68A87F9B0ADC0E9A2541A80CD741FD0B02",
+      "name": "healthy-doctor",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "P1X+xpoGsm911Asu43ai88uCWYn7cEw74WuIZ0elAV4="
+        "value": "LoUYZkMZWTyLIRVlT5lTdUF3mSjy93Sn2VqTN+jubrE="
       }
     }
   ]
