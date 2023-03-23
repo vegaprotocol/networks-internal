@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "PCBGAkmhtjjHWZbcDZitIGUkoHxD3kUBMZlyz3TSwaE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/42l2zcg5ups4ne5qaiubqrpng3jvd5aa?d=identicon",
-        "country": "CB",
-        "ethereum_address": "0x3dce6742Ca2905836AfB43237075597904ba5A9B",
-        "id": "29b1e8362a2699db0974db0868cde0c3e0fdc262b5382c44578a166f9272cac3",
-        "info_url": "https://en.wikipedia.org/wiki/Fructokinase",
-        "name": "extensive-river",
-        "tm_pub_key": "PCBGAkmhtjjHWZbcDZitIGUkoHxD3kUBMZlyz3TSwaE=",
-        "vega_pub_key": "dec702f415f86636b539692d57c79556a8e271f3404ec3c6234843cdf3bc55e3",
+      "nHOj3oBa1J+49uQU7xeypTzvx0OhU5uUa9kuz3I8Qhk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/prqpy5xs801bz4stfjx6q51y7bla03hj?d=identicon",
+        "country": "ND",
+        "ethereum_address": "0x178D6929600357316c09A3ed3c556e0464d52078",
+        "id": "08a3b8446868e8f570a926cda7c405d55c199f754961ae8fa7f7abe6a68c8419",
+        "info_url": "https://en.wikipedia.org/wiki/Cirolana",
+        "name": "loud-key",
+        "tm_pub_key": "nHOj3oBa1J+49uQU7xeypTzvx0OhU5uUa9kuz3I8Qhk=",
+        "vega_pub_key": "97bb5cd5bc9a47a9cdbbd171c95814dfe696d1a049bcb814218225b491dd6816",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303231429",
+  "chain_id": "vega-devnet1-202303231512",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-23T14:29:12.110807569Z",
+  "genesis_time": "2023-03-23T15:12:02.357441967Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "B522D276093C598CF6AC99CAC85706947C38B108",
-      "name": "extensive-river",
+      "address": "0A5423E147215871652D217B39A8689332FD6663",
+      "name": "loud-key",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "PCBGAkmhtjjHWZbcDZitIGUkoHxD3kUBMZlyz3TSwaE="
+        "value": "nHOj3oBa1J+49uQU7xeypTzvx0OhU5uUa9kuz3I8Qhk="
       }
     }
   ]
