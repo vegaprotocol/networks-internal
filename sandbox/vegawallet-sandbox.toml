@@ -1,3 +1,5 @@
+FileVersion = 1
+
 Host = "127.0.0.1"
 Level = "info"
 Name = "sandbox"
