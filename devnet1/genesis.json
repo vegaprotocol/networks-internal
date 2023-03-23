@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "nHOj3oBa1J+49uQU7xeypTzvx0OhU5uUa9kuz3I8Qhk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/prqpy5xs801bz4stfjx6q51y7bla03hj?d=identicon",
-        "country": "ND",
-        "ethereum_address": "0x178D6929600357316c09A3ed3c556e0464d52078",
-        "id": "08a3b8446868e8f570a926cda7c405d55c199f754961ae8fa7f7abe6a68c8419",
-        "info_url": "https://en.wikipedia.org/wiki/Cirolana",
-        "name": "loud-key",
-        "tm_pub_key": "nHOj3oBa1J+49uQU7xeypTzvx0OhU5uUa9kuz3I8Qhk=",
-        "vega_pub_key": "97bb5cd5bc9a47a9cdbbd171c95814dfe696d1a049bcb814218225b491dd6816",
+      "s5LDJJCwbHSOHLhJy+6Y5uuWMEQNYSle+utBKBf2gSA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/x106gj86m0bveup2wccxrvsh5lp0gxzt?d=identicon",
+        "country": "ZS",
+        "ethereum_address": "0xB570121a9fEE80A26aD64C242D7c83267Bce4Ad9",
+        "id": "ebd90a44bd91c104b4d92b9d275c4088c93f994458bc782cbcf0a2c4089aebcb",
+        "info_url": "https://en.wikipedia.org/wiki/Different_Things",
+        "name": "faint-honey",
+        "tm_pub_key": "s5LDJJCwbHSOHLhJy+6Y5uuWMEQNYSle+utBKBf2gSA=",
+        "vega_pub_key": "f463e0ad4aa16ce23f925ddc5a3aef2a0d96cdb5991813bec77ebdabdd4f1651",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303231512",
+  "chain_id": "vega-devnet1-202303231802",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-23T15:12:02.357441967Z",
+  "genesis_time": "2023-03-23T18:02:59.167975461Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "0A5423E147215871652D217B39A8689332FD6663",
-      "name": "loud-key",
+      "address": "5B64BE00B969E1F0384E29CF279879F09E840260",
+      "name": "faint-honey",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "nHOj3oBa1J+49uQU7xeypTzvx0OhU5uUa9kuz3I8Qhk="
+        "value": "s5LDJJCwbHSOHLhJy+6Y5uuWMEQNYSle+utBKBf2gSA="
       }
     }
   ]
