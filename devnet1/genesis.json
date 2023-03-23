@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "l1NSS9Ik9YgZSdxQmxuXlrkCotBJ7Ax/jxRo/vTwPuk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/m4sff3np0v7mehk0me2k525cis2xli72?d=identicon",
-        "country": "MO",
-        "ethereum_address": "0x38148CBAfA52b661040b0AFc4773E5c0c89835fd",
-        "id": "45aa70e19a232f5ec6ebdab4b5e0a5071a28c5b4057bb919fa24b7abbdfea535",
-        "info_url": "https://en.wikipedia.org/wiki/Mood_Ring_(Britney_Spears_song)",
-        "name": "gray-school",
-        "tm_pub_key": "l1NSS9Ik9YgZSdxQmxuXlrkCotBJ7Ax/jxRo/vTwPuk=",
-        "vega_pub_key": "4351086f09c8c5d317c84e1321c519ca59b914822b32c847219122a3682c0385",
+      "PCBGAkmhtjjHWZbcDZitIGUkoHxD3kUBMZlyz3TSwaE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/42l2zcg5ups4ne5qaiubqrpng3jvd5aa?d=identicon",
+        "country": "CB",
+        "ethereum_address": "0x3dce6742Ca2905836AfB43237075597904ba5A9B",
+        "id": "29b1e8362a2699db0974db0868cde0c3e0fdc262b5382c44578a166f9272cac3",
+        "info_url": "https://en.wikipedia.org/wiki/Fructokinase",
+        "name": "extensive-river",
+        "tm_pub_key": "PCBGAkmhtjjHWZbcDZitIGUkoHxD3kUBMZlyz3TSwaE=",
+        "vega_pub_key": "dec702f415f86636b539692d57c79556a8e271f3404ec3c6234843cdf3bc55e3",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303231331",
+  "chain_id": "vega-devnet1-202303231429",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-23T13:31:54.139261853Z",
+  "genesis_time": "2023-03-23T14:29:12.110807569Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "CCA4B380228F4A0D2B36C9CDA88F9B7597C00D47",
-      "name": "gray-school",
+      "address": "B522D276093C598CF6AC99CAC85706947C38B108",
+      "name": "extensive-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "l1NSS9Ik9YgZSdxQmxuXlrkCotBJ7Ax/jxRo/vTwPuk="
+        "value": "PCBGAkmhtjjHWZbcDZitIGUkoHxD3kUBMZlyz3TSwaE="
       }
     }
   ]
