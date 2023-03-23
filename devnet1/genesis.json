@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "jMiq1IrAbt+xIRz2paJW+OyluEdGfffFiH0UQNTIamA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/aqbiyqdhot7r12927ikemynhz1ihqkex?d=identicon",
-        "country": "MA",
-        "ethereum_address": "0xF88CF656567de9dC7314379fD62463969198883d",
-        "id": "6c3a58253bb623c39ed516242e036449533cf127a20d317dd108d4ad3759703a",
-        "info_url": "https://en.wikipedia.org/wiki/Marianne_Suhr",
-        "name": "short-shoe",
-        "tm_pub_key": "jMiq1IrAbt+xIRz2paJW+OyluEdGfffFiH0UQNTIamA=",
-        "vega_pub_key": "b1d05abba1a462bcadb66df98a2c89c59d6a120e36443630b7b4969fe4a55c1c",
+      "ZAua1x3RfAWIwNC1kTKT7VCS/b3Ia2BHwvd7jNy69Zo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/tt899x81z8fpk7c5ovn1enar9gxmfr4w?d=identicon",
+        "country": "LU",
+        "ethereum_address": "0x6Eaa99125B29b376B5D24360E7eA306ea2013245",
+        "id": "37abea4d4e47d0c9357f34811857e9baf64e333fe641e6026f0ade643f98bbbd",
+        "info_url": "https://en.wikipedia.org/wiki/Hayden_James",
+        "name": "helpful-beach",
+        "tm_pub_key": "ZAua1x3RfAWIwNC1kTKT7VCS/b3Ia2BHwvd7jNy69Zo=",
+        "vega_pub_key": "97014d5446f0d01bbc80f591d0213102678cec87558c29bb10be470d6fabd97f",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303231144",
+  "chain_id": "vega-devnet1-202303231217",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-23T11:44:10.38368119Z",
+  "genesis_time": "2023-03-23T12:17:22.548853199Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "904B047CB6F90941F6E8FCAC2A5E924C5EFCDB55",
-      "name": "short-shoe",
+      "address": "FB107FEB51FB551429B98B2177CAB62C0D233C31",
+      "name": "helpful-beach",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "jMiq1IrAbt+xIRz2paJW+OyluEdGfffFiH0UQNTIamA="
+        "value": "ZAua1x3RfAWIwNC1kTKT7VCS/b3Ia2BHwvd7jNy69Zo="
       }
     }
   ]
