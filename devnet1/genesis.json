@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "M7viO3zQGtYhZ/TqVm7GnTajFhK5Uxs9x53jhbx4kKM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/uvrcjzmguealmc06bilznkgfsgktk4ex?d=identicon",
-        "country": "KX",
-        "ethereum_address": "0xBcA7C704729C8B775e57c3376C15A4E8A38235D7",
-        "id": "d174e7fe8671d9b913b69a114e6a3646a672d76373deec3c11e2433cdacef01f",
-        "info_url": "https://en.wikipedia.org/wiki/Mwitikira",
-        "name": "costly-pencil",
-        "tm_pub_key": "M7viO3zQGtYhZ/TqVm7GnTajFhK5Uxs9x53jhbx4kKM=",
-        "vega_pub_key": "fa32d11b0c38c71d838a88cc47c595d41f8b01066c4cd7b153795d3c2bfae019",
+      "jMiq1IrAbt+xIRz2paJW+OyluEdGfffFiH0UQNTIamA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/aqbiyqdhot7r12927ikemynhz1ihqkex?d=identicon",
+        "country": "MA",
+        "ethereum_address": "0xF88CF656567de9dC7314379fD62463969198883d",
+        "id": "6c3a58253bb623c39ed516242e036449533cf127a20d317dd108d4ad3759703a",
+        "info_url": "https://en.wikipedia.org/wiki/Marianne_Suhr",
+        "name": "short-shoe",
+        "tm_pub_key": "jMiq1IrAbt+xIRz2paJW+OyluEdGfffFiH0UQNTIamA=",
+        "vega_pub_key": "b1d05abba1a462bcadb66df98a2c89c59d6a120e36443630b7b4969fe4a55c1c",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303231027",
+  "chain_id": "vega-devnet1-202303231144",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-23T10:27:00.212078459Z",
+  "genesis_time": "2023-03-23T11:44:10.38368119Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "211E8115D5BE9B87396FF9508D42F2B69A988FBA",
-      "name": "costly-pencil",
+      "address": "904B047CB6F90941F6E8FCAC2A5E924C5EFCDB55",
+      "name": "short-shoe",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "M7viO3zQGtYhZ/TqVm7GnTajFhK5Uxs9x53jhbx4kKM="
+        "value": "jMiq1IrAbt+xIRz2paJW+OyluEdGfffFiH0UQNTIamA="
       }
     }
   ]
