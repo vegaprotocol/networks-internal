@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "s5LDJJCwbHSOHLhJy+6Y5uuWMEQNYSle+utBKBf2gSA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/x106gj86m0bveup2wccxrvsh5lp0gxzt?d=identicon",
-        "country": "ZS",
-        "ethereum_address": "0xB570121a9fEE80A26aD64C242D7c83267Bce4Ad9",
-        "id": "ebd90a44bd91c104b4d92b9d275c4088c93f994458bc782cbcf0a2c4089aebcb",
-        "info_url": "https://en.wikipedia.org/wiki/Different_Things",
-        "name": "faint-honey",
-        "tm_pub_key": "s5LDJJCwbHSOHLhJy+6Y5uuWMEQNYSle+utBKBf2gSA=",
-        "vega_pub_key": "f463e0ad4aa16ce23f925ddc5a3aef2a0d96cdb5991813bec77ebdabdd4f1651",
+      "Jipl4G0Be+vL1E5a0aSSI3u6NnirHc+08NrbE4S/NJ4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/37tmxnjdavq3fr6ecekwn6qckbkbhr2a?d=identicon",
+        "country": "OQ",
+        "ethereum_address": "0x0405a26914d92BBeE59F775C65D0eA4E76059e3a",
+        "id": "5383a381e7ea8f87e45e17b858489d46293e965f6e28fe3a19e0620efc6ed5c5",
+        "info_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Bullejos",
+        "name": "promising-computer",
+        "tm_pub_key": "Jipl4G0Be+vL1E5a0aSSI3u6NnirHc+08NrbE4S/NJ4=",
+        "vega_pub_key": "bd42c7797360e722b4ccdb4e66150205ced9b8140de7260454316af8fc15aae6",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303231802",
+  "chain_id": "vega-devnet1-202303231946",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-23T18:02:59.167975461Z",
+  "genesis_time": "2023-03-23T19:46:33.466183014Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "5B64BE00B969E1F0384E29CF279879F09E840260",
-      "name": "faint-honey",
+      "address": "3C00E4EE865D494F546F624C52013BACD3CF7A09",
+      "name": "promising-computer",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "s5LDJJCwbHSOHLhJy+6Y5uuWMEQNYSle+utBKBf2gSA="
+        "value": "Jipl4G0Be+vL1E5a0aSSI3u6NnirHc+08NrbE4S/NJ4="
       }
     }
   ]
