@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "UD108OG+gt25h7wTBn67lnMkFPpLT0omGqtP7ekFMUs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/24mf5v8kyq05xyvjgd0fv2symsuwpqet?d=identicon",
-        "country": "IV",
-        "ethereum_address": "0xBF328fC69A2cE924D0640c06F4bA0B6396bC5f25",
-        "id": "5b8fc7681fef3096f21979e8b137fa6470e7ba8c9f53db8ca1a6116172a5e607",
-        "info_url": "https://en.wikipedia.org/wiki/Geophagus_sveni",
-        "name": "opportune-monkey",
-        "tm_pub_key": "UD108OG+gt25h7wTBn67lnMkFPpLT0omGqtP7ekFMUs=",
-        "vega_pub_key": "ef9597146c99a35640947c29bc6b8c650432ddf69ce0fbb7b5bae1f08fa6deef",
+      "M7viO3zQGtYhZ/TqVm7GnTajFhK5Uxs9x53jhbx4kKM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/uvrcjzmguealmc06bilznkgfsgktk4ex?d=identicon",
+        "country": "KX",
+        "ethereum_address": "0xBcA7C704729C8B775e57c3376C15A4E8A38235D7",
+        "id": "d174e7fe8671d9b913b69a114e6a3646a672d76373deec3c11e2433cdacef01f",
+        "info_url": "https://en.wikipedia.org/wiki/Mwitikira",
+        "name": "costly-pencil",
+        "tm_pub_key": "M7viO3zQGtYhZ/TqVm7GnTajFhK5Uxs9x53jhbx4kKM=",
+        "vega_pub_key": "fa32d11b0c38c71d838a88cc47c595d41f8b01066c4cd7b153795d3c2bfae019",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303230937",
+  "chain_id": "vega-devnet1-202303231027",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-23T09:37:21.39827907Z",
+  "genesis_time": "2023-03-23T10:27:00.212078459Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "29585F4561FD2F1F859726CED55776B897B14F88",
-      "name": "opportune-monkey",
+      "address": "211E8115D5BE9B87396FF9508D42F2B69A988FBA",
+      "name": "costly-pencil",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "UD108OG+gt25h7wTBn67lnMkFPpLT0omGqtP7ekFMUs="
+        "value": "M7viO3zQGtYhZ/TqVm7GnTajFhK5Uxs9x53jhbx4kKM="
       }
     }
   ]
