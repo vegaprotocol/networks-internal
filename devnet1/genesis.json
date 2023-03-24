@@ -302,17 +302,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "Jipl4G0Be+vL1E5a0aSSI3u6NnirHc+08NrbE4S/NJ4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/37tmxnjdavq3fr6ecekwn6qckbkbhr2a?d=identicon",
-        "country": "OQ",
-        "ethereum_address": "0x0405a26914d92BBeE59F775C65D0eA4E76059e3a",
-        "id": "5383a381e7ea8f87e45e17b858489d46293e965f6e28fe3a19e0620efc6ed5c5",
-        "info_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Bullejos",
-        "name": "promising-computer",
-        "tm_pub_key": "Jipl4G0Be+vL1E5a0aSSI3u6NnirHc+08NrbE4S/NJ4=",
-        "vega_pub_key": "bd42c7797360e722b4ccdb4e66150205ced9b8140de7260454316af8fc15aae6",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "uhlYYXZXSs52uBJz8bj1T1oQbL4mE7rk3AJGU8XyRgc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/s27ik0prg7vqwqefjusnotmhyt2rq215?d=identicon",
+        "country": "RC",
+        "ethereum_address": "0x7CD68b374fA3985ABa804686Aaa6943deaD633B6",
+        "id": "7e5414e84f17ebd06139e5d72f8691fe157135197ee1ae5099653e1e19bf2629",
+        "info_url": "https://en.wikipedia.org/wiki/National_Route_602_(Costa_Rica)",
+        "name": "tense-television",
+        "tm_pub_key": "uhlYYXZXSs52uBJz8bj1T1oQbL4mE7rk3AJGU8XyRgc=",
+        "vega_pub_key": "ab21d301bd38ced9d2fe4b394e8bf81f9677f33bf1ee73fa1a2c9b782c63d067",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202303231946",
+  "chain_id": "vega-devnet1-202303240904",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-23T19:46:33.466183014Z",
+  "genesis_time": "2023-03-24T09:04:29.071746255Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "3C00E4EE865D494F546F624C52013BACD3CF7A09",
-      "name": "promising-computer",
+      "address": "6EE394CA12826B1035A541A3AA1E71A6A0D9C2C5",
+      "name": "tense-television",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Jipl4G0Be+vL1E5a0aSSI3u6NnirHc+08NrbE4S/NJ4="
+        "value": "uhlYYXZXSs52uBJz8bj1T1oQbL4mE7rk3AJGU8XyRgc="
       }
     }
   ]
