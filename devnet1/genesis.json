@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "4CAkyO6SQ7p/3HNo2gJKDCyiutJzHt+Pfd2s1SBGpEw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/x5lda6qm09defde1d5cv5oz1m034aqv8?d=identicon",
+        "country": "KO",
+        "ethereum_address": "0x7A97e45C337Ae1A6Bc820624E190326fDEB94478",
+        "id": "64a6d5238b75d0bf5e9a70bd4d82a64eb3e43b5343b8edb5f94a91a1fc2c2906",
+        "info_url": "https://en.wikipedia.org/wiki/Princeton,_Newfoundland_and_Labrador",
+        "name": "unsightly-candle",
+        "tm_pub_key": "4CAkyO6SQ7p/3HNo2gJKDCyiutJzHt+Pfd2s1SBGpEw=",
+        "vega_pub_key": "1de8222bc9ab62cdc848f9e4d6f8c2c720e2a98968c23451337e0a2987ddd780",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "xpkH0J+dS19GxCeI+0latkT0YJAmTRgesuBVY9unYWg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/jjuj9i8b3zdod1vt9ti5ov0pwktl1mh5?d=identicon",
-        "country": "IF",
-        "ethereum_address": "0x3D8bb98503A635C35416766537b2787555cf6c35",
-        "id": "b76d20fd2287c0c9b3a0e41c7ffc71e1be483aec7b0a4cb7c7e36b28640cb8e5",
-        "info_url": "https://en.wikipedia.org/wiki/Penn-Craft_Historic_District",
-        "name": "brave-window",
-        "tm_pub_key": "xpkH0J+dS19GxCeI+0latkT0YJAmTRgesuBVY9unYWg=",
-        "vega_pub_key": "cbf4f383c1843a147b5120dd920e2317ba584f6a86d4743bd456577402073210",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202303241125",
+  "chain_id": "vega-devnet1-202303241234",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-24T11:25:58.798472671Z",
+  "genesis_time": "2023-03-24T12:34:34.015600284Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "D9B90BEA2405E97DD666EC40039365C6EDEB3DDB",
-      "name": "brave-window",
+      "address": "71FB3FFA71F0BCD1F68178F7F697F242F6172626",
+      "name": "unsightly-candle",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "xpkH0J+dS19GxCeI+0latkT0YJAmTRgesuBVY9unYWg="
+        "value": "4CAkyO6SQ7p/3HNo2gJKDCyiutJzHt+Pfd2s1SBGpEw="
       }
     }
   ]
