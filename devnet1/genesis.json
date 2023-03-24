@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "p4TFUxHK7/nsqN5x/v7OrOXfg4VPufF18qevtYbYAmU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/q534t9rmpkse71rbjfwqv9x80pf24uo0?d=identicon",
-        "country": "BN",
-        "ethereum_address": "0x380613f72C8Cf9cdcD25d7D24B900E4DBe7043DA",
-        "id": "0684ebe1200349bffb024d473a687f7ab616e8c17fffa2a37f258f8b55f7828a",
-        "info_url": "https://en.wikipedia.org/wiki/Darren_Fung",
-        "name": "scruffy-shirt",
-        "tm_pub_key": "p4TFUxHK7/nsqN5x/v7OrOXfg4VPufF18qevtYbYAmU=",
-        "vega_pub_key": "967b1c11896d4d72ff625fc21d43229ec4e02454d53d844671c3cdbd44dea973",
+      "j80YZgSw55iRxawXl/rPyOEh0ZT4sjKLkel6d33211A=": {
+        "avatar_url": "https://www.gravatar.com/avatar/90lzra38t172uxdjaoh6m6aujuh4phit?d=identicon",
+        "country": "XD",
+        "ethereum_address": "0x0882aaB060D7A54D2d812d9aE9AB5BfE88C77F00",
+        "id": "4339d7e4bdabe4f31d00fb0950d283e9740590db0c1e3aa7116322acc858d35a",
+        "info_url": "https://en.wikipedia.org/wiki/Louis_Fran%C3%A7ois_de_La_Bourdonnaye",
+        "name": "mango-swing",
+        "tm_pub_key": "j80YZgSw55iRxawXl/rPyOEh0ZT4sjKLkel6d33211A=",
+        "vega_pub_key": "a4733603810fa5edee4a3419a507efe8ff5865a9b520b789096b3494be1da0e2",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303241339",
+  "chain_id": "vega-devnet1-202303241407",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-24T13:39:35.547085101Z",
+  "genesis_time": "2023-03-24T14:07:20.24724523Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "BCB93A1AC4F5742D5394DD88888770BFFEEADF2E",
-      "name": "scruffy-shirt",
+      "address": "6837D9B3282C7570B7349D3054F004B8E284B7DB",
+      "name": "mango-swing",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "p4TFUxHK7/nsqN5x/v7OrOXfg4VPufF18qevtYbYAmU="
+        "value": "j80YZgSw55iRxawXl/rPyOEh0ZT4sjKLkel6d33211A="
       }
     }
   ]
