@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "3VyuA5W31fEKfqvnNt8+9Pyq2qB03gGPwK+QEf4zPBI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/cs2rajynqa2dgjqxsgviglpi8vmu4102?d=identicon",
-        "country": "RK",
-        "ethereum_address": "0x66FD4DFD6bda555A406e5E8Ed57e6f5a3C927ce5",
-        "id": "5e171ceeeee1f45b4372ae9e8ebbf753bbf43c90b3a5d867668e6426c6a34639",
-        "info_url": "https://en.wikipedia.org/wiki/FIS_Nordic_World_Ski_Championships_2015_%E2%80%93_Women%27s_4_%C3%97_5_kilometre_relay",
-        "name": "friendly-stove",
-        "tm_pub_key": "3VyuA5W31fEKfqvnNt8+9Pyq2qB03gGPwK+QEf4zPBI=",
-        "vega_pub_key": "502675581ce3f84f4c8e132459742924903c13dc909d5d1bfa9c531cc2f252ec",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "Rlkp1T04b+S9ytBmX/746fOjvrxzyrta587S9sLghcA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/qmefi1bqwxiv5thvuh7hrchon32mma0e?d=identicon",
+        "country": "NR",
+        "ethereum_address": "0x6581b8e834345927b6030D67879a4D55b5e5C401",
+        "id": "88715f42af7966293649508c288c5436ce1ab9b44c2dd219ef710b59c9eaf3a3",
+        "info_url": "https://en.wikipedia.org/wiki/Solar_eclipse_of_September_12,_2034",
+        "name": "hallowed-swing",
+        "tm_pub_key": "Rlkp1T04b+S9ytBmX/746fOjvrxzyrta587S9sLghcA=",
+        "vega_pub_key": "97cf715f85297863942066f8d52edad495ced4686cce7d36d93ba9d44981cad1",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303241509",
+  "chain_id": "vega-devnet1-202303241714",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-24T15:09:44.330604361Z",
+  "genesis_time": "2023-03-24T17:14:48.446621318Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "FC0C11631007236AA1BF4380B03A6327930EA747",
-      "name": "friendly-stove",
+      "address": "760339F51A39B47EA94A884984711F83A478E76D",
+      "name": "hallowed-swing",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "3VyuA5W31fEKfqvnNt8+9Pyq2qB03gGPwK+QEf4zPBI="
+        "value": "Rlkp1T04b+S9ytBmX/746fOjvrxzyrta587S9sLghcA="
       }
     }
   ]
