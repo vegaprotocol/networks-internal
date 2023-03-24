@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "4CAkyO6SQ7p/3HNo2gJKDCyiutJzHt+Pfd2s1SBGpEw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/x5lda6qm09defde1d5cv5oz1m034aqv8?d=identicon",
-        "country": "KO",
-        "ethereum_address": "0x7A97e45C337Ae1A6Bc820624E190326fDEB94478",
-        "id": "64a6d5238b75d0bf5e9a70bd4d82a64eb3e43b5343b8edb5f94a91a1fc2c2906",
-        "info_url": "https://en.wikipedia.org/wiki/Princeton,_Newfoundland_and_Labrador",
-        "name": "unsightly-candle",
-        "tm_pub_key": "4CAkyO6SQ7p/3HNo2gJKDCyiutJzHt+Pfd2s1SBGpEw=",
-        "vega_pub_key": "1de8222bc9ab62cdc848f9e4d6f8c2c720e2a98968c23451337e0a2987ddd780",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "p4TFUxHK7/nsqN5x/v7OrOXfg4VPufF18qevtYbYAmU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/q534t9rmpkse71rbjfwqv9x80pf24uo0?d=identicon",
+        "country": "BN",
+        "ethereum_address": "0x380613f72C8Cf9cdcD25d7D24B900E4DBe7043DA",
+        "id": "0684ebe1200349bffb024d473a687f7ab616e8c17fffa2a37f258f8b55f7828a",
+        "info_url": "https://en.wikipedia.org/wiki/Darren_Fung",
+        "name": "scruffy-shirt",
+        "tm_pub_key": "p4TFUxHK7/nsqN5x/v7OrOXfg4VPufF18qevtYbYAmU=",
+        "vega_pub_key": "967b1c11896d4d72ff625fc21d43229ec4e02454d53d844671c3cdbd44dea973",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303241234",
+  "chain_id": "vega-devnet1-202303241312",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-24T12:34:34.015600284Z",
+  "genesis_time": "2023-03-24T13:12:45.924683911Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "71FB3FFA71F0BCD1F68178F7F697F242F6172626",
-      "name": "unsightly-candle",
+      "address": "BCB93A1AC4F5742D5394DD88888770BFFEEADF2E",
+      "name": "scruffy-shirt",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "4CAkyO6SQ7p/3HNo2gJKDCyiutJzHt+Pfd2s1SBGpEw="
+        "value": "p4TFUxHK7/nsqN5x/v7OrOXfg4VPufF18qevtYbYAmU="
       }
     }
   ]
