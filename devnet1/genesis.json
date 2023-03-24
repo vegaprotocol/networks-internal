@@ -302,17 +302,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "fOoIdZoKgs93qTgTBKMC+N8GtvmNab/e4inwfi5vJeY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/iv69tfmtyj9scv1l1imzeie6oiym2ywg?d=identicon",
-        "country": "QC",
-        "ethereum_address": "0x8a46BeA142805b4786d788E2bA38B7d63fdDC3C5",
-        "id": "2975aa616177c52b38dd09e2974bee154197de4b26a59678d1ff3fe910956888",
-        "info_url": "https://en.wikipedia.org/wiki/Marcel_Rasquin",
-        "name": "happy-cookie",
-        "tm_pub_key": "fOoIdZoKgs93qTgTBKMC+N8GtvmNab/e4inwfi5vJeY=",
-        "vega_pub_key": "d790cc00bcb210e7bcab94039c5c25cb1b910df233794592a83ffe7df704f615",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "xpkH0J+dS19GxCeI+0latkT0YJAmTRgesuBVY9unYWg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/jjuj9i8b3zdod1vt9ti5ov0pwktl1mh5?d=identicon",
+        "country": "IF",
+        "ethereum_address": "0x3D8bb98503A635C35416766537b2787555cf6c35",
+        "id": "b76d20fd2287c0c9b3a0e41c7ffc71e1be483aec7b0a4cb7c7e36b28640cb8e5",
+        "info_url": "https://en.wikipedia.org/wiki/Penn-Craft_Historic_District",
+        "name": "brave-window",
+        "tm_pub_key": "xpkH0J+dS19GxCeI+0latkT0YJAmTRgesuBVY9unYWg=",
+        "vega_pub_key": "cbf4f383c1843a147b5120dd920e2317ba584f6a86d4743bd456577402073210",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202303241027",
+  "chain_id": "vega-devnet1-202303241125",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-24T10:27:59.707651952Z",
+  "genesis_time": "2023-03-24T11:25:58.798472671Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "31346D2E20F1A4B55CAE9D4D00B617679AD0A140",
-      "name": "happy-cookie",
+      "address": "D9B90BEA2405E97DD666EC40039365C6EDEB3DDB",
+      "name": "brave-window",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "fOoIdZoKgs93qTgTBKMC+N8GtvmNab/e4inwfi5vJeY="
+        "value": "xpkH0J+dS19GxCeI+0latkT0YJAmTRgesuBVY9unYWg="
       }
     }
   ]
