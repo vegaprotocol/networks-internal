@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "+hqE5o/6vC12dbTQzMbVeHlnCiTh9AknzsMKozz7NuQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/b8b97c575dpij0tqwcve40zo74x29yqj?d=identicon",
+        "country": "YO",
+        "ethereum_address": "0xc735018E856D344F3Db34540Fe5BA3395e4F0AD8",
+        "id": "b2f7c7976f270a8380e8a6ab80bc9930ecc149e992e4f9ea96bdf952a2e30841",
+        "info_url": "https://en.wikipedia.org/wiki/Cameron_Smith_(rugby_league,_born_1983)",
+        "name": "unsightly-butterfly",
+        "tm_pub_key": "+hqE5o/6vC12dbTQzMbVeHlnCiTh9AknzsMKozz7NuQ=",
+        "vega_pub_key": "9a871a2e14c11a4af329a720eec0ec1de4c8664533df543978464a901b359a7e",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "bZNQchlWlxCX1aqWGM2O5jNEyMvEiguB32BMw1XP+/w=": {
-        "avatar_url": "https://www.gravatar.com/avatar/f6381xibm71sg3qg4jn8cbgltyc360ot?d=identicon",
-        "country": "GL",
-        "ethereum_address": "0x44120c82d43158C110bb7b15a83d643771B39cb7",
-        "id": "78a30735670736c7f340821c430608a77dbd570a8970b3ea321c20594238cb12",
-        "info_url": "https://en.wikipedia.org/wiki/C11H13NO2",
-        "name": "red-stove",
-        "tm_pub_key": "bZNQchlWlxCX1aqWGM2O5jNEyMvEiguB32BMw1XP+/w=",
-        "vega_pub_key": "5d0392fc903c53cade34cf67c0042acda16096ea9c5999fe90b329c2950024df",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303271511",
+  "chain_id": "vega-devnet1-202303271628",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-27T15:11:27.864014681Z",
+  "genesis_time": "2023-03-27T16:28:54.248039471Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "7CE739F5A5EB25DA27618E12C37CD1E3DE117F80",
-      "name": "red-stove",
+      "address": "907ADF079184502FFF287A3497B94A8738FF57A9",
+      "name": "unsightly-butterfly",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "bZNQchlWlxCX1aqWGM2O5jNEyMvEiguB32BMw1XP+/w="
+        "value": "+hqE5o/6vC12dbTQzMbVeHlnCiTh9AknzsMKozz7NuQ="
       }
     }
   ]
