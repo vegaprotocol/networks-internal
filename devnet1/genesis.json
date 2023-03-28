@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "pGZQkCkCJpdbU2LPjBZrRgBYV3tSNnxFDqYiXlNMxf0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/uqnvqzngwm77qrjz60j37dbxuwg7wxfb?d=identicon",
-        "country": "YM",
-        "ethereum_address": "0x8293B3c59808d062d5c28FBaE9557fA7Ba6C9529",
-        "id": "b875ff961a4316cf23325495e86e8c33896a9533eb99008548a0b535b9b40c0f",
-        "info_url": "https://en.wikipedia.org/wiki/National_Conference_of_State_Legislatures",
-        "name": "red-teacher",
-        "tm_pub_key": "pGZQkCkCJpdbU2LPjBZrRgBYV3tSNnxFDqYiXlNMxf0=",
-        "vega_pub_key": "02820dd787e01b129b30b35973006dfcf954dda1907857522d8ab57aee634d55",
+      "U6rN0gNFLWT9Ll9vaLhBuHDIxeDiptckmx2JCoGJw4U=": {
+        "avatar_url": "https://www.gravatar.com/avatar/1oy75ul68rckccuzctutpoq82ic0f2zq?d=identicon",
+        "country": "DJ",
+        "ethereum_address": "0xE8E77eE53e573Fd5852A184794F3e7AE363c3b19",
+        "id": "7b674b2a1597b50c6c445b57eb9a5eb78efe3f9f52d8e0e146e21490e8431156",
+        "info_url": "https://en.wikipedia.org/wiki/Ilona_Tyuryaeva",
+        "name": "zippy-bed",
+        "tm_pub_key": "U6rN0gNFLWT9Ll9vaLhBuHDIxeDiptckmx2JCoGJw4U=",
+        "vega_pub_key": "1508dd76f273af4f599888391cf152121b51ae7c0f506eeadae89d36b113ad73",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303281537",
+  "chain_id": "vega-devnet1-202303281627",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-28T15:37:52.19385721Z",
+  "genesis_time": "2023-03-28T16:27:25.875195711Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "8D4A79F457608BDC9EE4FA8284146B6E5C7D6E4D",
-      "name": "red-teacher",
+      "address": "30DD4E35A2E2619F16B2EEC5730E87D5B1F930CA",
+      "name": "zippy-bed",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "pGZQkCkCJpdbU2LPjBZrRgBYV3tSNnxFDqYiXlNMxf0="
+        "value": "U6rN0gNFLWT9Ll9vaLhBuHDIxeDiptckmx2JCoGJw4U="
       }
     }
   ]
