@@ -269,15 +269,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "+hqE5o/6vC12dbTQzMbVeHlnCiTh9AknzsMKozz7NuQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/b8b97c575dpij0tqwcve40zo74x29yqj?d=identicon",
-        "country": "YO",
-        "ethereum_address": "0xc735018E856D344F3Db34540Fe5BA3395e4F0AD8",
-        "id": "b2f7c7976f270a8380e8a6ab80bc9930ecc149e992e4f9ea96bdf952a2e30841",
-        "info_url": "https://en.wikipedia.org/wiki/Cameron_Smith_(rugby_league,_born_1983)",
-        "name": "unsightly-butterfly",
-        "tm_pub_key": "+hqE5o/6vC12dbTQzMbVeHlnCiTh9AknzsMKozz7NuQ=",
-        "vega_pub_key": "9a871a2e14c11a4af329a720eec0ec1de4c8664533df543978464a901b359a7e",
+      "71IL9294Q3b1VcZhokK62WNSSJRdYX4C1w4BJoAPcBk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/rbk3dwz41ih5oec7rcdlv44hgze68zim?d=identicon",
+        "country": "JP",
+        "ethereum_address": "0xF37ce150F8c70978CF5897d419d87198429827A5",
+        "id": "42a24a5979888c195b60803a616dbd5963547d125a21011b54279304fdccd81f",
+        "info_url": "https://en.wikipedia.org/wiki/Quyen_Tran",
+        "name": "immense-river",
+        "tm_pub_key": "71IL9294Q3b1VcZhokK62WNSSJRdYX4C1w4BJoAPcBk=",
+        "vega_pub_key": "db3de2f63d08eed947d011814107d031f03827ebc41c88de318b975587aa129f",
         "vega_pub_key_index": 1
       },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303271628",
+  "chain_id": "vega-devnet1-202303280848",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-27T16:28:54.248039471Z",
+  "genesis_time": "2023-03-28T08:48:42.990672894Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "907ADF079184502FFF287A3497B94A8738FF57A9",
-      "name": "unsightly-butterfly",
+      "address": "42884E0598B500626B8FAFC4A31BDB3F1E0EEEF9",
+      "name": "immense-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "+hqE5o/6vC12dbTQzMbVeHlnCiTh9AknzsMKozz7NuQ="
+        "value": "71IL9294Q3b1VcZhokK62WNSSJRdYX4C1w4BJoAPcBk="
       }
     }
   ]
