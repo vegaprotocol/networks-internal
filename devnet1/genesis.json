@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "71IL9294Q3b1VcZhokK62WNSSJRdYX4C1w4BJoAPcBk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/rbk3dwz41ih5oec7rcdlv44hgze68zim?d=identicon",
-        "country": "JP",
-        "ethereum_address": "0xF37ce150F8c70978CF5897d419d87198429827A5",
-        "id": "42a24a5979888c195b60803a616dbd5963547d125a21011b54279304fdccd81f",
-        "info_url": "https://en.wikipedia.org/wiki/Quyen_Tran",
-        "name": "immense-river",
-        "tm_pub_key": "71IL9294Q3b1VcZhokK62WNSSJRdYX4C1w4BJoAPcBk=",
-        "vega_pub_key": "db3de2f63d08eed947d011814107d031f03827ebc41c88de318b975587aa129f",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "gxlcHubpBm/BB+BEi/Waxk2y/B12lgT2JmlRvvpviZk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/bz1cd2qf0twzaumlykoscfecwwvpxluk?d=identicon",
+        "country": "VD",
+        "ethereum_address": "0xfEF6D960Ec782D5d2cB7492d5C0839FbB6a427eE",
+        "id": "7a19d339c49f84d5c8c16b314d876c9290b70551eb3f7e719e5726d2153c9007",
+        "info_url": "https://en.wikipedia.org/wiki/Jamaica_Hope",
+        "name": "frustrating-milk",
+        "tm_pub_key": "gxlcHubpBm/BB+BEi/Waxk2y/B12lgT2JmlRvvpviZk=",
+        "vega_pub_key": "f0cf535f12364eb2ecdb3b4b7b158f8ed34aaa9f257a35e5536107f8eaa107bf",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303280848",
+  "chain_id": "vega-devnet1-202303281150",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-28T08:48:42.990672894Z",
+  "genesis_time": "2023-03-28T11:50:27.914273153Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "42884E0598B500626B8FAFC4A31BDB3F1E0EEEF9",
-      "name": "immense-river",
+      "address": "4BA57FF1756F0FDBB9FD9286A4FB916FAC6FC1F7",
+      "name": "frustrating-milk",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "71IL9294Q3b1VcZhokK62WNSSJRdYX4C1w4BJoAPcBk="
+        "value": "gxlcHubpBm/BB+BEi/Waxk2y/B12lgT2JmlRvvpviZk="
       }
     }
   ]
