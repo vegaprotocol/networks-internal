@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "U6rN0gNFLWT9Ll9vaLhBuHDIxeDiptckmx2JCoGJw4U=": {
-        "avatar_url": "https://www.gravatar.com/avatar/1oy75ul68rckccuzctutpoq82ic0f2zq?d=identicon",
-        "country": "DJ",
-        "ethereum_address": "0xE8E77eE53e573Fd5852A184794F3e7AE363c3b19",
-        "id": "7b674b2a1597b50c6c445b57eb9a5eb78efe3f9f52d8e0e146e21490e8431156",
-        "info_url": "https://en.wikipedia.org/wiki/Ilona_Tyuryaeva",
-        "name": "zippy-bed",
-        "tm_pub_key": "U6rN0gNFLWT9Ll9vaLhBuHDIxeDiptckmx2JCoGJw4U=",
-        "vega_pub_key": "1508dd76f273af4f599888391cf152121b51ae7c0f506eeadae89d36b113ad73",
+      "Xlci8fpylNppTZgrzOf0/pl5K6vtjF4Htc0+OvKiFAA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/f93clcmjpohumi6dociegu5u9hxp7uxs?d=identicon",
+        "country": "ZJ",
+        "ethereum_address": "0x3Ccb3041D24aA754A51EeB2e894A8dE15B66c12D",
+        "id": "d9765180bca0a87801193629d8437a9b8da40326b32ce88909af2a5f2b4069df",
+        "info_url": "https://en.wikipedia.org/wiki/South_Santan,_Arizona",
+        "name": "whispering-plant",
+        "tm_pub_key": "Xlci8fpylNppTZgrzOf0/pl5K6vtjF4Htc0+OvKiFAA=",
+        "vega_pub_key": "8d6d21dbc48c50dbec2faf31338405486d73a27d9bd63018669acf0cc7e861d1",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303281627",
+  "chain_id": "vega-devnet1-202303290513",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-28T16:27:25.875195711Z",
+  "genesis_time": "2023-03-29T05:13:16.210473711Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "30DD4E35A2E2619F16B2EEC5730E87D5B1F930CA",
-      "name": "zippy-bed",
+      "address": "606C25EF1F8664494D383B25A4B0DA6C3744C561",
+      "name": "whispering-plant",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "U6rN0gNFLWT9Ll9vaLhBuHDIxeDiptckmx2JCoGJw4U="
+        "value": "Xlci8fpylNppTZgrzOf0/pl5K6vtjF4Htc0+OvKiFAA="
       }
     }
   ]
