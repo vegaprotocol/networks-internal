@@ -280,6 +280,17 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
+      "A4tLIagQ3UK1Rdx8eYXXT/Kg2QszRWO8NqySWWUJ+/0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/h4igehjs92p16atvipq8lx5c11xwsmbx?d=identicon",
+        "country": "UD",
+        "ethereum_address": "0x1b236877229C10fEbc7Ec276D364f28c2400dA67",
+        "id": "0a16d4313dfb7e21ef126dddd7a36736be124375536b13d03f7b22fa4e44064e",
+        "info_url": "https://en.wikipedia.org/wiki/Michaela_Boyle",
+        "name": "extensive-policeman",
+        "tm_pub_key": "A4tLIagQ3UK1Rdx8eYXXT/Kg2QszRWO8NqySWWUJ+/0=",
+        "vega_pub_key": "0650da3df6e253029ce5d983201e75d2e7286a9c35f766cfbb702dcbc26f687a",
+        "vega_pub_key_index": 1
+      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "fvCMkrBt9U//Lu0KyebiSeYXp0/NKobw6D5Sai7Bc9s=": {
-        "avatar_url": "https://www.gravatar.com/avatar/6v8cbvschkw5v84rvqalxnbnrmtgn83d?d=identicon",
-        "country": "HB",
-        "ethereum_address": "0x9242dAEC46fFCc01935f729582F4d623ceae66eE",
-        "id": "7460ece7c00161765b00a07f9076e3b5ab352d5b5c3867fe3ee9d34591472805",
-        "info_url": "https://en.wikipedia.org/wiki/Rebecca_Ore",
-        "name": "hallowed-television",
-        "tm_pub_key": "fvCMkrBt9U//Lu0KyebiSeYXp0/NKobw6D5Sai7Bc9s=",
-        "vega_pub_key": "38d624b2ff7f3e0e20a32014030b56c9907d864d2b14d45734edf540b25bbae7",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303291431",
+  "chain_id": "vega-devnet1-202303291530",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-29T14:31:13.918600628Z",
+  "genesis_time": "2023-03-29T15:30:05.352424541Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "5D463C33F0FFFBC062103768FBC7535B9CE70358",
-      "name": "hallowed-television",
+      "address": "4E026DC24C7D7F6CF8908367BB7A7E1449E86E7B",
+      "name": "extensive-policeman",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "fvCMkrBt9U//Lu0KyebiSeYXp0/NKobw6D5Sai7Bc9s="
+        "value": "A4tLIagQ3UK1Rdx8eYXXT/Kg2QszRWO8NqySWWUJ+/0="
       }
     }
   ]
