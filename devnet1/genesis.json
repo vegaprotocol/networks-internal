@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "scBYh4/bOiz0u67586IGQ8QuNdW+jT4IaP0e8yXjfII=": {
-        "avatar_url": "https://www.gravatar.com/avatar/qx3079rob1sipgew05ocqoq2twryonon?d=identicon",
-        "country": "PR",
-        "ethereum_address": "0xE6D1B3c0962D7a70484249CF926A925cB9a41B7D",
-        "id": "c40f5fa4ada151191c53875a2533faf98c8a514fbb2bbca936b39f0991958999",
-        "info_url": "https://en.wikipedia.org/wiki/Kevin_Wimmer",
-        "name": "dead-toy",
-        "tm_pub_key": "scBYh4/bOiz0u67586IGQ8QuNdW+jT4IaP0e8yXjfII=",
-        "vega_pub_key": "ed83c64d313d1b88610bbf31ffc33d85b6aa002a914403eb24bbfb9906cf3734",
+      "WDNti9OiUatsym4O62Ya5rtgX9qzWSImxuqEQfYHos0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/9ogfhqco5r2yw53k2ytvgropc9iejhhd?d=identicon",
+        "country": "OU",
+        "ethereum_address": "0x40A13494a7342e6e1B0Aa2c7E4FB1dc626261A7C",
+        "id": "1454a5e587fb980ade8428357fa5d32ec9c555aaa976152d532d7c0286469045",
+        "info_url": "https://en.wikipedia.org/wiki/Music_of_the_Isle_of_Man",
+        "name": "gifted-country",
+        "tm_pub_key": "WDNti9OiUatsym4O62Ya5rtgX9qzWSImxuqEQfYHos0=",
+        "vega_pub_key": "9e25ce12eb3d7ab40a0d4079a5b0db4f80313955e351d6f76a4a6724f8da21e1",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303291151",
+  "chain_id": "vega-devnet1-202303291231",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-29T11:51:29.990124653Z",
+  "genesis_time": "2023-03-29T12:31:37.235209778Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "236CC6A0A44DF386BF24F04D9A3C12C527826F29",
-      "name": "dead-toy",
+      "address": "C950087E97AC75A5BB115197CB7CA60E33E6E0BE",
+      "name": "gifted-country",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "scBYh4/bOiz0u67586IGQ8QuNdW+jT4IaP0e8yXjfII="
+        "value": "WDNti9OiUatsym4O62Ya5rtgX9qzWSImxuqEQfYHos0="
       }
     }
   ]
