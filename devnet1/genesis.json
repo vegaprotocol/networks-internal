@@ -280,6 +280,17 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
+      "Ba3Ev2ePkrUBq7u5PF3sTgHfqHMPOG7RqJ9uGQUaQJg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/0xdygak1ppdqbgdrqq5k19s8iamybsje?d=identicon",
+        "country": "HC",
+        "ethereum_address": "0x801CE9cFC7E8A324659BF194F0aee40Ab3926da4",
+        "id": "2279b08a3336350ff806f211962844f21f3503b8032e5ed9cb9d946ec5055aa3",
+        "info_url": "https://en.wikipedia.org/wiki/Miche%E2%80%93Guerciotti",
+        "name": "gray-fan",
+        "tm_pub_key": "Ba3Ev2ePkrUBq7u5PF3sTgHfqHMPOG7RqJ9uGQUaQJg=",
+        "vega_pub_key": "e20890a3cbfbdfcc6ecb879b9e24bd8116d9950993140c6358787f51427293f7",
+        "vega_pub_key_index": 1
+      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "WDNti9OiUatsym4O62Ya5rtgX9qzWSImxuqEQfYHos0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/9ogfhqco5r2yw53k2ytvgropc9iejhhd?d=identicon",
-        "country": "OU",
-        "ethereum_address": "0x40A13494a7342e6e1B0Aa2c7E4FB1dc626261A7C",
-        "id": "1454a5e587fb980ade8428357fa5d32ec9c555aaa976152d532d7c0286469045",
-        "info_url": "https://en.wikipedia.org/wiki/Music_of_the_Isle_of_Man",
-        "name": "gifted-country",
-        "tm_pub_key": "WDNti9OiUatsym4O62Ya5rtgX9qzWSImxuqEQfYHos0=",
-        "vega_pub_key": "9e25ce12eb3d7ab40a0d4079a5b0db4f80313955e351d6f76a4a6724f8da21e1",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303291231",
+  "chain_id": "vega-devnet1-202303291322",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-29T12:31:37.235209778Z",
+  "genesis_time": "2023-03-29T13:22:27.030865278Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "C950087E97AC75A5BB115197CB7CA60E33E6E0BE",
-      "name": "gifted-country",
+      "address": "5AFB5D9E442DB77D01FF2EE2556EA66CB93B1996",
+      "name": "gray-fan",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "WDNti9OiUatsym4O62Ya5rtgX9qzWSImxuqEQfYHos0="
+        "value": "Ba3Ev2ePkrUBq7u5PF3sTgHfqHMPOG7RqJ9uGQUaQJg="
       }
     }
   ]
