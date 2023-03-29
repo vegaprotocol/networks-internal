@@ -280,17 +280,6 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
-      "Ba3Ev2ePkrUBq7u5PF3sTgHfqHMPOG7RqJ9uGQUaQJg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/0xdygak1ppdqbgdrqq5k19s8iamybsje?d=identicon",
-        "country": "HC",
-        "ethereum_address": "0x801CE9cFC7E8A324659BF194F0aee40Ab3926da4",
-        "id": "2279b08a3336350ff806f211962844f21f3503b8032e5ed9cb9d946ec5055aa3",
-        "info_url": "https://en.wikipedia.org/wiki/Miche%E2%80%93Guerciotti",
-        "name": "gray-fan",
-        "tm_pub_key": "Ba3Ev2ePkrUBq7u5PF3sTgHfqHMPOG7RqJ9uGQUaQJg=",
-        "vega_pub_key": "e20890a3cbfbdfcc6ecb879b9e24bd8116d9950993140c6358787f51427293f7",
-        "vega_pub_key_index": 1
-      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "fvCMkrBt9U//Lu0KyebiSeYXp0/NKobw6D5Sai7Bc9s=": {
+        "avatar_url": "https://www.gravatar.com/avatar/6v8cbvschkw5v84rvqalxnbnrmtgn83d?d=identicon",
+        "country": "HB",
+        "ethereum_address": "0x9242dAEC46fFCc01935f729582F4d623ceae66eE",
+        "id": "7460ece7c00161765b00a07f9076e3b5ab352d5b5c3867fe3ee9d34591472805",
+        "info_url": "https://en.wikipedia.org/wiki/Rebecca_Ore",
+        "name": "hallowed-television",
+        "tm_pub_key": "fvCMkrBt9U//Lu0KyebiSeYXp0/NKobw6D5Sai7Bc9s=",
+        "vega_pub_key": "38d624b2ff7f3e0e20a32014030b56c9907d864d2b14d45734edf540b25bbae7",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303291322",
+  "chain_id": "vega-devnet1-202303291431",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-29T13:22:27.030865278Z",
+  "genesis_time": "2023-03-29T14:31:13.918600628Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "5AFB5D9E442DB77D01FF2EE2556EA66CB93B1996",
-      "name": "gray-fan",
+      "address": "5D463C33F0FFFBC062103768FBC7535B9CE70358",
+      "name": "hallowed-television",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Ba3Ev2ePkrUBq7u5PF3sTgHfqHMPOG7RqJ9uGQUaQJg="
+        "value": "fvCMkrBt9U//Lu0KyebiSeYXp0/NKobw6D5Sai7Bc9s="
       }
     }
   ]
