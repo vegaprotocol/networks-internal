@@ -302,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "scBYh4/bOiz0u67586IGQ8QuNdW+jT4IaP0e8yXjfII=": {
+        "avatar_url": "https://www.gravatar.com/avatar/qx3079rob1sipgew05ocqoq2twryonon?d=identicon",
+        "country": "PR",
+        "ethereum_address": "0xE6D1B3c0962D7a70484249CF926A925cB9a41B7D",
+        "id": "c40f5fa4ada151191c53875a2533faf98c8a514fbb2bbca936b39f0991958999",
+        "info_url": "https://en.wikipedia.org/wiki/Kevin_Wimmer",
+        "name": "dead-toy",
+        "tm_pub_key": "scBYh4/bOiz0u67586IGQ8QuNdW+jT4IaP0e8yXjfII=",
+        "vega_pub_key": "ed83c64d313d1b88610bbf31ffc33d85b6aa002a914403eb24bbfb9906cf3734",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "ynUTcd9oTHtgSD2NuuDwYOES/c2Lt3B9Osgee6w2jn8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/2sz5f73o1v662vb8s20raz3va3j4m95v?d=identicon",
-        "country": "AI",
-        "ethereum_address": "0xF3F2508D76088dFfc1aFa68d8CEAe6D4Fcd39493",
-        "id": "5d794936d53fb0cba0422b708622fa9f80f538722818300a0b90d632e7e1de41",
-        "info_url": "https://en.wikipedia.org/wiki/Hayato_Isomura",
-        "name": "orange-school",
-        "tm_pub_key": "ynUTcd9oTHtgSD2NuuDwYOES/c2Lt3B9Osgee6w2jn8=",
-        "vega_pub_key": "f41b52d1da6a03e6d3bfdfa2a53b5f144ae807dd1040ab4487dafa7d2889f7b9",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202303290947",
+  "chain_id": "vega-devnet1-202303291113",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-29T09:47:08.907919616Z",
+  "genesis_time": "2023-03-29T11:13:32.594542928Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "62B312DA0410727FDA0121D644BECE6332D24FA2",
-      "name": "orange-school",
+      "address": "236CC6A0A44DF386BF24F04D9A3C12C527826F29",
+      "name": "dead-toy",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ynUTcd9oTHtgSD2NuuDwYOES/c2Lt3B9Osgee6w2jn8="
+        "value": "scBYh4/bOiz0u67586IGQ8QuNdW+jT4IaP0e8yXjfII="
       }
     }
   ]
