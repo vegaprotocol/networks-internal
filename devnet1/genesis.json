@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "KHo9XYWmpnOIPNaMu411XMbuSBPaZMw9955eleaH8Zc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/q33n0x9xcu9ikg51ecc43z3nhy2j6pje?d=identicon",
-        "country": "CM",
-        "ethereum_address": "0x0B56272eC79FE5429d95dea2345Db4E2a38A05f1",
-        "id": "3ab09d663d208668e4128b05bd9940d372acc7573e797cff749e7a78d8c13b26",
-        "info_url": "https://en.wikipedia.org/wiki/Amapola_Flyg",
-        "name": "alive-swing",
-        "tm_pub_key": "KHo9XYWmpnOIPNaMu411XMbuSBPaZMw9955eleaH8Zc=",
-        "vega_pub_key": "27a28382261109b9186479cedad17891ff5382d6fa86fe31dcf02fb15e3f58d9",
+      "hkBZztomcaSsfZG98knVj6oMHlbiwV5Rkc0vrPcVSb4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/uudhbexapgurjfre1u62mcwr16ci491v?d=identicon",
+        "country": "WM",
+        "ethereum_address": "0x98076D5f049B82B11f689BA47Ca25Da5Cf16E3b3",
+        "id": "a00f15bb815ef223f4dcce3f07c887b8fd3783d23baed69cae17e76b3b03f60c",
+        "info_url": "https://en.wikipedia.org/wiki/Giant_Wild_Goose_Pagoda",
+        "name": "easy-policeman",
+        "tm_pub_key": "hkBZztomcaSsfZG98knVj6oMHlbiwV5Rkc0vrPcVSb4=",
+        "vega_pub_key": "ea72218b9de8960295b46da9a7089ab2a265f2705778490ca602f05b88b46813",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303300815",
+  "chain_id": "vega-devnet1-202303301039",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-30T08:15:20.246414403Z",
+  "genesis_time": "2023-03-30T10:39:50.148340801Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "94AF4AC433EBDE1B664F30B573F9C68D048E0654",
-      "name": "alive-swing",
+      "address": "76E31E780748F9AD966700F64C1A88507CDB4285",
+      "name": "easy-policeman",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "KHo9XYWmpnOIPNaMu411XMbuSBPaZMw9955eleaH8Zc="
+        "value": "hkBZztomcaSsfZG98knVj6oMHlbiwV5Rkc0vrPcVSb4="
       }
     }
   ]
