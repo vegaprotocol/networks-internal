@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "dlX3rldYZFmO07wDTQJvMlzZwabls8g9DTqWPajphRA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/0b0u53wzc6imr6ghj5zsgb67xzsojv98?d=identicon",
-        "country": "GI",
-        "ethereum_address": "0x1d748c997E7323DE9F797EFC0460b850Ef9Bff02",
-        "id": "479cb737ca00140260a59aa38c4970cccba1a2f14b98d9dc8f69cc06696935e8",
-        "info_url": "https://en.wikipedia.org/wiki/Dolors_Sabater",
-        "name": "blue-bird",
-        "tm_pub_key": "dlX3rldYZFmO07wDTQJvMlzZwabls8g9DTqWPajphRA=",
-        "vega_pub_key": "edfbd9b23cbb9669fbe10ec9bacfcf2edbf49a7951ee22f56273f7734cb4bc96",
+      "KHo9XYWmpnOIPNaMu411XMbuSBPaZMw9955eleaH8Zc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/q33n0x9xcu9ikg51ecc43z3nhy2j6pje?d=identicon",
+        "country": "CM",
+        "ethereum_address": "0x0B56272eC79FE5429d95dea2345Db4E2a38A05f1",
+        "id": "3ab09d663d208668e4128b05bd9940d372acc7573e797cff749e7a78d8c13b26",
+        "info_url": "https://en.wikipedia.org/wiki/Amapola_Flyg",
+        "name": "alive-swing",
+        "tm_pub_key": "KHo9XYWmpnOIPNaMu411XMbuSBPaZMw9955eleaH8Zc=",
+        "vega_pub_key": "27a28382261109b9186479cedad17891ff5382d6fa86fe31dcf02fb15e3f58d9",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303291611",
+  "chain_id": "vega-devnet1-202303300815",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-29T16:11:22.171735286Z",
+  "genesis_time": "2023-03-30T08:15:20.246414403Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "DB74A4BEA32C4DA8E7D3C700E8DE83BA10219B40",
-      "name": "blue-bird",
+      "address": "94AF4AC433EBDE1B664F30B573F9C68D048E0654",
+      "name": "alive-swing",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "dlX3rldYZFmO07wDTQJvMlzZwabls8g9DTqWPajphRA="
+        "value": "KHo9XYWmpnOIPNaMu411XMbuSBPaZMw9955eleaH8Zc="
       }
     }
   ]
