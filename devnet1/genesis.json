@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "WTRSzYypt6OegmkcHNVeRHtdECJsxQ2sc3t9utSokDc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/afy37siyyx6tob097wvp3aki4xotb8la?d=identicon",
-        "country": "RD",
-        "ethereum_address": "0xfbb91BCd949d2d90Ae242A4e2425fD8dAAAcE479",
-        "id": "80e29ec9770855f3a6ebef1fd339b736d43c6af492b4b8461aa3632451b2b939",
-        "info_url": "https://en.wikipedia.org/wiki/PT-91_Twardy",
-        "name": "ugly-biscuit",
-        "tm_pub_key": "WTRSzYypt6OegmkcHNVeRHtdECJsxQ2sc3t9utSokDc=",
-        "vega_pub_key": "779428238fae4bc27b3d7f811131f7f68c3b595912103a3ef0f0489845c61a2e",
+      "o6q++ruQDvtaTA6Lq7AqQalAlvjLo3bdXlF+yppbaWg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/80s69vgpfdy6pz4s27zyfn2ccbpbl2t2?d=identicon",
+        "country": "KZ",
+        "ethereum_address": "0x9fdF0b8C6DAcd5178deBB3662C716fA4eB5a6E84",
+        "id": "045972891619d9e190ac995fd5f59688f1b778540a94bae65629d2f0d5f753c7",
+        "info_url": "https://en.wikipedia.org/wiki/Open_Episcopal_Church",
+        "name": "adventurous-river",
+        "tm_pub_key": "o6q++ruQDvtaTA6Lq7AqQalAlvjLo3bdXlF+yppbaWg=",
+        "vega_pub_key": "9e852d29e1b222fa0ad48df04cdb2b1d745e1c6e9cae869ba558500e0d9258a8",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303301108",
+  "chain_id": "vega-devnet1-202303302006",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-30T11:08:28.213254618Z",
+  "genesis_time": "2023-03-30T20:06:08.249871713Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "3F518ED6692DFFDFAAA72AA827C6383C96F57247",
-      "name": "ugly-biscuit",
+      "address": "2830FE77193ED0553B1CDF3416633358F837E3C9",
+      "name": "adventurous-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "WTRSzYypt6OegmkcHNVeRHtdECJsxQ2sc3t9utSokDc="
+        "value": "o6q++ruQDvtaTA6Lq7AqQalAlvjLo3bdXlF+yppbaWg="
       }
     }
   ]
