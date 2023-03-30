@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "hkBZztomcaSsfZG98knVj6oMHlbiwV5Rkc0vrPcVSb4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/uudhbexapgurjfre1u62mcwr16ci491v?d=identicon",
-        "country": "WM",
-        "ethereum_address": "0x98076D5f049B82B11f689BA47Ca25Da5Cf16E3b3",
-        "id": "a00f15bb815ef223f4dcce3f07c887b8fd3783d23baed69cae17e76b3b03f60c",
-        "info_url": "https://en.wikipedia.org/wiki/Giant_Wild_Goose_Pagoda",
-        "name": "easy-policeman",
-        "tm_pub_key": "hkBZztomcaSsfZG98knVj6oMHlbiwV5Rkc0vrPcVSb4=",
-        "vega_pub_key": "ea72218b9de8960295b46da9a7089ab2a265f2705778490ca602f05b88b46813",
+      "WTRSzYypt6OegmkcHNVeRHtdECJsxQ2sc3t9utSokDc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/afy37siyyx6tob097wvp3aki4xotb8la?d=identicon",
+        "country": "RD",
+        "ethereum_address": "0xfbb91BCd949d2d90Ae242A4e2425fD8dAAAcE479",
+        "id": "80e29ec9770855f3a6ebef1fd339b736d43c6af492b4b8461aa3632451b2b939",
+        "info_url": "https://en.wikipedia.org/wiki/PT-91_Twardy",
+        "name": "ugly-biscuit",
+        "tm_pub_key": "WTRSzYypt6OegmkcHNVeRHtdECJsxQ2sc3t9utSokDc=",
+        "vega_pub_key": "779428238fae4bc27b3d7f811131f7f68c3b595912103a3ef0f0489845c61a2e",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303301039",
+  "chain_id": "vega-devnet1-202303301108",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-30T10:39:50.148340801Z",
+  "genesis_time": "2023-03-30T11:08:28.213254618Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "76E31E780748F9AD966700F64C1A88507CDB4285",
-      "name": "easy-policeman",
+      "address": "3F518ED6692DFFDFAAA72AA827C6383C96F57247",
+      "name": "ugly-biscuit",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "hkBZztomcaSsfZG98knVj6oMHlbiwV5Rkc0vrPcVSb4="
+        "value": "WTRSzYypt6OegmkcHNVeRHtdECJsxQ2sc3t9utSokDc="
       }
     }
   ]
