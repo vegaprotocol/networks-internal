@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "3OPP2+ABP0QA8EzoPEGPEv4fFOWd+ra5SdGbJh6gDdU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/9i6cvxxp5i41avhvca7zjmildtvjfmmf?d=identicon",
+        "country": "RL",
+        "ethereum_address": "0x53075d9133FF38fAA6934B3719b60462d9731327",
+        "id": "f4d8cb20762aaeadc8b2ed0080be2c644ebbe4cd9a326773cae99b20973e6fcb",
+        "info_url": "https://en.wikipedia.org/wiki/List_of_Milwaukee_Brewers_first-round_draft_picks",
+        "name": "icy-bat",
+        "tm_pub_key": "3OPP2+ABP0QA8EzoPEGPEv4fFOWd+ra5SdGbJh6gDdU=",
+        "vega_pub_key": "4f0b344b76b57c71b4c533907c467a29b4783f6caa48a4a4b80cdd441619f2ab",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "Zk8gv82sfosp2iNgy8uTgT2yk/K8HQfCjzLS9qzIpDk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/r203r747eevlvtyqvy2r3gjfxqul1a8a?d=identicon",
-        "country": "WF",
-        "ethereum_address": "0xF7d480549D16f8042878FF5f6b8D899b4DA7395C",
-        "id": "81e8a871ec3a58ebae4e62fdcacdd1279ffbb2fd0f901e8b3d4c60cddc7d4b1b",
-        "info_url": "https://en.wikipedia.org/wiki/Pareidae",
-        "name": "loud-tree",
-        "tm_pub_key": "Zk8gv82sfosp2iNgy8uTgT2yk/K8HQfCjzLS9qzIpDk=",
-        "vega_pub_key": "8a946a6d6f097149b4dbee4ed46812a39f04ea11f9e691a0bc636a103cdcb6cc",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303311430",
+  "chain_id": "vega-devnet1-202303311621",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-31T14:30:47.852298687Z",
+  "genesis_time": "2023-03-31T16:21:56.788480336Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "C2722C08CDF7C729ADCA8E45DDDE4A3FE8AB2785",
-      "name": "loud-tree",
+      "address": "56351FFD6B756DC3529B5243D0828DB152FADF73",
+      "name": "icy-bat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Zk8gv82sfosp2iNgy8uTgT2yk/K8HQfCjzLS9qzIpDk="
+        "value": "3OPP2+ABP0QA8EzoPEGPEv4fFOWd+ra5SdGbJh6gDdU="
       }
     }
   ]
