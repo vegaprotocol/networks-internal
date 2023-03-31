@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "5pesI8v2+3DYZPSRVU1Oo0cdeClMaI81jzjac6GyTwA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/e04fbqtw57zhiy7l8ooc3ro7mtdwjc18?d=identicon",
-        "country": "VA",
-        "ethereum_address": "0x36AD9e8b95699A2351BC4f61b2a4441055dc7aC7",
-        "id": "ffe7346b7d02b75aba417e60107ede21ba8a6591eeb290d397e861783670c869",
-        "info_url": "https://en.wikipedia.org/wiki/Richard_M._Young",
-        "name": "rhythmic-fan",
-        "tm_pub_key": "5pesI8v2+3DYZPSRVU1Oo0cdeClMaI81jzjac6GyTwA=",
-        "vega_pub_key": "70c67c22386ef21df88ed91b9470b380294a049d3b1d732e9a2156b31fbba72d",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "MK0OXjQZ7cbbluhoFCQ3LB+aPqC4tk9yZW2TXs9ZZnc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/7p54ar89d4grxiu0mjtbykn4n8am3u8d?d=identicon",
+        "country": "PJ",
+        "ethereum_address": "0xcdCEcDa98F7b7Fb675f1007d70Ff6cFb5E73AcEA",
+        "id": "cf90347747a41b1ece98181d03a5cc25bfae0f1773f5362a585a979af7519d25",
+        "info_url": "https://en.wikipedia.org/wiki/Guenther_Steiner",
+        "name": "happy-bed",
+        "tm_pub_key": "MK0OXjQZ7cbbluhoFCQ3LB+aPqC4tk9yZW2TXs9ZZnc=",
+        "vega_pub_key": "fa869e34898f2b546c9cb4d14076549daca3f2ba58719f11b94f079ded62c834",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303311028",
+  "chain_id": "vega-devnet1-202303311233",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-31T10:28:57.498993086Z",
+  "genesis_time": "2023-03-31T12:33:55.504288946Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "15F70970BA7BA90BC226399C7433C8203AD4A767",
-      "name": "rhythmic-fan",
+      "address": "8B66489AFB1CD72BCAB45A6C70A3F49E503A11D1",
+      "name": "happy-bed",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "5pesI8v2+3DYZPSRVU1Oo0cdeClMaI81jzjac6GyTwA="
+        "value": "MK0OXjQZ7cbbluhoFCQ3LB+aPqC4tk9yZW2TXs9ZZnc="
       }
     }
   ]
