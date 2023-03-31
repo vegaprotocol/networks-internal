@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "MK0OXjQZ7cbbluhoFCQ3LB+aPqC4tk9yZW2TXs9ZZnc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/7p54ar89d4grxiu0mjtbykn4n8am3u8d?d=identicon",
-        "country": "PJ",
-        "ethereum_address": "0xcdCEcDa98F7b7Fb675f1007d70Ff6cFb5E73AcEA",
-        "id": "cf90347747a41b1ece98181d03a5cc25bfae0f1773f5362a585a979af7519d25",
-        "info_url": "https://en.wikipedia.org/wiki/Guenther_Steiner",
-        "name": "happy-bed",
-        "tm_pub_key": "MK0OXjQZ7cbbluhoFCQ3LB+aPqC4tk9yZW2TXs9ZZnc=",
-        "vega_pub_key": "fa869e34898f2b546c9cb4d14076549daca3f2ba58719f11b94f079ded62c834",
+      "Zk8gv82sfosp2iNgy8uTgT2yk/K8HQfCjzLS9qzIpDk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/r203r747eevlvtyqvy2r3gjfxqul1a8a?d=identicon",
+        "country": "WF",
+        "ethereum_address": "0xF7d480549D16f8042878FF5f6b8D899b4DA7395C",
+        "id": "81e8a871ec3a58ebae4e62fdcacdd1279ffbb2fd0f901e8b3d4c60cddc7d4b1b",
+        "info_url": "https://en.wikipedia.org/wiki/Pareidae",
+        "name": "loud-tree",
+        "tm_pub_key": "Zk8gv82sfosp2iNgy8uTgT2yk/K8HQfCjzLS9qzIpDk=",
+        "vega_pub_key": "8a946a6d6f097149b4dbee4ed46812a39f04ea11f9e691a0bc636a103cdcb6cc",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303311233",
+  "chain_id": "vega-devnet1-202303311430",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-31T12:33:55.504288946Z",
+  "genesis_time": "2023-03-31T14:30:47.852298687Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "8B66489AFB1CD72BCAB45A6C70A3F49E503A11D1",
-      "name": "happy-bed",
+      "address": "C2722C08CDF7C729ADCA8E45DDDE4A3FE8AB2785",
+      "name": "loud-tree",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "MK0OXjQZ7cbbluhoFCQ3LB+aPqC4tk9yZW2TXs9ZZnc="
+        "value": "Zk8gv82sfosp2iNgy8uTgT2yk/K8HQfCjzLS9qzIpDk="
       }
     }
   ]
