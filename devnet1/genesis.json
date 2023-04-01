@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "3OPP2+ABP0QA8EzoPEGPEv4fFOWd+ra5SdGbJh6gDdU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/9i6cvxxp5i41avhvca7zjmildtvjfmmf?d=identicon",
-        "country": "RL",
-        "ethereum_address": "0x53075d9133FF38fAA6934B3719b60462d9731327",
-        "id": "f4d8cb20762aaeadc8b2ed0080be2c644ebbe4cd9a326773cae99b20973e6fcb",
-        "info_url": "https://en.wikipedia.org/wiki/List_of_Milwaukee_Brewers_first-round_draft_picks",
-        "name": "icy-bat",
-        "tm_pub_key": "3OPP2+ABP0QA8EzoPEGPEv4fFOWd+ra5SdGbJh6gDdU=",
-        "vega_pub_key": "4f0b344b76b57c71b4c533907c467a29b4783f6caa48a4a4b80cdd441619f2ab",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "tCnH7vYeru4ByJwI6AyRn/gQ4Uujk9Dzs0m6NixTVvY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/hr4ugscw58ruo7c5q72nbzq3ctraputp?d=identicon",
+        "country": "OK",
+        "ethereum_address": "0x9DFa5f554bEdB433535DdD64533CB4C74d3DA13F",
+        "id": "98199830182208592122c2606c46d131515cf9b689b16df525f8565ad1e1a898",
+        "info_url": "https://en.wikipedia.org/wiki/Netball_in_Australia",
+        "name": "tender-monkey",
+        "tm_pub_key": "tCnH7vYeru4ByJwI6AyRn/gQ4Uujk9Dzs0m6NixTVvY=",
+        "vega_pub_key": "cfb1304ae916cc2437d20eb53be324ddb1a55f3f53bafbc470410ccbec356451",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202303311621",
+  "chain_id": "vega-devnet1-202304011102",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-03-31T16:21:56.788480336Z",
+  "genesis_time": "2023-04-01T11:02:27.372164138Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "56351FFD6B756DC3529B5243D0828DB152FADF73",
-      "name": "icy-bat",
+      "address": "EE68C6AB7E4EEECB1ACC5D4EF5207973A039B51F",
+      "name": "tender-monkey",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "3OPP2+ABP0QA8EzoPEGPEv4fFOWd+ra5SdGbJh6gDdU="
+        "value": "tCnH7vYeru4ByJwI6AyRn/gQ4Uujk9Dzs0m6NixTVvY="
       }
     }
   ]
