@@ -280,17 +280,6 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
-      "C0FKa0+kHNgUjfsfvP5UXa2CjTeBpIJLoMJ+FIWOESg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/d9ike49h4qkyheasb8hll0wvrbhkx5xn?d=identicon",
-        "country": "VB",
-        "ethereum_address": "0xDEcCbeF3B5a1575DA63B8Cf395c49Da15da7f159",
-        "id": "d1a6f657ba9c92dc6bbb082c675fbe85b6a1283adf20ccebfc07b0d7b5de9de3",
-        "info_url": "https://en.wikipedia.org/wiki/Cory_Chettleburgh",
-        "name": "excited-mouse",
-        "tm_pub_key": "C0FKa0+kHNgUjfsfvP5UXa2CjTeBpIJLoMJ+FIWOESg=",
-        "vega_pub_key": "52c7f0d6915d318901a815ea22b90d474997f8eaf284efd9fe1a99f163f211f3",
-        "vega_pub_key_index": 1
-      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "luvXl9v0nIcq9twbTouwyoj6eO41YdreBswgNwd9rHw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/l0py1nzs5j53skw7fix4sz1ugl4sdcld?d=identicon",
+        "country": "CG",
+        "ethereum_address": "0xa38C252bF97Af611e68AF2961dd55162F717C0F0",
+        "id": "161f4c8ead3fbb7836cdebdfe921b12509dc57010ffc11e13af91d42f23d3ccd",
+        "info_url": "https://en.wikipedia.org/wiki/2007%E2%80%9308_Russian_Volleyball_Super_League",
+        "name": "important-biscuit",
+        "tm_pub_key": "luvXl9v0nIcq9twbTouwyoj6eO41YdreBswgNwd9rHw=",
+        "vega_pub_key": "df88b8c691e07c63851a82e761dec6c075a65d6a6390b96854e334fe6c936bc6",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304030931",
+  "chain_id": "vega-devnet1-202304031408",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-03T09:31:20.809820318Z",
+  "genesis_time": "2023-04-03T14:08:17.309165188Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "0C122D3AA627D809AC72A5C0E7C6D339171AEC1B",
-      "name": "excited-mouse",
+      "address": "84A62E9C44804F922C5F755D3F023286C0A49D89",
+      "name": "important-biscuit",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "C0FKa0+kHNgUjfsfvP5UXa2CjTeBpIJLoMJ+FIWOESg="
+        "value": "luvXl9v0nIcq9twbTouwyoj6eO41YdreBswgNwd9rHw="
       }
     }
   ]
