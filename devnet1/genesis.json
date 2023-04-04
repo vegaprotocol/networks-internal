@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "npaHphgMIERlATo2vVWjqNAJXeI3G+IbexFtLX0c5/Q=": {
-        "avatar_url": "https://www.gravatar.com/avatar/i823zp50pf5uaet4tsi7hldohlfbyuuj?d=identicon",
-        "country": "NO",
-        "ethereum_address": "0x07607309Cafa36fefb4955857F65f55ACeEeCeB8",
-        "id": "ee7ef0072f655983db5405e6fc3096682a18dfaeaca5bb11b2c2bd30d0638118",
-        "info_url": "https://en.wikipedia.org/wiki/Calvi%C3%A0",
-        "name": "wicked-music",
-        "tm_pub_key": "npaHphgMIERlATo2vVWjqNAJXeI3G+IbexFtLX0c5/Q=",
-        "vega_pub_key": "5f395f245798b5c6b397489fab9592e98aced38f69ee1952dc64410e66935ff4",
+      "iOLNh1Nn0+OXacWYiCQNr8csCAKLdPpPpKWfFZmRa38=": {
+        "avatar_url": "https://www.gravatar.com/avatar/1u7z0poq6n1dvyyuawqpuy3inrzt4mqk?d=identicon",
+        "country": "FJ",
+        "ethereum_address": "0x173527d45435f8b74D77b0f4cc07795FfDD00115",
+        "id": "8e43b3b36dbf84bc351add4804502e8da9aeb79f2979deb2e69feafcdee3e113",
+        "info_url": "https://en.wikipedia.org/wiki/Semantic_P2P_networks",
+        "name": "scruffy-river",
+        "tm_pub_key": "iOLNh1Nn0+OXacWYiCQNr8csCAKLdPpPpKWfFZmRa38=",
+        "vega_pub_key": "6c959151dfeee0d7d45b1f2770e6e13b3ea9694d883fe1dfb65aa7785ce24c50",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304041827",
+  "chain_id": "vega-devnet1-202304041855",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-04T18:27:31.67682876Z",
+  "genesis_time": "2023-04-04T18:55:14.813679207Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "281160D889E7BF1B51DABE6588A6141B66A45262",
-      "name": "wicked-music",
+      "address": "17AE572B4A251295299F901FA5A310444EB4D0ED",
+      "name": "scruffy-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "npaHphgMIERlATo2vVWjqNAJXeI3G+IbexFtLX0c5/Q="
+        "value": "iOLNh1Nn0+OXacWYiCQNr8csCAKLdPpPpKWfFZmRa38="
       }
     }
   ]
