@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "o1TRkNnSfpvjW9vEoG6IqUfVHVWPQYl3SbjvULNavlQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/3thvh5z4p6yf5zrtsn0q7zpewgni941n?d=identicon",
-        "country": "EG",
-        "ethereum_address": "0x68f0282B162F3373dcdC1c74c28A5F7b9B62a235",
-        "id": "6e2f518cb63e70d8e80f8eb1863044721f1a39a9d3b954d1390084a0553973d1",
-        "info_url": "https://en.wikipedia.org/wiki/Gyan_Dairy",
-        "name": "loose-road",
-        "tm_pub_key": "o1TRkNnSfpvjW9vEoG6IqUfVHVWPQYl3SbjvULNavlQ=",
-        "vega_pub_key": "09ce56f9474aac2b1d37e2bd13aef53a283674980ba273c1af6aa1bbbd9de586",
+      "npaHphgMIERlATo2vVWjqNAJXeI3G+IbexFtLX0c5/Q=": {
+        "avatar_url": "https://www.gravatar.com/avatar/i823zp50pf5uaet4tsi7hldohlfbyuuj?d=identicon",
+        "country": "NO",
+        "ethereum_address": "0x07607309Cafa36fefb4955857F65f55ACeEeCeB8",
+        "id": "ee7ef0072f655983db5405e6fc3096682a18dfaeaca5bb11b2c2bd30d0638118",
+        "info_url": "https://en.wikipedia.org/wiki/Calvi%C3%A0",
+        "name": "wicked-music",
+        "tm_pub_key": "npaHphgMIERlATo2vVWjqNAJXeI3G+IbexFtLX0c5/Q=",
+        "vega_pub_key": "5f395f245798b5c6b397489fab9592e98aced38f69ee1952dc64410e66935ff4",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304041626",
+  "chain_id": "vega-devnet1-202304041658",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-04T16:26:19.400371682Z",
+  "genesis_time": "2023-04-04T16:58:55.512702393Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "ECF31B43AFA10D91521FAE74627A5C3C3F1C3BA1",
-      "name": "loose-road",
+      "address": "281160D889E7BF1B51DABE6588A6141B66A45262",
+      "name": "wicked-music",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "o1TRkNnSfpvjW9vEoG6IqUfVHVWPQYl3SbjvULNavlQ="
+        "value": "npaHphgMIERlATo2vVWjqNAJXeI3G+IbexFtLX0c5/Q="
       }
     }
   ]
