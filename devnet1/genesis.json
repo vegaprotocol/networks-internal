@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "+rSeXyCeQQArVWgJ6heVml2tZ3HXFkGjH436p+cORbE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/lyzm2iea5pww4mqoxqoyw6z8dnewtdzo?d=identicon",
+        "country": "KJ",
+        "ethereum_address": "0x1998060AD1045464Bd57EDE7D6e86D9f309ed6C9",
+        "id": "fd074ae1a39b19819be486c29bda3590092dbdc82a8f5a9eaa186d0b4de572b7",
+        "info_url": "https://en.wikipedia.org/wiki/List_of_top_25_albums_for_1969_in_Australia",
+        "name": "adorable-biscuit",
+        "tm_pub_key": "+rSeXyCeQQArVWgJ6heVml2tZ3HXFkGjH436p+cORbE=",
+        "vega_pub_key": "77253399f7a706af56656832aaab18db4ab565bc2a4f5aefc6891bab58aad501",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "vvroUwI4NG4pQBva0S1jAzjfPiyxvQcK5CVD2uufA68=": {
-        "avatar_url": "https://www.gravatar.com/avatar/wsvqjyclyh69va474l8hgxcs9jd3sob0?d=identicon",
-        "country": "SX",
-        "ethereum_address": "0x21185f59C045f7861b265d0Bd46d5DD9DfA13407",
-        "id": "624d389a3809299be355ec09f40278deee72ac7f8d0e96903d45aab95ee2aaee",
-        "info_url": "https://en.wikipedia.org/wiki/NephroCheck",
-        "name": "happy-car",
-        "tm_pub_key": "vvroUwI4NG4pQBva0S1jAzjfPiyxvQcK5CVD2uufA68=",
-        "vega_pub_key": "c7797cb65bdaff15d75b1b50b5c056569d810dd2f24fe7d5a47c4b1cdadfba76",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202304040928",
+  "chain_id": "vega-devnet1-202304041028",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-04T09:28:28.280577291Z",
+  "genesis_time": "2023-04-04T10:28:46.977618367Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "D60E453616FF58D1F22FB786582124564A5CC7D2",
-      "name": "happy-car",
+      "address": "642F73417A94B13C40E1DEDD27B142AD14ECF930",
+      "name": "adorable-biscuit",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "vvroUwI4NG4pQBva0S1jAzjfPiyxvQcK5CVD2uufA68="
+        "value": "+rSeXyCeQQArVWgJ6heVml2tZ3HXFkGjH436p+cORbE="
       }
     }
   ]
