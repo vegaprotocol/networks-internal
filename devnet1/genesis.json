@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "+rSeXyCeQQArVWgJ6heVml2tZ3HXFkGjH436p+cORbE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/lyzm2iea5pww4mqoxqoyw6z8dnewtdzo?d=identicon",
-        "country": "KJ",
-        "ethereum_address": "0x1998060AD1045464Bd57EDE7D6e86D9f309ed6C9",
-        "id": "fd074ae1a39b19819be486c29bda3590092dbdc82a8f5a9eaa186d0b4de572b7",
-        "info_url": "https://en.wikipedia.org/wiki/List_of_top_25_albums_for_1969_in_Australia",
-        "name": "adorable-biscuit",
-        "tm_pub_key": "+rSeXyCeQQArVWgJ6heVml2tZ3HXFkGjH436p+cORbE=",
-        "vega_pub_key": "77253399f7a706af56656832aaab18db4ab565bc2a4f5aefc6891bab58aad501",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "tJDNVXT5pKrDPa7NMVAMrttSF6NP76fKFOmE1IugntU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/g3olm3e5aplcu2j2d65w5ub1uzzm4kx1?d=identicon",
+        "country": "QH",
+        "ethereum_address": "0x7FBB999d4a4Cb0cbA131a1D97CfE68af67Cc9B07",
+        "id": "c39c9d4561931c157d32f0a3c89d4df3033646bd6dab740231c649bcbb82b4be",
+        "info_url": "https://en.wikipedia.org/wiki/Electro_precipitation",
+        "name": "funny-monkey",
+        "tm_pub_key": "tJDNVXT5pKrDPa7NMVAMrttSF6NP76fKFOmE1IugntU=",
+        "vega_pub_key": "f39008046e61223fb394135fdeb55b00042e1b5ecc9c842c8c4431eb85174b3b",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304041028",
+  "chain_id": "vega-devnet1-202304041320",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-04T10:28:46.977618367Z",
+  "genesis_time": "2023-04-04T13:20:44.647009938Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "642F73417A94B13C40E1DEDD27B142AD14ECF930",
-      "name": "adorable-biscuit",
+      "address": "39E94F8BA1B5BE6D2939001EDBA9FB9555E94614",
+      "name": "funny-monkey",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "+rSeXyCeQQArVWgJ6heVml2tZ3HXFkGjH436p+cORbE="
+        "value": "tJDNVXT5pKrDPa7NMVAMrttSF6NP76fKFOmE1IugntU="
       }
     }
   ]
