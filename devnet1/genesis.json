@@ -302,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "cu6ZA4wfFxGWWIISAjka5oN7L9RqHqmv5jZzIYoR9+E=": {
+        "avatar_url": "https://www.gravatar.com/avatar/q427fsl8q9suzwbht0anms8fg8q1s03c?d=identicon",
+        "country": "RF",
+        "ethereum_address": "0x1c4e1174D74Dc556b7e9a821481D2A64dBc83616",
+        "id": "f18269a78fbd08a0835e3dcb3cf4d0c9c1fc47b27d3d74f8c12421d298a9b85a",
+        "info_url": "https://en.wikipedia.org/wiki/Thirumalai",
+        "name": "quiet-pond",
+        "tm_pub_key": "cu6ZA4wfFxGWWIISAjka5oN7L9RqHqmv5jZzIYoR9+E=",
+        "vega_pub_key": "881fd5d0caaa70fdb901c8916ac408e745660067998d4617010821d9b81e2718",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "xZKnM5LPNQbeUbiiQMr+T3eZ/tMSebtfd3XkSDC0W90=": {
-        "avatar_url": "https://www.gravatar.com/avatar/0cnmw3nnfzoyozyod7hd62cbwn6y6ix7?d=identicon",
-        "country": "VV",
-        "ethereum_address": "0x708Fd2db1E1023368b2F6afD8b6911bfB7C9aAeE",
-        "id": "aea22feec20c7e8093f6478f2470ea7c14644f32d30d2a905d6f2e45694d527b",
-        "info_url": "https://en.wikipedia.org/wiki/Ankit_Chaudhary",
-        "name": "confused-book",
-        "tm_pub_key": "xZKnM5LPNQbeUbiiQMr+T3eZ/tMSebtfd3XkSDC0W90=",
-        "vega_pub_key": "d20d16aca7e7c9689f8a2bee390a0113263b84c170ad54e50de0fb516182708b",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202304031605",
+  "chain_id": "vega-devnet1-202304040732",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-03T16:05:01.26729695Z",
+  "genesis_time": "2023-04-04T07:32:03.374551749Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "B30426627DACF25E9E7F042BA88B8D8E1DAFCE57",
-      "name": "confused-book",
+      "address": "74332DC1CF90B738443D38D3D5CAD55F2F3F74AD",
+      "name": "quiet-pond",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "xZKnM5LPNQbeUbiiQMr+T3eZ/tMSebtfd3XkSDC0W90="
+        "value": "cu6ZA4wfFxGWWIISAjka5oN7L9RqHqmv5jZzIYoR9+E="
       }
     }
   ]
