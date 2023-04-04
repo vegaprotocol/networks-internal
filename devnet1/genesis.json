@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "tJDNVXT5pKrDPa7NMVAMrttSF6NP76fKFOmE1IugntU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/g3olm3e5aplcu2j2d65w5ub1uzzm4kx1?d=identicon",
-        "country": "QH",
-        "ethereum_address": "0x7FBB999d4a4Cb0cbA131a1D97CfE68af67Cc9B07",
-        "id": "c39c9d4561931c157d32f0a3c89d4df3033646bd6dab740231c649bcbb82b4be",
-        "info_url": "https://en.wikipedia.org/wiki/Electro_precipitation",
-        "name": "funny-monkey",
-        "tm_pub_key": "tJDNVXT5pKrDPa7NMVAMrttSF6NP76fKFOmE1IugntU=",
-        "vega_pub_key": "f39008046e61223fb394135fdeb55b00042e1b5ecc9c842c8c4431eb85174b3b",
+      "o1TRkNnSfpvjW9vEoG6IqUfVHVWPQYl3SbjvULNavlQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/3thvh5z4p6yf5zrtsn0q7zpewgni941n?d=identicon",
+        "country": "EG",
+        "ethereum_address": "0x68f0282B162F3373dcdC1c74c28A5F7b9B62a235",
+        "id": "6e2f518cb63e70d8e80f8eb1863044721f1a39a9d3b954d1390084a0553973d1",
+        "info_url": "https://en.wikipedia.org/wiki/Gyan_Dairy",
+        "name": "loose-road",
+        "tm_pub_key": "o1TRkNnSfpvjW9vEoG6IqUfVHVWPQYl3SbjvULNavlQ=",
+        "vega_pub_key": "09ce56f9474aac2b1d37e2bd13aef53a283674980ba273c1af6aa1bbbd9de586",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304041320",
+  "chain_id": "vega-devnet1-202304041626",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-04T13:20:44.647009938Z",
+  "genesis_time": "2023-04-04T16:26:19.400371682Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "39E94F8BA1B5BE6D2939001EDBA9FB9555E94614",
-      "name": "funny-monkey",
+      "address": "ECF31B43AFA10D91521FAE74627A5C3C3F1C3BA1",
+      "name": "loose-road",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "tJDNVXT5pKrDPa7NMVAMrttSF6NP76fKFOmE1IugntU="
+        "value": "o1TRkNnSfpvjW9vEoG6IqUfVHVWPQYl3SbjvULNavlQ="
       }
     }
   ]
