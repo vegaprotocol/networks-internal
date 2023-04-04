@@ -302,17 +302,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "YFhwIgYRP3La3QTxRsAsq9QGher1HP1Tw+jq64CnLts=": {
-        "avatar_url": "https://www.gravatar.com/avatar/hm8aot781junajjh44i3s2ezu90pt9oo?d=identicon",
-        "country": "OB",
-        "ethereum_address": "0x014b231f6F23D1F48086f08f728D53Ebb252e762",
-        "id": "939a5e12f34a56cac60a5a8092341f91156c88bfb700c267286bfcacfd0e3eab",
-        "info_url": "https://en.wikipedia.org/wiki/John_Mascaro",
-        "name": "frantic-spoon",
-        "tm_pub_key": "YFhwIgYRP3La3QTxRsAsq9QGher1HP1Tw+jq64CnLts=",
-        "vega_pub_key": "5e4c7c22893bbeec08ab38bf7828f123c24e56e512443f81f989552dcd6a2868",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "vvroUwI4NG4pQBva0S1jAzjfPiyxvQcK5CVD2uufA68=": {
+        "avatar_url": "https://www.gravatar.com/avatar/wsvqjyclyh69va474l8hgxcs9jd3sob0?d=identicon",
+        "country": "SX",
+        "ethereum_address": "0x21185f59C045f7861b265d0Bd46d5DD9DfA13407",
+        "id": "624d389a3809299be355ec09f40278deee72ac7f8d0e96903d45aab95ee2aaee",
+        "info_url": "https://en.wikipedia.org/wiki/NephroCheck",
+        "name": "happy-car",
+        "tm_pub_key": "vvroUwI4NG4pQBva0S1jAzjfPiyxvQcK5CVD2uufA68=",
+        "vega_pub_key": "c7797cb65bdaff15d75b1b50b5c056569d810dd2f24fe7d5a47c4b1cdadfba76",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202304040829",
+  "chain_id": "vega-devnet1-202304040928",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-04T08:29:17.234452667Z",
+  "genesis_time": "2023-04-04T09:28:28.280577291Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "260B5B226FA38C6F67ABCA6F96887E8EB3238808",
-      "name": "frantic-spoon",
+      "address": "D60E453616FF58D1F22FB786582124564A5CC7D2",
+      "name": "happy-car",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "YFhwIgYRP3La3QTxRsAsq9QGher1HP1Tw+jq64CnLts="
+        "value": "vvroUwI4NG4pQBva0S1jAzjfPiyxvQcK5CVD2uufA68="
       }
     }
   ]
