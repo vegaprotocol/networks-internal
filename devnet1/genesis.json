@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "5jBmDDC6R5dFKiuYALuIjIoPW/IaNxdYn7zHSCmL4m8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ks171fagfa3lxfoobrbfd4p5jpvjobxq?d=identicon",
-        "country": "CP",
-        "ethereum_address": "0x90d36EED94eE4844093f2B953F9F80d8aFeDfBEb",
-        "id": "cae26c5e3d84fa40a25bf109fc26c5fa93414ccca35b398de11b8d8312ae9f9a",
-        "info_url": "https://en.wikipedia.org/wiki/The_Clock_(1917_film)",
-        "name": "inexpensive-swing",
-        "tm_pub_key": "5jBmDDC6R5dFKiuYALuIjIoPW/IaNxdYn7zHSCmL4m8=",
-        "vega_pub_key": "7e61eaaf9665da588535cd14df8593e17e5de7a0bfa97283c7a633de7c8dd517",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "TVe4Nq3El1JrLE0LRD4fuVUEEi4qKFwzN/9pKFskM0E=": {
+        "avatar_url": "https://www.gravatar.com/avatar/7gfcp64a71l1gea6eu9a22y3oxozxdko?d=identicon",
+        "country": "AN",
+        "ethereum_address": "0x16F99099154493bEa87dfe82e1EEAdA138820889",
+        "id": "a58a9befdb0a033c7b7ab42527adae204764bbb35f478d435582dc8f2ca47b3e",
+        "info_url": "https://en.wikipedia.org/wiki/A4123_road",
+        "name": "important-book",
+        "tm_pub_key": "TVe4Nq3El1JrLE0LRD4fuVUEEi4qKFwzN/9pKFskM0E=",
+        "vega_pub_key": "2562a8db2a338a87b64cf2761e580980e0bea5422234edc2cd5a1b2de233c9b7",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304050741",
+  "chain_id": "vega-devnet1-202304050938",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-05T07:41:21.417033183Z",
+  "genesis_time": "2023-04-05T09:38:44.008457691Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "441F849317F545095DC234CEE07DFB5D3C053753",
-      "name": "inexpensive-swing",
+      "address": "3FD26D60B749BF3C5538BED0CAEDCCE793AEBD8D",
+      "name": "important-book",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "5jBmDDC6R5dFKiuYALuIjIoPW/IaNxdYn7zHSCmL4m8="
+        "value": "TVe4Nq3El1JrLE0LRD4fuVUEEi4qKFwzN/9pKFskM0E="
       }
     }
   ]
