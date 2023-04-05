@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "5jBmDDC6R5dFKiuYALuIjIoPW/IaNxdYn7zHSCmL4m8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ks171fagfa3lxfoobrbfd4p5jpvjobxq?d=identicon",
+        "country": "CP",
+        "ethereum_address": "0x90d36EED94eE4844093f2B953F9F80d8aFeDfBEb",
+        "id": "cae26c5e3d84fa40a25bf109fc26c5fa93414ccca35b398de11b8d8312ae9f9a",
+        "info_url": "https://en.wikipedia.org/wiki/The_Clock_(1917_film)",
+        "name": "inexpensive-swing",
+        "tm_pub_key": "5jBmDDC6R5dFKiuYALuIjIoPW/IaNxdYn7zHSCmL4m8=",
+        "vega_pub_key": "7e61eaaf9665da588535cd14df8593e17e5de7a0bfa97283c7a633de7c8dd517",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "iOLNh1Nn0+OXacWYiCQNr8csCAKLdPpPpKWfFZmRa38=": {
-        "avatar_url": "https://www.gravatar.com/avatar/1u7z0poq6n1dvyyuawqpuy3inrzt4mqk?d=identicon",
-        "country": "FJ",
-        "ethereum_address": "0x173527d45435f8b74D77b0f4cc07795FfDD00115",
-        "id": "8e43b3b36dbf84bc351add4804502e8da9aeb79f2979deb2e69feafcdee3e113",
-        "info_url": "https://en.wikipedia.org/wiki/Semantic_P2P_networks",
-        "name": "scruffy-river",
-        "tm_pub_key": "iOLNh1Nn0+OXacWYiCQNr8csCAKLdPpPpKWfFZmRa38=",
-        "vega_pub_key": "6c959151dfeee0d7d45b1f2770e6e13b3ea9694d883fe1dfb65aa7785ce24c50",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304041855",
+  "chain_id": "vega-devnet1-202304050741",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-04T18:55:14.813679207Z",
+  "genesis_time": "2023-04-05T07:41:21.417033183Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "17AE572B4A251295299F901FA5A310444EB4D0ED",
-      "name": "scruffy-river",
+      "address": "441F849317F545095DC234CEE07DFB5D3C053753",
+      "name": "inexpensive-swing",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "iOLNh1Nn0+OXacWYiCQNr8csCAKLdPpPpKWfFZmRa38="
+        "value": "5jBmDDC6R5dFKiuYALuIjIoPW/IaNxdYn7zHSCmL4m8="
       }
     }
   ]
