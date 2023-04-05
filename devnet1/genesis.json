@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "jlco4FHDNU8vmbIeQlIJoe7qMh0iGMmsJFpxWPoDamU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/641ggraknifkn99wzfiawztmpiz724yx?d=identicon",
-        "country": "HG",
-        "ethereum_address": "0x5e3558CD763d42225Bc953f9a567F803D694B17A",
-        "id": "4260d84c25fd61a6d95f8fc5fc763fa529b6d0f99df57c59a2e02047f184911a",
-        "info_url": "https://en.wikipedia.org/wiki/Seal_(mechanical)",
-        "name": "rhythmic-cat",
-        "tm_pub_key": "jlco4FHDNU8vmbIeQlIJoe7qMh0iGMmsJFpxWPoDamU=",
-        "vega_pub_key": "06e60af0ec49ea804757536efb6d15bde61b25de139c9fb2011c24b830531f21",
+      "gnPBq83+SDxVBhqHecVE4njn6RRZl/T47UDhJL/uT/4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/o0ra9l1jxjx6eubgtvp2skxtr6nvbrdk?d=identicon",
+        "country": "IT",
+        "ethereum_address": "0xeBA31bEaBBB9e082449C1FF0AA932FD494A3bf1B",
+        "id": "3d6e1b1d352cb1d9e7aff45658cb90c90906225f138b631dc94535e2037949b1",
+        "info_url": "https://en.wikipedia.org/wiki/Pelot%C3%B3n_VIP",
+        "name": "purring-park",
+        "tm_pub_key": "gnPBq83+SDxVBhqHecVE4njn6RRZl/T47UDhJL/uT/4=",
+        "vega_pub_key": "fa3866dcd3a9cfe8d10f092de82c8b60de3ff49df0ee2c963b08a4d390abd71d",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304051204",
+  "chain_id": "vega-devnet1-202304051256",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-05T12:04:57.73566961Z",
+  "genesis_time": "2023-04-05T12:56:28.84930716Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "7C1792746CA8349CB21C05A5D8A7148792B64413",
-      "name": "rhythmic-cat",
+      "address": "4FFE2D5BB9A0E34E3DFBC74AF4269D93AE553050",
+      "name": "purring-park",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "jlco4FHDNU8vmbIeQlIJoe7qMh0iGMmsJFpxWPoDamU="
+        "value": "gnPBq83+SDxVBhqHecVE4njn6RRZl/T47UDhJL/uT/4="
       }
     }
   ]
