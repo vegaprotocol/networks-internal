@@ -291,17 +291,6 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
-      "Hxt2ZHO7AJBHk4044KoJV+cJU/7oKbR5wIl/pAU6HFE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ibglycx8vxts2qyw37su4dnq0aehdnwu?d=identicon",
-        "country": "KF",
-        "ethereum_address": "0xc9085Fe257F15fab59cBd2ff5734095db4449553",
-        "id": "7e55a38bef32e40c905c9009f866df87d64766c8b059cc1b8fa36013f1ce59c8",
-        "info_url": "https://en.wikipedia.org/wiki/Taurekareka_Henare",
-        "name": "short-ball",
-        "tm_pub_key": "Hxt2ZHO7AJBHk4044KoJV+cJU/7oKbR5wIl/pAU6HFE=",
-        "vega_pub_key": "68e2c92073da6c6a505237e8d2eae11e75babc3261c52bc544fe8f6a81316d39",
-        "vega_pub_key_index": 1
-      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -311,6 +300,17 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
+        "vega_pub_key_index": 1
+      },
+      "o8MnzkcMWxQmf2mesMjaoyV1IVNE0iRqnViIuRhd7PQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/8219q97eimuj12d82pa3ur5besf6vxi0?d=identicon",
+        "country": "EN",
+        "ethereum_address": "0x06E765deBF50508E4117374ff787D668D62c8885",
+        "id": "c614fc7fb9e91aaea812cfa5fa3634c5d8fcd2b4c7da27b08944ea3eb80abd47",
+        "info_url": "https://en.wikipedia.org/wiki/WXNV-LP",
+        "name": "distressed-pencil",
+        "tm_pub_key": "o8MnzkcMWxQmf2mesMjaoyV1IVNE0iRqnViIuRhd7PQ=",
+        "vega_pub_key": "5743576c8455b96a298dc7241628df642d46978f9ddbdf67c2dd41e33072f6c1",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304051510",
+  "chain_id": "vega-devnet1-202304051609",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-05T15:10:37.068710007Z",
+  "genesis_time": "2023-04-05T16:09:58.454549729Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "8C23111B57ACD3EC8C516A8F2B6A2B8A4D6D9B5B",
-      "name": "short-ball",
+      "address": "7DF8BFE1F12727820F32F2A9EE422B0C8EDEFFE9",
+      "name": "distressed-pencil",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Hxt2ZHO7AJBHk4044KoJV+cJU/7oKbR5wIl/pAU6HFE="
+        "value": "o8MnzkcMWxQmf2mesMjaoyV1IVNE0iRqnViIuRhd7PQ="
       }
     }
   ]
