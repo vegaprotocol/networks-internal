@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "th1s94EM+otFEsb+afcNvH7tN7qtGo3sXWWqAvINIzg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/zujyk2l0iu7evcwtrlatwji5a8475sgm?d=identicon",
-        "country": "RH",
-        "ethereum_address": "0xF064B331e45969B5824F230AC729f93a921f4F1a",
-        "id": "ab5f4bf38f226392a769800d58ad202284361e025f01f7a3b7d6ad027fef6a84",
-        "info_url": "https://en.wikipedia.org/wiki/1998_ABC_Champions_Cup",
-        "name": "wicked-day",
-        "tm_pub_key": "th1s94EM+otFEsb+afcNvH7tN7qtGo3sXWWqAvINIzg=",
-        "vega_pub_key": "681d171b178f5df738701f52333d8cbf25b8de477c3e35ce85b300a50f88efbd",
+      "jlco4FHDNU8vmbIeQlIJoe7qMh0iGMmsJFpxWPoDamU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/641ggraknifkn99wzfiawztmpiz724yx?d=identicon",
+        "country": "HG",
+        "ethereum_address": "0x5e3558CD763d42225Bc953f9a567F803D694B17A",
+        "id": "4260d84c25fd61a6d95f8fc5fc763fa529b6d0f99df57c59a2e02047f184911a",
+        "info_url": "https://en.wikipedia.org/wiki/Seal_(mechanical)",
+        "name": "rhythmic-cat",
+        "tm_pub_key": "jlco4FHDNU8vmbIeQlIJoe7qMh0iGMmsJFpxWPoDamU=",
+        "vega_pub_key": "06e60af0ec49ea804757536efb6d15bde61b25de139c9fb2011c24b830531f21",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304051131",
+  "chain_id": "vega-devnet1-202304051204",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-05T11:31:16.629978314Z",
+  "genesis_time": "2023-04-05T12:04:57.73566961Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "EDD4E28C105C00455E48E2E4273C5D69D6EDA00F",
-      "name": "wicked-day",
+      "address": "7C1792746CA8349CB21C05A5D8A7148792B64413",
+      "name": "rhythmic-cat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "th1s94EM+otFEsb+afcNvH7tN7qtGo3sXWWqAvINIzg="
+        "value": "jlco4FHDNU8vmbIeQlIJoe7qMh0iGMmsJFpxWPoDamU="
       }
     }
   ]
