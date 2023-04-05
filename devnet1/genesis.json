@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "o8MnzkcMWxQmf2mesMjaoyV1IVNE0iRqnViIuRhd7PQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/8219q97eimuj12d82pa3ur5besf6vxi0?d=identicon",
-        "country": "EN",
-        "ethereum_address": "0x06E765deBF50508E4117374ff787D668D62c8885",
-        "id": "c614fc7fb9e91aaea812cfa5fa3634c5d8fcd2b4c7da27b08944ea3eb80abd47",
-        "info_url": "https://en.wikipedia.org/wiki/WXNV-LP",
-        "name": "distressed-pencil",
-        "tm_pub_key": "o8MnzkcMWxQmf2mesMjaoyV1IVNE0iRqnViIuRhd7PQ=",
-        "vega_pub_key": "5743576c8455b96a298dc7241628df642d46978f9ddbdf67c2dd41e33072f6c1",
+      "olQE1Jk+FrjmGUaBW68jDdeTyibLredhAXy0x2gsXjI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/lcvico8os6hrbj7n40mb1bstwlxp0cmq?d=identicon",
+        "country": "CM",
+        "ethereum_address": "0x3A7169bcfeA9E4f2cEE744AeF5a55bDD2AC20ec3",
+        "id": "27d0afcf2c7ea30cc03f496fa53a51c1a570bf6af3423b97d18c3310c01e811d",
+        "info_url": "https://en.wikipedia.org/wiki/Micha%C5%82_Hieronim_Leszczyc-Sumi%C5%84ski",
+        "name": "frantic-barber",
+        "tm_pub_key": "olQE1Jk+FrjmGUaBW68jDdeTyibLredhAXy0x2gsXjI=",
+        "vega_pub_key": "f91faa34a1f1695a584a3a2f34fb8c94ad58fcddf74dd1b90783c6455ffed5ac",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304051609",
+  "chain_id": "vega-devnet1-202304051711",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-05T16:09:58.454549729Z",
+  "genesis_time": "2023-04-05T17:11:44.824377672Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "7DF8BFE1F12727820F32F2A9EE422B0C8EDEFFE9",
-      "name": "distressed-pencil",
+      "address": "6FB509E91D7467A2A153699DD6C7E3758EF08A89",
+      "name": "frantic-barber",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "o8MnzkcMWxQmf2mesMjaoyV1IVNE0iRqnViIuRhd7PQ="
+        "value": "olQE1Jk+FrjmGUaBW68jDdeTyibLredhAXy0x2gsXjI="
       }
     }
   ]
