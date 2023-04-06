@@ -291,6 +291,17 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
+      "EzQONoMHg5O/LOCKvHv7Y8gX4ElAsr0Q5IuFdic5Zic=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ag6mzrni0vn6mg0txexvnwafbkldodec?d=identicon",
+        "country": "PO",
+        "ethereum_address": "0x27886D0f219321112Fb92FFe2AF4EaC6d2d48bc1",
+        "id": "46ccb872078ee79a1477181cb3083c8be4a55096c83976df84c132ef5c0258e4",
+        "info_url": "https://en.wikipedia.org/wiki/Kampung_Malaysia",
+        "name": "fluky-apple",
+        "tm_pub_key": "EzQONoMHg5O/LOCKvHv7Y8gX4ElAsr0Q5IuFdic5Zic=",
+        "vega_pub_key": "3a57e45b28014e3019589d8e06ee55b69ee0b81f9586d7066294d078d365d880",
+        "vega_pub_key_index": 1
+      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -300,17 +311,6 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
-        "vega_pub_key_index": 1
-      },
-      "olQE1Jk+FrjmGUaBW68jDdeTyibLredhAXy0x2gsXjI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/lcvico8os6hrbj7n40mb1bstwlxp0cmq?d=identicon",
-        "country": "CM",
-        "ethereum_address": "0x3A7169bcfeA9E4f2cEE744AeF5a55bDD2AC20ec3",
-        "id": "27d0afcf2c7ea30cc03f496fa53a51c1a570bf6af3423b97d18c3310c01e811d",
-        "info_url": "https://en.wikipedia.org/wiki/Micha%C5%82_Hieronim_Leszczyc-Sumi%C5%84ski",
-        "name": "frantic-barber",
-        "tm_pub_key": "olQE1Jk+FrjmGUaBW68jDdeTyibLredhAXy0x2gsXjI=",
-        "vega_pub_key": "f91faa34a1f1695a584a3a2f34fb8c94ad58fcddf74dd1b90783c6455ffed5ac",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304051711",
+  "chain_id": "vega-devnet1-202304061006",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-05T17:11:44.824377672Z",
+  "genesis_time": "2023-04-06T10:06:18.36749448Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "6FB509E91D7467A2A153699DD6C7E3758EF08A89",
-      "name": "frantic-barber",
+      "address": "D9344F2CC632F28FBC1EACBEFBF98489E6FF802C",
+      "name": "fluky-apple",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "olQE1Jk+FrjmGUaBW68jDdeTyibLredhAXy0x2gsXjI="
+        "value": "EzQONoMHg5O/LOCKvHv7Y8gX4ElAsr0Q5IuFdic5Zic="
       }
     }
   ]
