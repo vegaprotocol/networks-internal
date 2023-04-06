@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "jIzDu8JJ0Hl0C23bBmLJQCqwEytSikM9vigi7bu+2kY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/6dqf3qnctsrov9o7pq8tejjekglyl6gp?d=identicon",
-        "country": "EB",
-        "ethereum_address": "0x31f569c244e4E5EC135f56278E99BeA92576e596",
-        "id": "e85b9e0c701cdc6e0e009664a461d4895e60d1c37e7776d919c5662c620bdeda",
-        "info_url": "https://en.wikipedia.org/wiki/Muscourt",
-        "name": "red-stove",
-        "tm_pub_key": "jIzDu8JJ0Hl0C23bBmLJQCqwEytSikM9vigi7bu+2kY=",
-        "vega_pub_key": "335dea4a8e4b482f5a5bb631199d6b4c7fea135802eb717b3ff1c2a16496f6e5",
+      "PkVLAeuhJVpZylxH3AH468FuU+fYCLzo4G2OhRXD8d4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/kkju5aw0pa8li0jmlkepmg2yptyef1ix?d=identicon",
+        "country": "WL",
+        "ethereum_address": "0xb79D366BfA9Caf493dfd71915E34815BA7D3E4bE",
+        "id": "3d4af65fc675c0209d528484e04bf1c66656b90553ea98a12b64de518616b643",
+        "info_url": "https://en.wikipedia.org/wiki/H%C3%B6gaborgs_BK",
+        "name": "stocky-bird",
+        "tm_pub_key": "PkVLAeuhJVpZylxH3AH468FuU+fYCLzo4G2OhRXD8d4=",
+        "vega_pub_key": "44450e71b1f5edc0ab6f73faf66860bfeb1664fd13ac8a000b1897bc4b0c86ce",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304061239",
+  "chain_id": "vega-devnet1-202304061326",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-06T12:39:27.755798339Z",
+  "genesis_time": "2023-04-06T13:26:01.277819981Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "5B32F2370924F1BABEBA1E550CC13930960E268B",
-      "name": "red-stove",
+      "address": "B5C09BF4087C244F66224FD26784EFE9FEC3C699",
+      "name": "stocky-bird",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "jIzDu8JJ0Hl0C23bBmLJQCqwEytSikM9vigi7bu+2kY="
+        "value": "PkVLAeuhJVpZylxH3AH468FuU+fYCLzo4G2OhRXD8d4="
       }
     }
   ]
