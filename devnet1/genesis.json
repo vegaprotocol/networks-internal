@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "P7abihw07BUrIeParTm6XyCl64K69p+3+pIxsI8NiyU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ocgu99swl3o9gnl4gc5tppio514qkqb8?d=identicon",
-        "country": "HU",
-        "ethereum_address": "0x1f7AeF6f023d0cba2F4F9A74D2a31321575628BC",
-        "id": "f8aac5921d07ad472801dd03dc1ef715fce0e21271174ba0f1fb7bb05ce2b1c5",
-        "info_url": "https://en.wikipedia.org/wiki/Berden_de_Vries",
-        "name": "hollow-pool",
-        "tm_pub_key": "P7abihw07BUrIeParTm6XyCl64K69p+3+pIxsI8NiyU=",
-        "vega_pub_key": "2332cbebdcee233b085e1249b9163c438b5457e3186055d6937d84b4ceaf9c43",
+      "jIzDu8JJ0Hl0C23bBmLJQCqwEytSikM9vigi7bu+2kY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/6dqf3qnctsrov9o7pq8tejjekglyl6gp?d=identicon",
+        "country": "EB",
+        "ethereum_address": "0x31f569c244e4E5EC135f56278E99BeA92576e596",
+        "id": "e85b9e0c701cdc6e0e009664a461d4895e60d1c37e7776d919c5662c620bdeda",
+        "info_url": "https://en.wikipedia.org/wiki/Muscourt",
+        "name": "red-stove",
+        "tm_pub_key": "jIzDu8JJ0Hl0C23bBmLJQCqwEytSikM9vigi7bu+2kY=",
+        "vega_pub_key": "335dea4a8e4b482f5a5bb631199d6b4c7fea135802eb717b3ff1c2a16496f6e5",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304061139",
+  "chain_id": "vega-devnet1-202304061218",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-06T11:39:14.889628547Z",
+  "genesis_time": "2023-04-06T12:18:16.916641735Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "DB2143727A6F9EE9B88F85775F95522AA93B3342",
-      "name": "hollow-pool",
+      "address": "5B32F2370924F1BABEBA1E550CC13930960E268B",
+      "name": "red-stove",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "P7abihw07BUrIeParTm6XyCl64K69p+3+pIxsI8NiyU="
+        "value": "jIzDu8JJ0Hl0C23bBmLJQCqwEytSikM9vigi7bu+2kY="
       }
     }
   ]
