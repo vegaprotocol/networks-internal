@@ -291,17 +291,6 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
-      "EzQONoMHg5O/LOCKvHv7Y8gX4ElAsr0Q5IuFdic5Zic=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ag6mzrni0vn6mg0txexvnwafbkldodec?d=identicon",
-        "country": "PO",
-        "ethereum_address": "0x27886D0f219321112Fb92FFe2AF4EaC6d2d48bc1",
-        "id": "46ccb872078ee79a1477181cb3083c8be4a55096c83976df84c132ef5c0258e4",
-        "info_url": "https://en.wikipedia.org/wiki/Kampung_Malaysia",
-        "name": "fluky-apple",
-        "tm_pub_key": "EzQONoMHg5O/LOCKvHv7Y8gX4ElAsr0Q5IuFdic5Zic=",
-        "vega_pub_key": "3a57e45b28014e3019589d8e06ee55b69ee0b81f9586d7066294d078d365d880",
-        "vega_pub_key_index": 1
-      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -311,6 +300,17 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
+        "vega_pub_key_index": 1
+      },
+      "P7abihw07BUrIeParTm6XyCl64K69p+3+pIxsI8NiyU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ocgu99swl3o9gnl4gc5tppio514qkqb8?d=identicon",
+        "country": "HU",
+        "ethereum_address": "0x1f7AeF6f023d0cba2F4F9A74D2a31321575628BC",
+        "id": "f8aac5921d07ad472801dd03dc1ef715fce0e21271174ba0f1fb7bb05ce2b1c5",
+        "info_url": "https://en.wikipedia.org/wiki/Berden_de_Vries",
+        "name": "hollow-pool",
+        "tm_pub_key": "P7abihw07BUrIeParTm6XyCl64K69p+3+pIxsI8NiyU=",
+        "vega_pub_key": "2332cbebdcee233b085e1249b9163c438b5457e3186055d6937d84b4ceaf9c43",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304061006",
+  "chain_id": "vega-devnet1-202304061139",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-06T10:06:18.36749448Z",
+  "genesis_time": "2023-04-06T11:39:14.889628547Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "D9344F2CC632F28FBC1EACBEFBF98489E6FF802C",
-      "name": "fluky-apple",
+      "address": "DB2143727A6F9EE9B88F85775F95522AA93B3342",
+      "name": "hollow-pool",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "EzQONoMHg5O/LOCKvHv7Y8gX4ElAsr0Q5IuFdic5Zic="
+        "value": "P7abihw07BUrIeParTm6XyCl64K69p+3+pIxsI8NiyU="
       }
     }
   ]
