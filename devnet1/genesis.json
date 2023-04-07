@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "8KH9HKhpx2D08QqHkSqIJs21MYNZp/hV0y0x/q9pICI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/23wvr9s3c85z02l01gzg19k60ccw53w2?d=identicon",
+        "country": "VS",
+        "ethereum_address": "0x94C340e3155a18cf0928c9cB70b62E9aA30ce657",
+        "id": "c0878f858dd33ada9e3da4ead446a9184411dcd86624760ae80f0d00d9b985a6",
+        "info_url": "https://en.wikipedia.org/wiki/Koegas_mine",
+        "name": "odd-duck",
+        "tm_pub_key": "8KH9HKhpx2D08QqHkSqIJs21MYNZp/hV0y0x/q9pICI=",
+        "vega_pub_key": "4b32f686300b01ed1191ed163c600c228e46fa850fdebd7b74339d5714883e0d",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "PkVLAeuhJVpZylxH3AH468FuU+fYCLzo4G2OhRXD8d4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/kkju5aw0pa8li0jmlkepmg2yptyef1ix?d=identicon",
-        "country": "WL",
-        "ethereum_address": "0xb79D366BfA9Caf493dfd71915E34815BA7D3E4bE",
-        "id": "3d4af65fc675c0209d528484e04bf1c66656b90553ea98a12b64de518616b643",
-        "info_url": "https://en.wikipedia.org/wiki/H%C3%B6gaborgs_BK",
-        "name": "stocky-bird",
-        "tm_pub_key": "PkVLAeuhJVpZylxH3AH468FuU+fYCLzo4G2OhRXD8d4=",
-        "vega_pub_key": "44450e71b1f5edc0ab6f73faf66860bfeb1664fd13ac8a000b1897bc4b0c86ce",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304061326",
+  "chain_id": "vega-devnet1-202304071146",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-06T13:26:01.277819981Z",
+  "genesis_time": "2023-04-07T11:46:44.308078513Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "B5C09BF4087C244F66224FD26784EFE9FEC3C699",
-      "name": "stocky-bird",
+      "address": "0FD2309799201C78557E2269C475EB8788615D4A",
+      "name": "odd-duck",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "PkVLAeuhJVpZylxH3AH468FuU+fYCLzo4G2OhRXD8d4="
+        "value": "8KH9HKhpx2D08QqHkSqIJs21MYNZp/hV0y0x/q9pICI="
       }
     }
   ]
