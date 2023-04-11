@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "lAcoUK0Z/Co2uLpm5p/NTywo4ZCYrBe9LXG0uVurypA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/cc7l61or8x1vakb7istmhsifs4digr3p?d=identicon",
-        "country": "JL",
-        "ethereum_address": "0x7468eB75376266D81e3d7A4F02C335B2EbeC2838",
-        "id": "4461a8939cfe12b3026559d35be97c51b7964d77217ea0202d83fefbfc19c957",
-        "info_url": "https://en.wikipedia.org/wiki/Academic_dress_of_the_University_of_Glasgow",
-        "name": "magnificent-movie",
-        "tm_pub_key": "lAcoUK0Z/Co2uLpm5p/NTywo4ZCYrBe9LXG0uVurypA=",
-        "vega_pub_key": "892c77e2f21ad029c71aa306681c6928b98a4a9ef7be6fb7197e6c31be26b401",
+      "c3e0ukt783ryy5Vu+nxiEP6CxHa539OhccSxHK+l7i4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/nyu6xe23qlefyl5kjap369ib2k6zghwm?d=identicon",
+        "country": "IZ",
+        "ethereum_address": "0x2C1F42695838d76bde2788e67414A09ACd831191",
+        "id": "42038c4627416e23871202d0131836c78e59e7c9fb1a5bd7fb9a572701eefa35",
+        "info_url": "https://en.wikipedia.org/wiki/The_Forgotten_King",
+        "name": "crashing-man",
+        "tm_pub_key": "c3e0ukt783ryy5Vu+nxiEP6CxHa539OhccSxHK+l7i4=",
+        "vega_pub_key": "170742d1c76b0d2d6264f0657a38294da27ba8d90cc97e8720f2afd4bc192895",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304081840",
+  "chain_id": "vega-devnet1-202304110840",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-08T18:40:31.855715932Z",
+  "genesis_time": "2023-04-11T08:40:32.447158455Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "36838BC02C690CA8D83E4A52106D1AF64895DD58",
-      "name": "magnificent-movie",
+      "address": "98E30C00B78AB7FF5EA8F2F673B850B4FF8633A9",
+      "name": "crashing-man",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "lAcoUK0Z/Co2uLpm5p/NTywo4ZCYrBe9LXG0uVurypA="
+        "value": "c3e0ukt783ryy5Vu+nxiEP6CxHa539OhccSxHK+l7i4="
       }
     }
   ]
