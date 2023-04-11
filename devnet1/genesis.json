@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "3vA1DQkkcOVdW81jhK1jXIJI6g96kBTYnJrrrD6UKaw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/lwajbzyoxvqlxr5iomqlo98xkpxpmy72?d=identicon",
+        "country": "WG",
+        "ethereum_address": "0x0c618815898D68985DD8398575e42aEE2d4395e2",
+        "id": "576fabd6ac854b86a37b14c3fada5eafe49ab5112ca3a94136cead96452487fe",
+        "info_url": "https://en.wikipedia.org/wiki/Human_Tissue_(Scotland)_Act_2006",
+        "name": "glorious-spoon",
+        "tm_pub_key": "3vA1DQkkcOVdW81jhK1jXIJI6g96kBTYnJrrrD6UKaw=",
+        "vega_pub_key": "84893df1a2199d520d4b87e22e5328a5b0cb7c5bf7afa2e00a9cd0cc35b5fa90",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "c3e0ukt783ryy5Vu+nxiEP6CxHa539OhccSxHK+l7i4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/nyu6xe23qlefyl5kjap369ib2k6zghwm?d=identicon",
-        "country": "IZ",
-        "ethereum_address": "0x2C1F42695838d76bde2788e67414A09ACd831191",
-        "id": "42038c4627416e23871202d0131836c78e59e7c9fb1a5bd7fb9a572701eefa35",
-        "info_url": "https://en.wikipedia.org/wiki/The_Forgotten_King",
-        "name": "crashing-man",
-        "tm_pub_key": "c3e0ukt783ryy5Vu+nxiEP6CxHa539OhccSxHK+l7i4=",
-        "vega_pub_key": "170742d1c76b0d2d6264f0657a38294da27ba8d90cc97e8720f2afd4bc192895",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304110840",
+  "chain_id": "vega-devnet1-202304111606",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-11T08:40:32.447158455Z",
+  "genesis_time": "2023-04-11T16:06:51.696589591Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "98E30C00B78AB7FF5EA8F2F673B850B4FF8633A9",
-      "name": "crashing-man",
+      "address": "DE41AB5F73F7F66587B2BC3795D96F866B5852A5",
+      "name": "glorious-spoon",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "c3e0ukt783ryy5Vu+nxiEP6CxHa539OhccSxHK+l7i4="
+        "value": "3vA1DQkkcOVdW81jhK1jXIJI6g96kBTYnJrrrD6UKaw="
       }
     }
   ]
