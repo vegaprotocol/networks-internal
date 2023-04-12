@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "3vA1DQkkcOVdW81jhK1jXIJI6g96kBTYnJrrrD6UKaw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/lwajbzyoxvqlxr5iomqlo98xkpxpmy72?d=identicon",
-        "country": "WG",
-        "ethereum_address": "0x0c618815898D68985DD8398575e42aEE2d4395e2",
-        "id": "576fabd6ac854b86a37b14c3fada5eafe49ab5112ca3a94136cead96452487fe",
-        "info_url": "https://en.wikipedia.org/wiki/Human_Tissue_(Scotland)_Act_2006",
-        "name": "glorious-spoon",
-        "tm_pub_key": "3vA1DQkkcOVdW81jhK1jXIJI6g96kBTYnJrrrD6UKaw=",
-        "vega_pub_key": "84893df1a2199d520d4b87e22e5328a5b0cb7c5bf7afa2e00a9cd0cc35b5fa90",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "LXnLocxpRjdhtYFEwgcajY4o9BEQd1SxoZOfcUvOrDQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ene8k09ohfgi4s396gyduods32fyxgj0?d=identicon",
+        "country": "MT",
+        "ethereum_address": "0x8ca17f9c6d3d589d6b86Ea270f5E3e79Df927935",
+        "id": "612611fd214959c2ee26f269f02230d16cfa5e7efdf761b150d49069caeb3e9f",
+        "info_url": "https://en.wikipedia.org/wiki/Woolstock,_Iowa",
+        "name": "gritty-river",
+        "tm_pub_key": "LXnLocxpRjdhtYFEwgcajY4o9BEQd1SxoZOfcUvOrDQ=",
+        "vega_pub_key": "12234c7500aa4877800f8cf8f991cb22dff51b04341723320b8e613f79545b14",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304111641",
+  "chain_id": "vega-devnet1-202304121335",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-11T16:41:45.05001583Z",
+  "genesis_time": "2023-04-12T13:35:05.882095551Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "DE41AB5F73F7F66587B2BC3795D96F866B5852A5",
-      "name": "glorious-spoon",
+      "address": "35BD5E02D96E9F6A25181C5ED9F75B115E4E118E",
+      "name": "gritty-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "3vA1DQkkcOVdW81jhK1jXIJI6g96kBTYnJrrrD6UKaw="
+        "value": "LXnLocxpRjdhtYFEwgcajY4o9BEQd1SxoZOfcUvOrDQ="
       }
     }
   ]
