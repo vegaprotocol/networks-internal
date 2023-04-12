@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "LXnLocxpRjdhtYFEwgcajY4o9BEQd1SxoZOfcUvOrDQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ene8k09ohfgi4s396gyduods32fyxgj0?d=identicon",
-        "country": "MT",
-        "ethereum_address": "0x8ca17f9c6d3d589d6b86Ea270f5E3e79Df927935",
-        "id": "612611fd214959c2ee26f269f02230d16cfa5e7efdf761b150d49069caeb3e9f",
-        "info_url": "https://en.wikipedia.org/wiki/Woolstock,_Iowa",
-        "name": "gritty-river",
-        "tm_pub_key": "LXnLocxpRjdhtYFEwgcajY4o9BEQd1SxoZOfcUvOrDQ=",
-        "vega_pub_key": "12234c7500aa4877800f8cf8f991cb22dff51b04341723320b8e613f79545b14",
+      "RQbOzV81pFgCRsa69rVj+6PPo0thbKMLuIIVgdRktcQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/l0yj2b2qrts7v54p4pl3271ei3hubi7n?d=identicon",
+        "country": "QQ",
+        "ethereum_address": "0xf586adc03a2E7A740eFAF02Bc4079CCc51a56475",
+        "id": "caaf25f8489db7ba1cb8cdfe96b73e2418857cd578861a62d5effb8d98501b1c",
+        "info_url": "https://en.wikipedia.org/wiki/Israel_Lovy",
+        "name": "magnificent-clouds",
+        "tm_pub_key": "RQbOzV81pFgCRsa69rVj+6PPo0thbKMLuIIVgdRktcQ=",
+        "vega_pub_key": "98af779f31a8cfdcd63dc9a1283a48d8614c6de10887af47dd87e1cbbe9bd4c0",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304121335",
+  "chain_id": "vega-devnet1-202304121412",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-12T13:35:05.882095551Z",
+  "genesis_time": "2023-04-12T14:12:55.65005023Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "35BD5E02D96E9F6A25181C5ED9F75B115E4E118E",
-      "name": "gritty-river",
+      "address": "D600D0E1BC2B6CD402BD5A8FD4BD639CBE877922",
+      "name": "magnificent-clouds",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "LXnLocxpRjdhtYFEwgcajY4o9BEQd1SxoZOfcUvOrDQ="
+        "value": "RQbOzV81pFgCRsa69rVj+6PPo0thbKMLuIIVgdRktcQ="
       }
     }
   ]
