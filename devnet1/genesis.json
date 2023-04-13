@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "54jJZ1JftrCYJLXAxHkBjBtE+nb+Zwyn2LnFaMQifeM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/duu61658m4kcc1gtfnooiipuoamgw7rz?d=identicon",
+        "country": "JM",
+        "ethereum_address": "0x4ebA61d15dA44B77E560eF3cFAa16A5c9b703223",
+        "id": "1b24083919ba9bb1d2a13efef826c3ba25eba0ef3fa38e41e4564547f9ba6edf",
+        "info_url": "https://en.wikipedia.org/wiki/Clubmoor_railway_station",
+        "name": "adorable-cat",
+        "tm_pub_key": "54jJZ1JftrCYJLXAxHkBjBtE+nb+Zwyn2LnFaMQifeM=",
+        "vega_pub_key": "6a35e86bee49d5a4f7564d5398fa8721cb8c4c71baa8de478ac662b5b7dd71cd",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "lpRruofbXf/yY/gftqAFmTeg+F2dJJEX2fll26ENBNE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/4crq0r3qcpeslyi818bi60o38bdidzz3?d=identicon",
-        "country": "KM",
-        "ethereum_address": "0x60A2C09022001835108ddbA74A628C6BD7f13DaC",
-        "id": "964e67d49db4045666f174ed0b7b0271bbf83d82754d11acc735ee6476c482ae",
-        "info_url": "https://en.wikipedia.org/wiki/Sharon_Springs,_New_York",
-        "name": "zippy-town",
-        "tm_pub_key": "lpRruofbXf/yY/gftqAFmTeg+F2dJJEX2fll26ENBNE=",
-        "vega_pub_key": "4035ac61e86f0d1a13b0f5960214b850a4610b9fd763081b61051fbbe0f1d57e",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304131113",
+  "chain_id": "vega-devnet1-202304131606",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-13T11:13:47.291522824Z",
+  "genesis_time": "2023-04-13T16:06:07.458322894Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "A9B62CC0D08F0940CD683CF81EF7ABF2685096CC",
-      "name": "zippy-town",
+      "address": "1257E5E3C739AE02B36BA15B348E7459B6F0C47F",
+      "name": "adorable-cat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "lpRruofbXf/yY/gftqAFmTeg+F2dJJEX2fll26ENBNE="
+        "value": "54jJZ1JftrCYJLXAxHkBjBtE+nb+Zwyn2LnFaMQifeM="
       }
     }
   ]
