@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "+O6dCaju3UBzL9YBdAT+WA2yLmj9cGUI34SuKgIQuJw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/x9feoqkzy0so5fc02zi1dv8a1532hv1y?d=identicon",
-        "country": "MP",
-        "ethereum_address": "0x76c8a987Da6F975a9ed932a2DbD7f383402007fD",
-        "id": "2f98f80620913d7a3d44afada994d568773c698eaef0b7332c0fc6e282f39233",
-        "info_url": "https://en.wikipedia.org/wiki/Grand_Masters_of_the_Order_of_Saint_Lazarus",
-        "name": "tender-bird",
-        "tm_pub_key": "+O6dCaju3UBzL9YBdAT+WA2yLmj9cGUI34SuKgIQuJw=",
-        "vega_pub_key": "9490db6dd8b2f7997ffee3270a4ff4c890bad71f3d15afa6350c4085a0738a15",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "zS6pTPO35SniujIAjb4834sOFprMEsce6qqbEVXOqT4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/y2wtkzbtjw4s40eoidbowe8ubg844cw6?d=identicon",
+        "country": "OV",
+        "ethereum_address": "0xf4A248C060e162D7e2b22457aF50C9585f48Dc59",
+        "id": "8164639c6abd6e790a39aa00b134f074f3bbb5487e49965b8001c105cb4eb3c9",
+        "info_url": "https://en.wikipedia.org/wiki/List_of_amusement_parks",
+        "name": "wailing-toy",
+        "tm_pub_key": "zS6pTPO35SniujIAjb4834sOFprMEsce6qqbEVXOqT4=",
+        "vega_pub_key": "4c4c65cad4992147a00406f0b4a2ef91c34657bb3fbb71b2a44cd0c9f0833977",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202304140728",
+  "chain_id": "vega-devnet1-202304141021",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-14T07:28:03.756933937Z",
+  "genesis_time": "2023-04-14T10:21:15.336983408Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "84958872EE8ADAE97C6C8AD2A5265D047E5690B7",
-      "name": "tender-bird",
+      "address": "14CB9E618C7E138F3778E7F6403495D267739873",
+      "name": "wailing-toy",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "+O6dCaju3UBzL9YBdAT+WA2yLmj9cGUI34SuKgIQuJw="
+        "value": "zS6pTPO35SniujIAjb4834sOFprMEsce6qqbEVXOqT4="
       }
     }
   ]
