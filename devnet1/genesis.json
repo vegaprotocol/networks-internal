@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "5xXVb3ptsCaZ7YDoMjSW0yc1Xe0sXx7pjx4GOC428ZI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/l8h32f1447gxe2ib3gzj84u5dd3dnd7s?d=identicon",
-        "country": "UL",
-        "ethereum_address": "0xc6B39F12de3dfbC2887c0FB818050e3F8C62807E",
-        "id": "ced1ac5f9f7a30cfe65d524b34de055db2226d4da0ad9576e617f9a160183202",
-        "info_url": "https://en.wikipedia.org/wiki/Malaysia_at_the_2017_Asian_Winter_Games",
-        "name": "condescending-window",
-        "tm_pub_key": "5xXVb3ptsCaZ7YDoMjSW0yc1Xe0sXx7pjx4GOC428ZI=",
-        "vega_pub_key": "687d3df81d2e9b579f57f550aaa39363d29526f55ea4545fe83d3aeafb793a50",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "wehmWdHVrsTY5WeH4bV82ZpTi4mBgKhazzpTRnHmpig=": {
+        "avatar_url": "https://www.gravatar.com/avatar/zdoy5k8x4ytiv20ojr63jn3q138kesao?d=identicon",
+        "country": "BS",
+        "ethereum_address": "0x2982E83D79931351a52396FaCe7F6ca2d3F7d0de",
+        "id": "471cca6bf7562156d1cecfb521eb4c0d0f4712b9e49f0eae22260c4c29e4aa73",
+        "info_url": "https://en.wikipedia.org/wiki/Ivan_Kondakov",
+        "name": "gray-clouds",
+        "tm_pub_key": "wehmWdHVrsTY5WeH4bV82ZpTi4mBgKhazzpTRnHmpig=",
+        "vega_pub_key": "bd725be7bf51e0f90765f482f5dd074aef891edd9b86e28a053d329ed3d7c504",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202304141305",
+  "chain_id": "vega-devnet1-202304141502",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-14T13:05:32.968070806Z",
+  "genesis_time": "2023-04-14T15:02:51.091715465Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "812D56D4DDDCCEFE13A5CA77125BFD1C815B7A55",
-      "name": "condescending-window",
+      "address": "BE43AC73EB56FE77543471AB130226F095594037",
+      "name": "gray-clouds",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "5xXVb3ptsCaZ7YDoMjSW0yc1Xe0sXx7pjx4GOC428ZI="
+        "value": "wehmWdHVrsTY5WeH4bV82ZpTi4mBgKhazzpTRnHmpig="
       }
     }
   ]
