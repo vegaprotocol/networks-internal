@@ -269,15 +269,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "54jJZ1JftrCYJLXAxHkBjBtE+nb+Zwyn2LnFaMQifeM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/duu61658m4kcc1gtfnooiipuoamgw7rz?d=identicon",
-        "country": "JM",
-        "ethereum_address": "0x4ebA61d15dA44B77E560eF3cFAa16A5c9b703223",
-        "id": "1b24083919ba9bb1d2a13efef826c3ba25eba0ef3fa38e41e4564547f9ba6edf",
-        "info_url": "https://en.wikipedia.org/wiki/Clubmoor_railway_station",
-        "name": "adorable-cat",
-        "tm_pub_key": "54jJZ1JftrCYJLXAxHkBjBtE+nb+Zwyn2LnFaMQifeM=",
-        "vega_pub_key": "6a35e86bee49d5a4f7564d5398fa8721cb8c4c71baa8de478ac662b5b7dd71cd",
+      "+O6dCaju3UBzL9YBdAT+WA2yLmj9cGUI34SuKgIQuJw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/x9feoqkzy0so5fc02zi1dv8a1532hv1y?d=identicon",
+        "country": "MP",
+        "ethereum_address": "0x76c8a987Da6F975a9ed932a2DbD7f383402007fD",
+        "id": "2f98f80620913d7a3d44afada994d568773c698eaef0b7332c0fc6e282f39233",
+        "info_url": "https://en.wikipedia.org/wiki/Grand_Masters_of_the_Order_of_Saint_Lazarus",
+        "name": "tender-bird",
+        "tm_pub_key": "+O6dCaju3UBzL9YBdAT+WA2yLmj9cGUI34SuKgIQuJw=",
+        "vega_pub_key": "9490db6dd8b2f7997ffee3270a4ff4c890bad71f3d15afa6350c4085a0738a15",
         "vega_pub_key_index": 1
       },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304131606",
+  "chain_id": "vega-devnet1-202304140728",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-13T16:06:07.458322894Z",
+  "genesis_time": "2023-04-14T07:28:03.756933937Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "1257E5E3C739AE02B36BA15B348E7459B6F0C47F",
-      "name": "adorable-cat",
+      "address": "84958872EE8ADAE97C6C8AD2A5265D047E5690B7",
+      "name": "tender-bird",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "54jJZ1JftrCYJLXAxHkBjBtE+nb+Zwyn2LnFaMQifeM="
+        "value": "+O6dCaju3UBzL9YBdAT+WA2yLmj9cGUI34SuKgIQuJw="
       }
     }
   ]
