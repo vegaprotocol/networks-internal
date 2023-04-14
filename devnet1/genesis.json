@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "5xXVb3ptsCaZ7YDoMjSW0yc1Xe0sXx7pjx4GOC428ZI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/l8h32f1447gxe2ib3gzj84u5dd3dnd7s?d=identicon",
+        "country": "UL",
+        "ethereum_address": "0xc6B39F12de3dfbC2887c0FB818050e3F8C62807E",
+        "id": "ced1ac5f9f7a30cfe65d524b34de055db2226d4da0ad9576e617f9a160183202",
+        "info_url": "https://en.wikipedia.org/wiki/Malaysia_at_the_2017_Asian_Winter_Games",
+        "name": "condescending-window",
+        "tm_pub_key": "5xXVb3ptsCaZ7YDoMjSW0yc1Xe0sXx7pjx4GOC428ZI=",
+        "vega_pub_key": "687d3df81d2e9b579f57f550aaa39363d29526f55ea4545fe83d3aeafb793a50",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "zS6pTPO35SniujIAjb4834sOFprMEsce6qqbEVXOqT4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/y2wtkzbtjw4s40eoidbowe8ubg844cw6?d=identicon",
-        "country": "OV",
-        "ethereum_address": "0xf4A248C060e162D7e2b22457aF50C9585f48Dc59",
-        "id": "8164639c6abd6e790a39aa00b134f074f3bbb5487e49965b8001c105cb4eb3c9",
-        "info_url": "https://en.wikipedia.org/wiki/List_of_amusement_parks",
-        "name": "wailing-toy",
-        "tm_pub_key": "zS6pTPO35SniujIAjb4834sOFprMEsce6qqbEVXOqT4=",
-        "vega_pub_key": "4c4c65cad4992147a00406f0b4a2ef91c34657bb3fbb71b2a44cd0c9f0833977",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202304141021",
+  "chain_id": "vega-devnet1-202304141305",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-14T10:21:15.336983408Z",
+  "genesis_time": "2023-04-14T13:05:32.968070806Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "14CB9E618C7E138F3778E7F6403495D267739873",
-      "name": "wailing-toy",
+      "address": "812D56D4DDDCCEFE13A5CA77125BFD1C815B7A55",
+      "name": "condescending-window",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "zS6pTPO35SniujIAjb4834sOFprMEsce6qqbEVXOqT4="
+        "value": "5xXVb3ptsCaZ7YDoMjSW0yc1Xe0sXx7pjx4GOC428ZI="
       }
     }
   ]
