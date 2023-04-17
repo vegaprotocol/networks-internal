@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "snWJgRctNM9OMxiAIUPfQLqrKsyG/Pn9OoTFTWwjqGs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/9579cxpzum1wzbuqk53bdqmo5cljgtns?d=identicon",
-        "country": "JC",
-        "ethereum_address": "0x35B272D1d6459BB38354C91ad295fbEE5Cc5EC56",
-        "id": "35b1ef9e4fe699695bf5377e4cb4e3d5069c9b99a723e1ecc9b72c60ada99727",
-        "info_url": "https://en.wikipedia.org/wiki/Anatolius",
-        "name": "quizzical-music",
-        "tm_pub_key": "snWJgRctNM9OMxiAIUPfQLqrKsyG/Pn9OoTFTWwjqGs=",
-        "vega_pub_key": "666cc0d8d90e1bc38bc74e1431beb0637158e46a098a8d95813630b572407079",
+      "WKChNl2WweU1VNkETMDVDxGqaj2rOY7O0v+ghvPI/DU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/239p483mi8v3hmnu2ysmkpaz1hc6cjru?d=identicon",
+        "country": "AJ",
+        "ethereum_address": "0x067f25E79C85D1EfBC201e39Af236C265e1B7a60",
+        "id": "7c8ab8cb3b6bc29eb2f186994deacfe77f6b54a28c186e7e62d082520190b8b6",
+        "info_url": "https://en.wikipedia.org/wiki/Malcolm_O%27Connell",
+        "name": "gifted-teacher",
+        "tm_pub_key": "WKChNl2WweU1VNkETMDVDxGqaj2rOY7O0v+ghvPI/DU=",
+        "vega_pub_key": "5bfcae16f985d9f5c3f9c4d4bddf69d8f28649a9f42010484228a0366496fd2c",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304171448",
+  "chain_id": "vega-devnet1-202304171529",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-17T14:48:15.402993788Z",
+  "genesis_time": "2023-04-17T15:29:00.32188223Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "A101698E36CD674E16B5EF6AF407A2C8202E15A6",
-      "name": "quizzical-music",
+      "address": "1CC08BEFE029BB209E7048C31374496409FBDDB9",
+      "name": "gifted-teacher",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "snWJgRctNM9OMxiAIUPfQLqrKsyG/Pn9OoTFTWwjqGs="
+        "value": "WKChNl2WweU1VNkETMDVDxGqaj2rOY7O0v+ghvPI/DU="
       }
     }
   ]
