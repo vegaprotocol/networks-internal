@@ -302,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "sl/qNcPhaxKZPRwDvryxpDPR6egBdUU7rfa3MUeknOY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/a2pa03px07zx266koehgbr9yw2vq50w1?d=identicon",
+        "country": "IX",
+        "ethereum_address": "0xbE2e792bAceE7aa6dc2A736B9fb45FE39458c31a",
+        "id": "d33dec91e4c42eaea7809a386de314ddc2852a14ec0d33389f4e327d6951701f",
+        "info_url": "https://en.wikipedia.org/wiki/Kevin_Red_Star",
+        "name": "skinny-tree",
+        "tm_pub_key": "sl/qNcPhaxKZPRwDvryxpDPR6egBdUU7rfa3MUeknOY=",
+        "vega_pub_key": "abbf230d6fff84dde3d1608089b3bfcdddc3b9fae309e101c7956bcfcb621e10",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "wehmWdHVrsTY5WeH4bV82ZpTi4mBgKhazzpTRnHmpig=": {
-        "avatar_url": "https://www.gravatar.com/avatar/zdoy5k8x4ytiv20ojr63jn3q138kesao?d=identicon",
-        "country": "BS",
-        "ethereum_address": "0x2982E83D79931351a52396FaCe7F6ca2d3F7d0de",
-        "id": "471cca6bf7562156d1cecfb521eb4c0d0f4712b9e49f0eae22260c4c29e4aa73",
-        "info_url": "https://en.wikipedia.org/wiki/Ivan_Kondakov",
-        "name": "gray-clouds",
-        "tm_pub_key": "wehmWdHVrsTY5WeH4bV82ZpTi4mBgKhazzpTRnHmpig=",
-        "vega_pub_key": "bd725be7bf51e0f90765f482f5dd074aef891edd9b86e28a053d329ed3d7c504",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202304141502",
+  "chain_id": "vega-devnet1-202304171239",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-14T15:02:51.091715465Z",
+  "genesis_time": "2023-04-17T12:39:35.967962832Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "BE43AC73EB56FE77543471AB130226F095594037",
-      "name": "gray-clouds",
+      "address": "B4F864C0B03913408ECEA5000A9E1170F376A672",
+      "name": "skinny-tree",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "wehmWdHVrsTY5WeH4bV82ZpTi4mBgKhazzpTRnHmpig="
+        "value": "sl/qNcPhaxKZPRwDvryxpDPR6egBdUU7rfa3MUeknOY="
       }
     }
   ]
