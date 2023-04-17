@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "WKChNl2WweU1VNkETMDVDxGqaj2rOY7O0v+ghvPI/DU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/239p483mi8v3hmnu2ysmkpaz1hc6cjru?d=identicon",
-        "country": "AJ",
-        "ethereum_address": "0x067f25E79C85D1EfBC201e39Af236C265e1B7a60",
-        "id": "7c8ab8cb3b6bc29eb2f186994deacfe77f6b54a28c186e7e62d082520190b8b6",
-        "info_url": "https://en.wikipedia.org/wiki/Malcolm_O%27Connell",
-        "name": "gifted-teacher",
-        "tm_pub_key": "WKChNl2WweU1VNkETMDVDxGqaj2rOY7O0v+ghvPI/DU=",
-        "vega_pub_key": "5bfcae16f985d9f5c3f9c4d4bddf69d8f28649a9f42010484228a0366496fd2c",
+      "UqobZtcRL3/flS63gXC/DH96U4MVZE8G5WREHWhdZVM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/h67hae5pvzm7vdyccc1bghd7jl4njy3u?d=identicon",
+        "country": "YK",
+        "ethereum_address": "0xbdd8840e2a7D15D4d78658f85878936D5AAC4B9b",
+        "id": "7a236832e409727615fe030735582e4408f811e78819dac5a9d4f6a5ede3758f",
+        "info_url": "https://en.wikipedia.org/wiki/Eduard_Study",
+        "name": "tense-stove",
+        "tm_pub_key": "UqobZtcRL3/flS63gXC/DH96U4MVZE8G5WREHWhdZVM=",
+        "vega_pub_key": "e5bdf31a2672933b1ad11b7513bd4d7b27a1307b905c6dd97fb90877e03ad3ee",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304171529",
+  "chain_id": "vega-devnet1-202304171713",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-17T15:29:00.32188223Z",
+  "genesis_time": "2023-04-17T17:13:26.721599604Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "1CC08BEFE029BB209E7048C31374496409FBDDB9",
-      "name": "gifted-teacher",
+      "address": "D60229944DBA3B0C4CF4A7525F473708EB8C3214",
+      "name": "tense-stove",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "WKChNl2WweU1VNkETMDVDxGqaj2rOY7O0v+ghvPI/DU="
+        "value": "UqobZtcRL3/flS63gXC/DH96U4MVZE8G5WREHWhdZVM="
       }
     }
   ]
