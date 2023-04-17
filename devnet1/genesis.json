@@ -280,17 +280,6 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
-      "AIfJ8+2qlLQ7inYNBhFa1Q8wKQNaAaFiTNsflk3OUng=": {
-        "avatar_url": "https://www.gravatar.com/avatar/dhj7hzh3pde4q3c6ppq03j10zhswps3k?d=identicon",
-        "country": "ON",
-        "ethereum_address": "0x4205066A9e88298dCcE976fd05C9a0B7a215a050",
-        "id": "24b638480ecbdc2bca441beb1d9cd3389fb1d3d6204526660617062017bca25a",
-        "info_url": "https://en.wikipedia.org/wiki/John_II,_Count_of_Blois",
-        "name": "wicked-horse",
-        "tm_pub_key": "AIfJ8+2qlLQ7inYNBhFa1Q8wKQNaAaFiTNsflk3OUng=",
-        "vega_pub_key": "cd55efb423fd715d8f5920af794118705b37040933423042f84ce83e33f74a67",
-        "vega_pub_key_index": 1
-      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "snWJgRctNM9OMxiAIUPfQLqrKsyG/Pn9OoTFTWwjqGs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/9579cxpzum1wzbuqk53bdqmo5cljgtns?d=identicon",
+        "country": "JC",
+        "ethereum_address": "0x35B272D1d6459BB38354C91ad295fbEE5Cc5EC56",
+        "id": "35b1ef9e4fe699695bf5377e4cb4e3d5069c9b99a723e1ecc9b72c60ada99727",
+        "info_url": "https://en.wikipedia.org/wiki/Anatolius",
+        "name": "quizzical-music",
+        "tm_pub_key": "snWJgRctNM9OMxiAIUPfQLqrKsyG/Pn9OoTFTWwjqGs=",
+        "vega_pub_key": "666cc0d8d90e1bc38bc74e1431beb0637158e46a098a8d95813630b572407079",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304171350",
+  "chain_id": "vega-devnet1-202304171430",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-17T13:50:51.636915114Z",
+  "genesis_time": "2023-04-17T14:30:36.499073645Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "03F53C648AA2EE2E3D7495465B7EF22722B725D7",
-      "name": "wicked-horse",
+      "address": "A101698E36CD674E16B5EF6AF407A2C8202E15A6",
+      "name": "quizzical-music",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "AIfJ8+2qlLQ7inYNBhFa1Q8wKQNaAaFiTNsflk3OUng="
+        "value": "snWJgRctNM9OMxiAIUPfQLqrKsyG/Pn9OoTFTWwjqGs="
       }
     }
   ]
