@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "1abH0z1OaTnTgZr/Sx9xa7PR90HAbFa/ep3cy0WBkbo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/daxkdxh1pm0v2i0i0uue7z8pvxh2gsk2?d=identicon",
+        "country": "GE",
+        "ethereum_address": "0xb052C3cA3CfCad108DEcE3df1F0C2F4EbEC53725",
+        "id": "b9f332d923bc2d1c6a9f216305c83b699e84c7c04e320face5d310b6b0d5209a",
+        "info_url": "https://en.wikipedia.org/wiki/Archie_MacNaughton",
+        "name": "distressed-swing",
+        "tm_pub_key": "1abH0z1OaTnTgZr/Sx9xa7PR90HAbFa/ep3cy0WBkbo=",
+        "vega_pub_key": "b1956d2b8640e2bbcdb65755decaa99f0ec279e7a64bd4541a6aee2aad2d48bc",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "UqobZtcRL3/flS63gXC/DH96U4MVZE8G5WREHWhdZVM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/h67hae5pvzm7vdyccc1bghd7jl4njy3u?d=identicon",
-        "country": "YK",
-        "ethereum_address": "0xbdd8840e2a7D15D4d78658f85878936D5AAC4B9b",
-        "id": "7a236832e409727615fe030735582e4408f811e78819dac5a9d4f6a5ede3758f",
-        "info_url": "https://en.wikipedia.org/wiki/Eduard_Study",
-        "name": "tense-stove",
-        "tm_pub_key": "UqobZtcRL3/flS63gXC/DH96U4MVZE8G5WREHWhdZVM=",
-        "vega_pub_key": "e5bdf31a2672933b1ad11b7513bd4d7b27a1307b905c6dd97fb90877e03ad3ee",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304171713",
+  "chain_id": "vega-devnet1-202304171803",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-17T17:13:26.721599604Z",
+  "genesis_time": "2023-04-17T18:03:26.172619302Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "D60229944DBA3B0C4CF4A7525F473708EB8C3214",
-      "name": "tense-stove",
+      "address": "D99DDC6D4842C2CC35F884FEB87A9D60C8E1E438",
+      "name": "distressed-swing",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "UqobZtcRL3/flS63gXC/DH96U4MVZE8G5WREHWhdZVM="
+        "value": "1abH0z1OaTnTgZr/Sx9xa7PR90HAbFa/ep3cy0WBkbo="
       }
     }
   ]
