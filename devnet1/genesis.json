@@ -280,6 +280,17 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
+      "AIfJ8+2qlLQ7inYNBhFa1Q8wKQNaAaFiTNsflk3OUng=": {
+        "avatar_url": "https://www.gravatar.com/avatar/dhj7hzh3pde4q3c6ppq03j10zhswps3k?d=identicon",
+        "country": "ON",
+        "ethereum_address": "0x4205066A9e88298dCcE976fd05C9a0B7a215a050",
+        "id": "24b638480ecbdc2bca441beb1d9cd3389fb1d3d6204526660617062017bca25a",
+        "info_url": "https://en.wikipedia.org/wiki/John_II,_Count_of_Blois",
+        "name": "wicked-horse",
+        "tm_pub_key": "AIfJ8+2qlLQ7inYNBhFa1Q8wKQNaAaFiTNsflk3OUng=",
+        "vega_pub_key": "cd55efb423fd715d8f5920af794118705b37040933423042f84ce83e33f74a67",
+        "vega_pub_key_index": 1
+      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "sl/qNcPhaxKZPRwDvryxpDPR6egBdUU7rfa3MUeknOY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/a2pa03px07zx266koehgbr9yw2vq50w1?d=identicon",
-        "country": "IX",
-        "ethereum_address": "0xbE2e792bAceE7aa6dc2A736B9fb45FE39458c31a",
-        "id": "d33dec91e4c42eaea7809a386de314ddc2852a14ec0d33389f4e327d6951701f",
-        "info_url": "https://en.wikipedia.org/wiki/Kevin_Red_Star",
-        "name": "skinny-tree",
-        "tm_pub_key": "sl/qNcPhaxKZPRwDvryxpDPR6egBdUU7rfa3MUeknOY=",
-        "vega_pub_key": "abbf230d6fff84dde3d1608089b3bfcdddc3b9fae309e101c7956bcfcb621e10",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304171239",
+  "chain_id": "vega-devnet1-202304171350",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-17T12:39:35.967962832Z",
+  "genesis_time": "2023-04-17T13:50:51.636915114Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "B4F864C0B03913408ECEA5000A9E1170F376A672",
-      "name": "skinny-tree",
+      "address": "03F53C648AA2EE2E3D7495465B7EF22722B725D7",
+      "name": "wicked-horse",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "sl/qNcPhaxKZPRwDvryxpDPR6egBdUU7rfa3MUeknOY="
+        "value": "AIfJ8+2qlLQ7inYNBhFa1Q8wKQNaAaFiTNsflk3OUng="
       }
     }
   ]
