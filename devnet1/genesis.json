@@ -302,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "oSJAMuQ1pDrBXFBf3RilG5K79YT753Uk53+IRqxseS0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/sae3vmo4fx3zzfmdkgnw7yxppmj6bp0f?d=identicon",
+        "country": "DV",
+        "ethereum_address": "0x75A07F9BD00033234bC6fcE1Aa20b5D2e98f8c86",
+        "id": "ef4e9d605a924a630d6ed5fa276c1e925b341f0c6b8d0a345bdcb3c92ae79cf4",
+        "info_url": "https://en.wikipedia.org/wiki/Jabardasth_(film)",
+        "name": "quaint-beach",
+        "tm_pub_key": "oSJAMuQ1pDrBXFBf3RilG5K79YT753Uk53+IRqxseS0=",
+        "vega_pub_key": "6b9b0a80d51a277ad2004a5c6aaf04c204c98072f6643036ae435fa98cd63c74",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "vfu0FHBhFLBGnhji4xEzXEUVCFZFelVHayk1amyC/H0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/i9w04bbv6qaix4bmd59i0goukz7pu88c?d=identicon",
-        "country": "WV",
-        "ethereum_address": "0x0F3CeF152b2a62c834C54C88F9cd9971caEb7Ee8",
-        "id": "3c0a20250eded981e5da9cd149e149c5c08f101a3bb4ce970a934d9c7e6014a6",
-        "info_url": "https://en.wikipedia.org/wiki/Central_limit_theorem_for_directional_statistics",
-        "name": "dead-milk",
-        "tm_pub_key": "vfu0FHBhFLBGnhji4xEzXEUVCFZFelVHayk1amyC/H0=",
-        "vega_pub_key": "e2608713a495e3d7b984cf1192e37e87394ea0c65a3ebc458eb401b361eff802",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202304180935",
+  "chain_id": "vega-devnet1-202304181002",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-18T09:35:01.267310906Z",
+  "genesis_time": "2023-04-18T10:02:29.653393855Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "72C4BEDFCBBAA465BCAFE97F32055849822FBFCA",
-      "name": "dead-milk",
+      "address": "A53EBE78988AC3E9CE80006D868253558228F238",
+      "name": "quaint-beach",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "vfu0FHBhFLBGnhji4xEzXEUVCFZFelVHayk1amyC/H0="
+        "value": "oSJAMuQ1pDrBXFBf3RilG5K79YT753Uk53+IRqxseS0="
       }
     }
   ]
