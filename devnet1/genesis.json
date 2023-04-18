@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "sctlwEO9WTW1Q4IZvitQXgMz/Km1izEbDzHl+ebq0wE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/dbeg5kbnmuexgx50srtsndzxl34tow04?d=identicon",
-        "country": "CT",
-        "ethereum_address": "0x5386945bE71E8133F710d1BeC885DABd39184309",
-        "id": "71c300cd4c587f520db5d28b8eb11172aa92a3f9c6c189597743eabe8a77647a",
-        "info_url": "https://en.wikipedia.org/wiki/Gabriel_Anrep",
-        "name": "glorious-bed",
-        "tm_pub_key": "sctlwEO9WTW1Q4IZvitQXgMz/Km1izEbDzHl+ebq0wE=",
-        "vega_pub_key": "6e53e9c94d1e1351e32b23c162624647f5bd0468a44c442211a4290eb06e1151",
+      "Ki55VajY5ZovJFazht79WvKYmVk4oRZYojweAxEWG+A=": {
+        "avatar_url": "https://www.gravatar.com/avatar/3m2uvmk60a7as4cbffeyzg69dkq56t4d?d=identicon",
+        "country": "AC",
+        "ethereum_address": "0xCAc6Bf97088dB4085008C853C2D798759F05c47C",
+        "id": "67b503e659e235adc76d0738700a9ec08bb792381398ea9c9f7fc05eabe38489",
+        "info_url": "https://en.wikipedia.org/wiki/Rumunki_G%C5%82odowskie",
+        "name": "loud-town",
+        "tm_pub_key": "Ki55VajY5ZovJFazht79WvKYmVk4oRZYojweAxEWG+A=",
+        "vega_pub_key": "0efd7510849f3e1d1b70b74c63e8b8b48d3f36e7dce338a66b315697ced9347e",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304181603",
+  "chain_id": "vega-devnet1-202304181717",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-18T16:03:04.906825524Z",
+  "genesis_time": "2023-04-18T17:17:22.079432371Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "70BE83E7761DA84AEDFB11EF92CD114A26BAC4C4",
-      "name": "glorious-bed",
+      "address": "E7211D42A3229C09623C7060E19A20C0CD426AA9",
+      "name": "loud-town",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "sctlwEO9WTW1Q4IZvitQXgMz/Km1izEbDzHl+ebq0wE="
+        "value": "Ki55VajY5ZovJFazht79WvKYmVk4oRZYojweAxEWG+A="
       }
     }
   ]
