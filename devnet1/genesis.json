@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "YKC5tRwVxfxdAlngsVS3kZ4ObujbdkcZbjyC1V+YasA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/urkjcw2elzpleloow46jvysig728jexs?d=identicon",
-        "country": "BJ",
-        "ethereum_address": "0x116a8b904AA05fC068762ea241044fa73E21A534",
-        "id": "9282934e5c139e9f0886d581fd6e1a7ba61feafdeefa99406c7c54751ebd8a3b",
-        "info_url": "https://en.wikipedia.org/wiki/Edward_Egan",
-        "name": "hollow-baby",
-        "tm_pub_key": "YKC5tRwVxfxdAlngsVS3kZ4ObujbdkcZbjyC1V+YasA=",
-        "vega_pub_key": "d4c5d91c06e0f3ffa7c6297afd4a0c36b7ae701bac3637f6128ffa6728f6b816",
+      "sctlwEO9WTW1Q4IZvitQXgMz/Km1izEbDzHl+ebq0wE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/dbeg5kbnmuexgx50srtsndzxl34tow04?d=identicon",
+        "country": "CT",
+        "ethereum_address": "0x5386945bE71E8133F710d1BeC885DABd39184309",
+        "id": "71c300cd4c587f520db5d28b8eb11172aa92a3f9c6c189597743eabe8a77647a",
+        "info_url": "https://en.wikipedia.org/wiki/Gabriel_Anrep",
+        "name": "glorious-bed",
+        "tm_pub_key": "sctlwEO9WTW1Q4IZvitQXgMz/Km1izEbDzHl+ebq0wE=",
+        "vega_pub_key": "6e53e9c94d1e1351e32b23c162624647f5bd0468a44c442211a4290eb06e1151",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304181521",
+  "chain_id": "vega-devnet1-202304181603",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-18T15:21:48.891553132Z",
+  "genesis_time": "2023-04-18T16:03:04.906825524Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "05ED14A901C71B65C03D9A2FFA34434B0DD7D633",
-      "name": "hollow-baby",
+      "address": "70BE83E7761DA84AEDFB11EF92CD114A26BAC4C4",
+      "name": "glorious-bed",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "YKC5tRwVxfxdAlngsVS3kZ4ObujbdkcZbjyC1V+YasA="
+        "value": "sctlwEO9WTW1Q4IZvitQXgMz/Km1izEbDzHl+ebq0wE="
       }
     }
   ]
