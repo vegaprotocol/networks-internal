@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "1abH0z1OaTnTgZr/Sx9xa7PR90HAbFa/ep3cy0WBkbo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/daxkdxh1pm0v2i0i0uue7z8pvxh2gsk2?d=identicon",
-        "country": "GE",
-        "ethereum_address": "0xb052C3cA3CfCad108DEcE3df1F0C2F4EbEC53725",
-        "id": "b9f332d923bc2d1c6a9f216305c83b699e84c7c04e320face5d310b6b0d5209a",
-        "info_url": "https://en.wikipedia.org/wiki/Archie_MacNaughton",
-        "name": "distressed-swing",
-        "tm_pub_key": "1abH0z1OaTnTgZr/Sx9xa7PR90HAbFa/ep3cy0WBkbo=",
-        "vega_pub_key": "b1956d2b8640e2bbcdb65755decaa99f0ec279e7a64bd4541a6aee2aad2d48bc",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "vfu0FHBhFLBGnhji4xEzXEUVCFZFelVHayk1amyC/H0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/i9w04bbv6qaix4bmd59i0goukz7pu88c?d=identicon",
+        "country": "WV",
+        "ethereum_address": "0x0F3CeF152b2a62c834C54C88F9cd9971caEb7Ee8",
+        "id": "3c0a20250eded981e5da9cd149e149c5c08f101a3bb4ce970a934d9c7e6014a6",
+        "info_url": "https://en.wikipedia.org/wiki/Central_limit_theorem_for_directional_statistics",
+        "name": "dead-milk",
+        "tm_pub_key": "vfu0FHBhFLBGnhji4xEzXEUVCFZFelVHayk1amyC/H0=",
+        "vega_pub_key": "e2608713a495e3d7b984cf1192e37e87394ea0c65a3ebc458eb401b361eff802",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202304171803",
+  "chain_id": "vega-devnet1-202304180907",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-17T18:03:26.172619302Z",
+  "genesis_time": "2023-04-18T09:07:15.584712283Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "D99DDC6D4842C2CC35F884FEB87A9D60C8E1E438",
-      "name": "distressed-swing",
+      "address": "72C4BEDFCBBAA465BCAFE97F32055849822FBFCA",
+      "name": "dead-milk",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "1abH0z1OaTnTgZr/Sx9xa7PR90HAbFa/ep3cy0WBkbo="
+        "value": "vfu0FHBhFLBGnhji4xEzXEUVCFZFelVHayk1amyC/H0="
       }
     }
   ]
