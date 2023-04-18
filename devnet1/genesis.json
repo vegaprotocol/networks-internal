@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "Ki55VajY5ZovJFazht79WvKYmVk4oRZYojweAxEWG+A=": {
-        "avatar_url": "https://www.gravatar.com/avatar/3m2uvmk60a7as4cbffeyzg69dkq56t4d?d=identicon",
-        "country": "AC",
-        "ethereum_address": "0xCAc6Bf97088dB4085008C853C2D798759F05c47C",
-        "id": "67b503e659e235adc76d0738700a9ec08bb792381398ea9c9f7fc05eabe38489",
-        "info_url": "https://en.wikipedia.org/wiki/Rumunki_G%C5%82odowskie",
-        "name": "loud-town",
-        "tm_pub_key": "Ki55VajY5ZovJFazht79WvKYmVk4oRZYojweAxEWG+A=",
-        "vega_pub_key": "0efd7510849f3e1d1b70b74c63e8b8b48d3f36e7dce338a66b315697ced9347e",
+      "XlunTWVf+tzwqA/1uEsndTTejztkrLyHvUsrQGh6ags=": {
+        "avatar_url": "https://www.gravatar.com/avatar/64cxcq3us9zavhnhvy1f9kthcy9na7f9?d=identicon",
+        "country": "WI",
+        "ethereum_address": "0xFd325D4e13924fD819929178D6a44D6495Cd85Dc",
+        "id": "39df9e75fec33b6fb956c5731bf9d3d53f19fc54d642221f06223ecd2a4f6a17",
+        "info_url": "https://en.wikipedia.org/wiki/William_Milligan_Sloane",
+        "name": "happy-mouse",
+        "tm_pub_key": "XlunTWVf+tzwqA/1uEsndTTejztkrLyHvUsrQGh6ags=",
+        "vega_pub_key": "4993a2fff12b4b5b33475f686848e0552c18a567341822148d8aa8cc305634e9",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304181748",
+  "chain_id": "vega-devnet1-202304181908",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-18T17:48:41.99133113Z",
+  "genesis_time": "2023-04-18T19:08:52.997376695Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "E7211D42A3229C09623C7060E19A20C0CD426AA9",
-      "name": "loud-town",
+      "address": "39688B6F7651D0360957154491B633E3DD17FB8A",
+      "name": "happy-mouse",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Ki55VajY5ZovJFazht79WvKYmVk4oRZYojweAxEWG+A="
+        "value": "XlunTWVf+tzwqA/1uEsndTTejztkrLyHvUsrQGh6ags="
       }
     }
   ]
