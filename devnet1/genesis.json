@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "1RcWp7oMQSefs1i6qGWCs5j1Zlks6J6mr+fXkb+PXGo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ozftld8lsqy94dqm5ru3noa5mt10g0zy?d=identicon",
-        "country": "JE",
-        "ethereum_address": "0xda68A445fa7dDd2f05E329b1A5eF10578f3e81f9",
-        "id": "587c3feec260d29a8fc4aab12007a85a3acf006adece50ac44ee65f8c9b06331",
-        "info_url": "https://en.wikipedia.org/wiki/USS_Green_Bay_(LPD-20)",
-        "name": "extensive-plant",
-        "tm_pub_key": "1RcWp7oMQSefs1i6qGWCs5j1Zlks6J6mr+fXkb+PXGo=",
-        "vega_pub_key": "c6dfcb2a1f86fd1b62b8153169eed18707ed1cdf17a495e6119def6b0117ce9a",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "YKC5tRwVxfxdAlngsVS3kZ4ObujbdkcZbjyC1V+YasA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/urkjcw2elzpleloow46jvysig728jexs?d=identicon",
+        "country": "BJ",
+        "ethereum_address": "0x116a8b904AA05fC068762ea241044fa73E21A534",
+        "id": "9282934e5c139e9f0886d581fd6e1a7ba61feafdeefa99406c7c54751ebd8a3b",
+        "info_url": "https://en.wikipedia.org/wiki/Edward_Egan",
+        "name": "hollow-baby",
+        "tm_pub_key": "YKC5tRwVxfxdAlngsVS3kZ4ObujbdkcZbjyC1V+YasA=",
+        "vega_pub_key": "d4c5d91c06e0f3ffa7c6297afd4a0c36b7ae701bac3637f6128ffa6728f6b816",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304181306",
+  "chain_id": "vega-devnet1-202304181521",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-18T13:06:14.839122779Z",
+  "genesis_time": "2023-04-18T15:21:48.891553132Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "C6DB582ACD5C30FDE88FCB89D96137C18855365D",
-      "name": "extensive-plant",
+      "address": "05ED14A901C71B65C03D9A2FFA34434B0DD7D633",
+      "name": "hollow-baby",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "1RcWp7oMQSefs1i6qGWCs5j1Zlks6J6mr+fXkb+PXGo="
+        "value": "YKC5tRwVxfxdAlngsVS3kZ4ObujbdkcZbjyC1V+YasA="
       }
     }
   ]
