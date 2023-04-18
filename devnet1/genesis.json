@@ -269,15 +269,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "4J6tkeE/T2FoysgvPNfbcFzOwJt/NmnQC7s607szl1o=": {
-        "avatar_url": "https://www.gravatar.com/avatar/nbviel4ew6kxmexy1tfjrz6uliy9wzt2?d=identicon",
-        "country": "VC",
-        "ethereum_address": "0x621BAeC2c1C6F578FD73d32829c57eaF5d477348",
-        "id": "a59f5c22df81bdab4e3f82d64b512790c061ac54fff247d47d1e9279cf8b0082",
-        "info_url": "https://en.wikipedia.org/wiki/Carlos_Casado_del_Alisal",
-        "name": "frustrating-dress",
-        "tm_pub_key": "4J6tkeE/T2FoysgvPNfbcFzOwJt/NmnQC7s607szl1o=",
-        "vega_pub_key": "50e7a50b6d46729d9f26d671ad40ba6d9cf6377e0447d2c62d20f4a189e4394a",
+      "1RcWp7oMQSefs1i6qGWCs5j1Zlks6J6mr+fXkb+PXGo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ozftld8lsqy94dqm5ru3noa5mt10g0zy?d=identicon",
+        "country": "JE",
+        "ethereum_address": "0xda68A445fa7dDd2f05E329b1A5eF10578f3e81f9",
+        "id": "587c3feec260d29a8fc4aab12007a85a3acf006adece50ac44ee65f8c9b06331",
+        "info_url": "https://en.wikipedia.org/wiki/USS_Green_Bay_(LPD-20)",
+        "name": "extensive-plant",
+        "tm_pub_key": "1RcWp7oMQSefs1i6qGWCs5j1Zlks6J6mr+fXkb+PXGo=",
+        "vega_pub_key": "c6dfcb2a1f86fd1b62b8153169eed18707ed1cdf17a495e6119def6b0117ce9a",
         "vega_pub_key_index": 1
       },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304181203",
+  "chain_id": "vega-devnet1-202304181306",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-18T12:03:53.379584804Z",
+  "genesis_time": "2023-04-18T13:06:14.839122779Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "58392147577B25BEE258DBDDF4ADEC2AFA4A27CA",
-      "name": "frustrating-dress",
+      "address": "C6DB582ACD5C30FDE88FCB89D96137C18855365D",
+      "name": "extensive-plant",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "4J6tkeE/T2FoysgvPNfbcFzOwJt/NmnQC7s607szl1o="
+        "value": "1RcWp7oMQSefs1i6qGWCs5j1Zlks6J6mr+fXkb+PXGo="
       }
     }
   ]
