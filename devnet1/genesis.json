@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "KsDnxd8CoXUkgG4oZc/LJ5zfWbDan1cFoPXOQTRkue4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/hrbkrv5slsbis7pafqic9b07m75a4jq7?d=identicon",
-        "country": "VR",
-        "ethereum_address": "0x7524552898842d6045999EEfBBf6495c7Bb2B823",
-        "id": "5dfb6aa34bb58101dd2af9c5db4be7d2afbfa8edecaaa62d68b233b182ce81fa",
-        "info_url": "https://en.wikipedia.org/wiki/Irresistible_(Wisin_%26_Yandel_song)",
-        "name": "thundering-train",
-        "tm_pub_key": "KsDnxd8CoXUkgG4oZc/LJ5zfWbDan1cFoPXOQTRkue4=",
-        "vega_pub_key": "d1777d1f2b6ca17ca4c3709d587e57b9c636f45240a65ff64b3797534cc14abf",
+      "T+0FClvNA+o3zTvWJQPPUVKkodTICp+rPL8gt4qV5vU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/0315rlbou53027iiobrx6b0z5tg38kis?d=identicon",
+        "country": "SK",
+        "ethereum_address": "0x291C2Fe1202243e3865a7EE301014a68a9925A9B",
+        "id": "6475114f549c23f75ba658a9aa9f91ea76bd9f2e481ad1d9ae980a7703baf41f",
+        "info_url": "https://en.wikipedia.org/wiki/Buddhist_cuisine",
+        "name": "powerful-key",
+        "tm_pub_key": "T+0FClvNA+o3zTvWJQPPUVKkodTICp+rPL8gt4qV5vU=",
+        "vega_pub_key": "8cd51f27c52aed2039b029f6f29ec7bf51085d5be4524c12bf36abe2f0c00af8",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304190911",
+  "chain_id": "vega-devnet1-202304191103",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-19T09:11:24.42613956Z",
+  "genesis_time": "2023-04-19T11:03:34.804333966Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "0041BF5D36A9B03CFECA7932756DF4B6AC1B0F8A",
-      "name": "thundering-train",
+      "address": "DAFDFB14EFE5DBDB578EC5D9C466869A0DCFB6C2",
+      "name": "powerful-key",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "KsDnxd8CoXUkgG4oZc/LJ5zfWbDan1cFoPXOQTRkue4="
+        "value": "T+0FClvNA+o3zTvWJQPPUVKkodTICp+rPL8gt4qV5vU="
       }
     }
   ]
