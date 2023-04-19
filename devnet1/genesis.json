@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "4kaalSW8WdKjr+PCp57BhL4nAUlsbDLZpA0HCeCBUOA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/a1jtjslj91vt62imlavlmp0gctblobkv?d=identicon",
+        "country": "DV",
+        "ethereum_address": "0x1bDF7725Fdae5B14EeD5FdcC48F759E1f2795B27",
+        "id": "c6a3ce2b38d6ac73d899092dd65a349a564a4c21542d199da52be44940144e02",
+        "info_url": "https://en.wikipedia.org/wiki/Johann_Friedrich_von_Meyer",
+        "name": "important-river",
+        "tm_pub_key": "4kaalSW8WdKjr+PCp57BhL4nAUlsbDLZpA0HCeCBUOA=",
+        "vega_pub_key": "075d0df3f3323aaffea9ea84a80c86402ffe16b899ab979b3b446b9294091c92",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "T+0FClvNA+o3zTvWJQPPUVKkodTICp+rPL8gt4qV5vU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/0315rlbou53027iiobrx6b0z5tg38kis?d=identicon",
-        "country": "SK",
-        "ethereum_address": "0x291C2Fe1202243e3865a7EE301014a68a9925A9B",
-        "id": "6475114f549c23f75ba658a9aa9f91ea76bd9f2e481ad1d9ae980a7703baf41f",
-        "info_url": "https://en.wikipedia.org/wiki/Buddhist_cuisine",
-        "name": "powerful-key",
-        "tm_pub_key": "T+0FClvNA+o3zTvWJQPPUVKkodTICp+rPL8gt4qV5vU=",
-        "vega_pub_key": "8cd51f27c52aed2039b029f6f29ec7bf51085d5be4524c12bf36abe2f0c00af8",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304191132",
+  "chain_id": "vega-devnet1-202304191248",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-19T11:32:27.009306083Z",
+  "genesis_time": "2023-04-19T12:48:35.081626131Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "DAFDFB14EFE5DBDB578EC5D9C466869A0DCFB6C2",
-      "name": "powerful-key",
+      "address": "1A2E4FA4EE3EC2CDEE7E578E908E63DB5BF02598",
+      "name": "important-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "T+0FClvNA+o3zTvWJQPPUVKkodTICp+rPL8gt4qV5vU="
+        "value": "4kaalSW8WdKjr+PCp57BhL4nAUlsbDLZpA0HCeCBUOA="
       }
     }
   ]
