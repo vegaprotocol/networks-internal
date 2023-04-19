@@ -195,7 +195,7 @@
                 "quantum": "1",
                 "source": {
                     "erc20": {
-                        "contract_address": "0x1816116a8a4927D85a7Eb5a0121c95aEc182AB9C",
+                        "contract_address": "0xa22d840BBB806eC6867535947F4c5baE5b3b8a8e",
                         "lifetime_limit": "",
                         "withdraw_threshold": ""
                     }
