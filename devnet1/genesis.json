@@ -302,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "Q5daC2qjKsHClObMJSBqTGyT0yvmIukAAH2wZW1GPvI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/6ppm1lowwbj6jo7bhhwjnldy67ywgkom?d=identicon",
+        "country": "UD",
+        "ethereum_address": "0xa76C4f3609B5926CfBa00E5fB2203db628e2c94e",
+        "id": "eaf76aa6867b3f312c0c501000410e0e093579325d5870b54e2b25eaecf1f044",
+        "info_url": "https://en.wikipedia.org/wiki/List_of_Discworld_characters",
+        "name": "quiet-duck",
+        "tm_pub_key": "Q5daC2qjKsHClObMJSBqTGyT0yvmIukAAH2wZW1GPvI=",
+        "vega_pub_key": "152c364a32ed96d3500042d4973eaa49ed3db0f6e4d22b1c0b0df765152f52da",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "tnkg1FVD4o7ZWqxVJpD28H4pQH00l32tb8xxyKxjk8Q=": {
-        "avatar_url": "https://www.gravatar.com/avatar/81se2c6r0v78vfglhhk1wpddvhhdjtdp?d=identicon",
-        "country": "VP",
-        "ethereum_address": "0x0e33DB5Cc7cBAb24535d10507A31E0C9Fe1adc38",
-        "id": "1b37d0b7bee24a6deb239e7d9735af0b2eaf790d7221403b64016b3b7072fc39",
-        "info_url": "https://en.wikipedia.org/wiki/List_of_storms_named_Betty",
-        "name": "blue-key",
-        "tm_pub_key": "tnkg1FVD4o7ZWqxVJpD28H4pQH00l32tb8xxyKxjk8Q=",
-        "vega_pub_key": "88b7f7ba2263db48c310813357a3bcdf3c8a1520df982f816670959b32aeb72f",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202304191328",
+  "chain_id": "vega-devnet1-202304191434",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-19T13:28:49.267852859Z",
+  "genesis_time": "2023-04-19T14:34:31.979259685Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "B741C825DCBB3E860D821477A6AAEBFA0C63FC34",
-      "name": "blue-key",
+      "address": "CD5D960A92A13695318F6454D02225099B6483BF",
+      "name": "quiet-duck",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "tnkg1FVD4o7ZWqxVJpD28H4pQH00l32tb8xxyKxjk8Q="
+        "value": "Q5daC2qjKsHClObMJSBqTGyT0yvmIukAAH2wZW1GPvI="
       }
     }
   ]
