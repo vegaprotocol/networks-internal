@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "YlqN3OQmQBjfUX1EGuhoLsOIrNavduAbc1OJrEekYis=": {
-        "avatar_url": "https://www.gravatar.com/avatar/on0jxdnnq6lf8xw1scq3nht4v7i3ws7y?d=identicon",
-        "country": "OL",
-        "ethereum_address": "0x9f3e65ebcd5038c5292566cE68b582CF4C806D15",
-        "id": "5d23e6fec9b1f82b83ddfdb84a51459f76065f3e9d75160514ae1d91c7f27e1b",
-        "info_url": "https://en.wikipedia.org/wiki/Elections_in_Himachal_Pradesh",
-        "name": "rhythmic-duck",
-        "tm_pub_key": "YlqN3OQmQBjfUX1EGuhoLsOIrNavduAbc1OJrEekYis=",
-        "vega_pub_key": "4cd5bd00e3e70242b12bcac4ec29323ed43678f268656d197baca0ebdfa47c51",
+      "UYXjNEbrfbYkRK1DqGm12U90lQxYLddnnbd82/ZML6s=": {
+        "avatar_url": "https://www.gravatar.com/avatar/z9lb31vtl88qya5rdew9d4w1a0txtydt?d=identicon",
+        "country": "ER",
+        "ethereum_address": "0xaAFEcA399773021A060de8b0d4038dbB772A4317",
+        "id": "2dea71575674c63f8c94313152423bf58c3f05179095dabce5bbdc84372c7d04",
+        "info_url": "https://en.wikipedia.org/wiki/Peziza_arvernensis",
+        "name": "icy-policeman",
+        "tm_pub_key": "UYXjNEbrfbYkRK1DqGm12U90lQxYLddnnbd82/ZML6s=",
+        "vega_pub_key": "15352fbd8f4ffe7fabdd7bff5c07aba32b75523b0ca9c8dad70982cbdd9ee21f",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304191936",
+  "chain_id": "vega-devnet1-202304192005",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-19T19:36:22.773547949Z",
+  "genesis_time": "2023-04-19T20:05:16.569347011Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "2FB9C31C7A3D04CFB11F5A01B2FF1C090E179815",
-      "name": "rhythmic-duck",
+      "address": "56D21C33F6606D7509916CA7E1BB15772CA3AC5B",
+      "name": "icy-policeman",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "YlqN3OQmQBjfUX1EGuhoLsOIrNavduAbc1OJrEekYis="
+        "value": "UYXjNEbrfbYkRK1DqGm12U90lQxYLddnnbd82/ZML6s="
       }
     }
   ]
