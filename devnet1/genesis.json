@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "4kaalSW8WdKjr+PCp57BhL4nAUlsbDLZpA0HCeCBUOA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/a1jtjslj91vt62imlavlmp0gctblobkv?d=identicon",
-        "country": "DV",
-        "ethereum_address": "0x1bDF7725Fdae5B14EeD5FdcC48F759E1f2795B27",
-        "id": "c6a3ce2b38d6ac73d899092dd65a349a564a4c21542d199da52be44940144e02",
-        "info_url": "https://en.wikipedia.org/wiki/Johann_Friedrich_von_Meyer",
-        "name": "important-river",
-        "tm_pub_key": "4kaalSW8WdKjr+PCp57BhL4nAUlsbDLZpA0HCeCBUOA=",
-        "vega_pub_key": "075d0df3f3323aaffea9ea84a80c86402ffe16b899ab979b3b446b9294091c92",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "tnkg1FVD4o7ZWqxVJpD28H4pQH00l32tb8xxyKxjk8Q=": {
+        "avatar_url": "https://www.gravatar.com/avatar/81se2c6r0v78vfglhhk1wpddvhhdjtdp?d=identicon",
+        "country": "VP",
+        "ethereum_address": "0x0e33DB5Cc7cBAb24535d10507A31E0C9Fe1adc38",
+        "id": "1b37d0b7bee24a6deb239e7d9735af0b2eaf790d7221403b64016b3b7072fc39",
+        "info_url": "https://en.wikipedia.org/wiki/List_of_storms_named_Betty",
+        "name": "blue-key",
+        "tm_pub_key": "tnkg1FVD4o7ZWqxVJpD28H4pQH00l32tb8xxyKxjk8Q=",
+        "vega_pub_key": "88b7f7ba2263db48c310813357a3bcdf3c8a1520df982f816670959b32aeb72f",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202304191248",
+  "chain_id": "vega-devnet1-202304191328",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-19T12:48:35.081626131Z",
+  "genesis_time": "2023-04-19T13:28:49.267852859Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "1A2E4FA4EE3EC2CDEE7E578E908E63DB5BF02598",
-      "name": "important-river",
+      "address": "B741C825DCBB3E860D821477A6AAEBFA0C63FC34",
+      "name": "blue-key",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "4kaalSW8WdKjr+PCp57BhL4nAUlsbDLZpA0HCeCBUOA="
+        "value": "tnkg1FVD4o7ZWqxVJpD28H4pQH00l32tb8xxyKxjk8Q="
       }
     }
   ]
