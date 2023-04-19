@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "qT3Nq6GKnKO2FMx7GZOzQokody/Ml7C/SWBjZqLlnrA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/8d6yjhr4h8too85dw32zwgvddkxz7dpy?d=identicon",
-        "country": "KH",
-        "ethereum_address": "0xa035C1DadbdD4c62DAbdb96182413B616b1b7a4A",
-        "id": "b87c0cbd8ab12904301d7b561ec4c1755d89680c9d5057774bb91edd8c98dfdc",
-        "info_url": "https://en.wikipedia.org/wiki/P%C4%99czelice",
-        "name": "howling-chimney",
-        "tm_pub_key": "qT3Nq6GKnKO2FMx7GZOzQokody/Ml7C/SWBjZqLlnrA=",
-        "vega_pub_key": "3608e3e89712e1a0adef335b00947f147c0294406f81c9712dfb0d557487d024",
+      "VKmHsAUq69vV77NBwLVTaerkmWL8C4Nml9XOz+g3jO8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/kivx37440d2cg2zrpvdba4orv67w31s7?d=identicon",
+        "country": "HN",
+        "ethereum_address": "0x07F4cde1D9D2C4d83d0D76650ed9db55E34fA68C",
+        "id": "f4ed608d93c6cdc23101b8c1f376a89c31907d09983938eea25bdba0b21c76b2",
+        "info_url": "https://en.wikipedia.org/wiki/Psyopus",
+        "name": "icy-chair",
+        "tm_pub_key": "VKmHsAUq69vV77NBwLVTaerkmWL8C4Nml9XOz+g3jO8=",
+        "vega_pub_key": "74d718f04b79b35ae707485cab4bef99442c8b579af11b9779a1e0a709522895",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304200026",
+  "chain_id": "vega-devnet1-202304192327",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-19T22:26:33.923503Z",
+  "genesis_time": "2023-04-19T23:27:40.828479992Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "024BF16A282C7FB9A1534F49ABE4AD356486431A",
-      "name": "howling-chimney",
+      "address": "7084D74EA3AD9169B0076212EBB9BEA42AAB1623",
+      "name": "icy-chair",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "qT3Nq6GKnKO2FMx7GZOzQokody/Ml7C/SWBjZqLlnrA="
+        "value": "VKmHsAUq69vV77NBwLVTaerkmWL8C4Nml9XOz+g3jO8="
       }
     }
   ]
