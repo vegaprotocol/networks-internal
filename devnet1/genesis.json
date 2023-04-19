@@ -302,17 +302,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "Q5daC2qjKsHClObMJSBqTGyT0yvmIukAAH2wZW1GPvI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/6ppm1lowwbj6jo7bhhwjnldy67ywgkom?d=identicon",
-        "country": "UD",
-        "ethereum_address": "0xa76C4f3609B5926CfBa00E5fB2203db628e2c94e",
-        "id": "eaf76aa6867b3f312c0c501000410e0e093579325d5870b54e2b25eaecf1f044",
-        "info_url": "https://en.wikipedia.org/wiki/List_of_Discworld_characters",
-        "name": "quiet-duck",
-        "tm_pub_key": "Q5daC2qjKsHClObMJSBqTGyT0yvmIukAAH2wZW1GPvI=",
-        "vega_pub_key": "152c364a32ed96d3500042d4973eaa49ed3db0f6e4d22b1c0b0df765152f52da",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "uM38NoQj8sqRSYAcJZdNQ/XNLEmHbw9N4VurHr/3J78=": {
+        "avatar_url": "https://www.gravatar.com/avatar/wb87r9ceo1ayypo8sxyexmfkycccrjff?d=identicon",
+        "country": "MA",
+        "ethereum_address": "0xEc500113eE731216f018c8A38Ae63b69017639FD",
+        "id": "ac0b2562a73477ba348e5abce95cb09153a447e19bee093a17062cbbd450272d",
+        "info_url": "https://en.wikipedia.org/wiki/Mahfooz_Sabri",
+        "name": "howling-computer",
+        "tm_pub_key": "uM38NoQj8sqRSYAcJZdNQ/XNLEmHbw9N4VurHr/3J78=",
+        "vega_pub_key": "131ce1b1087e219e57d0ad004bd0278499567047081b8990466eb36d91112275",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202304191511",
+  "chain_id": "vega-devnet1-202304191707",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-19T15:11:50.784293233Z",
+  "genesis_time": "2023-04-19T17:07:51.062990844Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "CD5D960A92A13695318F6454D02225099B6483BF",
-      "name": "quiet-duck",
+      "address": "16AE2384B754F09C2DA2946B03C027BAF90C4E5B",
+      "name": "howling-computer",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Q5daC2qjKsHClObMJSBqTGyT0yvmIukAAH2wZW1GPvI="
+        "value": "uM38NoQj8sqRSYAcJZdNQ/XNLEmHbw9N4VurHr/3J78="
       }
     }
   ]
