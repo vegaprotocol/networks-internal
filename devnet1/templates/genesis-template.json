@@ -212,7 +212,7 @@
             "propose_market_enabled": true
         },
         "network_parameters": {
-            "blockchains.ethereumConfig": "{ \"network_id\": \"11155111\", \"chain_id\": \"11155111\", \"confirmations\": 3, \"collateral_bridge_contract\": { \"address\": \"0x15b722d2E90587DfC2ee1C7fa235F7EF5E72E31D\" }, \"staking_bridge_contract\": { \"address\": \"0x38eCF970c0a223b15C4F82205EFeb38A86501172\", \"deployment_block_height\": 2765155 }, \"token_vesting_contract\": { \"address\": \"0x43b54E46Be898E0734344CAD118F826fe1810903\", \"deployment_block_height\": 2765158 }, \"multisig_control_contract\": { \"address\": \"0xa204bE9564a1D6C2bAEAe74D53d2f1C25831B418\", \"deployment_block_height\": 2765151 } }",
+            "blockchains.ethereumConfig": "{ \"network_id\": \"11155111\", \"chain_id\": \"11155111\", \"confirmations\": 3, \"collateral_bridge_contract\": { \"address\": \"0xb12B6822c095B9814D8CaaD01b60C145858b9f28\" }, \"staking_bridge_contract\": { \"address\": \"0x346B01FaFe109ea76EDc25212B802be2d1BECaF8\", \"deployment_block_height\": 3322272 }, \"token_vesting_contract\": { \"address\": \"0x34bcD215a6B5B8308550e4fe60c7Ea8B52Bd3ea5\", \"deployment_block_height\": 3322274 }, \"multisig_control_contract\": { \"address\": \"0xeC8f65824B1CB65F2c94CC5375c1e92E22749D0e\", \"deployment_block_height\": 3322268 } }",
             "governance.proposal.asset.maxClose": "8760h0m0s",
             "governance.proposal.asset.maxEnact": "8760h0m0s",
             "governance.proposal.asset.minClose": "5s",
