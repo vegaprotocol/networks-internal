@@ -302,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "YlqN3OQmQBjfUX1EGuhoLsOIrNavduAbc1OJrEekYis=": {
+        "avatar_url": "https://www.gravatar.com/avatar/on0jxdnnq6lf8xw1scq3nht4v7i3ws7y?d=identicon",
+        "country": "OL",
+        "ethereum_address": "0x9f3e65ebcd5038c5292566cE68b582CF4C806D15",
+        "id": "5d23e6fec9b1f82b83ddfdb84a51459f76065f3e9d75160514ae1d91c7f27e1b",
+        "info_url": "https://en.wikipedia.org/wiki/Elections_in_Himachal_Pradesh",
+        "name": "rhythmic-duck",
+        "tm_pub_key": "YlqN3OQmQBjfUX1EGuhoLsOIrNavduAbc1OJrEekYis=",
+        "vega_pub_key": "4cd5bd00e3e70242b12bcac4ec29323ed43678f268656d197baca0ebdfa47c51",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "uM38NoQj8sqRSYAcJZdNQ/XNLEmHbw9N4VurHr/3J78=": {
-        "avatar_url": "https://www.gravatar.com/avatar/wb87r9ceo1ayypo8sxyexmfkycccrjff?d=identicon",
-        "country": "MA",
-        "ethereum_address": "0xEc500113eE731216f018c8A38Ae63b69017639FD",
-        "id": "ac0b2562a73477ba348e5abce95cb09153a447e19bee093a17062cbbd450272d",
-        "info_url": "https://en.wikipedia.org/wiki/Mahfooz_Sabri",
-        "name": "howling-computer",
-        "tm_pub_key": "uM38NoQj8sqRSYAcJZdNQ/XNLEmHbw9N4VurHr/3J78=",
-        "vega_pub_key": "131ce1b1087e219e57d0ad004bd0278499567047081b8990466eb36d91112275",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202304191707",
+  "chain_id": "vega-devnet1-202304191936",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-19T17:07:51.062990844Z",
+  "genesis_time": "2023-04-19T19:36:22.773547949Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "16AE2384B754F09C2DA2946B03C027BAF90C4E5B",
-      "name": "howling-computer",
+      "address": "2FB9C31C7A3D04CFB11F5A01B2FF1C090E179815",
+      "name": "rhythmic-duck",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "uM38NoQj8sqRSYAcJZdNQ/XNLEmHbw9N4VurHr/3J78="
+        "value": "YlqN3OQmQBjfUX1EGuhoLsOIrNavduAbc1OJrEekYis="
       }
     }
   ]
