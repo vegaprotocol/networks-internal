@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "XlunTWVf+tzwqA/1uEsndTTejztkrLyHvUsrQGh6ags=": {
-        "avatar_url": "https://www.gravatar.com/avatar/64cxcq3us9zavhnhvy1f9kthcy9na7f9?d=identicon",
-        "country": "WI",
-        "ethereum_address": "0xFd325D4e13924fD819929178D6a44D6495Cd85Dc",
-        "id": "39df9e75fec33b6fb956c5731bf9d3d53f19fc54d642221f06223ecd2a4f6a17",
-        "info_url": "https://en.wikipedia.org/wiki/William_Milligan_Sloane",
-        "name": "happy-mouse",
-        "tm_pub_key": "XlunTWVf+tzwqA/1uEsndTTejztkrLyHvUsrQGh6ags=",
-        "vega_pub_key": "4993a2fff12b4b5b33475f686848e0552c18a567341822148d8aa8cc305634e9",
+      "KsDnxd8CoXUkgG4oZc/LJ5zfWbDan1cFoPXOQTRkue4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/hrbkrv5slsbis7pafqic9b07m75a4jq7?d=identicon",
+        "country": "VR",
+        "ethereum_address": "0x7524552898842d6045999EEfBBf6495c7Bb2B823",
+        "id": "5dfb6aa34bb58101dd2af9c5db4be7d2afbfa8edecaaa62d68b233b182ce81fa",
+        "info_url": "https://en.wikipedia.org/wiki/Irresistible_(Wisin_%26_Yandel_song)",
+        "name": "thundering-train",
+        "tm_pub_key": "KsDnxd8CoXUkgG4oZc/LJ5zfWbDan1cFoPXOQTRkue4=",
+        "vega_pub_key": "d1777d1f2b6ca17ca4c3709d587e57b9c636f45240a65ff64b3797534cc14abf",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304181908",
+  "chain_id": "vega-devnet1-202304190911",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-18T19:08:52.997376695Z",
+  "genesis_time": "2023-04-19T09:11:24.42613956Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "39688B6F7651D0360957154491B633E3DD17FB8A",
-      "name": "happy-mouse",
+      "address": "0041BF5D36A9B03CFECA7932756DF4B6AC1B0F8A",
+      "name": "thundering-train",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "XlunTWVf+tzwqA/1uEsndTTejztkrLyHvUsrQGh6ags="
+        "value": "KsDnxd8CoXUkgG4oZc/LJ5zfWbDan1cFoPXOQTRkue4="
       }
     }
   ]
