@@ -291,17 +291,6 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
-      "G3e6h3ML0TQHpVVz9BKSgzMg6/hg2Z/R+dQ8RI7RDU8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/844s7cmczeh9qr5fncst27bkse94c1z3?d=identicon",
-        "country": "VJ",
-        "ethereum_address": "0xd77bC66839C8DF128d15cA4AA274a276Ca5b94d7",
-        "id": "72298465a73ab20b90f60b129dd4d8686a440e9b2e748c772c051024350cbf6e",
-        "info_url": "https://en.wikipedia.org/wiki/Ian_Maher",
-        "name": "distressed-fan",
-        "tm_pub_key": "G3e6h3ML0TQHpVVz9BKSgzMg6/hg2Z/R+dQ8RI7RDU8=",
-        "vega_pub_key": "39fa3e1b10d64a7b400ed952b21379dd1e990c21472a0e552a14bbb470bf172d",
-        "vega_pub_key_index": 1
-      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -311,6 +300,17 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
+        "vega_pub_key_index": 1
+      },
+      "O0G8SJbJExJ3ibllEvY2zb7b8SzNRM9/KFI6cP3u784=": {
+        "avatar_url": "https://www.gravatar.com/avatar/sgp21ljdo6s4t7ibkfy7gwyxtq6tu301?d=identicon",
+        "country": "HK",
+        "ethereum_address": "0xf6FC5E8137068317d38612C08cb2c1C88bBA2D6f",
+        "id": "4e6994ff5d91dc734cf609cff1224058f3aabbb3839a200a0e12849631ee93ef",
+        "info_url": "https://en.wikipedia.org/wiki/1973%E2%80%9374_Copa_del_General%C3%ADsimo",
+        "name": "hollow-bed",
+        "tm_pub_key": "O0G8SJbJExJ3ibllEvY2zb7b8SzNRM9/KFI6cP3u784=",
+        "vega_pub_key": "e63ba5997a639ece892169fed2002d7d83e8762627175f93d1ea4850558a637d",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304201712",
+  "chain_id": "vega-devnet1-202304201950",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-20T17:12:51.359437315Z",
+  "genesis_time": "2023-04-20T19:50:29.306363929Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "DEFEED2FA579F56A2F425FF0D6E925D303100FAF",
-      "name": "distressed-fan",
+      "address": "47F45C1E1E05509720A40A6FEFD7765874D29E7A",
+      "name": "hollow-bed",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "G3e6h3ML0TQHpVVz9BKSgzMg6/hg2Z/R+dQ8RI7RDU8="
+        "value": "O0G8SJbJExJ3ibllEvY2zb7b8SzNRM9/KFI6cP3u784="
       }
     }
   ]
