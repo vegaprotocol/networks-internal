@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "VKmHsAUq69vV77NBwLVTaerkmWL8C4Nml9XOz+g3jO8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/kivx37440d2cg2zrpvdba4orv67w31s7?d=identicon",
-        "country": "HN",
-        "ethereum_address": "0x07F4cde1D9D2C4d83d0D76650ed9db55E34fA68C",
-        "id": "f4ed608d93c6cdc23101b8c1f376a89c31907d09983938eea25bdba0b21c76b2",
-        "info_url": "https://en.wikipedia.org/wiki/Psyopus",
-        "name": "icy-chair",
-        "tm_pub_key": "VKmHsAUq69vV77NBwLVTaerkmWL8C4Nml9XOz+g3jO8=",
-        "vega_pub_key": "74d718f04b79b35ae707485cab4bef99442c8b579af11b9779a1e0a709522895",
+      "fEvj9UkHYtSxwD9Ij+raYSE+nqDLDsCpWcAOjNsKLpk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/d9x09tah40vd6dthbmwiy0k0ybnkhkwy?d=identicon",
+        "country": "LI",
+        "ethereum_address": "0x0fA21cC15CD4F7a67fE1a7312D613F3C8Dce5910",
+        "id": "d8394c8e7a0176b8f0f8ef279a6fe120d691a167419dc33d52683a7723694f9d",
+        "info_url": "https://en.wikipedia.org/wiki/Project_Genetrix",
+        "name": "timely-lake",
+        "tm_pub_key": "fEvj9UkHYtSxwD9Ij+raYSE+nqDLDsCpWcAOjNsKLpk=",
+        "vega_pub_key": "079956664969818b7c0900d9bb1b6ae072acdd88055633cf1d52731e130cb8f4",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304192327",
+  "chain_id": "vega-devnet1-202304201132",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-19T23:27:40.828479992Z",
+  "genesis_time": "2023-04-20T11:32:10.674655638Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "7084D74EA3AD9169B0076212EBB9BEA42AAB1623",
-      "name": "icy-chair",
+      "address": "F79D8CE464825B123C60603111DF1788EE7525F3",
+      "name": "timely-lake",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "VKmHsAUq69vV77NBwLVTaerkmWL8C4Nml9XOz+g3jO8="
+        "value": "fEvj9UkHYtSxwD9Ij+raYSE+nqDLDsCpWcAOjNsKLpk="
       }
     }
   ]
