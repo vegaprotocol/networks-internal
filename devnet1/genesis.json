@@ -291,17 +291,6 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
-      "IKOirbsDNXVZJqBDSlWv/Wi4iIGpjY1F66XsfJWW8qs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/2gaxlj36hrkavxum14jlaatwxkvxt364?d=identicon",
-        "country": "TX",
-        "ethereum_address": "0x1f89f74Cc4cdC2e734c5bB7b78d689e179C99A11",
-        "id": "6266fe88d3d32183f83000d5accff35e37b294ef10ac8147e56f16d40c157d02",
-        "info_url": "https://en.wikipedia.org/wiki/Sisauli",
-        "name": "hallowed-cookie",
-        "tm_pub_key": "IKOirbsDNXVZJqBDSlWv/Wi4iIGpjY1F66XsfJWW8qs=",
-        "vega_pub_key": "239ab6c240aeba9a03dc98ed6acf3a2aaaa8c94db5fbfdf637f21960c9bc7b21",
-        "vega_pub_key_index": 1
-      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -311,6 +300,17 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
+        "vega_pub_key_index": 1
+      },
+      "hCjI4sHjT4mUUGk+ebfDH7MCGG11ZrLG5IhWYMqsMV0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/1qaw9ygkqhqwtzliksofmg7ixn5me4t5?d=identicon",
+        "country": "CX",
+        "ethereum_address": "0x8818aA6fdC9430Fbc9D0a14d848d84729606f423",
+        "id": "2a1c4b2fa4010a76d7031758ce170294ea43adb496aa33a8b47fa216826a0c86",
+        "info_url": "https://en.wikipedia.org/wiki/Glyphipterix_saurodonta",
+        "name": "lemon-hat",
+        "tm_pub_key": "hCjI4sHjT4mUUGk+ebfDH7MCGG11ZrLG5IhWYMqsMV0=",
+        "vega_pub_key": "8143acf3cc419ad0688af86bcddc5a4eb84307bc9831bdca044eca8e1260c176",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304201312",
+  "chain_id": "vega-devnet1-202304201410",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-20T13:12:43.496879873Z",
+  "genesis_time": "2023-04-20T14:10:59.60103626Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "5593D61A23FA6FFC773FD87ACEE39E1CD8B3594A",
-      "name": "hallowed-cookie",
+      "address": "DE55CB5C486C60ECA1258A1C8044AB5F47415428",
+      "name": "lemon-hat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "IKOirbsDNXVZJqBDSlWv/Wi4iIGpjY1F66XsfJWW8qs="
+        "value": "hCjI4sHjT4mUUGk+ebfDH7MCGG11ZrLG5IhWYMqsMV0="
       }
     }
   ]
