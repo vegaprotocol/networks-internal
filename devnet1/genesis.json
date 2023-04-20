@@ -302,17 +302,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "hCjI4sHjT4mUUGk+ebfDH7MCGG11ZrLG5IhWYMqsMV0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/1qaw9ygkqhqwtzliksofmg7ixn5me4t5?d=identicon",
-        "country": "CX",
-        "ethereum_address": "0x8818aA6fdC9430Fbc9D0a14d848d84729606f423",
-        "id": "2a1c4b2fa4010a76d7031758ce170294ea43adb496aa33a8b47fa216826a0c86",
-        "info_url": "https://en.wikipedia.org/wiki/Glyphipterix_saurodonta",
-        "name": "lemon-hat",
-        "tm_pub_key": "hCjI4sHjT4mUUGk+ebfDH7MCGG11ZrLG5IhWYMqsMV0=",
-        "vega_pub_key": "8143acf3cc419ad0688af86bcddc5a4eb84307bc9831bdca044eca8e1260c176",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "vPZha9EEoH0Znqw6EOQkPsQ0jNQwEZ7rVg+vUmmxksI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/4nkx9q9gqxuw6ns1v8pzhr9alujrpgfn?d=identicon",
+        "country": "VT",
+        "ethereum_address": "0x8b5Ed377C76B1ff240321CD5b2A1488e65FC900d",
+        "id": "8c7369f06bc29c71ad382c2ddc236c58194db2d688aff6902e76fb1f790cc72b",
+        "info_url": "https://en.wikipedia.org/wiki/Lauren_B._Davis",
+        "name": "brave-cloud",
+        "tm_pub_key": "vPZha9EEoH0Znqw6EOQkPsQ0jNQwEZ7rVg+vUmmxksI=",
+        "vega_pub_key": "a646e7b2551ac17fdf6c91cbb5f0cf93fe7b3469de5c3e74d93d5b8b165a646a",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202304201410",
+  "chain_id": "vega-devnet1-202304201612",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-20T14:10:59.60103626Z",
+  "genesis_time": "2023-04-20T16:12:00.439205543Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "DE55CB5C486C60ECA1258A1C8044AB5F47415428",
-      "name": "lemon-hat",
+      "address": "99AB2C6E5B74B41FCD0D0524AEA6B34906388321",
+      "name": "brave-cloud",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "hCjI4sHjT4mUUGk+ebfDH7MCGG11ZrLG5IhWYMqsMV0="
+        "value": "vPZha9EEoH0Znqw6EOQkPsQ0jNQwEZ7rVg+vUmmxksI="
       }
     }
   ]
