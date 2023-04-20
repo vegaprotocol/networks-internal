@@ -291,6 +291,17 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
+      "IKOirbsDNXVZJqBDSlWv/Wi4iIGpjY1F66XsfJWW8qs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/2gaxlj36hrkavxum14jlaatwxkvxt364?d=identicon",
+        "country": "TX",
+        "ethereum_address": "0x1f89f74Cc4cdC2e734c5bB7b78d689e179C99A11",
+        "id": "6266fe88d3d32183f83000d5accff35e37b294ef10ac8147e56f16d40c157d02",
+        "info_url": "https://en.wikipedia.org/wiki/Sisauli",
+        "name": "hallowed-cookie",
+        "tm_pub_key": "IKOirbsDNXVZJqBDSlWv/Wi4iIGpjY1F66XsfJWW8qs=",
+        "vega_pub_key": "239ab6c240aeba9a03dc98ed6acf3a2aaaa8c94db5fbfdf637f21960c9bc7b21",
+        "vega_pub_key_index": 1
+      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -300,17 +311,6 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
-        "vega_pub_key_index": 1
-      },
-      "fEvj9UkHYtSxwD9Ij+raYSE+nqDLDsCpWcAOjNsKLpk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/d9x09tah40vd6dthbmwiy0k0ybnkhkwy?d=identicon",
-        "country": "LI",
-        "ethereum_address": "0x0fA21cC15CD4F7a67fE1a7312D613F3C8Dce5910",
-        "id": "d8394c8e7a0176b8f0f8ef279a6fe120d691a167419dc33d52683a7723694f9d",
-        "info_url": "https://en.wikipedia.org/wiki/Project_Genetrix",
-        "name": "timely-lake",
-        "tm_pub_key": "fEvj9UkHYtSxwD9Ij+raYSE+nqDLDsCpWcAOjNsKLpk=",
-        "vega_pub_key": "079956664969818b7c0900d9bb1b6ae072acdd88055633cf1d52731e130cb8f4",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304201132",
+  "chain_id": "vega-devnet1-202304201312",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-20T11:32:10.674655638Z",
+  "genesis_time": "2023-04-20T13:12:43.496879873Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "F79D8CE464825B123C60603111DF1788EE7525F3",
-      "name": "timely-lake",
+      "address": "5593D61A23FA6FFC773FD87ACEE39E1CD8B3594A",
+      "name": "hallowed-cookie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "fEvj9UkHYtSxwD9Ij+raYSE+nqDLDsCpWcAOjNsKLpk="
+        "value": "IKOirbsDNXVZJqBDSlWv/Wi4iIGpjY1F66XsfJWW8qs="
       }
     }
   ]
