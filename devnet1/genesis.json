@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "O0G8SJbJExJ3ibllEvY2zb7b8SzNRM9/KFI6cP3u784=": {
-        "avatar_url": "https://www.gravatar.com/avatar/sgp21ljdo6s4t7ibkfy7gwyxtq6tu301?d=identicon",
-        "country": "HK",
-        "ethereum_address": "0xf6FC5E8137068317d38612C08cb2c1C88bBA2D6f",
-        "id": "4e6994ff5d91dc734cf609cff1224058f3aabbb3839a200a0e12849631ee93ef",
-        "info_url": "https://en.wikipedia.org/wiki/1973%E2%80%9374_Copa_del_General%C3%ADsimo",
-        "name": "hollow-bed",
-        "tm_pub_key": "O0G8SJbJExJ3ibllEvY2zb7b8SzNRM9/KFI6cP3u784=",
-        "vega_pub_key": "e63ba5997a639ece892169fed2002d7d83e8762627175f93d1ea4850558a637d",
+      "bS5PB8Ex9Di/+XJC+ZmW9J+78fTAX51qXEo24rfUcOw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/mcc14vo0j7jpvsq9z6h9zezrwfywg9le?d=identicon",
+        "country": "BO",
+        "ethereum_address": "0xf135c10A748442532fC159C580b5580D1547A495",
+        "id": "faa8287bb3dcdcca3eb58b89b286e6d54b2d01131f5e3e3541ef42ef270f8259",
+        "info_url": "https://en.wikipedia.org/wiki/Trenton_Bath_House",
+        "name": "disturbed-bat",
+        "tm_pub_key": "bS5PB8Ex9Di/+XJC+ZmW9J+78fTAX51qXEo24rfUcOw=",
+        "vega_pub_key": "6f4b13f78158df317883362901ddf251ea95a528aa4ec6789dc3f79c11795c16",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304201950",
+  "chain_id": "vega-devnet1-202304202146",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-20T19:50:29.306363929Z",
+  "genesis_time": "2023-04-20T21:46:55.486618219Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "47F45C1E1E05509720A40A6FEFD7765874D29E7A",
-      "name": "hollow-bed",
+      "address": "0FFF52A11208DC5E7A21BB0F1111778111720EE6",
+      "name": "disturbed-bat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "O0G8SJbJExJ3ibllEvY2zb7b8SzNRM9/KFI6cP3u784="
+        "value": "bS5PB8Ex9Di/+XJC+ZmW9J+78fTAX51qXEo24rfUcOw="
       }
     }
   ]
