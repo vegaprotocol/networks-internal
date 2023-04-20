@@ -291,6 +291,17 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
+      "G3e6h3ML0TQHpVVz9BKSgzMg6/hg2Z/R+dQ8RI7RDU8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/844s7cmczeh9qr5fncst27bkse94c1z3?d=identicon",
+        "country": "VJ",
+        "ethereum_address": "0xd77bC66839C8DF128d15cA4AA274a276Ca5b94d7",
+        "id": "72298465a73ab20b90f60b129dd4d8686a440e9b2e748c772c051024350cbf6e",
+        "info_url": "https://en.wikipedia.org/wiki/Ian_Maher",
+        "name": "distressed-fan",
+        "tm_pub_key": "G3e6h3ML0TQHpVVz9BKSgzMg6/hg2Z/R+dQ8RI7RDU8=",
+        "vega_pub_key": "39fa3e1b10d64a7b400ed952b21379dd1e990c21472a0e552a14bbb470bf172d",
+        "vega_pub_key_index": 1
+      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "vPZha9EEoH0Znqw6EOQkPsQ0jNQwEZ7rVg+vUmmxksI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/4nkx9q9gqxuw6ns1v8pzhr9alujrpgfn?d=identicon",
-        "country": "VT",
-        "ethereum_address": "0x8b5Ed377C76B1ff240321CD5b2A1488e65FC900d",
-        "id": "8c7369f06bc29c71ad382c2ddc236c58194db2d688aff6902e76fb1f790cc72b",
-        "info_url": "https://en.wikipedia.org/wiki/Lauren_B._Davis",
-        "name": "brave-cloud",
-        "tm_pub_key": "vPZha9EEoH0Znqw6EOQkPsQ0jNQwEZ7rVg+vUmmxksI=",
-        "vega_pub_key": "a646e7b2551ac17fdf6c91cbb5f0cf93fe7b3469de5c3e74d93d5b8b165a646a",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202304201612",
+  "chain_id": "vega-devnet1-202304201712",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-20T16:12:00.439205543Z",
+  "genesis_time": "2023-04-20T17:12:51.359437315Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "99AB2C6E5B74B41FCD0D0524AEA6B34906388321",
-      "name": "brave-cloud",
+      "address": "DEFEED2FA579F56A2F425FF0D6E925D303100FAF",
+      "name": "distressed-fan",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "vPZha9EEoH0Znqw6EOQkPsQ0jNQwEZ7rVg+vUmmxksI="
+        "value": "G3e6h3ML0TQHpVVz9BKSgzMg6/hg2Z/R+dQ8RI7RDU8="
       }
     }
   ]
