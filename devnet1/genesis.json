@@ -291,6 +291,17 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
+      "Ii3Q4QUYpZ6tw9U/dApMEKWxPiTjGTj9G9X01pau6RU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/2dahxf6gq455jkdp2vbdbhnk4peomtye?d=identicon",
+        "country": "JT",
+        "ethereum_address": "0x7218A3C9F7d8Ac6D85276383767fe93b15454B51",
+        "id": "09fee7e9c15be5f7c2e326e123efd86d3a5d4046de8bb401a9ec7b160dbb3188",
+        "info_url": "https://en.wikipedia.org/wiki/List_of_films_set_in_Washington,_D.C.",
+        "name": "glorious-lake",
+        "tm_pub_key": "Ii3Q4QUYpZ6tw9U/dApMEKWxPiTjGTj9G9X01pau6RU=",
+        "vega_pub_key": "5e1e1a298389b019a41c037f935adee075d7b28ec206238f38e88b3a1390f2c3",
+        "vega_pub_key_index": 1
+      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -300,17 +311,6 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
-        "vega_pub_key_index": 1
-      },
-      "cBJZXzFXQnbpHHssQUMFSJv6GTOuUe7gnqidgusA9UA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/y7iy3qn33xpqpwkvlpqtc90ld5syovrx?d=identicon",
-        "country": "AZ",
-        "ethereum_address": "0xDe9a17C3e3A437d6D8e83d6B4CcAcBaf9a88C2f1",
-        "id": "9d9864350d438d9060b2f1f06187f7af15efdebfa6f40cf8c383c88b248e2f5f",
-        "info_url": "https://en.wikipedia.org/wiki/Jordan_Pace",
-        "name": "frightened-phone",
-        "tm_pub_key": "cBJZXzFXQnbpHHssQUMFSJv6GTOuUe7gnqidgusA9UA=",
-        "vega_pub_key": "dcc8005e0b6690b1cb296c4e8e671c12bbf49e8d20af9302ee4eb09d5989f090",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304211445",
+  "chain_id": "vega-devnet1-202304211524",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-21T14:45:14.416802117Z",
+  "genesis_time": "2023-04-21T15:24:25.621222963Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "EE3A5967DEED55EED42318A381852A88A7AC8093",
-      "name": "frightened-phone",
+      "address": "1D70EB095813538F1D351A8298E0250065933543",
+      "name": "glorious-lake",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "cBJZXzFXQnbpHHssQUMFSJv6GTOuUe7gnqidgusA9UA="
+        "value": "Ii3Q4QUYpZ6tw9U/dApMEKWxPiTjGTj9G9X01pau6RU="
       }
     }
   ]
