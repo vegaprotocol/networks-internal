@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "bS5PB8Ex9Di/+XJC+ZmW9J+78fTAX51qXEo24rfUcOw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/mcc14vo0j7jpvsq9z6h9zezrwfywg9le?d=identicon",
-        "country": "BO",
-        "ethereum_address": "0xf135c10A748442532fC159C580b5580D1547A495",
-        "id": "faa8287bb3dcdcca3eb58b89b286e6d54b2d01131f5e3e3541ef42ef270f8259",
-        "info_url": "https://en.wikipedia.org/wiki/Trenton_Bath_House",
-        "name": "disturbed-bat",
-        "tm_pub_key": "bS5PB8Ex9Di/+XJC+ZmW9J+78fTAX51qXEo24rfUcOw=",
-        "vega_pub_key": "6f4b13f78158df317883362901ddf251ea95a528aa4ec6789dc3f79c11795c16",
+      "jZRGTXTtHNMDK7Y9aScmHpQytAg2S9LTmJL03ZhUejQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/kym63jvnhj3wkpbl3pp753cgzrrfwqx7?d=identicon",
+        "country": "MU",
+        "ethereum_address": "0x439727E4035C53BBF68f074b511a1aFfDD7766cb",
+        "id": "bb35685020cd05a4fc30e7bea39f5bcc771e23ce2dd11ad65920d98cb2b807b6",
+        "info_url": "https://en.wikipedia.org/wiki/Chenar,_Eslamabad-e_Gharb",
+        "name": "green-cookie",
+        "tm_pub_key": "jZRGTXTtHNMDK7Y9aScmHpQytAg2S9LTmJL03ZhUejQ=",
+        "vega_pub_key": "0f05d56b7ec6581b95cf2e975ff26283ef407bf3ed5395d24f4367ddc850a37e",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304202146",
+  "chain_id": "vega-devnet1-202304211013",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-20T21:46:55.486618219Z",
+  "genesis_time": "2023-04-21T10:13:58.597009853Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "0FFF52A11208DC5E7A21BB0F1111778111720EE6",
-      "name": "disturbed-bat",
+      "address": "9499B92AFD33513D6D7F181346BC8A0A038EA7F2",
+      "name": "green-cookie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "bS5PB8Ex9Di/+XJC+ZmW9J+78fTAX51qXEo24rfUcOw="
+        "value": "jZRGTXTtHNMDK7Y9aScmHpQytAg2S9LTmJL03ZhUejQ="
       }
     }
   ]
