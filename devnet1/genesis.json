@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "jZRGTXTtHNMDK7Y9aScmHpQytAg2S9LTmJL03ZhUejQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/kym63jvnhj3wkpbl3pp753cgzrrfwqx7?d=identicon",
-        "country": "MU",
-        "ethereum_address": "0x439727E4035C53BBF68f074b511a1aFfDD7766cb",
-        "id": "bb35685020cd05a4fc30e7bea39f5bcc771e23ce2dd11ad65920d98cb2b807b6",
-        "info_url": "https://en.wikipedia.org/wiki/Chenar,_Eslamabad-e_Gharb",
-        "name": "green-cookie",
-        "tm_pub_key": "jZRGTXTtHNMDK7Y9aScmHpQytAg2S9LTmJL03ZhUejQ=",
-        "vega_pub_key": "0f05d56b7ec6581b95cf2e975ff26283ef407bf3ed5395d24f4367ddc850a37e",
+      "cBJZXzFXQnbpHHssQUMFSJv6GTOuUe7gnqidgusA9UA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/y7iy3qn33xpqpwkvlpqtc90ld5syovrx?d=identicon",
+        "country": "AZ",
+        "ethereum_address": "0xDe9a17C3e3A437d6D8e83d6B4CcAcBaf9a88C2f1",
+        "id": "9d9864350d438d9060b2f1f06187f7af15efdebfa6f40cf8c383c88b248e2f5f",
+        "info_url": "https://en.wikipedia.org/wiki/Jordan_Pace",
+        "name": "frightened-phone",
+        "tm_pub_key": "cBJZXzFXQnbpHHssQUMFSJv6GTOuUe7gnqidgusA9UA=",
+        "vega_pub_key": "dcc8005e0b6690b1cb296c4e8e671c12bbf49e8d20af9302ee4eb09d5989f090",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304211344",
+  "chain_id": "vega-devnet1-202304211417",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-21T13:44:34.587814908Z",
+  "genesis_time": "2023-04-21T14:17:12.066148482Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "9499B92AFD33513D6D7F181346BC8A0A038EA7F2",
-      "name": "green-cookie",
+      "address": "EE3A5967DEED55EED42318A381852A88A7AC8093",
+      "name": "frightened-phone",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "jZRGTXTtHNMDK7Y9aScmHpQytAg2S9LTmJL03ZhUejQ="
+        "value": "cBJZXzFXQnbpHHssQUMFSJv6GTOuUe7gnqidgusA9UA="
       }
     }
   ]
