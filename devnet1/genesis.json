@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "48jECZiwAzRq7C8whAddGxt04zZfwoRAya9P1ntO3D0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/krxeqx9mq4l20c1hexy4dq87s652of6m?d=identicon",
-        "country": "CH",
-        "ethereum_address": "0xcAD44503E3d9a08998e53c1c2B6EBdC5773f6C7B",
-        "id": "8d7a24cbf708f34e329c8cb1e605c0c19de6a02ed8dccc27137616d2d59a8ac7",
-        "info_url": "https://en.wikipedia.org/wiki/Noy_v._State",
-        "name": "icy-road",
-        "tm_pub_key": "48jECZiwAzRq7C8whAddGxt04zZfwoRAya9P1ntO3D0=",
-        "vega_pub_key": "cf2be95f6195edd22eeffd05dd095e3dbaf82358e44a3481967116f551c816e9",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "QiXpt6dANPUQ/t3c2DSEP5coe1/RVK0F0zJql+cBMKY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/3af4xr8o5dlm49f4zn8cwzzgrtb2xcay?d=identicon",
+        "country": "BA",
+        "ethereum_address": "0xb72834a77a2b6F00Cb41837Bd03321FbD2f6B8FC",
+        "id": "69d188cec2d05c0763b6a23139b40adf1f207804cfadf435dfe757eea437cb03",
+        "info_url": "https://en.wikipedia.org/wiki/Pyrausta_acontialis",
+        "name": "colossal-policeman",
+        "tm_pub_key": "QiXpt6dANPUQ/t3c2DSEP5coe1/RVK0F0zJql+cBMKY=",
+        "vega_pub_key": "f4600a1b82c5412d6b52dcd32edc7605d6a0f96d0742088d56c9a4b522bd396f",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304211725",
+  "chain_id": "vega-devnet1-202304211811",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-21T17:25:20.072776417Z",
+  "genesis_time": "2023-04-21T18:11:12.25522674Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "22DD02F2529317246FA4B6E6B5326AF13B043F30",
-      "name": "icy-road",
+      "address": "09C63851D1F15337A64652091A39A24379061412",
+      "name": "colossal-policeman",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "48jECZiwAzRq7C8whAddGxt04zZfwoRAya9P1ntO3D0="
+        "value": "QiXpt6dANPUQ/t3c2DSEP5coe1/RVK0F0zJql+cBMKY="
       }
     }
   ]
