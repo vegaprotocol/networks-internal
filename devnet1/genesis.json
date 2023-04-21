@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "48jECZiwAzRq7C8whAddGxt04zZfwoRAya9P1ntO3D0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/krxeqx9mq4l20c1hexy4dq87s652of6m?d=identicon",
+        "country": "CH",
+        "ethereum_address": "0xcAD44503E3d9a08998e53c1c2B6EBdC5773f6C7B",
+        "id": "8d7a24cbf708f34e329c8cb1e605c0c19de6a02ed8dccc27137616d2d59a8ac7",
+        "info_url": "https://en.wikipedia.org/wiki/Noy_v._State",
+        "name": "icy-road",
+        "tm_pub_key": "48jECZiwAzRq7C8whAddGxt04zZfwoRAya9P1ntO3D0=",
+        "vega_pub_key": "cf2be95f6195edd22eeffd05dd095e3dbaf82358e44a3481967116f551c816e9",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -289,17 +300,6 @@
         "name": "friendly-barber",
         "tm_pub_key": "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=",
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
-        "vega_pub_key_index": 1
-      },
-      "Ii3Q4QUYpZ6tw9U/dApMEKWxPiTjGTj9G9X01pau6RU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/2dahxf6gq455jkdp2vbdbhnk4peomtye?d=identicon",
-        "country": "JT",
-        "ethereum_address": "0x7218A3C9F7d8Ac6D85276383767fe93b15454B51",
-        "id": "09fee7e9c15be5f7c2e326e123efd86d3a5d4046de8bb401a9ec7b160dbb3188",
-        "info_url": "https://en.wikipedia.org/wiki/List_of_films_set_in_Washington,_D.C.",
-        "name": "glorious-lake",
-        "tm_pub_key": "Ii3Q4QUYpZ6tw9U/dApMEKWxPiTjGTj9G9X01pau6RU=",
-        "vega_pub_key": "5e1e1a298389b019a41c037f935adee075d7b28ec206238f38e88b3a1390f2c3",
         "vega_pub_key_index": 1
       },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304211620",
+  "chain_id": "vega-devnet1-202304211725",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-21T16:20:34.699126235Z",
+  "genesis_time": "2023-04-21T17:25:20.072776417Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "1D70EB095813538F1D351A8298E0250065933543",
-      "name": "glorious-lake",
+      "address": "22DD02F2529317246FA4B6E6B5326AF13B043F30",
+      "name": "icy-road",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Ii3Q4QUYpZ6tw9U/dApMEKWxPiTjGTj9G9X01pau6RU="
+        "value": "48jECZiwAzRq7C8whAddGxt04zZfwoRAya9P1ntO3D0="
       }
     }
   ]
