@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "QiXpt6dANPUQ/t3c2DSEP5coe1/RVK0F0zJql+cBMKY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/3af4xr8o5dlm49f4zn8cwzzgrtb2xcay?d=identicon",
-        "country": "BA",
-        "ethereum_address": "0xb72834a77a2b6F00Cb41837Bd03321FbD2f6B8FC",
-        "id": "69d188cec2d05c0763b6a23139b40adf1f207804cfadf435dfe757eea437cb03",
-        "info_url": "https://en.wikipedia.org/wiki/Pyrausta_acontialis",
-        "name": "colossal-policeman",
-        "tm_pub_key": "QiXpt6dANPUQ/t3c2DSEP5coe1/RVK0F0zJql+cBMKY=",
-        "vega_pub_key": "f4600a1b82c5412d6b52dcd32edc7605d6a0f96d0742088d56c9a4b522bd396f",
+      "RUGzlGToX5hzXwXIaNCGOJFxIJEK9+VNdZV7QYYrP04=": {
+        "avatar_url": "https://www.gravatar.com/avatar/pa88hwd553sya4fhtak9ucwxampk2e81?d=identicon",
+        "country": "PW",
+        "ethereum_address": "0x539DFb6511478BDbBcE0fAF9C91C5eF5385807df",
+        "id": "9198fdde003e173844eb7553cedf153cdcfb784b38a187ee3427b282d2270e73",
+        "info_url": "https://en.wikipedia.org/wiki/Jacinto_Cascales",
+        "name": "agitated-bee",
+        "tm_pub_key": "RUGzlGToX5hzXwXIaNCGOJFxIJEK9+VNdZV7QYYrP04=",
+        "vega_pub_key": "9fdef12d580e5c00ee47c289d16dd8ba7fbf137fe48b77366bb12daf57fb2f4f",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304211836",
+  "chain_id": "vega-devnet1-202304211915",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-21T18:36:32.432457936Z",
+  "genesis_time": "2023-04-21T19:15:42.657726018Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "09C63851D1F15337A64652091A39A24379061412",
-      "name": "colossal-policeman",
+      "address": "376A0868F11D0E54A1C7C82D2CD16C64E9D1BC20",
+      "name": "agitated-bee",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "QiXpt6dANPUQ/t3c2DSEP5coe1/RVK0F0zJql+cBMKY="
+        "value": "RUGzlGToX5hzXwXIaNCGOJFxIJEK9+VNdZV7QYYrP04="
       }
     }
   ]
