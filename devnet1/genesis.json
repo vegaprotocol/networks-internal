@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "0WHQD0HeY0kyTigdm0oz7oQVwmrWENnEPE7n+ZQBK7Y=": {
+        "avatar_url": "https://www.gravatar.com/avatar/38hax7iig2vtb5qrjkp9ejym14y4gbbr?d=identicon",
+        "country": "AB",
+        "ethereum_address": "0xF91FFDc311f2712eFE0ffc065c3269aF5aD5A2a1",
+        "id": "bf2e56b69d6ded7efea6c0270b696d64c38919a5df9b392690ccc127a13318ba",
+        "info_url": "https://en.wikipedia.org/wiki/Merwinsville_Hotel",
+        "name": "red-hat",
+        "tm_pub_key": "0WHQD0HeY0kyTigdm0oz7oQVwmrWENnEPE7n+ZQBK7Y=",
+        "vega_pub_key": "44849ca4a602a0c6096638ed37b5b8fc8c45f1669a275d64ebe99f65c45dbc64",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "sdtV9iYGMJw30s5g3+0uXtbo9CA0S3cfzTOep234J7M=": {
-        "avatar_url": "https://www.gravatar.com/avatar/54z04mwdvfnvetf8jiayvf7z02q053dm?d=identicon",
-        "country": "KL",
-        "ethereum_address": "0x2e670afBCE0BBAcbD18E93EEFae641c2D5213ea2",
-        "id": "84ffa779c9722a2ad94bcbda55f6c00936765ccfa28e71c78ed2e03fcba612aa",
-        "info_url": "https://en.wikipedia.org/wiki/Horst_Kasner",
-        "name": "crashing-teacher",
-        "tm_pub_key": "sdtV9iYGMJw30s5g3+0uXtbo9CA0S3cfzTOep234J7M=",
-        "vega_pub_key": "1289050d8c20c32275998e03173a26f1aed09d939205fbfd23cefb82a8795ac3",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304241222",
+  "chain_id": "vega-devnet1-202304241313",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-24T12:22:41.109529928Z",
+  "genesis_time": "2023-04-24T13:13:00.993987781Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "C74A83A51E061790FBADCA3A881D1FC57216DE8B",
-      "name": "crashing-teacher",
+      "address": "0AD4DC307B16504E6EFE6928C2CD0C9FBEF1B745",
+      "name": "red-hat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "sdtV9iYGMJw30s5g3+0uXtbo9CA0S3cfzTOep234J7M="
+        "value": "0WHQD0HeY0kyTigdm0oz7oQVwmrWENnEPE7n+ZQBK7Y="
       }
     }
   ]
