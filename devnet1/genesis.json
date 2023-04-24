@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "0WHQD0HeY0kyTigdm0oz7oQVwmrWENnEPE7n+ZQBK7Y=": {
-        "avatar_url": "https://www.gravatar.com/avatar/38hax7iig2vtb5qrjkp9ejym14y4gbbr?d=identicon",
-        "country": "AB",
-        "ethereum_address": "0xF91FFDc311f2712eFE0ffc065c3269aF5aD5A2a1",
-        "id": "bf2e56b69d6ded7efea6c0270b696d64c38919a5df9b392690ccc127a13318ba",
-        "info_url": "https://en.wikipedia.org/wiki/Merwinsville_Hotel",
-        "name": "red-hat",
-        "tm_pub_key": "0WHQD0HeY0kyTigdm0oz7oQVwmrWENnEPE7n+ZQBK7Y=",
-        "vega_pub_key": "44849ca4a602a0c6096638ed37b5b8fc8c45f1669a275d64ebe99f65c45dbc64",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -300,6 +289,17 @@
         "name": "friendly-barber",
         "tm_pub_key": "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=",
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
+        "vega_pub_key_index": 1
+      },
+      "J0ObpiSA724WbZUM8z4cbonuw6d1KdrqRg6kgUZH5Es=": {
+        "avatar_url": "https://www.gravatar.com/avatar/7ldvtloo4r0jafuhi6ngi5ugok3d1btn?d=identicon",
+        "country": "OY",
+        "ethereum_address": "0x045C48377Dc350d6853bCE54c3374f3e137112da",
+        "id": "9b84fe95ddca128958125c7f4c5ee5ad798cedb738b7d9d5ad41395e52972277",
+        "info_url": "https://en.wikipedia.org/wiki/Evan_Spiegel",
+        "name": "brave-day",
+        "tm_pub_key": "J0ObpiSA724WbZUM8z4cbonuw6d1KdrqRg6kgUZH5Es=",
+        "vega_pub_key": "c2a04bfd1d3fb7815c5bcd27eeedd7bfcd0abfd0509b5858d9ac299138fa69d4",
         "vega_pub_key_index": 1
       },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304241313",
+  "chain_id": "vega-devnet1-202304241504",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-24T13:13:00.993987781Z",
+  "genesis_time": "2023-04-24T15:04:21.865850326Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "0AD4DC307B16504E6EFE6928C2CD0C9FBEF1B745",
-      "name": "red-hat",
+      "address": "2F767F390F5B99A6F0D5FED20FAB876893E99308",
+      "name": "brave-day",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "0WHQD0HeY0kyTigdm0oz7oQVwmrWENnEPE7n+ZQBK7Y="
+        "value": "J0ObpiSA724WbZUM8z4cbonuw6d1KdrqRg6kgUZH5Es="
       }
     }
   ]
