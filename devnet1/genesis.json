@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "RUGzlGToX5hzXwXIaNCGOJFxIJEK9+VNdZV7QYYrP04=": {
-        "avatar_url": "https://www.gravatar.com/avatar/pa88hwd553sya4fhtak9ucwxampk2e81?d=identicon",
-        "country": "PW",
-        "ethereum_address": "0x539DFb6511478BDbBcE0fAF9C91C5eF5385807df",
-        "id": "9198fdde003e173844eb7553cedf153cdcfb784b38a187ee3427b282d2270e73",
-        "info_url": "https://en.wikipedia.org/wiki/Jacinto_Cascales",
-        "name": "agitated-bee",
-        "tm_pub_key": "RUGzlGToX5hzXwXIaNCGOJFxIJEK9+VNdZV7QYYrP04=",
-        "vega_pub_key": "9fdef12d580e5c00ee47c289d16dd8ba7fbf137fe48b77366bb12daf57fb2f4f",
+      "sdtV9iYGMJw30s5g3+0uXtbo9CA0S3cfzTOep234J7M=": {
+        "avatar_url": "https://www.gravatar.com/avatar/54z04mwdvfnvetf8jiayvf7z02q053dm?d=identicon",
+        "country": "KL",
+        "ethereum_address": "0x2e670afBCE0BBAcbD18E93EEFae641c2D5213ea2",
+        "id": "84ffa779c9722a2ad94bcbda55f6c00936765ccfa28e71c78ed2e03fcba612aa",
+        "info_url": "https://en.wikipedia.org/wiki/Horst_Kasner",
+        "name": "crashing-teacher",
+        "tm_pub_key": "sdtV9iYGMJw30s5g3+0uXtbo9CA0S3cfzTOep234J7M=",
+        "vega_pub_key": "1289050d8c20c32275998e03173a26f1aed09d939205fbfd23cefb82a8795ac3",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304211915",
+  "chain_id": "vega-devnet1-202304241222",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-21T19:15:42.657726018Z",
+  "genesis_time": "2023-04-24T12:22:41.109529928Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "376A0868F11D0E54A1C7C82D2CD16C64E9D1BC20",
-      "name": "agitated-bee",
+      "address": "C74A83A51E061790FBADCA3A881D1FC57216DE8B",
+      "name": "crashing-teacher",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "RUGzlGToX5hzXwXIaNCGOJFxIJEK9+VNdZV7QYYrP04="
+        "value": "sdtV9iYGMJw30s5g3+0uXtbo9CA0S3cfzTOep234J7M="
       }
     }
   ]
