@@ -291,6 +291,17 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
+      "IA02nT6SfD0RHiaoB9dnGR1w8v2snpVXeUqmw186P2w=": {
+        "avatar_url": "https://www.gravatar.com/avatar/2aenh8xulg7s18wdqyt24y577wxljexy?d=identicon",
+        "country": "DM",
+        "ethereum_address": "0xb55B3B931B304e4486B69E13EBC9646e61475b87",
+        "id": "cb9f84263e3946198664964a4a794b9c0e3ed346cbb397d8f8e7f0855e98fed5",
+        "info_url": "https://en.wikipedia.org/wiki/2004%E2%80%9305_Polish_Basketball_League",
+        "name": "harebrained-chair",
+        "tm_pub_key": "IA02nT6SfD0RHiaoB9dnGR1w8v2snpVXeUqmw186P2w=",
+        "vega_pub_key": "987b057f3cf30e1bb6029c0c1811f9226daacf4df487125441a35bdfc1ea3040",
+        "vega_pub_key_index": 1
+      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -300,17 +311,6 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
-        "vega_pub_key_index": 1
-      },
-      "S2dudlYUHteeFSfOuuZ9q5rFeb6aYj14zXS70tKZ6FE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/q1rk38cjh70itcgl87ovqdjb2u824sum?d=identicon",
-        "country": "TM",
-        "ethereum_address": "0x921f47c39083748d1699fab0697444a975d20c06",
-        "id": "0dd8350fe8ff91c3274ea8de262a3c737d69c658c6d92545406a09e8618f206a",
-        "info_url": "https://en.wikipedia.org/wiki/Frank_Hanly",
-        "name": "foolish-duck",
-        "tm_pub_key": "S2dudlYUHteeFSfOuuZ9q5rFeb6aYj14zXS70tKZ6FE=",
-        "vega_pub_key": "d3ee2e36fbf372e1ecdcc7f873897c2859b59e705e4dbe244bfb16a09a24cb38",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304251308",
+  "chain_id": "vega-devnet1-202304251721",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-25T13:08:20.179926326Z",
+  "genesis_time": "2023-04-25T17:21:12.497848929Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "E0D73111255B7BDAA5CF411868CD6BC51740B35B",
-      "name": "foolish-duck",
+      "address": "88FA5EC7F1374B9314C86B0DFAB9803988746F72",
+      "name": "harebrained-chair",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "S2dudlYUHteeFSfOuuZ9q5rFeb6aYj14zXS70tKZ6FE="
+        "value": "IA02nT6SfD0RHiaoB9dnGR1w8v2snpVXeUqmw186P2w="
       }
     }
   ]
