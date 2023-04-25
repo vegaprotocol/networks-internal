@@ -291,15 +291,15 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
-      "IA02nT6SfD0RHiaoB9dnGR1w8v2snpVXeUqmw186P2w=": {
-        "avatar_url": "https://www.gravatar.com/avatar/2aenh8xulg7s18wdqyt24y577wxljexy?d=identicon",
-        "country": "DM",
-        "ethereum_address": "0xb55B3B931B304e4486B69E13EBC9646e61475b87",
-        "id": "cb9f84263e3946198664964a4a794b9c0e3ed346cbb397d8f8e7f0855e98fed5",
-        "info_url": "https://en.wikipedia.org/wiki/2004%E2%80%9305_Polish_Basketball_League",
-        "name": "harebrained-chair",
-        "tm_pub_key": "IA02nT6SfD0RHiaoB9dnGR1w8v2snpVXeUqmw186P2w=",
-        "vega_pub_key": "987b057f3cf30e1bb6029c0c1811f9226daacf4df487125441a35bdfc1ea3040",
+      "FsZ18eBru/tqEc6n8QrU3y+hILdkS667t5bk/tc1ez4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/khcbsoc995bdflx859wrr8sl3c1trxgw?d=identicon",
+        "country": "DW",
+        "ethereum_address": "0x06e93bac5640B497e197f1d097dF622B243cA87A",
+        "id": "58b888c936fd1c86ca5adc1f1ff450c2c90d6e911f62c09c9b89ed00153277fd",
+        "info_url": "https://en.wikipedia.org/wiki/2015_Latvian_First_League",
+        "name": "skinny-doctor",
+        "tm_pub_key": "FsZ18eBru/tqEc6n8QrU3y+hILdkS667t5bk/tc1ez4=",
+        "vega_pub_key": "fb31ad61f0c1c69aac081f9e153870c17ae211c8c78227562f1fa8f5e2226ab5",
         "vega_pub_key_index": 1
       },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304251721",
+  "chain_id": "vega-devnet1-202304252016",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-25T17:21:12.497848929Z",
+  "genesis_time": "2023-04-25T20:16:54.51443441Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "88FA5EC7F1374B9314C86B0DFAB9803988746F72",
-      "name": "harebrained-chair",
+      "address": "965A6E8AB86D561A0B989206B9CF585351BAD7CC",
+      "name": "skinny-doctor",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "IA02nT6SfD0RHiaoB9dnGR1w8v2snpVXeUqmw186P2w="
+        "value": "FsZ18eBru/tqEc6n8QrU3y+hILdkS667t5bk/tc1ez4="
       }
     }
   ]
