@@ -312,22 +312,7 @@
             "network.transactions.maxgasperblock":"500000",
             "network.transaction.defaultgas":"1"
         },
-        "network_parameters_checkpoint_overwrite": [
-            "governance.proposal.updateAsset.maxClose", 
-            "governance.proposal.updateAsset.maxEnact", 
-            "governance.proposal.updateAsset.minClose", 
-            "governance.proposal.updateAsset.minEnact",
-            "governance.proposal.updateAsset.minProposerBalance",
-            "governance.proposal.updateAsset.minVoterBalance",
-            "governance.proposal.updateAsset.requiredMajority",
-            "governance.proposal.updateAsset.requiredParticipation",
-            "governance.proposal.freeform.maxClose", 
-            "governance.proposal.freeform.minClose", 
-            "governance.proposal.freeform.minProposerBalance",
-            "governance.proposal.freeform.minVoterBalance",
-            "governance.proposal.freeform.requiredMajority",
-            "governance.proposal.freeform.requiredParticipation"
-        ],
+        "network_parameters_checkpoint_overwrite": [],
         "validators": "-THIS-WILL-BE-FILLED-IN-"
     },
     "app_hash": ""
