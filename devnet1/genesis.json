@@ -291,15 +291,15 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
-      "FsZ18eBru/tqEc6n8QrU3y+hILdkS667t5bk/tc1ez4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/khcbsoc995bdflx859wrr8sl3c1trxgw?d=identicon",
-        "country": "DW",
-        "ethereum_address": "0x06e93bac5640B497e197f1d097dF622B243cA87A",
-        "id": "58b888c936fd1c86ca5adc1f1ff450c2c90d6e911f62c09c9b89ed00153277fd",
-        "info_url": "https://en.wikipedia.org/wiki/2015_Latvian_First_League",
-        "name": "skinny-doctor",
-        "tm_pub_key": "FsZ18eBru/tqEc6n8QrU3y+hILdkS667t5bk/tc1ez4=",
-        "vega_pub_key": "fb31ad61f0c1c69aac081f9e153870c17ae211c8c78227562f1fa8f5e2226ab5",
+      "DcgIk/zmC4BmDv+IKBbkGeBWkzKZABKtPeSYjyHE4Uk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/i74hnbtjzjyvgrbj6snqqtz41o3anmqb?d=identicon",
+        "country": "JF",
+        "ethereum_address": "0x0944a184dF8509AAF5D151e57807e830cb2c559A",
+        "id": "1f3d93065420913a8f4c94db71dbfa870bfc1536e826b4604f020c0bd734969d",
+        "info_url": "https://en.wikipedia.org/wiki/Pauline_Bennett",
+        "name": "vast-tile",
+        "tm_pub_key": "DcgIk/zmC4BmDv+IKBbkGeBWkzKZABKtPeSYjyHE4Uk=",
+        "vega_pub_key": "0aaf4c7f57b8cd1c689e3bb7c70c7700c75546035afce6dd10b9c4d12416c1c6",
         "vega_pub_key_index": 1
       },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304252016",
+  "chain_id": "vega-devnet1-202304261352",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-25T20:16:54.51443441Z",
+  "genesis_time": "2023-04-26T13:52:38.255728903Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "965A6E8AB86D561A0B989206B9CF585351BAD7CC",
-      "name": "skinny-doctor",
+      "address": "282EB83D48D5E8B8179316C094513786D9E51B23",
+      "name": "vast-tile",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "FsZ18eBru/tqEc6n8QrU3y+hILdkS667t5bk/tc1ez4="
+        "value": "DcgIk/zmC4BmDv+IKBbkGeBWkzKZABKtPeSYjyHE4Uk="
       }
     }
   ]
