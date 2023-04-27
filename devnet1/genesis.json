@@ -16,7 +16,7 @@
         "symbol": "tEURO",
         "total_supply": "64999723000000000000000000"
       },
-      "XYZalpha": {
+      "XYZalpha00000000000000000000000000000000000000000000000000000000": {
         "decimals": 5,
         "name": "XYZ (α alpha)",
         "quantum": "1",
@@ -28,7 +28,7 @@
         "symbol": "XYZalpha",
         "total_supply": "100000000000000000000"
       },
-      "XYZbeta": {
+      "XYZbeta000000000000000000000000000000000000000000000000000000000": {
         "decimals": 5,
         "name": "XYZ (β beta)",
         "quantum": "1",
@@ -40,7 +40,7 @@
         "symbol": "XYZbeta",
         "total_supply": "1000000000"
       },
-      "XYZdelta": {
+      "XYZdelta00000000000000000000000000000000000000000000000000000000": {
         "decimals": 5,
         "name": "XYZ (δ delta)",
         "quantum": "1",
@@ -52,7 +52,7 @@
         "symbol": "XYZdelta",
         "total_supply": "1000000000"
       },
-      "XYZepsilon": {
+      "XYZepsilon000000000000000000000000000000000000000000000000000000": {
         "decimals": 5,
         "name": "XYZ (ε epsilon)",
         "quantum": "1",
@@ -64,7 +64,7 @@
         "symbol": "XYZepsilon",
         "total_supply": "1000000000"
       },
-      "XYZgamma": {
+      "XYZgamma00000000000000000000000000000000000000000000000000000000": {
         "decimals": 5,
         "name": "XYZ (γ gamma)",
         "quantum": "1",
@@ -130,7 +130,7 @@
         "symbol": "fBTC",
         "total_supply": "21000000000"
       },
-      "fDAI": {
+      "fDAI000000000000000000000000000000000000000000000000000000000000": {
         "decimals": 18,
         "name": "DAI (fake)",
         "quantum": "1",
@@ -142,7 +142,7 @@
         "symbol": "fDAI",
         "total_supply": "1000000000000000000000"
       },
-      "fEURO": {
+      "fEURO00000000000000000000000000000000000000000000000000000000000": {
         "decimals": 5,
         "name": "EURO (fake)",
         "quantum": "1",
@@ -154,7 +154,7 @@
         "symbol": "fEURO",
         "total_supply": "1000000000"
       },
-      "fUSDC": {
+      "fUSDC00000000000000000000000000000000000000000000000000000000000": {
         "decimals": 6,
         "name": "USDC (fake)",
         "quantum": "1",
