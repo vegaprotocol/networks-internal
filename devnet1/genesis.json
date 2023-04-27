@@ -16,66 +16,6 @@
         "symbol": "tEURO",
         "total_supply": "64999723000000000000000000"
       },
-      "XYZalpha": {
-        "decimals": 5,
-        "name": "XYZ (α alpha)",
-        "quantum": "1",
-        "source": {
-          "builtin_asset": {
-            "max_faucet_amount_mint": "5000000000"
-          }
-        },
-        "symbol": "XYZalpha",
-        "total_supply": "100000000000000000000"
-      },
-      "XYZbeta": {
-        "decimals": 5,
-        "name": "XYZ (β beta)",
-        "quantum": "1",
-        "source": {
-          "builtin_asset": {
-            "max_faucet_amount_mint": "100000000000"
-          }
-        },
-        "symbol": "XYZbeta",
-        "total_supply": "1000000000"
-      },
-      "XYZdelta": {
-        "decimals": 5,
-        "name": "XYZ (δ delta)",
-        "quantum": "1",
-        "source": {
-          "builtin_asset": {
-            "max_faucet_amount_mint": "100000000000"
-          }
-        },
-        "symbol": "XYZdelta",
-        "total_supply": "1000000000"
-      },
-      "XYZepsilon": {
-        "decimals": 5,
-        "name": "XYZ (ε epsilon)",
-        "quantum": "1",
-        "source": {
-          "builtin_asset": {
-            "max_faucet_amount_mint": "100000000000"
-          }
-        },
-        "symbol": "XYZepsilon",
-        "total_supply": "1000000000"
-      },
-      "XYZgamma": {
-        "decimals": 5,
-        "name": "XYZ (γ gamma)",
-        "quantum": "1",
-        "source": {
-          "builtin_asset": {
-            "max_faucet_amount_mint": "100000000000"
-          }
-        },
-        "symbol": "XYZgamma",
-        "total_supply": "1000000000"
-      },
       "b340c130096819428a62e5df407fd6abe66e444b89ad64f670beb98621c9c663": {
         "decimals": 18,
         "name": "tDAI Fairground",
@@ -118,19 +58,67 @@
         "symbol": "tBTC",
         "total_supply": "64999723000000000000000000"
       },
-      "fBTC": {
-        "decimals": 8,
-        "name": "BTC (fake)",
+      "deadbeef00000000000000000000000000000000000000000000000000000001": {
+        "decimals": 5,
+        "name": "XYZ (α alpha)",
         "quantum": "1",
         "source": {
           "builtin_asset": {
-            "max_faucet_amount_mint": "1000000000"
+            "max_faucet_amount_mint": "5000000000"
           }
         },
-        "symbol": "fBTC",
-        "total_supply": "21000000000"
+        "symbol": "XYZalpha",
+        "total_supply": "100000000000000000000"
       },
-      "fDAI": {
+      "deadbeef00000000000000000000000000000000000000000000000000000002": {
+        "decimals": 5,
+        "name": "XYZ (β beta)",
+        "quantum": "1",
+        "source": {
+          "builtin_asset": {
+            "max_faucet_amount_mint": "100000000000"
+          }
+        },
+        "symbol": "XYZbeta",
+        "total_supply": "1000000000"
+      },
+      "deadbeef00000000000000000000000000000000000000000000000000000003": {
+        "decimals": 5,
+        "name": "XYZ (δ delta)",
+        "quantum": "1",
+        "source": {
+          "builtin_asset": {
+            "max_faucet_amount_mint": "100000000000"
+          }
+        },
+        "symbol": "XYZdelta",
+        "total_supply": "1000000000"
+      },
+      "deadbeef00000000000000000000000000000000000000000000000000000004": {
+        "decimals": 5,
+        "name": "XYZ (ε epsilon)",
+        "quantum": "1",
+        "source": {
+          "builtin_asset": {
+            "max_faucet_amount_mint": "100000000000"
+          }
+        },
+        "symbol": "XYZepsilon",
+        "total_supply": "1000000000"
+      },
+      "deadbeef00000000000000000000000000000000000000000000000000000005": {
+        "decimals": 5,
+        "name": "XYZ (γ gamma)",
+        "quantum": "1",
+        "source": {
+          "builtin_asset": {
+            "max_faucet_amount_mint": "100000000000"
+          }
+        },
+        "symbol": "XYZgamma",
+        "total_supply": "1000000000"
+      },
+      "deadbeef00000000000000000000000000000000000000000000000000000006": {
         "decimals": 18,
         "name": "DAI (fake)",
         "quantum": "1",
@@ -142,7 +130,7 @@
         "symbol": "fDAI",
         "total_supply": "1000000000000000000000"
       },
-      "fEURO": {
+      "deadbeef00000000000000000000000000000000000000000000000000000007": {
         "decimals": 5,
         "name": "EURO (fake)",
         "quantum": "1",
@@ -154,7 +142,7 @@
         "symbol": "fEURO",
         "total_supply": "1000000000"
       },
-      "fUSDC": {
+      "deadbeef00000000000000000000000000000000000000000000000000000008": {
         "decimals": 6,
         "name": "USDC (fake)",
         "quantum": "1",
@@ -165,6 +153,18 @@
         },
         "symbol": "fUSDC",
         "total_supply": "10000000000"
+      },
+      "deadbeef00000000000000000000000000000000000000000000000000000009": {
+        "decimals": 8,
+        "name": "BTC (fake)",
+        "quantum": "1",
+        "source": {
+          "builtin_asset": {
+            "max_faucet_amount_mint": "1000000000"
+          }
+        },
+        "symbol": "fBTC",
+        "total_supply": "21000000000"
       },
       "fc7fd956078fb1fc9db5c19b88f0874c4299b2a7639ad05a47a28c0aef291b55": {
         "decimals": 18,
@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "7YYn7aMLRaOfxBl/z5BR9IjRSuajU5OZc1oa7bvMHA0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/q26gztn9lwnzsrbu1rk48jzvdcrr36s7?d=identicon",
-        "country": "XI",
-        "ethereum_address": "0x5BAc205C2a468068D17F9F34aF4197BA1Dc9747F",
-        "id": "fc961de9e9d7e700c83b9201aed461b39f9ff0a143f7db75c388087350003cd3",
-        "info_url": "https://en.wikipedia.org/wiki/Sherridon",
-        "name": "scruffy-plant",
-        "tm_pub_key": "7YYn7aMLRaOfxBl/z5BR9IjRSuajU5OZc1oa7bvMHA0=",
-        "vega_pub_key": "fe620748336db81167915d2f24aadc44e1826b6210b636ac20fef858a9afe401",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "Xtywnd5M1dgdvSIFgM48CCtpWsxlnZOJkF/pkLgIePM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/obiu7k2qv5op5jq435cq8wm1yumvfxhj?d=identicon",
+        "country": "BJ",
+        "ethereum_address": "0xe548a44e7697fBaba5FE37e9B3e497200Ba638Bc",
+        "id": "debe31376336acd5391b932a5269313967fcb564ae120d6a74b1884a2f7eb73b",
+        "info_url": "https://en.wikipedia.org/wiki/Ronald_Sharman",
+        "name": "rich-phone",
+        "tm_pub_key": "Xtywnd5M1dgdvSIFgM48CCtpWsxlnZOJkF/pkLgIePM=",
+        "vega_pub_key": "e450715e05bba22db9b718b96386b04a63b8c3b0fc11784380df0a2cafb86485",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304271444",
+  "chain_id": "vega-devnet1-202304271516",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-27T14:44:52.409961965Z",
+  "genesis_time": "2023-04-27T15:16:48.687260896Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "FDE203184CD68DD9C5F8F8A437D8C5BE307FA6B0",
-      "name": "scruffy-plant",
+      "address": "F9EFC09069E4ABC7180B70309BC89572E3C12339",
+      "name": "rich-phone",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "7YYn7aMLRaOfxBl/z5BR9IjRSuajU5OZc1oa7bvMHA0="
+        "value": "Xtywnd5M1dgdvSIFgM48CCtpWsxlnZOJkF/pkLgIePM="
       }
     }
   ]
