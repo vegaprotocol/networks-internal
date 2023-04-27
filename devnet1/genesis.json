@@ -16,7 +16,7 @@
         "symbol": "tEURO",
         "total_supply": "64999723000000000000000000"
       },
-      "deadbeef00000000000000000000000000000000000000000000000000000001": {
+      "XYZalpha": {
         "decimals": 5,
         "name": "XYZ (α alpha)",
         "quantum": "1",
@@ -28,7 +28,7 @@
         "symbol": "XYZalpha",
         "total_supply": "100000000000000000000"
       },
-      "deadbeef00000000000000000000000000000000000000000000000000000002": {
+      "XYZbeta": {
         "decimals": 5,
         "name": "XYZ (β beta)",
         "quantum": "1",
@@ -40,7 +40,7 @@
         "symbol": "XYZbeta",
         "total_supply": "1000000000"
       },
-      "deadbeef00000000000000000000000000000000000000000000000000000003": {
+      "XYZdelta": {
         "decimals": 5,
         "name": "XYZ (δ delta)",
         "quantum": "1",
@@ -52,7 +52,7 @@
         "symbol": "XYZdelta",
         "total_supply": "1000000000"
       },
-      "deadbeef00000000000000000000000000000000000000000000000000000004": {
+      "XYZepsilon": {
         "decimals": 5,
         "name": "XYZ (ε epsilon)",
         "quantum": "1",
@@ -64,7 +64,7 @@
         "symbol": "XYZepsilon",
         "total_supply": "1000000000"
       },
-      "deadbeef00000000000000000000000000000000000000000000000000000005": {
+      "XYZgamma": {
         "decimals": 5,
         "name": "XYZ (γ gamma)",
         "quantum": "1",
@@ -118,7 +118,7 @@
         "symbol": "tBTC",
         "total_supply": "64999723000000000000000000"
       },
-      "deadbeef00000000000000000000000000000000000000000000000000000009": {
+      "fBTC": {
         "decimals": 8,
         "name": "BTC (fake)",
         "quantum": "1",
@@ -130,7 +130,7 @@
         "symbol": "fBTC",
         "total_supply": "21000000000"
       },
-      "deadbeef00000000000000000000000000000000000000000000000000000006": {
+      "fDAI": {
         "decimals": 18,
         "name": "DAI (fake)",
         "quantum": "1",
@@ -142,7 +142,7 @@
         "symbol": "fDAI",
         "total_supply": "1000000000000000000000"
       },
-      "deadbeef00000000000000000000000000000000000000000000000000000007": {
+      "fEURO": {
         "decimals": 5,
         "name": "EURO (fake)",
         "quantum": "1",
@@ -154,7 +154,7 @@
         "symbol": "fEURO",
         "total_supply": "1000000000"
       },
-      "deadbeef00000000000000000000000000000000000000000000000000000008": {
+      "fUSDC": {
         "decimals": 6,
         "name": "USDC (fake)",
         "quantum": "1",
@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "7YYn7aMLRaOfxBl/z5BR9IjRSuajU5OZc1oa7bvMHA0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/q26gztn9lwnzsrbu1rk48jzvdcrr36s7?d=identicon",
+        "country": "XI",
+        "ethereum_address": "0x5BAc205C2a468068D17F9F34aF4197BA1Dc9747F",
+        "id": "fc961de9e9d7e700c83b9201aed461b39f9ff0a143f7db75c388087350003cd3",
+        "info_url": "https://en.wikipedia.org/wiki/Sherridon",
+        "name": "scruffy-plant",
+        "tm_pub_key": "7YYn7aMLRaOfxBl/z5BR9IjRSuajU5OZc1oa7bvMHA0=",
+        "vega_pub_key": "fe620748336db81167915d2f24aadc44e1826b6210b636ac20fef858a9afe401",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -289,17 +300,6 @@
         "name": "friendly-barber",
         "tm_pub_key": "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=",
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
-        "vega_pub_key_index": 1
-      },
-      "DcgIk/zmC4BmDv+IKBbkGeBWkzKZABKtPeSYjyHE4Uk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/i74hnbtjzjyvgrbj6snqqtz41o3anmqb?d=identicon",
-        "country": "JF",
-        "ethereum_address": "0x0944a184dF8509AAF5D151e57807e830cb2c559A",
-        "id": "1f3d93065420913a8f4c94db71dbfa870bfc1536e826b4604f020c0bd734969d",
-        "info_url": "https://en.wikipedia.org/wiki/Pauline_Bennett",
-        "name": "vast-tile",
-        "tm_pub_key": "DcgIk/zmC4BmDv+IKBbkGeBWkzKZABKtPeSYjyHE4Uk=",
-        "vega_pub_key": "0aaf4c7f57b8cd1c689e3bb7c70c7700c75546035afce6dd10b9c4d12416c1c6",
         "vega_pub_key_index": 1
       },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304261352",
+  "chain_id": "vega-devnet1-202304271444",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-26T13:52:38.255728903Z",
+  "genesis_time": "2023-04-27T14:44:52.409961965Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "282EB83D48D5E8B8179316C094513786D9E51B23",
-      "name": "vast-tile",
+      "address": "FDE203184CD68DD9C5F8F8A437D8C5BE307FA6B0",
+      "name": "scruffy-plant",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "DcgIk/zmC4BmDv+IKBbkGeBWkzKZABKtPeSYjyHE4Uk="
+        "value": "7YYn7aMLRaOfxBl/z5BR9IjRSuajU5OZc1oa7bvMHA0="
       }
     }
   ]
