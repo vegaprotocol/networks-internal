@@ -81,7 +81,7 @@
                 "symbol": "tBTC",
                 "total_supply": "64999723000000000000000000"
             },
-            "XYZalpha": {
+            "deadbeef00000000000000000000000000000000000000000000000000000001": {
                 "decimals": 5,
                 "name": "XYZ (\u03b1 alpha)",
                 "quantum": "1",
@@ -93,7 +93,7 @@
                 "symbol": "XYZalpha",
                 "total_supply": "100000000000000000000"
             },
-            "XYZbeta": {
+            "deadbeef00000000000000000000000000000000000000000000000000000002": {
                 "decimals": 5,
                 "name": "XYZ (\u03b2 beta)",
                 "quantum": "1",
@@ -105,7 +105,7 @@
                 "symbol": "XYZbeta",
                 "total_supply": "1000000000"
             },
-            "XYZdelta": {
+            "deadbeef00000000000000000000000000000000000000000000000000000003": {
                 "decimals": 5,
                 "name": "XYZ (\u03b4 delta)",
                 "quantum": "1",
@@ -117,7 +117,7 @@
                 "symbol": "XYZdelta",
                 "total_supply": "1000000000"
             },
-            "XYZepsilon": {
+            "deadbeef00000000000000000000000000000000000000000000000000000004": {
                 "decimals": 5,
                 "name": "XYZ (\u03b5 epsilon)",
                 "quantum": "1",
@@ -129,7 +129,7 @@
                 "symbol": "XYZepsilon",
                 "total_supply": "1000000000"
             },
-            "XYZgamma": {
+            "deadbeef00000000000000000000000000000000000000000000000000000005": {
                 "decimals": 5,
                 "name": "XYZ (\u03b3 gamma)",
                 "quantum": "1",
@@ -141,7 +141,7 @@
                 "symbol": "XYZgamma",
                 "total_supply": "1000000000"
             },
-            "fBTC": {
+            "deadbeef00000000000000000000000000000000000000000000000000000009": {
                 "decimals": 8,
                 "name": "BTC (fake)",
                 "quantum": "1",
@@ -153,7 +153,7 @@
                 "symbol": "fBTC",
                 "total_supply": "21000000000"
             },
-            "fDAI": {
+            "deadbeef00000000000000000000000000000000000000000000000000000006": {
                 "decimals": 18,
                 "name": "DAI (fake)",
                 "quantum": "1",
@@ -165,7 +165,7 @@
                 "symbol": "fDAI",
                 "total_supply": "1000000000000000000000"
             },
-            "fEURO": {
+            "deadbeef00000000000000000000000000000000000000000000000000000007": {
                 "decimals": 5,
                 "name": "EURO (fake)",
                 "quantum": "1",
@@ -177,7 +177,7 @@
                 "symbol": "fEURO",
                 "total_supply": "1000000000"
             },
-            "fUSDC": {
+            "deadbeef00000000000000000000000000000000000000000000000000000008": {
                 "decimals": 6,
                 "name": "USDC (fake)",
                 "quantum": "1",
