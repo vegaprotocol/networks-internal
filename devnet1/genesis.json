@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "e3AhCoJ2Xs7buHgCb3WQLAJe3yHZ4Ips/iUAF5GOEjA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/nsiahcu3yp699xfpsn8loecxmo924ib6?d=identicon",
-        "country": "UI",
-        "ethereum_address": "0xF9cb0e895074036d88784Dc0eD44dF4254F27f43",
-        "id": "1bb638a8fe335030ac0b9ecabf428877d09d95124197d8aaff0c6bfd45ca007c",
-        "info_url": "https://en.wikipedia.org/wiki/2009_Okayama_GT_300km",
-        "name": "skinny-biscuit",
-        "tm_pub_key": "e3AhCoJ2Xs7buHgCb3WQLAJe3yHZ4Ips/iUAF5GOEjA=",
-        "vega_pub_key": "76e0de49e635b49dae14be7d65c037aa122186e21abf4b6e0034524d764da48f",
+      "t+dmz+bJ4Wh9Rrl67EnEw6+GSwZLR48SNRtdWeBhf50=": {
+        "avatar_url": "https://www.gravatar.com/avatar/dp16gnrg0rdg9qmnyxux6gtj1fn0kkeg?d=identicon",
+        "country": "HF",
+        "ethereum_address": "0x1c646b4991613317a0aC5119012C9992BE8ba137",
+        "id": "29b919fca9fe8f8675ab64883f30611b1ac9beba126c3c05a074e7d9e0bdc916",
+        "info_url": "https://en.wikipedia.org/wiki/George_Sinclair,_Lord_Woodhall",
+        "name": "whining-flowers",
+        "tm_pub_key": "t+dmz+bJ4Wh9Rrl67EnEw6+GSwZLR48SNRtdWeBhf50=",
+        "vega_pub_key": "a0be39eaa88b0e79c017a90c1de17bd042c8a39b22978537b675db74addf17cb",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304281210",
+  "chain_id": "vega-devnet1-202304281443",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-28T12:10:50.615084043Z",
+  "genesis_time": "2023-04-28T14:43:12.213456994Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "58332A5EE429645DEE7425F0D2E9C85661BC0B66",
-      "name": "skinny-biscuit",
+      "address": "D12969937433DE2677C3D51230E5209CCC22A0B9",
+      "name": "whining-flowers",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "e3AhCoJ2Xs7buHgCb3WQLAJe3yHZ4Ips/iUAF5GOEjA="
+        "value": "t+dmz+bJ4Wh9Rrl67EnEw6+GSwZLR48SNRtdWeBhf50="
       }
     }
   ]
