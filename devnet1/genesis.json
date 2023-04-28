@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "4Zu7rDd/4oFtGmhRBAJJyfN7KdI7uuEtbXZ4Wg9g2XA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ottkavbpp9khqy2xivu697sk5ff2f1xq?d=identicon",
+        "country": "YP",
+        "ethereum_address": "0x90fb174F9f6648DC83Ed7eD35D738B1789BeE27e",
+        "id": "7faecdd051a185957c9754174220d2f5eead0e1f35b64302c11cd9850a7a4fde",
+        "info_url": "https://en.wikipedia.org/wiki/CH-Star",
+        "name": "fresh-music",
+        "tm_pub_key": "4Zu7rDd/4oFtGmhRBAJJyfN7KdI7uuEtbXZ4Wg9g2XA=",
+        "vega_pub_key": "0cfa8b8638ea297ec847b7543662adee66ffbca6ee88e65ed891d5b170944b9c",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "t+dmz+bJ4Wh9Rrl67EnEw6+GSwZLR48SNRtdWeBhf50=": {
-        "avatar_url": "https://www.gravatar.com/avatar/dp16gnrg0rdg9qmnyxux6gtj1fn0kkeg?d=identicon",
-        "country": "HF",
-        "ethereum_address": "0x1c646b4991613317a0aC5119012C9992BE8ba137",
-        "id": "29b919fca9fe8f8675ab64883f30611b1ac9beba126c3c05a074e7d9e0bdc916",
-        "info_url": "https://en.wikipedia.org/wiki/George_Sinclair,_Lord_Woodhall",
-        "name": "whining-flowers",
-        "tm_pub_key": "t+dmz+bJ4Wh9Rrl67EnEw6+GSwZLR48SNRtdWeBhf50=",
-        "vega_pub_key": "a0be39eaa88b0e79c017a90c1de17bd042c8a39b22978537b675db74addf17cb",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304281443",
+  "chain_id": "vega-devnet1-202304281721",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-28T14:43:12.213456994Z",
+  "genesis_time": "2023-04-28T17:21:39.871474289Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "D12969937433DE2677C3D51230E5209CCC22A0B9",
-      "name": "whining-flowers",
+      "address": "18754685516EEBA00A7618CB590563624188FF3F",
+      "name": "fresh-music",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "t+dmz+bJ4Wh9Rrl67EnEw6+GSwZLR48SNRtdWeBhf50="
+        "value": "4Zu7rDd/4oFtGmhRBAJJyfN7KdI7uuEtbXZ4Wg9g2XA="
       }
     }
   ]
