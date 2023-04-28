@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "Xtywnd5M1dgdvSIFgM48CCtpWsxlnZOJkF/pkLgIePM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/obiu7k2qv5op5jq435cq8wm1yumvfxhj?d=identicon",
-        "country": "BJ",
-        "ethereum_address": "0xe548a44e7697fBaba5FE37e9B3e497200Ba638Bc",
-        "id": "debe31376336acd5391b932a5269313967fcb564ae120d6a74b1884a2f7eb73b",
-        "info_url": "https://en.wikipedia.org/wiki/Ronald_Sharman",
-        "name": "rich-phone",
-        "tm_pub_key": "Xtywnd5M1dgdvSIFgM48CCtpWsxlnZOJkF/pkLgIePM=",
-        "vega_pub_key": "e450715e05bba22db9b718b96386b04a63b8c3b0fc11784380df0a2cafb86485",
+      "e3AhCoJ2Xs7buHgCb3WQLAJe3yHZ4Ips/iUAF5GOEjA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/nsiahcu3yp699xfpsn8loecxmo924ib6?d=identicon",
+        "country": "UI",
+        "ethereum_address": "0xF9cb0e895074036d88784Dc0eD44dF4254F27f43",
+        "id": "1bb638a8fe335030ac0b9ecabf428877d09d95124197d8aaff0c6bfd45ca007c",
+        "info_url": "https://en.wikipedia.org/wiki/2009_Okayama_GT_300km",
+        "name": "skinny-biscuit",
+        "tm_pub_key": "e3AhCoJ2Xs7buHgCb3WQLAJe3yHZ4Ips/iUAF5GOEjA=",
+        "vega_pub_key": "76e0de49e635b49dae14be7d65c037aa122186e21abf4b6e0034524d764da48f",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304271516",
+  "chain_id": "vega-devnet1-202304281210",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-27T15:16:48.687260896Z",
+  "genesis_time": "2023-04-28T12:10:50.615084043Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "F9EFC09069E4ABC7180B70309BC89572E3C12339",
-      "name": "rich-phone",
+      "address": "58332A5EE429645DEE7425F0D2E9C85661BC0B66",
+      "name": "skinny-biscuit",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Xtywnd5M1dgdvSIFgM48CCtpWsxlnZOJkF/pkLgIePM="
+        "value": "e3AhCoJ2Xs7buHgCb3WQLAJe3yHZ4Ips/iUAF5GOEjA="
       }
     }
   ]
