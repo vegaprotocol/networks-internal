@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "4Zu7rDd/4oFtGmhRBAJJyfN7KdI7uuEtbXZ4Wg9g2XA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ottkavbpp9khqy2xivu697sk5ff2f1xq?d=identicon",
-        "country": "YP",
-        "ethereum_address": "0x90fb174F9f6648DC83Ed7eD35D738B1789BeE27e",
-        "id": "7faecdd051a185957c9754174220d2f5eead0e1f35b64302c11cd9850a7a4fde",
-        "info_url": "https://en.wikipedia.org/wiki/CH-Star",
-        "name": "fresh-music",
-        "tm_pub_key": "4Zu7rDd/4oFtGmhRBAJJyfN7KdI7uuEtbXZ4Wg9g2XA=",
-        "vega_pub_key": "0cfa8b8638ea297ec847b7543662adee66ffbca6ee88e65ed891d5b170944b9c",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "KTbCo7OrrPXOdlWEFggME+Wbce4x/0ibqil79P2+xFc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/j4vora746vlylxzkbelbvhp72x8ykk7h?d=identicon",
+        "country": "KD",
+        "ethereum_address": "0x58ec1cC3c4E1982411e0D6d2689BC7832A4fdB66",
+        "id": "096fbbfc7165e5b07ddbb766de5c309267f475ea267f75d3d4480668ce80e814",
+        "info_url": "https://en.wikipedia.org/wiki/Central_Reservations",
+        "name": "irate-sheep",
+        "tm_pub_key": "KTbCo7OrrPXOdlWEFggME+Wbce4x/0ibqil79P2+xFc=",
+        "vega_pub_key": "3e9098d7232765d7728bd837421caa2fb67bd81b978de8e3536c9c9677a446d0",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202304281721",
+  "chain_id": "vega-devnet1-202305021426",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-04-28T17:21:39.871474289Z",
+  "genesis_time": "2023-05-02T14:26:13.041988743Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "18754685516EEBA00A7618CB590563624188FF3F",
-      "name": "fresh-music",
+      "address": "C1B442B0BED10BFCCEB76C42FDED366F5C5A2905",
+      "name": "irate-sheep",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "4Zu7rDd/4oFtGmhRBAJJyfN7KdI7uuEtbXZ4Wg9g2XA="
+        "value": "KTbCo7OrrPXOdlWEFggME+Wbce4x/0ibqil79P2+xFc="
       }
     }
   ]
