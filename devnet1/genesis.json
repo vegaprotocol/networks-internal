@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "0jOC2DrRME+cuYhQP+IovidJJlU3ArtWnClbXKVn4wA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/tvc5nr7zuiaba1kw8fukkeyva7rmuu0w?d=identicon",
+        "country": "TK",
+        "ethereum_address": "0x8EAd6a871d8E87e53ebAc9e4b6f2E0cEC887824D",
+        "id": "1b683a686d76c9a84d57e2b010fac411ed1fc64705aedcb12fb82372330b9040",
+        "info_url": "https://en.wikipedia.org/wiki/Tom_Roe",
+        "name": "careful-hat",
+        "tm_pub_key": "0jOC2DrRME+cuYhQP+IovidJJlU3ArtWnClbXKVn4wA=",
+        "vega_pub_key": "fabf19bad9b5f0afd757d695a0c622c34cacf02689eb37f36d244a8ec4fca50e",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "ppBfHRF7E644Z/0rfRb+F7QlD1kYhBXlF2hOSRvPKvY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/54dfqyuwtixwzpmvaajqv2w979le2etf?d=identicon",
-        "country": "ZL",
-        "ethereum_address": "0x11d3236C57C75d1f939D51CaeD42D2fde198b143",
-        "id": "4788dfc48fcb5e49faec121953ec02ffae3607a2530d151a3519ceeeaabd84ee",
-        "info_url": "https://en.wikipedia.org/wiki/Oksana_Knizhnik",
-        "name": "stocky-shoe",
-        "tm_pub_key": "ppBfHRF7E644Z/0rfRb+F7QlD1kYhBXlF2hOSRvPKvY=",
-        "vega_pub_key": "c7921bd182abd7e63c59f77f8016c8edf9e5c603efde2c1c7f99e6e9446daf56",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202305031226",
+  "chain_id": "vega-devnet1-202305031326",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-03T12:26:42.66797966Z",
+  "genesis_time": "2023-05-03T13:26:25.218058733Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "E51200F2B04CFEE09904DE0790FFF2F9CD5B1D58",
-      "name": "stocky-shoe",
+      "address": "54290189CB39641444BE926375959E9DA932C23F",
+      "name": "careful-hat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ppBfHRF7E644Z/0rfRb+F7QlD1kYhBXlF2hOSRvPKvY="
+        "value": "0jOC2DrRME+cuYhQP+IovidJJlU3ArtWnClbXKVn4wA="
       }
     }
   ]
