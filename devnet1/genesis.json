@@ -280,17 +280,6 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
-      "BfQIQOLCVCYZbwxZT65nN/K04BXvjybgTsvo0Y7sixg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/5jzgsda0mmge1uecmj0adtvzkrb34gdy?d=identicon",
-        "country": "IZ",
-        "ethereum_address": "0xfC86A5b8b187b4BB02799Fb756f4f55C5EF2A44e",
-        "id": "39711e615520efaceb634c98a672d8cee69c126f492892b77be6d21fd9abe39a",
-        "info_url": "https://en.wikipedia.org/wiki/Loudoun",
-        "name": "impressionable-bed",
-        "tm_pub_key": "BfQIQOLCVCYZbwxZT65nN/K04BXvjybgTsvo0Y7sixg=",
-        "vega_pub_key": "199e77eed519d431374a81bcbdb7b9312cc937c4d4cafd584451b67e0adc9626",
-        "vega_pub_key_index": 1
-      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "ppBfHRF7E644Z/0rfRb+F7QlD1kYhBXlF2hOSRvPKvY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/54dfqyuwtixwzpmvaajqv2w979le2etf?d=identicon",
+        "country": "ZL",
+        "ethereum_address": "0x11d3236C57C75d1f939D51CaeD42D2fde198b143",
+        "id": "4788dfc48fcb5e49faec121953ec02ffae3607a2530d151a3519ceeeaabd84ee",
+        "info_url": "https://en.wikipedia.org/wiki/Oksana_Knizhnik",
+        "name": "stocky-shoe",
+        "tm_pub_key": "ppBfHRF7E644Z/0rfRb+F7QlD1kYhBXlF2hOSRvPKvY=",
+        "vega_pub_key": "c7921bd182abd7e63c59f77f8016c8edf9e5c603efde2c1c7f99e6e9446daf56",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202305030903",
+  "chain_id": "vega-devnet1-202305031226",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-03T09:03:33.167142453Z",
+  "genesis_time": "2023-05-03T12:26:42.66797966Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "2AD4C43FCC4007B5441AF03C81D76135B84C35CD",
-      "name": "impressionable-bed",
+      "address": "E51200F2B04CFEE09904DE0790FFF2F9CD5B1D58",
+      "name": "stocky-shoe",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "BfQIQOLCVCYZbwxZT65nN/K04BXvjybgTsvo0Y7sixg="
+        "value": "ppBfHRF7E644Z/0rfRb+F7QlD1kYhBXlF2hOSRvPKvY="
       }
     }
   ]
