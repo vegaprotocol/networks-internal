@@ -280,6 +280,17 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
+      "BfQIQOLCVCYZbwxZT65nN/K04BXvjybgTsvo0Y7sixg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/5jzgsda0mmge1uecmj0adtvzkrb34gdy?d=identicon",
+        "country": "IZ",
+        "ethereum_address": "0xfC86A5b8b187b4BB02799Fb756f4f55C5EF2A44e",
+        "id": "39711e615520efaceb634c98a672d8cee69c126f492892b77be6d21fd9abe39a",
+        "info_url": "https://en.wikipedia.org/wiki/Loudoun",
+        "name": "impressionable-bed",
+        "tm_pub_key": "BfQIQOLCVCYZbwxZT65nN/K04BXvjybgTsvo0Y7sixg=",
+        "vega_pub_key": "199e77eed519d431374a81bcbdb7b9312cc937c4d4cafd584451b67e0adc9626",
+        "vega_pub_key_index": 1
+      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "KTbCo7OrrPXOdlWEFggME+Wbce4x/0ibqil79P2+xFc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/j4vora746vlylxzkbelbvhp72x8ykk7h?d=identicon",
-        "country": "KD",
-        "ethereum_address": "0x58ec1cC3c4E1982411e0D6d2689BC7832A4fdB66",
-        "id": "096fbbfc7165e5b07ddbb766de5c309267f475ea267f75d3d4480668ce80e814",
-        "info_url": "https://en.wikipedia.org/wiki/Central_Reservations",
-        "name": "irate-sheep",
-        "tm_pub_key": "KTbCo7OrrPXOdlWEFggME+Wbce4x/0ibqil79P2+xFc=",
-        "vega_pub_key": "3e9098d7232765d7728bd837421caa2fb67bd81b978de8e3536c9c9677a446d0",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202305021426",
+  "chain_id": "vega-devnet1-202305030903",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-02T14:26:13.041988743Z",
+  "genesis_time": "2023-05-03T09:03:33.167142453Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "C1B442B0BED10BFCCEB76C42FDED366F5C5A2905",
-      "name": "irate-sheep",
+      "address": "2AD4C43FCC4007B5441AF03C81D76135B84C35CD",
+      "name": "impressionable-bed",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "KTbCo7OrrPXOdlWEFggME+Wbce4x/0ibqil79P2+xFc="
+        "value": "BfQIQOLCVCYZbwxZT65nN/K04BXvjybgTsvo0Y7sixg="
       }
     }
   ]
