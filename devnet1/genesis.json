@@ -291,6 +291,17 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
+      "FWakSUtHOoVlkWroMDhwhFx8nguaBU1/HDXegkHAu6E=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xr50kw10lpw3bxvroj3s261m5m5o3pyd?d=identicon",
+        "country": "QR",
+        "ethereum_address": "0x68C505F0a899fc7a0ba5622c71bE2E202f8618cB",
+        "id": "70b7923fd0d5ee89948f1d4ed8ac0192b884b773b5b3dcf08611baada0661403",
+        "info_url": "https://en.wikipedia.org/wiki/Omoglymmius_semioculatus",
+        "name": "timely-sheep",
+        "tm_pub_key": "FWakSUtHOoVlkWroMDhwhFx8nguaBU1/HDXegkHAu6E=",
+        "vega_pub_key": "1d3bbbdd6a79fa9fd803d5dd1cbf51c3439040da866e08d7eacc2096d11a0782",
+        "vega_pub_key_index": 1
+      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "upp9tWShI4o6XZeG2CPtJTb1nDSt1haX/ritlt3rEN4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/lugbdlqn2tqospytz16c66d9spn8tr68?d=identicon",
-        "country": "FT",
-        "ethereum_address": "0x1624A4D60D3B43c619c2de4648E77DAbB54491cb",
-        "id": "1360a1646bec884a643fdc4a965286d08ada7160d180385140037ca687ddf3ef",
-        "info_url": "https://en.wikipedia.org/wiki/List_of_The_Fletcher_School_of_Law_and_Diplomacy_alumni",
-        "name": "timely-pond",
-        "tm_pub_key": "upp9tWShI4o6XZeG2CPtJTb1nDSt1haX/ritlt3rEN4=",
-        "vega_pub_key": "1079d7219965df16535b0ff55ecc9a8bd1921680ae16f0c858936acfa3b04333",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202305041011",
+  "chain_id": "vega-devnet1-202305041421",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-04T10:11:18.370092899Z",
+  "genesis_time": "2023-05-04T14:21:59.041185033Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "0C17501930A70F766EA9A5A07145B76A79979D96",
-      "name": "timely-pond",
+      "address": "B11836E3B96841670EADC89F8C3E3667E6F9494F",
+      "name": "timely-sheep",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "upp9tWShI4o6XZeG2CPtJTb1nDSt1haX/ritlt3rEN4="
+        "value": "FWakSUtHOoVlkWroMDhwhFx8nguaBU1/HDXegkHAu6E="
       }
     }
   ]
