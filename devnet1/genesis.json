@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "0jOC2DrRME+cuYhQP+IovidJJlU3ArtWnClbXKVn4wA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/tvc5nr7zuiaba1kw8fukkeyva7rmuu0w?d=identicon",
-        "country": "TK",
-        "ethereum_address": "0x8EAd6a871d8E87e53ebAc9e4b6f2E0cEC887824D",
-        "id": "1b683a686d76c9a84d57e2b010fac411ed1fc64705aedcb12fb82372330b9040",
-        "info_url": "https://en.wikipedia.org/wiki/Tom_Roe",
-        "name": "careful-hat",
-        "tm_pub_key": "0jOC2DrRME+cuYhQP+IovidJJlU3ArtWnClbXKVn4wA=",
-        "vega_pub_key": "fabf19bad9b5f0afd757d695a0c622c34cacf02689eb37f36d244a8ec4fca50e",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "upp9tWShI4o6XZeG2CPtJTb1nDSt1haX/ritlt3rEN4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/lugbdlqn2tqospytz16c66d9spn8tr68?d=identicon",
+        "country": "FT",
+        "ethereum_address": "0x1624A4D60D3B43c619c2de4648E77DAbB54491cb",
+        "id": "1360a1646bec884a643fdc4a965286d08ada7160d180385140037ca687ddf3ef",
+        "info_url": "https://en.wikipedia.org/wiki/List_of_The_Fletcher_School_of_Law_and_Diplomacy_alumni",
+        "name": "timely-pond",
+        "tm_pub_key": "upp9tWShI4o6XZeG2CPtJTb1nDSt1haX/ritlt3rEN4=",
+        "vega_pub_key": "1079d7219965df16535b0ff55ecc9a8bd1921680ae16f0c858936acfa3b04333",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202305031326",
+  "chain_id": "vega-devnet1-202305041011",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-03T13:26:25.218058733Z",
+  "genesis_time": "2023-05-04T10:11:18.370092899Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "54290189CB39641444BE926375959E9DA932C23F",
-      "name": "careful-hat",
+      "address": "0C17501930A70F766EA9A5A07145B76A79979D96",
+      "name": "timely-pond",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "0jOC2DrRME+cuYhQP+IovidJJlU3ArtWnClbXKVn4wA="
+        "value": "upp9tWShI4o6XZeG2CPtJTb1nDSt1haX/ritlt3rEN4="
       }
     }
   ]
