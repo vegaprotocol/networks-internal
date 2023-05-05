@@ -27,7 +27,7 @@
   "app_state": {
     "assets": {
         "fc7fd956078fb1fc9db5c19b88f0874c4299b2a7639ad05a47a28c0aef291b55": {
-          "quantum": "1000000000000000000",
+          "quantum": "1",
           "decimals": 18,
           "name": "Vega (fairground)",
           "symbol": "VEGA",
