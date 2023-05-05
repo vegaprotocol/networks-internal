@@ -9,8 +9,8 @@
       "time_iota_ms": "1"
     },
     "evidence": {
-      "max_age_num_blocks": "10",
-      "max_age_duration": "10",
+      "max_age_num_blocks": "100000",
+      "max_age_duration": "172800000000000",
       "max_bytes": "1048576"
     },
     "validator": {
@@ -33,12 +33,9 @@
           "symbol": "VEGA",
           "source": {
             "erc20": {
-              "contract_address": "0xdf1B0F223cb8c7aB3Ef8469e529fe81E73089BD9",
-              "lifetime_limit": "",
-              "withdraw_threshold": ""
+              "contract_address": "0xdf1B0F223cb8c7aB3Ef8469e529fe81E73089BD9"
             }
-          },
-          "total_supply": "64999723000000000000000000"
+          }
         },
       "4e4e80abff30cab933b8c4ac6befc618372eb76b2cbddc337eff0b4a3a4d25b8": {
         "decimals": 5,
