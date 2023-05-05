@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "aLC4sdSRZSUJ37fljSCu1IGfPE45GEy4Q0MNufqExEA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/07hiusn7zsgfl6brgr41tgpapa1i0u9f?d=identicon",
-        "country": "LQ",
-        "ethereum_address": "0x44676f5047effDD8c295b98B157Fc41EC0557e67",
-        "id": "8812215ed55f0fffff16f488f097e061ce5e067fd35ba1e9f8f8a724e70a561c",
-        "info_url": "https://en.wikipedia.org/wiki/Jean_Fran%C3%A7ois_Mayor_de_Montricher",
-        "name": "noisy-spoon",
-        "tm_pub_key": "aLC4sdSRZSUJ37fljSCu1IGfPE45GEy4Q0MNufqExEA=",
-        "vega_pub_key": "88f8403b9c8edab18c5589b2f8fb41bcd2872dc18c308e0091f561c2662a7b60",
+      "jm9gAw262wWv6Jp3o4KLm7Jcqz6gUhbjXAFbPC3P6Ss=": {
+        "avatar_url": "https://www.gravatar.com/avatar/sad0wapwpkkngr9wmnf4ziolwbazbpn5?d=identicon",
+        "country": "GS",
+        "ethereum_address": "0x15AA90Eb0872E7bA33050A1FC08C26DA09bd07AB",
+        "id": "2f05f7b509fad80dc7adbd89165e28a89d5c8bf49ed466d6a633a549f45d6ae4",
+        "info_url": "https://en.wikipedia.org/wiki/Luis_Lobo",
+        "name": "hallowed-computer",
+        "tm_pub_key": "jm9gAw262wWv6Jp3o4KLm7Jcqz6gUhbjXAFbPC3P6Ss=",
+        "vega_pub_key": "32148242efa1fabece3fb9bdebb7776f2fb68ee6d1dc2feb6109c6dfa57ce989",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202305050712",
+  "chain_id": "vega-devnet1-202305050905",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-05T07:12:21.894015204Z",
+  "genesis_time": "2023-05-05T09:05:20.069060121Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "C0B1F18E47DFD4147EEBE3189CC3985EF57B1E8E",
-      "name": "noisy-spoon",
+      "address": "AC0AECC62C196B4B1D625FB8A193BD45FD5E72A6",
+      "name": "hallowed-computer",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "aLC4sdSRZSUJ37fljSCu1IGfPE45GEy4Q0MNufqExEA="
+        "value": "jm9gAw262wWv6Jp3o4KLm7Jcqz6gUhbjXAFbPC3P6Ss="
       }
     }
   ]
