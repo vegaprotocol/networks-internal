@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "6BkZ+aRS10lwUW+6fIqBhO37+OnfUiA9tMQe2Ed0cfo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/o9ss77yho50fg7sz5thgwvhsyi2cmmrt?d=identicon",
+        "country": "KS",
+        "ethereum_address": "0x2EB43e3213d3DB2B352b2aDE116B822105b74E7b",
+        "id": "c331f1217d897907912e96639c289201504bd0ed0db98b6aa8b344ac30b838fd",
+        "info_url": "https://en.wikipedia.org/wiki/Gorden",
+        "name": "ashy-shoe",
+        "tm_pub_key": "6BkZ+aRS10lwUW+6fIqBhO37+OnfUiA9tMQe2Ed0cfo=",
+        "vega_pub_key": "016e0b4d29bcbea8dc857314dd584cb248209576f657c0e53fc11b3757b4d4d3",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "jm9gAw262wWv6Jp3o4KLm7Jcqz6gUhbjXAFbPC3P6Ss=": {
-        "avatar_url": "https://www.gravatar.com/avatar/sad0wapwpkkngr9wmnf4ziolwbazbpn5?d=identicon",
-        "country": "GS",
-        "ethereum_address": "0x15AA90Eb0872E7bA33050A1FC08C26DA09bd07AB",
-        "id": "2f05f7b509fad80dc7adbd89165e28a89d5c8bf49ed466d6a633a549f45d6ae4",
-        "info_url": "https://en.wikipedia.org/wiki/Luis_Lobo",
-        "name": "hallowed-computer",
-        "tm_pub_key": "jm9gAw262wWv6Jp3o4KLm7Jcqz6gUhbjXAFbPC3P6Ss=",
-        "vega_pub_key": "32148242efa1fabece3fb9bdebb7776f2fb68ee6d1dc2feb6109c6dfa57ce989",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202305050905",
+  "chain_id": "vega-devnet1-202305051046",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-05T09:05:20.069060121Z",
+  "genesis_time": "2023-05-05T10:46:05.156727978Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "AC0AECC62C196B4B1D625FB8A193BD45FD5E72A6",
-      "name": "hallowed-computer",
+      "address": "D7A18FD26AACEAAD705DD0B79472BF997B2480EB",
+      "name": "ashy-shoe",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "jm9gAw262wWv6Jp3o4KLm7Jcqz6gUhbjXAFbPC3P6Ss="
+        "value": "6BkZ+aRS10lwUW+6fIqBhO37+OnfUiA9tMQe2Ed0cfo="
       }
     }
   ]
