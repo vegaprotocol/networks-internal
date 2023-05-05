@@ -291,17 +291,6 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
-      "FWakSUtHOoVlkWroMDhwhFx8nguaBU1/HDXegkHAu6E=": {
-        "avatar_url": "https://www.gravatar.com/avatar/xr50kw10lpw3bxvroj3s261m5m5o3pyd?d=identicon",
-        "country": "QR",
-        "ethereum_address": "0x68C505F0a899fc7a0ba5622c71bE2E202f8618cB",
-        "id": "70b7923fd0d5ee89948f1d4ed8ac0192b884b773b5b3dcf08611baada0661403",
-        "info_url": "https://en.wikipedia.org/wiki/Omoglymmius_semioculatus",
-        "name": "timely-sheep",
-        "tm_pub_key": "FWakSUtHOoVlkWroMDhwhFx8nguaBU1/HDXegkHAu6E=",
-        "vega_pub_key": "1d3bbbdd6a79fa9fd803d5dd1cbf51c3439040da866e08d7eacc2096d11a0782",
-        "vega_pub_key_index": 1
-      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -311,6 +300,17 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
+        "vega_pub_key_index": 1
+      },
+      "aLC4sdSRZSUJ37fljSCu1IGfPE45GEy4Q0MNufqExEA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/07hiusn7zsgfl6brgr41tgpapa1i0u9f?d=identicon",
+        "country": "LQ",
+        "ethereum_address": "0x44676f5047effDD8c295b98B157Fc41EC0557e67",
+        "id": "8812215ed55f0fffff16f488f097e061ce5e067fd35ba1e9f8f8a724e70a561c",
+        "info_url": "https://en.wikipedia.org/wiki/Jean_Fran%C3%A7ois_Mayor_de_Montricher",
+        "name": "noisy-spoon",
+        "tm_pub_key": "aLC4sdSRZSUJ37fljSCu1IGfPE45GEy4Q0MNufqExEA=",
+        "vega_pub_key": "88f8403b9c8edab18c5589b2f8fb41bcd2872dc18c308e0091f561c2662a7b60",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202305041421",
+  "chain_id": "vega-devnet1-202305050712",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-04T14:21:59.041185033Z",
+  "genesis_time": "2023-05-05T07:12:21.894015204Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "B11836E3B96841670EADC89F8C3E3667E6F9494F",
-      "name": "timely-sheep",
+      "address": "C0B1F18E47DFD4147EEBE3189CC3985EF57B1E8E",
+      "name": "noisy-spoon",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "FWakSUtHOoVlkWroMDhwhFx8nguaBU1/HDXegkHAu6E="
+        "value": "aLC4sdSRZSUJ37fljSCu1IGfPE45GEy4Q0MNufqExEA="
       }
     }
   ]
