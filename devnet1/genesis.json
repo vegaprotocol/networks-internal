@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "6BkZ+aRS10lwUW+6fIqBhO37+OnfUiA9tMQe2Ed0cfo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/o9ss77yho50fg7sz5thgwvhsyi2cmmrt?d=identicon",
-        "country": "KS",
-        "ethereum_address": "0x2EB43e3213d3DB2B352b2aDE116B822105b74E7b",
-        "id": "c331f1217d897907912e96639c289201504bd0ed0db98b6aa8b344ac30b838fd",
-        "info_url": "https://en.wikipedia.org/wiki/Gorden",
-        "name": "ashy-shoe",
-        "tm_pub_key": "6BkZ+aRS10lwUW+6fIqBhO37+OnfUiA9tMQe2Ed0cfo=",
-        "vega_pub_key": "016e0b4d29bcbea8dc857314dd584cb248209576f657c0e53fc11b3757b4d4d3",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "o9t8uaiVqijQnSJ7G8+9Vl3v4XqXIC+o/LF5V2FQtGE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/b035rplvq47it38w542ajnta4tcoktiv?d=identicon",
+        "country": "WP",
+        "ethereum_address": "0x7EAd13A2Ead132386Dfb50Eb67E196eA4a580031",
+        "id": "3a087850888fb9fecbdfd259060d3a84cd1bf189c727abdfbf4389c5d4820430",
+        "info_url": "https://en.wikipedia.org/wiki/Longbranch_Pennywhistle",
+        "name": "ugly-pond",
+        "tm_pub_key": "o9t8uaiVqijQnSJ7G8+9Vl3v4XqXIC+o/LF5V2FQtGE=",
+        "vega_pub_key": "d74aae690184375ac23af032538179b11921814e398be559bee1022f862022ad",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202305051046",
+  "chain_id": "vega-devnet1-202305061732",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-05T10:46:05.156727978Z",
+  "genesis_time": "2023-05-06T17:32:53.705459237Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "D7A18FD26AACEAAD705DD0B79472BF997B2480EB",
-      "name": "ashy-shoe",
+      "address": "E0C3310FEA7604DC3CCFCF4F56028A24D9F63A0D",
+      "name": "ugly-pond",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "6BkZ+aRS10lwUW+6fIqBhO37+OnfUiA9tMQe2Ed0cfo="
+        "value": "o9t8uaiVqijQnSJ7G8+9Vl3v4XqXIC+o/LF5V2FQtGE="
       }
     }
   ]
