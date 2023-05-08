@@ -19,6 +19,6 @@ name = "fairground"
     Hosts = ["https://api.n06.testnet.vega.xyz", "https://api.n07.testnet.vega.xyz"]
 
 [Apps]
-  Console = "console.fairground.wtf"
-  TokenDApp = "token.fairground.wtf"
-  Explorer = "explorer.fairground.wtf"
+  Console = "https://console.fairground.wtf"
+  TokenDApp = "https://token.fairground.wtf"
+  Explorer = "https://explorer.fairground.wtf"
