@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "gg9gtdRcblbnde+x6+9XbQZowJ65HQCiP9GjGoNxAoo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/nf3o9s002yu6svgcix65vrw7axf8b8p2?d=identicon",
-        "country": "AQ",
-        "ethereum_address": "0xA426D25e688ceAa27c1F55E96D60559c4fB620E9",
-        "id": "4fb1155e021a48a292dc97a2a97fe2f027c180d23c1709ecaff78f5b370cab5b",
-        "info_url": "https://en.wikipedia.org/wiki/Mexico_at_the_1996_Summer_Paralympics",
-        "name": "terrible-candle",
-        "tm_pub_key": "gg9gtdRcblbnde+x6+9XbQZowJ65HQCiP9GjGoNxAoo=",
-        "vega_pub_key": "12d43e08b00f09811ab88f5c9410ac55ac50974f9fe40910cd6724290374b5fe",
+      "f+KmjINDcaxzZORPZJSOu9LVilU5DF5DXcuPFupKJ+s=": {
+        "avatar_url": "https://www.gravatar.com/avatar/7fy1p7oa3poa2jbmd2dbqobhbojww3ig?d=identicon",
+        "country": "UN",
+        "ethereum_address": "0x7cfc15227e3c8325ceA710bA79616906fb02860a",
+        "id": "8e1654b0004bea57de10897c19a7086597749f6eade928cb753ccbddfe4e4cfa",
+        "info_url": "https://en.wikipedia.org/wiki/Mellikeri",
+        "name": "adventurous-car",
+        "tm_pub_key": "f+KmjINDcaxzZORPZJSOu9LVilU5DF5DXcuPFupKJ+s=",
+        "vega_pub_key": "27126b8af30f36596401064a7084eb53ad0a6c49441d2a9a07249172584c3893",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202305091417",
+  "chain_id": "vega-devnet1-202305101438",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-09T14:17:54.525504817Z",
+  "genesis_time": "2023-05-10T14:38:35.316321268Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "C96736B01626F421F00BB0E53A502E02FE2C149D",
-      "name": "terrible-candle",
+      "address": "B57D0AE8FDD241A37F27F0957921E6F81932E592",
+      "name": "adventurous-car",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "gg9gtdRcblbnde+x6+9XbQZowJ65HQCiP9GjGoNxAoo="
+        "value": "f+KmjINDcaxzZORPZJSOu9LVilU5DF5DXcuPFupKJ+s="
       }
     }
   ]
