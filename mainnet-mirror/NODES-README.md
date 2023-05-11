@@ -11,7 +11,7 @@ You can check networks status [here](https://stats.vega.trading/) under `mainnet
 Node documentation page contains all useful informations about the node. You can find it under main page on Node DNS.
 
 | Node DNS | Tendermint DNS | Geographic Location | Hardware Setup | Cloud |
-| ----------------------------------------- | -------------- | --------------------------------------------| ------------------- | -------------- | ----- |
+| ----------------------------------------- | -------------- | ------------------- | -------------- | ----- |
 | [n00.mainnet-mirror.vega.xyz](https://n00.mainnet-mirror.vega.xyz) | [tm-n00.mainnet-mirror.vega.xyz](https://tm-n00.mainnet-mirror.vega.xyz) | nyc1 | s-4vcpu-8gb | do |
 | [n01.mainnet-mirror.vega.xyz](https://n01.mainnet-mirror.vega.xyz) | [tm-n01.mainnet-mirror.vega.xyz](https://tm-n01.mainnet-mirror.vega.xyz) | lon1 | s-4vcpu-8gb | do |
 | [n02.mainnet-mirror.vega.xyz](https://n02.mainnet-mirror.vega.xyz) | [tm-n02.mainnet-mirror.vega.xyz](https://tm-n02.mainnet-mirror.vega.xyz) | fra1 | s-4vcpu-8gb | do |
