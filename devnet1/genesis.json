@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "8FOdCXb7LT8lOVn5CR46bn+J9QG83Xff/ce7H40ucSk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/6ebvz71j58i2ol5za1lghtut8ubkuzvc?d=identicon",
+        "country": "BZ",
+        "ethereum_address": "0x79DB81577ab49356B19218A85aa879DcC8367E43",
+        "id": "90624c03921ae098440361a703affc7cd0cb618960e18ad9ae9c3b23cd20e561",
+        "info_url": "https://en.wikipedia.org/wiki/Pampa_Guanaco_Airport",
+        "name": "costly-table",
+        "tm_pub_key": "8FOdCXb7LT8lOVn5CR46bn+J9QG83Xff/ce7H40ucSk=",
+        "vega_pub_key": "96166c9348bf3354c936d3f7be6104f60ea34077e7b0a4b887ac652ef6f59887",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "XYl+gWvLBeyyb9z0XR3TDaweessma5Nos9LWPsd9iys=": {
-        "avatar_url": "https://www.gravatar.com/avatar/664lczu1zbxcm8bpffunj4kbg17a40o1?d=identicon",
-        "country": "DJ",
-        "ethereum_address": "0xb9Aff8F96Ff4fD24f2200a8Fe8E4B8543db25801",
-        "id": "b01992099fb8b7d4df821bff1e5dc6c9b783d514441b337af774b21ea1d7e432",
-        "info_url": "https://en.wikipedia.org/wiki/Alapomeji_Ancestral_Records",
-        "name": "blue-stove",
-        "tm_pub_key": "XYl+gWvLBeyyb9z0XR3TDaweessma5Nos9LWPsd9iys=",
-        "vega_pub_key": "30b2b9a800f03c2d5b5ad9e06823aa181ec3b2a4c7758a82b0f235901de3873a",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202305110930",
+  "chain_id": "vega-devnet1-202305111100",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-11T09:30:34.096288465Z",
+  "genesis_time": "2023-05-11T11:00:26.082918338Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "F13B4ABCB9EAF324B0D7D569AC6022EC4FFCB4BB",
-      "name": "blue-stove",
+      "address": "0FDC74764D4D965D51B7573371C3A1D55F4893CF",
+      "name": "costly-table",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "XYl+gWvLBeyyb9z0XR3TDaweessma5Nos9LWPsd9iys="
+        "value": "8FOdCXb7LT8lOVn5CR46bn+J9QG83Xff/ce7H40ucSk="
       }
     }
   ]
