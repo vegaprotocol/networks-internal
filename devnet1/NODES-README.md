@@ -12,12 +12,12 @@ Node documentation page contains all useful informations about the node. You can
 
 | Node DNS | Tendermint DNS | API DNS | Geographic Location | Hardware Setup | Cloud |
 | ----------------------------------------- | -------------- | --------------------------------------------| ------------------- | -------------- | ----- |
-| n00.devnet1.vega.xyz | tm.n00.devnet1.vega.xyz | api.n00.devnet1.vega.xyz | fra1 | s-4vcpu-8gb | do |
-| n01.devnet1.vega.xyz | tm.n01.devnet1.vega.xyz | api.n01.devnet1.vega.xyz | sfo3 | s-4vcpu-8gb | do |
-| n02.devnet1.vega.xyz | tm.n02.devnet1.vega.xyz | api.n02.devnet1.vega.xyz | sgp1 | s-4vcpu-8gb | do |
-| n03.devnet1.vega.xyz | tm.n03.devnet1.vega.xyz | api.n03.devnet1.vega.xyz | fra1 | s-4vcpu-8gb | do |
-| n04.devnet1.vega.xyz | tm.n04.devnet1.vega.xyz | api.n04.devnet1.vega.xyz | ams3 | s-4vcpu-8gb | do |
-| n05.devnet1.vega.xyz | tm.n05.devnet1.vega.xyz | api.n05.devnet1.vega.xyz | tor1 | s-4vcpu-8gb | do |
-| n06.devnet1.vega.xyz | tm.n06.devnet1.vega.xyz | api.n06.devnet1.vega.xyz | nyc3 | s-4vcpu-8gb | do |
-| n07.devnet1.vega.xyz | tm.n07.devnet1.vega.xyz | api.n07.devnet1.vega.xyz | blr1 | s-4vcpu-8gb | do |
-| be.devnet1.vega.xyz | tm.be.devnet1.vega.xyz | api.be.devnet1.vega.xyz | lon1 | s-4vcpu-8gb | do |
+| n00.devnet1.vega.rocks | tm.n00.devnet1.vega.rocks | api.n00.devnet1.vega.rocks | fra1 | s-4vcpu-8gb | do |
+| n01.devnet1.vega.rocks | tm.n01.devnet1.vega.rocks | api.n01.devnet1.vega.rocks | sfo3 | s-4vcpu-8gb | do |
+| n02.devnet1.vega.rocks | tm.n02.devnet1.vega.rocks | api.n02.devnet1.vega.rocks | sgp1 | s-4vcpu-8gb | do |
+| n03.devnet1.vega.rocks | tm.n03.devnet1.vega.rocks | api.n03.devnet1.vega.rocks | fra1 | s-4vcpu-8gb | do |
+| n04.devnet1.vega.rocks | tm.n04.devnet1.vega.rocks | api.n04.devnet1.vega.rocks | ams3 | s-4vcpu-8gb | do |
+| n05.devnet1.vega.rocks | tm.n05.devnet1.vega.rocks | api.n05.devnet1.vega.rocks | tor1 | s-4vcpu-8gb | do |
+| n06.devnet1.vega.rocks | tm.n06.devnet1.vega.rocks | api.n06.devnet1.vega.rocks | nyc3 | s-4vcpu-8gb | do |
+| n07.devnet1.vega.rocks | tm.n07.devnet1.vega.rocks | api.n07.devnet1.vega.rocks | blr1 | s-4vcpu-8gb | do |
+| be.devnet1.vega.rocks | tm.be.devnet1.vega.rocks | api.be.devnet1.vega.rocks | lon1 | s-4vcpu-8gb | do |
