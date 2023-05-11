@@ -11,7 +11,7 @@ You can check networks status [here](https://stats.vega.trading/) under `stagnet
 Node documentation page contains all useful informations about the node. You can find it under main page on Node DNS.
 
 | Node DNS | Tendermint DNS | Geographic Location | Hardware Setup | Cloud |
-| ----------------------------------------- | -------------- | --------------------------------------------| ------------------- | -------------- | ----- |
+| ----------------------------------------- | -------------- | ------------------- | -------------- | ----- |
 | [n00.stagnet1.vega.xyz](https://n00.stagnet1.vega.xyz) | [tm-n00.stagnet1.vega.xyz](https://tm-n00.stagnet1.vega.xyz) | fra1 | s-4vcpu-8gb | do |
 | [n01.stagnet1.vega.xyz](https://n01.stagnet1.vega.xyz) | [tm-n01.stagnet1.vega.xyz](https://tm-n01.stagnet1.vega.xyz) | nyc1 | s-4vcpu-8gb | do |
 | [n02.stagnet1.vega.xyz](https://n02.stagnet1.vega.xyz) | [tm-n02.stagnet1.vega.xyz](https://tm-n02.stagnet1.vega.xyz) | ams3 | s-4vcpu-8gb | do |
