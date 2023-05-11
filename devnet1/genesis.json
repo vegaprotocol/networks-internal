@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "8FOdCXb7LT8lOVn5CR46bn+J9QG83Xff/ce7H40ucSk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/6ebvz71j58i2ol5za1lghtut8ubkuzvc?d=identicon",
-        "country": "BZ",
-        "ethereum_address": "0x79DB81577ab49356B19218A85aa879DcC8367E43",
-        "id": "90624c03921ae098440361a703affc7cd0cb618960e18ad9ae9c3b23cd20e561",
-        "info_url": "https://en.wikipedia.org/wiki/Pampa_Guanaco_Airport",
-        "name": "costly-table",
-        "tm_pub_key": "8FOdCXb7LT8lOVn5CR46bn+J9QG83Xff/ce7H40ucSk=",
-        "vega_pub_key": "96166c9348bf3354c936d3f7be6104f60ea34077e7b0a4b887ac652ef6f59887",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "jr3TpGJNrtQAO6bT6bImpIM8Zefb+PQghkCvjbptN3w=": {
+        "avatar_url": "https://www.gravatar.com/avatar/dbe23cuu50o01r73io02crzr9xl0xj6j?d=identicon",
+        "country": "CL",
+        "ethereum_address": "0x3c49bE57e22D658B46725A3a9c192219d0a638C3",
+        "id": "36b54d4ba654752f1f8d07ec915a744c64a977301c5fc2aee72620700c32af4a",
+        "info_url": "https://en.wikipedia.org/wiki/Beanibazar_SC",
+        "name": "promising-shoe",
+        "tm_pub_key": "jr3TpGJNrtQAO6bT6bImpIM8Zefb+PQghkCvjbptN3w=",
+        "vega_pub_key": "824595add3d581958b543f74d8a23b65f9c864f3d2e5b782a679aeef84d15f4b",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202305111100",
+  "chain_id": "vega-devnet1-202305111247",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-11T11:00:26.082918338Z",
+  "genesis_time": "2023-05-11T12:47:47.85495025Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "0FDC74764D4D965D51B7573371C3A1D55F4893CF",
-      "name": "costly-table",
+      "address": "BD324ED8E61B2148FC6660AC2CC2D2034D15A77B",
+      "name": "promising-shoe",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "8FOdCXb7LT8lOVn5CR46bn+J9QG83Xff/ce7H40ucSk="
+        "value": "jr3TpGJNrtQAO6bT6bImpIM8Zefb+PQghkCvjbptN3w="
       }
     }
   ]
