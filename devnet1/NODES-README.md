@@ -11,7 +11,7 @@ You can check networks status [here](https://stats.vega.trading/) under `devnet1
 Node documentation page contains all useful informations about the node. You can find it under main page on Node DNS.
 
 | Node DNS | Tendermint DNS | Geographic Location | Hardware Setup | Cloud |
-| ----------------------------------------- | -------------- | --------------------------------------------| ------------------- | -------------- | ----- |
+| ----------------------------------------- | -------------- | ------------------- | -------------- | ----- |
 | [n00.devnet1.vega.rocks](https://n00.devnet1.vega.rocks) | [tm-n00.devnet1.vega.rocks](https://tm-n00.devnet1.vega.rocks) | fra1 | s-4vcpu-8gb | do |
 | [n01.devnet1.vega.rocks](https://n01.devnet1.vega.rocks) | [tm-n01.devnet1.vega.rocks](https://tm-n01.devnet1.vega.rocks) | sfo3 | s-4vcpu-8gb | do |
 | [n02.devnet1.vega.rocks](https://n02.devnet1.vega.rocks) | [tm-n02.devnet1.vega.rocks](https://tm-n02.devnet1.vega.rocks) | sgp1 | s-4vcpu-8gb | do |
