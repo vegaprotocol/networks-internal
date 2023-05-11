@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "f+KmjINDcaxzZORPZJSOu9LVilU5DF5DXcuPFupKJ+s=": {
-        "avatar_url": "https://www.gravatar.com/avatar/7fy1p7oa3poa2jbmd2dbqobhbojww3ig?d=identicon",
-        "country": "UN",
-        "ethereum_address": "0x7cfc15227e3c8325ceA710bA79616906fb02860a",
-        "id": "8e1654b0004bea57de10897c19a7086597749f6eade928cb753ccbddfe4e4cfa",
-        "info_url": "https://en.wikipedia.org/wiki/Mellikeri",
-        "name": "adventurous-car",
-        "tm_pub_key": "f+KmjINDcaxzZORPZJSOu9LVilU5DF5DXcuPFupKJ+s=",
-        "vega_pub_key": "27126b8af30f36596401064a7084eb53ad0a6c49441d2a9a07249172584c3893",
+      "XYl+gWvLBeyyb9z0XR3TDaweessma5Nos9LWPsd9iys=": {
+        "avatar_url": "https://www.gravatar.com/avatar/664lczu1zbxcm8bpffunj4kbg17a40o1?d=identicon",
+        "country": "DJ",
+        "ethereum_address": "0xb9Aff8F96Ff4fD24f2200a8Fe8E4B8543db25801",
+        "id": "b01992099fb8b7d4df821bff1e5dc6c9b783d514441b337af774b21ea1d7e432",
+        "info_url": "https://en.wikipedia.org/wiki/Alapomeji_Ancestral_Records",
+        "name": "blue-stove",
+        "tm_pub_key": "XYl+gWvLBeyyb9z0XR3TDaweessma5Nos9LWPsd9iys=",
+        "vega_pub_key": "30b2b9a800f03c2d5b5ad9e06823aa181ec3b2a4c7758a82b0f235901de3873a",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202305101438",
+  "chain_id": "vega-devnet1-202305110930",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-10T14:38:35.316321268Z",
+  "genesis_time": "2023-05-11T09:30:34.096288465Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "B57D0AE8FDD241A37F27F0957921E6F81932E592",
-      "name": "adventurous-car",
+      "address": "F13B4ABCB9EAF324B0D7D569AC6022EC4FFCB4BB",
+      "name": "blue-stove",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "f+KmjINDcaxzZORPZJSOu9LVilU5DF5DXcuPFupKJ+s="
+        "value": "XYl+gWvLBeyyb9z0XR3TDaweessma5Nos9LWPsd9iys="
       }
     }
   ]
