@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "jr3TpGJNrtQAO6bT6bImpIM8Zefb+PQghkCvjbptN3w=": {
-        "avatar_url": "https://www.gravatar.com/avatar/dbe23cuu50o01r73io02crzr9xl0xj6j?d=identicon",
-        "country": "CL",
-        "ethereum_address": "0x3c49bE57e22D658B46725A3a9c192219d0a638C3",
-        "id": "36b54d4ba654752f1f8d07ec915a744c64a977301c5fc2aee72620700c32af4a",
-        "info_url": "https://en.wikipedia.org/wiki/Beanibazar_SC",
-        "name": "promising-shoe",
-        "tm_pub_key": "jr3TpGJNrtQAO6bT6bImpIM8Zefb+PQghkCvjbptN3w=",
-        "vega_pub_key": "824595add3d581958b543f74d8a23b65f9c864f3d2e5b782a679aeef84d15f4b",
+      "gHU5MCe1wMTQCuS1izYOe86W7nnzzn//manb/p7px98=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ta7ynvitk77k1nkl4b9egypn9e8uxttr?d=identicon",
+        "country": "XF",
+        "ethereum_address": "0x099d3Ca70AEe7e25eda3A1f48C63A938E4ae62b5",
+        "id": "fa3ab1dd721c60504e0ee325913fbb2b106dad58fb427007b3222bd30e6f52ee",
+        "info_url": "https://en.wikipedia.org/wiki/There_Is_No_Game:_Wrong_Dimension",
+        "name": "gritty-baby",
+        "tm_pub_key": "gHU5MCe1wMTQCuS1izYOe86W7nnzzn//manb/p7px98=",
+        "vega_pub_key": "f3123656dc37bb54af41818160803216471c06320ee3bbfe5e6c4e4da13cec17",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202305111600",
+  "chain_id": "vega-devnet1-202305121412",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-11T16:00:47.271490841Z",
+  "genesis_time": "2023-05-12T14:12:14.356024852Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "BD324ED8E61B2148FC6660AC2CC2D2034D15A77B",
-      "name": "promising-shoe",
+      "address": "4B8180041C5381BDA0519E0306B49E9D033D97C8",
+      "name": "gritty-baby",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "jr3TpGJNrtQAO6bT6bImpIM8Zefb+PQghkCvjbptN3w="
+        "value": "gHU5MCe1wMTQCuS1izYOe86W7nnzzn//manb/p7px98="
       }
     }
   ]
