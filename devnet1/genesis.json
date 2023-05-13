@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "gHU5MCe1wMTQCuS1izYOe86W7nnzzn//manb/p7px98=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ta7ynvitk77k1nkl4b9egypn9e8uxttr?d=identicon",
-        "country": "XF",
-        "ethereum_address": "0x099d3Ca70AEe7e25eda3A1f48C63A938E4ae62b5",
-        "id": "fa3ab1dd721c60504e0ee325913fbb2b106dad58fb427007b3222bd30e6f52ee",
-        "info_url": "https://en.wikipedia.org/wiki/There_Is_No_Game:_Wrong_Dimension",
-        "name": "gritty-baby",
-        "tm_pub_key": "gHU5MCe1wMTQCuS1izYOe86W7nnzzn//manb/p7px98=",
-        "vega_pub_key": "f3123656dc37bb54af41818160803216471c06320ee3bbfe5e6c4e4da13cec17",
+      "ov4nC/KBwNScCxV0ZIiiUu1zk6HWuAFX/tXQr6BGrSQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/9ku43jj9knr7qaybt9dh863bdz7hkdir?d=identicon",
+        "country": "QD",
+        "ethereum_address": "0x56C879461400b0018828Da18D732c8A9923FF6A9",
+        "id": "4ffb0ca74ff631564f5b8e4ee0bfaaf98698285049013cd9026ddb62a06c7f03",
+        "info_url": "https://en.wikipedia.org/wiki/Silent_Minute",
+        "name": "hollow-pen",
+        "tm_pub_key": "ov4nC/KBwNScCxV0ZIiiUu1zk6HWuAFX/tXQr6BGrSQ=",
+        "vega_pub_key": "03aeb69d43b5c397d9f05cd5d79eb1e23c9313efcb5f8cc3cd131c5847d555d5",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202305121412",
+  "chain_id": "vega-devnet1-202305131051",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-12T14:12:14.356024852Z",
+  "genesis_time": "2023-05-13T10:51:09.583914168Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "4B8180041C5381BDA0519E0306B49E9D033D97C8",
-      "name": "gritty-baby",
+      "address": "CA681F35A5A4E5C995C5D688B2E16970A652D9D3",
+      "name": "hollow-pen",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "gHU5MCe1wMTQCuS1izYOe86W7nnzzn//manb/p7px98="
+        "value": "ov4nC/KBwNScCxV0ZIiiUu1zk6HWuAFX/tXQr6BGrSQ="
       }
     }
   ]
