@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "7AwoqNmJiU4D/1JLQrPaGYbhwt5h9CegclY9PtHbMNA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/0081oigr2pj3j61pfpuyz389jjcgkr6u?d=identicon",
-        "country": "HD",
-        "ethereum_address": "0x2EAfC81eD41Ae842C4D21F4F63979128BD762DF0",
-        "id": "c896469ba39af78132334096791e40c3250bb68a8f37abd4985fe30518ff1c83",
-        "info_url": "https://en.wikipedia.org/wiki/Sir_William_Codrington,_1st_Baronet",
-        "name": "condescending-duck",
-        "tm_pub_key": "7AwoqNmJiU4D/1JLQrPaGYbhwt5h9CegclY9PtHbMNA=",
-        "vega_pub_key": "6998c6945dfb2eae079ad81cf0f067cd4f7d53a563c472b4596b33fe4a9771ad",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -300,6 +289,17 @@
         "name": "friendly-barber",
         "tm_pub_key": "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=",
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
+        "vega_pub_key_index": 1
+      },
+      "GU7UxDqVQz/HeGOxWih8GmR5K9fXhTeCy+a5M1u7kuU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/krt0ikj17uim4w95qn419xow6gok9e2k?d=identicon",
+        "country": "RM",
+        "ethereum_address": "0xeaF19f09dD6d6e9EB90841c4a0ac1D29d7F2205C",
+        "id": "746924bddbf15d3dcad16813e383420f998e8f61cb7a60972039c130ce10e9ea",
+        "info_url": "https://en.wikipedia.org/wiki/Petite_rivi%C3%A8re_Smith",
+        "name": "gifted-bat",
+        "tm_pub_key": "GU7UxDqVQz/HeGOxWih8GmR5K9fXhTeCy+a5M1u7kuU=",
+        "vega_pub_key": "99354838bdc0f8b61b57578a30bdd956631b519ae723b46c0db1cdffd708b4ce",
         "vega_pub_key_index": 1
       },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202305131922",
+  "chain_id": "vega-devnet1-202305151924",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-13T19:22:14.345804765Z",
+  "genesis_time": "2023-05-15T19:24:50.721744958Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "FBA76A7AC4B34884C32EEE22D6F75F2F59CB304B",
-      "name": "condescending-duck",
+      "address": "C86B592F195E6BF09F2AB4B5723D694B6812CB87",
+      "name": "gifted-bat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "7AwoqNmJiU4D/1JLQrPaGYbhwt5h9CegclY9PtHbMNA="
+        "value": "GU7UxDqVQz/HeGOxWih8GmR5K9fXhTeCy+a5M1u7kuU="
       }
     }
   ]
