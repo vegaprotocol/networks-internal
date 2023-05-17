@@ -280,6 +280,17 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
+      "D3ByvhPgauH2PK91Kmmekau8si9m7s+ttnQkrvk2Sn0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ncap6zna6n31mgpcwmo115nhqzo5g6rv?d=identicon",
+        "country": "BH",
+        "ethereum_address": "0xC9b34bb2c7584Cb94b71133c35702b580BE1A222",
+        "id": "ffabef4890fce9160f5b4d28279a8ed01f8559d0a88ed5ba5bc474c73c661982",
+        "info_url": "https://en.wikipedia.org/wiki/Comet_ISON",
+        "name": "healthy-spoon",
+        "tm_pub_key": "D3ByvhPgauH2PK91Kmmekau8si9m7s+ttnQkrvk2Sn0=",
+        "vega_pub_key": "b25e6cfb0d5362ebd48bc0afd89622c721b863bd4d46ed151a08b147477e633c",
+        "vega_pub_key_index": 1
+      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -289,17 +300,6 @@
         "name": "friendly-barber",
         "tm_pub_key": "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=",
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
-        "vega_pub_key_index": 1
-      },
-      "GU7UxDqVQz/HeGOxWih8GmR5K9fXhTeCy+a5M1u7kuU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/krt0ikj17uim4w95qn419xow6gok9e2k?d=identicon",
-        "country": "RM",
-        "ethereum_address": "0xeaF19f09dD6d6e9EB90841c4a0ac1D29d7F2205C",
-        "id": "746924bddbf15d3dcad16813e383420f998e8f61cb7a60972039c130ce10e9ea",
-        "info_url": "https://en.wikipedia.org/wiki/Petite_rivi%C3%A8re_Smith",
-        "name": "gifted-bat",
-        "tm_pub_key": "GU7UxDqVQz/HeGOxWih8GmR5K9fXhTeCy+a5M1u7kuU=",
-        "vega_pub_key": "99354838bdc0f8b61b57578a30bdd956631b519ae723b46c0db1cdffd708b4ce",
         "vega_pub_key_index": 1
       },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202305151924",
+  "chain_id": "vega-devnet1-202305171120",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-15T19:24:50.721744958Z",
+  "genesis_time": "2023-05-17T11:20:35.495382287Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "C86B592F195E6BF09F2AB4B5723D694B6812CB87",
-      "name": "gifted-bat",
+      "address": "7003E80EE0653B19042C105AF6FC728D9DF03D87",
+      "name": "healthy-spoon",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "GU7UxDqVQz/HeGOxWih8GmR5K9fXhTeCy+a5M1u7kuU="
+        "value": "D3ByvhPgauH2PK91Kmmekau8si9m7s+ttnQkrvk2Sn0="
       }
     }
   ]
