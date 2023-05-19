@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "gES+253+Yj2BqO6QEvmIWNg+7SmIb1xTQ44VdCACHQw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/w2tktw67tf02y2qt2jp46hhirzdora3l?d=identicon",
-        "country": "IR",
-        "ethereum_address": "0x649ff1455312928C8A31819F4e59b779043EF5f2",
-        "id": "11f5e55da6121b70bc1a219be763447197e64a75871e8b83417d26ae2ce01c80",
-        "info_url": "https://en.wikipedia.org/wiki/Short_Peace",
-        "name": "fuzzy-bird",
-        "tm_pub_key": "gES+253+Yj2BqO6QEvmIWNg+7SmIb1xTQ44VdCACHQw=",
-        "vega_pub_key": "7b0e779a1f9c746f321190b972f9e485c22a90a20a3c671c86076148f7780ea0",
+      "UVmV3e7kjcdA3no6bjnw1ETGYrRC2qjnzDLiA6ajgIU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/8owq3qrgceep2vftjjk49ca409lcfznw?d=identicon",
+        "country": "OP",
+        "ethereum_address": "0xfCB514AEbE1042B64e4D4B84D68E10a4E7baC524",
+        "id": "a74863900ab95a3b591a023897d0cc49b0c59d8d6a9b5429b1f1700b46a6f69a",
+        "info_url": "https://en.wikipedia.org/wiki/Gary_Thomas_(academic)",
+        "name": "impressionable-pizza",
+        "tm_pub_key": "UVmV3e7kjcdA3no6bjnw1ETGYrRC2qjnzDLiA6ajgIU=",
+        "vega_pub_key": "c98015287070cfc41b0e010d26d732392352f0a9144cbbe3f11f0315c0a4f5a3",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202305181619",
+  "chain_id": "vega-devnet1-202305190918",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-18T16:19:53.031323502Z",
+  "genesis_time": "2023-05-19T09:18:56.958927435Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "D258F00043024D5BFF77ACB956708B09C1420458",
-      "name": "fuzzy-bird",
+      "address": "F338DAD9CD34D1A41AEDC35959903EBEFA1A9538",
+      "name": "impressionable-pizza",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "gES+253+Yj2BqO6QEvmIWNg+7SmIb1xTQ44VdCACHQw="
+        "value": "UVmV3e7kjcdA3no6bjnw1ETGYrRC2qjnzDLiA6ajgIU="
       }
     }
   ]
