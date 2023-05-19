@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "UVmV3e7kjcdA3no6bjnw1ETGYrRC2qjnzDLiA6ajgIU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/8owq3qrgceep2vftjjk49ca409lcfznw?d=identicon",
-        "country": "OP",
-        "ethereum_address": "0xfCB514AEbE1042B64e4D4B84D68E10a4E7baC524",
-        "id": "a74863900ab95a3b591a023897d0cc49b0c59d8d6a9b5429b1f1700b46a6f69a",
-        "info_url": "https://en.wikipedia.org/wiki/Gary_Thomas_(academic)",
-        "name": "impressionable-pizza",
-        "tm_pub_key": "UVmV3e7kjcdA3no6bjnw1ETGYrRC2qjnzDLiA6ajgIU=",
-        "vega_pub_key": "c98015287070cfc41b0e010d26d732392352f0a9144cbbe3f11f0315c0a4f5a3",
+      "sbH/J7H6zdOU9rueAYfK8uWPEOkqJqDbDqDNcNM0xqg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/gwnfzqlghmt74vb8q9lhacw3l70n1nv8?d=identicon",
+        "country": "XT",
+        "ethereum_address": "0x97350F044a347B42D13A763f8124af1887C748cF",
+        "id": "33d34cda92ee353fc410828c897af7ed144ba012929346259633ce2f4eea930d",
+        "info_url": "https://en.wikipedia.org/wiki/Daughter_of_the_Empire",
+        "name": "helpful-doctor",
+        "tm_pub_key": "sbH/J7H6zdOU9rueAYfK8uWPEOkqJqDbDqDNcNM0xqg=",
+        "vega_pub_key": "85be48eb0066837bded6aed720c4aa75ae840455f1eaa15e95c2a07e8523fb72",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202305190918",
+  "chain_id": "vega-devnet1-202305191110",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-19T09:18:56.958927435Z",
+  "genesis_time": "2023-05-19T11:10:49.225147589Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "F338DAD9CD34D1A41AEDC35959903EBEFA1A9538",
-      "name": "impressionable-pizza",
+      "address": "135E99CE1340D4A1ADF149F20854F1FE2A28143B",
+      "name": "helpful-doctor",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "UVmV3e7kjcdA3no6bjnw1ETGYrRC2qjnzDLiA6ajgIU="
+        "value": "sbH/J7H6zdOU9rueAYfK8uWPEOkqJqDbDqDNcNM0xqg="
       }
     }
   ]
