@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "jHgKtYYgZ6HA/R2Zm7koqRrz2JRxa3e72Ys5vvndz/Y=": {
-        "avatar_url": "https://www.gravatar.com/avatar/olak3hvt16q5q76z03ozbm5024w6ioln?d=identicon",
-        "country": "PH",
-        "ethereum_address": "0x92B64b3BFe234c75719B3Fa151075D551214fa07",
-        "id": "c984d0c59a4e0852f0ddbc5a7626acbdb360d5922600a7e02516224fc74be9d3",
-        "info_url": "https://en.wikipedia.org/wiki/K%C3%BCtt",
-        "name": "lucky-swing",
-        "tm_pub_key": "jHgKtYYgZ6HA/R2Zm7koqRrz2JRxa3e72Ys5vvndz/Y=",
-        "vega_pub_key": "b98a5f61026584951b139f3a77f6c2ad0c9a43baab03621de9d5dfbf90c7808d",
+      "MODS2poBGD14LeWIgN5czdXOLHLMhOME98qqW9PNm9c=": {
+        "avatar_url": "https://www.gravatar.com/avatar/i3s76yv1dprmt3z5wa5ie6yc1bq926p9?d=identicon",
+        "country": "GO",
+        "ethereum_address": "0x683889b5e4c798f671707d1Aa08dbaA6B3B605de",
+        "id": "07f3fc45fc4fd2de8679fb44eb4f85fe058612f723a3268203c2b68b9dd296d8",
+        "info_url": "https://en.wikipedia.org/wiki/Juan_Manuel_Cer%C3%BAndolo",
+        "name": "excited-biscuit",
+        "tm_pub_key": "MODS2poBGD14LeWIgN5czdXOLHLMhOME98qqW9PNm9c=",
+        "vega_pub_key": "d35762b9404bbde09c97df0b00baecf4c1da1af4783e53ac7455aac0d3187e2d",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202305191244",
+  "chain_id": "vega-devnet1-202305191606",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-19T12:44:08.519469039Z",
+  "genesis_time": "2023-05-19T16:06:48.470121299Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "82483DC7C7374E9F45F7040B6CCC9BCED026E449",
-      "name": "lucky-swing",
+      "address": "DF846FDFC1B4AB44B1983CD47C22374AAF02A3CD",
+      "name": "excited-biscuit",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "jHgKtYYgZ6HA/R2Zm7koqRrz2JRxa3e72Ys5vvndz/Y="
+        "value": "MODS2poBGD14LeWIgN5czdXOLHLMhOME98qqW9PNm9c="
       }
     }
   ]
