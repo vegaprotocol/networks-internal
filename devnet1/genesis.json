@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "/JhPVDrZriCX8JoprxF+kDP6WZsFOalUKZIKka4ERHM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/thfn1xn448164yz9qdplv77umnkbvs3f?d=identicon",
+        "country": "OB",
+        "ethereum_address": "0x8dE4B5345db0d9659A15DFe4e9169a29Ae5d5b16",
+        "id": "2a8d14a1529a53f86e446f180508073e9e801b9955b2edd1f11ddd0b18fa563f",
+        "info_url": "https://en.wikipedia.org/wiki/French_Polynesia%27s_3rd_constituency",
+        "name": "careful-chair",
+        "tm_pub_key": "/JhPVDrZriCX8JoprxF+kDP6WZsFOalUKZIKka4ERHM=",
+        "vega_pub_key": "92347c6da2ea1f90bf3c80306950e5c8a36cf3c9b2c223566355b691728fe304",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "dDKVJ6bg9PgowfflyCpDisqiRI1W6BaBXvlvQOCwS38=": {
-        "avatar_url": "https://www.gravatar.com/avatar/chy5z19fwjs4yc2di3cmtdqbx7i4wg1f?d=identicon",
-        "country": "ZM",
-        "ethereum_address": "0x62a5905Ad3A1Ef2f7963A5Afa2AB73f38502B023",
-        "id": "43f3b8f39229613df2811d21f3c9231c771a5ad247379512afd3d368d91d0af2",
-        "info_url": "https://en.wikipedia.org/wiki/Ibrahim_Mchinda_Mad%C3%AEhali",
-        "name": "fresh-swing",
-        "tm_pub_key": "dDKVJ6bg9PgowfflyCpDisqiRI1W6BaBXvlvQOCwS38=",
-        "vega_pub_key": "4b87cf1a66845c10348a2466ecde3be2c4baa36133bde069a3f908edefe4205c",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202305221230",
+  "chain_id": "vega-devnet1-202305221608",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-22T12:30:55.242965933Z",
+  "genesis_time": "2023-05-22T16:08:53.494123643Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "7627F0F88E135981530434307314AF54193FFC23",
-      "name": "fresh-swing",
+      "address": "FCBEC77C51565EA677F4F377FA3363E0B271C9B6",
+      "name": "careful-chair",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "dDKVJ6bg9PgowfflyCpDisqiRI1W6BaBXvlvQOCwS38="
+        "value": "/JhPVDrZriCX8JoprxF+kDP6WZsFOalUKZIKka4ERHM="
       }
     }
   ]
