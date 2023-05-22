@@ -302,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "dDKVJ6bg9PgowfflyCpDisqiRI1W6BaBXvlvQOCwS38=": {
+        "avatar_url": "https://www.gravatar.com/avatar/chy5z19fwjs4yc2di3cmtdqbx7i4wg1f?d=identicon",
+        "country": "ZM",
+        "ethereum_address": "0x62a5905Ad3A1Ef2f7963A5Afa2AB73f38502B023",
+        "id": "43f3b8f39229613df2811d21f3c9231c771a5ad247379512afd3d368d91d0af2",
+        "info_url": "https://en.wikipedia.org/wiki/Ibrahim_Mchinda_Mad%C3%AEhali",
+        "name": "fresh-swing",
+        "tm_pub_key": "dDKVJ6bg9PgowfflyCpDisqiRI1W6BaBXvlvQOCwS38=",
+        "vega_pub_key": "4b87cf1a66845c10348a2466ecde3be2c4baa36133bde069a3f908edefe4205c",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "vB4o8I6F/Jv9dQuTbAExb0wSOce+c1LClM9xXdN4+i0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/858u2ac62wuru0ahjrs5vrbaunyz7tig?d=identicon",
-        "country": "ZL",
-        "ethereum_address": "0x9d8408A0047CAb0C3E3e675A0f6850aa7bc1E36D",
-        "id": "931fe7a9c77832c34b085960ef2f4b8aff748ab20bcfba35ff309172c4010950",
-        "info_url": "https://en.wikipedia.org/wiki/Ambujammal",
-        "name": "ideal-pizza",
-        "tm_pub_key": "vB4o8I6F/Jv9dQuTbAExb0wSOce+c1LClM9xXdN4+i0=",
-        "vega_pub_key": "4bf7abb8497e332ac73bd0446df146a52ca67c4ae7fa30faf5de6d3e03c14a07",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202305220820",
+  "chain_id": "vega-devnet1-202305221204",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-22T08:20:21.973516885Z",
+  "genesis_time": "2023-05-22T12:04:32.120472677Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "7744439EE1574CF31004A81155712D85E12FB98B",
-      "name": "ideal-pizza",
+      "address": "7627F0F88E135981530434307314AF54193FFC23",
+      "name": "fresh-swing",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "vB4o8I6F/Jv9dQuTbAExb0wSOce+c1LClM9xXdN4+i0="
+        "value": "dDKVJ6bg9PgowfflyCpDisqiRI1W6BaBXvlvQOCwS38="
       }
     }
   ]
