@@ -302,17 +302,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "MODS2poBGD14LeWIgN5czdXOLHLMhOME98qqW9PNm9c=": {
-        "avatar_url": "https://www.gravatar.com/avatar/i3s76yv1dprmt3z5wa5ie6yc1bq926p9?d=identicon",
-        "country": "GO",
-        "ethereum_address": "0x683889b5e4c798f671707d1Aa08dbaA6B3B605de",
-        "id": "07f3fc45fc4fd2de8679fb44eb4f85fe058612f723a3268203c2b68b9dd296d8",
-        "info_url": "https://en.wikipedia.org/wiki/Juan_Manuel_Cer%C3%BAndolo",
-        "name": "excited-biscuit",
-        "tm_pub_key": "MODS2poBGD14LeWIgN5czdXOLHLMhOME98qqW9PNm9c=",
-        "vega_pub_key": "d35762b9404bbde09c97df0b00baecf4c1da1af4783e53ac7455aac0d3187e2d",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "vB4o8I6F/Jv9dQuTbAExb0wSOce+c1LClM9xXdN4+i0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/858u2ac62wuru0ahjrs5vrbaunyz7tig?d=identicon",
+        "country": "ZL",
+        "ethereum_address": "0x9d8408A0047CAb0C3E3e675A0f6850aa7bc1E36D",
+        "id": "931fe7a9c77832c34b085960ef2f4b8aff748ab20bcfba35ff309172c4010950",
+        "info_url": "https://en.wikipedia.org/wiki/Ambujammal",
+        "name": "ideal-pizza",
+        "tm_pub_key": "vB4o8I6F/Jv9dQuTbAExb0wSOce+c1LClM9xXdN4+i0=",
+        "vega_pub_key": "4bf7abb8497e332ac73bd0446df146a52ca67c4ae7fa30faf5de6d3e03c14a07",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202305191606",
+  "chain_id": "vega-devnet1-202305220820",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-19T16:06:48.470121299Z",
+  "genesis_time": "2023-05-22T08:20:21.973516885Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "DF846FDFC1B4AB44B1983CD47C22374AAF02A3CD",
-      "name": "excited-biscuit",
+      "address": "7744439EE1574CF31004A81155712D85E12FB98B",
+      "name": "ideal-pizza",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "MODS2poBGD14LeWIgN5czdXOLHLMhOME98qqW9PNm9c="
+        "value": "vB4o8I6F/Jv9dQuTbAExb0wSOce+c1LClM9xXdN4+i0="
       }
     }
   ]
