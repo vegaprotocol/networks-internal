@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "/JhPVDrZriCX8JoprxF+kDP6WZsFOalUKZIKka4ERHM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/thfn1xn448164yz9qdplv77umnkbvs3f?d=identicon",
-        "country": "OB",
-        "ethereum_address": "0x8dE4B5345db0d9659A15DFe4e9169a29Ae5d5b16",
-        "id": "2a8d14a1529a53f86e446f180508073e9e801b9955b2edd1f11ddd0b18fa563f",
-        "info_url": "https://en.wikipedia.org/wiki/French_Polynesia%27s_3rd_constituency",
-        "name": "careful-chair",
-        "tm_pub_key": "/JhPVDrZriCX8JoprxF+kDP6WZsFOalUKZIKka4ERHM=",
-        "vega_pub_key": "92347c6da2ea1f90bf3c80306950e5c8a36cf3c9b2c223566355b691728fe304",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "Ka89nYriaNDcMrzUZFYjr5FP8Gi/mV8B3R/iRRVfpCI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/w98dixk3zxv5cx2s2ztkzt21aix69g2b?d=identicon",
+        "country": "XT",
+        "ethereum_address": "0xE273F2B22dEbF8fe13fa4eE614A6c0aBFC7dA6D6",
+        "id": "d377a799cf075f0f923ee5d572259940838c302c77afa8a1846cc5c6654dce4b",
+        "info_url": "https://en.wikipedia.org/wiki/Home_Insurance_Plaza",
+        "name": "hollow-horse",
+        "tm_pub_key": "Ka89nYriaNDcMrzUZFYjr5FP8Gi/mV8B3R/iRRVfpCI=",
+        "vega_pub_key": "a6d1b9001eeea663c549e61eddf95c792a6cbebdac2cabdaf00f0d4b882ef60b",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202305221608",
+  "chain_id": "vega-devnet1-202305222125",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-22T16:08:53.494123643Z",
+  "genesis_time": "2023-05-22T21:25:54.482029455Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "FCBEC77C51565EA677F4F377FA3363E0B271C9B6",
-      "name": "careful-chair",
+      "address": "588F9AE672D65E58A179D307C7C1D415DE4EFCB5",
+      "name": "hollow-horse",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "/JhPVDrZriCX8JoprxF+kDP6WZsFOalUKZIKka4ERHM="
+        "value": "Ka89nYriaNDcMrzUZFYjr5FP8Gi/mV8B3R/iRRVfpCI="
       }
     }
   ]
