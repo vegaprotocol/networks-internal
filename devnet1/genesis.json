@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "Ka89nYriaNDcMrzUZFYjr5FP8Gi/mV8B3R/iRRVfpCI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/w98dixk3zxv5cx2s2ztkzt21aix69g2b?d=identicon",
-        "country": "XT",
-        "ethereum_address": "0xE273F2B22dEbF8fe13fa4eE614A6c0aBFC7dA6D6",
-        "id": "d377a799cf075f0f923ee5d572259940838c302c77afa8a1846cc5c6654dce4b",
-        "info_url": "https://en.wikipedia.org/wiki/Home_Insurance_Plaza",
-        "name": "hollow-horse",
-        "tm_pub_key": "Ka89nYriaNDcMrzUZFYjr5FP8Gi/mV8B3R/iRRVfpCI=",
-        "vega_pub_key": "a6d1b9001eeea663c549e61eddf95c792a6cbebdac2cabdaf00f0d4b882ef60b",
+      "XOVZeQSVAXn5k/rWP0LT7xlU+BThDfLOtVP7tfMkhiM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/4qqjzr37acy924l2phz3niuo2v0qg79u?d=identicon",
+        "country": "ZF",
+        "ethereum_address": "0x7E63a532e9Eed27Cb5ECA19F92Ba3919B4FfD9Be",
+        "id": "c1bce7dee5ee4be612944ba6f8018a4b5677fa5aaebc967b1a1a430ed77827db",
+        "info_url": "https://en.wikipedia.org/wiki/1989_NCAA_Division_I-AA_football_rankings",
+        "name": "orange-park",
+        "tm_pub_key": "XOVZeQSVAXn5k/rWP0LT7xlU+BThDfLOtVP7tfMkhiM=",
+        "vega_pub_key": "ff818dc39c30a77e6ae76450185aa32de6bb0988e96f8d49ee593c0c76853d7b",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202305222125",
+  "chain_id": "vega-devnet1-202305230909",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-22T21:25:54.482029455Z",
+  "genesis_time": "2023-05-23T09:09:39.733035925Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "588F9AE672D65E58A179D307C7C1D415DE4EFCB5",
-      "name": "hollow-horse",
+      "address": "D9F9D6304E738EBC5261F0132A598CA0C064C52D",
+      "name": "orange-park",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Ka89nYriaNDcMrzUZFYjr5FP8Gi/mV8B3R/iRRVfpCI="
+        "value": "XOVZeQSVAXn5k/rWP0LT7xlU+BThDfLOtVP7tfMkhiM="
       }
     }
   ]
