@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "XOVZeQSVAXn5k/rWP0LT7xlU+BThDfLOtVP7tfMkhiM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/4qqjzr37acy924l2phz3niuo2v0qg79u?d=identicon",
-        "country": "ZF",
-        "ethereum_address": "0x7E63a532e9Eed27Cb5ECA19F92Ba3919B4FfD9Be",
-        "id": "c1bce7dee5ee4be612944ba6f8018a4b5677fa5aaebc967b1a1a430ed77827db",
-        "info_url": "https://en.wikipedia.org/wiki/1989_NCAA_Division_I-AA_football_rankings",
-        "name": "orange-park",
-        "tm_pub_key": "XOVZeQSVAXn5k/rWP0LT7xlU+BThDfLOtVP7tfMkhiM=",
-        "vega_pub_key": "ff818dc39c30a77e6ae76450185aa32de6bb0988e96f8d49ee593c0c76853d7b",
+      "KHtYKUG27abDx06+0o/gqqJ+qAYQaK/KtM9paA5eyZw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/zfkqxhuwmsku02p90hlfin8lxow0q17b?d=identicon",
+        "country": "MQ",
+        "ethereum_address": "0x55Bd7782801C1Ff17B75758918580E0A503Cc9a0",
+        "id": "c0da6f1c78100cb038205516ecb76f9952773d0719468bde32ea5d8c6b745bc5",
+        "info_url": "https://en.wikipedia.org/wiki/Goran_Petkovi%C4%87",
+        "name": "clever-book",
+        "tm_pub_key": "KHtYKUG27abDx06+0o/gqqJ+qAYQaK/KtM9paA5eyZw=",
+        "vega_pub_key": "33257906b0dc8d8f42c9cc1d2432ffec6a2372d82537ee32a5e3fe457a4a8602",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202305230909",
+  "chain_id": "vega-devnet1-202305231640",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-23T09:09:39.733035925Z",
+  "genesis_time": "2023-05-23T16:40:45.165037353Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "D9F9D6304E738EBC5261F0132A598CA0C064C52D",
-      "name": "orange-park",
+      "address": "B5E316CA827F2D5C68D9DB23B6BFA12C0249B4B5",
+      "name": "clever-book",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "XOVZeQSVAXn5k/rWP0LT7xlU+BThDfLOtVP7tfMkhiM="
+        "value": "KHtYKUG27abDx06+0o/gqqJ+qAYQaK/KtM9paA5eyZw="
       }
     }
   ]
