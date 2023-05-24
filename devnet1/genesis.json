@@ -302,17 +302,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "RpX2P80w0YkPaI2UflmAxQzofrzaojNDBAaL7G0HWk4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/1ae04ybymz8sp7zd6d6i0g3aaip6p3cc?d=identicon",
-        "country": "QR",
-        "ethereum_address": "0x7876a313983624a718ef9f5877460a60208f575f",
-        "id": "00e53d6061d7ce55d09903149802ee76b2eecdc108405f8f04e066777566fdff",
-        "info_url": "https://en.wikipedia.org/wiki/Gerontius,_Metropolitan_of_Moscow",
-        "name": "perfect-bat",
-        "tm_pub_key": "RpX2P80w0YkPaI2UflmAxQzofrzaojNDBAaL7G0HWk4=",
-        "vega_pub_key": "906351bcc31b50e74b821e7140421a11dcfb3366ec55650cf86d3f4c8a4e478b",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "yrwctWxNj3XeJy6fY9w7BM6m8sOzS04vpTjGFEjfhUk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/cyxi29tlbwjn53x1l9skne8m4zmsujsh?d=identicon",
+        "country": "DU",
+        "ethereum_address": "0x5b064A6e097Ba9a8B98C819E5B51A0a0c8E8cbd8",
+        "id": "5b07e7bcd2826b33a4587bbae59b20150a7851b2bcc940d077c3d515e74e4fb3",
+        "info_url": "https://en.wikipedia.org/wiki/Sparrow_Hills",
+        "name": "distressed-spoon",
+        "tm_pub_key": "yrwctWxNj3XeJy6fY9w7BM6m8sOzS04vpTjGFEjfhUk=",
+        "vega_pub_key": "e9bb26c8178c0394816758c738eb4f780b3b65fea30acb3ac823535dc8f0b8bc",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202305240908",
+  "chain_id": "vega-devnet1-202305241009",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-24T09:08:46.637045546Z",
+  "genesis_time": "2023-05-24T10:09:10.830646217Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "FBAA440D719B123CEDE2BA56A1CAF9A2D5AD8CC9",
-      "name": "perfect-bat",
+      "address": "E6F4F3A949AE76D5ACB4543031AF9EA0ECF5962C",
+      "name": "distressed-spoon",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "RpX2P80w0YkPaI2UflmAxQzofrzaojNDBAaL7G0HWk4="
+        "value": "yrwctWxNj3XeJy6fY9w7BM6m8sOzS04vpTjGFEjfhUk="
       }
     }
   ]
