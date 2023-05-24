@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "KHtYKUG27abDx06+0o/gqqJ+qAYQaK/KtM9paA5eyZw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/zfkqxhuwmsku02p90hlfin8lxow0q17b?d=identicon",
-        "country": "MQ",
-        "ethereum_address": "0x55Bd7782801C1Ff17B75758918580E0A503Cc9a0",
-        "id": "c0da6f1c78100cb038205516ecb76f9952773d0719468bde32ea5d8c6b745bc5",
-        "info_url": "https://en.wikipedia.org/wiki/Goran_Petkovi%C4%87",
-        "name": "clever-book",
-        "tm_pub_key": "KHtYKUG27abDx06+0o/gqqJ+qAYQaK/KtM9paA5eyZw=",
-        "vega_pub_key": "33257906b0dc8d8f42c9cc1d2432ffec6a2372d82537ee32a5e3fe457a4a8602",
+      "RpX2P80w0YkPaI2UflmAxQzofrzaojNDBAaL7G0HWk4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/1ae04ybymz8sp7zd6d6i0g3aaip6p3cc?d=identicon",
+        "country": "QR",
+        "ethereum_address": "0x7876a313983624a718ef9f5877460a60208f575f",
+        "id": "00e53d6061d7ce55d09903149802ee76b2eecdc108405f8f04e066777566fdff",
+        "info_url": "https://en.wikipedia.org/wiki/Gerontius,_Metropolitan_of_Moscow",
+        "name": "perfect-bat",
+        "tm_pub_key": "RpX2P80w0YkPaI2UflmAxQzofrzaojNDBAaL7G0HWk4=",
+        "vega_pub_key": "906351bcc31b50e74b821e7140421a11dcfb3366ec55650cf86d3f4c8a4e478b",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202305231640",
+  "chain_id": "vega-devnet1-202305240908",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-23T16:40:45.165037353Z",
+  "genesis_time": "2023-05-24T09:08:46.637045546Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "B5E316CA827F2D5C68D9DB23B6BFA12C0249B4B5",
-      "name": "clever-book",
+      "address": "FBAA440D719B123CEDE2BA56A1CAF9A2D5AD8CC9",
+      "name": "perfect-bat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "KHtYKUG27abDx06+0o/gqqJ+qAYQaK/KtM9paA5eyZw="
+        "value": "RpX2P80w0YkPaI2UflmAxQzofrzaojNDBAaL7G0HWk4="
       }
     }
   ]
