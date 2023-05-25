@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "XTnovVhUSbsWdrdFuVGab1un99oaEgB0EP4WhNmOCgo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/pcseqzu7zj8e1av0z3yc8oriy9cqamt9?d=identicon",
-        "country": "ZL",
-        "ethereum_address": "0xbBce8ACe4785d27eF1ba2d76F9AbA0188A099290",
-        "id": "edddc67d0c96f4f6edbc03906794a89fa93a8e411f61277ee163c55db7cfce50",
-        "info_url": "https://en.wikipedia.org/wiki/Dmitry_Yeryomenko",
-        "name": "opportune-man",
-        "tm_pub_key": "XTnovVhUSbsWdrdFuVGab1un99oaEgB0EP4WhNmOCgo=",
-        "vega_pub_key": "be14ff89f0d98061eaf894ead32bcfe001c861bb0793e678ad403a2301c3fbdf",
+      "VKybTWemfwhlPdFp1sBYPdOq/kuzBxybQOIbkW1ekQ8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/c81awmk1fynwoxw9l753yoldv658m2x6?d=identicon",
+        "country": "AF",
+        "ethereum_address": "0x4f017c8C5959414c38d40f2aBcE71AfA292D0Ce0",
+        "id": "546a9859571aee93fd58b37b16e693cff530d6de2b910c5fef61f3d279ea7693",
+        "info_url": "https://en.wikipedia.org/wiki/Jason_Bergmann",
+        "name": "harsh-phone",
+        "tm_pub_key": "VKybTWemfwhlPdFp1sBYPdOq/kuzBxybQOIbkW1ekQ8=",
+        "vega_pub_key": "6cfd062532b4ef64fac08ed54858d7796a6ecd2770e6515f0ec3c555918a6e1e",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202305250538",
+  "chain_id": "vega-devnet1-202305251423",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-25T05:38:10.726390294Z",
+  "genesis_time": "2023-05-25T14:23:07.971303155Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "A8F090BACC2FDE639760FFF23A43AB7833BBCBF7",
-      "name": "opportune-man",
+      "address": "8D25E9B53E57B275F50E62FDE8A0356BD2D8CFE2",
+      "name": "harsh-phone",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "XTnovVhUSbsWdrdFuVGab1un99oaEgB0EP4WhNmOCgo="
+        "value": "VKybTWemfwhlPdFp1sBYPdOq/kuzBxybQOIbkW1ekQ8="
       }
     }
   ]
