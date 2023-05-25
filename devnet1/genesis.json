@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "VKybTWemfwhlPdFp1sBYPdOq/kuzBxybQOIbkW1ekQ8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/c81awmk1fynwoxw9l753yoldv658m2x6?d=identicon",
-        "country": "AF",
-        "ethereum_address": "0x4f017c8C5959414c38d40f2aBcE71AfA292D0Ce0",
-        "id": "546a9859571aee93fd58b37b16e693cff530d6de2b910c5fef61f3d279ea7693",
-        "info_url": "https://en.wikipedia.org/wiki/Jason_Bergmann",
-        "name": "harsh-phone",
-        "tm_pub_key": "VKybTWemfwhlPdFp1sBYPdOq/kuzBxybQOIbkW1ekQ8=",
-        "vega_pub_key": "6cfd062532b4ef64fac08ed54858d7796a6ecd2770e6515f0ec3c555918a6e1e",
+      "fi37IC46IotqMNiYNkd4qXj3T3KB+a1CBcfUo/MVtQ0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/o1tprso7lb700colczuih8yrlgdc9ash?d=identicon",
+        "country": "CY",
+        "ethereum_address": "0x3f337Dd6a630fA03Cea4ed94b272A24CdF68FBD4",
+        "id": "9be61697a6755474b1ab05e71e77957d361b34e30168567d32d433a34f73aa08",
+        "info_url": "https://en.wikipedia.org/wiki/Novanapis",
+        "name": "salmon-sister",
+        "tm_pub_key": "fi37IC46IotqMNiYNkd4qXj3T3KB+a1CBcfUo/MVtQ0=",
+        "vega_pub_key": "703a77eb0d3bfe778d339248952e40955f58ea19e54b975c63fd0960a08ba129",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202305251423",
+  "chain_id": "vega-devnet1-202305251521",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-25T14:23:07.971303155Z",
+  "genesis_time": "2023-05-25T15:21:54.018177376Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "8D25E9B53E57B275F50E62FDE8A0356BD2D8CFE2",
-      "name": "harsh-phone",
+      "address": "1FD9A5AF80ABD07FC16C229C0F1823E13D05D87F",
+      "name": "salmon-sister",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "VKybTWemfwhlPdFp1sBYPdOq/kuzBxybQOIbkW1ekQ8="
+        "value": "fi37IC46IotqMNiYNkd4qXj3T3KB+a1CBcfUo/MVtQ0="
       }
     }
   ]
