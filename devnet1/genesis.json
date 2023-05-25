@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "fIgEgK6SGz73Dj37aMGMSZclSh+3oOrxvSnDbka/MFI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ryf4pd5wmqh3h7z0bcznp7k0iet74vns?d=identicon",
-        "country": "CA",
-        "ethereum_address": "0xABE26A288B363e8Cb329fe6704aA8dc4a2386163",
-        "id": "d3760ec1305996ee3eed9a5e0cd8ab0ecf5d995bb519de33821c3ee396d40b55",
-        "info_url": "https://en.wikipedia.org/wiki/Serigne_Mouhamadou_Moustapha_Mback%C3%A9",
-        "name": "helpful-river",
-        "tm_pub_key": "fIgEgK6SGz73Dj37aMGMSZclSh+3oOrxvSnDbka/MFI=",
-        "vega_pub_key": "4d701f911b72c4b83eed5082056020ae8373b7020bd9db441d6e8fae8b9efcd7",
+      "dBx9WIzIhBVBqYJSYK0/l8UFD/znbN4n00zNsCIz6q8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/uxqjean6a2mb6lnp0o17n2kyte9lu75t?d=identicon",
+        "country": "YF",
+        "ethereum_address": "0x0Ccf3a9ad6451295FeA4384C0D1BD00c545cB935",
+        "id": "673928983e37db1bec4c1ad7a017b6ca371d6482c6760dea04fa55c44051b7e8",
+        "info_url": "https://en.wikipedia.org/wiki/Results_breakdown_of_the_2007_Spanish_local_elections_(Andalusia)",
+        "name": "crashing-road",
+        "tm_pub_key": "dBx9WIzIhBVBqYJSYK0/l8UFD/znbN4n00zNsCIz6q8=",
+        "vega_pub_key": "033847580433da0998b43e7d0d8f7a4f8b561b68bdf0e2785278ddef3eb1fc87",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202305251624",
+  "chain_id": "vega-devnet1-202305251907",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-25T16:24:21.523786643Z",
+  "genesis_time": "2023-05-25T19:07:09.849820394Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "93B7B4109CA2DFD92A6A265DF05F6167411EF8FF",
-      "name": "helpful-river",
+      "address": "4130916081660E486649F401535B3AA468800BA3",
+      "name": "crashing-road",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "fIgEgK6SGz73Dj37aMGMSZclSh+3oOrxvSnDbka/MFI="
+        "value": "dBx9WIzIhBVBqYJSYK0/l8UFD/znbN4n00zNsCIz6q8="
       }
     }
   ]
