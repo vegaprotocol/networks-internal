@@ -280,17 +280,6 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
-      "CZ/PU7I63px7e6piRyB0fMEfKEaEUqek42JEIN0iWJs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ok5xjdm04lmlio9ggp1yol538nkuh8ln?d=identicon",
-        "country": "KI",
-        "ethereum_address": "0xCDBf9ff56724290f0BC563FC41039326E7ea1d7d",
-        "id": "6bbb8efecc5e06e75bcf5a0d87359c1ca3cfe770914876668868075333fb1c5f",
-        "info_url": "https://en.wikipedia.org/wiki/Cymbopteryx_extralinea",
-        "name": "skinny-mango",
-        "tm_pub_key": "CZ/PU7I63px7e6piRyB0fMEfKEaEUqek42JEIN0iWJs=",
-        "vega_pub_key": "a7d204b572ff8dca4898b51b6b67fc3d536cdda3fab2cd143f3f26d2bce1e650",
-        "vega_pub_key_index": 1
-      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "XTnovVhUSbsWdrdFuVGab1un99oaEgB0EP4WhNmOCgo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/pcseqzu7zj8e1av0z3yc8oriy9cqamt9?d=identicon",
+        "country": "ZL",
+        "ethereum_address": "0xbBce8ACe4785d27eF1ba2d76F9AbA0188A099290",
+        "id": "edddc67d0c96f4f6edbc03906794a89fa93a8e411f61277ee163c55db7cfce50",
+        "info_url": "https://en.wikipedia.org/wiki/Dmitry_Yeryomenko",
+        "name": "opportune-man",
+        "tm_pub_key": "XTnovVhUSbsWdrdFuVGab1un99oaEgB0EP4WhNmOCgo=",
+        "vega_pub_key": "be14ff89f0d98061eaf894ead32bcfe001c861bb0793e678ad403a2301c3fbdf",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202305241209",
+  "chain_id": "vega-devnet1-202305250538",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-24T12:09:44.255257317Z",
+  "genesis_time": "2023-05-25T05:38:10.726390294Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "913E6A786744F3066A87A51651645A0EEC928AD7",
-      "name": "skinny-mango",
+      "address": "A8F090BACC2FDE639760FFF23A43AB7833BBCBF7",
+      "name": "opportune-man",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "CZ/PU7I63px7e6piRyB0fMEfKEaEUqek42JEIN0iWJs="
+        "value": "XTnovVhUSbsWdrdFuVGab1un99oaEgB0EP4WhNmOCgo="
       }
     }
   ]
