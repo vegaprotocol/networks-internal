@@ -302,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "LwDgb19PYrNeUPxciU6wqdl/ST5NSOKOme2luMADlbw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ijd0rucpt710xpw0m0a0eesctvdzrsa6?d=identicon",
+        "country": "CK",
+        "ethereum_address": "0x15c9A9a1d57dFB54f224a83fC6Ab75b0f56303E7",
+        "id": "bee3124ed2bab39357b012bcc2694b213d5d1407d1d2431c6ee07ae4aedfe0fc",
+        "info_url": "https://en.wikipedia.org/wiki/Feki%C5%A1ovce",
+        "name": "easy-brother",
+        "tm_pub_key": "LwDgb19PYrNeUPxciU6wqdl/ST5NSOKOme2luMADlbw=",
+        "vega_pub_key": "c3fc06f0f2d4f8c1966bbb1318b7b43f2d1a1ec159f6d8672d3371a8a902b242",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "tt45bQnlbHzrw5sVVoD4FBJXKvadCvpTN7CofQsi47U=": {
-        "avatar_url": "https://www.gravatar.com/avatar/kw3frglfnxj3be2v282hkjddqmxofo3r?d=identicon",
-        "country": "GS",
-        "ethereum_address": "0xA80186523048bC60Dd6d389d762a7F6102b1DeeD",
-        "id": "24f7cd3e1f843dcdf289ae7ce034c1f1dc17ee8d8cfa9d24f268c455edb4a603",
-        "info_url": "https://en.wikipedia.org/wiki/Elisabetta_Benassi",
-        "name": "mango-chair",
-        "tm_pub_key": "tt45bQnlbHzrw5sVVoD4FBJXKvadCvpTN7CofQsi47U=",
-        "vega_pub_key": "cabf4566dff4c19526ae8b75209103a09f01be995d81578c21dea8a0c613a463",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202305261616",
+  "chain_id": "vega-devnet1-202305271023",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-26T16:16:47.61387313Z",
+  "genesis_time": "2023-05-27T10:23:31.961147203Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "1E4D4086EDE769D0BC961F0EE5E014A627C073B4",
-      "name": "mango-chair",
+      "address": "15B38EC7034FF1CB9C0C1E81F3EDDB0BB374533A",
+      "name": "easy-brother",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "tt45bQnlbHzrw5sVVoD4FBJXKvadCvpTN7CofQsi47U="
+        "value": "LwDgb19PYrNeUPxciU6wqdl/ST5NSOKOme2luMADlbw="
       }
     }
   ]
