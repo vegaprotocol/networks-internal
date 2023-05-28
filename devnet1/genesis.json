@@ -291,6 +291,17 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
+      "IFK6qvHLs+uSjzbfrvbev4SeJx1KzuuQmXxwVFefIUU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/1n9mimc3d6y83lgqvu0q3r7v7suj5xxe?d=identicon",
+        "country": "MI",
+        "ethereum_address": "0x12bfbf3E99d803D1258851F3E9124be74AEE446e",
+        "id": "5604cba60616ce2bb25fc1ba23467c3dc98dd9ec857f5f9b80af55640a46dca5",
+        "info_url": "https://en.wikipedia.org/wiki/Friedrich_Hartogs",
+        "name": "agitated-clouds",
+        "tm_pub_key": "IFK6qvHLs+uSjzbfrvbev4SeJx1KzuuQmXxwVFefIUU=",
+        "vega_pub_key": "412e57dcaa7f2c2b3ef551cb8676c9022891df2a2c67b6be4ac74b9051c9963d",
+        "vega_pub_key_index": 1
+      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -300,17 +311,6 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
-        "vega_pub_key_index": 1
-      },
-      "LwDgb19PYrNeUPxciU6wqdl/ST5NSOKOme2luMADlbw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ijd0rucpt710xpw0m0a0eesctvdzrsa6?d=identicon",
-        "country": "CK",
-        "ethereum_address": "0x15c9A9a1d57dFB54f224a83fC6Ab75b0f56303E7",
-        "id": "bee3124ed2bab39357b012bcc2694b213d5d1407d1d2431c6ee07ae4aedfe0fc",
-        "info_url": "https://en.wikipedia.org/wiki/Feki%C5%A1ovce",
-        "name": "easy-brother",
-        "tm_pub_key": "LwDgb19PYrNeUPxciU6wqdl/ST5NSOKOme2luMADlbw=",
-        "vega_pub_key": "c3fc06f0f2d4f8c1966bbb1318b7b43f2d1a1ec159f6d8672d3371a8a902b242",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202305271023",
+  "chain_id": "vega-devnet1-202305281131",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-27T10:23:31.961147203Z",
+  "genesis_time": "2023-05-28T11:31:21.944730667Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "15B38EC7034FF1CB9C0C1E81F3EDDB0BB374533A",
-      "name": "easy-brother",
+      "address": "61E4F27D0A474E4B1399B6051CCE76ABF68DA537",
+      "name": "agitated-clouds",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "LwDgb19PYrNeUPxciU6wqdl/ST5NSOKOme2luMADlbw="
+        "value": "IFK6qvHLs+uSjzbfrvbev4SeJx1KzuuQmXxwVFefIUU="
       }
     }
   ]
