@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "e1VkLUHVwY8tw821jYRDu71JDtFru3iWIf/Q36OasIY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/catu5f1utmjl316h0mcybb6jd0my31f1?d=identicon",
-        "country": "ZE",
-        "ethereum_address": "0x25930760CED407116B4406645Bd95d0aD121007C",
-        "id": "0856d579df26c6c5d85863acf32c93ab9a36bf5641880c396fa55a26a8f5d068",
-        "info_url": "https://en.wikipedia.org/wiki/Kam-Craft_Kamvair-2",
-        "name": "hollow-book",
-        "tm_pub_key": "e1VkLUHVwY8tw821jYRDu71JDtFru3iWIf/Q36OasIY=",
-        "vega_pub_key": "84d38b40de3cbb4a74962f9a22a1fd2a64c267de1c48b0e5610ada45ccc5787b",
+      "hbg+sSIUFQ3lrTaCZM7xfAibCPeDPrJBi1Am09PlwQA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ua2f8i437bkq4tpoa9ztphmp2qrmi2d5?d=identicon",
+        "country": "QR",
+        "ethereum_address": "0x539442E31f2083eAECBcFb5f0f61579b510fbE92",
+        "id": "2d64cc03cb0e91263ddba74793bda48db3e2ad5616940e8f1063272e5e231abc",
+        "info_url": "https://en.wikipedia.org/wiki/Volkspark_Friedrichshain",
+        "name": "alive-cookie",
+        "tm_pub_key": "hbg+sSIUFQ3lrTaCZM7xfAibCPeDPrJBi1Am09PlwQA=",
+        "vega_pub_key": "4851b4ff73d2b163acac681d3d6c53ecf46d7434a6d623d0b9113554b537c5a9",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202305301448",
+  "chain_id": "vega-devnet1-202305301519",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-30T14:48:48.709148141Z",
+  "genesis_time": "2023-05-30T15:19:56.518441469Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "5559400B9A9CB171C622381F6B945298891882D8",
-      "name": "hollow-book",
+      "address": "E601C03088C066DA2F78EF6717E6C6AC510DCF3C",
+      "name": "alive-cookie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "e1VkLUHVwY8tw821jYRDu71JDtFru3iWIf/Q36OasIY="
+        "value": "hbg+sSIUFQ3lrTaCZM7xfAibCPeDPrJBi1Am09PlwQA="
       }
     }
   ]
