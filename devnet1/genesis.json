@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "04X0PmvDWq69q0OIF1OzGl767vMiD+3PgRbrp25bNnk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/am6cx9b8oyv5ydwx1koovxucg3r2ctq0?d=identicon",
-        "country": "FV",
-        "ethereum_address": "0x4ce465F3f8391B8902e591213a44e76815324F90",
-        "id": "90a2815eaf6679e14f54f7c537d080d1ce9d8b12ff85111915dd7a0038402698",
-        "info_url": "https://en.wikipedia.org/wiki/Bibliography_of_the_War_of_1812",
-        "name": "shy-phone",
-        "tm_pub_key": "04X0PmvDWq69q0OIF1OzGl767vMiD+3PgRbrp25bNnk=",
-        "vega_pub_key": "87f39874c0b5b51bf200ab97ca11f40cc26b8535b3db174e76c53c3da777d26b",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -300,6 +289,17 @@
         "name": "friendly-barber",
         "tm_pub_key": "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=",
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
+        "vega_pub_key_index": 1
+      },
+      "HwbHdVuNrxqPw/cI2VPX5ZdPyXY8vG6wvCUbSEni4oQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/72exiwkt0pcmaw28qwwpu0uoiko8vj09?d=identicon",
+        "country": "NG",
+        "ethereum_address": "0x1bb0Fad1DB8D6E180E50705704587b74250907A6",
+        "id": "afa60038644a9a8b2a38615dca348d7640be61dea79398587b60571a8a1f2345",
+        "info_url": "https://en.wikipedia.org/wiki/Nabarun",
+        "name": "odd-beach",
+        "tm_pub_key": "HwbHdVuNrxqPw/cI2VPX5ZdPyXY8vG6wvCUbSEni4oQ=",
+        "vega_pub_key": "ded621006b7400765e3e1978cddc155668d70d7f9d9a3e1949c333b44fd7f02a",
         "vega_pub_key_index": 1
       },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202305311538",
+  "chain_id": "vega-devnet1-202305311739",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-31T15:38:13.357466192Z",
+  "genesis_time": "2023-05-31T17:39:27.328982654Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "9C136F1E5FA7BC191891C5BBC03CB03BB6AFC02C",
-      "name": "shy-phone",
+      "address": "124F6CE5E851182AA6E4156819E25A318D2DB231",
+      "name": "odd-beach",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "04X0PmvDWq69q0OIF1OzGl767vMiD+3PgRbrp25bNnk="
+        "value": "HwbHdVuNrxqPw/cI2VPX5ZdPyXY8vG6wvCUbSEni4oQ="
       }
     }
   ]
