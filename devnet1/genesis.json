@@ -269,15 +269,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "2TS2y3vU+6IIr/yUOm4fXG2O3VnLQ9mncMOXIfb2MkY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ft4bxtki0yyt5693fwq5f2n4yx72gjbj?d=identicon",
-        "country": "HP",
-        "ethereum_address": "0x15c4999B879627d0AE0c14A25Ffaa925751497c2",
-        "id": "71cd8707fa17d2b6297a8d099bddc8e9071aefdbd3c42dfbf313106bd8397b13",
-        "info_url": "https://en.wikipedia.org/wiki/Biscuit_rose_de_Reims",
-        "name": "frantic-party",
-        "tm_pub_key": "2TS2y3vU+6IIr/yUOm4fXG2O3VnLQ9mncMOXIfb2MkY=",
-        "vega_pub_key": "958eed6fdba9ed5156ed91b3d2b174d8214946c4b20a86ade375249747ff7adc",
+      "04X0PmvDWq69q0OIF1OzGl767vMiD+3PgRbrp25bNnk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/am6cx9b8oyv5ydwx1koovxucg3r2ctq0?d=identicon",
+        "country": "FV",
+        "ethereum_address": "0x4ce465F3f8391B8902e591213a44e76815324F90",
+        "id": "90a2815eaf6679e14f54f7c537d080d1ce9d8b12ff85111915dd7a0038402698",
+        "info_url": "https://en.wikipedia.org/wiki/Bibliography_of_the_War_of_1812",
+        "name": "shy-phone",
+        "tm_pub_key": "04X0PmvDWq69q0OIF1OzGl767vMiD+3PgRbrp25bNnk=",
+        "vega_pub_key": "87f39874c0b5b51bf200ab97ca11f40cc26b8535b3db174e76c53c3da777d26b",
         "vega_pub_key_index": 1
       },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202305311203",
+  "chain_id": "vega-devnet1-202305311538",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-31T12:03:44.246537245Z",
+  "genesis_time": "2023-05-31T15:38:13.357466192Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "87F543E0798A98C936F5612EA5F120CFAA3B19FD",
-      "name": "frantic-party",
+      "address": "9C136F1E5FA7BC191891C5BBC03CB03BB6AFC02C",
+      "name": "shy-phone",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "2TS2y3vU+6IIr/yUOm4fXG2O3VnLQ9mncMOXIfb2MkY="
+        "value": "04X0PmvDWq69q0OIF1OzGl767vMiD+3PgRbrp25bNnk="
       }
     }
   ]
