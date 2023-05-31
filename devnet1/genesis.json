@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "2TS2y3vU+6IIr/yUOm4fXG2O3VnLQ9mncMOXIfb2MkY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ft4bxtki0yyt5693fwq5f2n4yx72gjbj?d=identicon",
+        "country": "HP",
+        "ethereum_address": "0x15c4999B879627d0AE0c14A25Ffaa925751497c2",
+        "id": "71cd8707fa17d2b6297a8d099bddc8e9071aefdbd3c42dfbf313106bd8397b13",
+        "info_url": "https://en.wikipedia.org/wiki/Biscuit_rose_de_Reims",
+        "name": "frantic-party",
+        "tm_pub_key": "2TS2y3vU+6IIr/yUOm4fXG2O3VnLQ9mncMOXIfb2MkY=",
+        "vega_pub_key": "958eed6fdba9ed5156ed91b3d2b174d8214946c4b20a86ade375249747ff7adc",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "hbg+sSIUFQ3lrTaCZM7xfAibCPeDPrJBi1Am09PlwQA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ua2f8i437bkq4tpoa9ztphmp2qrmi2d5?d=identicon",
-        "country": "QR",
-        "ethereum_address": "0x539442E31f2083eAECBcFb5f0f61579b510fbE92",
-        "id": "2d64cc03cb0e91263ddba74793bda48db3e2ad5616940e8f1063272e5e231abc",
-        "info_url": "https://en.wikipedia.org/wiki/Volkspark_Friedrichshain",
-        "name": "alive-cookie",
-        "tm_pub_key": "hbg+sSIUFQ3lrTaCZM7xfAibCPeDPrJBi1Am09PlwQA=",
-        "vega_pub_key": "4851b4ff73d2b163acac681d3d6c53ecf46d7434a6d623d0b9113554b537c5a9",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202305301519",
+  "chain_id": "vega-devnet1-202305311203",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-05-30T15:19:56.518441469Z",
+  "genesis_time": "2023-05-31T12:03:44.246537245Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "E601C03088C066DA2F78EF6717E6C6AC510DCF3C",
-      "name": "alive-cookie",
+      "address": "87F543E0798A98C936F5612EA5F120CFAA3B19FD",
+      "name": "frantic-party",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "hbg+sSIUFQ3lrTaCZM7xfAibCPeDPrJBi1Am09PlwQA="
+        "value": "2TS2y3vU+6IIr/yUOm4fXG2O3VnLQ9mncMOXIfb2MkY="
       }
     }
   ]
