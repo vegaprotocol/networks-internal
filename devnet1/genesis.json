@@ -291,6 +291,17 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
+      "Dap6OF25FMGpYhhbvU2U2TvAjABYkWksO6APCbfbpaM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/s6tn7t01xi5yepvq8r7b78r1fm5o9ms7?d=identicon",
+        "country": "EC",
+        "ethereum_address": "0xcc5d73502b7D3a96F6838DDc1f8A034a97470C44",
+        "id": "8784c9c62cfd4e0eaf50f85f36a5c982dc919b50139934a494c55cdde106b9dc",
+        "info_url": "https://en.wikipedia.org/wiki/Muttonbirding",
+        "name": "extensive-wind",
+        "tm_pub_key": "Dap6OF25FMGpYhhbvU2U2TvAjABYkWksO6APCbfbpaM=",
+        "vega_pub_key": "1981487ddb3eff618378e5fd41fb8da008112eb0fe90d928bbbcec966610d094",
+        "vega_pub_key_index": 1
+      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -300,17 +311,6 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
-        "vega_pub_key_index": 1
-      },
-      "gHIQ4LuQpCRpZqHZkahPzfG94Ztz955jeas7qmaNzOM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/d54vlrjte3tp6hyn2cfrb68n53iua9a7?d=identicon",
-        "country": "VZ",
-        "ethereum_address": "0x53624069AAcEC96A4a4cb1A1d022aDafb0DCA583",
-        "id": "43e0b9a65483e06639b636637815fafb130580d8e5f2a48c13b0bb978147fddb",
-        "info_url": "https://en.wikipedia.org/wiki/Melia%27s_Grocers_and_Tea_Dealers",
-        "name": "happy-door",
-        "tm_pub_key": "gHIQ4LuQpCRpZqHZkahPzfG94Ztz955jeas7qmaNzOM=",
-        "vega_pub_key": "5841abc943d25164ac34027d33ae0c4878991b3de264b519823b68c4252de66c",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306011309",
+  "chain_id": "vega-devnet1-202306011528",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-01T13:09:22.645857264Z",
+  "genesis_time": "2023-06-01T15:28:05.702762585Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "549392B292DF599E0804A92E9232D16CD71A9618",
-      "name": "happy-door",
+      "address": "7AF3203178301CE3D1921DC1FCDCBF9C94FAB0BD",
+      "name": "extensive-wind",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "gHIQ4LuQpCRpZqHZkahPzfG94Ztz955jeas7qmaNzOM="
+        "value": "Dap6OF25FMGpYhhbvU2U2TvAjABYkWksO6APCbfbpaM="
       }
     }
   ]
