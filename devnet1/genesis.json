@@ -302,17 +302,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "c6Cvbspsd7sbD5U4zD9p7/GERYNF8sDBzehYY/rRcis=": {
-        "avatar_url": "https://www.gravatar.com/avatar/gymkipu5trndtgelwf7hgd2jf99xt33l?d=identicon",
-        "country": "KL",
-        "ethereum_address": "0x217e3ed7b0a7D8c8E5eC2A3d3F71Dc00AdbCD0B4",
-        "id": "1fc08cd83fd108eb4d8b9c82d69c1d766e210195930ab1d4dc1c6792b17fc14b",
-        "info_url": "https://en.wikipedia.org/wiki/Eberhard_Schmalzl",
-        "name": "loud-hat",
-        "tm_pub_key": "c6Cvbspsd7sbD5U4zD9p7/GERYNF8sDBzehYY/rRcis=",
-        "vega_pub_key": "7d6ec840ffa5af4f69b0fe5595b2b037ddd54f6772572566cd9493cf24341b39",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "y82DVZ1ZT1P6zvtkzSJzUH05Z6/9dOoiaCstCl/Wd70=": {
+        "avatar_url": "https://www.gravatar.com/avatar/eyr0tp5ttmcj6s1vn568nebtmnj1hqs5?d=identicon",
+        "country": "EU",
+        "ethereum_address": "0x7022c14FA180a0fdB43Cf63DFF307c64FA9a02d3",
+        "id": "20b8beb61a3976312822350173323e8b33fcb56e1fb9dd8a873c0e9ab1720cd6",
+        "info_url": "https://en.wikipedia.org/wiki/Horse-ripping",
+        "name": "blue-fan",
+        "tm_pub_key": "y82DVZ1ZT1P6zvtkzSJzUH05Z6/9dOoiaCstCl/Wd70=",
+        "vega_pub_key": "10eea06eac943d3f5b3645c21da4d368aad60d311d6adebe2015a6d56b7e9d9b",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202306021008",
+  "chain_id": "vega-devnet1-202306021238",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-02T10:08:55.583474458Z",
+  "genesis_time": "2023-06-02T12:38:05.047687646Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "5CE80A47977212756C4258822755DF1F847CCD19",
-      "name": "loud-hat",
+      "address": "536531131E67D4640BD084C4E3499162E44F9AFA",
+      "name": "blue-fan",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "c6Cvbspsd7sbD5U4zD9p7/GERYNF8sDBzehYY/rRcis="
+        "value": "y82DVZ1ZT1P6zvtkzSJzUH05Z6/9dOoiaCstCl/Wd70="
       }
     }
   ]
