@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "2MZsTTPSlBTH/TUNRPS5YBDA6OyoriKHLVeR4dS5C3U=": {
+        "avatar_url": "https://www.gravatar.com/avatar/2d4gygxi7a1275zj2exund6zaeza161u?d=identicon",
+        "country": "RD",
+        "ethereum_address": "0xeB6CA73d3923D5837743d1d12c207318cfc13AA8",
+        "id": "cc3ebc3975d012fec297e99775eb9d0be2b21602c94bf69385f6c607cf6cee48",
+        "info_url": "https://en.wikipedia.org/wiki/Lutjanus_sebae",
+        "name": "helpful-doctor",
+        "tm_pub_key": "2MZsTTPSlBTH/TUNRPS5YBDA6OyoriKHLVeR4dS5C3U=",
+        "vega_pub_key": "40e3ad6a2e619e4335e48165c15e1570d91b0dae0d39b0ff1e66e6aa1e6382a0",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -289,17 +300,6 @@
         "name": "friendly-barber",
         "tm_pub_key": "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=",
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
-        "vega_pub_key_index": 1
-      },
-      "Dap6OF25FMGpYhhbvU2U2TvAjABYkWksO6APCbfbpaM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/s6tn7t01xi5yepvq8r7b78r1fm5o9ms7?d=identicon",
-        "country": "EC",
-        "ethereum_address": "0xcc5d73502b7D3a96F6838DDc1f8A034a97470C44",
-        "id": "8784c9c62cfd4e0eaf50f85f36a5c982dc919b50139934a494c55cdde106b9dc",
-        "info_url": "https://en.wikipedia.org/wiki/Muttonbirding",
-        "name": "extensive-wind",
-        "tm_pub_key": "Dap6OF25FMGpYhhbvU2U2TvAjABYkWksO6APCbfbpaM=",
-        "vega_pub_key": "1981487ddb3eff618378e5fd41fb8da008112eb0fe90d928bbbcec966610d094",
         "vega_pub_key_index": 1
       },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306011528",
+  "chain_id": "vega-devnet1-202306020804",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-01T15:28:05.702762585Z",
+  "genesis_time": "2023-06-02T08:04:08.583445366Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "7AF3203178301CE3D1921DC1FCDCBF9C94FAB0BD",
-      "name": "extensive-wind",
+      "address": "91ED65D0582CB155737E4DF557C778BAAFCD988A",
+      "name": "helpful-doctor",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Dap6OF25FMGpYhhbvU2U2TvAjABYkWksO6APCbfbpaM="
+        "value": "2MZsTTPSlBTH/TUNRPS5YBDA6OyoriKHLVeR4dS5C3U="
       }
     }
   ]
