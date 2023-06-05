@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "hkosdfFarZNflErSDFrJNnyT+JX4FNODOig6fw3diwg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/fs892d8lgbd31ul9czbgst1zdy9reqvz?d=identicon",
-        "country": "PW",
-        "ethereum_address": "0xB653C7Fb6Ee14251e23C582E29605f2352f2D868",
-        "id": "f47f8051ea49f1700d529cf9ffedfabf7fd1727660a8668b054a050bcc7fffbb",
-        "info_url": "https://en.wikipedia.org/wiki/Micha%C5%82_%C5%BBurawski",
-        "name": "courageous-honey",
-        "tm_pub_key": "hkosdfFarZNflErSDFrJNnyT+JX4FNODOig6fw3diwg=",
-        "vega_pub_key": "0c5ab2e993751d00fd40bd1a1f97cea9c2e2249beb53fd596246ee44a954cc26",
+      "q9LD8p2kFJyDoL2cip+OSRQDFj0rvevUX81HOoOKI0w=": {
+        "avatar_url": "https://www.gravatar.com/avatar/jag58zrnr69j997dewv27q7m219zfuzf?d=identicon",
+        "country": "LU",
+        "ethereum_address": "0x60820Ef3f44f141E5B63940E1971BF08a9b59d16",
+        "id": "a98059a647dcab5edb5c1055dccfafd9a1a58a173f7bb5dbf4efedc2402e0c88",
+        "info_url": "https://en.wikipedia.org/wiki/Aniline_point",
+        "name": "icy-beach",
+        "tm_pub_key": "q9LD8p2kFJyDoL2cip+OSRQDFj0rvevUX81HOoOKI0w=",
+        "vega_pub_key": "b11dba6f9513a26e2fab14891edc26f674b1ac282fde8f4e20b9acd74ce47780",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306051328",
+  "chain_id": "vega-devnet1-202306051410",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-05T13:28:32.518906932Z",
+  "genesis_time": "2023-06-05T14:10:09.313040094Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "67CE70631D90EA77968D5D3131C3BA2B24EFEA03",
-      "name": "courageous-honey",
+      "address": "F4BCA651C11A97D3B4F72A34A5D7FB78DD8056F0",
+      "name": "icy-beach",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "hkosdfFarZNflErSDFrJNnyT+JX4FNODOig6fw3diwg="
+        "value": "q9LD8p2kFJyDoL2cip+OSRQDFj0rvevUX81HOoOKI0w="
       }
     }
   ]
