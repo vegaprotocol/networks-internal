@@ -313,20 +313,20 @@
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
       },
-      "vy0aVoI3Of+YzySs9sz20AWu2gy21TGPRNzKmHu3opQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/yqrffwm7twq1mcad1znafjoyr8reizaz?d=identicon",
-        "country": "JJ",
-        "ethereum_address": "0x40D0fc99e822D355266e037390DA5BD12eFde77B",
-        "id": "130f0249d468b3aceb9c0ad3417e5207e72a930c7af686dedc8308c4ffe49d52",
-        "info_url": "https://en.wikipedia.org/wiki/Saluda_Factory_Historic_District",
-        "name": "adorable-party",
-        "tm_pub_key": "vy0aVoI3Of+YzySs9sz20AWu2gy21TGPRNzKmHu3opQ=",
-        "vega_pub_key": "d3e7849f86c10f2765b96effcccf003e91e4e41b26c7226171e8c257eecf1ce8",
+      "yl1eEVmrEm/dfEFfTaiSvTzraTeHmZMsnymCa2UBcWE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/hbyfyw86783u0m7lssl4m3n4fmqzrlsh?d=identicon",
+        "country": "EE",
+        "ethereum_address": "0x1099992776696F1a2356e9799e490C84f0D67047",
+        "id": "a8c4bd57502b403c817c546d1ed754fac7afc0526d6a3ac5cd9f9c2f998ffdb8",
+        "info_url": "https://en.wikipedia.org/wiki/List_of_recently_extinct_amphibians",
+        "name": "purple-bus",
+        "tm_pub_key": "yl1eEVmrEm/dfEFfTaiSvTzraTeHmZMsnymCa2UBcWE=",
+        "vega_pub_key": "a5e497a42e26a3a2b98cf509595464539220522ea2d106d075a689c6f6773fe3",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202306050913",
+  "chain_id": "vega-devnet1-202306051126",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-05T09:13:37.475546784Z",
+  "genesis_time": "2023-06-05T11:26:19.969432658Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "EA7AA7E3AD85FF1968E0207353D4C60C1F470D7D",
-      "name": "adorable-party",
+      "address": "E829C950A038A34E7A48E74783717FFFE070DB20",
+      "name": "purple-bus",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "vy0aVoI3Of+YzySs9sz20AWu2gy21TGPRNzKmHu3opQ="
+        "value": "yl1eEVmrEm/dfEFfTaiSvTzraTeHmZMsnymCa2UBcWE="
       }
     }
   ]
