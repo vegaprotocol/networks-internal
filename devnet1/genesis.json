@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "iqMr8/qDAW850alp7WM4hvN7+OZuT9/0kqJLXYfHzVw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/42o82olicj9kb5h7c7hwbm9tubm8000t?d=identicon",
-        "country": "OR",
-        "ethereum_address": "0x4F5239ddea647dCd549b678875559733dbd70Bb6",
-        "id": "be6c8c9352fe6ea441a0f101fa11dc239efeeaca905771373396ba4879707d14",
-        "info_url": "https://en.wikipedia.org/wiki/War_Cloud",
-        "name": "gray-river",
-        "tm_pub_key": "iqMr8/qDAW850alp7WM4hvN7+OZuT9/0kqJLXYfHzVw=",
-        "vega_pub_key": "f9ce2b22251ea4d2ef0c05b34f1e305f54f64c55f4d30a0be381f9d6f8632aea",
+      "YFjSEcOZnqCBWXiNCglbsC2BXg/EqHDoaPAawEbXVXI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/71nkcids23k7z0cowuoldi0jqejdc1he?d=identicon",
+        "country": "ID",
+        "ethereum_address": "0x9cA10837d2f5b2a7b14830c0138c926A4f31997E",
+        "id": "9093b502ef09b0fcce99b4b69a2c525c421f1726613d099dba2913d9c8c05697",
+        "info_url": "https://en.wikipedia.org/wiki/Jamayne_Isaako",
+        "name": "perplexed-pizza",
+        "tm_pub_key": "YFjSEcOZnqCBWXiNCglbsC2BXg/EqHDoaPAawEbXVXI=",
+        "vega_pub_key": "e58e0956340840dcec374aa37d23896838a5b6d11a5bf2fda4e7cdc3496ba95e",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306060907",
+  "chain_id": "vega-devnet1-202306061149",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-06T09:07:27.614169696Z",
+  "genesis_time": "2023-06-06T11:49:52.441718342Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "A5339AD1D680CDD3EA19BF69F2CB8BCF604D337F",
-      "name": "gray-river",
+      "address": "F6CAB7784362F19EFC77ABB45BD8102AF6D1869B",
+      "name": "perplexed-pizza",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "iqMr8/qDAW850alp7WM4hvN7+OZuT9/0kqJLXYfHzVw="
+        "value": "YFjSEcOZnqCBWXiNCglbsC2BXg/EqHDoaPAawEbXVXI="
       }
     }
   ]
