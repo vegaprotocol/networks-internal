@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "NXsZNEhxQVdtW+YynUMznUkqrb9fGsN8H2DfeCBDG/Q=": {
-        "avatar_url": "https://www.gravatar.com/avatar/v4j8ocb40tw4ft5b8wijs4xjuvbpdxwx?d=identicon",
-        "country": "TR",
-        "ethereum_address": "0xDD7EAEA25A70bcDdd2152DD7102Caa4111B543D4",
-        "id": "170399f5bdacbeece86c858412d998f0875ce128684c8c3f65a3656b04334542",
-        "info_url": "https://en.wikipedia.org/wiki/Edelberto_Dosi",
-        "name": "hallowed-pen",
-        "tm_pub_key": "NXsZNEhxQVdtW+YynUMznUkqrb9fGsN8H2DfeCBDG/Q=",
-        "vega_pub_key": "dc93fee8c7f0dd9db0227e468b2f06385630687df79486dcedd46580745b9d16",
+      "LFK3Xr/YkQhW+Sn2kxrOPTEU2CkVgqRFZUpCO77Lm3Y=": {
+        "avatar_url": "https://www.gravatar.com/avatar/v1owt1nwnckl05wjbrwcm1hmj3unegmv?d=identicon",
+        "country": "UU",
+        "ethereum_address": "0xa8cC938c34f7ef96504C0fa16e5a0B3052B475e2",
+        "id": "68d48ac8bb2de1b50acf490525a59fe902389bf031c977749ef9da0db25d596c",
+        "info_url": "https://en.wikipedia.org/wiki/Fandriana",
+        "name": "frightened-swing",
+        "tm_pub_key": "LFK3Xr/YkQhW+Sn2kxrOPTEU2CkVgqRFZUpCO77Lm3Y=",
+        "vega_pub_key": "5ca9eb9c6fbb4052c9f46267175abd568be61cadc824cff40d8a28d57af8de77",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306070946",
+  "chain_id": "vega-devnet1-202306071040",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-07T09:46:51.968977083Z",
+  "genesis_time": "2023-06-07T10:40:10.49678435Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "02DEE3D91B44985DED8CA582CE5B598AEE465E99",
-      "name": "hallowed-pen",
+      "address": "9FC811BBB75BD604E74A97D259197F4724872CD1",
+      "name": "frightened-swing",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "NXsZNEhxQVdtW+YynUMznUkqrb9fGsN8H2DfeCBDG/Q="
+        "value": "LFK3Xr/YkQhW+Sn2kxrOPTEU2CkVgqRFZUpCO77Lm3Y="
       }
     }
   ]
