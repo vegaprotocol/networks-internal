@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "WsbZ1/dRBUpFNph+lWN2Pd1VgBlsRS2VRLqUjDvOBF0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/enjze1wguj4m6sj5la57br403k1rekk0?d=identicon",
-        "country": "LK",
-        "ethereum_address": "0xd18587af745A9a3217e10Fa5710759Fa3a398BDD",
-        "id": "7ecf7356ba32d75ce15e415f0327ba6e1c353b8659915d760726a87713b5ef84",
-        "info_url": "https://en.wikipedia.org/wiki/White_Incarnation",
-        "name": "timely-cloud",
-        "tm_pub_key": "WsbZ1/dRBUpFNph+lWN2Pd1VgBlsRS2VRLqUjDvOBF0=",
-        "vega_pub_key": "1881cd13fd521048f091437d8b7ae0476ff8c169ea56fc3b51f015ba76db10fc",
+      "NXsZNEhxQVdtW+YynUMznUkqrb9fGsN8H2DfeCBDG/Q=": {
+        "avatar_url": "https://www.gravatar.com/avatar/v4j8ocb40tw4ft5b8wijs4xjuvbpdxwx?d=identicon",
+        "country": "TR",
+        "ethereum_address": "0xDD7EAEA25A70bcDdd2152DD7102Caa4111B543D4",
+        "id": "170399f5bdacbeece86c858412d998f0875ce128684c8c3f65a3656b04334542",
+        "info_url": "https://en.wikipedia.org/wiki/Edelberto_Dosi",
+        "name": "hallowed-pen",
+        "tm_pub_key": "NXsZNEhxQVdtW+YynUMznUkqrb9fGsN8H2DfeCBDG/Q=",
+        "vega_pub_key": "dc93fee8c7f0dd9db0227e468b2f06385630687df79486dcedd46580745b9d16",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306061536",
+  "chain_id": "vega-devnet1-202306070946",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-06T15:36:13.486130608Z",
+  "genesis_time": "2023-06-07T09:46:51.968977083Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "2084F133A702BA2706CE626A6A7446E283FF4799",
-      "name": "timely-cloud",
+      "address": "02DEE3D91B44985DED8CA582CE5B598AEE465E99",
+      "name": "hallowed-pen",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "WsbZ1/dRBUpFNph+lWN2Pd1VgBlsRS2VRLqUjDvOBF0="
+        "value": "NXsZNEhxQVdtW+YynUMznUkqrb9fGsN8H2DfeCBDG/Q="
       }
     }
   ]
