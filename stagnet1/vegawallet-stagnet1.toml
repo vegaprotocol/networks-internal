@@ -19,6 +19,6 @@ name = "stagnet1"
     Hosts = ["https://api.stagnet1.vega.xyz", "https://api.n05.stagnet1.vega.xyz", "https://api.n06.stagnet1.vega.xyz"]
 
 [Apps]
-  Console = "https://stagnet1.console.vega.xyz"
-  TokenDApp = "https://stagnet1.governance.vega.xyz"
-  Explorer = "https://stagnet1.explorer.vega.xyz"
+  Console = "https://console.stagnet1.vega.rocks"
+  TokenDApp = "https://governance.stagnet1.vega.rocks"
+  Explorer = "https://explorer.stagnet1.vega.rocks"
