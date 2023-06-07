@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "+BbQZUvqh6x2mzaRRRVe00Bvqk7uaOrj0mCQ71amagk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/jx6wta67qz7b8ew2qzsr8lb5dsvvv51a?d=identicon",
+        "country": "BT",
+        "ethereum_address": "0x88c2667c31eB1EBbF82391406E4d4447E5249623",
+        "id": "7901ddceb0f9e9c7a55403474563dcaec5e6e413b9c70f9d4a1eb69f0a9f35c1",
+        "info_url": "https://en.wikipedia.org/wiki/USS_Pueblo_(AGER-2)",
+        "name": "red-river",
+        "tm_pub_key": "+BbQZUvqh6x2mzaRRRVe00Bvqk7uaOrj0mCQ71amagk=",
+        "vega_pub_key": "a18289e5fbc9cc903d95bbf175f8e2e150654225e4e0a887eeb978636dfb2d65",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -289,17 +300,6 @@
         "name": "friendly-barber",
         "tm_pub_key": "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=",
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
-        "vega_pub_key_index": 1
-      },
-      "DSqfeAEiifOJ6myotTWtjO67+n/cDdMZb/BEORjNMqY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/q7j6cnfruys7sqh0nndnddkcdi7p2wwf?d=identicon",
-        "country": "MK",
-        "ethereum_address": "0x04e3f011C908FA398A0330dc955A97eCb8925cEB",
-        "id": "4daff0d027b3c88183b731a48f4c494f41a8d138b13a81c8348b64ce29ce4e3a",
-        "info_url": "https://en.wikipedia.org/wiki/Bagot_(Province_of_Canada_electoral_district)",
-        "name": "powerful-horse",
-        "tm_pub_key": "DSqfeAEiifOJ6myotTWtjO67+n/cDdMZb/BEORjNMqY=",
-        "vega_pub_key": "2372c20b0d3a6f18d09ffbbff3ac7073502390790f6cce74cd495a7ce1c38a0b",
         "vega_pub_key_index": 1
       },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306071106",
+  "chain_id": "vega-devnet1-202306072110",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-07T11:06:11.056159008Z",
+  "genesis_time": "2023-06-07T21:10:48.187818443Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "196BDE6DD8D97B18E7F866C6F6718412CC84A09B",
-      "name": "powerful-horse",
+      "address": "71206F4C299B14F006B6D9C69969EA01A83FD894",
+      "name": "red-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "DSqfeAEiifOJ6myotTWtjO67+n/cDdMZb/BEORjNMqY="
+        "value": "+BbQZUvqh6x2mzaRRRVe00Bvqk7uaOrj0mCQ71amagk="
       }
     }
   ]
