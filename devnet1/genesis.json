@@ -269,15 +269,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "+BbQZUvqh6x2mzaRRRVe00Bvqk7uaOrj0mCQ71amagk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/jx6wta67qz7b8ew2qzsr8lb5dsvvv51a?d=identicon",
-        "country": "BT",
-        "ethereum_address": "0x88c2667c31eB1EBbF82391406E4d4447E5249623",
-        "id": "7901ddceb0f9e9c7a55403474563dcaec5e6e413b9c70f9d4a1eb69f0a9f35c1",
-        "info_url": "https://en.wikipedia.org/wiki/USS_Pueblo_(AGER-2)",
-        "name": "red-river",
-        "tm_pub_key": "+BbQZUvqh6x2mzaRRRVe00Bvqk7uaOrj0mCQ71amagk=",
-        "vega_pub_key": "a18289e5fbc9cc903d95bbf175f8e2e150654225e4e0a887eeb978636dfb2d65",
+      "2ZjooHdm9SYExVkY7f+rQMTyKh3tmTFoTZ9T2B2WW0I=": {
+        "avatar_url": "https://www.gravatar.com/avatar/mgbzs5uro69w5x6j37ww97h8zvkxik8m?d=identicon",
+        "country": "SL",
+        "ethereum_address": "0x65AF03d6011578369802D6cAe7ADa53539198a44",
+        "id": "1b501030580e924aed4a93ed731dac247622fd9d1337219235bc13e6e884793d",
+        "info_url": "https://en.wikipedia.org/wiki/Here_Is_My_Heart",
+        "name": "agitated-clouds",
+        "tm_pub_key": "2ZjooHdm9SYExVkY7f+rQMTyKh3tmTFoTZ9T2B2WW0I=",
+        "vega_pub_key": "f00dcbe07d23d4dcc1d12b6f04e80e8bdefbbe70a7137698d102d2585cc8450f",
         "vega_pub_key_index": 1
       },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306072110",
+  "chain_id": "vega-devnet1-202306080712",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-07T21:10:48.187818443Z",
+  "genesis_time": "2023-06-08T07:12:11.989835124Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "71206F4C299B14F006B6D9C69969EA01A83FD894",
-      "name": "red-river",
+      "address": "A1410AA60BE5488C22FFFE946EECFD2BC51CE73B",
+      "name": "agitated-clouds",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "+BbQZUvqh6x2mzaRRRVe00Bvqk7uaOrj0mCQ71amagk="
+        "value": "2ZjooHdm9SYExVkY7f+rQMTyKh3tmTFoTZ9T2B2WW0I="
       }
     }
   ]
