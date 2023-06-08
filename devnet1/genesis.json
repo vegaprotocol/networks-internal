@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "2ZjooHdm9SYExVkY7f+rQMTyKh3tmTFoTZ9T2B2WW0I=": {
-        "avatar_url": "https://www.gravatar.com/avatar/mgbzs5uro69w5x6j37ww97h8zvkxik8m?d=identicon",
-        "country": "SL",
-        "ethereum_address": "0x65AF03d6011578369802D6cAe7ADa53539198a44",
-        "id": "1b501030580e924aed4a93ed731dac247622fd9d1337219235bc13e6e884793d",
-        "info_url": "https://en.wikipedia.org/wiki/Here_Is_My_Heart",
-        "name": "agitated-clouds",
-        "tm_pub_key": "2ZjooHdm9SYExVkY7f+rQMTyKh3tmTFoTZ9T2B2WW0I=",
-        "vega_pub_key": "f00dcbe07d23d4dcc1d12b6f04e80e8bdefbbe70a7137698d102d2585cc8450f",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "pUIFC+cYhUwkrhh5uOYcVtyo+V1wAWmA7YZsLIUSntA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/yv5ymxd0djgxoh87e7euu58r0uwcpv3g?d=identicon",
+        "country": "JQ",
+        "ethereum_address": "0x7b2A25E0acC2f476263c59D22cCaE6C7a1eAB944",
+        "id": "3e2784e70a58301594a5b2b8f6d9d5c052e985ba1c5e3245611a68576a9e7d19",
+        "info_url": "https://en.wikipedia.org/wiki/Anne-Katrin_Schott",
+        "name": "alive-cloud",
+        "tm_pub_key": "pUIFC+cYhUwkrhh5uOYcVtyo+V1wAWmA7YZsLIUSntA=",
+        "vega_pub_key": "c5465f407ef9c315cb6a193f45426ee53f449517e703eb26e922c2fd75071006",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306080712",
+  "chain_id": "vega-devnet1-202306082021",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-08T07:12:11.989835124Z",
+  "genesis_time": "2023-06-08T20:21:40.324585711Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "A1410AA60BE5488C22FFFE946EECFD2BC51CE73B",
-      "name": "agitated-clouds",
+      "address": "CCEC51AB11CA4A098A9155E31E3A0FEC94E1578E",
+      "name": "alive-cloud",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "2ZjooHdm9SYExVkY7f+rQMTyKh3tmTFoTZ9T2B2WW0I="
+        "value": "pUIFC+cYhUwkrhh5uOYcVtyo+V1wAWmA7YZsLIUSntA="
       }
     }
   ]
