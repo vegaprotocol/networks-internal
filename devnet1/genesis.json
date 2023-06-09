@@ -302,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "UbrYm4QvXzg2SV4idbKgQPkHdwPDOzfHBqo4KtrZUEE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/gfgiabk4c1is9cklzy1adp3p9vmfi5i8?d=identicon",
+        "country": "GA",
+        "ethereum_address": "0xb40f2639a7284e986d5ce3BfC821E2CAeaF466EB",
+        "id": "a314f40a89d0db772d60d3b14029b8a0225abede9601a081c314509da51c5198",
+        "info_url": "https://en.wikipedia.org/wiki/Upatissag%C4%81ma",
+        "name": "clean-ball",
+        "tm_pub_key": "UbrYm4QvXzg2SV4idbKgQPkHdwPDOzfHBqo4KtrZUEE=",
+        "vega_pub_key": "eb55878bdbf2606abd5e079be35c6d70a5c31be663cb951d1880895a84bddc72",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "xFp82Hu7GFqZpRTpCBZClPnfhDUeKFrmBFY7S5R+5bE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/m5p4lih7f4b3y7kjb1l3x1nb5e97emh8?d=identicon",
-        "country": "RJ",
-        "ethereum_address": "0xafc965611b3B92Bf13Ad11a581F63EE906410A5F",
-        "id": "e30265bec06f8c3180bc38c427ec2fd6d5e4880fcb747f39b2dbdc72cfb5c347",
-        "info_url": "https://en.wikipedia.org/wiki/Midlands_Junior_League",
-        "name": "fluky-cloud",
-        "tm_pub_key": "xFp82Hu7GFqZpRTpCBZClPnfhDUeKFrmBFY7S5R+5bE=",
-        "vega_pub_key": "104c1751d4b644787626bd01a7ad5ee3e0a5170b818c97e9c2d99a94e3719a01",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202306091046",
+  "chain_id": "vega-devnet1-202306091236",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-09T10:46:54.206071543Z",
+  "genesis_time": "2023-06-09T12:36:52.323122131Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "73B2DD270CF56F02CF2474CE292DE99CF44E8DBA",
-      "name": "fluky-cloud",
+      "address": "F6A5FA28607A87690EC8E8B48146380C51E0DD72",
+      "name": "clean-ball",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "xFp82Hu7GFqZpRTpCBZClPnfhDUeKFrmBFY7S5R+5bE="
+        "value": "UbrYm4QvXzg2SV4idbKgQPkHdwPDOzfHBqo4KtrZUEE="
       }
     }
   ]
