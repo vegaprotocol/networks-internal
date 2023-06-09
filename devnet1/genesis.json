@@ -302,17 +302,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "pUIFC+cYhUwkrhh5uOYcVtyo+V1wAWmA7YZsLIUSntA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/yv5ymxd0djgxoh87e7euu58r0uwcpv3g?d=identicon",
-        "country": "JQ",
-        "ethereum_address": "0x7b2A25E0acC2f476263c59D22cCaE6C7a1eAB944",
-        "id": "3e2784e70a58301594a5b2b8f6d9d5c052e985ba1c5e3245611a68576a9e7d19",
-        "info_url": "https://en.wikipedia.org/wiki/Anne-Katrin_Schott",
-        "name": "alive-cloud",
-        "tm_pub_key": "pUIFC+cYhUwkrhh5uOYcVtyo+V1wAWmA7YZsLIUSntA=",
-        "vega_pub_key": "c5465f407ef9c315cb6a193f45426ee53f449517e703eb26e922c2fd75071006",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "xFp82Hu7GFqZpRTpCBZClPnfhDUeKFrmBFY7S5R+5bE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/m5p4lih7f4b3y7kjb1l3x1nb5e97emh8?d=identicon",
+        "country": "RJ",
+        "ethereum_address": "0xafc965611b3B92Bf13Ad11a581F63EE906410A5F",
+        "id": "e30265bec06f8c3180bc38c427ec2fd6d5e4880fcb747f39b2dbdc72cfb5c347",
+        "info_url": "https://en.wikipedia.org/wiki/Midlands_Junior_League",
+        "name": "fluky-cloud",
+        "tm_pub_key": "xFp82Hu7GFqZpRTpCBZClPnfhDUeKFrmBFY7S5R+5bE=",
+        "vega_pub_key": "104c1751d4b644787626bd01a7ad5ee3e0a5170b818c97e9c2d99a94e3719a01",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202306082021",
+  "chain_id": "vega-devnet1-202306091046",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-08T20:21:40.324585711Z",
+  "genesis_time": "2023-06-09T10:46:54.206071543Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "CCEC51AB11CA4A098A9155E31E3A0FEC94E1578E",
-      "name": "alive-cloud",
+      "address": "73B2DD270CF56F02CF2474CE292DE99CF44E8DBA",
+      "name": "fluky-cloud",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "pUIFC+cYhUwkrhh5uOYcVtyo+V1wAWmA7YZsLIUSntA="
+        "value": "xFp82Hu7GFqZpRTpCBZClPnfhDUeKFrmBFY7S5R+5bE="
       }
     }
   ]
