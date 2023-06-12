@@ -291,6 +291,17 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
+      "ErxhJQABAtlDQqTzzvpYNM6FGAjWlVL+sD1Vn7kt5aU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/v48bn180b6v3eeyv9p96akf6h1ks3um1?d=identicon",
+        "country": "KO",
+        "ethereum_address": "0xf2330bd050FEA257b939949c5635A386283c4C3f",
+        "id": "bf346c362c46b1017a2b43fd290cc1feaf83e6cafd8dddf355a6bcc608798a2a",
+        "info_url": "https://en.wikipedia.org/wiki/Ned_Ward",
+        "name": "frustrating-farmer",
+        "tm_pub_key": "ErxhJQABAtlDQqTzzvpYNM6FGAjWlVL+sD1Vn7kt5aU=",
+        "vega_pub_key": "7db8dcab9300fb6be1952f6516e3d84383c499d1017db00a66146b9773067e0e",
+        "vega_pub_key_index": 1
+      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -300,17 +311,6 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
-        "vega_pub_key_index": 1
-      },
-      "UbrYm4QvXzg2SV4idbKgQPkHdwPDOzfHBqo4KtrZUEE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/gfgiabk4c1is9cklzy1adp3p9vmfi5i8?d=identicon",
-        "country": "GA",
-        "ethereum_address": "0xb40f2639a7284e986d5ce3BfC821E2CAeaF466EB",
-        "id": "a314f40a89d0db772d60d3b14029b8a0225abede9601a081c314509da51c5198",
-        "info_url": "https://en.wikipedia.org/wiki/Upatissag%C4%81ma",
-        "name": "clean-ball",
-        "tm_pub_key": "UbrYm4QvXzg2SV4idbKgQPkHdwPDOzfHBqo4KtrZUEE=",
-        "vega_pub_key": "eb55878bdbf2606abd5e079be35c6d70a5c31be663cb951d1880895a84bddc72",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306091236",
+  "chain_id": "vega-devnet1-202306121013",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-09T12:36:52.323122131Z",
+  "genesis_time": "2023-06-12T10:13:19.507063224Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "F6A5FA28607A87690EC8E8B48146380C51E0DD72",
-      "name": "clean-ball",
+      "address": "D789E9B547D8B2585AC517C56F826F9EBA4A3197",
+      "name": "frustrating-farmer",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "UbrYm4QvXzg2SV4idbKgQPkHdwPDOzfHBqo4KtrZUEE="
+        "value": "ErxhJQABAtlDQqTzzvpYNM6FGAjWlVL+sD1Vn7kt5aU="
       }
     }
   ]
