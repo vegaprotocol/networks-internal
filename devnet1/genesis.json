@@ -291,17 +291,6 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
-      "ErxhJQABAtlDQqTzzvpYNM6FGAjWlVL+sD1Vn7kt5aU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/v48bn180b6v3eeyv9p96akf6h1ks3um1?d=identicon",
-        "country": "KO",
-        "ethereum_address": "0xf2330bd050FEA257b939949c5635A386283c4C3f",
-        "id": "bf346c362c46b1017a2b43fd290cc1feaf83e6cafd8dddf355a6bcc608798a2a",
-        "info_url": "https://en.wikipedia.org/wiki/Ned_Ward",
-        "name": "frustrating-farmer",
-        "tm_pub_key": "ErxhJQABAtlDQqTzzvpYNM6FGAjWlVL+sD1Vn7kt5aU=",
-        "vega_pub_key": "7db8dcab9300fb6be1952f6516e3d84383c499d1017db00a66146b9773067e0e",
-        "vega_pub_key_index": 1
-      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -311,6 +300,17 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
+        "vega_pub_key_index": 1
+      },
+      "VxvKXtjbHFnfqbp/IattKnMOgQRDpG/4F9YQJAbx8+w=": {
+        "avatar_url": "https://www.gravatar.com/avatar/is2j7pus7f4g3i4kpvk00m5ztt67d720?d=identicon",
+        "country": "FH",
+        "ethereum_address": "0xa9DE72Cd0702df69929C6aE64014ef5e36F22AB8",
+        "id": "34176a93c7d1331931e0488795e05724a3e62266c66f5e4b85247d5510852487",
+        "info_url": "https://en.wikipedia.org/wiki/List_of_UK_Independent_Singles_Chart_number_ones_of_2020",
+        "name": "unkempt-tree",
+        "tm_pub_key": "VxvKXtjbHFnfqbp/IattKnMOgQRDpG/4F9YQJAbx8+w=",
+        "vega_pub_key": "459fe3518cb2703e5510796d87571aa2485ba6398b769bd965ac7129c6205a59",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306121013",
+  "chain_id": "vega-devnet1-202306130811",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-12T10:13:19.507063224Z",
+  "genesis_time": "2023-06-13T08:11:52.598373315Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "D789E9B547D8B2585AC517C56F826F9EBA4A3197",
-      "name": "frustrating-farmer",
+      "address": "853EA395AE5ED5A0190209F545B2C8A59DE57037",
+      "name": "unkempt-tree",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ErxhJQABAtlDQqTzzvpYNM6FGAjWlVL+sD1Vn7kt5aU="
+        "value": "VxvKXtjbHFnfqbp/IattKnMOgQRDpG/4F9YQJAbx8+w="
       }
     }
   ]
