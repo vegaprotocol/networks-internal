@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "tY0kZ2xhQHtcoOUpeBC968rbGF1z0r9s+ZyFmcfOy6g=": {
-        "avatar_url": "https://www.gravatar.com/avatar/yb99aaegxba2m3368ql73g3ynvxd7ik9?d=identicon",
-        "country": "VV",
-        "ethereum_address": "0x2440f37124abB8c5421498F3313847326509d775",
-        "id": "3e5ce3f16299368453013de7858530ec2df88a4a0eb46eb27800ccb4e5987e16",
-        "info_url": "https://en.wikipedia.org/wiki/Yemen_at_the_2013_World_Aquatics_Championships",
-        "name": "zippy-month",
-        "tm_pub_key": "tY0kZ2xhQHtcoOUpeBC968rbGF1z0r9s+ZyFmcfOy6g=",
-        "vega_pub_key": "3a30322d6d210eb2a1ca5b5cb18b32bec44765e7186cbbbc9fa2598c66709175",
+      "t29PIfwPUmGtattLxWw4rskbk1Bu8NNvOD6oHDqVRWA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xr7xyxr9h46g0efy7f3c5lb0e8z6xulg?d=identicon",
+        "country": "ZS",
+        "ethereum_address": "0x0E91F60E5Fb6224AD67408531cE8A5CB9aE8Bfbe",
+        "id": "2094d8939363a32864e7088226c1cd603221995f1e73c286c4fad14a329ebd45",
+        "info_url": "https://en.wikipedia.org/wiki/Eastern_Orthodoxy_in_Albania",
+        "name": "fluky-door",
+        "tm_pub_key": "t29PIfwPUmGtattLxWw4rskbk1Bu8NNvOD6oHDqVRWA=",
+        "vega_pub_key": "884f533506470d2690ca209bc00cb78b2f123ca71c0f54528098c901deef161a",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306131117",
+  "chain_id": "vega-devnet1-202306131318",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-13T11:17:58.01259154Z",
+  "genesis_time": "2023-06-13T13:18:20.601766623Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "3D9A79403687F526B49DFD126A2AF40E8A2B903D",
-      "name": "zippy-month",
+      "address": "7E925F28352AA793AEF0B7B2E3AB4F1810C8D01D",
+      "name": "fluky-door",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "tY0kZ2xhQHtcoOUpeBC968rbGF1z0r9s+ZyFmcfOy6g="
+        "value": "t29PIfwPUmGtattLxWw4rskbk1Bu8NNvOD6oHDqVRWA="
       }
     }
   ]
