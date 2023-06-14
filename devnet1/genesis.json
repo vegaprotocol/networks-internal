@@ -280,17 +280,6 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
-      "CxdllkGQpyfqBljCSfaqpnOwSW/PFtTRhYnPJ6iUrR8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/w9dqb1lc1se6nqa02s2ca27ef545nxqb?d=identicon",
-        "country": "JU",
-        "ethereum_address": "0xF0Dd4c2DcDcB9c56ad6Df672B0b2937e04D5cc19",
-        "id": "5c60bfc2b521276c85f70bf59a26799e777cc6fb07e4a1cbeb159582614cc00a",
-        "info_url": "https://en.wikipedia.org/wiki/Malli_Modalaindi",
-        "name": "adventurous-river",
-        "tm_pub_key": "CxdllkGQpyfqBljCSfaqpnOwSW/PFtTRhYnPJ6iUrR8=",
-        "vega_pub_key": "3567b5278e441f10e38692d325f1566073333c5e3656b52faeadd1489327903e",
-        "vega_pub_key_index": 1
-      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -300,6 +289,17 @@
         "name": "friendly-barber",
         "tm_pub_key": "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=",
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
+        "vega_pub_key_index": 1
+      },
+      "IvWi8nzc+zUu6S/t5w7G4QcKkhC2em2O8g7338SaVVE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/4ats68ndtc36k290abzrzr1xna1h0obm?d=identicon",
+        "country": "SZ",
+        "ethereum_address": "0x057Ff0aD5Aaa43231dE03A188C74B0E251275Ad0",
+        "id": "3a541c758c408d180399a0f2034869e8af49dc6538f7a0cad9f62e4d05421622",
+        "info_url": "https://en.wikipedia.org/wiki/Sovandeb_Chattopadhyay",
+        "name": "exuberant-book",
+        "tm_pub_key": "IvWi8nzc+zUu6S/t5w7G4QcKkhC2em2O8g7338SaVVE=",
+        "vega_pub_key": "c0a375e1fad0fe6b834e94be440934dbdee664af188524580346a432bd02360f",
         "vega_pub_key_index": 1
       },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306141221",
+  "chain_id": "vega-devnet1-202306141348",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-14T12:21:29.345032805Z",
+  "genesis_time": "2023-06-14T13:48:02.205215426Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "86345D654D9AB09F27C468EACAB3B9D390BF88CC",
-      "name": "adventurous-river",
+      "address": "E1AD4B94AE58542EC44EDF639DC3B0B896F23B10",
+      "name": "exuberant-book",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "CxdllkGQpyfqBljCSfaqpnOwSW/PFtTRhYnPJ6iUrR8="
+        "value": "IvWi8nzc+zUu6S/t5w7G4QcKkhC2em2O8g7338SaVVE="
       }
     }
   ]
