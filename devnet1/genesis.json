@@ -280,6 +280,17 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
+      "AqL6DAXI5XX2srUDHCMVyrqs1kEbY5N836NZfu8fvJc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/zw813nuagecprtj88koe94ducaqt150s?d=identicon",
+        "country": "BY",
+        "ethereum_address": "0x7585fBc92531420e9800391D2Ef302657449472b",
+        "id": "1583957704acd6a66a5cc88aaf974a2a720ec443f837b0a4ad4b3cdf5cc0300e",
+        "info_url": "https://en.wikipedia.org/wiki/Luo_Qi_(singer)",
+        "name": "better-river",
+        "tm_pub_key": "AqL6DAXI5XX2srUDHCMVyrqs1kEbY5N836NZfu8fvJc=",
+        "vega_pub_key": "eca3445dac3e78326706bf72323249e4f1eeccf0325c4e12dd2d818e6f7600b4",
+        "vega_pub_key_index": 1
+      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "mSlR0mPoFidsAS28db82qd7MfjOmaBauwHINiw57euw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/wk65tp2got8atkdjyu1n6pb7zbf0gae2?d=identicon",
-        "country": "ZK",
-        "ethereum_address": "0x29B71178202f11F4B0d68F8e712d2eEFF523D717",
-        "id": "b64440e2beea7c379b17501ff65de565f064b24b73e49754ba3a466278914450",
-        "info_url": "https://en.wikipedia.org/wiki/Stella_Maris_College_Quezon_City",
-        "name": "harsh-river",
-        "tm_pub_key": "mSlR0mPoFidsAS28db82qd7MfjOmaBauwHINiw57euw=",
-        "vega_pub_key": "f71dc4631b1521b1ae842f4b062a9f564807e08afb37ffac39b47f528eaae345",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306141551",
+  "chain_id": "vega-devnet1-202306141627",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-14T15:51:31.14334292Z",
+  "genesis_time": "2023-06-14T16:27:26.142655218Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "2D3011D81BB917220FE8BFE00AFB9FD8D31AE0C3",
-      "name": "harsh-river",
+      "address": "37ACDFC5B829C3162EA372CF1252B9CABBDD1C1D",
+      "name": "better-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "mSlR0mPoFidsAS28db82qd7MfjOmaBauwHINiw57euw="
+        "value": "AqL6DAXI5XX2srUDHCMVyrqs1kEbY5N836NZfu8fvJc="
       }
     }
   ]
