@@ -291,17 +291,6 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
-      "IvWi8nzc+zUu6S/t5w7G4QcKkhC2em2O8g7338SaVVE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/4ats68ndtc36k290abzrzr1xna1h0obm?d=identicon",
-        "country": "SZ",
-        "ethereum_address": "0x057Ff0aD5Aaa43231dE03A188C74B0E251275Ad0",
-        "id": "3a541c758c408d180399a0f2034869e8af49dc6538f7a0cad9f62e4d05421622",
-        "info_url": "https://en.wikipedia.org/wiki/Sovandeb_Chattopadhyay",
-        "name": "exuberant-book",
-        "tm_pub_key": "IvWi8nzc+zUu6S/t5w7G4QcKkhC2em2O8g7338SaVVE=",
-        "vega_pub_key": "c0a375e1fad0fe6b834e94be440934dbdee664af188524580346a432bd02360f",
-        "vega_pub_key_index": 1
-      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -311,6 +300,17 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
+        "vega_pub_key_index": 1
+      },
+      "mSlR0mPoFidsAS28db82qd7MfjOmaBauwHINiw57euw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/wk65tp2got8atkdjyu1n6pb7zbf0gae2?d=identicon",
+        "country": "ZK",
+        "ethereum_address": "0x29B71178202f11F4B0d68F8e712d2eEFF523D717",
+        "id": "b64440e2beea7c379b17501ff65de565f064b24b73e49754ba3a466278914450",
+        "info_url": "https://en.wikipedia.org/wiki/Stella_Maris_College_Quezon_City",
+        "name": "harsh-river",
+        "tm_pub_key": "mSlR0mPoFidsAS28db82qd7MfjOmaBauwHINiw57euw=",
+        "vega_pub_key": "f71dc4631b1521b1ae842f4b062a9f564807e08afb37ffac39b47f528eaae345",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306141348",
+  "chain_id": "vega-devnet1-202306141551",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-14T13:48:02.205215426Z",
+  "genesis_time": "2023-06-14T15:51:31.14334292Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "E1AD4B94AE58542EC44EDF639DC3B0B896F23B10",
-      "name": "exuberant-book",
+      "address": "2D3011D81BB917220FE8BFE00AFB9FD8D31AE0C3",
+      "name": "harsh-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "IvWi8nzc+zUu6S/t5w7G4QcKkhC2em2O8g7338SaVVE="
+        "value": "mSlR0mPoFidsAS28db82qd7MfjOmaBauwHINiw57euw="
       }
     }
   ]
