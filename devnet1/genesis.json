@@ -291,6 +291,17 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
+      "GJUVLZf+14LJIOUCMizUCUv6QsO0JGTf1edcGU7UJrI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ay0b9yuvpevs6025df4o0vynnomxru78?d=identicon",
+        "country": "SL",
+        "ethereum_address": "0x980eA0514B7C324D013Ff2DB3C3Af6093009fC08",
+        "id": "3dd2a28c855eecd5de2754fe15e99ad3886571518db005f9378c80e02f8676ca",
+        "info_url": "https://en.wikipedia.org/wiki/Torre_God%C3%B3",
+        "name": "red-week",
+        "tm_pub_key": "GJUVLZf+14LJIOUCMizUCUv6QsO0JGTf1edcGU7UJrI=",
+        "vega_pub_key": "886cb3b64afebad28ab9751eab496b7797ae2aa64e21ad66074ec51e79d60343",
+        "vega_pub_key_index": 1
+      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -300,17 +311,6 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
-        "vega_pub_key_index": 1
-      },
-      "qfwKYV6KGr+AaRZuGHOOn7LZMq9Hv5lukD0SYLusEf0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/5zxqyinmqpfuco0rqbguibt8tm5vw813?d=identicon",
-        "country": "UU",
-        "ethereum_address": "0x2B6023B7178009D39F38699fcC591055DF994213",
-        "id": "44b6794ee4914ccc76d9e82fc7b35c6e52c459ed001537a5371442533567407b",
-        "info_url": "https://en.wikipedia.org/wiki/Kim_Jeong-hyun_(footballer,_born_1993)",
-        "name": "icy-pen",
-        "tm_pub_key": "qfwKYV6KGr+AaRZuGHOOn7LZMq9Hv5lukD0SYLusEf0=",
-        "vega_pub_key": "b3d0f60b35153829d1acde130c6b92a66cf9671fa63a82ead6de0e6f1eb665c8",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306131947",
+  "chain_id": "vega-devnet1-202306140915",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-13T19:47:56.180554649Z",
+  "genesis_time": "2023-06-14T09:15:41.215429748Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "5456EE4E298AC36DF342749B55B1102B3E48FDC8",
-      "name": "icy-pen",
+      "address": "B259BCE03D0C922FE3AE8E9E889FEDBC89132A71",
+      "name": "red-week",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "qfwKYV6KGr+AaRZuGHOOn7LZMq9Hv5lukD0SYLusEf0="
+        "value": "GJUVLZf+14LJIOUCMizUCUv6QsO0JGTf1edcGU7UJrI="
       }
     }
   ]
