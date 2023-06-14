@@ -280,6 +280,17 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
+      "CxdllkGQpyfqBljCSfaqpnOwSW/PFtTRhYnPJ6iUrR8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/w9dqb1lc1se6nqa02s2ca27ef545nxqb?d=identicon",
+        "country": "JU",
+        "ethereum_address": "0xF0Dd4c2DcDcB9c56ad6Df672B0b2937e04D5cc19",
+        "id": "5c60bfc2b521276c85f70bf59a26799e777cc6fb07e4a1cbeb159582614cc00a",
+        "info_url": "https://en.wikipedia.org/wiki/Malli_Modalaindi",
+        "name": "adventurous-river",
+        "tm_pub_key": "CxdllkGQpyfqBljCSfaqpnOwSW/PFtTRhYnPJ6iUrR8=",
+        "vega_pub_key": "3567b5278e441f10e38692d325f1566073333c5e3656b52faeadd1489327903e",
+        "vega_pub_key_index": 1
+      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -289,17 +300,6 @@
         "name": "friendly-barber",
         "tm_pub_key": "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=",
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
-        "vega_pub_key_index": 1
-      },
-      "GJUVLZf+14LJIOUCMizUCUv6QsO0JGTf1edcGU7UJrI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ay0b9yuvpevs6025df4o0vynnomxru78?d=identicon",
-        "country": "SL",
-        "ethereum_address": "0x980eA0514B7C324D013Ff2DB3C3Af6093009fC08",
-        "id": "3dd2a28c855eecd5de2754fe15e99ad3886571518db005f9378c80e02f8676ca",
-        "info_url": "https://en.wikipedia.org/wiki/Torre_God%C3%B3",
-        "name": "red-week",
-        "tm_pub_key": "GJUVLZf+14LJIOUCMizUCUv6QsO0JGTf1edcGU7UJrI=",
-        "vega_pub_key": "886cb3b64afebad28ab9751eab496b7797ae2aa64e21ad66074ec51e79d60343",
         "vega_pub_key_index": 1
       },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306140915",
+  "chain_id": "vega-devnet1-202306141221",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-14T09:15:41.215429748Z",
+  "genesis_time": "2023-06-14T12:21:29.345032805Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "B259BCE03D0C922FE3AE8E9E889FEDBC89132A71",
-      "name": "red-week",
+      "address": "86345D654D9AB09F27C468EACAB3B9D390BF88CC",
+      "name": "adventurous-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "GJUVLZf+14LJIOUCMizUCUv6QsO0JGTf1edcGU7UJrI="
+        "value": "CxdllkGQpyfqBljCSfaqpnOwSW/PFtTRhYnPJ6iUrR8="
       }
     }
   ]
