@@ -302,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "O6sX+zVwavf3vX5gnbkOySBcJfeDOKRZkOvHBNL32Nw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/c6elxztn9afck3nud4j29mwcsi8by4t9?d=identicon",
+        "country": "WI",
+        "ethereum_address": "0x15C017c1c3A73C2ACFAf8CeE67A319d268C5d527",
+        "id": "b9f844188a191c225900821697f211bdd67c425d286113f5592d37d4cd62dae1",
+        "info_url": "https://en.wikipedia.org/wiki/Steinskaret_Gap",
+        "name": "friendly-bee",
+        "tm_pub_key": "O6sX+zVwavf3vX5gnbkOySBcJfeDOKRZkOvHBNL32Nw=",
+        "vega_pub_key": "e6fd30c7ae7404b196b47abdd6ca651600581784dc9783ddfe75c3bd825d81d9",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "zUiXzBINv/u2F93neIazMUs8MSAp5m+i+OUU1y3xgh4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/8mqi0dmtig8tk369vvfyr0hyj8rdw3zy?d=identicon",
-        "country": "KX",
-        "ethereum_address": "0xBe547F03769d9EE1f32F237cd036fb2630801257",
-        "id": "eab2044caba61da6b0dc38c18ae05a0dd23124faa0b9a56c0c2384e4d092a42c",
-        "info_url": "https://en.wikipedia.org/wiki/Elkanah_Watson",
-        "name": "harebrained-week",
-        "tm_pub_key": "zUiXzBINv/u2F93neIazMUs8MSAp5m+i+OUU1y3xgh4=",
-        "vega_pub_key": "36f83e4c9a625700b6b55c933e694b296ac3aed9e14fdd2118a9f50d1d93accd",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202306151036",
+  "chain_id": "vega-devnet1-202306151141",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-15T10:36:19.100243692Z",
+  "genesis_time": "2023-06-15T11:41:09.688282077Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "BAF9E5BC78431D084082E07C113B5EAA29C46855",
-      "name": "harebrained-week",
+      "address": "9B1D2B42E8F2E7F443160B2CCA61CB0FB4AE2A89",
+      "name": "friendly-bee",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "zUiXzBINv/u2F93neIazMUs8MSAp5m+i+OUU1y3xgh4="
+        "value": "O6sX+zVwavf3vX5gnbkOySBcJfeDOKRZkOvHBNL32Nw="
       }
     }
   ]
