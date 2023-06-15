@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "O6sX+zVwavf3vX5gnbkOySBcJfeDOKRZkOvHBNL32Nw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/c6elxztn9afck3nud4j29mwcsi8by4t9?d=identicon",
-        "country": "WI",
-        "ethereum_address": "0x15C017c1c3A73C2ACFAf8CeE67A319d268C5d527",
-        "id": "b9f844188a191c225900821697f211bdd67c425d286113f5592d37d4cd62dae1",
-        "info_url": "https://en.wikipedia.org/wiki/Steinskaret_Gap",
-        "name": "friendly-bee",
-        "tm_pub_key": "O6sX+zVwavf3vX5gnbkOySBcJfeDOKRZkOvHBNL32Nw=",
-        "vega_pub_key": "e6fd30c7ae7404b196b47abdd6ca651600581784dc9783ddfe75c3bd825d81d9",
+      "Wh31zxRf/izlk1kXXdtaj+ov4/+HT5fe3Hijm1LS3k0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/jcae2068388gscg8fmow4ljzvs9196gs?d=identicon",
+        "country": "UG",
+        "ethereum_address": "0xe85Ec8BCCb219c7BAc3622D26f64998917693731",
+        "id": "74e1533198ecf309c9ea986ff9110cb278784610c18357b32e0b871ccdc891d5",
+        "info_url": "https://en.wikipedia.org/wiki/Internationales_Maritimes_Museum_Hamburg",
+        "name": "helpful-key",
+        "tm_pub_key": "Wh31zxRf/izlk1kXXdtaj+ov4/+HT5fe3Hijm1LS3k0=",
+        "vega_pub_key": "a66c44899f814d300954d2ef63a905e8d99740be5110c180560fcb539963a21e",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306151141",
+  "chain_id": "vega-devnet1-202306151411",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-15T11:41:09.688282077Z",
+  "genesis_time": "2023-06-15T14:11:31.309164353Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "9B1D2B42E8F2E7F443160B2CCA61CB0FB4AE2A89",
-      "name": "friendly-bee",
+      "address": "8DAC9A49CB6F408F073AEAAE4B43EAC222CA53C6",
+      "name": "helpful-key",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "O6sX+zVwavf3vX5gnbkOySBcJfeDOKRZkOvHBNL32Nw="
+        "value": "Wh31zxRf/izlk1kXXdtaj+ov4/+HT5fe3Hijm1LS3k0="
       }
     }
   ]
