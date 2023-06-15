@@ -280,17 +280,6 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
-      "AqL6DAXI5XX2srUDHCMVyrqs1kEbY5N836NZfu8fvJc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/zw813nuagecprtj88koe94ducaqt150s?d=identicon",
-        "country": "BY",
-        "ethereum_address": "0x7585fBc92531420e9800391D2Ef302657449472b",
-        "id": "1583957704acd6a66a5cc88aaf974a2a720ec443f837b0a4ad4b3cdf5cc0300e",
-        "info_url": "https://en.wikipedia.org/wiki/Luo_Qi_(singer)",
-        "name": "better-river",
-        "tm_pub_key": "AqL6DAXI5XX2srUDHCMVyrqs1kEbY5N836NZfu8fvJc=",
-        "vega_pub_key": "eca3445dac3e78326706bf72323249e4f1eeccf0325c4e12dd2d818e6f7600b4",
-        "vega_pub_key_index": 1
-      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "zUiXzBINv/u2F93neIazMUs8MSAp5m+i+OUU1y3xgh4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/8mqi0dmtig8tk369vvfyr0hyj8rdw3zy?d=identicon",
+        "country": "KX",
+        "ethereum_address": "0xBe547F03769d9EE1f32F237cd036fb2630801257",
+        "id": "eab2044caba61da6b0dc38c18ae05a0dd23124faa0b9a56c0c2384e4d092a42c",
+        "info_url": "https://en.wikipedia.org/wiki/Elkanah_Watson",
+        "name": "harebrained-week",
+        "tm_pub_key": "zUiXzBINv/u2F93neIazMUs8MSAp5m+i+OUU1y3xgh4=",
+        "vega_pub_key": "36f83e4c9a625700b6b55c933e694b296ac3aed9e14fdd2118a9f50d1d93accd",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202306141627",
+  "chain_id": "vega-devnet1-202306151036",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-14T16:27:26.142655218Z",
+  "genesis_time": "2023-06-15T10:36:19.100243692Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "37ACDFC5B829C3162EA372CF1252B9CABBDD1C1D",
-      "name": "better-river",
+      "address": "BAF9E5BC78431D084082E07C113B5EAA29C46855",
+      "name": "harebrained-week",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "AqL6DAXI5XX2srUDHCMVyrqs1kEbY5N836NZfu8fvJc="
+        "value": "zUiXzBINv/u2F93neIazMUs8MSAp5m+i+OUU1y3xgh4="
       }
     }
   ]
