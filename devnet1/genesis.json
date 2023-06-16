@@ -302,17 +302,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "Wh31zxRf/izlk1kXXdtaj+ov4/+HT5fe3Hijm1LS3k0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/jcae2068388gscg8fmow4ljzvs9196gs?d=identicon",
-        "country": "UG",
-        "ethereum_address": "0xe85Ec8BCCb219c7BAc3622D26f64998917693731",
-        "id": "74e1533198ecf309c9ea986ff9110cb278784610c18357b32e0b871ccdc891d5",
-        "info_url": "https://en.wikipedia.org/wiki/Internationales_Maritimes_Museum_Hamburg",
-        "name": "helpful-key",
-        "tm_pub_key": "Wh31zxRf/izlk1kXXdtaj+ov4/+HT5fe3Hijm1LS3k0=",
-        "vega_pub_key": "a66c44899f814d300954d2ef63a905e8d99740be5110c180560fcb539963a21e",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "zvrWOI/0nL2mi9VhQb3HRBRySyl5goKB97oYPoiTz08=": {
+        "avatar_url": "https://www.gravatar.com/avatar/zh2bjh4czyfj2matxgu6foo6fbygj3hf?d=identicon",
+        "country": "SZ",
+        "ethereum_address": "0x110501a1B02c3b3643Dc3D1Fb151443b048c7f59",
+        "id": "ef31ff570e335f20a4f2ae94920974ed51826b14e20e9868da9de78b5fa92dd7",
+        "info_url": "https://en.wikipedia.org/wiki/Telem_Suranjit_Singh",
+        "name": "lucky-pond",
+        "tm_pub_key": "zvrWOI/0nL2mi9VhQb3HRBRySyl5goKB97oYPoiTz08=",
+        "vega_pub_key": "dbb4b15a4d9bcebdf15041b1777f63070bbcbff19c1a760f4861787d06b7baaf",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202306151411",
+  "chain_id": "vega-devnet1-202306161219",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-15T14:11:31.309164353Z",
+  "genesis_time": "2023-06-16T12:19:54.599823531Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "8DAC9A49CB6F408F073AEAAE4B43EAC222CA53C6",
-      "name": "helpful-key",
+      "address": "20F2F48BA244FDB0282A2553B1A5C302A731AAFC",
+      "name": "lucky-pond",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Wh31zxRf/izlk1kXXdtaj+ov4/+HT5fe3Hijm1LS3k0="
+        "value": "zvrWOI/0nL2mi9VhQb3HRBRySyl5goKB97oYPoiTz08="
       }
     }
   ]
