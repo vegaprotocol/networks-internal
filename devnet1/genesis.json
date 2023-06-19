@@ -291,6 +291,17 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
+      "IJ6fFuPGSa5TI7yO/Jn5fD6883EF9glOb6kqAo8pVKM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/rkvo5tijvmupmrkq88yu9td8tv6hn817?d=identicon",
+        "country": "IC",
+        "ethereum_address": "0x979C3Bd2B48C4D0eCB78b782364109557d2e820B",
+        "id": "4da696fb5ac09e417516b90192e49aa3465878b61faecc027adfe0cf49e0f0ec",
+        "info_url": "https://en.wikipedia.org/wiki/Edward_Cooney",
+        "name": "perplexed-window",
+        "tm_pub_key": "IJ6fFuPGSa5TI7yO/Jn5fD6883EF9glOb6kqAo8pVKM=",
+        "vega_pub_key": "9096bc3e527ac4a54ac662103dd5b8898eb5bd91cd3063e2300dfccc325c6a9b",
+        "vega_pub_key_index": 1
+      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -300,17 +311,6 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
-        "vega_pub_key_index": 1
-      },
-      "RDoARWmI57A6iMqxpocPm4ywXeH1vJIfeWqC4MRw8bI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/gvfir0me6u5fcija9aj5siuod91r3qrd?d=identicon",
-        "country": "TJ",
-        "ethereum_address": "0xE366923A6c9839BB9418F98521C518ce5F274b35",
-        "id": "c25ada2f8dc4395d9221d836724797e276ebbdff5b84f29cd823eb836bf333aa",
-        "info_url": "https://en.wikipedia.org/wiki/Jeroen_Devroe",
-        "name": "gritty-barber",
-        "tm_pub_key": "RDoARWmI57A6iMqxpocPm4ywXeH1vJIfeWqC4MRw8bI=",
-        "vega_pub_key": "a4f9a897af01cd096ab4d800f7af105646101e5affd5afad6af07e5efa6d2250",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306190929",
+  "chain_id": "vega-devnet1-202306191307",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-19T09:29:55.350873408Z",
+  "genesis_time": "2023-06-19T13:07:31.309076609Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "A42B237FB674DE542EB86BB683F84B284D765513",
-      "name": "gritty-barber",
+      "address": "AF8045DC3DA1ABF0E0407461EE441C522349F3CD",
+      "name": "perplexed-window",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "RDoARWmI57A6iMqxpocPm4ywXeH1vJIfeWqC4MRw8bI="
+        "value": "IJ6fFuPGSa5TI7yO/Jn5fD6883EF9glOb6kqAo8pVKM="
       }
     }
   ]
