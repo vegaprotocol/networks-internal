@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "1JvHzBOjDYJ3H9NAX4QMhOEntbPwhx7LHkGajAj58a0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/y4fcqwnmnovown3t6iinkhvurhu73fsn?d=identicon",
-        "country": "DP",
-        "ethereum_address": "0x84122d4e5B8DF4dbD1c3fD20021a5A74aEEC92bB",
-        "id": "b82f6b1ced121a9470ad3ffd919f547229d2b940a3d1f3749a162a9c58586171",
-        "info_url": "https://en.wikipedia.org/wiki/Catherine_Toll",
-        "name": "irate-movie",
-        "tm_pub_key": "1JvHzBOjDYJ3H9NAX4QMhOEntbPwhx7LHkGajAj58a0=",
-        "vega_pub_key": "d5a6cd4a414c1376415f72e3521890227ec58b081968de21be5137052e122b4e",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "ZtQ9Mxa/uHd3VoGRFkuiMNRFUdeK0F9K6D9dCkgvevg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/y4xihdts8rpw7ziofjm6j3eh5oau3wsv?d=identicon",
+        "country": "KU",
+        "ethereum_address": "0xD05a019Ab4945c1EFe58cF40b4baFd40b5dC2Cd9",
+        "id": "30534f42d72051e819d344389d4a3c5744d13f6b9fcf76b466b0c3ebeb1e39c3",
+        "info_url": "https://en.wikipedia.org/wiki/Alderbranch,_Texas",
+        "name": "confused-roof",
+        "tm_pub_key": "ZtQ9Mxa/uHd3VoGRFkuiMNRFUdeK0F9K6D9dCkgvevg=",
+        "vega_pub_key": "672159e7a379add335b48700ba2ef48b73d633daead1670d5da895eb8c1e8d0f",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306191640",
+  "chain_id": "vega-devnet1-202306192041",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-19T16:40:26.002070937Z",
+  "genesis_time": "2023-06-19T20:41:59.529081686Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "A55DBD6810D2F579C0AD20188DFFF5B2B3A46BC4",
-      "name": "irate-movie",
+      "address": "E53006719ECE2A4AFCA3D6B7DCF42122804C84E0",
+      "name": "confused-roof",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "1JvHzBOjDYJ3H9NAX4QMhOEntbPwhx7LHkGajAj58a0="
+        "value": "ZtQ9Mxa/uHd3VoGRFkuiMNRFUdeK0F9K6D9dCkgvevg="
       }
     }
   ]
