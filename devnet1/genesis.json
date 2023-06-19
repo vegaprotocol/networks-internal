@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "LyecI4Ym73Zl+1q3h2pBNhi4kRd17fH6OpK8Yi+AEps=": {
-        "avatar_url": "https://www.gravatar.com/avatar/9siocimc86x56hgc7s2m2yfyf26okq5a?d=identicon",
-        "country": "MW",
-        "ethereum_address": "0x167CcF3D85881dAc2d8545E83e1D2cF469EB194F",
-        "id": "32b2673c6a2457e0b7751f1475968794ae0f9ac63897421632b816275ce12152",
-        "info_url": "https://en.wikipedia.org/wiki/H%C3%A2r%C8%99ova",
-        "name": "shy-day",
-        "tm_pub_key": "LyecI4Ym73Zl+1q3h2pBNhi4kRd17fH6OpK8Yi+AEps=",
-        "vega_pub_key": "c36bf2fe997913959cb219cf0ad1d9f4a950e98b571f5c71c289b554e9908c36",
+      "gwDLahi3ArlG/I9rT/FlddGCD7SUtNfcFYFV3JV/eVQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/s3sd96g27836vgqik6c1wxuth9590aoo?d=identicon",
+        "country": "GW",
+        "ethereum_address": "0xEAad0bd64c4d3B7040b1EC9bFdaF722ef31bDecf",
+        "id": "0c9df3843d790db03bb2749d888d253c527f55765f38c30cf5d8bac3198bdb0b",
+        "info_url": "https://en.wikipedia.org/wiki/AZGP1",
+        "name": "unsightly-river",
+        "tm_pub_key": "gwDLahi3ArlG/I9rT/FlddGCD7SUtNfcFYFV3JV/eVQ=",
+        "vega_pub_key": "cee646b760e9261cca4e82e5e14b3740b6a6a87cbc58e37dc8fe84a7d1aa2ed3",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306191411",
+  "chain_id": "vega-devnet1-202306191534",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-19T14:11:29.40217129Z",
+  "genesis_time": "2023-06-19T15:34:52.436863299Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "2C26F5D42DDDF16203205A0FC85DEF3343E6932D",
-      "name": "shy-day",
+      "address": "F7302E9AAF34F97E706CC940267E56EAC23725C5",
+      "name": "unsightly-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "LyecI4Ym73Zl+1q3h2pBNhi4kRd17fH6OpK8Yi+AEps="
+        "value": "gwDLahi3ArlG/I9rT/FlddGCD7SUtNfcFYFV3JV/eVQ="
       }
     }
   ]
