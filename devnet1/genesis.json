@@ -291,17 +291,6 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
-      "IJ6fFuPGSa5TI7yO/Jn5fD6883EF9glOb6kqAo8pVKM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/rkvo5tijvmupmrkq88yu9td8tv6hn817?d=identicon",
-        "country": "IC",
-        "ethereum_address": "0x979C3Bd2B48C4D0eCB78b782364109557d2e820B",
-        "id": "4da696fb5ac09e417516b90192e49aa3465878b61faecc027adfe0cf49e0f0ec",
-        "info_url": "https://en.wikipedia.org/wiki/Edward_Cooney",
-        "name": "perplexed-window",
-        "tm_pub_key": "IJ6fFuPGSa5TI7yO/Jn5fD6883EF9glOb6kqAo8pVKM=",
-        "vega_pub_key": "9096bc3e527ac4a54ac662103dd5b8898eb5bd91cd3063e2300dfccc325c6a9b",
-        "vega_pub_key_index": 1
-      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -311,6 +300,17 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
+        "vega_pub_key_index": 1
+      },
+      "LyecI4Ym73Zl+1q3h2pBNhi4kRd17fH6OpK8Yi+AEps=": {
+        "avatar_url": "https://www.gravatar.com/avatar/9siocimc86x56hgc7s2m2yfyf26okq5a?d=identicon",
+        "country": "MW",
+        "ethereum_address": "0x167CcF3D85881dAc2d8545E83e1D2cF469EB194F",
+        "id": "32b2673c6a2457e0b7751f1475968794ae0f9ac63897421632b816275ce12152",
+        "info_url": "https://en.wikipedia.org/wiki/H%C3%A2r%C8%99ova",
+        "name": "shy-day",
+        "tm_pub_key": "LyecI4Ym73Zl+1q3h2pBNhi4kRd17fH6OpK8Yi+AEps=",
+        "vega_pub_key": "c36bf2fe997913959cb219cf0ad1d9f4a950e98b571f5c71c289b554e9908c36",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306191307",
+  "chain_id": "vega-devnet1-202306191411",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-19T13:07:31.309076609Z",
+  "genesis_time": "2023-06-19T14:11:29.40217129Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "AF8045DC3DA1ABF0E0407461EE441C522349F3CD",
-      "name": "perplexed-window",
+      "address": "2C26F5D42DDDF16203205A0FC85DEF3343E6932D",
+      "name": "shy-day",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "IJ6fFuPGSa5TI7yO/Jn5fD6883EF9glOb6kqAo8pVKM="
+        "value": "LyecI4Ym73Zl+1q3h2pBNhi4kRd17fH6OpK8Yi+AEps="
       }
     }
   ]
