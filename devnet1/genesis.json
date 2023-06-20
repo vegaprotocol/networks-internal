@@ -302,17 +302,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "ZtQ9Mxa/uHd3VoGRFkuiMNRFUdeK0F9K6D9dCkgvevg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/y4xihdts8rpw7ziofjm6j3eh5oau3wsv?d=identicon",
-        "country": "KU",
-        "ethereum_address": "0xD05a019Ab4945c1EFe58cF40b4baFd40b5dC2Cd9",
-        "id": "30534f42d72051e819d344389d4a3c5744d13f6b9fcf76b466b0c3ebeb1e39c3",
-        "info_url": "https://en.wikipedia.org/wiki/Alderbranch,_Texas",
-        "name": "confused-roof",
-        "tm_pub_key": "ZtQ9Mxa/uHd3VoGRFkuiMNRFUdeK0F9K6D9dCkgvevg=",
-        "vega_pub_key": "672159e7a379add335b48700ba2ef48b73d633daead1670d5da895eb8c1e8d0f",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "vIrty2YgnJQu1VsRvczVXJd36KeLOMf7ck+PYbtRqsQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ilhq2l9ij73kmex1ckxicitz8jlverr0?d=identicon",
+        "country": "WO",
+        "ethereum_address": "0x642264635c90FFB4b5F644411028E821D7a6208B",
+        "id": "fe62c2468ee5e674cdef046ce20c8f470a559db9a3a115e4a5ce33b40f19aab9",
+        "info_url": "https://en.wikipedia.org/wiki/SS_Kaiser_Wilhelm_der_Grosse",
+        "name": "adventurous-lake",
+        "tm_pub_key": "vIrty2YgnJQu1VsRvczVXJd36KeLOMf7ck+PYbtRqsQ=",
+        "vega_pub_key": "f9af628e4175e47dac2afeab66c4358fb6b5dff7186885b0e1f81c86e59e9f5d",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202306192041",
+  "chain_id": "vega-devnet1-202306200944",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-19T20:41:59.529081686Z",
+  "genesis_time": "2023-06-20T09:44:47.758181921Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "E53006719ECE2A4AFCA3D6B7DCF42122804C84E0",
-      "name": "confused-roof",
+      "address": "8E987A910E59BA1ADD2010036FD2514B6C4FC9BE",
+      "name": "adventurous-lake",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ZtQ9Mxa/uHd3VoGRFkuiMNRFUdeK0F9K6D9dCkgvevg="
+        "value": "vIrty2YgnJQu1VsRvczVXJd36KeLOMf7ck+PYbtRqsQ="
       }
     }
   ]
