@@ -302,17 +302,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "ZvH9HjsBkXLBXJUuD6hwaKN6LGvsfeui6SE2sklVfDg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ebvl2oazfd8izgzj6msn0tf62ktcyz4h?d=identicon",
-        "country": "YO",
-        "ethereum_address": "0x0edEB97979f4ec918fFA65156373267559cD1E6B",
-        "id": "73bb8b496b37686a3da7bad7dabc8adf6121102b180e29ca632e70c777583bb5",
-        "info_url": "https://en.wikipedia.org/wiki/Dwarakish",
-        "name": "healthy-pencil",
-        "tm_pub_key": "ZvH9HjsBkXLBXJUuD6hwaKN6LGvsfeui6SE2sklVfDg=",
-        "vega_pub_key": "aacbd8c127b7a7f507cc056b8761fc2380a9a69abb4c5bb8327de3d31e0945e3",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "vgTGjFuwwFwQ1l1Rj1eUsmzaGD4g7m2K1BhDgBX3m0o=": {
+        "avatar_url": "https://www.gravatar.com/avatar/h8rlyqtuusgrk8dg2a1j0bgyo930qqyv?d=identicon",
+        "country": "ND",
+        "ethereum_address": "0x17026bcFC37Df87177740a56D8896166e8C0637F",
+        "id": "e1a3a301cc352254ecfd85db37315a983ee678f24d6c29f7943d6af7ab5c2158",
+        "info_url": "https://en.wikipedia.org/wiki/Khan_Dowran_VII",
+        "name": "helpful-flowers",
+        "tm_pub_key": "vgTGjFuwwFwQ1l1Rj1eUsmzaGD4g7m2K1BhDgBX3m0o=",
+        "vega_pub_key": "13fe6f435c1fafd7c53b0bef617f038016594aa083d36813f4eb596392c8062a",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202306201224",
+  "chain_id": "vega-devnet1-202306201349",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-20T12:24:44.017518124Z",
+  "genesis_time": "2023-06-20T13:49:24.001992804Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "5AF37859F6164DFF22607D128A6B949DCBBC2AA3",
-      "name": "healthy-pencil",
+      "address": "2C7C34A8799C7B9FEBC49DD98376032380A442A3",
+      "name": "helpful-flowers",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ZvH9HjsBkXLBXJUuD6hwaKN6LGvsfeui6SE2sklVfDg="
+        "value": "vgTGjFuwwFwQ1l1Rj1eUsmzaGD4g7m2K1BhDgBX3m0o="
       }
     }
   ]
