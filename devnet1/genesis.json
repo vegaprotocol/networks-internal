@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "QQcXjBHRitYRntiEbtq2Y9/Sb9OlTW2HLGgb2rsSLb8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/s0dlt7d6ctpkhfzsdbyamq7ptk2awlr1?d=identicon",
-        "country": "YF",
-        "ethereum_address": "0x0F3896821BCda697f91b1979f15b67075b6E0C4F",
-        "id": "e83715d2631029a9055d3b65ab46552f69153baee0c4a66ac73bf95f517fdeea",
-        "info_url": "https://en.wikipedia.org/wiki/Nina_H%C3%B8iberg",
-        "name": "thundering-brother",
-        "tm_pub_key": "QQcXjBHRitYRntiEbtq2Y9/Sb9OlTW2HLGgb2rsSLb8=",
-        "vega_pub_key": "6d8ccc6bd5c1229ba0862c2fc31acadac816ae68131519849992bd59c7c79087",
+      "o4ft9stZKXJd7fTaNALohHM26GrwiaWRGt7/hPCF0nY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/5t6gs8tyux12z3l1beu87qk8yb5bz0ra?d=identicon",
+        "country": "LC",
+        "ethereum_address": "0x93e4337458De85c0b4a1F3AC67F11778C7632180",
+        "id": "7d3a835a716a52691e522e8a40d1cc921de6efa98853a3d51420c8ab41d6bde5",
+        "info_url": "https://en.wikipedia.org/wiki/David_Wang_(hacker)",
+        "name": "frantic-shoe",
+        "tm_pub_key": "o4ft9stZKXJd7fTaNALohHM26GrwiaWRGt7/hPCF0nY=",
+        "vega_pub_key": "72569d7c574391297734b3a9bb5b8a08bf1332de89c100be34a5405dfb125f83",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306201737",
+  "chain_id": "vega-devnet1-202306201756",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-20T17:37:22.546932817Z",
+  "genesis_time": "2023-06-20T17:56:47.542095178Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "A130B6F709A2E7851AE5784E5B8D1FFB7F03795C",
-      "name": "thundering-brother",
+      "address": "3C906D4506A431C31D219AAC55103F5E7CCD340A",
+      "name": "frantic-shoe",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "QQcXjBHRitYRntiEbtq2Y9/Sb9OlTW2HLGgb2rsSLb8="
+        "value": "o4ft9stZKXJd7fTaNALohHM26GrwiaWRGt7/hPCF0nY="
       }
     }
   ]
