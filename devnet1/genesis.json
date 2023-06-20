@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "o4ft9stZKXJd7fTaNALohHM26GrwiaWRGt7/hPCF0nY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/5t6gs8tyux12z3l1beu87qk8yb5bz0ra?d=identicon",
-        "country": "LC",
-        "ethereum_address": "0x93e4337458De85c0b4a1F3AC67F11778C7632180",
-        "id": "7d3a835a716a52691e522e8a40d1cc921de6efa98853a3d51420c8ab41d6bde5",
-        "info_url": "https://en.wikipedia.org/wiki/David_Wang_(hacker)",
-        "name": "frantic-shoe",
-        "tm_pub_key": "o4ft9stZKXJd7fTaNALohHM26GrwiaWRGt7/hPCF0nY=",
-        "vega_pub_key": "72569d7c574391297734b3a9bb5b8a08bf1332de89c100be34a5405dfb125f83",
+      "Yjz+GT5YtU7SO2hCU1lXZY47lTMJuSklXw2w/pHtKNE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/smnx63rjgu7u3zwppf1f2rehwo5j49x7?d=identicon",
+        "country": "IF",
+        "ethereum_address": "0xAB0428E9dB91E840E4D2a41717D650b487663C55",
+        "id": "7f52aa949c0a3d1daea899f2457713ff7bf8e03d20ad734db70c8f4f982fac1f",
+        "info_url": "https://en.wikipedia.org/wiki/Communaut%C3%A9_de_communes_de_la_Champagne_balgycienne",
+        "name": "ideal-train",
+        "tm_pub_key": "Yjz+GT5YtU7SO2hCU1lXZY47lTMJuSklXw2w/pHtKNE=",
+        "vega_pub_key": "5910856652bea002daba352f1932c6aaaa52d689c7829820500176612098fc04",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306201756",
+  "chain_id": "vega-devnet1-202306201908",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-20T17:56:47.542095178Z",
+  "genesis_time": "2023-06-20T19:08:26.708331415Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "3C906D4506A431C31D219AAC55103F5E7CCD340A",
-      "name": "frantic-shoe",
+      "address": "2D6F7D5B50A260E142AB0BE97DFE07C789BEC40F",
+      "name": "ideal-train",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "o4ft9stZKXJd7fTaNALohHM26GrwiaWRGt7/hPCF0nY="
+        "value": "Yjz+GT5YtU7SO2hCU1lXZY47lTMJuSklXw2w/pHtKNE="
       }
     }
   ]
