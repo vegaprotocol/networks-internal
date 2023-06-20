@@ -302,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "ZvH9HjsBkXLBXJUuD6hwaKN6LGvsfeui6SE2sklVfDg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ebvl2oazfd8izgzj6msn0tf62ktcyz4h?d=identicon",
+        "country": "YO",
+        "ethereum_address": "0x0edEB97979f4ec918fFA65156373267559cD1E6B",
+        "id": "73bb8b496b37686a3da7bad7dabc8adf6121102b180e29ca632e70c777583bb5",
+        "info_url": "https://en.wikipedia.org/wiki/Dwarakish",
+        "name": "healthy-pencil",
+        "tm_pub_key": "ZvH9HjsBkXLBXJUuD6hwaKN6LGvsfeui6SE2sklVfDg=",
+        "vega_pub_key": "aacbd8c127b7a7f507cc056b8761fc2380a9a69abb4c5bb8327de3d31e0945e3",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "vIrty2YgnJQu1VsRvczVXJd36KeLOMf7ck+PYbtRqsQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ilhq2l9ij73kmex1ckxicitz8jlverr0?d=identicon",
-        "country": "WO",
-        "ethereum_address": "0x642264635c90FFB4b5F644411028E821D7a6208B",
-        "id": "fe62c2468ee5e674cdef046ce20c8f470a559db9a3a115e4a5ce33b40f19aab9",
-        "info_url": "https://en.wikipedia.org/wiki/SS_Kaiser_Wilhelm_der_Grosse",
-        "name": "adventurous-lake",
-        "tm_pub_key": "vIrty2YgnJQu1VsRvczVXJd36KeLOMf7ck+PYbtRqsQ=",
-        "vega_pub_key": "f9af628e4175e47dac2afeab66c4358fb6b5dff7186885b0e1f81c86e59e9f5d",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202306200944",
+  "chain_id": "vega-devnet1-202306201224",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-20T09:44:47.758181921Z",
+  "genesis_time": "2023-06-20T12:24:44.017518124Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "8E987A910E59BA1ADD2010036FD2514B6C4FC9BE",
-      "name": "adventurous-lake",
+      "address": "5AF37859F6164DFF22607D128A6B949DCBBC2AA3",
+      "name": "healthy-pencil",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "vIrty2YgnJQu1VsRvczVXJd36KeLOMf7ck+PYbtRqsQ="
+        "value": "ZvH9HjsBkXLBXJUuD6hwaKN6LGvsfeui6SE2sklVfDg="
       }
     }
   ]
