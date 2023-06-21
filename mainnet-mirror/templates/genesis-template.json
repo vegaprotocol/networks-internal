@@ -33,7 +33,7 @@
         "quantum": "1000000000000000000",
         "source": {
           "erc20": {
-            "contract_address": "0x82BbEde96bbB03FB61E7f5F66eA1C9a4328Adc8e"
+            "contract_address": "0x9f1B4dce1B8E0a348B73fE0354D34E35EBB3516E"
           }
         }
       }
