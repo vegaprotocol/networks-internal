@@ -189,7 +189,7 @@
       "propose_market_enabled": true
     },
     "network_parameters": {
-      "blockchains.ethereumConfig": "{ \"network_id\": \"11155111\", \"chain_id\": \"11155111\", \"confirmations\": 3, \"collateral_bridge_contract\": { \"address\": \"0xb12B6822c095B9814D8CaaD01b60C145858b9f28\" }, \"staking_bridge_contract\": { \"address\": \"0x346B01FaFe109ea76EDc25212B802be2d1BECaF8\", \"deployment_block_height\": 3322272 }, \"token_vesting_contract\": { \"address\": \"0x34bcD215a6B5B8308550e4fe60c7Ea8B52Bd3ea5\", \"deployment_block_height\": 3322274 }, \"multisig_control_contract\": { \"address\": \"0xeC8f65824B1CB65F2c94CC5375c1e92E22749D0e\", \"deployment_block_height\": 3322268 } }",
+      "blockchains.ethereumConfig": "{ \"network_id\": \"11155111\", \"chain_id\": \"11155111\", \"confirmations\": 3, \"collateral_bridge_contract\": { \"address\": \"0xeb43b95378cE195B03e760749B4e416f4ff1e187\" }, \"staking_bridge_contract\": { \"address\": \"0x45F37Ebbe79F0629E6FCed2a2a75cad9567dFd3d\", \"deployment_block_height\": 3737999 }, \"token_vesting_contract\": { \"address\": \"0x29574E929eFEdd83cC5637313a44378648044cC4\", \"deployment_block_height\": 3738002 }, \"multisig_control_contract\": { \"address\": \"0x79aC716EBfF5a64dAE5E4993eeB3fA048f46E3cB\", \"deployment_block_height\": 3737993 } }",
       "governance.proposal.asset.maxClose": "8760h0m0s",
       "governance.proposal.asset.maxEnact": "8760h0m0s",
       "governance.proposal.asset.minClose": "5s",
@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "8+PtIxvrDyKLiGK79d6SGy1wwI6Oz1fZPH8ZLaF1mE0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/bxcasvyp5cp0ic6v2evel7vp5k3j9r28?d=identicon",
-        "country": "CT",
-        "ethereum_address": "0x1cEC674eF27ef50183fCc8726638483a77294f64",
-        "id": "ade0f229c9f7b9edf88f192d98577821c3f57f9fee8cbd8822d9149eee142140",
-        "info_url": "https://en.wikipedia.org/wiki/List_of_fraternities_and_sororities_in_Puerto_Rico",
-        "name": "opportune-clouds",
-        "tm_pub_key": "8+PtIxvrDyKLiGK79d6SGy1wwI6Oz1fZPH8ZLaF1mE0=",
-        "vega_pub_key": "99c2ac5a8abf4d7e59a6fba31980a06f7f68d326a4cc4688db3ceab16dcf2cba",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "pOHh4tWF66+/mAS9pSr5jxjLlbznuP1zLi+Wznk7gGI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/t8ez4fr4ewjlwt6e8vmuuwgl2qxznflg?d=identicon",
+        "country": "UN",
+        "ethereum_address": "0xa56479e1647954Eee556Fd36bcb1A92052D1E311",
+        "id": "a7f360dbae77bc805d1e8982a33c8750c1fdafcf6ac438d323be007afb649398",
+        "info_url": "https://en.wikipedia.org/wiki/Camil_Baciu",
+        "name": "immense-pond",
+        "tm_pub_key": "pOHh4tWF66+/mAS9pSr5jxjLlbznuP1zLi+Wznk7gGI=",
+        "vega_pub_key": "c8e4cfae315a56f593248d19d0deb342da3f66b9582ce8658a6d5f73db512ea9",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306211443",
+  "chain_id": "vega-devnet1-202306211455",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-21T14:43:15.156780367Z",
+  "genesis_time": "2023-06-21T14:55:53.109885519Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "ED60B8526A22D4B289EFF293A4550519C316D072",
-      "name": "opportune-clouds",
+      "address": "1F862C492DE12365135C964AA5361CDD39029077",
+      "name": "immense-pond",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "8+PtIxvrDyKLiGK79d6SGy1wwI6Oz1fZPH8ZLaF1mE0="
+        "value": "pOHh4tWF66+/mAS9pSr5jxjLlbznuP1zLi+Wznk7gGI="
       }
     }
   ]
