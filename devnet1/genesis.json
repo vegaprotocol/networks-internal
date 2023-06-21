@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "Yjz+GT5YtU7SO2hCU1lXZY47lTMJuSklXw2w/pHtKNE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/smnx63rjgu7u3zwppf1f2rehwo5j49x7?d=identicon",
-        "country": "IF",
-        "ethereum_address": "0xAB0428E9dB91E840E4D2a41717D650b487663C55",
-        "id": "7f52aa949c0a3d1daea899f2457713ff7bf8e03d20ad734db70c8f4f982fac1f",
-        "info_url": "https://en.wikipedia.org/wiki/Communaut%C3%A9_de_communes_de_la_Champagne_balgycienne",
-        "name": "ideal-train",
-        "tm_pub_key": "Yjz+GT5YtU7SO2hCU1lXZY47lTMJuSklXw2w/pHtKNE=",
-        "vega_pub_key": "5910856652bea002daba352f1932c6aaaa52d689c7829820500176612098fc04",
+      "refCeJ/xwzgeLfRKudXx8igh09DwOlm/Cxi2RodtpJE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/z6z7eqruignjy2d86or0yb4akgv4td4u?d=identicon",
+        "country": "QX",
+        "ethereum_address": "0xf13F6Db0D788F5eb00DCEF539f28D6B3F11BC0fE",
+        "id": "ea02e616434ca4f9d7409a26a8824ee1f24b9c24d9105facc3e3132e0175c9e2",
+        "info_url": "https://en.wikipedia.org/wiki/Cycling_at_the_2018_Asian_Games_%E2%80%93_Women%27s_individual_pursuit",
+        "name": "bored-milk",
+        "tm_pub_key": "refCeJ/xwzgeLfRKudXx8igh09DwOlm/Cxi2RodtpJE=",
+        "vega_pub_key": "1c7705a28f3623bc8e98f110a633cff2862aacb5b8752a4ebb28c0b08613d4f5",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306201908",
+  "chain_id": "vega-devnet1-202306210637",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-20T19:08:26.708331415Z",
+  "genesis_time": "2023-06-21T06:37:24.444663621Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "2D6F7D5B50A260E142AB0BE97DFE07C789BEC40F",
-      "name": "ideal-train",
+      "address": "3E88D0A9BAFBCBBEDBF5097A81B486551BBCD5D5",
+      "name": "bored-milk",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Yjz+GT5YtU7SO2hCU1lXZY47lTMJuSklXw2w/pHtKNE="
+        "value": "refCeJ/xwzgeLfRKudXx8igh09DwOlm/Cxi2RodtpJE="
       }
     }
   ]
