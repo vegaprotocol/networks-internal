@@ -172,7 +172,7 @@
         "quantum": "1",
         "source": {
           "erc20": {
-            "contract_address": "0xa22d840BBB806eC6867535947F4c5baE5b3b8a8e",
+            "contract_address": "0x56d465373cfada277F1760def0888475174f0d7A",
             "lifetime_limit": "",
             "withdraw_threshold": ""
           }
@@ -302,17 +302,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "pOHh4tWF66+/mAS9pSr5jxjLlbznuP1zLi+Wznk7gGI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/t8ez4fr4ewjlwt6e8vmuuwgl2qxznflg?d=identicon",
-        "country": "UN",
-        "ethereum_address": "0xa56479e1647954Eee556Fd36bcb1A92052D1E311",
-        "id": "a7f360dbae77bc805d1e8982a33c8750c1fdafcf6ac438d323be007afb649398",
-        "info_url": "https://en.wikipedia.org/wiki/Camil_Baciu",
-        "name": "immense-pond",
-        "tm_pub_key": "pOHh4tWF66+/mAS9pSr5jxjLlbznuP1zLi+Wznk7gGI=",
-        "vega_pub_key": "c8e4cfae315a56f593248d19d0deb342da3f66b9582ce8658a6d5f73db512ea9",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "xvmWiHECloCFbIqgz+GAFDBgyfSb+DAN4IjPixfMQ8o=": {
+        "avatar_url": "https://www.gravatar.com/avatar/aj6hhojy7qmw1qsu6jjwyp925q14w16b?d=identicon",
+        "country": "UF",
+        "ethereum_address": "0xa4D213d9Dcf09640E225Afd3c4400961a89F1d8d",
+        "id": "5a9bbaf0b44246ef563c38e2712a85d309797444f8870df59984bdf84bc07fc1",
+        "info_url": "https://en.wikipedia.org/wiki/Clare-Louise_Brumley",
+        "name": "thundering-door",
+        "tm_pub_key": "xvmWiHECloCFbIqgz+GAFDBgyfSb+DAN4IjPixfMQ8o=",
+        "vega_pub_key": "2aa7a3badda60713fecfe373180e38c1d719ac47fb10fbd6ccde0adb84ddfd67",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202306211455",
+  "chain_id": "vega-devnet1-202306211555",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-21T14:55:53.109885519Z",
+  "genesis_time": "2023-06-21T15:55:03.176917711Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "1F862C492DE12365135C964AA5361CDD39029077",
-      "name": "immense-pond",
+      "address": "441D94B141BFAAE864BFD469605D263620F551E4",
+      "name": "thundering-door",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "pOHh4tWF66+/mAS9pSr5jxjLlbznuP1zLi+Wznk7gGI="
+        "value": "xvmWiHECloCFbIqgz+GAFDBgyfSb+DAN4IjPixfMQ8o="
       }
     }
   ]
