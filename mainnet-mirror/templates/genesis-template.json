@@ -30,7 +30,7 @@
           "name": "Vega (mainnet-mirror)",
           "symbol": "VEGA",
           "decimals": 18,
-          "quantum": "64999723000000000000000000",
+          "quantum": "1000000000000000000",
           "source": {
             "erc20": {
               "contract_address": "0x82BbEde96bbB03FB61E7f5F66eA1C9a4328Adc8e"

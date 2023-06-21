@@ -4,11 +4,11 @@
 		"version": "v2"
 	},
 	"ERC20Bridge": {
-		"address": "0xF332091caF859094772058105f30F18633C9b1ff",
+		"address": "0x19C8eF5187F1aE6642e6C20233E59b46ae91c0Cb",
 		"version": "v2"
 	},
 	"ERC20AssetPool": {
-		"address": "0x8A91906B69A41fFd4119E4299b7611f546288ffe",
+		"address": "0x0d71372e0973bD2f600949027f5E74306DACdd3c ",
 		"version": "v1"
 	},
 	"StakingBridge": {
