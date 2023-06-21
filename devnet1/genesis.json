@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "refCeJ/xwzgeLfRKudXx8igh09DwOlm/Cxi2RodtpJE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/z6z7eqruignjy2d86or0yb4akgv4td4u?d=identicon",
-        "country": "QX",
-        "ethereum_address": "0xf13F6Db0D788F5eb00DCEF539f28D6B3F11BC0fE",
-        "id": "ea02e616434ca4f9d7409a26a8824ee1f24b9c24d9105facc3e3132e0175c9e2",
-        "info_url": "https://en.wikipedia.org/wiki/Cycling_at_the_2018_Asian_Games_%E2%80%93_Women%27s_individual_pursuit",
-        "name": "bored-milk",
-        "tm_pub_key": "refCeJ/xwzgeLfRKudXx8igh09DwOlm/Cxi2RodtpJE=",
-        "vega_pub_key": "1c7705a28f3623bc8e98f110a633cff2862aacb5b8752a4ebb28c0b08613d4f5",
+      "bdEADOzdrfa0voBv/+iTAsSE/PmUwcEtO71NYEnjJiM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/oq9ijey5w0jnt1ej272yuwifvjy5pqvx?d=identicon",
+        "country": "QE",
+        "ethereum_address": "0x939617C40F77880EA314823aA22169307692d802",
+        "id": "6377b61b148d52685a0755be9502e923f6ea02ad865add335a6ef57bb53fd035",
+        "info_url": "https://en.wikipedia.org/wiki/Pye_Corner_Audio",
+        "name": "hallowed-mango",
+        "tm_pub_key": "bdEADOzdrfa0voBv/+iTAsSE/PmUwcEtO71NYEnjJiM=",
+        "vega_pub_key": "1ae2ba35c536e034f8d9a73a65b3a820104478762080874964f1e7263d244c28",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306210637",
+  "chain_id": "vega-devnet1-202306210843",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-21T06:37:24.444663621Z",
+  "genesis_time": "2023-06-21T08:43:56.527894693Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "3E88D0A9BAFBCBBEDBF5097A81B486551BBCD5D5",
-      "name": "bored-milk",
+      "address": "9296EECA2B62190C4129EE99E15E9072499E7A19",
+      "name": "hallowed-mango",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "refCeJ/xwzgeLfRKudXx8igh09DwOlm/Cxi2RodtpJE="
+        "value": "bdEADOzdrfa0voBv/+iTAsSE/PmUwcEtO71NYEnjJiM="
       }
     }
   ]
