@@ -168,7 +168,7 @@
       },
       "fc7fd956078fb1fc9db5c19b88f0874c4299b2a7639ad05a47a28c0aef291b55": {
         "decimals": 18,
-        "name": "Vega (Devnet 1)",
+        "name": "Vega (devnet1)",
         "quantum": "1",
         "source": {
           "erc20": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306211555",
+  "chain_id": "vega-devnet1-202306211605",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-21T15:55:03.176917711Z",
+  "genesis_time": "2023-06-21T16:05:09.937882245Z",
   "initial_height": "0",
   "validators": [
     {
