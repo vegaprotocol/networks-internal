@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "8+PtIxvrDyKLiGK79d6SGy1wwI6Oz1fZPH8ZLaF1mE0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/bxcasvyp5cp0ic6v2evel7vp5k3j9r28?d=identicon",
+        "country": "CT",
+        "ethereum_address": "0x1cEC674eF27ef50183fCc8726638483a77294f64",
+        "id": "ade0f229c9f7b9edf88f192d98577821c3f57f9fee8cbd8822d9149eee142140",
+        "info_url": "https://en.wikipedia.org/wiki/List_of_fraternities_and_sororities_in_Puerto_Rico",
+        "name": "opportune-clouds",
+        "tm_pub_key": "8+PtIxvrDyKLiGK79d6SGy1wwI6Oz1fZPH8ZLaF1mE0=",
+        "vega_pub_key": "99c2ac5a8abf4d7e59a6fba31980a06f7f68d326a4cc4688db3ceab16dcf2cba",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "ZhgGsKqFWnc9stbxGaVxPv0TTqVLxjtwJvkBnVAvvx0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/tq6pt1sswxq2s8jwjripinkvlldxvgwo?d=identicon",
-        "country": "BC",
-        "ethereum_address": "0x7d54445f8fF3D147C4a464Ea52D7B915469C6d8c",
-        "id": "15a4a5547688023d09a5502202449c3741e27b391a0a69097b497a888984e5e9",
-        "info_url": "https://en.wikipedia.org/wiki/Justin_Kirkland",
-        "name": "harsh-town",
-        "tm_pub_key": "ZhgGsKqFWnc9stbxGaVxPv0TTqVLxjtwJvkBnVAvvx0=",
-        "vega_pub_key": "cda4ab17aa969e5abab121c6437bd1e96d76a505ce52ba2cfa820305612034df",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306211056",
+  "chain_id": "vega-devnet1-202306211443",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-21T10:56:07.0558263Z",
+  "genesis_time": "2023-06-21T14:43:15.156780367Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "22E0959102C8879F234F6FEFC1AD7640ED509A00",
-      "name": "harsh-town",
+      "address": "ED60B8526A22D4B289EFF293A4550519C316D072",
+      "name": "opportune-clouds",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ZhgGsKqFWnc9stbxGaVxPv0TTqVLxjtwJvkBnVAvvx0="
+        "value": "8+PtIxvrDyKLiGK79d6SGy1wwI6Oz1fZPH8ZLaF1mE0="
       }
     }
   ]
