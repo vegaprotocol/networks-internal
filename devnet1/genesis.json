@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "bdEADOzdrfa0voBv/+iTAsSE/PmUwcEtO71NYEnjJiM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/oq9ijey5w0jnt1ej272yuwifvjy5pqvx?d=identicon",
-        "country": "QE",
-        "ethereum_address": "0x939617C40F77880EA314823aA22169307692d802",
-        "id": "6377b61b148d52685a0755be9502e923f6ea02ad865add335a6ef57bb53fd035",
-        "info_url": "https://en.wikipedia.org/wiki/Pye_Corner_Audio",
-        "name": "hallowed-mango",
-        "tm_pub_key": "bdEADOzdrfa0voBv/+iTAsSE/PmUwcEtO71NYEnjJiM=",
-        "vega_pub_key": "1ae2ba35c536e034f8d9a73a65b3a820104478762080874964f1e7263d244c28",
+      "ZhgGsKqFWnc9stbxGaVxPv0TTqVLxjtwJvkBnVAvvx0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/tq6pt1sswxq2s8jwjripinkvlldxvgwo?d=identicon",
+        "country": "BC",
+        "ethereum_address": "0x7d54445f8fF3D147C4a464Ea52D7B915469C6d8c",
+        "id": "15a4a5547688023d09a5502202449c3741e27b391a0a69097b497a888984e5e9",
+        "info_url": "https://en.wikipedia.org/wiki/Justin_Kirkland",
+        "name": "harsh-town",
+        "tm_pub_key": "ZhgGsKqFWnc9stbxGaVxPv0TTqVLxjtwJvkBnVAvvx0=",
+        "vega_pub_key": "cda4ab17aa969e5abab121c6437bd1e96d76a505ce52ba2cfa820305612034df",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306210843",
+  "chain_id": "vega-devnet1-202306211056",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-21T08:43:56.527894693Z",
+  "genesis_time": "2023-06-21T10:56:07.0558263Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "9296EECA2B62190C4129EE99E15E9072499E7A19",
-      "name": "hallowed-mango",
+      "address": "22E0959102C8879F234F6FEFC1AD7640ED509A00",
+      "name": "harsh-town",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "bdEADOzdrfa0voBv/+iTAsSE/PmUwcEtO71NYEnjJiM="
+        "value": "ZhgGsKqFWnc9stbxGaVxPv0TTqVLxjtwJvkBnVAvvx0="
       }
     }
   ]
