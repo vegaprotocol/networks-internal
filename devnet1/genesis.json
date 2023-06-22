@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "jZ+0PVIPduawXqSGUqcOagXBPVhudK36AwmVAp3m71Y=": {
-        "avatar_url": "https://www.gravatar.com/avatar/bdn7j9hduwuh27r7tzgnqbzfcdasomto?d=identicon",
-        "country": "SE",
-        "ethereum_address": "0x755A660DD94Bb3BeFf95EC3766e2B23d9525dd88",
-        "id": "ba7d9f80ad23ce4f3ef63e9d2dbc219b02a7fea3499dd048ede47f047ef89cb5",
-        "info_url": "https://en.wikipedia.org/wiki/Forth_Dimension_Displays",
-        "name": "narrow-park",
-        "tm_pub_key": "jZ+0PVIPduawXqSGUqcOagXBPVhudK36AwmVAp3m71Y=",
-        "vega_pub_key": "53372c0271080c25916f22ed79b8e89f2dcf2da7f2fbcd4f2add8fdce4a55a9e",
+      "iLkOnseBnC8DKG0s/G+AJ+4QLRzG8Cg745kZkYu5nAc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/9m0kdd4592fb5ueufeklrqwq2r0tfsm2?d=identicon",
+        "country": "QH",
+        "ethereum_address": "0x88E5803809D3d2f3650Fae37ef9B141e297Fa17b",
+        "id": "865e26b3815c3bc9260a2d00401a8f01d6fd482914dbdf950cffa619e975a83a",
+        "info_url": "https://en.wikipedia.org/wiki/Enver_Koso",
+        "name": "clean-cloud",
+        "tm_pub_key": "iLkOnseBnC8DKG0s/G+AJ+4QLRzG8Cg745kZkYu5nAc=",
+        "vega_pub_key": "6799eaf53791033389b379f42c54b6a5bc9dcf417aa39b8eb5207ee25af4afa8",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306221710",
+  "chain_id": "vega-devnet1-202306221902",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-22T17:10:14.163339269Z",
+  "genesis_time": "2023-06-22T19:02:13.135479875Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "9F919125BF306581CB8F1AE33F9DCD6B89451015",
-      "name": "narrow-park",
+      "address": "8B1A67BFA6EAD74E238DDCE86EBA07D9D6E1D938",
+      "name": "clean-cloud",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "jZ+0PVIPduawXqSGUqcOagXBPVhudK36AwmVAp3m71Y="
+        "value": "iLkOnseBnC8DKG0s/G+AJ+4QLRzG8Cg745kZkYu5nAc="
       }
     }
   ]
