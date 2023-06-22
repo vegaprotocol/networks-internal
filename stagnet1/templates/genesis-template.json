@@ -193,7 +193,7 @@
                 "quantum": "1",
                 "source": {
                     "erc20": {
-                        "contract_address": "0x8A3fD2d22A3957e495624D3Fc36A705b0935729e",
+                        "contract_address": "0x62720E92FB7d77699A5D3754c429a3116900a84b",
                         "lifetime_limit": "",
                         "withdraw_threshold": ""
                     }
@@ -210,7 +210,7 @@
             "propose_market_enabled": true
         },
         "network_parameters": {
-            "blockchains.ethereumConfig": "{ \"network_id\": \"11155111\", \"chain_id\": \"11155111\", \"confirmations\": 3, \"collateral_bridge_contract\": { \"address\": \"0x8b1d701979d5A78414Ca3189b932f1440b17D705\" }, \"staking_bridge_contract\": { \"address\": \"0xeB17968d04281748dE3D0347030aa1a3185a4737\", \"deployment_block_height\": 1928804 }, \"token_vesting_contract\": { \"address\": \"0x1daC584B28216A33642B7D9f3A29f6E497E241a1\", \"deployment_block_height\": 1928807 }, \"multisig_control_contract\": { \"address\": \"0x265f1Ad30aaBc12bF7DA302db3203Bb1ADE1f223\", \"deployment_block_height\": 1928783 } }",
+            "blockchains.ethereumConfig": "{ \"network_id\": \"11155111\", \"chain_id\": \"11155111\", \"confirmations\": 3, \"collateral_bridge_contract\": { \"address\": \"0x3152207Cb8B251AdF88628554a1422AA2b734F61\" }, \"staking_bridge_contract\": { \"address\": \"0xDed961d0df9c8672679F4d589Fa4f5aA66c0f01b\", \"deployment_block_height\": 3743645 }, \"token_vesting_contract\": { \"address\": \"0xB8F31474d1425eaF90b3fE47408E385f0780cA55\", \"deployment_block_height\": 3743647 }, \"multisig_control_contract\": { \"address\": \"0x34d432796149aBe57eE06981AA201a8993A6A4C6\", \"deployment_block_height\": 3743641 } }",
             "governance.proposal.asset.maxClose": "8760h0m0s",
             "governance.proposal.asset.maxEnact": "8760h0m0s",
             "governance.proposal.asset.minClose": "5s",
