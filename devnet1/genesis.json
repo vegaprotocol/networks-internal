@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "tVeL8pzcs8gQKOTdvZdqVUncJljNYgxwp7HWr6WmAgw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/uqbere3senqnnkhwlt2a2uvcln41rjda?d=identicon",
-        "country": "XI",
-        "ethereum_address": "0xE75F5D9db1da94b3aEF66a5c36810A26E371e0eF",
-        "id": "b34ba506cdaf8e9e0d80114b5b0722da7d6828a974f0baf8bcc03a46bacf6b7e",
-        "info_url": "https://en.wikipedia.org/wiki/SUV39H1",
-        "name": "orange-shirt",
-        "tm_pub_key": "tVeL8pzcs8gQKOTdvZdqVUncJljNYgxwp7HWr6WmAgw=",
-        "vega_pub_key": "11bc2cbb1b01716651634bb9ab90e58aca94b029ab7307d168c29afef4c07c2a",
+      "b0o/jdsj1S4DSSwszEKR/A3XoHK3apajWnRFUyyXn5Q=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ccvjeuydf14ostm9lr5cm5gpimioqqw5?d=identicon",
+        "country": "EW",
+        "ethereum_address": "0xF4948b246e37b3bf7183fFaf187C951390301D87",
+        "id": "dac1c3e3ec800e9f2b038b666b9e7bdedd4025967a20d429155efeffccf046c5",
+        "info_url": "https://en.wikipedia.org/wiki/Qaabr%C3%AEne",
+        "name": "ashy-policeman",
+        "tm_pub_key": "b0o/jdsj1S4DSSwszEKR/A3XoHK3apajWnRFUyyXn5Q=",
+        "vega_pub_key": "0173eab9879195c4170159680f8461b50944b8605897b48f319df2bfed848c05",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306221030",
+  "chain_id": "vega-devnet1-202306221244",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-22T10:30:11.702069745Z",
+  "genesis_time": "2023-06-22T12:44:56.021379723Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "A2638992D2E64F3EBE8A4D080712A98A755438F6",
-      "name": "orange-shirt",
+      "address": "7746707AF609223A32C8F1D089FDB67D71B7090E",
+      "name": "ashy-policeman",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "tVeL8pzcs8gQKOTdvZdqVUncJljNYgxwp7HWr6WmAgw="
+        "value": "b0o/jdsj1S4DSSwszEKR/A3XoHK3apajWnRFUyyXn5Q="
       }
     }
   ]
