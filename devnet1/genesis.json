@@ -302,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "lbjI/tE91UDeoISUD05DrZOihCqvfa+FYgkBCrIM26A=": {
+        "avatar_url": "https://www.gravatar.com/avatar/1ygw5c8t72ev5sju81ztxkt9d37ltvf0?d=identicon",
+        "country": "WI",
+        "ethereum_address": "0xAB53169C87d11f7A92c364f59a7b1d9981950361",
+        "id": "4db6bfbb2ad5ad7521042722a0c86b42a00ce239cc76ec31ed1b02a3649d9c02",
+        "info_url": "https://en.wikipedia.org/wiki/Hru%C5%A1ov,_Ve%C4%BEk%C3%BD_Krt%C3%AD%C5%A1_District",
+        "name": "determined-river",
+        "tm_pub_key": "lbjI/tE91UDeoISUD05DrZOihCqvfa+FYgkBCrIM26A=",
+        "vega_pub_key": "cf1caa37bb5796c195d80fd50b0f6760291c7ebd63e21785bcc6e918417b47d4",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "wB7tTDbRYirMl4bG4O8YpHDtxAcoSnyOstMENa7Ofi0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ndg9fby54rhfpt6b2rxya96nhmxiget5?d=identicon",
-        "country": "DY",
-        "ethereum_address": "0xC430Ec1Af839c5790F1424427Dc7eaA8F8854B88",
-        "id": "fafaf1268c2754b7f1965b7373441eaf531482ee29be23a3366bb5621ecf7559",
-        "info_url": "https://en.wikipedia.org/wiki/Br%C3%A9villy",
-        "name": "narrow-hat",
-        "tm_pub_key": "wB7tTDbRYirMl4bG4O8YpHDtxAcoSnyOstMENa7Ofi0=",
-        "vega_pub_key": "f429fdcc2f83cfa5442b3a989154ba3c9f5b340987c29fd45ce8db86de327cd6",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202306211945",
+  "chain_id": "vega-devnet1-202306220612",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-21T19:45:30.28804892Z",
+  "genesis_time": "2023-06-22T06:12:33.469126368Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "D36E42BBB9403FD025278FFA36D62E17EF430665",
-      "name": "narrow-hat",
+      "address": "300338C8EE2422D18913721D65881B8208842E72",
+      "name": "determined-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "wB7tTDbRYirMl4bG4O8YpHDtxAcoSnyOstMENa7Ofi0="
+        "value": "lbjI/tE91UDeoISUD05DrZOihCqvfa+FYgkBCrIM26A="
       }
     }
   ]
