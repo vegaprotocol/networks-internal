@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "lbjI/tE91UDeoISUD05DrZOihCqvfa+FYgkBCrIM26A=": {
-        "avatar_url": "https://www.gravatar.com/avatar/1ygw5c8t72ev5sju81ztxkt9d37ltvf0?d=identicon",
-        "country": "WI",
-        "ethereum_address": "0xAB53169C87d11f7A92c364f59a7b1d9981950361",
-        "id": "4db6bfbb2ad5ad7521042722a0c86b42a00ce239cc76ec31ed1b02a3649d9c02",
-        "info_url": "https://en.wikipedia.org/wiki/Hru%C5%A1ov,_Ve%C4%BEk%C3%BD_Krt%C3%AD%C5%A1_District",
-        "name": "determined-river",
-        "tm_pub_key": "lbjI/tE91UDeoISUD05DrZOihCqvfa+FYgkBCrIM26A=",
-        "vega_pub_key": "cf1caa37bb5796c195d80fd50b0f6760291c7ebd63e21785bcc6e918417b47d4",
+      "tVeL8pzcs8gQKOTdvZdqVUncJljNYgxwp7HWr6WmAgw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/uqbere3senqnnkhwlt2a2uvcln41rjda?d=identicon",
+        "country": "XI",
+        "ethereum_address": "0xE75F5D9db1da94b3aEF66a5c36810A26E371e0eF",
+        "id": "b34ba506cdaf8e9e0d80114b5b0722da7d6828a974f0baf8bcc03a46bacf6b7e",
+        "info_url": "https://en.wikipedia.org/wiki/SUV39H1",
+        "name": "orange-shirt",
+        "tm_pub_key": "tVeL8pzcs8gQKOTdvZdqVUncJljNYgxwp7HWr6WmAgw=",
+        "vega_pub_key": "11bc2cbb1b01716651634bb9ab90e58aca94b029ab7307d168c29afef4c07c2a",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306220612",
+  "chain_id": "vega-devnet1-202306221030",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-22T06:12:33.469126368Z",
+  "genesis_time": "2023-06-22T10:30:11.702069745Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "300338C8EE2422D18913721D65881B8208842E72",
-      "name": "determined-river",
+      "address": "A2638992D2E64F3EBE8A4D080712A98A755438F6",
+      "name": "orange-shirt",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "lbjI/tE91UDeoISUD05DrZOihCqvfa+FYgkBCrIM26A="
+        "value": "tVeL8pzcs8gQKOTdvZdqVUncJljNYgxwp7HWr6WmAgw="
       }
     }
   ]
