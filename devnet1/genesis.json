@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "b0o/jdsj1S4DSSwszEKR/A3XoHK3apajWnRFUyyXn5Q=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ccvjeuydf14ostm9lr5cm5gpimioqqw5?d=identicon",
-        "country": "EW",
-        "ethereum_address": "0xF4948b246e37b3bf7183fFaf187C951390301D87",
-        "id": "dac1c3e3ec800e9f2b038b666b9e7bdedd4025967a20d429155efeffccf046c5",
-        "info_url": "https://en.wikipedia.org/wiki/Qaabr%C3%AEne",
-        "name": "ashy-policeman",
-        "tm_pub_key": "b0o/jdsj1S4DSSwszEKR/A3XoHK3apajWnRFUyyXn5Q=",
-        "vega_pub_key": "0173eab9879195c4170159680f8461b50944b8605897b48f319df2bfed848c05",
+      "jZ+0PVIPduawXqSGUqcOagXBPVhudK36AwmVAp3m71Y=": {
+        "avatar_url": "https://www.gravatar.com/avatar/bdn7j9hduwuh27r7tzgnqbzfcdasomto?d=identicon",
+        "country": "SE",
+        "ethereum_address": "0x755A660DD94Bb3BeFf95EC3766e2B23d9525dd88",
+        "id": "ba7d9f80ad23ce4f3ef63e9d2dbc219b02a7fea3499dd048ede47f047ef89cb5",
+        "info_url": "https://en.wikipedia.org/wiki/Forth_Dimension_Displays",
+        "name": "narrow-park",
+        "tm_pub_key": "jZ+0PVIPduawXqSGUqcOagXBPVhudK36AwmVAp3m71Y=",
+        "vega_pub_key": "53372c0271080c25916f22ed79b8e89f2dcf2da7f2fbcd4f2add8fdce4a55a9e",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306221244",
+  "chain_id": "vega-devnet1-202306221710",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-22T12:44:56.021379723Z",
+  "genesis_time": "2023-06-22T17:10:14.163339269Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "7746707AF609223A32C8F1D089FDB67D71B7090E",
-      "name": "ashy-policeman",
+      "address": "9F919125BF306581CB8F1AE33F9DCD6B89451015",
+      "name": "narrow-park",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "b0o/jdsj1S4DSSwszEKR/A3XoHK3apajWnRFUyyXn5Q="
+        "value": "jZ+0PVIPduawXqSGUqcOagXBPVhudK36AwmVAp3m71Y="
       }
     }
   ]
