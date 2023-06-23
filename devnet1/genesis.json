@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "3XvH+IQ+7dck99IFyOP/YKSvA8sCf1PR6yDjc0fc+UY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/hsnfjmiyf5mkmfrj3knqim3ojjv6gm0y?d=identicon",
-        "country": "JH",
-        "ethereum_address": "0x9a6F9ADEcBAd756Ddd8D292BB4301f4Be5144539",
-        "id": "94be1a90e8834c04f98c4e948d2a3f4bf177087e0cb10ca13d31531e7c81729d",
-        "info_url": "https://en.wikipedia.org/wiki/Todd_Fink",
-        "name": "unsightly-movie",
-        "tm_pub_key": "3XvH+IQ+7dck99IFyOP/YKSvA8sCf1PR6yDjc0fc+UY=",
-        "vega_pub_key": "46d66f179d38cb66da12bed8f8bad68f67e0ac954b5a578a925ca87484f91422",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "Ns0U1yZR/pSXAzOmD98Z1v6czvULoX3Ke74r9nfCykU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/phnmb0u6x4d5pnzuhttorqb7es3s20xw?d=identicon",
+        "country": "UO",
+        "ethereum_address": "0x68f018215f03d43d68B734AF8763d2e3Ad74531E",
+        "id": "68ccffe2caf12fcba58cc59d15d41b2447d606d18702e528cfcf236f723b453c",
+        "info_url": "https://en.wikipedia.org/wiki/Vladislavs_Solovei%C4%8Diks",
+        "name": "excited-butterfly",
+        "tm_pub_key": "Ns0U1yZR/pSXAzOmD98Z1v6czvULoX3Ke74r9nfCykU=",
+        "vega_pub_key": "2d6d621fb3e3ba70651d78d25b90d11d336dbea461112c16db6d4ea3f00c80a8",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306231244",
+  "chain_id": "vega-devnet1-202306231347",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-23T12:44:06.518246776Z",
+  "genesis_time": "2023-06-23T13:47:31.413404614Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "8FEA5E829A10A33189771223A7057A54B1D33D4E",
-      "name": "unsightly-movie",
+      "address": "5F0B0EF2C437C480F9809217FB3A04251FEA90FE",
+      "name": "excited-butterfly",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "3XvH+IQ+7dck99IFyOP/YKSvA8sCf1PR6yDjc0fc+UY="
+        "value": "Ns0U1yZR/pSXAzOmD98Z1v6czvULoX3Ke74r9nfCykU="
       }
     }
   ]
