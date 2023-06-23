@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "3XvH+IQ+7dck99IFyOP/YKSvA8sCf1PR6yDjc0fc+UY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/hsnfjmiyf5mkmfrj3knqim3ojjv6gm0y?d=identicon",
+        "country": "JH",
+        "ethereum_address": "0x9a6F9ADEcBAd756Ddd8D292BB4301f4Be5144539",
+        "id": "94be1a90e8834c04f98c4e948d2a3f4bf177087e0cb10ca13d31531e7c81729d",
+        "info_url": "https://en.wikipedia.org/wiki/Todd_Fink",
+        "name": "unsightly-movie",
+        "tm_pub_key": "3XvH+IQ+7dck99IFyOP/YKSvA8sCf1PR6yDjc0fc+UY=",
+        "vega_pub_key": "46d66f179d38cb66da12bed8f8bad68f67e0ac954b5a578a925ca87484f91422",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "TUcbPSYd4oHYfQCOEV7CWgLZM1w//4KKMBL3BZ2C/7w=": {
-        "avatar_url": "https://www.gravatar.com/avatar/fxkui9dryn0o9oo27ylwkp9capc9a8rn?d=identicon",
-        "country": "CQ",
-        "ethereum_address": "0x36c8c69B4109506e3D0790ccC23250E8d74eD2FE",
-        "id": "04ee737e9ae1e32da0ad977faedb156a9a7776275d317971c98c48b082148f9e",
-        "info_url": "https://en.wikipedia.org/wiki/Novo_Virje",
-        "name": "ugly-pizza",
-        "tm_pub_key": "TUcbPSYd4oHYfQCOEV7CWgLZM1w//4KKMBL3BZ2C/7w=",
-        "vega_pub_key": "dc2fd58ef4c3ec14a405b38e4d9dd0b68335f7e69b703eda2dea0330a1af030b",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306230628",
+  "chain_id": "vega-devnet1-202306231244",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-23T06:28:22.838009477Z",
+  "genesis_time": "2023-06-23T12:44:06.518246776Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "BFC23F1F97B4D2F631533A4FA41BCE78DD1D122F",
-      "name": "ugly-pizza",
+      "address": "8FEA5E829A10A33189771223A7057A54B1D33D4E",
+      "name": "unsightly-movie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "TUcbPSYd4oHYfQCOEV7CWgLZM1w//4KKMBL3BZ2C/7w="
+        "value": "3XvH+IQ+7dck99IFyOP/YKSvA8sCf1PR6yDjc0fc+UY="
       }
     }
   ]
