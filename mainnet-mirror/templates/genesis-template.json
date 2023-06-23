@@ -44,7 +44,7 @@
     },
     "network_parameters": {
       "blockchains.ethereumConfig": "{\"network_id\": \"11155111\", \"chain_id\": \"11155111\", \"collateral_bridge_contract\": { \"address\": \"0x742B18ADF72Be728Ae8573B6fCE8CD4C9342A26C\" }, \"confirmations\": 3, \"token_vesting_contract\": { \"address\": \"0xE605BB8657Cb97037E9069292E61b34F7A572497\", \"deployment_block_height\": 3737700 }, \"staking_bridge_contract\": { \"address\": \"0xBe27C9f06764ec99EDBA2EE179690B8Ac84306d5\", \"deployment_block_height\": 3737698 }, \"multisig_control_contract\": { \"address\": \"0x33E7c846e8f8a3F71fb62dE89223eCd4DE3E0A14\", \"deployment_block_height\": 3737692 }}",
-      "governance.proposal.asset.maxClose": "720h",
+      "governance.proposal.asset.maxClose": "8759h0m0s",
       "governance.proposal.asset.maxEnact": "720h",
       "governance.proposal.asset.minClose": "10m",
       "governance.proposal.asset.minEnact": "10m",
