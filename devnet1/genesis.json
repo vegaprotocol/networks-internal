@@ -302,17 +302,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "QN1yVbAYc6NDtgjhoxGGzuf9Foud/HZx4tYjRdxLc9s=": {
-        "avatar_url": "https://www.gravatar.com/avatar/77ocgjr9mm148ug5aqihimqshl676kjh?d=identicon",
-        "country": "IQ",
-        "ethereum_address": "0x07B82145AcD904Cc42E4C5ba8e9a3E4BE8509704",
-        "id": "46f358d5e7e0894b77b8b96e661b38eae56ab97769071427a2b54d9a5ed123b7",
-        "info_url": "https://en.wikipedia.org/wiki/List_of_birds_of_Baxter_State_Park",
-        "name": "bored-taxi",
-        "tm_pub_key": "QN1yVbAYc6NDtgjhoxGGzuf9Foud/HZx4tYjRdxLc9s=",
-        "vega_pub_key": "d81deca0b7fe7d84ba3654affd611820fef160c93829c4032e727f3e9f7ae740",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "zVZNYwaYwaC25+z6a2p0h0g9q4LqZJKMzU6lY0Qmr4Q=": {
+        "avatar_url": "https://www.gravatar.com/avatar/eq1h1rk0nfza63lk9s0u9ayn9l60i76f?d=identicon",
+        "country": "SV",
+        "ethereum_address": "0xF8B2aaFB41475EAa104cCe07FD1e538aB49f0A8D",
+        "id": "03f81614a10f299b3ae20f093fee40842458854d8cf636403e8bb9647f1bdf60",
+        "info_url": "https://en.wikipedia.org/wiki/Ling_Tosite_Sigure",
+        "name": "faint-hill",
+        "tm_pub_key": "zVZNYwaYwaC25+z6a2p0h0g9q4LqZJKMzU6lY0Qmr4Q=",
+        "vega_pub_key": "79c4b47eb0f02c411e09155b6d330e0ddc60168cfd4f55263431e1b6007e8323",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202306241326",
+  "chain_id": "vega-devnet1-202306260751",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-24T13:26:00.166982777Z",
+  "genesis_time": "2023-06-26T07:51:18.486141785Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "3EF9904177B13A025AD97F17202C184C051B7F0C",
-      "name": "bored-taxi",
+      "address": "F66FE644A85E1151217798B728421CC4DAC42DE3",
+      "name": "faint-hill",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "QN1yVbAYc6NDtgjhoxGGzuf9Foud/HZx4tYjRdxLc9s="
+        "value": "zVZNYwaYwaC25+z6a2p0h0g9q4LqZJKMzU6lY0Qmr4Q="
       }
     }
   ]
