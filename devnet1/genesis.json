@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "P6d+jlpWZd8N6yfm3lX3XlhvMzvyPqTD0TmH9cbvaus=": {
-        "avatar_url": "https://www.gravatar.com/avatar/c9j1qtpof1iqwwrfq45p3vzcbt8zul7y?d=identicon",
-        "country": "FQ",
-        "ethereum_address": "0xa80e0D9b1A77934914400BDf3909e7e83770bec9",
-        "id": "10161f804bc8d197b9558cdc19ae9b6ac21d9cf9da87c7abd0b0f4302e7d952b",
-        "info_url": "https://en.wikipedia.org/wiki/Judith_Jacob",
-        "name": "alive-sister",
-        "tm_pub_key": "P6d+jlpWZd8N6yfm3lX3XlhvMzvyPqTD0TmH9cbvaus=",
-        "vega_pub_key": "878f8f0c84e1b2582b91a7f4f7fec566519e9fca38aa641f60521aa762adb60f",
+      "id9HLAtKIo17226qSAnPVdzCEDG70cClF2hM3/V0zy8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/d28hc29srpmwgn5y25pmzr8j82dzpboy?d=identicon",
+        "country": "AL",
+        "ethereum_address": "0x636Fd00d8c4f73E42C2bE5E58ba1c436f6f27346",
+        "id": "557323fd70c08e5b1e6b135e70fab4002f721e9adbde212d02e901f9702bf284",
+        "info_url": "https://en.wikipedia.org/wiki/March_Days",
+        "name": "distressed-car",
+        "tm_pub_key": "id9HLAtKIo17226qSAnPVdzCEDG70cClF2hM3/V0zy8=",
+        "vega_pub_key": "eced9e228e19d01420ef78b409500ce37fedf3dad94aaad53c744dfd0e3c2e9e",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306261641",
+  "chain_id": "vega-devnet1-202306270816",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-26T16:41:55.368709258Z",
+  "genesis_time": "2023-06-27T08:16:24.129514363Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "3746D8FEAF4B9133DD4BF79002035CA008DA0683",
-      "name": "alive-sister",
+      "address": "1026F4A88BA76C45D2210CC4CA1076F1B460EB86",
+      "name": "distressed-car",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "P6d+jlpWZd8N6yfm3lX3XlhvMzvyPqTD0TmH9cbvaus="
+        "value": "id9HLAtKIo17226qSAnPVdzCEDG70cClF2hM3/V0zy8="
       }
     }
   ]
