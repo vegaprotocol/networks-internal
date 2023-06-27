@@ -302,17 +302,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "NDsP4xMo6P8kARNOO40+MYgftKLw77c1yPP0okI1MNc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/jemsp5hxpxx2c242nyy4ejvri3cmlyro?d=identicon",
-        "country": "SJ",
-        "ethereum_address": "0xE4F441b41032663F33A77dA7208E0f87D5aEeFc9",
-        "id": "c66e8ffaba246cd262f159b81e3651e2b97f7d258bc4690213dabf4a285f9ec7",
-        "info_url": "https://en.wikipedia.org/wiki/Ted_Marcroft",
-        "name": "oppulent-chair",
-        "tm_pub_key": "NDsP4xMo6P8kARNOO40+MYgftKLw77c1yPP0okI1MNc=",
-        "vega_pub_key": "a49760fc5d0cf9c6cf47dc4cdad0aa614544667abd09e5f991d189ffa141f812",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "wj+ybySHCo3vr33powmJ/zHGKC+UURwL+7xKcx7Voac=": {
+        "avatar_url": "https://www.gravatar.com/avatar/g494fmrdpiqcqrmsbnfs7r57lzq75p3c?d=identicon",
+        "country": "QI",
+        "ethereum_address": "0x1373D5184E5627479AAbfAe9393fF4403A6fC83d",
+        "id": "b55618d406d31001afd666772372cc75a40c1c2f8a0d4a4d7f54a6d6cfd6d3dc",
+        "info_url": "https://en.wikipedia.org/wiki/Prospertown_Lake",
+        "name": "unkempt-man",
+        "tm_pub_key": "wj+ybySHCo3vr33powmJ/zHGKC+UURwL+7xKcx7Voac=",
+        "vega_pub_key": "2808823efea2be7869c63f66bd1784751db1bff28fc7479819e20a30d6dff9db",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202306271045",
+  "chain_id": "vega-devnet1-202306271349",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-27T10:45:47.654409492Z",
+  "genesis_time": "2023-06-27T13:49:21.161027076Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "AE81C44DA1CB8FE01EE7595A089334A81BFBFDDD",
-      "name": "oppulent-chair",
+      "address": "D05695528F0423EEC4C47FE1010B13576CBC4C3A",
+      "name": "unkempt-man",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "NDsP4xMo6P8kARNOO40+MYgftKLw77c1yPP0okI1MNc="
+        "value": "wj+ybySHCo3vr33powmJ/zHGKC+UURwL+7xKcx7Voac="
       }
     }
   ]
