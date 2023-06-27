@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "rHoLT2Pwi0d/ZSFoL0vuHq2lOKrGhJu02qyI2208poo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/h6ed4kbp8lkmifkszwnob2sswdsrq5u9?d=identicon",
-        "country": "DQ",
-        "ethereum_address": "0x16AA5C3040BBb8A10B6DdE97d8a2642e1DD06a92",
-        "id": "14c8be1d3b953958eb5911ee183cd233b7ac00281f8b3fb7c37f6560f842e686",
-        "info_url": "https://en.wikipedia.org/wiki/The_Humanoid_(film)",
-        "name": "adventurous-doctor",
-        "tm_pub_key": "rHoLT2Pwi0d/ZSFoL0vuHq2lOKrGhJu02qyI2208poo=",
-        "vega_pub_key": "a473c606e7b50dc0af1c1a4a3657d44ee158383ef397934c36a1a18b5e476fc9",
+      "NDsP4xMo6P8kARNOO40+MYgftKLw77c1yPP0okI1MNc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/jemsp5hxpxx2c242nyy4ejvri3cmlyro?d=identicon",
+        "country": "SJ",
+        "ethereum_address": "0xE4F441b41032663F33A77dA7208E0f87D5aEeFc9",
+        "id": "c66e8ffaba246cd262f159b81e3651e2b97f7d258bc4690213dabf4a285f9ec7",
+        "info_url": "https://en.wikipedia.org/wiki/Ted_Marcroft",
+        "name": "oppulent-chair",
+        "tm_pub_key": "NDsP4xMo6P8kARNOO40+MYgftKLw77c1yPP0okI1MNc=",
+        "vega_pub_key": "a49760fc5d0cf9c6cf47dc4cdad0aa614544667abd09e5f991d189ffa141f812",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306270928",
+  "chain_id": "vega-devnet1-202306271019",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-27T09:28:09.027619163Z",
+  "genesis_time": "2023-06-27T10:19:12.198806083Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "476769542DD59EACDA9F57F269CC2D5B99120CB8",
-      "name": "adventurous-doctor",
+      "address": "AE81C44DA1CB8FE01EE7595A089334A81BFBFDDD",
+      "name": "oppulent-chair",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "rHoLT2Pwi0d/ZSFoL0vuHq2lOKrGhJu02qyI2208poo="
+        "value": "NDsP4xMo6P8kARNOO40+MYgftKLw77c1yPP0okI1MNc="
       }
     }
   ]
