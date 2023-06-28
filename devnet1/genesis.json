@@ -280,6 +280,17 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
+      "Ac0Mdicp5Z1VvhFUrgAE/gEhSNGXIUEa9VJN+u5iJBU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/mh37vih5g32wkre94nm2ujioqnon3mpd?d=identicon",
+        "country": "VS",
+        "ethereum_address": "0x8B12A81209851A8B7699cA430c7a5678C6b5E845",
+        "id": "e75d5830be6ff3e3c9d63971f7391b616163909fdcb79a65bc07d5b9b0fd80a9",
+        "info_url": "https://en.wikipedia.org/wiki/2019_NCAA_women%27s_gymnastics_tournament",
+        "name": "frantic-biscuit",
+        "tm_pub_key": "Ac0Mdicp5Z1VvhFUrgAE/gEhSNGXIUEa9VJN+u5iJBU=",
+        "vega_pub_key": "eeae60f7b8dc1802b5df547895631bf691ceda7220c0c14450b8a4332618aa4d",
+        "vega_pub_key_index": 1
+      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "MHCnJAjSNCSIV6KcZDncOS4ZYU+3bZ1joV+Cknjwk5c=": {
-        "avatar_url": "https://www.gravatar.com/avatar/8bxkj73oln0lletsd8r1ex19x61emsdn?d=identicon",
-        "country": "WD",
-        "ethereum_address": "0xAaCF8e1D06406DfAe10ad6cF6844E56E0265348E",
-        "id": "78c2401c612d150c55350c3ed6c925ca98f77d251c4c84bc45648d007d7f573d",
-        "info_url": "https://en.wikipedia.org/wiki/Alliance_for_Democracy_and_Progress_(Benin)",
-        "name": "unkempt-bed",
-        "tm_pub_key": "MHCnJAjSNCSIV6KcZDncOS4ZYU+3bZ1joV+Cknjwk5c=",
-        "vega_pub_key": "df84bf6dd26ca08aa27ad8049f9d380fad065a4fca0be3f78233ab406d4446f2",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306280823",
+  "chain_id": "vega-devnet1-202306281319",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-28T08:23:32.327464087Z",
+  "genesis_time": "2023-06-28T13:19:56.716195111Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "CA20BA936A4A402F2CD37BA67470437AD7FF6C3C",
-      "name": "unkempt-bed",
+      "address": "97F9FA6D829A5AA7D27548D7CE9EDD2502C706E9",
+      "name": "frantic-biscuit",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "MHCnJAjSNCSIV6KcZDncOS4ZYU+3bZ1joV+Cknjwk5c="
+        "value": "Ac0Mdicp5Z1VvhFUrgAE/gEhSNGXIUEa9VJN+u5iJBU="
       }
     }
   ]
