@@ -280,17 +280,6 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
-      "Ac0Mdicp5Z1VvhFUrgAE/gEhSNGXIUEa9VJN+u5iJBU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/mh37vih5g32wkre94nm2ujioqnon3mpd?d=identicon",
-        "country": "VS",
-        "ethereum_address": "0x8B12A81209851A8B7699cA430c7a5678C6b5E845",
-        "id": "e75d5830be6ff3e3c9d63971f7391b616163909fdcb79a65bc07d5b9b0fd80a9",
-        "info_url": "https://en.wikipedia.org/wiki/2019_NCAA_women%27s_gymnastics_tournament",
-        "name": "frantic-biscuit",
-        "tm_pub_key": "Ac0Mdicp5Z1VvhFUrgAE/gEhSNGXIUEa9VJN+u5iJBU=",
-        "vega_pub_key": "eeae60f7b8dc1802b5df547895631bf691ceda7220c0c14450b8a4332618aa4d",
-        "vega_pub_key_index": 1
-      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "R0h3S3KkCLOPFDzXetSpkuvJMCzqfUQnrP9LzbY8klk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/m997nmk7nrxvjhn25og3u6sczrlgfioy?d=identicon",
+        "country": "PY",
+        "ethereum_address": "0x7319A3e148566ECa0209DBC20276F01A0E9DdBad",
+        "id": "7765a52dd598a16174b83f89deb05d68eb8ae9b7f4730f03ac8a84102ed54c05",
+        "info_url": "https://en.wikipedia.org/wiki/Heneage_knot",
+        "name": "stocky-coffee",
+        "tm_pub_key": "R0h3S3KkCLOPFDzXetSpkuvJMCzqfUQnrP9LzbY8klk=",
+        "vega_pub_key": "20844318e34a87630b8fadbbd1ffacdb9048ffca4d9dd1e87ebfae07460e2dd6",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306281319",
+  "chain_id": "vega-devnet1-202306281431",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-28T13:19:56.716195111Z",
+  "genesis_time": "2023-06-28T14:31:52.841588686Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "97F9FA6D829A5AA7D27548D7CE9EDD2502C706E9",
-      "name": "frantic-biscuit",
+      "address": "9DA7CE3A2C5C06569FB09712717D769BDA7FD767",
+      "name": "stocky-coffee",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Ac0Mdicp5Z1VvhFUrgAE/gEhSNGXIUEa9VJN+u5iJBU="
+        "value": "R0h3S3KkCLOPFDzXetSpkuvJMCzqfUQnrP9LzbY8klk="
       }
     }
   ]
