@@ -302,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "UaZuSr2egkN3VwAFNSTJgYD1qg9k5uYtDljk2RX1rf4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/45kgcgaiw6qiprc1lcdvmc0t592a0rl6?d=identicon",
+        "country": "UT",
+        "ethereum_address": "0x155De9883B5d58e7ce597Be01509A2576c1246D3",
+        "id": "b47c2f92a405f2c7516bb0eea61609975ca1fea78f270e5e9fc9bbd3d016b7d2",
+        "info_url": "https://en.wikipedia.org/wiki/Gol_Tappeh_Rural_District_(Hamadan_Province)",
+        "name": "clean-candle",
+        "tm_pub_key": "UaZuSr2egkN3VwAFNSTJgYD1qg9k5uYtDljk2RX1rf4=",
+        "vega_pub_key": "8edac0c29e34a3ba478b711d78c097db177eec6787aeb95c3096ab0ec5d76ef0",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "wC+mtLAbn8qQak5Gb0BgpwexACX++nysocDjRxRslFg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ca3m93eatzmovl5ucdkbk4y1nyqqdbb0?d=identicon",
-        "country": "RH",
-        "ethereum_address": "0x237B16567C45E145a4c15762Ed30E159E9D7715e",
-        "id": "79c2a2329b9cd3c70ca992dcf5aff64518d2c96eee38601ffc7439ea06b54d0e",
-        "info_url": "https://en.wikipedia.org/wiki/1970%E2%80%9371_Memphis_Pros_season",
-        "name": "faint-brother",
-        "tm_pub_key": "wC+mtLAbn8qQak5Gb0BgpwexACX++nysocDjRxRslFg=",
-        "vega_pub_key": "c15b886e7c97c32a9234167e8d26f422df489883673496273b061fa66a9dfd18",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202306281615",
+  "chain_id": "vega-devnet1-202306281728",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-28T16:15:55.04030966Z",
+  "genesis_time": "2023-06-28T17:28:56.690909703Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "88613A694630193936DCE6B6FA83408AF35EE295",
-      "name": "faint-brother",
+      "address": "03664BF12254D7D3B8B7C2D04199E33F01E3FCFB",
+      "name": "clean-candle",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "wC+mtLAbn8qQak5Gb0BgpwexACX++nysocDjRxRslFg="
+        "value": "UaZuSr2egkN3VwAFNSTJgYD1qg9k5uYtDljk2RX1rf4="
       }
     }
   ]
