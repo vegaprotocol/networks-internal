@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "LTVJE77BPy5U4G0pcIls2OoyFgJooZVklu0e3z26GMw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/aqm7la186dudl667drtn4kulpoqtiefk?d=identicon",
-        "country": "QH",
-        "ethereum_address": "0xa6D5ab948F118457Ad586f6230DB7090Db72346D",
-        "id": "098fc356f2e7c8fc70ab5768c7f1e61c9c12ca5e1faad1afe4c508416339d976",
-        "info_url": "https://en.wikipedia.org/wiki/Goldspot",
-        "name": "yummy-dress",
-        "tm_pub_key": "LTVJE77BPy5U4G0pcIls2OoyFgJooZVklu0e3z26GMw=",
-        "vega_pub_key": "d7c7102dc01e898b8b38a119020d295fc27fca405c4e915cb9a8ce21d28e8687",
+      "MHCnJAjSNCSIV6KcZDncOS4ZYU+3bZ1joV+Cknjwk5c=": {
+        "avatar_url": "https://www.gravatar.com/avatar/8bxkj73oln0lletsd8r1ex19x61emsdn?d=identicon",
+        "country": "WD",
+        "ethereum_address": "0xAaCF8e1D06406DfAe10ad6cF6844E56E0265348E",
+        "id": "78c2401c612d150c55350c3ed6c925ca98f77d251c4c84bc45648d007d7f573d",
+        "info_url": "https://en.wikipedia.org/wiki/Alliance_for_Democracy_and_Progress_(Benin)",
+        "name": "unkempt-bed",
+        "tm_pub_key": "MHCnJAjSNCSIV6KcZDncOS4ZYU+3bZ1joV+Cknjwk5c=",
+        "vega_pub_key": "df84bf6dd26ca08aa27ad8049f9d380fad065a4fca0be3f78233ab406d4446f2",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306271534",
+  "chain_id": "vega-devnet1-202306280823",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-27T15:34:19.013607692Z",
+  "genesis_time": "2023-06-28T08:23:32.327464087Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "1C71AD00E14B4DE282F3EC38D7442815880FDCC0",
-      "name": "yummy-dress",
+      "address": "CA20BA936A4A402F2CD37BA67470437AD7FF6C3C",
+      "name": "unkempt-bed",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "LTVJE77BPy5U4G0pcIls2OoyFgJooZVklu0e3z26GMw="
+        "value": "MHCnJAjSNCSIV6KcZDncOS4ZYU+3bZ1joV+Cknjwk5c="
       }
     }
   ]
