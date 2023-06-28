@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "3kBYvFoQWaE1Jqa/zyng1Z0xqpEA9HzdbQXh5git8hY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/gsngyqzxde9cgkry4unozvzn89h0214r?d=identicon",
-        "country": "HE",
-        "ethereum_address": "0xEE4a92f9082B9130C49Bfd3a297b9334c13FFAF4",
-        "id": "2f979d90656cb528472a1e07f2b42f8028ec6dc95195916a61765504c0624d7b",
-        "info_url": "https://en.wikipedia.org/wiki/Reed_%26_Barton",
-        "name": "gritty-week",
-        "tm_pub_key": "3kBYvFoQWaE1Jqa/zyng1Z0xqpEA9HzdbQXh5git8hY=",
-        "vega_pub_key": "5d27e996819c5cee47993c438f5f796e0fc33e23c3d6716d14de7bc144b027d7",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "wC+mtLAbn8qQak5Gb0BgpwexACX++nysocDjRxRslFg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ca3m93eatzmovl5ucdkbk4y1nyqqdbb0?d=identicon",
+        "country": "RH",
+        "ethereum_address": "0x237B16567C45E145a4c15762Ed30E159E9D7715e",
+        "id": "79c2a2329b9cd3c70ca992dcf5aff64518d2c96eee38601ffc7439ea06b54d0e",
+        "info_url": "https://en.wikipedia.org/wiki/1970%E2%80%9371_Memphis_Pros_season",
+        "name": "faint-brother",
+        "tm_pub_key": "wC+mtLAbn8qQak5Gb0BgpwexACX++nysocDjRxRslFg=",
+        "vega_pub_key": "c15b886e7c97c32a9234167e8d26f422df489883673496273b061fa66a9dfd18",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202306281531",
+  "chain_id": "vega-devnet1-202306281615",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-28T15:31:03.218884992Z",
+  "genesis_time": "2023-06-28T16:15:55.04030966Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "A26F9D05047CED9F8DC552727E3F5C6F5D998C77",
-      "name": "gritty-week",
+      "address": "88613A694630193936DCE6B6FA83408AF35EE295",
+      "name": "faint-brother",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "3kBYvFoQWaE1Jqa/zyng1Z0xqpEA9HzdbQXh5git8hY="
+        "value": "wC+mtLAbn8qQak5Gb0BgpwexACX++nysocDjRxRslFg="
       }
     }
   ]
