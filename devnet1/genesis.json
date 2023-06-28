@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "3kBYvFoQWaE1Jqa/zyng1Z0xqpEA9HzdbQXh5git8hY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/gsngyqzxde9cgkry4unozvzn89h0214r?d=identicon",
+        "country": "HE",
+        "ethereum_address": "0xEE4a92f9082B9130C49Bfd3a297b9334c13FFAF4",
+        "id": "2f979d90656cb528472a1e07f2b42f8028ec6dc95195916a61765504c0624d7b",
+        "info_url": "https://en.wikipedia.org/wiki/Reed_%26_Barton",
+        "name": "gritty-week",
+        "tm_pub_key": "3kBYvFoQWaE1Jqa/zyng1Z0xqpEA9HzdbQXh5git8hY=",
+        "vega_pub_key": "5d27e996819c5cee47993c438f5f796e0fc33e23c3d6716d14de7bc144b027d7",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "R0h3S3KkCLOPFDzXetSpkuvJMCzqfUQnrP9LzbY8klk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/m997nmk7nrxvjhn25og3u6sczrlgfioy?d=identicon",
-        "country": "PY",
-        "ethereum_address": "0x7319A3e148566ECa0209DBC20276F01A0E9DdBad",
-        "id": "7765a52dd598a16174b83f89deb05d68eb8ae9b7f4730f03ac8a84102ed54c05",
-        "info_url": "https://en.wikipedia.org/wiki/Heneage_knot",
-        "name": "stocky-coffee",
-        "tm_pub_key": "R0h3S3KkCLOPFDzXetSpkuvJMCzqfUQnrP9LzbY8klk=",
-        "vega_pub_key": "20844318e34a87630b8fadbbd1ffacdb9048ffca4d9dd1e87ebfae07460e2dd6",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306281431",
+  "chain_id": "vega-devnet1-202306281458",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-28T14:31:52.841588686Z",
+  "genesis_time": "2023-06-28T14:58:45.817645971Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "9DA7CE3A2C5C06569FB09712717D769BDA7FD767",
-      "name": "stocky-coffee",
+      "address": "A26F9D05047CED9F8DC552727E3F5C6F5D998C77",
+      "name": "gritty-week",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "R0h3S3KkCLOPFDzXetSpkuvJMCzqfUQnrP9LzbY8klk="
+        "value": "3kBYvFoQWaE1Jqa/zyng1Z0xqpEA9HzdbQXh5git8hY="
       }
     }
   ]
