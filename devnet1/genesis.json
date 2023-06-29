@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "UaZuSr2egkN3VwAFNSTJgYD1qg9k5uYtDljk2RX1rf4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/45kgcgaiw6qiprc1lcdvmc0t592a0rl6?d=identicon",
-        "country": "UT",
-        "ethereum_address": "0x155De9883B5d58e7ce597Be01509A2576c1246D3",
-        "id": "b47c2f92a405f2c7516bb0eea61609975ca1fea78f270e5e9fc9bbd3d016b7d2",
-        "info_url": "https://en.wikipedia.org/wiki/Gol_Tappeh_Rural_District_(Hamadan_Province)",
-        "name": "clean-candle",
-        "tm_pub_key": "UaZuSr2egkN3VwAFNSTJgYD1qg9k5uYtDljk2RX1rf4=",
-        "vega_pub_key": "8edac0c29e34a3ba478b711d78c097db177eec6787aeb95c3096ab0ec5d76ef0",
+      "nGj/TtujkPhOI3iCWK9A9bvB778M842MDBHdpMSz39Q=": {
+        "avatar_url": "https://www.gravatar.com/avatar/3pnn4xwt9f08fnz54flnixokcoskjme0?d=identicon",
+        "country": "IW",
+        "ethereum_address": "0x38B0dea6e74F738e730e9E26FFd5B5Fe701FB86e",
+        "id": "c7629089667ee363a843a82b0cc82660442a8a6e7c8c3a0bd5fe6964eae2c680",
+        "info_url": "https://en.wikipedia.org/wiki/Barsine_takamukui",
+        "name": "magnificent-candle",
+        "tm_pub_key": "nGj/TtujkPhOI3iCWK9A9bvB778M842MDBHdpMSz39Q=",
+        "vega_pub_key": "5a09baeb2512f2605861a4ea6009a909ee0129ee6cfbfecf932669fc73d8e955",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306281728",
+  "chain_id": "vega-devnet1-202306291039",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-28T17:28:56.690909703Z",
+  "genesis_time": "2023-06-29T10:39:33.856656848Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "03664BF12254D7D3B8B7C2D04199E33F01E3FCFB",
-      "name": "clean-candle",
+      "address": "F8BB59B4B3E76777DC05A1D5B3DA67717589C804",
+      "name": "magnificent-candle",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "UaZuSr2egkN3VwAFNSTJgYD1qg9k5uYtDljk2RX1rf4="
+        "value": "nGj/TtujkPhOI3iCWK9A9bvB778M842MDBHdpMSz39Q="
       }
     }
   ]
