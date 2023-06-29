@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "dzv4US3NYHWmU6fglM6VJ4yjL91VlyKBZJWV1PeV1Rw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/qdy0b6ph615gq96jf3a12406g82h8wa3?d=identicon",
-        "country": "HG",
-        "ethereum_address": "0x21312F260b50dbe8daeBA5a35B22a1b1b8Bc1F9E",
-        "id": "eddd7f06661fd8b355e338e6ec65839d035652fe9e4a77b7b6a0b4dba09ab7ff",
-        "info_url": "https://en.wikipedia.org/wiki/Al-Butayha",
-        "name": "hallowed-pizza",
-        "tm_pub_key": "dzv4US3NYHWmU6fglM6VJ4yjL91VlyKBZJWV1PeV1Rw=",
-        "vega_pub_key": "d9e81c8e741f077bd35f952be1b3fd2307d3b339c933a604603b22099b3bf6fd",
+      "axHgLzcIzfQBgWjtRuQQiW3dSL1AfkkU9S/qWjoQY3U=": {
+        "avatar_url": "https://www.gravatar.com/avatar/5eg6uxz90uldlxcwngofldzg284vlusb?d=identicon",
+        "country": "AV",
+        "ethereum_address": "0x5e015D9737fFb9F61a800b2d21cBC10a029b62A8",
+        "id": "c8b07133f5bc3ad5cc1676afd95443d8104ccbd2c5301e494b3987ea22bdc584",
+        "info_url": "https://en.wikipedia.org/wiki/Majena_language",
+        "name": "friendly-dog",
+        "tm_pub_key": "axHgLzcIzfQBgWjtRuQQiW3dSL1AfkkU9S/qWjoQY3U=",
+        "vega_pub_key": "a86116d1d3054f7e53dbff392d4f0772d26fe9fa661cfa183c8390f7003966ce",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306291325",
+  "chain_id": "vega-devnet1-202306291400",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-29T13:25:16.382832213Z",
+  "genesis_time": "2023-06-29T14:00:18.955050361Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "7BDD5AD5E424581F0DBC75257D3065CF76D33CA0",
-      "name": "hallowed-pizza",
+      "address": "FE80AB875AF1C281C8CBB211AA21DA7A2E008C21",
+      "name": "friendly-dog",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "dzv4US3NYHWmU6fglM6VJ4yjL91VlyKBZJWV1PeV1Rw="
+        "value": "axHgLzcIzfQBgWjtRuQQiW3dSL1AfkkU9S/qWjoQY3U="
       }
     }
   ]
