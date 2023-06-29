@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "nGj/TtujkPhOI3iCWK9A9bvB778M842MDBHdpMSz39Q=": {
-        "avatar_url": "https://www.gravatar.com/avatar/3pnn4xwt9f08fnz54flnixokcoskjme0?d=identicon",
-        "country": "IW",
-        "ethereum_address": "0x38B0dea6e74F738e730e9E26FFd5B5Fe701FB86e",
-        "id": "c7629089667ee363a843a82b0cc82660442a8a6e7c8c3a0bd5fe6964eae2c680",
-        "info_url": "https://en.wikipedia.org/wiki/Barsine_takamukui",
-        "name": "magnificent-candle",
-        "tm_pub_key": "nGj/TtujkPhOI3iCWK9A9bvB778M842MDBHdpMSz39Q=",
-        "vega_pub_key": "5a09baeb2512f2605861a4ea6009a909ee0129ee6cfbfecf932669fc73d8e955",
+      "dzv4US3NYHWmU6fglM6VJ4yjL91VlyKBZJWV1PeV1Rw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/qdy0b6ph615gq96jf3a12406g82h8wa3?d=identicon",
+        "country": "HG",
+        "ethereum_address": "0x21312F260b50dbe8daeBA5a35B22a1b1b8Bc1F9E",
+        "id": "eddd7f06661fd8b355e338e6ec65839d035652fe9e4a77b7b6a0b4dba09ab7ff",
+        "info_url": "https://en.wikipedia.org/wiki/Al-Butayha",
+        "name": "hallowed-pizza",
+        "tm_pub_key": "dzv4US3NYHWmU6fglM6VJ4yjL91VlyKBZJWV1PeV1Rw=",
+        "vega_pub_key": "d9e81c8e741f077bd35f952be1b3fd2307d3b339c933a604603b22099b3bf6fd",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306291039",
+  "chain_id": "vega-devnet1-202306291325",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-29T10:39:33.856656848Z",
+  "genesis_time": "2023-06-29T13:25:16.382832213Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "F8BB59B4B3E76777DC05A1D5B3DA67717589C804",
-      "name": "magnificent-candle",
+      "address": "7BDD5AD5E424581F0DBC75257D3065CF76D33CA0",
+      "name": "hallowed-pizza",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "nGj/TtujkPhOI3iCWK9A9bvB778M842MDBHdpMSz39Q="
+        "value": "dzv4US3NYHWmU6fglM6VJ4yjL91VlyKBZJWV1PeV1Rw="
       }
     }
   ]
