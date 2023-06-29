@@ -9,14 +9,14 @@ name = "stagnet1"
 [API]
 
   [API.GRPC]
-    Hosts = ["api.stagnet1.vega.xyz:3007", "api.n05.stagnet1.vega.xyz:3007", "api.n06.stagnet1.vega.xyz:3007"]
+    Hosts = ["api.stagnet1.vega.rocks:3007", "api.n05.stagnet1.vega.rocks:3007", "api.n06.stagnet1.vega.rocks:3007"]
     Retries = 5
 
   [API.GraphQL]
-    Hosts = ["https://api.stagnet1.vega.xyz/graphql", "https://api.n05.stagnet1.vega.xyz/graphql", "https://api.n06.stagnet1.vega.xyz/graphql"]
+    Hosts = ["https://api.stagnet1.vega.rocks/graphql", "https://api.n05.stagnet1.vega.rocks/graphql", "https://api.n06.stagnet1.vega.rocks/graphql"]
 
   [API.REST]
-    Hosts = ["https://api.stagnet1.vega.xyz", "https://api.n05.stagnet1.vega.xyz", "https://api.n06.stagnet1.vega.xyz"]
+    Hosts = ["https://api.stagnet1.vega.rocks", "https://api.n05.stagnet1.vega.rocks", "https://api.n06.stagnet1.vega.rocks"]
 
 [Apps]
   Console = "https://console.stagnet1.vega.rocks"
