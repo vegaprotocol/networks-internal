@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "+t2YvLsX6f2mTzJhf44oxA+LiP9x6Iqu12MEbjOFF1w=": {
-        "avatar_url": "https://www.gravatar.com/avatar/vqw394lqyyrkgv5fmf0uek4w63pbh0ky?d=identicon",
-        "country": "KT",
-        "ethereum_address": "0xa18Ae52Eb1c43381b6c358d2df839069F7bf6465",
-        "id": "83feb27473f68de7f9be6e4e904a08a97c0e0251f75b3a018ed516f0fbbcf2de",
-        "info_url": "https://en.wikipedia.org/wiki/The_Darwin_Awards_(film)",
-        "name": "confused-taxi",
-        "tm_pub_key": "+t2YvLsX6f2mTzJhf44oxA+LiP9x6Iqu12MEbjOFF1w=",
-        "vega_pub_key": "55b4d9bf9671f6b40bfc55e6dec0a7c7a66765ccec529e79af9c4bba51a56205",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "tj9FmT2QGeb7yJsCfzPhvA+bCeVFXf+8qqf1fSayBoI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/7oz3uug4cjjmtqeca1n1o5tvx7u0fed0?d=identicon",
+        "country": "WQ",
+        "ethereum_address": "0x07b267DaF6C0A3fF803c4D611c8f363F7cff29C3",
+        "id": "24c1f3c5f5f4fe4d0ab354ead248d99f271c68f76f3f2f1e5672174ba40eb0c2",
+        "info_url": "https://en.wikipedia.org/wiki/Longitarsus_candidulus",
+        "name": "whining-burger",
+        "tm_pub_key": "tj9FmT2QGeb7yJsCfzPhvA+bCeVFXf+8qqf1fSayBoI=",
+        "vega_pub_key": "c61d2a8c893ac936eb41719f19d930079e7fc8feb747aa9c39f6c30288049fbe",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306301337",
+  "chain_id": "vega-devnet1-202306301541",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-30T13:37:33.685541586Z",
+  "genesis_time": "2023-06-30T15:41:39.609859621Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "C84D3811D5B06DB6BF0816696B846E5E47EF7F84",
-      "name": "confused-taxi",
+      "address": "D0532F83ECDAECD4BB836F542EAD37F74C46C71A",
+      "name": "whining-burger",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "+t2YvLsX6f2mTzJhf44oxA+LiP9x6Iqu12MEbjOFF1w="
+        "value": "tj9FmT2QGeb7yJsCfzPhvA+bCeVFXf+8qqf1fSayBoI="
       }
     }
   ]
