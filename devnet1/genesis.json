@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "tj9FmT2QGeb7yJsCfzPhvA+bCeVFXf+8qqf1fSayBoI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/7oz3uug4cjjmtqeca1n1o5tvx7u0fed0?d=identicon",
-        "country": "WQ",
-        "ethereum_address": "0x07b267DaF6C0A3fF803c4D611c8f363F7cff29C3",
-        "id": "24c1f3c5f5f4fe4d0ab354ead248d99f271c68f76f3f2f1e5672174ba40eb0c2",
-        "info_url": "https://en.wikipedia.org/wiki/Longitarsus_candidulus",
-        "name": "whining-burger",
-        "tm_pub_key": "tj9FmT2QGeb7yJsCfzPhvA+bCeVFXf+8qqf1fSayBoI=",
-        "vega_pub_key": "c61d2a8c893ac936eb41719f19d930079e7fc8feb747aa9c39f6c30288049fbe",
+      "SizD2wNj3eFajw2ul6ilOpb8ht6efNaRGe2w2OrtjWA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/dcxuze5kdnhr3lausw76tpzlcls6axqi?d=identicon",
+        "country": "AJ",
+        "ethereum_address": "0x4157817aE246b2FBECB5A37Ab738dB91aDBe699A",
+        "id": "4fc67d0df46bcba3eab3400bd8b50d021670314a8e31337fc0c26322c978995c",
+        "info_url": "https://en.wikipedia.org/wiki/P._S._Nivas",
+        "name": "brave-cat",
+        "tm_pub_key": "SizD2wNj3eFajw2ul6ilOpb8ht6efNaRGe2w2OrtjWA=",
+        "vega_pub_key": "5ed8a12e3198ac2fdbed47f1209d83fa9167414fbe80f2b75ad51910e17dfba1",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306301541",
+  "chain_id": "vega-devnet1-202306301603",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-30T15:41:39.609859621Z",
+  "genesis_time": "2023-06-30T16:03:37.713169568Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "D0532F83ECDAECD4BB836F542EAD37F74C46C71A",
-      "name": "whining-burger",
+      "address": "B14DE0D831CAFD8A388E3CB4FCCFD58EBC923E36",
+      "name": "brave-cat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "tj9FmT2QGeb7yJsCfzPhvA+bCeVFXf+8qqf1fSayBoI="
+        "value": "SizD2wNj3eFajw2ul6ilOpb8ht6efNaRGe2w2OrtjWA="
       }
     }
   ]
