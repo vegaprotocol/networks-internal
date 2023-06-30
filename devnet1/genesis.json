@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "1uML4M0U6dCLMmou48AW8TyeTPsqV2e/4SO57sj8F/8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ds00t12ek1iif1w46wp2nwir8auooc7u?d=identicon",
+        "country": "BR",
+        "ethereum_address": "0xb47a6Dc7D4D0609661e6623582B7ee4468ef48D7",
+        "id": "dd1fbcd88462de67da73ed8802ffe78864914c599dfc2b662961839a2da87447",
+        "info_url": "https://en.wikipedia.org/wiki/1949_IFA_Shield_final",
+        "name": "frantic-pond",
+        "tm_pub_key": "1uML4M0U6dCLMmou48AW8TyeTPsqV2e/4SO57sj8F/8=",
+        "vega_pub_key": "df78e07b607e7a0c8d959eb69a4cc3bd21adfc0b32293c7ded9915e1d7da3c53",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "SizD2wNj3eFajw2ul6ilOpb8ht6efNaRGe2w2OrtjWA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/dcxuze5kdnhr3lausw76tpzlcls6axqi?d=identicon",
-        "country": "AJ",
-        "ethereum_address": "0x4157817aE246b2FBECB5A37Ab738dB91aDBe699A",
-        "id": "4fc67d0df46bcba3eab3400bd8b50d021670314a8e31337fc0c26322c978995c",
-        "info_url": "https://en.wikipedia.org/wiki/P._S._Nivas",
-        "name": "brave-cat",
-        "tm_pub_key": "SizD2wNj3eFajw2ul6ilOpb8ht6efNaRGe2w2OrtjWA=",
-        "vega_pub_key": "5ed8a12e3198ac2fdbed47f1209d83fa9167414fbe80f2b75ad51910e17dfba1",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306301633",
+  "chain_id": "vega-devnet1-202306301700",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-30T16:33:11.593796289Z",
+  "genesis_time": "2023-06-30T17:00:37.695856877Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "B14DE0D831CAFD8A388E3CB4FCCFD58EBC923E36",
-      "name": "brave-cat",
+      "address": "48C5F20854F8B08A0724F49D22B0DA30D3A98693",
+      "name": "frantic-pond",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "SizD2wNj3eFajw2ul6ilOpb8ht6efNaRGe2w2OrtjWA="
+        "value": "1uML4M0U6dCLMmou48AW8TyeTPsqV2e/4SO57sj8F/8="
       }
     }
   ]
