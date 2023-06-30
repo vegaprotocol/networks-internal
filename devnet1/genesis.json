@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "axHgLzcIzfQBgWjtRuQQiW3dSL1AfkkU9S/qWjoQY3U=": {
-        "avatar_url": "https://www.gravatar.com/avatar/5eg6uxz90uldlxcwngofldzg284vlusb?d=identicon",
-        "country": "AV",
-        "ethereum_address": "0x5e015D9737fFb9F61a800b2d21cBC10a029b62A8",
-        "id": "c8b07133f5bc3ad5cc1676afd95443d8104ccbd2c5301e494b3987ea22bdc584",
-        "info_url": "https://en.wikipedia.org/wiki/Majena_language",
-        "name": "friendly-dog",
-        "tm_pub_key": "axHgLzcIzfQBgWjtRuQQiW3dSL1AfkkU9S/qWjoQY3U=",
-        "vega_pub_key": "a86116d1d3054f7e53dbff392d4f0772d26fe9fa661cfa183c8390f7003966ce",
+      "VYgcoFc8IY7Y1fy6WzKz6+PskckRO32GQSlv1Ky7fJc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/utelj06hd574abf1thc4yeks608onq8t?d=identicon",
+        "country": "BM",
+        "ethereum_address": "0xB693932fCFd532256f05cb412A1FaE54a1cFf56f",
+        "id": "a8a2165b45ac41866fa9a8942d845a6954d910b5a964776438eef597e541e20d",
+        "info_url": "https://en.wikipedia.org/wiki/CKGC-FM",
+        "name": "inexpensive-ball",
+        "tm_pub_key": "VYgcoFc8IY7Y1fy6WzKz6+PskckRO32GQSlv1Ky7fJc=",
+        "vega_pub_key": "0fff3a7c99398b4af44642469742d96cb211c2b4f0c7ea5a839297707d29c6ce",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306291433",
+  "chain_id": "vega-devnet1-202306300915",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-29T14:33:43.925119369Z",
+  "genesis_time": "2023-06-30T09:15:21.178979766Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "FE80AB875AF1C281C8CBB211AA21DA7A2E008C21",
-      "name": "friendly-dog",
+      "address": "65253CCF94C890A3006FFCB0DF4991912576EDE2",
+      "name": "inexpensive-ball",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "axHgLzcIzfQBgWjtRuQQiW3dSL1AfkkU9S/qWjoQY3U="
+        "value": "VYgcoFc8IY7Y1fy6WzKz6+PskckRO32GQSlv1Ky7fJc="
       }
     }
   ]
