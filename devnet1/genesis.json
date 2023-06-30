@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "+t2YvLsX6f2mTzJhf44oxA+LiP9x6Iqu12MEbjOFF1w=": {
+        "avatar_url": "https://www.gravatar.com/avatar/vqw394lqyyrkgv5fmf0uek4w63pbh0ky?d=identicon",
+        "country": "KT",
+        "ethereum_address": "0xa18Ae52Eb1c43381b6c358d2df839069F7bf6465",
+        "id": "83feb27473f68de7f9be6e4e904a08a97c0e0251f75b3a018ed516f0fbbcf2de",
+        "info_url": "https://en.wikipedia.org/wiki/The_Darwin_Awards_(film)",
+        "name": "confused-taxi",
+        "tm_pub_key": "+t2YvLsX6f2mTzJhf44oxA+LiP9x6Iqu12MEbjOFF1w=",
+        "vega_pub_key": "55b4d9bf9671f6b40bfc55e6dec0a7c7a66765ccec529e79af9c4bba51a56205",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "VYgcoFc8IY7Y1fy6WzKz6+PskckRO32GQSlv1Ky7fJc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/utelj06hd574abf1thc4yeks608onq8t?d=identicon",
-        "country": "BM",
-        "ethereum_address": "0xB693932fCFd532256f05cb412A1FaE54a1cFf56f",
-        "id": "a8a2165b45ac41866fa9a8942d845a6954d910b5a964776438eef597e541e20d",
-        "info_url": "https://en.wikipedia.org/wiki/CKGC-FM",
-        "name": "inexpensive-ball",
-        "tm_pub_key": "VYgcoFc8IY7Y1fy6WzKz6+PskckRO32GQSlv1Ky7fJc=",
-        "vega_pub_key": "0fff3a7c99398b4af44642469742d96cb211c2b4f0c7ea5a839297707d29c6ce",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306300915",
+  "chain_id": "vega-devnet1-202306301337",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-30T09:15:21.178979766Z",
+  "genesis_time": "2023-06-30T13:37:33.685541586Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "65253CCF94C890A3006FFCB0DF4991912576EDE2",
-      "name": "inexpensive-ball",
+      "address": "C84D3811D5B06DB6BF0816696B846E5E47EF7F84",
+      "name": "confused-taxi",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "VYgcoFc8IY7Y1fy6WzKz6+PskckRO32GQSlv1Ky7fJc="
+        "value": "+t2YvLsX6f2mTzJhf44oxA+LiP9x6Iqu12MEbjOFF1w="
       }
     }
   ]
