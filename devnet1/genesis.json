@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "1uML4M0U6dCLMmou48AW8TyeTPsqV2e/4SO57sj8F/8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ds00t12ek1iif1w46wp2nwir8auooc7u?d=identicon",
-        "country": "BR",
-        "ethereum_address": "0xb47a6Dc7D4D0609661e6623582B7ee4468ef48D7",
-        "id": "dd1fbcd88462de67da73ed8802ffe78864914c599dfc2b662961839a2da87447",
-        "info_url": "https://en.wikipedia.org/wiki/1949_IFA_Shield_final",
-        "name": "frantic-pond",
-        "tm_pub_key": "1uML4M0U6dCLMmou48AW8TyeTPsqV2e/4SO57sj8F/8=",
-        "vega_pub_key": "df78e07b607e7a0c8d959eb69a4cc3bd21adfc0b32293c7ded9915e1d7da3c53",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "nbSpKScRr9gQpBHaNtaUMZ1kvrnSN8Uk6phkBuwVcFE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/yp2sa678c28w6nu0ah7upxv2hazqp6es?d=identicon",
+        "country": "GQ",
+        "ethereum_address": "0x932A507Afe3E4A6934fF458a28327759d3931b91",
+        "id": "fc87a3731da6cba4c510f5567be127489d0cdc77b93eb89c7b49be4f37bf9fc3",
+        "info_url": "https://en.wikipedia.org/wiki/Ancient_Ostra",
+        "name": "frantic-burger",
+        "tm_pub_key": "nbSpKScRr9gQpBHaNtaUMZ1kvrnSN8Uk6phkBuwVcFE=",
+        "vega_pub_key": "c3579c8bfe9fb3dff70a115750b9f38b48c20ad675d6a2f0749021b971004f23",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202306301730",
+  "chain_id": "vega-devnet1-202307031139",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-06-30T17:30:15.95610024Z",
+  "genesis_time": "2023-07-03T11:39:35.833930233Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "48C5F20854F8B08A0724F49D22B0DA30D3A98693",
-      "name": "frantic-pond",
+      "address": "96220A49BA6731B936A31226CA0AA5E3624DD12D",
+      "name": "frantic-burger",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "1uML4M0U6dCLMmou48AW8TyeTPsqV2e/4SO57sj8F/8="
+        "value": "nbSpKScRr9gQpBHaNtaUMZ1kvrnSN8Uk6phkBuwVcFE="
       }
     }
   ]
