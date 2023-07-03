@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "nbSpKScRr9gQpBHaNtaUMZ1kvrnSN8Uk6phkBuwVcFE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/yp2sa678c28w6nu0ah7upxv2hazqp6es?d=identicon",
-        "country": "GQ",
-        "ethereum_address": "0x932A507Afe3E4A6934fF458a28327759d3931b91",
-        "id": "fc87a3731da6cba4c510f5567be127489d0cdc77b93eb89c7b49be4f37bf9fc3",
-        "info_url": "https://en.wikipedia.org/wiki/Ancient_Ostra",
-        "name": "frantic-burger",
-        "tm_pub_key": "nbSpKScRr9gQpBHaNtaUMZ1kvrnSN8Uk6phkBuwVcFE=",
-        "vega_pub_key": "c3579c8bfe9fb3dff70a115750b9f38b48c20ad675d6a2f0749021b971004f23",
+      "VvMJVmQpImo+ugHy0UkzWh/PaYR4AW83qgPsT39uhtw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/9wvhneie8wt57y3gf5p5hl2pb40vdvn6?d=identicon",
+        "country": "UL",
+        "ethereum_address": "0x67efD705b5bbf9520750dCAB96260FE1dA9E192c",
+        "id": "7be54f5e9ad9d605d2aa97f91e134aec43526a54ae431fabb8e8bdb35ced1123",
+        "info_url": "https://en.wikipedia.org/wiki/Love_Reunited",
+        "name": "helpful-key",
+        "tm_pub_key": "VvMJVmQpImo+ugHy0UkzWh/PaYR4AW83qgPsT39uhtw=",
+        "vega_pub_key": "36380eed01af7267cd152a77c8a7bd7c58a7156a07c17b5fe395245c6d52ba34",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307031139",
+  "chain_id": "vega-devnet1-202307031326",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-03T11:39:35.833930233Z",
+  "genesis_time": "2023-07-03T13:26:08.392215699Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "96220A49BA6731B936A31226CA0AA5E3624DD12D",
-      "name": "frantic-burger",
+      "address": "E0742A44A7EC9E5D4095E5F53333A7C4B48E7FBF",
+      "name": "helpful-key",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "nbSpKScRr9gQpBHaNtaUMZ1kvrnSN8Uk6phkBuwVcFE="
+        "value": "VvMJVmQpImo+ugHy0UkzWh/PaYR4AW83qgPsT39uhtw="
       }
     }
   ]
