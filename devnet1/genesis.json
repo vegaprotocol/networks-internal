@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "6cPtu5DZpR4xhJ3G8L1TzQn7jn9/AfLPUKWY6aay0YA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/lgpzxoriiobbwrkueb1t49v7xem2ewqo?d=identicon",
+        "country": "GL",
+        "ethereum_address": "0x04C2655A03CB5F0E25fE4abF7303D1364693464C",
+        "id": "3835f9e5aae28729fe993d9db9a9bc570f0b660e335bd88f82d2bd4722f35397",
+        "info_url": "https://en.wikipedia.org/wiki/Atys_naucum",
+        "name": "careful-road",
+        "tm_pub_key": "6cPtu5DZpR4xhJ3G8L1TzQn7jn9/AfLPUKWY6aay0YA=",
+        "vega_pub_key": "1807bce53d03603157982e702768c1ae73256fa8bc9a8f15f42ad6de057ecad8",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "jEnUnl+QcYPxNIXab7/yWzt7zSEMTyAPAo1u72tpTSg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/wifdp94f519psuav6j4apkai4ydjmsca?d=identicon",
-        "country": "CV",
-        "ethereum_address": "0xe8E5b5bD3CFC881449F27Fe130f8084336991028",
-        "id": "bd6fbbb284e22d3ab20706323642ee05e7951ed9eeba5f76868fdf4fe246c6c0",
-        "info_url": "https://en.wikipedia.org/wiki/Tarache_bella",
-        "name": "impressionable-fan",
-        "tm_pub_key": "jEnUnl+QcYPxNIXab7/yWzt7zSEMTyAPAo1u72tpTSg=",
-        "vega_pub_key": "aad9bd6a7e244f291713929955fd75007a12b01b090019b2c6777bfd08ccaced",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307041506",
+  "chain_id": "vega-devnet1-202307041645",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-04T15:06:58.320034482Z",
+  "genesis_time": "2023-07-04T16:45:13.302748645Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "C8153BCBAB3AF283E2CEA0C411FCE3C29E1021D2",
-      "name": "impressionable-fan",
+      "address": "AC504674970EB418B2710029DB615AA87FA99558",
+      "name": "careful-road",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "jEnUnl+QcYPxNIXab7/yWzt7zSEMTyAPAo1u72tpTSg="
+        "value": "6cPtu5DZpR4xhJ3G8L1TzQn7jn9/AfLPUKWY6aay0YA="
       }
     }
   ]
