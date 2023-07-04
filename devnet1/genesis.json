@@ -291,17 +291,6 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
-      "HMgRwqk/LpyKY5vlW7mtYpLYl7JwprnZ2G20/t/STBM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/g4zirv24wnsbb8i95rjc4gfhpaiyvbjc?d=identicon",
-        "country": "YL",
-        "ethereum_address": "0xb773FFD8335228161EFB5576ebbfE85e9F0183E6",
-        "id": "2d959d2be5cb03e0fa49e39ab631131a02ee5fcf554a3dda18d6412d8cb617af",
-        "info_url": "https://en.wikipedia.org/wiki/Melodic_hardcore",
-        "name": "terrible-taxi",
-        "tm_pub_key": "HMgRwqk/LpyKY5vlW7mtYpLYl7JwprnZ2G20/t/STBM=",
-        "vega_pub_key": "6596b590e982dba42947defcbafb6d27c36473fac914b8612847b8ff583368a1",
-        "vega_pub_key_index": 1
-      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -311,6 +300,17 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
+        "vega_pub_key_index": 1
+      },
+      "jEnUnl+QcYPxNIXab7/yWzt7zSEMTyAPAo1u72tpTSg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/wifdp94f519psuav6j4apkai4ydjmsca?d=identicon",
+        "country": "CV",
+        "ethereum_address": "0xe8E5b5bD3CFC881449F27Fe130f8084336991028",
+        "id": "bd6fbbb284e22d3ab20706323642ee05e7951ed9eeba5f76868fdf4fe246c6c0",
+        "info_url": "https://en.wikipedia.org/wiki/Tarache_bella",
+        "name": "impressionable-fan",
+        "tm_pub_key": "jEnUnl+QcYPxNIXab7/yWzt7zSEMTyAPAo1u72tpTSg=",
+        "vega_pub_key": "aad9bd6a7e244f291713929955fd75007a12b01b090019b2c6777bfd08ccaced",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307040812",
+  "chain_id": "vega-devnet1-202307041506",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-04T08:12:57.10023578Z",
+  "genesis_time": "2023-07-04T15:06:58.320034482Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "26757E9B533043CE4BBBB053AFC4DB561DA9AFC4",
-      "name": "terrible-taxi",
+      "address": "C8153BCBAB3AF283E2CEA0C411FCE3C29E1021D2",
+      "name": "impressionable-fan",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "HMgRwqk/LpyKY5vlW7mtYpLYl7JwprnZ2G20/t/STBM="
+        "value": "jEnUnl+QcYPxNIXab7/yWzt7zSEMTyAPAo1u72tpTSg="
       }
     }
   ]
