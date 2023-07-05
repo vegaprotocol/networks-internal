@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "qt+dCiRhc2f8E2/h/z7tG1kPUBtBEr824OjibuauleY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/kfyejv59pvfkdm9c4hk5ar5tgjd7zv45?d=identicon",
-        "country": "QT",
-        "ethereum_address": "0x50585fE42524E3E23Eb0f4F8fa13FE75b3Ebc491",
-        "id": "d39269703592b10bed9c679eeb5ce91b2d2364069be0abf93c128e97a727b4f0",
-        "info_url": "https://en.wikipedia.org/wiki/Motion_lines",
-        "name": "mango-apple",
-        "tm_pub_key": "qt+dCiRhc2f8E2/h/z7tG1kPUBtBEr824OjibuauleY=",
-        "vega_pub_key": "9c8881cc81dd4719451a8137cae2acbf1e1bf3b58a28e5a9c42fd230e63e000a",
+      "VbeU2qHeW695yGBsXiNhiHza9WK2+NrZ30LfeLzaqPY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/sqdy39ie8aqp9bg73y6zd9vmhpr49pc5?d=identicon",
+        "country": "IK",
+        "ethereum_address": "0x5828cdA3fE783C715585B7a5904B220d39e02c8f",
+        "id": "153b27d3b195193f4fdca7196845283367759f765ffe9a69ffab2d5e4c412ed4",
+        "info_url": "https://en.wikipedia.org/wiki/Tour_des_Fjords",
+        "name": "fresh-toy",
+        "tm_pub_key": "VbeU2qHeW695yGBsXiNhiHza9WK2+NrZ30LfeLzaqPY=",
+        "vega_pub_key": "07ecbe855849246d5a2b648fbcbd4040fce6c9fd05f2fffb25b8ba5aa27c0a61",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307051612",
+  "chain_id": "vega-devnet1-202307051713",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-05T16:12:31.114821881Z",
+  "genesis_time": "2023-07-05T17:13:13.196315762Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "56117EB89A7048BE63254ACAE8B96182922B4108",
-      "name": "mango-apple",
+      "address": "0E59E4E5A8DDC89F8736C8D52C9A032A2BB3EF93",
+      "name": "fresh-toy",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "qt+dCiRhc2f8E2/h/z7tG1kPUBtBEr824OjibuauleY="
+        "value": "VbeU2qHeW695yGBsXiNhiHza9WK2+NrZ30LfeLzaqPY="
       }
     }
   ]
