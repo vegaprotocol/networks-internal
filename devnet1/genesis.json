@@ -302,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "qt+dCiRhc2f8E2/h/z7tG1kPUBtBEr824OjibuauleY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/kfyejv59pvfkdm9c4hk5ar5tgjd7zv45?d=identicon",
+        "country": "QT",
+        "ethereum_address": "0x50585fE42524E3E23Eb0f4F8fa13FE75b3Ebc491",
+        "id": "d39269703592b10bed9c679eeb5ce91b2d2364069be0abf93c128e97a727b4f0",
+        "info_url": "https://en.wikipedia.org/wiki/Motion_lines",
+        "name": "mango-apple",
+        "tm_pub_key": "qt+dCiRhc2f8E2/h/z7tG1kPUBtBEr824OjibuauleY=",
+        "vega_pub_key": "9c8881cc81dd4719451a8137cae2acbf1e1bf3b58a28e5a9c42fd230e63e000a",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "u1YaLgOSo9bTaNWUn4dgNiIpH67MhnUXBIpb09F0imc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/nqp2xeyep9l2vrelxhbgye349fp38pwm?d=identicon",
-        "country": "DQ",
-        "ethereum_address": "0x8667CeB3dA82Ad1DCbf51C712E82D5D62d8bc1E7",
-        "id": "767622f2db79dd57fa5974f0fcc61833ae4dc5cc95e362b159728de6acae065f",
-        "info_url": "https://en.wikipedia.org/wiki/Al-Fajr_(surah)",
-        "name": "famous-cloud",
-        "tm_pub_key": "u1YaLgOSo9bTaNWUn4dgNiIpH67MhnUXBIpb09F0imc=",
-        "vega_pub_key": "34b272db85ad16580cd831e8656df3addddf333e4a15977e700085e34f579a6e",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202307051516",
+  "chain_id": "vega-devnet1-202307051612",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-05T15:16:24.957452744Z",
+  "genesis_time": "2023-07-05T16:12:31.114821881Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "8DC04BB6B3A7D3C6B65F22EF29EDDFBFB14E823F",
-      "name": "famous-cloud",
+      "address": "56117EB89A7048BE63254ACAE8B96182922B4108",
+      "name": "mango-apple",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "u1YaLgOSo9bTaNWUn4dgNiIpH67MhnUXBIpb09F0imc="
+        "value": "qt+dCiRhc2f8E2/h/z7tG1kPUBtBEr824OjibuauleY="
       }
     }
   ]
