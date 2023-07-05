@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "6cPtu5DZpR4xhJ3G8L1TzQn7jn9/AfLPUKWY6aay0YA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/lgpzxoriiobbwrkueb1t49v7xem2ewqo?d=identicon",
-        "country": "GL",
-        "ethereum_address": "0x04C2655A03CB5F0E25fE4abF7303D1364693464C",
-        "id": "3835f9e5aae28729fe993d9db9a9bc570f0b660e335bd88f82d2bd4722f35397",
-        "info_url": "https://en.wikipedia.org/wiki/Atys_naucum",
-        "name": "careful-road",
-        "tm_pub_key": "6cPtu5DZpR4xhJ3G8L1TzQn7jn9/AfLPUKWY6aay0YA=",
-        "vega_pub_key": "1807bce53d03603157982e702768c1ae73256fa8bc9a8f15f42ad6de057ecad8",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "xk4yUKr50ddqUN5ai9zHPsNViETx/KjFEhZHr9hsVYw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/plip8mx4nqgtt9wcfyp6m6gb5vncam1e?d=identicon",
+        "country": "XJ",
+        "ethereum_address": "0x7FA59988A6CDBdCb8A559A7478965c00b5258b55",
+        "id": "6f7d2ebad1c4b0cdb76b7d56a89ba502a61e2eb26f2cfb09eee1ad752e79ade2",
+        "info_url": "https://en.wikipedia.org/wiki/Avro_720",
+        "name": "courageous-farmer",
+        "tm_pub_key": "xk4yUKr50ddqUN5ai9zHPsNViETx/KjFEhZHr9hsVYw=",
+        "vega_pub_key": "9cc94c6da847c04baa81603069972025da7d917c33659808cd76c108cf330d93",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202307041645",
+  "chain_id": "vega-devnet1-202307050908",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-04T16:45:13.302748645Z",
+  "genesis_time": "2023-07-05T09:08:33.627581048Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "AC504674970EB418B2710029DB615AA87FA99558",
-      "name": "careful-road",
+      "address": "AA956B8FAF8757FF3B2E6A35C1183FD586A697A2",
+      "name": "courageous-farmer",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "6cPtu5DZpR4xhJ3G8L1TzQn7jn9/AfLPUKWY6aay0YA="
+        "value": "xk4yUKr50ddqUN5ai9zHPsNViETx/KjFEhZHr9hsVYw="
       }
     }
   ]
