@@ -302,17 +302,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "qgmg7cVrfsUtMhmSdlD/p9GT87ayLpviZYFEUrGMDeo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/fl0naj6rg1ir0kqrjnb47cuvdupz7pvm?d=identicon",
-        "country": "OC",
-        "ethereum_address": "0xB10Db05e84B9aa3D49561803B936348b88D8D14d",
-        "id": "929e738ea842ae11d246a5d3cd66a489c5a264a71077ad5c61c52f67d9988d7f",
-        "info_url": "https://en.wikipedia.org/wiki/Ace_Combat_2",
-        "name": "ideal-computer",
-        "tm_pub_key": "qgmg7cVrfsUtMhmSdlD/p9GT87ayLpviZYFEUrGMDeo=",
-        "vega_pub_key": "48a2d50fc360eee5cf62fae14a4097102d94e4f6a71f3774912ae7d70c4cae3e",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "u1YaLgOSo9bTaNWUn4dgNiIpH67MhnUXBIpb09F0imc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/nqp2xeyep9l2vrelxhbgye349fp38pwm?d=identicon",
+        "country": "DQ",
+        "ethereum_address": "0x8667CeB3dA82Ad1DCbf51C712E82D5D62d8bc1E7",
+        "id": "767622f2db79dd57fa5974f0fcc61833ae4dc5cc95e362b159728de6acae065f",
+        "info_url": "https://en.wikipedia.org/wiki/Al-Fajr_(surah)",
+        "name": "famous-cloud",
+        "tm_pub_key": "u1YaLgOSo9bTaNWUn4dgNiIpH67MhnUXBIpb09F0imc=",
+        "vega_pub_key": "34b272db85ad16580cd831e8656df3addddf333e4a15977e700085e34f579a6e",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202307051247",
+  "chain_id": "vega-devnet1-202307051516",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-05T12:47:07.466352297Z",
+  "genesis_time": "2023-07-05T15:16:24.957452744Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "95A77DBA7AD9D2270720E48DE8533900E9D8F270",
-      "name": "ideal-computer",
+      "address": "8DC04BB6B3A7D3C6B65F22EF29EDDFBFB14E823F",
+      "name": "famous-cloud",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "qgmg7cVrfsUtMhmSdlD/p9GT87ayLpviZYFEUrGMDeo="
+        "value": "u1YaLgOSo9bTaNWUn4dgNiIpH67MhnUXBIpb09F0imc="
       }
     }
   ]
