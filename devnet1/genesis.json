@@ -269,15 +269,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "4nadNlH6C3SO7k9VtD0LWsxDyN1/BcWmUtENUu4VsIY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/2n3cobo15n4vc5ialdzewusnx9yu04ak?d=identicon",
-        "country": "KC",
-        "ethereum_address": "0x1259594c11921e59E349b6809eB5463D7d354D72",
-        "id": "a0414a499d7bba020f19aaf07bd7a8e22112fd31e3c04606f74dd8f2f7a94e35",
-        "info_url": "https://en.wikipedia.org/wiki/Sea_of_Treachery",
-        "name": "bored-tree",
-        "tm_pub_key": "4nadNlH6C3SO7k9VtD0LWsxDyN1/BcWmUtENUu4VsIY=",
-        "vega_pub_key": "67f5297b7dbdba4df932971ddee230c22e0638edf709362c20688e3db2439f2e",
+      "5hak+E1JFTTzBkp3wSQhAjDNWO8+NoLF7eaUf5L0aFI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/gjrzu2wmtiw6w9wyix22nms3olfv9l8j?d=identicon",
+        "country": "QM",
+        "ethereum_address": "0x107cD4FEf8F64fE0Bf1dC5AB6a3DddC32Dd51f55",
+        "id": "4074fd9240cd19bd963dc6ceb112f05baeab8d6afd83701d99f75da471ee0d11",
+        "info_url": "https://en.wikipedia.org/wiki/PFF_Women%27s_Cup",
+        "name": "impressionable-pool",
+        "tm_pub_key": "5hak+E1JFTTzBkp3wSQhAjDNWO8+NoLF7eaUf5L0aFI=",
+        "vega_pub_key": "0b6c357dc662aecd35526e73091e5db43cd36f4f89e83d8de26f7881c4de2767",
         "vega_pub_key_index": 1
       },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307061411",
+  "chain_id": "vega-devnet1-202307061550",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-06T14:11:28.067629444Z",
+  "genesis_time": "2023-07-06T15:50:14.109362009Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "32F52676E84729E302DBEF97D86A2CBC59AE71E2",
-      "name": "bored-tree",
+      "address": "3FFC6988084555E84A9FB8764DC3C448D1ACE5BD",
+      "name": "impressionable-pool",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "4nadNlH6C3SO7k9VtD0LWsxDyN1/BcWmUtENUu4VsIY="
+        "value": "5hak+E1JFTTzBkp3wSQhAjDNWO8+NoLF7eaUf5L0aFI="
       }
     }
   ]
