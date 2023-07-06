@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "5hak+E1JFTTzBkp3wSQhAjDNWO8+NoLF7eaUf5L0aFI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/gjrzu2wmtiw6w9wyix22nms3olfv9l8j?d=identicon",
-        "country": "QM",
-        "ethereum_address": "0x107cD4FEf8F64fE0Bf1dC5AB6a3DddC32Dd51f55",
-        "id": "4074fd9240cd19bd963dc6ceb112f05baeab8d6afd83701d99f75da471ee0d11",
-        "info_url": "https://en.wikipedia.org/wiki/PFF_Women%27s_Cup",
-        "name": "impressionable-pool",
-        "tm_pub_key": "5hak+E1JFTTzBkp3wSQhAjDNWO8+NoLF7eaUf5L0aFI=",
-        "vega_pub_key": "0b6c357dc662aecd35526e73091e5db43cd36f4f89e83d8de26f7881c4de2767",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "MLK60wGTJ6Yz29KxCgbiX7aFB6pgugwf7/10NvakUHk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/q7sck9v043glr7yq4ousnj6c3965yro3?d=identicon",
+        "country": "MT",
+        "ethereum_address": "0x86b5642D57e29CDadd35d55FD434f5A3F8BAe744",
+        "id": "a78ff23a17edd3b9c39b2fdb27729a7c9fd8a66c523e2597f835417d3a8849c3",
+        "info_url": "https://en.wikipedia.org/wiki/Julio_Canessa",
+        "name": "quaint-sister",
+        "tm_pub_key": "MLK60wGTJ6Yz29KxCgbiX7aFB6pgugwf7/10NvakUHk=",
+        "vega_pub_key": "197ba9bc7be9b4c2303a36d055fc2d38e0a51a958ad1954aac2703ee47e64927",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307061550",
+  "chain_id": "vega-devnet1-202307061635",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-06T15:50:14.109362009Z",
+  "genesis_time": "2023-07-06T16:35:29.514223712Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "3FFC6988084555E84A9FB8764DC3C448D1ACE5BD",
-      "name": "impressionable-pool",
+      "address": "770F24F4D5AB839A85F8BAACAE177C842F1E6BB1",
+      "name": "quaint-sister",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "5hak+E1JFTTzBkp3wSQhAjDNWO8+NoLF7eaUf5L0aFI="
+        "value": "MLK60wGTJ6Yz29KxCgbiX7aFB6pgugwf7/10NvakUHk="
       }
     }
   ]
