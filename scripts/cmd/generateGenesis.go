@@ -126,6 +126,7 @@ func RunGenerateGenesis(args GenerateGenesisArgs) error {
 		if err != nil {
 			return err
 		}
+		log.Printf("Found checkpoint app hash %s", hash)
 		if err := genesis.Put(".app_state.checkpoint", map[string]string{"load_hash": hash, "state": state}); err != nil {
 			return fmt.Errorf("failed to set app_state.checkpoint, %w", err)
 		}
