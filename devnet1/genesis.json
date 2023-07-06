@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "+iK6B5Gj+mGBDpBeQQQX1a1rkFN1xQyEKLsfR7mKnxk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/blbso8vth216v8yscxp29pa2fa0c114z?d=identicon",
+        "country": "HA",
+        "ethereum_address": "0x2433f7211694Be6a61345eFE869819aBADB232cb",
+        "id": "3b444cb82ca8491a207ff9b145f4ff45e3d66fb658312527a32f387b44b3dcb4",
+        "info_url": "https://en.wikipedia.org/wiki/Brome_(provincial_electoral_district)",
+        "name": "graceful-car",
+        "tm_pub_key": "+iK6B5Gj+mGBDpBeQQQX1a1rkFN1xQyEKLsfR7mKnxk=",
+        "vega_pub_key": "f4dc258088ad4a0856c49956464db8320c3a09f56be0924d20c10e2c3586a336",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "JfhzLNtc4zMkgsfZyhGsgh6WA6/2VDw+4qaJipDPGMU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/5kxnd4ai4tt2ytp797cpuyrlf3c8k0k9?d=identicon",
-        "country": "IG",
-        "ethereum_address": "0x9Dbc3c158D4F4A044c55008eAB07C33D07b8335B",
-        "id": "e60135c6f1003cbf8ddf90a6c202265584d3b8719cda17408deff607d48e6826",
-        "info_url": "https://en.wikipedia.org/wiki/Emil_Jannings",
-        "name": "condescending-bird",
-        "tm_pub_key": "JfhzLNtc4zMkgsfZyhGsgh6WA6/2VDw+4qaJipDPGMU=",
-        "vega_pub_key": "1460f9d93f93851f013d849371c8241708cf98c85678e36e6f76871916c193b9",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307060943",
+  "chain_id": "vega-devnet1-202307061103",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-06T09:43:30.749481408Z",
+  "genesis_time": "2023-07-06T11:03:00.802706672Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "D90CCF5C54BE9CFC0E37647A22973BE495F938FB",
-      "name": "condescending-bird",
+      "address": "021D1E3F5388284EE41F9765336D55FC16DF9CFB",
+      "name": "graceful-car",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "JfhzLNtc4zMkgsfZyhGsgh6WA6/2VDw+4qaJipDPGMU="
+        "value": "+iK6B5Gj+mGBDpBeQQQX1a1rkFN1xQyEKLsfR7mKnxk="
       }
     }
   ]
