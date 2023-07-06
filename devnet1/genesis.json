@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "MLK60wGTJ6Yz29KxCgbiX7aFB6pgugwf7/10NvakUHk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/q7sck9v043glr7yq4ousnj6c3965yro3?d=identicon",
-        "country": "MT",
-        "ethereum_address": "0x86b5642D57e29CDadd35d55FD434f5A3F8BAe744",
-        "id": "a78ff23a17edd3b9c39b2fdb27729a7c9fd8a66c523e2597f835417d3a8849c3",
-        "info_url": "https://en.wikipedia.org/wiki/Julio_Canessa",
-        "name": "quaint-sister",
-        "tm_pub_key": "MLK60wGTJ6Yz29KxCgbiX7aFB6pgugwf7/10NvakUHk=",
-        "vega_pub_key": "197ba9bc7be9b4c2303a36d055fc2d38e0a51a958ad1954aac2703ee47e64927",
+      "oBsQf7+CQbboLGcOIsg4swndWTWSpcWAOJJWP5EUYJI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/na04tsv7azwzop2s7q56crzipz8hd5w5?d=identicon",
+        "country": "SY",
+        "ethereum_address": "0x8303aeDAc840a0dDFAeDD0C8a6675a7296B002a7",
+        "id": "c22d66a8e5e15e0a5939b2c9b2e5849c21cd55bce2ac356668ce36202c5455d4",
+        "info_url": "https://en.wikipedia.org/wiki/Yugoslav_submarine_Hrabri",
+        "name": "immense-music",
+        "tm_pub_key": "oBsQf7+CQbboLGcOIsg4swndWTWSpcWAOJJWP5EUYJI=",
+        "vega_pub_key": "ced1483aaa209067d666da792f8f94321b6ab9074bec3ad8c13654762f266acc",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307061635",
+  "chain_id": "vega-devnet1-202307062002",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-06T16:35:29.514223712Z",
+  "genesis_time": "2023-07-06T20:02:43.559250563Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "770F24F4D5AB839A85F8BAACAE177C842F1E6BB1",
-      "name": "quaint-sister",
+      "address": "EF5DB3FC17D2A2EE4986440E9D1E6BDB2FCC4A57",
+      "name": "immense-music",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "MLK60wGTJ6Yz29KxCgbiX7aFB6pgugwf7/10NvakUHk="
+        "value": "oBsQf7+CQbboLGcOIsg4swndWTWSpcWAOJJWP5EUYJI="
       }
     }
   ]
