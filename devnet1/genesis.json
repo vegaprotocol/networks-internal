@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "4nadNlH6C3SO7k9VtD0LWsxDyN1/BcWmUtENUu4VsIY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/2n3cobo15n4vc5ialdzewusnx9yu04ak?d=identicon",
+        "country": "KC",
+        "ethereum_address": "0x1259594c11921e59E349b6809eB5463D7d354D72",
+        "id": "a0414a499d7bba020f19aaf07bd7a8e22112fd31e3c04606f74dd8f2f7a94e35",
+        "info_url": "https://en.wikipedia.org/wiki/Sea_of_Treachery",
+        "name": "bored-tree",
+        "tm_pub_key": "4nadNlH6C3SO7k9VtD0LWsxDyN1/BcWmUtENUu4VsIY=",
+        "vega_pub_key": "67f5297b7dbdba4df932971ddee230c22e0638edf709362c20688e3db2439f2e",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "iDsKlBDDeh4nN098aamvIrIW57xgwlHpWiZrgYkvcbQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/7453wckhuqrij77ptmytthlwuwoj3g67?d=identicon",
-        "country": "XI",
-        "ethereum_address": "0x5c1c687751c23245496a7189566d7825F80E5658",
-        "id": "e22ca42dbfb4310065f06f03bdcbcee3246b494b0b6bd6986243f914c4cc8ce8",
-        "info_url": "https://en.wikipedia.org/wiki/Pobre_Clara",
-        "name": "unsightly-day",
-        "tm_pub_key": "iDsKlBDDeh4nN098aamvIrIW57xgwlHpWiZrgYkvcbQ=",
-        "vega_pub_key": "0234c16adff910fb862a71eb02bffb5aacf3753ac5621abfa37ad84636f1ee8b",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307061349",
+  "chain_id": "vega-devnet1-202307061411",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-06T13:49:33.261578549Z",
+  "genesis_time": "2023-07-06T14:11:28.067629444Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "1B65BAE7DE77FA9EDAB24E22E89AB059558F0F0F",
-      "name": "unsightly-day",
+      "address": "32F52676E84729E302DBEF97D86A2CBC59AE71E2",
+      "name": "bored-tree",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "iDsKlBDDeh4nN098aamvIrIW57xgwlHpWiZrgYkvcbQ="
+        "value": "4nadNlH6C3SO7k9VtD0LWsxDyN1/BcWmUtENUu4VsIY="
       }
     }
   ]
