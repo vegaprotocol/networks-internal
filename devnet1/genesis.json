@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "85YRuC4YutAkozf4S7r9gyYO516gDAPSuD9w8DnDaMI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/sx5ugfwz3s7f65sshgbqdhq7hxgxen54?d=identicon",
+        "country": "ZX",
+        "ethereum_address": "0xAf737c31B070a7c5B900F46a53cEcA1Cd02338b6",
+        "id": "dd8191dc83afc2d5c09dda969ac9a3f110b5a7d8891337481ebd77b40bd6a28c",
+        "info_url": "https://en.wikipedia.org/wiki/John_Carlini",
+        "name": "quizzical-roof",
+        "tm_pub_key": "85YRuC4YutAkozf4S7r9gyYO516gDAPSuD9w8DnDaMI=",
+        "vega_pub_key": "3f0ea11f9049ce95a64e54616332eb60e725aefad03881440e4e1231f468abdf",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -278,17 +289,6 @@
         "name": "tricky-teacher",
         "tm_pub_key": "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=",
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
-        "vega_pub_key_index": 1
-      },
-      "B4WltgKz08Ii+VT/WmMmvnYKlarVMUzmrddDt27lMp8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ltsidkn8wxt440ocisk7rfno1nwccxxc?d=identicon",
-        "country": "KK",
-        "ethereum_address": "0xF88daF324a9BbEaeE6850fe27c9B4E1C866dea9C",
-        "id": "3a97045feb452a4da8b848dbd1645ad11ef816b95cb104eb561086df6decb783",
-        "info_url": "https://en.wikipedia.org/wiki/James_Ryan_(bishop)",
-        "name": "timely-cat",
-        "tm_pub_key": "B4WltgKz08Ii+VT/WmMmvnYKlarVMUzmrddDt27lMp8=",
-        "vega_pub_key": "de1db10950bbe5519b3d1bd25e58611eb60cee16798ccd973d6a0a943bb876a6",
         "vega_pub_key_index": 1
       },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307071527",
+  "chain_id": "vega-devnet1-202307071625",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-07T15:27:50.810841581Z",
+  "genesis_time": "2023-07-07T16:25:34.529978465Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "FF10AD336BC277C2895A420AA9E24A0700C6FDB2",
-      "name": "timely-cat",
+      "address": "4B65CA1E04EE1C47CA30784DDBC829938148D1AE",
+      "name": "quizzical-roof",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "B4WltgKz08Ii+VT/WmMmvnYKlarVMUzmrddDt27lMp8="
+        "value": "85YRuC4YutAkozf4S7r9gyYO516gDAPSuD9w8DnDaMI="
       }
     }
   ]
