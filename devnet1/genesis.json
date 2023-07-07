@@ -280,6 +280,17 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
+      "B4WltgKz08Ii+VT/WmMmvnYKlarVMUzmrddDt27lMp8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ltsidkn8wxt440ocisk7rfno1nwccxxc?d=identicon",
+        "country": "KK",
+        "ethereum_address": "0xF88daF324a9BbEaeE6850fe27c9B4E1C866dea9C",
+        "id": "3a97045feb452a4da8b848dbd1645ad11ef816b95cb104eb561086df6decb783",
+        "info_url": "https://en.wikipedia.org/wiki/James_Ryan_(bishop)",
+        "name": "timely-cat",
+        "tm_pub_key": "B4WltgKz08Ii+VT/WmMmvnYKlarVMUzmrddDt27lMp8=",
+        "vega_pub_key": "de1db10950bbe5519b3d1bd25e58611eb60cee16798ccd973d6a0a943bb876a6",
+        "vega_pub_key_index": 1
+      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -289,17 +300,6 @@
         "name": "friendly-barber",
         "tm_pub_key": "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=",
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
-        "vega_pub_key_index": 1
-      },
-      "EZhlfW+TYibHfmCoYJmOQFxkKplO3Vet/yvkQ0t1zdA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/gp5of2zxy9lx91v1ekemt9j9nd80qcie?d=identicon",
-        "country": "ZC",
-        "ethereum_address": "0x46E72cC99444E539F7f664c3439E495a55893433",
-        "id": "145a46f2b2ff9279f67b444e2007ff4ef64f9975970cd3a34effb4d83b5f74fe",
-        "info_url": "https://en.wikipedia.org/wiki/2011_Portsmouth_City_Council_election",
-        "name": "perfect-hill",
-        "tm_pub_key": "EZhlfW+TYibHfmCoYJmOQFxkKplO3Vet/yvkQ0t1zdA=",
-        "vega_pub_key": "d62db570e5a4090066a3464594192f208ca68a98652b9047180747f022dd7941",
         "vega_pub_key_index": 1
       },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307071427",
+  "chain_id": "vega-devnet1-202307071500",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-07T14:27:47.95600616Z",
+  "genesis_time": "2023-07-07T15:00:40.033816631Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "309961CB572DA45B4B8DE9A698750DF60BC96832",
-      "name": "perfect-hill",
+      "address": "FF10AD336BC277C2895A420AA9E24A0700C6FDB2",
+      "name": "timely-cat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "EZhlfW+TYibHfmCoYJmOQFxkKplO3Vet/yvkQ0t1zdA="
+        "value": "B4WltgKz08Ii+VT/WmMmvnYKlarVMUzmrddDt27lMp8="
       }
     }
   ]
