@@ -291,6 +291,17 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
+      "EZhlfW+TYibHfmCoYJmOQFxkKplO3Vet/yvkQ0t1zdA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/gp5of2zxy9lx91v1ekemt9j9nd80qcie?d=identicon",
+        "country": "ZC",
+        "ethereum_address": "0x46E72cC99444E539F7f664c3439E495a55893433",
+        "id": "145a46f2b2ff9279f67b444e2007ff4ef64f9975970cd3a34effb4d83b5f74fe",
+        "info_url": "https://en.wikipedia.org/wiki/2011_Portsmouth_City_Council_election",
+        "name": "perfect-hill",
+        "tm_pub_key": "EZhlfW+TYibHfmCoYJmOQFxkKplO3Vet/yvkQ0t1zdA=",
+        "vega_pub_key": "d62db570e5a4090066a3464594192f208ca68a98652b9047180747f022dd7941",
+        "vega_pub_key_index": 1
+      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -300,17 +311,6 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
-        "vega_pub_key_index": 1
-      },
-      "RiWlfEeNB++NKWJrCwODWd4JYrMf0fbX4u6OZzU6mUU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/zhiimvxcjj4qnrehyujk9curpqrtj2w6?d=identicon",
-        "country": "HH",
-        "ethereum_address": "0xd97ec5CDFa53d2Bb9ed2c0AEbc2e399b390D84dE",
-        "id": "a9cfffbe67a92a00baf67912917de0e6a9f28f1d156648720eeb1a6b2e8019ea",
-        "info_url": "https://en.wikipedia.org/wiki/Jerry_Uelsmann",
-        "name": "gray-pool",
-        "tm_pub_key": "RiWlfEeNB++NKWJrCwODWd4JYrMf0fbX4u6OZzU6mUU=",
-        "vega_pub_key": "48bd9ae24d44c3a77f1bc7fe79adbe88520fa62288bd0542d47d9c14d080316b",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307071319",
+  "chain_id": "vega-devnet1-202307071401",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-07T13:19:40.771335469Z",
+  "genesis_time": "2023-07-07T14:01:58.037154748Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "A2026D288E1EA50577D4301316E2F969E2D2846E",
-      "name": "gray-pool",
+      "address": "309961CB572DA45B4B8DE9A698750DF60BC96832",
+      "name": "perfect-hill",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "RiWlfEeNB++NKWJrCwODWd4JYrMf0fbX4u6OZzU6mUU="
+        "value": "EZhlfW+TYibHfmCoYJmOQFxkKplO3Vet/yvkQ0t1zdA="
       }
     }
   ]
