@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "gfRHvTsAf0ZR+DGCdXfCZUa+ml4xU0QMbENpGCEismo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/h8sculqtzfrx4j8qatus82t9p6sfy1ge?d=identicon",
-        "country": "DL",
-        "ethereum_address": "0x6026F6448df601Aca2FB51bb48c79C90dc1E2f12",
-        "id": "c3d895f9be1a1218a96447e488791c3ee6f5a37bf815b9355fa8797e24054167",
-        "info_url": "https://en.wikipedia.org/wiki/Individual_Learning_Plan",
-        "name": "confused-door",
-        "tm_pub_key": "gfRHvTsAf0ZR+DGCdXfCZUa+ml4xU0QMbENpGCEismo=",
-        "vega_pub_key": "902ee7659764964b6524d39e6e32b711ac7b4143caa232cca2ffbf4dd8670152",
+      "RiWlfEeNB++NKWJrCwODWd4JYrMf0fbX4u6OZzU6mUU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/zhiimvxcjj4qnrehyujk9curpqrtj2w6?d=identicon",
+        "country": "HH",
+        "ethereum_address": "0xd97ec5CDFa53d2Bb9ed2c0AEbc2e399b390D84dE",
+        "id": "a9cfffbe67a92a00baf67912917de0e6a9f28f1d156648720eeb1a6b2e8019ea",
+        "info_url": "https://en.wikipedia.org/wiki/Jerry_Uelsmann",
+        "name": "gray-pool",
+        "tm_pub_key": "RiWlfEeNB++NKWJrCwODWd4JYrMf0fbX4u6OZzU6mUU=",
+        "vega_pub_key": "48bd9ae24d44c3a77f1bc7fe79adbe88520fa62288bd0542d47d9c14d080316b",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307071206",
+  "chain_id": "vega-devnet1-202307071319",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-07T12:06:17.716288265Z",
+  "genesis_time": "2023-07-07T13:19:40.771335469Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "DF29DEA730AC2046792C556ABAFF4922E7686376",
-      "name": "confused-door",
+      "address": "A2026D288E1EA50577D4301316E2F969E2D2846E",
+      "name": "gray-pool",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "gfRHvTsAf0ZR+DGCdXfCZUa+ml4xU0QMbENpGCEismo="
+        "value": "RiWlfEeNB++NKWJrCwODWd4JYrMf0fbX4u6OZzU6mUU="
       }
     }
   ]
