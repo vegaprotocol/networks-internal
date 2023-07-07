@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "7tAvWS/hwVDpO/yrpDW+blIy02ZpcarBZM/7KG3nDdU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/1to380g9modksaelip5ydb2dt22534wd?d=identicon",
+        "country": "EL",
+        "ethereum_address": "0x3ed91E4D866fc606cA7b9f4BE65CAE6895197B26",
+        "id": "18e37ae40509d3be7d0db19e75a5d9b635ce57fdb06ebe3e65f370c681a36839",
+        "info_url": "https://en.wikipedia.org/wiki/Joseph_Richardson_(cricketer)",
+        "name": "extensive-car",
+        "tm_pub_key": "7tAvWS/hwVDpO/yrpDW+blIy02ZpcarBZM/7KG3nDdU=",
+        "vega_pub_key": "e6072f3c5310f1860b6776f6988c4298c9a171d1df8d85f7fbef673cc8f0e663",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "oBsQf7+CQbboLGcOIsg4swndWTWSpcWAOJJWP5EUYJI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/na04tsv7azwzop2s7q56crzipz8hd5w5?d=identicon",
-        "country": "SY",
-        "ethereum_address": "0x8303aeDAc840a0dDFAeDD0C8a6675a7296B002a7",
-        "id": "c22d66a8e5e15e0a5939b2c9b2e5849c21cd55bce2ac356668ce36202c5455d4",
-        "info_url": "https://en.wikipedia.org/wiki/Yugoslav_submarine_Hrabri",
-        "name": "immense-music",
-        "tm_pub_key": "oBsQf7+CQbboLGcOIsg4swndWTWSpcWAOJJWP5EUYJI=",
-        "vega_pub_key": "ced1483aaa209067d666da792f8f94321b6ab9074bec3ad8c13654762f266acc",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307062002",
+  "chain_id": "vega-devnet1-202307070636",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-06T20:02:43.559250563Z",
+  "genesis_time": "2023-07-07T06:36:57.598340234Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "EF5DB3FC17D2A2EE4986440E9D1E6BDB2FCC4A57",
-      "name": "immense-music",
+      "address": "4E6F23140809DDDEF5268B7C6DF1EB86E9D8A2E9",
+      "name": "extensive-car",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "oBsQf7+CQbboLGcOIsg4swndWTWSpcWAOJJWP5EUYJI="
+        "value": "7tAvWS/hwVDpO/yrpDW+blIy02ZpcarBZM/7KG3nDdU="
       }
     }
   ]
