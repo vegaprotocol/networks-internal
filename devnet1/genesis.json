@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "7tAvWS/hwVDpO/yrpDW+blIy02ZpcarBZM/7KG3nDdU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/1to380g9modksaelip5ydb2dt22534wd?d=identicon",
-        "country": "EL",
-        "ethereum_address": "0x3ed91E4D866fc606cA7b9f4BE65CAE6895197B26",
-        "id": "18e37ae40509d3be7d0db19e75a5d9b635ce57fdb06ebe3e65f370c681a36839",
-        "info_url": "https://en.wikipedia.org/wiki/Joseph_Richardson_(cricketer)",
-        "name": "extensive-car",
-        "tm_pub_key": "7tAvWS/hwVDpO/yrpDW+blIy02ZpcarBZM/7KG3nDdU=",
-        "vega_pub_key": "e6072f3c5310f1860b6776f6988c4298c9a171d1df8d85f7fbef673cc8f0e663",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "gfRHvTsAf0ZR+DGCdXfCZUa+ml4xU0QMbENpGCEismo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/h8sculqtzfrx4j8qatus82t9p6sfy1ge?d=identicon",
+        "country": "DL",
+        "ethereum_address": "0x6026F6448df601Aca2FB51bb48c79C90dc1E2f12",
+        "id": "c3d895f9be1a1218a96447e488791c3ee6f5a37bf815b9355fa8797e24054167",
+        "info_url": "https://en.wikipedia.org/wiki/Individual_Learning_Plan",
+        "name": "confused-door",
+        "tm_pub_key": "gfRHvTsAf0ZR+DGCdXfCZUa+ml4xU0QMbENpGCEismo=",
+        "vega_pub_key": "902ee7659764964b6524d39e6e32b711ac7b4143caa232cca2ffbf4dd8670152",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307070636",
+  "chain_id": "vega-devnet1-202307071206",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-07T06:36:57.598340234Z",
+  "genesis_time": "2023-07-07T12:06:17.716288265Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "4E6F23140809DDDEF5268B7C6DF1EB86E9D8A2E9",
-      "name": "extensive-car",
+      "address": "DF29DEA730AC2046792C556ABAFF4922E7686376",
+      "name": "confused-door",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "7tAvWS/hwVDpO/yrpDW+blIy02ZpcarBZM/7KG3nDdU="
+        "value": "gfRHvTsAf0ZR+DGCdXfCZUa+ml4xU0QMbENpGCEismo="
       }
     }
   ]
