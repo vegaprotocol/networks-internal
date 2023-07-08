@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "+ovjtj3EiyH9WFyeG1NLwxP+wBBA8mYHxtrXF+Xw4RA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ruivr6hmwjz7dztcfdv8e6n4zfbvd0di?d=identicon",
-        "country": "HE",
-        "ethereum_address": "0x954AA1577208fF4B5F5338AF7D991C56B40834DB",
-        "id": "2ea36f84806a0cc6f5e468d1c285a23065b16cc871237ccb48adfa5032a68129",
-        "info_url": "https://en.wikipedia.org/wiki/Win_Aung_(businessman)",
-        "name": "bright-cloud",
-        "tm_pub_key": "+ovjtj3EiyH9WFyeG1NLwxP+wBBA8mYHxtrXF+Xw4RA=",
-        "vega_pub_key": "a6706e1c5eadebf3ce353244d66e5cb77ce5ffc3e211315ace6f4404b7a3b4b6",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -300,6 +289,17 @@
         "name": "friendly-barber",
         "tm_pub_key": "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=",
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
+        "vega_pub_key_index": 1
+      },
+      "J2wPGoRKLX4yOBkF0plmCR8HtiYXkNEBgIKhk3Ify6I=": {
+        "avatar_url": "https://www.gravatar.com/avatar/wfdmgylrir4jgf3utvzb5votgm9cs0rf?d=identicon",
+        "country": "HS",
+        "ethereum_address": "0xEf780016F90F9a2B2CE1E90CF1F1C0A4E07cfDce",
+        "id": "74cb6a220b9ff255bbc11cf7d501b845093febdb8c32d3574aa9cd5d1dca679d",
+        "info_url": "https://en.wikipedia.org/wiki/Ataenius_carinator",
+        "name": "purple-door",
+        "tm_pub_key": "J2wPGoRKLX4yOBkF0plmCR8HtiYXkNEBgIKhk3Ify6I=",
+        "vega_pub_key": "74fdbdf00af2a1409bc94468ab64d07ff2dc95ea6b22451d6b8a2c88ae9bae51",
         "vega_pub_key_index": 1
       },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307080809",
+  "chain_id": "vega-devnet1-202307081122",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-08T08:09:14.441993324Z",
+  "genesis_time": "2023-07-08T11:22:59.341132362Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "7E11C4B13982869C436FCCAD6ED067FE34C4E6FC",
-      "name": "bright-cloud",
+      "address": "999F794CFF79191B9BC4D1B42BEECC70BD054925",
+      "name": "purple-door",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "+ovjtj3EiyH9WFyeG1NLwxP+wBBA8mYHxtrXF+Xw4RA="
+        "value": "J2wPGoRKLX4yOBkF0plmCR8HtiYXkNEBgIKhk3Ify6I="
       }
     }
   ]
