@@ -291,17 +291,6 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
-      "J2wPGoRKLX4yOBkF0plmCR8HtiYXkNEBgIKhk3Ify6I=": {
-        "avatar_url": "https://www.gravatar.com/avatar/wfdmgylrir4jgf3utvzb5votgm9cs0rf?d=identicon",
-        "country": "HS",
-        "ethereum_address": "0xEf780016F90F9a2B2CE1E90CF1F1C0A4E07cfDce",
-        "id": "74cb6a220b9ff255bbc11cf7d501b845093febdb8c32d3574aa9cd5d1dca679d",
-        "info_url": "https://en.wikipedia.org/wiki/Ataenius_carinator",
-        "name": "purple-door",
-        "tm_pub_key": "J2wPGoRKLX4yOBkF0plmCR8HtiYXkNEBgIKhk3Ify6I=",
-        "vega_pub_key": "74fdbdf00af2a1409bc94468ab64d07ff2dc95ea6b22451d6b8a2c88ae9bae51",
-        "vega_pub_key_index": 1
-      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -311,6 +300,17 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
+        "vega_pub_key_index": 1
+      },
+      "QIkIhU3TnMU4aMpvIogiZ3prb93+XuvcyPB2kKlL95k=": {
+        "avatar_url": "https://www.gravatar.com/avatar/3u92qsn4jkztjy5p80tv9u7jva2kamxk?d=identicon",
+        "country": "HY",
+        "ethereum_address": "0xa2Ce39462535872bA30beF63E808B13029e91FDf",
+        "id": "f7e7ea396a304d506b2667f6d990e1fb2e3e51fd3a98ed3ce4138a046bade4ce",
+        "info_url": "https://en.wikipedia.org/wiki/French_corvette_Aurore_(1799)",
+        "name": "perplexed-chimney",
+        "tm_pub_key": "QIkIhU3TnMU4aMpvIogiZ3prb93+XuvcyPB2kKlL95k=",
+        "vega_pub_key": "360512860995a287c3ee2068527a37a0ff4709fa277041189359b2c63021d85e",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307081122",
+  "chain_id": "vega-devnet1-202307081426",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-08T11:22:59.341132362Z",
+  "genesis_time": "2023-07-08T14:26:07.849755243Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "999F794CFF79191B9BC4D1B42BEECC70BD054925",
-      "name": "purple-door",
+      "address": "DF2B74657D733C6DBE99147B7877AA26969309AE",
+      "name": "perplexed-chimney",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "J2wPGoRKLX4yOBkF0plmCR8HtiYXkNEBgIKhk3Ify6I="
+        "value": "QIkIhU3TnMU4aMpvIogiZ3prb93+XuvcyPB2kKlL95k="
       }
     }
   ]
