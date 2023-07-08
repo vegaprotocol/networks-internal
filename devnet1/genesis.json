@@ -269,15 +269,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "85YRuC4YutAkozf4S7r9gyYO516gDAPSuD9w8DnDaMI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/sx5ugfwz3s7f65sshgbqdhq7hxgxen54?d=identicon",
-        "country": "ZX",
-        "ethereum_address": "0xAf737c31B070a7c5B900F46a53cEcA1Cd02338b6",
-        "id": "dd8191dc83afc2d5c09dda969ac9a3f110b5a7d8891337481ebd77b40bd6a28c",
-        "info_url": "https://en.wikipedia.org/wiki/John_Carlini",
-        "name": "quizzical-roof",
-        "tm_pub_key": "85YRuC4YutAkozf4S7r9gyYO516gDAPSuD9w8DnDaMI=",
-        "vega_pub_key": "3f0ea11f9049ce95a64e54616332eb60e725aefad03881440e4e1231f468abdf",
+      "+ovjtj3EiyH9WFyeG1NLwxP+wBBA8mYHxtrXF+Xw4RA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ruivr6hmwjz7dztcfdv8e6n4zfbvd0di?d=identicon",
+        "country": "HE",
+        "ethereum_address": "0x954AA1577208fF4B5F5338AF7D991C56B40834DB",
+        "id": "2ea36f84806a0cc6f5e468d1c285a23065b16cc871237ccb48adfa5032a68129",
+        "info_url": "https://en.wikipedia.org/wiki/Win_Aung_(businessman)",
+        "name": "bright-cloud",
+        "tm_pub_key": "+ovjtj3EiyH9WFyeG1NLwxP+wBBA8mYHxtrXF+Xw4RA=",
+        "vega_pub_key": "a6706e1c5eadebf3ce353244d66e5cb77ce5ffc3e211315ace6f4404b7a3b4b6",
         "vega_pub_key_index": 1
       },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307071625",
+  "chain_id": "vega-devnet1-202307080809",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-07T16:25:34.529978465Z",
+  "genesis_time": "2023-07-08T08:09:14.441993324Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "4B65CA1E04EE1C47CA30784DDBC829938148D1AE",
-      "name": "quizzical-roof",
+      "address": "7E11C4B13982869C436FCCAD6ED067FE34C4E6FC",
+      "name": "bright-cloud",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "85YRuC4YutAkozf4S7r9gyYO516gDAPSuD9w8DnDaMI="
+        "value": "+ovjtj3EiyH9WFyeG1NLwxP+wBBA8mYHxtrXF+Xw4RA="
       }
     }
   ]
