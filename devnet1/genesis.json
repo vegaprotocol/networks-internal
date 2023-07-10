@@ -291,6 +291,17 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
+      "EWYRAjo1xb5/noMMiFh/YaYBq0m3Kwf1EjZVMVdcoTU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/q2ft31rjyqa8ztxxwcjc8lx1psdraupb?d=identicon",
+        "country": "GE",
+        "ethereum_address": "0x2A6c3cA7a015BE98F4D6C5632614A300148FE13d",
+        "id": "5e2a32037de95ffda03b7304f561541730fa73a4ddd466b23c319bb4f90812a1",
+        "info_url": "https://en.wikipedia.org/wiki/Robert_Gebhardt",
+        "name": "rhythmic-cloud",
+        "tm_pub_key": "EWYRAjo1xb5/noMMiFh/YaYBq0m3Kwf1EjZVMVdcoTU=",
+        "vega_pub_key": "3f28bbfcc80d4a8ea22aea7f9aa706c28e7097cf17e8b21909a88832502d4b3c",
+        "vega_pub_key_index": 1
+      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -300,17 +311,6 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
-        "vega_pub_key_index": 1
-      },
-      "QIkIhU3TnMU4aMpvIogiZ3prb93+XuvcyPB2kKlL95k=": {
-        "avatar_url": "https://www.gravatar.com/avatar/3u92qsn4jkztjy5p80tv9u7jva2kamxk?d=identicon",
-        "country": "HY",
-        "ethereum_address": "0xa2Ce39462535872bA30beF63E808B13029e91FDf",
-        "id": "f7e7ea396a304d506b2667f6d990e1fb2e3e51fd3a98ed3ce4138a046bade4ce",
-        "info_url": "https://en.wikipedia.org/wiki/French_corvette_Aurore_(1799)",
-        "name": "perplexed-chimney",
-        "tm_pub_key": "QIkIhU3TnMU4aMpvIogiZ3prb93+XuvcyPB2kKlL95k=",
-        "vega_pub_key": "360512860995a287c3ee2068527a37a0ff4709fa277041189359b2c63021d85e",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307081426",
+  "chain_id": "vega-devnet1-202307100127",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-08T14:26:07.849755243Z",
+  "genesis_time": "2023-07-10T01:27:18.729378341Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "DF2B74657D733C6DBE99147B7877AA26969309AE",
-      "name": "perplexed-chimney",
+      "address": "EBDBE6D26FDEB9D2DBE1C59E7E8E99A6375A9975",
+      "name": "rhythmic-cloud",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "QIkIhU3TnMU4aMpvIogiZ3prb93+XuvcyPB2kKlL95k="
+        "value": "EWYRAjo1xb5/noMMiFh/YaYBq0m3Kwf1EjZVMVdcoTU="
       }
     }
   ]
