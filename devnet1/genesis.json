@@ -291,15 +291,15 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
-      "EWYRAjo1xb5/noMMiFh/YaYBq0m3Kwf1EjZVMVdcoTU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/q2ft31rjyqa8ztxxwcjc8lx1psdraupb?d=identicon",
-        "country": "GE",
-        "ethereum_address": "0x2A6c3cA7a015BE98F4D6C5632614A300148FE13d",
-        "id": "5e2a32037de95ffda03b7304f561541730fa73a4ddd466b23c319bb4f90812a1",
-        "info_url": "https://en.wikipedia.org/wiki/Robert_Gebhardt",
-        "name": "rhythmic-cloud",
-        "tm_pub_key": "EWYRAjo1xb5/noMMiFh/YaYBq0m3Kwf1EjZVMVdcoTU=",
-        "vega_pub_key": "3f28bbfcc80d4a8ea22aea7f9aa706c28e7097cf17e8b21909a88832502d4b3c",
+      "E+vkoARF0NJfGMKBQSAJIcdAIYnxvSU2b+DrEihQekA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/qbn7epp3kuuwudu69xqmgbo2v8b8ss99?d=identicon",
+        "country": "ZS",
+        "ethereum_address": "0x0f20197f1440f9F87dCee26078Acea13Dbd670F5",
+        "id": "cdea49f9212c7de0d25b8b60e2455b418d0a4bc213160cb41a47fa71e59ae61f",
+        "info_url": "https://en.wikipedia.org/wiki/Digital_Accountability_and_Transparency_Act_of_2013",
+        "name": "crashing-cookie",
+        "tm_pub_key": "E+vkoARF0NJfGMKBQSAJIcdAIYnxvSU2b+DrEihQekA=",
+        "vega_pub_key": "dfd4b5e86ca184ec8b3e5526239efa1492058ad54d88eb2d6006cd7260325572",
         "vega_pub_key_index": 1
       },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307100127",
+  "chain_id": "vega-devnet1-202307101343",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-10T01:27:18.729378341Z",
+  "genesis_time": "2023-07-10T13:43:42.255019487Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "EBDBE6D26FDEB9D2DBE1C59E7E8E99A6375A9975",
-      "name": "rhythmic-cloud",
+      "address": "7009667331F2BBAD868C9075B5F6A97A31D16336",
+      "name": "crashing-cookie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "EWYRAjo1xb5/noMMiFh/YaYBq0m3Kwf1EjZVMVdcoTU="
+        "value": "E+vkoARF0NJfGMKBQSAJIcdAIYnxvSU2b+DrEihQekA="
       }
     }
   ]
