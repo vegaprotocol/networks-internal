@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "L9wcyDQl09KD8h16Tbhqi2N6QRcwMaWG8dN5FqqAev4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/l14j6tvvff3j0xqsau81jtt6ucut20kc?d=identicon",
-        "country": "XD",
-        "ethereum_address": "0xa6d68A8b9aC327B5C5AebEC1038B57266272f5Cc",
-        "id": "676c9705b0e49d07590c07a498a865f38f753c0bde2134e6989c77025a48d2f7",
-        "info_url": "https://en.wikipedia.org/wiki/Mohammad_Mansouri_(born_1979)",
-        "name": "scruffy-table",
-        "tm_pub_key": "L9wcyDQl09KD8h16Tbhqi2N6QRcwMaWG8dN5FqqAev4=",
-        "vega_pub_key": "fafbf9b0b0e9e1bc06311dd5fce79479fb9d76ff7317dbdabacb24e54ac89395",
+      "Mchqhd2HOhgNms24wMqPZa9H2K4O1EBxxvQlu3iSVb8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/6905zf6d93b6ffzhp4teds1ceeua5p8t?d=identicon",
+        "country": "MA",
+        "ethereum_address": "0x2312e00013AF20c3F1eaB23bf880ea20c0327787",
+        "id": "abe26566013627247babf40e649ac45e8c320257511a05f2ed9a5006e56f1cc9",
+        "info_url": "https://en.wikipedia.org/wiki/Bal%C3%A0fia",
+        "name": "happy-beach",
+        "tm_pub_key": "Mchqhd2HOhgNms24wMqPZa9H2K4O1EBxxvQlu3iSVb8=",
+        "vega_pub_key": "2e26dbd94437ffc970b180473de9fbd5166985c501dd3a577fbdcbf3b144a353",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307111526",
+  "chain_id": "vega-devnet1-202307111619",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-11T15:26:16.409725408Z",
+  "genesis_time": "2023-07-11T16:19:50.494020354Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "90517CF18588D3F70809DC9B5AEDAF0AB252AD83",
-      "name": "scruffy-table",
+      "address": "FD8872B41C7CDE6CD6CA5F69CC45132250033EB2",
+      "name": "happy-beach",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "L9wcyDQl09KD8h16Tbhqi2N6QRcwMaWG8dN5FqqAev4="
+        "value": "Mchqhd2HOhgNms24wMqPZa9H2K4O1EBxxvQlu3iSVb8="
       }
     }
   ]
