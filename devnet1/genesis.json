@@ -302,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "osMCmkAE2KgkLQHs966EXUBh7B4WHmnxLFpUbuD3zy4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/eg44i2fkjjmx5krsabsitotzc31v0c2z?d=identicon",
+        "country": "VE",
+        "ethereum_address": "0x5aC602a476b6148e6604e7924Afc8821f55ad306",
+        "id": "d641ff703519da63a3839fe529f260f6fb38b5320228b099f45c81232bf6bdf7",
+        "info_url": "https://en.wikipedia.org/wiki/Blond_Eckbert",
+        "name": "wrong-pond",
+        "tm_pub_key": "osMCmkAE2KgkLQHs966EXUBh7B4WHmnxLFpUbuD3zy4=",
+        "vega_pub_key": "b2a769caf508825990d68a8ccf6eb1cc483792e635e2d655529efc9441fd0e27",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "uKDaJs+Qj8m/haC3sUfs61eFQECEk/nOKCxh+TfTng4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/r6ba7qc57x9nd3zdbk7wdpsc7gqn36s7?d=identicon",
-        "country": "GJ",
-        "ethereum_address": "0x86feb9bD2Ca1be1C2a227d9EdC0072e045419278",
-        "id": "bc2e69a95e25fc75baadbaa180fc1041d14b4dfb27ff99023bdce5427bdb525f",
-        "info_url": "https://en.wikipedia.org/wiki/Cheese_Factories_on_the_Moon",
-        "name": "hollow-fan",
-        "tm_pub_key": "uKDaJs+Qj8m/haC3sUfs61eFQECEk/nOKCxh+TfTng4=",
-        "vega_pub_key": "6af2a04b6fbb6faed1717db6e7f282c23831b198cf40e054507f16a5c5b76608",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202307111020",
+  "chain_id": "vega-devnet1-202307111213",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-11T10:20:16.781371258Z",
+  "genesis_time": "2023-07-11T12:13:30.40002978Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "FBFFA76EF13E6D4CCD411432318FA00A56B865F8",
-      "name": "hollow-fan",
+      "address": "91F6F2E4C9F89962E45476D17F5D84890A6A3E54",
+      "name": "wrong-pond",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "uKDaJs+Qj8m/haC3sUfs61eFQECEk/nOKCxh+TfTng4="
+        "value": "osMCmkAE2KgkLQHs966EXUBh7B4WHmnxLFpUbuD3zy4="
       }
     }
   ]
