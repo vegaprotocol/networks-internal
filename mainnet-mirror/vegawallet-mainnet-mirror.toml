@@ -9,14 +9,14 @@ TokenExpiry = "168h0m0s"
 [API]
 
   [API.GRPC]
-    Hosts = ["api.mainnet-mirror.vega.xyz:3007"]
+    Hosts = ["api.mainnet-mirror.vega.rocks:3007"]
     Retries = 5
 
   [API.GraphQL]
-    Hosts = ["https://api.mainnet-mirror.vega.xyz/query"]
+    Hosts = ["https://api.mainnet-mirror.vega.rocks/graphql"]
 
   [API.REST]
-    Hosts = ["https://api.mainnet-mirror.vega.xyz"]
+    Hosts = ["https://api.mainnet-mirror.vega.rocks"]
 
 [Console]
   LocalPort = 1847
