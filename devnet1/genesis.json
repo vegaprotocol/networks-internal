@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "osMCmkAE2KgkLQHs966EXUBh7B4WHmnxLFpUbuD3zy4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/eg44i2fkjjmx5krsabsitotzc31v0c2z?d=identicon",
-        "country": "VE",
-        "ethereum_address": "0x5aC602a476b6148e6604e7924Afc8821f55ad306",
-        "id": "d641ff703519da63a3839fe529f260f6fb38b5320228b099f45c81232bf6bdf7",
-        "info_url": "https://en.wikipedia.org/wiki/Blond_Eckbert",
-        "name": "wrong-pond",
-        "tm_pub_key": "osMCmkAE2KgkLQHs966EXUBh7B4WHmnxLFpUbuD3zy4=",
-        "vega_pub_key": "b2a769caf508825990d68a8ccf6eb1cc483792e635e2d655529efc9441fd0e27",
+      "L9wcyDQl09KD8h16Tbhqi2N6QRcwMaWG8dN5FqqAev4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/l14j6tvvff3j0xqsau81jtt6ucut20kc?d=identicon",
+        "country": "XD",
+        "ethereum_address": "0xa6d68A8b9aC327B5C5AebEC1038B57266272f5Cc",
+        "id": "676c9705b0e49d07590c07a498a865f38f753c0bde2134e6989c77025a48d2f7",
+        "info_url": "https://en.wikipedia.org/wiki/Mohammad_Mansouri_(born_1979)",
+        "name": "scruffy-table",
+        "tm_pub_key": "L9wcyDQl09KD8h16Tbhqi2N6QRcwMaWG8dN5FqqAev4=",
+        "vega_pub_key": "fafbf9b0b0e9e1bc06311dd5fce79479fb9d76ff7317dbdabacb24e54ac89395",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307111213",
+  "chain_id": "vega-devnet1-202307111526",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-11T12:13:30.40002978Z",
+  "genesis_time": "2023-07-11T15:26:16.409725408Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "91F6F2E4C9F89962E45476D17F5D84890A6A3E54",
-      "name": "wrong-pond",
+      "address": "90517CF18588D3F70809DC9B5AEDAF0AB252AD83",
+      "name": "scruffy-table",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "osMCmkAE2KgkLQHs966EXUBh7B4WHmnxLFpUbuD3zy4="
+        "value": "L9wcyDQl09KD8h16Tbhqi2N6QRcwMaWG8dN5FqqAev4="
       }
     }
   ]
