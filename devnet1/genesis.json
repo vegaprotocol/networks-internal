@@ -291,17 +291,6 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
-      "E+vkoARF0NJfGMKBQSAJIcdAIYnxvSU2b+DrEihQekA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/qbn7epp3kuuwudu69xqmgbo2v8b8ss99?d=identicon",
-        "country": "ZS",
-        "ethereum_address": "0x0f20197f1440f9F87dCee26078Acea13Dbd670F5",
-        "id": "cdea49f9212c7de0d25b8b60e2455b418d0a4bc213160cb41a47fa71e59ae61f",
-        "info_url": "https://en.wikipedia.org/wiki/Digital_Accountability_and_Transparency_Act_of_2013",
-        "name": "crashing-cookie",
-        "tm_pub_key": "E+vkoARF0NJfGMKBQSAJIcdAIYnxvSU2b+DrEihQekA=",
-        "vega_pub_key": "dfd4b5e86ca184ec8b3e5526239efa1492058ad54d88eb2d6006cd7260325572",
-        "vega_pub_key_index": 1
-      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -311,6 +300,17 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
+        "vega_pub_key_index": 1
+      },
+      "baqjLjtAzG7mfTYWBmMoR3CEs3X6FurrfcWHQ2IlY5Q=": {
+        "avatar_url": "https://www.gravatar.com/avatar/mtikz6zf68ql08boxupu10z2olljsygb?d=identicon",
+        "country": "NI",
+        "ethereum_address": "0x3D41404094191125Cf22F01f950baF1f7d7A640F",
+        "id": "aaa3b5818e84e1145ce0992e73b10d8fc14bff5161b943798943e36ea8ded7b0",
+        "info_url": "https://en.wikipedia.org/wiki/Bruno_Cappelozza",
+        "name": "shy-flowers",
+        "tm_pub_key": "baqjLjtAzG7mfTYWBmMoR3CEs3X6FurrfcWHQ2IlY5Q=",
+        "vega_pub_key": "7891079d08dd3adfb32a00d67097d2ca0801c3ccdf160356f68c010ad3f6931d",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307101343",
+  "chain_id": "vega-devnet1-202307110929",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-10T13:43:42.255019487Z",
+  "genesis_time": "2023-07-11T09:29:48.712188395Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "7009667331F2BBAD868C9075B5F6A97A31D16336",
-      "name": "crashing-cookie",
+      "address": "19B2559D612839C515D50D53945F11561D7465F8",
+      "name": "shy-flowers",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "E+vkoARF0NJfGMKBQSAJIcdAIYnxvSU2b+DrEihQekA="
+        "value": "baqjLjtAzG7mfTYWBmMoR3CEs3X6FurrfcWHQ2IlY5Q="
       }
     }
   ]
