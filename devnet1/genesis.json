@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "Mchqhd2HOhgNms24wMqPZa9H2K4O1EBxxvQlu3iSVb8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/6905zf6d93b6ffzhp4teds1ceeua5p8t?d=identicon",
-        "country": "MA",
-        "ethereum_address": "0x2312e00013AF20c3F1eaB23bf880ea20c0327787",
-        "id": "abe26566013627247babf40e649ac45e8c320257511a05f2ed9a5006e56f1cc9",
-        "info_url": "https://en.wikipedia.org/wiki/Bal%C3%A0fia",
-        "name": "happy-beach",
-        "tm_pub_key": "Mchqhd2HOhgNms24wMqPZa9H2K4O1EBxxvQlu3iSVb8=",
-        "vega_pub_key": "2e26dbd94437ffc970b180473de9fbd5166985c501dd3a577fbdcbf3b144a353",
+      "PahCyFtSbRWS5a9Dqd+pW70EiFE9vSeqXLGLpyrO9oQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/uunmmwr26ur0am3ptqg9qx70t4lzs8cw?d=identicon",
+        "country": "JZ",
+        "ethereum_address": "0x8A8878599a68239A8037047a4310C8b59Af088D0",
+        "id": "f056de6ea9a588982d00c6e345f4c6edad07d9e5132c57d7f28d7f5c7e02aa46",
+        "info_url": "https://en.wikipedia.org/wiki/Saray,_Tekirda%C4%9F",
+        "name": "gray-pool",
+        "tm_pub_key": "PahCyFtSbRWS5a9Dqd+pW70EiFE9vSeqXLGLpyrO9oQ=",
+        "vega_pub_key": "7605a61a4d756a27ddbad2ec60f443725081b935c76f77a3e6243b4c047767c1",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307111619",
+  "chain_id": "vega-devnet1-202307120851",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-11T16:19:50.494020354Z",
+  "genesis_time": "2023-07-12T08:51:45.461802387Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "FD8872B41C7CDE6CD6CA5F69CC45132250033EB2",
-      "name": "happy-beach",
+      "address": "BB06A1055CF7A2E1A26C9F5AFA68F4A11DDF0250",
+      "name": "gray-pool",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Mchqhd2HOhgNms24wMqPZa9H2K4O1EBxxvQlu3iSVb8="
+        "value": "PahCyFtSbRWS5a9Dqd+pW70EiFE9vSeqXLGLpyrO9oQ="
       }
     }
   ]
