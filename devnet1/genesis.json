@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "mg+g9S0bDtvQLnxsZaHvFd7riRIM1oNVZvUlkJ+EaVI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/j0x3vfho6benowtzyqt5wdgjqilvku74?d=identicon",
-        "country": "NK",
-        "ethereum_address": "0x375Fc88F2Acd1FE26AE3f3a00228D9C134F73384",
-        "id": "0cfb72497ab1ae0e4eeb2810390dd67d9aef1f40868f611a0eaf7ef71c790049",
-        "info_url": "https://en.wikipedia.org/wiki/Paginatan_(state_constituency)",
-        "name": "wrong-horse",
-        "tm_pub_key": "mg+g9S0bDtvQLnxsZaHvFd7riRIM1oNVZvUlkJ+EaVI=",
-        "vega_pub_key": "54a7fc6fc26d2377dc4839788721cde66f06887da80a5eece0450986dd5e2760",
+      "i4BJ/L8WPUl00ohg2OtsPmEAJoyD2vmBXgao5JQn6eI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/j75fay8bgrem3vbaypi2iumz2mvzb3z6?d=identicon",
+        "country": "IG",
+        "ethereum_address": "0x50e41Fc52225215e2646aFC1845232404422Ad6d",
+        "id": "261c6bc7920cf0b855c17cd2b7c6e6dd8cbd45de4dc5690a31337ff7e456c286",
+        "info_url": "https://en.wikipedia.org/wiki/Durrett-Jarratt_House",
+        "name": "unkempt-window",
+        "tm_pub_key": "i4BJ/L8WPUl00ohg2OtsPmEAJoyD2vmBXgao5JQn6eI=",
+        "vega_pub_key": "483c437a8f6d198daa6edd2c2e86ce32ca7762ab636e6a392c1cf0474583d5b6",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307121115",
+  "chain_id": "vega-devnet1-202307121601",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-12T11:15:59.234865175Z",
+  "genesis_time": "2023-07-12T16:01:14.988620233Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "BC0F819EF919EAF6D2E78B0301782D79C98CFC1F",
-      "name": "wrong-horse",
+      "address": "BB5C52310DF4152DC8CE0337492531F2EF58F175",
+      "name": "unkempt-window",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "mg+g9S0bDtvQLnxsZaHvFd7riRIM1oNVZvUlkJ+EaVI="
+        "value": "i4BJ/L8WPUl00ohg2OtsPmEAJoyD2vmBXgao5JQn6eI="
       }
     }
   ]
