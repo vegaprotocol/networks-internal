@@ -302,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "p2ZHa4vTiwJy8sC6De1Bz0p17VhiYXA+/z+dtyRnw4g=": {
+        "avatar_url": "https://www.gravatar.com/avatar/pu6riv9i9rjeu4b1hf5zof8etctyjpip?d=identicon",
+        "country": "AE",
+        "ethereum_address": "0xCADa9Aa29EF6021c8E8aa0434e15933723481170",
+        "id": "6e203e3929e8d1e55d132da6f8b644361d34e998677a07cde5936a09501799a1",
+        "info_url": "https://en.wikipedia.org/wiki/1837_Anglesey_by-election",
+        "name": "quizzical-apple",
+        "tm_pub_key": "p2ZHa4vTiwJy8sC6De1Bz0p17VhiYXA+/z+dtyRnw4g=",
+        "vega_pub_key": "b4a9bbe3034c5a7b8fa81cbfb1d63976a9ee8f2f6426600662e5839b429504e9",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "u8QOxqUK+X/BWHyHRpmXZS5HCqU86xQ74favuACQrxM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/eqkhow7o84enrjwnxcy95uks660c21zf?d=identicon",
-        "country": "YR",
-        "ethereum_address": "0x72Cc2b8e94f5904120C2Ae6ed2005C48dd96FdaA",
-        "id": "be2cacbf92e6064a29498e6ecb19b12987e6bee603c07c9e9a164894a5f95632",
-        "info_url": "https://en.wikipedia.org/wiki/Chwalborzyce",
-        "name": "noisy-pen",
-        "tm_pub_key": "u8QOxqUK+X/BWHyHRpmXZS5HCqU86xQ74favuACQrxM=",
-        "vega_pub_key": "50850d442e4c4395e048f174110faa48e813db3e017f5ec0a67ea31c4a2c2f67",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202307130646",
+  "chain_id": "vega-devnet1-202307130811",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-13T06:46:51.828894098Z",
+  "genesis_time": "2023-07-13T08:11:35.942551811Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "09CA4B02803951CED10FAEFE6CCDD9129B2E1420",
-      "name": "noisy-pen",
+      "address": "FE4FEEC4D34AC4F7FE37667CCCD7D0074C9A5B4C",
+      "name": "quizzical-apple",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "u8QOxqUK+X/BWHyHRpmXZS5HCqU86xQ74favuACQrxM="
+        "value": "p2ZHa4vTiwJy8sC6De1Bz0p17VhiYXA+/z+dtyRnw4g="
       }
     }
   ]
