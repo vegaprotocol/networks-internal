@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "p2ZHa4vTiwJy8sC6De1Bz0p17VhiYXA+/z+dtyRnw4g=": {
-        "avatar_url": "https://www.gravatar.com/avatar/pu6riv9i9rjeu4b1hf5zof8etctyjpip?d=identicon",
-        "country": "AE",
-        "ethereum_address": "0xCADa9Aa29EF6021c8E8aa0434e15933723481170",
-        "id": "6e203e3929e8d1e55d132da6f8b644361d34e998677a07cde5936a09501799a1",
-        "info_url": "https://en.wikipedia.org/wiki/1837_Anglesey_by-election",
-        "name": "quizzical-apple",
-        "tm_pub_key": "p2ZHa4vTiwJy8sC6De1Bz0p17VhiYXA+/z+dtyRnw4g=",
-        "vega_pub_key": "b4a9bbe3034c5a7b8fa81cbfb1d63976a9ee8f2f6426600662e5839b429504e9",
+      "dbydsKyHzXuhJQCHxGbGKOoxHbe1DD6eDQQjPRiaqec=": {
+        "avatar_url": "https://www.gravatar.com/avatar/katvotjohke05r5saj3350bmza0htuct?d=identicon",
+        "country": "YT",
+        "ethereum_address": "0x541b058E6569EaC3f54f97778658D0EbA3D73e0B",
+        "id": "887020e70337abf122963337ceedf155fea58fa41bc86ad8f9c2c236e5316174",
+        "info_url": "https://en.wikipedia.org/wiki/Act_of_Senedd_Cymru",
+        "name": "alive-lake",
+        "tm_pub_key": "dbydsKyHzXuhJQCHxGbGKOoxHbe1DD6eDQQjPRiaqec=",
+        "vega_pub_key": "542d296a71e2b050b04b3344ff5e300030163fe24d0213fff1c081c6444709e7",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307131504",
+  "chain_id": "vega-devnet1-202307131606",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-13T15:04:30.707518558Z",
+  "genesis_time": "2023-07-13T16:06:51.564778082Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "FE4FEEC4D34AC4F7FE37667CCCD7D0074C9A5B4C",
-      "name": "quizzical-apple",
+      "address": "ECC5644157F49BA2B27AC7D5ECED72A7E059674F",
+      "name": "alive-lake",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "p2ZHa4vTiwJy8sC6De1Bz0p17VhiYXA+/z+dtyRnw4g="
+        "value": "dbydsKyHzXuhJQCHxGbGKOoxHbe1DD6eDQQjPRiaqec="
       }
     }
   ]
