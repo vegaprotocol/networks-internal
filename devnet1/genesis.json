@@ -302,17 +302,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "o0g5VUYNwl7EMmC7YEejeIa9Gep6qvdpHhV0NQcoPJg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/bfu27q7yqyq3ptst73fhi28b2u6njnsx?d=identicon",
-        "country": "GV",
-        "ethereum_address": "0x5fc15cB16D46d81b79e7c165A3f4091F4e1a8a9d",
-        "id": "b4c207869d8baf95ded9e52c3bb21b3b7d9dbc7ff3d7a2b74cd3de127f42f6e0",
-        "info_url": "https://en.wikipedia.org/wiki/Fyodor_Vidyayev",
-        "name": "costly-building",
-        "tm_pub_key": "o0g5VUYNwl7EMmC7YEejeIa9Gep6qvdpHhV0NQcoPJg=",
-        "vega_pub_key": "417a425e26b324b673de47a2e3ac523c0dacfffd5a0cfd695129a439296d0c35",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "v1qZUWI9Ke03SZWYaiaWbSXZkuDIhvzXkjcjo2kDXJs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/b6yt4lpbrj92na5dudt3jdhw1fxakxez?d=identicon",
+        "country": "IG",
+        "ethereum_address": "0x93E1cd5B2915a89DBE68384571D9390e00C93304",
+        "id": "ba1d3817152923cf117480668ae4499b1575996fde3f2fb74ea170e378f2ee4f",
+        "info_url": "https://en.wikipedia.org/wiki/Mo%C8%9Bca",
+        "name": "intrigued-plant",
+        "tm_pub_key": "v1qZUWI9Ke03SZWYaiaWbSXZkuDIhvzXkjcjo2kDXJs=",
+        "vega_pub_key": "5eec18154c2394c479965c16d123174cc0bfcc1dff752692a57d46f277462ba1",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202307131706",
+  "chain_id": "vega-devnet1-202307131817",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-13T17:06:35.069717888Z",
+  "genesis_time": "2023-07-13T18:17:38.434884253Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "B202A01715242AC32613A477012E783F6DD8E512",
-      "name": "costly-building",
+      "address": "B21A38283BEF9FBCD3078827157D549E23661668",
+      "name": "intrigued-plant",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "o0g5VUYNwl7EMmC7YEejeIa9Gep6qvdpHhV0NQcoPJg="
+        "value": "v1qZUWI9Ke03SZWYaiaWbSXZkuDIhvzXkjcjo2kDXJs="
       }
     }
   ]
