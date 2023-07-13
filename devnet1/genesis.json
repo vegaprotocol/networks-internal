@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "dbydsKyHzXuhJQCHxGbGKOoxHbe1DD6eDQQjPRiaqec=": {
-        "avatar_url": "https://www.gravatar.com/avatar/katvotjohke05r5saj3350bmza0htuct?d=identicon",
-        "country": "YT",
-        "ethereum_address": "0x541b058E6569EaC3f54f97778658D0EbA3D73e0B",
-        "id": "887020e70337abf122963337ceedf155fea58fa41bc86ad8f9c2c236e5316174",
-        "info_url": "https://en.wikipedia.org/wiki/Act_of_Senedd_Cymru",
-        "name": "alive-lake",
-        "tm_pub_key": "dbydsKyHzXuhJQCHxGbGKOoxHbe1DD6eDQQjPRiaqec=",
-        "vega_pub_key": "542d296a71e2b050b04b3344ff5e300030163fe24d0213fff1c081c6444709e7",
+      "o0g5VUYNwl7EMmC7YEejeIa9Gep6qvdpHhV0NQcoPJg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/bfu27q7yqyq3ptst73fhi28b2u6njnsx?d=identicon",
+        "country": "GV",
+        "ethereum_address": "0x5fc15cB16D46d81b79e7c165A3f4091F4e1a8a9d",
+        "id": "b4c207869d8baf95ded9e52c3bb21b3b7d9dbc7ff3d7a2b74cd3de127f42f6e0",
+        "info_url": "https://en.wikipedia.org/wiki/Fyodor_Vidyayev",
+        "name": "costly-building",
+        "tm_pub_key": "o0g5VUYNwl7EMmC7YEejeIa9Gep6qvdpHhV0NQcoPJg=",
+        "vega_pub_key": "417a425e26b324b673de47a2e3ac523c0dacfffd5a0cfd695129a439296d0c35",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307131606",
+  "chain_id": "vega-devnet1-202307131706",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-13T16:06:51.564778082Z",
+  "genesis_time": "2023-07-13T17:06:35.069717888Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "ECC5644157F49BA2B27AC7D5ECED72A7E059674F",
-      "name": "alive-lake",
+      "address": "B202A01715242AC32613A477012E783F6DD8E512",
+      "name": "costly-building",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "dbydsKyHzXuhJQCHxGbGKOoxHbe1DD6eDQQjPRiaqec="
+        "value": "o0g5VUYNwl7EMmC7YEejeIa9Gep6qvdpHhV0NQcoPJg="
       }
     }
   ]
