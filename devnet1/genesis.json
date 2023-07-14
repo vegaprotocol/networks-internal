@@ -302,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "YtBhZW2Q5sCmotvnf7Cz+QyKNFU3xWLDJ7+LiGk5tJM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/kaovv5eu3xttyd9kx1bfqpu4e38zourt?d=identicon",
+        "country": "KO",
+        "ethereum_address": "0x99717460D179D178841E9501Fa5268D67572d513",
+        "id": "ee2d77616a1fc6978fdded8f4b69cf507c0fb768d163d0053d7230585479b805",
+        "info_url": "https://en.wikipedia.org/wiki/Jos_Punt",
+        "name": "clever-day",
+        "tm_pub_key": "YtBhZW2Q5sCmotvnf7Cz+QyKNFU3xWLDJ7+LiGk5tJM=",
+        "vega_pub_key": "be2c210edee67a82508f13fda3d881b8ba3359295202aa793fd1edebe49f2c12",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "v1qZUWI9Ke03SZWYaiaWbSXZkuDIhvzXkjcjo2kDXJs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/b6yt4lpbrj92na5dudt3jdhw1fxakxez?d=identicon",
-        "country": "IG",
-        "ethereum_address": "0x93E1cd5B2915a89DBE68384571D9390e00C93304",
-        "id": "ba1d3817152923cf117480668ae4499b1575996fde3f2fb74ea170e378f2ee4f",
-        "info_url": "https://en.wikipedia.org/wiki/Mo%C8%9Bca",
-        "name": "intrigued-plant",
-        "tm_pub_key": "v1qZUWI9Ke03SZWYaiaWbSXZkuDIhvzXkjcjo2kDXJs=",
-        "vega_pub_key": "5eec18154c2394c479965c16d123174cc0bfcc1dff752692a57d46f277462ba1",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202307131836",
+  "chain_id": "vega-devnet1-202307140841",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-13T18:36:39.606812418Z",
+  "genesis_time": "2023-07-14T08:41:25.984699446Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "B21A38283BEF9FBCD3078827157D549E23661668",
-      "name": "intrigued-plant",
+      "address": "8B7FD8ACB65043ECED71E723CB73C0965767254E",
+      "name": "clever-day",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "v1qZUWI9Ke03SZWYaiaWbSXZkuDIhvzXkjcjo2kDXJs="
+        "value": "YtBhZW2Q5sCmotvnf7Cz+QyKNFU3xWLDJ7+LiGk5tJM="
       }
     }
   ]
