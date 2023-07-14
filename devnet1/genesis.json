@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "b2gSLmH8QIZUdK8pwyULGjTlyQVkfwjfRtbw7eVCZaA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/pru5uda8snx90tk6vrr7xi676y8obdu8?d=identicon",
-        "country": "VW",
-        "ethereum_address": "0x8f705C8AB73295D01f0b4525b941F8895Bd5da4b",
-        "id": "bbfd065e2ae85e31971cc0deb3dccaf362a09cf94a6b7b7fbe3a5ab072f992ab",
-        "info_url": "https://en.wikipedia.org/wiki/Sarah_J._C._Whittlesey",
-        "name": "bright-wind",
-        "tm_pub_key": "b2gSLmH8QIZUdK8pwyULGjTlyQVkfwjfRtbw7eVCZaA=",
-        "vega_pub_key": "e9286c04da711aa3a9ad3bbdf7dfcc8da24d03d3c82e2cf45d7d08897d8bf011",
+      "cHlVGBiFo/YD/G2mmVO6eFEA4hvCo3NjHrXaHoRv9I8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/h7yg1nqrbm70oh80likwjpz8294b86j8?d=identicon",
+        "country": "PK",
+        "ethereum_address": "0x7cC36acBdcD308da03e6306451E0E36d73F6ecb0",
+        "id": "08557aa6ba39655b04411e5b04d4906a635b09a07b4d431349defe9d3d3e36ad",
+        "info_url": "https://en.wikipedia.org/wiki/Jenny_Elbe",
+        "name": "irate-roof",
+        "tm_pub_key": "cHlVGBiFo/YD/G2mmVO6eFEA4hvCo3NjHrXaHoRv9I8=",
+        "vega_pub_key": "236a4e2f5ca6e7dbb9cab6076300e1a395e59bf9093933ef2e4813c3908f20d7",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307141144",
+  "chain_id": "vega-devnet1-202307141207",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-14T11:44:35.379386788Z",
+  "genesis_time": "2023-07-14T12:07:59.575240073Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "B9C959DA7396B9D582E4BA0B19BC3B905145B0D9",
-      "name": "bright-wind",
+      "address": "B436FB339AD02DF846B0BCBB0FDE53A73316F06F",
+      "name": "irate-roof",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "b2gSLmH8QIZUdK8pwyULGjTlyQVkfwjfRtbw7eVCZaA="
+        "value": "cHlVGBiFo/YD/G2mmVO6eFEA4hvCo3NjHrXaHoRv9I8="
       }
     }
   ]
