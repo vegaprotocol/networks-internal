@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "YtBhZW2Q5sCmotvnf7Cz+QyKNFU3xWLDJ7+LiGk5tJM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/kaovv5eu3xttyd9kx1bfqpu4e38zourt?d=identicon",
-        "country": "KO",
-        "ethereum_address": "0x99717460D179D178841E9501Fa5268D67572d513",
-        "id": "ee2d77616a1fc6978fdded8f4b69cf507c0fb768d163d0053d7230585479b805",
-        "info_url": "https://en.wikipedia.org/wiki/Jos_Punt",
-        "name": "clever-day",
-        "tm_pub_key": "YtBhZW2Q5sCmotvnf7Cz+QyKNFU3xWLDJ7+LiGk5tJM=",
-        "vega_pub_key": "be2c210edee67a82508f13fda3d881b8ba3359295202aa793fd1edebe49f2c12",
+      "b2gSLmH8QIZUdK8pwyULGjTlyQVkfwjfRtbw7eVCZaA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/pru5uda8snx90tk6vrr7xi676y8obdu8?d=identicon",
+        "country": "VW",
+        "ethereum_address": "0x8f705C8AB73295D01f0b4525b941F8895Bd5da4b",
+        "id": "bbfd065e2ae85e31971cc0deb3dccaf362a09cf94a6b7b7fbe3a5ab072f992ab",
+        "info_url": "https://en.wikipedia.org/wiki/Sarah_J._C._Whittlesey",
+        "name": "bright-wind",
+        "tm_pub_key": "b2gSLmH8QIZUdK8pwyULGjTlyQVkfwjfRtbw7eVCZaA=",
+        "vega_pub_key": "e9286c04da711aa3a9ad3bbdf7dfcc8da24d03d3c82e2cf45d7d08897d8bf011",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307140841",
+  "chain_id": "vega-devnet1-202307141144",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-14T08:41:25.984699446Z",
+  "genesis_time": "2023-07-14T11:44:35.379386788Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "8B7FD8ACB65043ECED71E723CB73C0965767254E",
-      "name": "clever-day",
+      "address": "B9C959DA7396B9D582E4BA0B19BC3B905145B0D9",
+      "name": "bright-wind",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "YtBhZW2Q5sCmotvnf7Cz+QyKNFU3xWLDJ7+LiGk5tJM="
+        "value": "b2gSLmH8QIZUdK8pwyULGjTlyQVkfwjfRtbw7eVCZaA="
       }
     }
   ]
