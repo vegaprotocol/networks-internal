@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "dL0redWSA45M+YRG8xNyrl/ZeCU5Myq2aE4Re2sKtKA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/li3vmummhxl915vge51ya5hxr9ca90ei?d=identicon",
-        "country": "KV",
-        "ethereum_address": "0x80D17F2B1adD8EafA8B3DBbB4f7fe83582009941",
-        "id": "7c63f4ac6496ee0cdaff55489961843bf4f1b980ea4ef60325f40cb5cf8feb60",
-        "info_url": "https://en.wikipedia.org/wiki/Saiqa_(film)",
-        "name": "tender-day",
-        "tm_pub_key": "dL0redWSA45M+YRG8xNyrl/ZeCU5Myq2aE4Re2sKtKA=",
-        "vega_pub_key": "ee7c8781877e5534b12ccf1c7cf100586a345fc1b03e425f8922f421f078368d",
+      "n24Z+jUFDwdpt2R4daPHBsq13iZUixubAexXYd8BAJs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/h4r6o6q4roknqpg3ju9p25jvp77112ki?d=identicon",
+        "country": "ZB",
+        "ethereum_address": "0x4a190d26163DC74dcFc0b5D40b6dDD955c397964",
+        "id": "c104bfe8c66742fb351068931e543117d5f5d2254d427a1948e144b331804af0",
+        "info_url": "https://en.wikipedia.org/wiki/Lukas_Hoffmann_(footballer)",
+        "name": "opportune-river",
+        "tm_pub_key": "n24Z+jUFDwdpt2R4daPHBsq13iZUixubAexXYd8BAJs=",
+        "vega_pub_key": "5e698e3ae89c8695143de1ffd0aab04be21166dee9f4cfc0f923ad630fed4ce8",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307141612",
+  "chain_id": "vega-devnet1-202307170902",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-14T16:12:04.494104962Z",
+  "genesis_time": "2023-07-17T09:02:36.65468406Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "69F70CA05146DB891F3CCCA5F314245CCD6314EC",
-      "name": "tender-day",
+      "address": "9C94219D14FCC5A3E6D97DF18399B6FC72C73CE2",
+      "name": "opportune-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "dL0redWSA45M+YRG8xNyrl/ZeCU5Myq2aE4Re2sKtKA="
+        "value": "n24Z+jUFDwdpt2R4daPHBsq13iZUixubAexXYd8BAJs="
       }
     }
   ]
