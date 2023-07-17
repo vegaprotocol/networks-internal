@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "9C1bW3DSlYj5D5vxzy1PejvE4AS6cWkMi7hT63lPvCc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/d5hhx8h3hux2scrlkm58mgnlm3mhpwp6?d=identicon",
+        "country": "KD",
+        "ethereum_address": "0x1715Da136450430D6B0909118bB6EAb75E093949",
+        "id": "f7790f2939e3ca6b30a755f011d576e1a9d563f95a6ca704d6125dfb963eb64d",
+        "info_url": "https://en.wikipedia.org/wiki/Anssi_Joutsenlahti",
+        "name": "melodic-building",
+        "tm_pub_key": "9C1bW3DSlYj5D5vxzy1PejvE4AS6cWkMi7hT63lPvCc=",
+        "vega_pub_key": "caf3c5ac9a51313623ceba60ba4cfde9ce7a4a84f04838e9e8430f7aab98f5f8",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "n24Z+jUFDwdpt2R4daPHBsq13iZUixubAexXYd8BAJs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/h4r6o6q4roknqpg3ju9p25jvp77112ki?d=identicon",
-        "country": "ZB",
-        "ethereum_address": "0x4a190d26163DC74dcFc0b5D40b6dDD955c397964",
-        "id": "c104bfe8c66742fb351068931e543117d5f5d2254d427a1948e144b331804af0",
-        "info_url": "https://en.wikipedia.org/wiki/Lukas_Hoffmann_(footballer)",
-        "name": "opportune-river",
-        "tm_pub_key": "n24Z+jUFDwdpt2R4daPHBsq13iZUixubAexXYd8BAJs=",
-        "vega_pub_key": "5e698e3ae89c8695143de1ffd0aab04be21166dee9f4cfc0f923ad630fed4ce8",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307170945",
+  "chain_id": "vega-devnet1-202307171224",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-17T09:45:23.268635002Z",
+  "genesis_time": "2023-07-17T12:24:06.501158165Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "9C94219D14FCC5A3E6D97DF18399B6FC72C73CE2",
-      "name": "opportune-river",
+      "address": "96F7D097A317538F4199BFEB52D2D8BAC950D070",
+      "name": "melodic-building",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "n24Z+jUFDwdpt2R4daPHBsq13iZUixubAexXYd8BAJs="
+        "value": "9C1bW3DSlYj5D5vxzy1PejvE4AS6cWkMi7hT63lPvCc="
       }
     }
   ]
