@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "mttDlKFPBpuTOyvMVg3dpoFEHSmIrdo/QVwLOQPe7aM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/qw96grt355u2sl209tm7yj7vt6hwcio4?d=identicon",
-        "country": "SX",
-        "ethereum_address": "0xf4Df86e0A174B1E4E752FC503764697415910bD6",
-        "id": "395a6e9a14cd4529816f133e84748bdadc1873add3f634ababe96951bac5ec4a",
-        "info_url": "https://en.wikipedia.org/wiki/Young_T%C3%B6rless",
-        "name": "crashing-pickle",
-        "tm_pub_key": "mttDlKFPBpuTOyvMVg3dpoFEHSmIrdo/QVwLOQPe7aM=",
-        "vega_pub_key": "b4587b11d252a5db6e7b5aecd004bbe15b2dfb6958ef982376c07f67748904eb",
+      "OWgIbg3oLYFcqAz6OtSlXLfaFH6FZdh/jbfIwT8hb/Q=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ehpzfddill0kf4hc7o9rtq6i3xv1hboi?d=identicon",
+        "country": "AU",
+        "ethereum_address": "0x13FEb2287f9ad73B237d5e65f75DCBe5AC99a568",
+        "id": "802bf7336ead4153788013affd569352952e1ba672738cb9c5cd4686269e88f2",
+        "info_url": "https://en.wikipedia.org/wiki/Kerk_(surname)",
+        "name": "helpless-bee",
+        "tm_pub_key": "OWgIbg3oLYFcqAz6OtSlXLfaFH6FZdh/jbfIwT8hb/Q=",
+        "vega_pub_key": "83e7d7bc6a6427dbf324d00e0da89d2ba506aa5ae11f30a1c1c008581af172f3",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307181239",
+  "chain_id": "vega-devnet1-202307181308",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-18T12:39:54.996508978Z",
+  "genesis_time": "2023-07-18T13:08:16.777764252Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "122DA6A9F1B13EFAA3E027C4C044CD966F98BCDC",
-      "name": "crashing-pickle",
+      "address": "0BDDD988E972A7E8D038E5F86EE492668B23AEA3",
+      "name": "helpless-bee",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "mttDlKFPBpuTOyvMVg3dpoFEHSmIrdo/QVwLOQPe7aM="
+        "value": "OWgIbg3oLYFcqAz6OtSlXLfaFH6FZdh/jbfIwT8hb/Q="
       }
     }
   ]
