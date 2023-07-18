@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "9C1bW3DSlYj5D5vxzy1PejvE4AS6cWkMi7hT63lPvCc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/d5hhx8h3hux2scrlkm58mgnlm3mhpwp6?d=identicon",
-        "country": "KD",
-        "ethereum_address": "0x1715Da136450430D6B0909118bB6EAb75E093949",
-        "id": "f7790f2939e3ca6b30a755f011d576e1a9d563f95a6ca704d6125dfb963eb64d",
-        "info_url": "https://en.wikipedia.org/wiki/Anssi_Joutsenlahti",
-        "name": "melodic-building",
-        "tm_pub_key": "9C1bW3DSlYj5D5vxzy1PejvE4AS6cWkMi7hT63lPvCc=",
-        "vega_pub_key": "caf3c5ac9a51313623ceba60ba4cfde9ce7a4a84f04838e9e8430f7aab98f5f8",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "eGhKDWVg376oBOc2V7WXVoBYs26QvW+wcWs2579tUXM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/d7s96uqpcaamqq89lxfoxribtct6t6ml?d=identicon",
+        "country": "XY",
+        "ethereum_address": "0xA2949f24632B5A7C312FdE38DAbf64462DC7DAB7",
+        "id": "e66b9bc7cce5790a20969594da8788dca7201e47b159b33c77f9b5a5893c9747",
+        "info_url": "https://en.wikipedia.org/wiki/Phanaeus_difformis",
+        "name": "fuzzy-chimney",
+        "tm_pub_key": "eGhKDWVg376oBOc2V7WXVoBYs26QvW+wcWs2579tUXM=",
+        "vega_pub_key": "1e97db4932200eaab072b1ab47f1aaf26cf93d59180fa8f349e4651f3afac233",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307171443",
+  "chain_id": "vega-devnet1-202307180618",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-17T14:43:50.512518581Z",
+  "genesis_time": "2023-07-18T06:18:57.436970979Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "96F7D097A317538F4199BFEB52D2D8BAC950D070",
-      "name": "melodic-building",
+      "address": "1383C7EDB5C7CEE0E89991BA69A61AA7BF68D173",
+      "name": "fuzzy-chimney",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "9C1bW3DSlYj5D5vxzy1PejvE4AS6cWkMi7hT63lPvCc="
+        "value": "eGhKDWVg376oBOc2V7WXVoBYs26QvW+wcWs2579tUXM="
       }
     }
   ]
