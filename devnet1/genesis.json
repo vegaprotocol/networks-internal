@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "2zVtUl8Kv0hgMwFnNq612jUW0EXRUK0MklxEXK98RqA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/aczp79crf3t1dgsa2qtobtpv6tewsd9z?d=identicon",
+        "country": "UZ",
+        "ethereum_address": "0xd8B0c993F95C6a6f62A5c5765B3beD8005C24326",
+        "id": "b1003e0c1836eb9e9c2bc2b328eb511da00fcd880a5d7132b73e7b7d5288779a",
+        "info_url": "https://en.wikipedia.org/wiki/Hashemak",
+        "name": "rhythmic-music",
+        "tm_pub_key": "2zVtUl8Kv0hgMwFnNq612jUW0EXRUK0MklxEXK98RqA=",
+        "vega_pub_key": "93943c7dc061444ed444f609358e3bb86e04a25ac8f1c0d9b0bc67ea5c4ae029",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -278,17 +289,6 @@
         "name": "tricky-teacher",
         "tm_pub_key": "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=",
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
-        "vega_pub_key_index": 1
-      },
-      "AOwsmpbJZNN1CE1Moh9hyLFnO4UJBU95Ur7Ohzq5/OM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/urg5g1z1wiyvj5fn4jm3axecnb7y5nyc?d=identicon",
-        "country": "CZ",
-        "ethereum_address": "0x0105c9636A4b9e021b148d0cE4502a656657d5D4",
-        "id": "77eefdaf7c70717247d0aea15712a35ae420d4c31bc8b8e65e27886b3f4de14b",
-        "info_url": "https://en.wikipedia.org/wiki/Equivalent_rectangular_bandwidth",
-        "name": "helpful-pool",
-        "tm_pub_key": "AOwsmpbJZNN1CE1Moh9hyLFnO4UJBU95Ur7Ohzq5/OM=",
-        "vega_pub_key": "255354c844bdf9b255be5fbebca3b8799127f0a505cfbe27b989caec4c2b3e3c",
         "vega_pub_key_index": 1
       },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307181443",
+  "chain_id": "vega-devnet1-202307181543",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-18T14:43:45.47424716Z",
+  "genesis_time": "2023-07-18T15:43:55.359703103Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "EFC40B14EEAC46C9E2DFEF4F43C2A429F7992ED2",
-      "name": "helpful-pool",
+      "address": "0B00A3492FBCBC255451455A9045B1C4E287608C",
+      "name": "rhythmic-music",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "AOwsmpbJZNN1CE1Moh9hyLFnO4UJBU95Ur7Ohzq5/OM="
+        "value": "2zVtUl8Kv0hgMwFnNq612jUW0EXRUK0MklxEXK98RqA="
       }
     }
   ]
