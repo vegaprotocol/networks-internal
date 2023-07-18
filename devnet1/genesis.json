@@ -280,6 +280,17 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
+      "AOwsmpbJZNN1CE1Moh9hyLFnO4UJBU95Ur7Ohzq5/OM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/urg5g1z1wiyvj5fn4jm3axecnb7y5nyc?d=identicon",
+        "country": "CZ",
+        "ethereum_address": "0x0105c9636A4b9e021b148d0cE4502a656657d5D4",
+        "id": "77eefdaf7c70717247d0aea15712a35ae420d4c31bc8b8e65e27886b3f4de14b",
+        "info_url": "https://en.wikipedia.org/wiki/Equivalent_rectangular_bandwidth",
+        "name": "helpful-pool",
+        "tm_pub_key": "AOwsmpbJZNN1CE1Moh9hyLFnO4UJBU95Ur7Ohzq5/OM=",
+        "vega_pub_key": "255354c844bdf9b255be5fbebca3b8799127f0a505cfbe27b989caec4c2b3e3c",
+        "vega_pub_key_index": 1
+      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "OWgIbg3oLYFcqAz6OtSlXLfaFH6FZdh/jbfIwT8hb/Q=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ehpzfddill0kf4hc7o9rtq6i3xv1hboi?d=identicon",
-        "country": "AU",
-        "ethereum_address": "0x13FEb2287f9ad73B237d5e65f75DCBe5AC99a568",
-        "id": "802bf7336ead4153788013affd569352952e1ba672738cb9c5cd4686269e88f2",
-        "info_url": "https://en.wikipedia.org/wiki/Kerk_(surname)",
-        "name": "helpless-bee",
-        "tm_pub_key": "OWgIbg3oLYFcqAz6OtSlXLfaFH6FZdh/jbfIwT8hb/Q=",
-        "vega_pub_key": "83e7d7bc6a6427dbf324d00e0da89d2ba506aa5ae11f30a1c1c008581af172f3",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307181308",
+  "chain_id": "vega-devnet1-202307181443",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-18T13:08:16.777764252Z",
+  "genesis_time": "2023-07-18T14:43:45.47424716Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "0BDDD988E972A7E8D038E5F86EE492668B23AEA3",
-      "name": "helpless-bee",
+      "address": "EFC40B14EEAC46C9E2DFEF4F43C2A429F7992ED2",
+      "name": "helpful-pool",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "OWgIbg3oLYFcqAz6OtSlXLfaFH6FZdh/jbfIwT8hb/Q="
+        "value": "AOwsmpbJZNN1CE1Moh9hyLFnO4UJBU95Ur7Ohzq5/OM="
       }
     }
   ]
