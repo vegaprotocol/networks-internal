@@ -302,17 +302,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "eGhKDWVg376oBOc2V7WXVoBYs26QvW+wcWs2579tUXM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/d7s96uqpcaamqq89lxfoxribtct6t6ml?d=identicon",
-        "country": "XY",
-        "ethereum_address": "0xA2949f24632B5A7C312FdE38DAbf64462DC7DAB7",
-        "id": "e66b9bc7cce5790a20969594da8788dca7201e47b159b33c77f9b5a5893c9747",
-        "info_url": "https://en.wikipedia.org/wiki/Phanaeus_difformis",
-        "name": "fuzzy-chimney",
-        "tm_pub_key": "eGhKDWVg376oBOc2V7WXVoBYs26QvW+wcWs2579tUXM=",
-        "vega_pub_key": "1e97db4932200eaab072b1ab47f1aaf26cf93d59180fa8f349e4651f3afac233",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "xIIThDpcY2ORrXHU9XdkkRmeQMQLTpO7KZayHlT3T60=": {
+        "avatar_url": "https://www.gravatar.com/avatar/gpdeo5ynp96edi46505glkzoeht4olrk?d=identicon",
+        "country": "NX",
+        "ethereum_address": "0x713b78ac823DDA353DCC1A3eb3Bc7A8c65c4dF04",
+        "id": "18d7d3a50d446b90caf14e7553528e718642edd37e362ad6805dcafc5cae2880",
+        "info_url": "https://en.wikipedia.org/wiki/Carex_inclinis",
+        "name": "skinny-door",
+        "tm_pub_key": "xIIThDpcY2ORrXHU9XdkkRmeQMQLTpO7KZayHlT3T60=",
+        "vega_pub_key": "4ecac73537cd9673b0a549342825b9846d05ca0ab978007d5fb83f8ddb082e54",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202307180618",
+  "chain_id": "vega-devnet1-202307180803",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-18T06:18:57.436970979Z",
+  "genesis_time": "2023-07-18T08:03:35.658887008Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "1383C7EDB5C7CEE0E89991BA69A61AA7BF68D173",
-      "name": "fuzzy-chimney",
+      "address": "F50A10CD413E51EDD25EE5A29118A8D541F4E1AC",
+      "name": "skinny-door",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "eGhKDWVg376oBOc2V7WXVoBYs26QvW+wcWs2579tUXM="
+        "value": "xIIThDpcY2ORrXHU9XdkkRmeQMQLTpO7KZayHlT3T60="
       }
     }
   ]
