@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "2zVtUl8Kv0hgMwFnNq612jUW0EXRUK0MklxEXK98RqA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/aczp79crf3t1dgsa2qtobtpv6tewsd9z?d=identicon",
-        "country": "UZ",
-        "ethereum_address": "0xd8B0c993F95C6a6f62A5c5765B3beD8005C24326",
-        "id": "b1003e0c1836eb9e9c2bc2b328eb511da00fcd880a5d7132b73e7b7d5288779a",
-        "info_url": "https://en.wikipedia.org/wiki/Hashemak",
-        "name": "rhythmic-music",
-        "tm_pub_key": "2zVtUl8Kv0hgMwFnNq612jUW0EXRUK0MklxEXK98RqA=",
-        "vega_pub_key": "93943c7dc061444ed444f609358e3bb86e04a25ac8f1c0d9b0bc67ea5c4ae029",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "XzNd+5Mg0z8UEwtdWJH/hNQ/O89Wth/vaO+DBLDdavk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/kbpfoticlg1jk0kywcsraewst7i9cfac?d=identicon",
+        "country": "RN",
+        "ethereum_address": "0x133C7416C4279355daFc59f143A7bd0AC7e329b2",
+        "id": "c9f66fb73288b69c20173678687dc55e8364ae1d164c7208a52fc8e21ccb2632",
+        "info_url": "https://en.wikipedia.org/wiki/Rhadinosaurus",
+        "name": "harebrained-bed",
+        "tm_pub_key": "XzNd+5Mg0z8UEwtdWJH/hNQ/O89Wth/vaO+DBLDdavk=",
+        "vega_pub_key": "45a04954a5d43f07d5c8ede3cc46b055a4dacc703fa4359b99d229fee517bca7",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307181543",
+  "chain_id": "vega-devnet1-202307181618",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-18T15:43:55.359703103Z",
+  "genesis_time": "2023-07-18T16:18:03.612324697Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "0B00A3492FBCBC255451455A9045B1C4E287608C",
-      "name": "rhythmic-music",
+      "address": "B554A3C8490440861834A3196DDC660A28DC78AA",
+      "name": "harebrained-bed",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "2zVtUl8Kv0hgMwFnNq612jUW0EXRUK0MklxEXK98RqA="
+        "value": "XzNd+5Mg0z8UEwtdWJH/hNQ/O89Wth/vaO+DBLDdavk="
       }
     }
   ]
