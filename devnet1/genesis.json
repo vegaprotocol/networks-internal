@@ -302,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "TCo+rtxI5AT/RglyWLupNifJYH69MAUEAaW/Ohccbuo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xcpgblo63kmgrv95ov7gz7x3cmtjdiei?d=identicon",
+        "country": "JF",
+        "ethereum_address": "0xc5505735CeBfff488eB96E30B2d57008540597e2",
+        "id": "224ceb72a0f038b545bf23f64454b9c9d3bd3c2e2f388a6d612ed752b96cfbea",
+        "info_url": "https://en.wikipedia.org/wiki/Damian_Zbozie%C5%84",
+        "name": "mysterious-bed",
+        "tm_pub_key": "TCo+rtxI5AT/RglyWLupNifJYH69MAUEAaW/Ohccbuo=",
+        "vega_pub_key": "ace05bd8bfaf64c092f401414b2939b385447fcf499c9282a01788adb60531fa",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "u1GPXkBXeeVRSYfYrYAvod2tHFGBh5iaGKtGLwQFSns=": {
-        "avatar_url": "https://www.gravatar.com/avatar/oqkze4c4xtiqcgg0dksi9mtzrmhmyt69?d=identicon",
-        "country": "TJ",
-        "ethereum_address": "0xa4d7bfca0F8A30A3cb0958b11c9EC5c0959B76cA",
-        "id": "bd850675a66a0e26df5ade047e23cad11e4fa2a3970f115c56e9f3acc00c36ac",
-        "info_url": "https://en.wikipedia.org/wiki/Saadi_Abbas_Jalbani",
-        "name": "howling-milk",
-        "tm_pub_key": "u1GPXkBXeeVRSYfYrYAvod2tHFGBh5iaGKtGLwQFSns=",
-        "vega_pub_key": "47ef8f846229de304c5de070e498deff1e6d25c6baffe7524b1fefbe14ff0baa",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202307180918",
+  "chain_id": "vega-devnet1-202307181001",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-18T09:18:56.062284068Z",
+  "genesis_time": "2023-07-18T10:01:21.526996877Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "395BD115B35900B7F358BA898DEB7C4C54B05A2A",
-      "name": "howling-milk",
+      "address": "378ADCDCDB496E0BFF295BB135F1C46FE2AA0EA1",
+      "name": "mysterious-bed",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "u1GPXkBXeeVRSYfYrYAvod2tHFGBh5iaGKtGLwQFSns="
+        "value": "TCo+rtxI5AT/RglyWLupNifJYH69MAUEAaW/Ohccbuo="
       }
     }
   ]
