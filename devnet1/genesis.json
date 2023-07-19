@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "9IVca+gKUcYdEGT9+xw0pWIE8ti087pzuqVWbDtqy/A=": {
+        "avatar_url": "https://www.gravatar.com/avatar/y1avb3tq4kde2k8ahb2b0xgu31gydfod?d=identicon",
+        "country": "AN",
+        "ethereum_address": "0xB43D0f803e38E94C994FA95B2113553A69e72cEB",
+        "id": "ecf874b401bc4b26c27227dc8113e4425ae3845d93b21ebc17905e2da3497717",
+        "info_url": "https://en.wikipedia.org/wiki/28th_Lumi%C3%A8res_Awards",
+        "name": "skinny-sister",
+        "tm_pub_key": "9IVca+gKUcYdEGT9+xw0pWIE8ti087pzuqVWbDtqy/A=",
+        "vega_pub_key": "ff08a6b9e7d91bb0ed7b3bbf801eabc053b3848e52ac0ee4b2cd74340ceb9160",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "j/y2FAiLLKd6B2NP2J6XedIDhFA99QJV5sVp2UrokpE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/geq4nzpx4n2i5kban3u2won3xlnp3kue?d=identicon",
-        "country": "NK",
-        "ethereum_address": "0xB23e0e94da2FCE20862CB03454eC0cCF7eB1a70D",
-        "id": "6687b8e4fc90f0e34121d9c80dcb172324d915279491701d743dea75521c2c93",
-        "info_url": "https://en.wikipedia.org/wiki/Mike_LaBelle",
-        "name": "terrible-toy",
-        "tm_pub_key": "j/y2FAiLLKd6B2NP2J6XedIDhFA99QJV5sVp2UrokpE=",
-        "vega_pub_key": "8cd71d97186d24ee0cc75b1f592d995d903e3934e6d2144025b95117f565ad41",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307191051",
+  "chain_id": "vega-devnet1-202307191640",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-19T10:51:55.740056674Z",
+  "genesis_time": "2023-07-19T16:40:59.23896028Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "C2227BF329739645A6CCB7619D87D7A7875192E0",
-      "name": "terrible-toy",
+      "address": "77158AD020851D1B78BA6A75EF83F11F946E0415",
+      "name": "skinny-sister",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "j/y2FAiLLKd6B2NP2J6XedIDhFA99QJV5sVp2UrokpE="
+        "value": "9IVca+gKUcYdEGT9+xw0pWIE8ti087pzuqVWbDtqy/A="
       }
     }
   ]
