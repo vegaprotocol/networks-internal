@@ -269,15 +269,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "9IVca+gKUcYdEGT9+xw0pWIE8ti087pzuqVWbDtqy/A=": {
-        "avatar_url": "https://www.gravatar.com/avatar/y1avb3tq4kde2k8ahb2b0xgu31gydfod?d=identicon",
-        "country": "AN",
-        "ethereum_address": "0xB43D0f803e38E94C994FA95B2113553A69e72cEB",
-        "id": "ecf874b401bc4b26c27227dc8113e4425ae3845d93b21ebc17905e2da3497717",
-        "info_url": "https://en.wikipedia.org/wiki/28th_Lumi%C3%A8res_Awards",
-        "name": "skinny-sister",
-        "tm_pub_key": "9IVca+gKUcYdEGT9+xw0pWIE8ti087pzuqVWbDtqy/A=",
-        "vega_pub_key": "ff08a6b9e7d91bb0ed7b3bbf801eabc053b3848e52ac0ee4b2cd74340ceb9160",
+      "2IGKi2CurJh2yOjs/YTqM+pqn2OBF5n4COePzvNnA4U=": {
+        "avatar_url": "https://www.gravatar.com/avatar/wzimc2tjbrd0zht4jw6obwg9wabocmws?d=identicon",
+        "country": "ZS",
+        "ethereum_address": "0x0a57b39Ad7500822DcD1218ca079612781300A91",
+        "id": "122ed369caea3281b5048ac667b5da3d0845394928d7c688e6994a52b83023db",
+        "info_url": "https://en.wikipedia.org/wiki/Monika_Steiner",
+        "name": "quaint-pencil",
+        "tm_pub_key": "2IGKi2CurJh2yOjs/YTqM+pqn2OBF5n4COePzvNnA4U=",
+        "vega_pub_key": "125f48d6acfd10d74f29d88d464b1267acdb9b1861572adb78f226e17c5641b7",
         "vega_pub_key_index": 1
       },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307191640",
+  "chain_id": "vega-devnet1-202307191658",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-19T16:40:59.23896028Z",
+  "genesis_time": "2023-07-19T16:58:53.651721476Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "77158AD020851D1B78BA6A75EF83F11F946E0415",
-      "name": "skinny-sister",
+      "address": "93688B3DAD815E1CA5537C1915DDA8DEDD9E4242",
+      "name": "quaint-pencil",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "9IVca+gKUcYdEGT9+xw0pWIE8ti087pzuqVWbDtqy/A="
+        "value": "2IGKi2CurJh2yOjs/YTqM+pqn2OBF5n4COePzvNnA4U="
       }
     }
   ]
