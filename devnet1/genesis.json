@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "Xd7CyybyRaAx0/TZB84EtkqBAjuLLmh0BggUa8ZdSLs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/wt9nu5kbbnxgwzotui1abyunt9ncgw45?d=identicon",
-        "country": "EH",
-        "ethereum_address": "0x41ac1f6Ad84e4A7FD4e4674ab94e5ee477904202",
-        "id": "0cb3cdd0982fe16b0aa087ae79c2b280ebf0e6eb907cc135c041df1b6fd7d0ba",
-        "info_url": "https://en.wikipedia.org/wiki/John_R._Courage",
-        "name": "tense-brother",
-        "tm_pub_key": "Xd7CyybyRaAx0/TZB84EtkqBAjuLLmh0BggUa8ZdSLs=",
-        "vega_pub_key": "b5def9901a61c97ff2660626d41200be1fadad31c1f653dceb56d350bf8503d0",
+      "j/y2FAiLLKd6B2NP2J6XedIDhFA99QJV5sVp2UrokpE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/geq4nzpx4n2i5kban3u2won3xlnp3kue?d=identicon",
+        "country": "NK",
+        "ethereum_address": "0xB23e0e94da2FCE20862CB03454eC0cCF7eB1a70D",
+        "id": "6687b8e4fc90f0e34121d9c80dcb172324d915279491701d743dea75521c2c93",
+        "info_url": "https://en.wikipedia.org/wiki/Mike_LaBelle",
+        "name": "terrible-toy",
+        "tm_pub_key": "j/y2FAiLLKd6B2NP2J6XedIDhFA99QJV5sVp2UrokpE=",
+        "vega_pub_key": "8cd71d97186d24ee0cc75b1f592d995d903e3934e6d2144025b95117f565ad41",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307190913",
+  "chain_id": "vega-devnet1-202307191051",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-19T09:13:30.333924475Z",
+  "genesis_time": "2023-07-19T10:51:55.740056674Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "36957D25AF83B51A53F51BCD5A42609C375F6009",
-      "name": "tense-brother",
+      "address": "C2227BF329739645A6CCB7619D87D7A7875192E0",
+      "name": "terrible-toy",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Xd7CyybyRaAx0/TZB84EtkqBAjuLLmh0BggUa8ZdSLs="
+        "value": "j/y2FAiLLKd6B2NP2J6XedIDhFA99QJV5sVp2UrokpE="
       }
     }
   ]
