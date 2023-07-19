@@ -318,7 +318,7 @@
       }
     }
   },
-  "chain_id": "vega-stagnet1-202307171318",
+  "chain_id": "vega-stagnet1-202307191148",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -337,7 +337,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-17T13:18:33.458881768Z",
+  "genesis_time": "2023-07-19T11:48:18.132746414Z",
   "initial_height": "0",
   "validators": [
     {
