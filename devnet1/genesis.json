@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "4L/3YDLOKoSgv4DwGkT0FR87lrifMvjgnYseoQeVASk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/auhy1yw2hfbbeonapnp0v39kjsk7xo8v?d=identicon",
+        "country": "HC",
+        "ethereum_address": "0x132dD8f4fD88d39DCA9592Ec562a220fCf00Ba57",
+        "id": "eb61dc9de1758518f96a72b7425157c7a9d963254beea5e48bba9d12ae77f4d3",
+        "info_url": "https://en.wikipedia.org/wiki/1953%E2%80%9354_Ranji_Trophy",
+        "name": "ugly-honey",
+        "tm_pub_key": "4L/3YDLOKoSgv4DwGkT0FR87lrifMvjgnYseoQeVASk=",
+        "vega_pub_key": "d3321fc7b56de324685fcbe94d0f54d64906d923d9296880178c9e6a63c444d5",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -289,17 +300,6 @@
         "name": "friendly-barber",
         "tm_pub_key": "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=",
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
-        "vega_pub_key_index": 1
-      },
-      "IJ5kgnHB80Iveo2QUatBw3p457msKTLUNFCj9iKHStM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/8e2lin1acokmphpphe0ki4vl8ytzrqfu?d=identicon",
-        "country": "EF",
-        "ethereum_address": "0xD426E886109CB7682bDD3210b563767E80F7Fe75",
-        "id": "5858fc339a586516d6a2e556aea64bc1f43fcf6d28e47146ff28b7e5b542dcb2",
-        "info_url": "https://en.wikipedia.org/wiki/19972007",
-        "name": "salmon-bird",
-        "tm_pub_key": "IJ5kgnHB80Iveo2QUatBw3p457msKTLUNFCj9iKHStM=",
-        "vega_pub_key": "d7d94981c1bcd208d0dfc6dfe3344a5f0f5073494d560a9fdd65795b18ddbf7f",
         "vega_pub_key_index": 1
       },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307201036",
+  "chain_id": "vega-devnet1-202307201213",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-20T10:36:51.257799163Z",
+  "genesis_time": "2023-07-20T12:13:44.013093196Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "67B7EFE2BACAE40A071DFA712C03DDA2BAC84B8C",
-      "name": "salmon-bird",
+      "address": "F97E5342DCB737E4306BEB59622674A40352AF91",
+      "name": "ugly-honey",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "IJ5kgnHB80Iveo2QUatBw3p457msKTLUNFCj9iKHStM="
+        "value": "4L/3YDLOKoSgv4DwGkT0FR87lrifMvjgnYseoQeVASk="
       }
     }
   ]
