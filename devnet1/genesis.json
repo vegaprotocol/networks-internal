@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "2IGKi2CurJh2yOjs/YTqM+pqn2OBF5n4COePzvNnA4U=": {
-        "avatar_url": "https://www.gravatar.com/avatar/wzimc2tjbrd0zht4jw6obwg9wabocmws?d=identicon",
-        "country": "ZS",
-        "ethereum_address": "0x0a57b39Ad7500822DcD1218ca079612781300A91",
-        "id": "122ed369caea3281b5048ac667b5da3d0845394928d7c688e6994a52b83023db",
-        "info_url": "https://en.wikipedia.org/wiki/Monika_Steiner",
-        "name": "quaint-pencil",
-        "tm_pub_key": "2IGKi2CurJh2yOjs/YTqM+pqn2OBF5n4COePzvNnA4U=",
-        "vega_pub_key": "125f48d6acfd10d74f29d88d464b1267acdb9b1861572adb78f226e17c5641b7",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "oEnXaP8v5twubqjwiGsDsLqfTLD/aFQgk7D7m4TxYvo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/wis2xmwzxzs2gxzwf40kklow8i78os4y?d=identicon",
+        "country": "SK",
+        "ethereum_address": "0x03e756Df12557E80dAFf482c700ad4e33D303e89",
+        "id": "74db0c8df7997757f73493a979126976fe6f3332fe22b7f0133b189bd3adec98",
+        "info_url": "https://en.wikipedia.org/wiki/Callisia_gentlei",
+        "name": "tender-shoe",
+        "tm_pub_key": "oEnXaP8v5twubqjwiGsDsLqfTLD/aFQgk7D7m4TxYvo=",
+        "vega_pub_key": "2ff56a902c9e13a6865856570d71966628a123e79a179b4ab97469e8dd902733",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307191658",
+  "chain_id": "vega-devnet1-202307200916",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-19T16:58:53.651721476Z",
+  "genesis_time": "2023-07-20T09:16:26.660737985Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "93688B3DAD815E1CA5537C1915DDA8DEDD9E4242",
-      "name": "quaint-pencil",
+      "address": "B217992506B304589B916658A9C7C9B5A2DFCCEE",
+      "name": "tender-shoe",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "2IGKi2CurJh2yOjs/YTqM+pqn2OBF5n4COePzvNnA4U="
+        "value": "oEnXaP8v5twubqjwiGsDsLqfTLD/aFQgk7D7m4TxYvo="
       }
     }
   ]
