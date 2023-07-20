@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "4Y9IA7ewUb9xclaJGQCglmCq4NOZD/utCwIo7B8feNs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/decqr1bjuwn89aiy87yyrejo5rwdwjlr?d=identicon",
+        "country": "QW",
+        "ethereum_address": "0xDBEb30a73A3a1D623e6c12EBdF7DBF6b23bd8bB8",
+        "id": "ce0bd4cf30f96e0f9652ccf9058f8e1584094414c1a2f163dbd7a534241a3f4d",
+        "info_url": "https://en.wikipedia.org/wiki/Adam_Showman",
+        "name": "inexpensive-duck",
+        "tm_pub_key": "4Y9IA7ewUb9xclaJGQCglmCq4NOZD/utCwIo7B8feNs=",
+        "vega_pub_key": "124d0b9480a7cdd374f5898ffd4da20d0d51fbd4506e5d4a17fdbfbb5979bae7",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "lEg/LSofTzi6e53OlRQgCtAFjEJ5niiUBqzxeXtar2U=": {
-        "avatar_url": "https://www.gravatar.com/avatar/qich1686v020a554uemodofz3h2abs7o?d=identicon",
-        "country": "JZ",
-        "ethereum_address": "0x75982291D8bf852a6464B9721C800F6bDa2f03cc",
-        "id": "79002732466343e4c54c1fa54085b9cf574dec61f81de13cfcc26f6477ecb073",
-        "info_url": "https://en.wikipedia.org/wiki/Longfellow_Bridge",
-        "name": "rhythmic-plant",
-        "tm_pub_key": "lEg/LSofTzi6e53OlRQgCtAFjEJ5niiUBqzxeXtar2U=",
-        "vega_pub_key": "442f552e01f75559622ca067b0a657cf626fd5add7799a4c70ab0f99bc08463d",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307201530",
+  "chain_id": "vega-devnet1-202307201812",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-20T15:30:35.668302404Z",
+  "genesis_time": "2023-07-20T18:12:14.33528481Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "317622BB5A4AFD4078B53D9F4AFA3CD1C69C6CEA",
-      "name": "rhythmic-plant",
+      "address": "1A7B8F854A92A1B6B4D5A9741B3D6560FED36CC3",
+      "name": "inexpensive-duck",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "lEg/LSofTzi6e53OlRQgCtAFjEJ5niiUBqzxeXtar2U="
+        "value": "4Y9IA7ewUb9xclaJGQCglmCq4NOZD/utCwIo7B8feNs="
       }
     }
   ]
