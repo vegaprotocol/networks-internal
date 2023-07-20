@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "h5sKESpXsoYKkPk8feonftsZecoVad/Lw389vwP4HaM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ec3mhqe4zhibfgzyp7oma3dzrsz1z8z2?d=identicon",
-        "country": "TS",
-        "ethereum_address": "0x9FC49c6dA87D2CA986bB2A32D5A71223e2C6099F",
-        "id": "07fd9f97f88ed3d21e4d2684f24898de3d4c6b50a99aa558cef53ab8e331f786",
-        "info_url": "https://en.wikipedia.org/wiki/Oddballs_(album)",
-        "name": "odd-flowers",
-        "tm_pub_key": "h5sKESpXsoYKkPk8feonftsZecoVad/Lw389vwP4HaM=",
-        "vega_pub_key": "9fc6083a6e067b4eae00653ec7a7f20dacc528a45fa46647476b996f7b80c782",
+      "lEg/LSofTzi6e53OlRQgCtAFjEJ5niiUBqzxeXtar2U=": {
+        "avatar_url": "https://www.gravatar.com/avatar/qich1686v020a554uemodofz3h2abs7o?d=identicon",
+        "country": "JZ",
+        "ethereum_address": "0x75982291D8bf852a6464B9721C800F6bDa2f03cc",
+        "id": "79002732466343e4c54c1fa54085b9cf574dec61f81de13cfcc26f6477ecb073",
+        "info_url": "https://en.wikipedia.org/wiki/Longfellow_Bridge",
+        "name": "rhythmic-plant",
+        "tm_pub_key": "lEg/LSofTzi6e53OlRQgCtAFjEJ5niiUBqzxeXtar2U=",
+        "vega_pub_key": "442f552e01f75559622ca067b0a657cf626fd5add7799a4c70ab0f99bc08463d",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307201351",
+  "chain_id": "vega-devnet1-202307201502",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-20T13:51:17.359569681Z",
+  "genesis_time": "2023-07-20T15:02:00.883498256Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "4EFBE7748851329529902505B09ED3A0174655FD",
-      "name": "odd-flowers",
+      "address": "317622BB5A4AFD4078B53D9F4AFA3CD1C69C6CEA",
+      "name": "rhythmic-plant",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "h5sKESpXsoYKkPk8feonftsZecoVad/Lw389vwP4HaM="
+        "value": "lEg/LSofTzi6e53OlRQgCtAFjEJ5niiUBqzxeXtar2U="
       }
     }
   ]
