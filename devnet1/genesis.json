@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "4L/3YDLOKoSgv4DwGkT0FR87lrifMvjgnYseoQeVASk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/auhy1yw2hfbbeonapnp0v39kjsk7xo8v?d=identicon",
-        "country": "HC",
-        "ethereum_address": "0x132dD8f4fD88d39DCA9592Ec562a220fCf00Ba57",
-        "id": "eb61dc9de1758518f96a72b7425157c7a9d963254beea5e48bba9d12ae77f4d3",
-        "info_url": "https://en.wikipedia.org/wiki/1953%E2%80%9354_Ranji_Trophy",
-        "name": "ugly-honey",
-        "tm_pub_key": "4L/3YDLOKoSgv4DwGkT0FR87lrifMvjgnYseoQeVASk=",
-        "vega_pub_key": "d3321fc7b56de324685fcbe94d0f54d64906d923d9296880178c9e6a63c444d5",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "h5sKESpXsoYKkPk8feonftsZecoVad/Lw389vwP4HaM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ec3mhqe4zhibfgzyp7oma3dzrsz1z8z2?d=identicon",
+        "country": "TS",
+        "ethereum_address": "0x9FC49c6dA87D2CA986bB2A32D5A71223e2C6099F",
+        "id": "07fd9f97f88ed3d21e4d2684f24898de3d4c6b50a99aa558cef53ab8e331f786",
+        "info_url": "https://en.wikipedia.org/wiki/Oddballs_(album)",
+        "name": "odd-flowers",
+        "tm_pub_key": "h5sKESpXsoYKkPk8feonftsZecoVad/Lw389vwP4HaM=",
+        "vega_pub_key": "9fc6083a6e067b4eae00653ec7a7f20dacc528a45fa46647476b996f7b80c782",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307201213",
+  "chain_id": "vega-devnet1-202307201351",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-20T12:13:44.013093196Z",
+  "genesis_time": "2023-07-20T13:51:17.359569681Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "F97E5342DCB737E4306BEB59622674A40352AF91",
-      "name": "ugly-honey",
+      "address": "4EFBE7748851329529902505B09ED3A0174655FD",
+      "name": "odd-flowers",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "4L/3YDLOKoSgv4DwGkT0FR87lrifMvjgnYseoQeVASk="
+        "value": "h5sKESpXsoYKkPk8feonftsZecoVad/Lw389vwP4HaM="
       }
     }
   ]
