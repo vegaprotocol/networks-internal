@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "4Y9IA7ewUb9xclaJGQCglmCq4NOZD/utCwIo7B8feNs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/decqr1bjuwn89aiy87yyrejo5rwdwjlr?d=identicon",
-        "country": "QW",
-        "ethereum_address": "0xDBEb30a73A3a1D623e6c12EBdF7DBF6b23bd8bB8",
-        "id": "ce0bd4cf30f96e0f9652ccf9058f8e1584094414c1a2f163dbd7a534241a3f4d",
-        "info_url": "https://en.wikipedia.org/wiki/Adam_Showman",
-        "name": "inexpensive-duck",
-        "tm_pub_key": "4Y9IA7ewUb9xclaJGQCglmCq4NOZD/utCwIo7B8feNs=",
-        "vega_pub_key": "124d0b9480a7cdd374f5898ffd4da20d0d51fbd4506e5d4a17fdbfbb5979bae7",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "ZjXdHBxSmL6hwFv9oTihrQfo2tRRpTPBGFNJjeOt0VI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/dblfniksfeiarmfb6hjzob3dweori9da?d=identicon",
+        "country": "TM",
+        "ethereum_address": "0xE6c9FB205f5B1Fd5d5645AF8Fb16B594651FcBdF",
+        "id": "268b40eabad7354d55134de0a744940a53b1869e20f9c9fa87be79b5dfd200a5",
+        "info_url": "https://en.wikipedia.org/wiki/Albert_Baciocco",
+        "name": "bright-bed",
+        "tm_pub_key": "ZjXdHBxSmL6hwFv9oTihrQfo2tRRpTPBGFNJjeOt0VI=",
+        "vega_pub_key": "86424c254bfbca80d1b0134b666f7719c8154a8baeb95bafa4885ccd8defe92f",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307201812",
+  "chain_id": "vega-devnet1-202307201912",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-20T18:12:14.33528481Z",
+  "genesis_time": "2023-07-20T19:12:06.456888053Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "1A7B8F854A92A1B6B4D5A9741B3D6560FED36CC3",
-      "name": "inexpensive-duck",
+      "address": "E61BE33A300958168639F03B292C07E0C6329D11",
+      "name": "bright-bed",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "4Y9IA7ewUb9xclaJGQCglmCq4NOZD/utCwIo7B8feNs="
+        "value": "ZjXdHBxSmL6hwFv9oTihrQfo2tRRpTPBGFNJjeOt0VI="
       }
     }
   ]
