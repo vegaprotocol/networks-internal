@@ -291,6 +291,17 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
+      "IJ5kgnHB80Iveo2QUatBw3p457msKTLUNFCj9iKHStM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/8e2lin1acokmphpphe0ki4vl8ytzrqfu?d=identicon",
+        "country": "EF",
+        "ethereum_address": "0xD426E886109CB7682bDD3210b563767E80F7Fe75",
+        "id": "5858fc339a586516d6a2e556aea64bc1f43fcf6d28e47146ff28b7e5b542dcb2",
+        "info_url": "https://en.wikipedia.org/wiki/19972007",
+        "name": "salmon-bird",
+        "tm_pub_key": "IJ5kgnHB80Iveo2QUatBw3p457msKTLUNFCj9iKHStM=",
+        "vega_pub_key": "d7d94981c1bcd208d0dfc6dfe3344a5f0f5073494d560a9fdd65795b18ddbf7f",
+        "vega_pub_key_index": 1
+      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -300,17 +311,6 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
-        "vega_pub_key_index": 1
-      },
-      "oEnXaP8v5twubqjwiGsDsLqfTLD/aFQgk7D7m4TxYvo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/wis2xmwzxzs2gxzwf40kklow8i78os4y?d=identicon",
-        "country": "SK",
-        "ethereum_address": "0x03e756Df12557E80dAFf482c700ad4e33D303e89",
-        "id": "74db0c8df7997757f73493a979126976fe6f3332fe22b7f0133b189bd3adec98",
-        "info_url": "https://en.wikipedia.org/wiki/Callisia_gentlei",
-        "name": "tender-shoe",
-        "tm_pub_key": "oEnXaP8v5twubqjwiGsDsLqfTLD/aFQgk7D7m4TxYvo=",
-        "vega_pub_key": "2ff56a902c9e13a6865856570d71966628a123e79a179b4ab97469e8dd902733",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307200938",
+  "chain_id": "vega-devnet1-202307201007",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-20T09:38:45.098725281Z",
+  "genesis_time": "2023-07-20T10:07:45.488560667Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "B217992506B304589B916658A9C7C9B5A2DFCCEE",
-      "name": "tender-shoe",
+      "address": "67B7EFE2BACAE40A071DFA712C03DDA2BAC84B8C",
+      "name": "salmon-bird",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "oEnXaP8v5twubqjwiGsDsLqfTLD/aFQgk7D7m4TxYvo="
+        "value": "IJ5kgnHB80Iveo2QUatBw3p457msKTLUNFCj9iKHStM="
       }
     }
   ]
