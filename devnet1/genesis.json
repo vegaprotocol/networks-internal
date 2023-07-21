@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "SfTGvAVW8RBr5GW6bTU4R/OcczprbPfETjUifAj3bxg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/3jzfe6yypy8gbqb3krmh9jcd0e3fg8za?d=identicon",
-        "country": "ZK",
-        "ethereum_address": "0xBEC8c42d6AAB4371E19443eE3731deb3E056d717",
-        "id": "2f3eca8ef046a5fc2c96f1a305d61fbbcfa363455d19cb6deaedeeb5c61b7f85",
-        "info_url": "https://en.wikipedia.org/wiki/%C3%89tienne_Bi%C3%A9ler",
-        "name": "thundering-sister",
-        "tm_pub_key": "SfTGvAVW8RBr5GW6bTU4R/OcczprbPfETjUifAj3bxg=",
-        "vega_pub_key": "adc02034fbbbaa9b0085380ed3fcba454a83f77759fce0f0347d9a64a0727604",
+      "iyFPoRQMCPgwb2iig9Vgx7ZzXX62IoSZlaSzUplm2xI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ic605l7cevvi9bl017hds0npt7zi8qqy?d=identicon",
+        "country": "PN",
+        "ethereum_address": "0x07235Fa711d2A8a66618dd2d50230B587B5C9e6a",
+        "id": "a5bcc1d8c8038a34e4291ad1b8a10828bc85f5c1b0b2a6c3cc74e70eec257ee2",
+        "info_url": "https://en.wikipedia.org/wiki/Paul_Ham",
+        "name": "ideal-hill",
+        "tm_pub_key": "iyFPoRQMCPgwb2iig9Vgx7ZzXX62IoSZlaSzUplm2xI=",
+        "vega_pub_key": "c6143c0363db448fa322c331a3c6d8d31afd5c0ceb6e4ed668f023df92f30a64",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307210902",
+  "chain_id": "vega-devnet1-202307211135",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-21T09:02:03.895677399Z",
+  "genesis_time": "2023-07-21T11:35:47.458390277Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "A7EACC63AF6923B97389BCB5E7B32415B44EFC1E",
-      "name": "thundering-sister",
+      "address": "A760F90F5ECEC5D36074F5FBB72A162F2DC7E265",
+      "name": "ideal-hill",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "SfTGvAVW8RBr5GW6bTU4R/OcczprbPfETjUifAj3bxg="
+        "value": "iyFPoRQMCPgwb2iig9Vgx7ZzXX62IoSZlaSzUplm2xI="
       }
     }
   ]
