@@ -20,5 +20,7 @@ Node documentation page contains all useful informations about the node. You can
 | [n05.testnet.vega.xyz](https://n05.testnet.vega.xyz) | [tm-n05.testnet.vega.xyz](https://tm-n05.testnet.vega.xyz) | ams3 | s-4vcpu-8gb | do |
 | [n06.testnet.vega.xyz](https://n06.testnet.vega.xyz) | [tm-n06.testnet.vega.xyz](https://tm-n06.testnet.vega.xyz) | blr1 | s-8vcpu-16gb | do |
 | [n07.testnet.vega.xyz](https://n07.testnet.vega.xyz) | [tm-n07.testnet.vega.xyz](https://tm-n07.testnet.vega.xyz) | tor1 | s-8vcpu-16gb | do |
+| [n08.testnet.vega.xyz](https://n08.testnet.vega.xyz) | [tm-n08.testnet.vega.xyz](https://tm-n08.testnet.vega.xyz) | sfo3 | s-8vcpu-16gb | do |
+| [n09.testnet.vega.xyz](https://n09.testnet.vega.xyz) | [tm-n09.testnet.vega.xyz](https://tm-n09.testnet.vega.xyz) | nyc1 | s-8vcpu-16gb | do |
 | [be.testnet.vega.xyz](https://be.testnet.vega.xyz) | [tm-be.testnet.vega.xyz](https://tm-be.testnet.vega.xyz) | nyc3 | s-8vcpu-16gb | do |
 | [m.testnet.vega.xyz](https://m.testnet.vega.xyz) | [tm-m.testnet.vega.xyz](https://tm-m.testnet.vega.xyz) | ams3 | s-8vcpu-16gb | do |
