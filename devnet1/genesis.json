@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "k39629rV20aMvLp4cVT6jnaO47fRYvgWgRmmOzF9hWg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/026aoa9zvk8qkrku45kl5a3siwcqo06s?d=identicon",
-        "country": "OW",
-        "ethereum_address": "0x9731d7E64EDFa6BeA77010e08b2c61Ed12f23BA9",
-        "id": "5bb520030481d385268a0da92f262d07ec1edd3671aa744254786bc278bc54fa",
-        "info_url": "https://en.wikipedia.org/wiki/Bomarea_graminifolia",
-        "name": "fuzzy-month",
-        "tm_pub_key": "k39629rV20aMvLp4cVT6jnaO47fRYvgWgRmmOzF9hWg=",
-        "vega_pub_key": "b1fc9f60af67d95d98b23dad7343964495a424f9512f17a54644544d12527a18",
+      "kOXss/x58+rPEqzV9rIZK7YdGvoO/f9VdB/sdL6ehA8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/gqan42sh6h8uj8qfj3qc9o1dbmhxvttw?d=identicon",
+        "country": "KD",
+        "ethereum_address": "0xAa581a18E18E9B6AF02d98f740Ff750820110C2D",
+        "id": "65e91b77b5c14d79a81e6f819bebde63ac890ce86adbca1c1454365c6eebeb1a",
+        "info_url": "https://en.wikipedia.org/wiki/2010_in_Dutch_television",
+        "name": "wicked-mango",
+        "tm_pub_key": "kOXss/x58+rPEqzV9rIZK7YdGvoO/f9VdB/sdL6ehA8=",
+        "vega_pub_key": "c362437d65f67bb27643268cfef429d7c60628785b2bcc476039cdaf3bbdb229",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307211348",
+  "chain_id": "vega-devnet1-202307211635",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-21T13:48:04.7907704Z",
+  "genesis_time": "2023-07-21T16:35:54.34035933Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "878DF9EBBCC9094D8A43DB5D6181FC58A2DF7899",
-      "name": "fuzzy-month",
+      "address": "D0D29A3053E7CAE5E288067D53DA3AD939325AA3",
+      "name": "wicked-mango",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "k39629rV20aMvLp4cVT6jnaO47fRYvgWgRmmOzF9hWg="
+        "value": "kOXss/x58+rPEqzV9rIZK7YdGvoO/f9VdB/sdL6ehA8="
       }
     }
   ]
