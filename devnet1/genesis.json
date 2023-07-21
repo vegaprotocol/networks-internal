@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "ZjXdHBxSmL6hwFv9oTihrQfo2tRRpTPBGFNJjeOt0VI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/dblfniksfeiarmfb6hjzob3dweori9da?d=identicon",
-        "country": "TM",
-        "ethereum_address": "0xE6c9FB205f5B1Fd5d5645AF8Fb16B594651FcBdF",
-        "id": "268b40eabad7354d55134de0a744940a53b1869e20f9c9fa87be79b5dfd200a5",
-        "info_url": "https://en.wikipedia.org/wiki/Albert_Baciocco",
-        "name": "bright-bed",
-        "tm_pub_key": "ZjXdHBxSmL6hwFv9oTihrQfo2tRRpTPBGFNJjeOt0VI=",
-        "vega_pub_key": "86424c254bfbca80d1b0134b666f7719c8154a8baeb95bafa4885ccd8defe92f",
+      "SfTGvAVW8RBr5GW6bTU4R/OcczprbPfETjUifAj3bxg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/3jzfe6yypy8gbqb3krmh9jcd0e3fg8za?d=identicon",
+        "country": "ZK",
+        "ethereum_address": "0xBEC8c42d6AAB4371E19443eE3731deb3E056d717",
+        "id": "2f3eca8ef046a5fc2c96f1a305d61fbbcfa363455d19cb6deaedeeb5c61b7f85",
+        "info_url": "https://en.wikipedia.org/wiki/%C3%89tienne_Bi%C3%A9ler",
+        "name": "thundering-sister",
+        "tm_pub_key": "SfTGvAVW8RBr5GW6bTU4R/OcczprbPfETjUifAj3bxg=",
+        "vega_pub_key": "adc02034fbbbaa9b0085380ed3fcba454a83f77759fce0f0347d9a64a0727604",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307201912",
+  "chain_id": "vega-devnet1-202307210902",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-20T19:12:06.456888053Z",
+  "genesis_time": "2023-07-21T09:02:03.895677399Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "E61BE33A300958168639F03B292C07E0C6329D11",
-      "name": "bright-bed",
+      "address": "A7EACC63AF6923B97389BCB5E7B32415B44EFC1E",
+      "name": "thundering-sister",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ZjXdHBxSmL6hwFv9oTihrQfo2tRRpTPBGFNJjeOt0VI="
+        "value": "SfTGvAVW8RBr5GW6bTU4R/OcczprbPfETjUifAj3bxg="
       }
     }
   ]
