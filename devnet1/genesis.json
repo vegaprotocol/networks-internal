@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "4DkUA8HmMVOdyA/y3Df7wujF2VZC6T/pLWVcSog9EfM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/f7tqjc1i222slnqlp5h62dzxlwckomrm?d=identicon",
+        "country": "TX",
+        "ethereum_address": "0x03d9040e8DDB25a901382e7D1578B4FE941fD223",
+        "id": "6738562248427a183e9a41b4b17ae425d56d4209bd2844501aad44780d5794db",
+        "info_url": "https://en.wikipedia.org/wiki/Lorenzo_Zurzolo",
+        "name": "tense-vacuum",
+        "tm_pub_key": "4DkUA8HmMVOdyA/y3Df7wujF2VZC6T/pLWVcSog9EfM=",
+        "vega_pub_key": "ae8498f8ef6581c5a4bf4e83d4904019534fdac65dcc06c5c6db46a799fb3459",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "kOXss/x58+rPEqzV9rIZK7YdGvoO/f9VdB/sdL6ehA8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/gqan42sh6h8uj8qfj3qc9o1dbmhxvttw?d=identicon",
-        "country": "KD",
-        "ethereum_address": "0xAa581a18E18E9B6AF02d98f740Ff750820110C2D",
-        "id": "65e91b77b5c14d79a81e6f819bebde63ac890ce86adbca1c1454365c6eebeb1a",
-        "info_url": "https://en.wikipedia.org/wiki/2010_in_Dutch_television",
-        "name": "wicked-mango",
-        "tm_pub_key": "kOXss/x58+rPEqzV9rIZK7YdGvoO/f9VdB/sdL6ehA8=",
-        "vega_pub_key": "c362437d65f67bb27643268cfef429d7c60628785b2bcc476039cdaf3bbdb229",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307211635",
+  "chain_id": "vega-devnet1-202307221150",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-21T16:35:54.34035933Z",
+  "genesis_time": "2023-07-22T11:50:21.411453846Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "D0D29A3053E7CAE5E288067D53DA3AD939325AA3",
-      "name": "wicked-mango",
+      "address": "3F28D9F47945D8A9CD3BFC97B7726A7CAD8976D4",
+      "name": "tense-vacuum",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "kOXss/x58+rPEqzV9rIZK7YdGvoO/f9VdB/sdL6ehA8="
+        "value": "4DkUA8HmMVOdyA/y3Df7wujF2VZC6T/pLWVcSog9EfM="
       }
     }
   ]
