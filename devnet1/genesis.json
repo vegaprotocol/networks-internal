@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "jLQlDUUZb/wJQGR2uTobYVgVgIUW2o2IU/43n/2VCcw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/9zwdsws6re7qi9c5iwgnslr2ntl46sru?d=identicon",
-        "country": "YE",
-        "ethereum_address": "0x4C0e983d0d99da3E1c12B83cea347fF88f3C1783",
-        "id": "efca0e444d4a0efdb5fbd89e6fd919e5d80d950cabfe3a8c3d4ab3b1ac98e442",
-        "info_url": "https://en.wikipedia.org/wiki/Quasicrystal",
-        "name": "fresh-barber",
-        "tm_pub_key": "jLQlDUUZb/wJQGR2uTobYVgVgIUW2o2IU/43n/2VCcw=",
-        "vega_pub_key": "d038e75e425d34b02aba766e95341302b496058ff9ae27fac373eabacd6e5b11",
+      "NDxGegdlP0jfv4iIjhI8Q5Bbem4F0PdpQdzFiq17CBg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/l7x8aapvol8ivhyszca9uk9lh2nhn8k8?d=identicon",
+        "country": "QD",
+        "ethereum_address": "0xc694dBc0a0625E48012Beaa11E2c7F3B0680AF32",
+        "id": "b6f740e4983b56a2d0e56173c06ee6146611561874aa601f4750a7f444f38a71",
+        "info_url": "https://en.wikipedia.org/wiki/Type_97_sniper_rifle",
+        "name": "wrong-table",
+        "tm_pub_key": "NDxGegdlP0jfv4iIjhI8Q5Bbem4F0PdpQdzFiq17CBg=",
+        "vega_pub_key": "6633df99286d76b771f130b35b02e174130877cb9d57d9b58df072ec304fc609",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307241636",
+  "chain_id": "vega-devnet1-202307241713",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-24T16:36:00.327273767Z",
+  "genesis_time": "2023-07-24T17:13:36.084241417Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "38F10763407D253A2F294FAE6AC4BA512F3DDD6D",
-      "name": "fresh-barber",
+      "address": "CEB17D35974CF2341BCA4030C745C7A7F58233BD",
+      "name": "wrong-table",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "jLQlDUUZb/wJQGR2uTobYVgVgIUW2o2IU/43n/2VCcw="
+        "value": "NDxGegdlP0jfv4iIjhI8Q5Bbem4F0PdpQdzFiq17CBg="
       }
     }
   ]
