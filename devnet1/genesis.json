@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "NDxGegdlP0jfv4iIjhI8Q5Bbem4F0PdpQdzFiq17CBg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/l7x8aapvol8ivhyszca9uk9lh2nhn8k8?d=identicon",
-        "country": "QD",
-        "ethereum_address": "0xc694dBc0a0625E48012Beaa11E2c7F3B0680AF32",
-        "id": "b6f740e4983b56a2d0e56173c06ee6146611561874aa601f4750a7f444f38a71",
-        "info_url": "https://en.wikipedia.org/wiki/Type_97_sniper_rifle",
-        "name": "wrong-table",
-        "tm_pub_key": "NDxGegdlP0jfv4iIjhI8Q5Bbem4F0PdpQdzFiq17CBg=",
-        "vega_pub_key": "6633df99286d76b771f130b35b02e174130877cb9d57d9b58df072ec304fc609",
+      "TkxTsQIikSx1OFFKHFRgzZ58KB9jtt4mZzCGh3w2fHQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/e8vfoztu5pqs5szoj0d7l8mub8445rmy?d=identicon",
+        "country": "EI",
+        "ethereum_address": "0xB3bEDA465c381fAf8100fB21b3DB41da7432936a",
+        "id": "6441c63c523770b5086dedcbe47d41aacb57579c38bf58569cd0467b41d4d8d1",
+        "info_url": "https://en.wikipedia.org/wiki/Etherscope",
+        "name": "happy-vacuum",
+        "tm_pub_key": "TkxTsQIikSx1OFFKHFRgzZ58KB9jtt4mZzCGh3w2fHQ=",
+        "vega_pub_key": "a319a5c5e8ab72aab5bf7e1b5ef56151eb1b57e1253778548690052ea2a5cfd9",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307241741",
+  "chain_id": "vega-devnet1-202307250905",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-24T17:41:32.030860911Z",
+  "genesis_time": "2023-07-25T09:05:33.159700642Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "CEB17D35974CF2341BCA4030C745C7A7F58233BD",
-      "name": "wrong-table",
+      "address": "731C0003344136484D83BCE43B67FD65041FED06",
+      "name": "happy-vacuum",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "NDxGegdlP0jfv4iIjhI8Q5Bbem4F0PdpQdzFiq17CBg="
+        "value": "TkxTsQIikSx1OFFKHFRgzZ58KB9jtt4mZzCGh3w2fHQ="
       }
     }
   ]
