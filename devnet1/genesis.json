@@ -280,17 +280,6 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
-      "CAgEJXAbHtsu1vl801PpDQaiSXaMxsI8HJgMA8yZIrk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/s0s8ke5p23kak09kbi81jvjj3b6z84di?d=identicon",
-        "country": "NX",
-        "ethereum_address": "0x8198A9D556AA86bD5CFD74DEbEcF3e1bF4b3E98e",
-        "id": "a3d3cd6e9effce274c4251ad281b7d802a9c3881c7782563fe290dbb32cf134d",
-        "info_url": "https://en.wikipedia.org/wiki/B%C3%B6sendorfer_and_Yamaha_USASU_International_Piano_Competition",
-        "name": "perplexed-toy",
-        "tm_pub_key": "CAgEJXAbHtsu1vl801PpDQaiSXaMxsI8HJgMA8yZIrk=",
-        "vega_pub_key": "f565d1c5e190afc02e718bb688e18d97d93e3b91545f59c80b042b4761aba5a9",
-        "vega_pub_key_index": 1
-      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "OmSgUKSjcs2Kuv1rWINxz8L8Gw+oot2TjCPetYF0ILc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/jgsxbfvdul71f04o8ye0uajzdk5fxvs8?d=identicon",
+        "country": "KU",
+        "ethereum_address": "0x6297d695A1987954E9e866e915a209Be2ce478Ee",
+        "id": "be4d5353cd22e53b2f797eeff08457ae71329b5ba6ba31b29f07983dafd72af2",
+        "info_url": "https://en.wikipedia.org/wiki/Czech_Republic_men%27s_national_under-18_basketball_team",
+        "name": "foolish-bus",
+        "tm_pub_key": "OmSgUKSjcs2Kuv1rWINxz8L8Gw+oot2TjCPetYF0ILc=",
+        "vega_pub_key": "617cff527d336f6ff3c00d95751c48df6f214a45197e7c6ec8f97490d73d4e23",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307251036",
+  "chain_id": "vega-devnet1-202307251225",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-25T10:36:35.37010363Z",
+  "genesis_time": "2023-07-25T12:25:38.149451395Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "FB0C32B55F04FEFE862AD9E3E0A8C3E17DA12276",
-      "name": "perplexed-toy",
+      "address": "F2423BFBA96E5BC465EFBA6ABDFA4E77735FBCC3",
+      "name": "foolish-bus",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "CAgEJXAbHtsu1vl801PpDQaiSXaMxsI8HJgMA8yZIrk="
+        "value": "OmSgUKSjcs2Kuv1rWINxz8L8Gw+oot2TjCPetYF0ILc="
       }
     }
   ]
