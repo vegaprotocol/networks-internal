@@ -280,6 +280,17 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
+      "9pTyq37/23O7XVL6Knd91kZlIIwel6MLFCbkc003Clk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xibrjnnkwawn5c22qhqzabadhhf051g6?d=identicon",
+        "country": "CQ",
+        "ethereum_address": "0x271FC6bF11A5a28089Cf3C69aA9d212633F26fdD",
+        "id": "8216c95093499d2eaaaaf9e4537fbf56186873298fa8804610c6b01b66a69558",
+        "info_url": "https://en.wikipedia.org/wiki/Hubertus_Kramer",
+        "name": "noisy-month",
+        "tm_pub_key": "9pTyq37/23O7XVL6Knd91kZlIIwel6MLFCbkc003Clk=",
+        "vega_pub_key": "7326916ac82066e22151a8cce51c3dfb5242d67c623d90088bcb2b5afbb92543",
+        "vega_pub_key_index": 1
+      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "OmSgUKSjcs2Kuv1rWINxz8L8Gw+oot2TjCPetYF0ILc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/jgsxbfvdul71f04o8ye0uajzdk5fxvs8?d=identicon",
-        "country": "KU",
-        "ethereum_address": "0x6297d695A1987954E9e866e915a209Be2ce478Ee",
-        "id": "be4d5353cd22e53b2f797eeff08457ae71329b5ba6ba31b29f07983dafd72af2",
-        "info_url": "https://en.wikipedia.org/wiki/Czech_Republic_men%27s_national_under-18_basketball_team",
-        "name": "foolish-bus",
-        "tm_pub_key": "OmSgUKSjcs2Kuv1rWINxz8L8Gw+oot2TjCPetYF0ILc=",
-        "vega_pub_key": "617cff527d336f6ff3c00d95751c48df6f214a45197e7c6ec8f97490d73d4e23",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307251225",
+  "chain_id": "vega-devnet1-202307251315",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-25T12:25:38.149451395Z",
+  "genesis_time": "2023-07-25T13:15:53.324994268Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "F2423BFBA96E5BC465EFBA6ABDFA4E77735FBCC3",
-      "name": "foolish-bus",
+      "address": "7C294CF04BF62FDABF9239F63D53963B20B78AB6",
+      "name": "noisy-month",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "OmSgUKSjcs2Kuv1rWINxz8L8Gw+oot2TjCPetYF0ILc="
+        "value": "9pTyq37/23O7XVL6Knd91kZlIIwel6MLFCbkc003Clk="
       }
     }
   ]
