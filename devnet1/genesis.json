@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "4JBvw70FXHpw72SlWzyCUNoKjCm+KN6HUhEw+Viz4iM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/z3pom94v7ga3hmq2umijdfolfla2tlnr?d=identicon",
+        "country": "HT",
+        "ethereum_address": "0xb3C6a9A3Fa498116Da2632a3AA49E539b38E304D",
+        "id": "8426310278826819dcb5a84535e4ec3ffac87f3e78fe8cfe3af29a0df07e87eb",
+        "info_url": "https://en.wikipedia.org/wiki/Squaw_Peak_Inn",
+        "name": "inexpensive-key",
+        "tm_pub_key": "4JBvw70FXHpw72SlWzyCUNoKjCm+KN6HUhEw+Viz4iM=",
+        "vega_pub_key": "79213bbff870a4ee1576674e2240cecdf2fa0125f0d5e37d5fbcaf88739f3063",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -278,17 +289,6 @@
         "name": "tricky-teacher",
         "tm_pub_key": "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=",
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
-        "vega_pub_key_index": 1
-      },
-      "9pTyq37/23O7XVL6Knd91kZlIIwel6MLFCbkc003Clk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/xibrjnnkwawn5c22qhqzabadhhf051g6?d=identicon",
-        "country": "CQ",
-        "ethereum_address": "0x271FC6bF11A5a28089Cf3C69aA9d212633F26fdD",
-        "id": "8216c95093499d2eaaaaf9e4537fbf56186873298fa8804610c6b01b66a69558",
-        "info_url": "https://en.wikipedia.org/wiki/Hubertus_Kramer",
-        "name": "noisy-month",
-        "tm_pub_key": "9pTyq37/23O7XVL6Knd91kZlIIwel6MLFCbkc003Clk=",
-        "vega_pub_key": "7326916ac82066e22151a8cce51c3dfb5242d67c623d90088bcb2b5afbb92543",
         "vega_pub_key_index": 1
       },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307251315",
+  "chain_id": "vega-devnet1-202307251614",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-25T13:15:53.324994268Z",
+  "genesis_time": "2023-07-25T16:14:50.13762243Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "7C294CF04BF62FDABF9239F63D53963B20B78AB6",
-      "name": "noisy-month",
+      "address": "344414693FC526E8FFD99B9C301CD34ECD87D3A5",
+      "name": "inexpensive-key",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "9pTyq37/23O7XVL6Knd91kZlIIwel6MLFCbkc003Clk="
+        "value": "4JBvw70FXHpw72SlWzyCUNoKjCm+KN6HUhEw+Viz4iM="
       }
     }
   ]
