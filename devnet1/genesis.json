@@ -280,6 +280,17 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
+      "CAgEJXAbHtsu1vl801PpDQaiSXaMxsI8HJgMA8yZIrk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/s0s8ke5p23kak09kbi81jvjj3b6z84di?d=identicon",
+        "country": "NX",
+        "ethereum_address": "0x8198A9D556AA86bD5CFD74DEbEcF3e1bF4b3E98e",
+        "id": "a3d3cd6e9effce274c4251ad281b7d802a9c3881c7782563fe290dbb32cf134d",
+        "info_url": "https://en.wikipedia.org/wiki/B%C3%B6sendorfer_and_Yamaha_USASU_International_Piano_Competition",
+        "name": "perplexed-toy",
+        "tm_pub_key": "CAgEJXAbHtsu1vl801PpDQaiSXaMxsI8HJgMA8yZIrk=",
+        "vega_pub_key": "f565d1c5e190afc02e718bb688e18d97d93e3b91545f59c80b042b4761aba5a9",
+        "vega_pub_key_index": 1
+      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "TkxTsQIikSx1OFFKHFRgzZ58KB9jtt4mZzCGh3w2fHQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/e8vfoztu5pqs5szoj0d7l8mub8445rmy?d=identicon",
-        "country": "EI",
-        "ethereum_address": "0xB3bEDA465c381fAf8100fB21b3DB41da7432936a",
-        "id": "6441c63c523770b5086dedcbe47d41aacb57579c38bf58569cd0467b41d4d8d1",
-        "info_url": "https://en.wikipedia.org/wiki/Etherscope",
-        "name": "happy-vacuum",
-        "tm_pub_key": "TkxTsQIikSx1OFFKHFRgzZ58KB9jtt4mZzCGh3w2fHQ=",
-        "vega_pub_key": "a319a5c5e8ab72aab5bf7e1b5ef56151eb1b57e1253778548690052ea2a5cfd9",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307250905",
+  "chain_id": "vega-devnet1-202307251036",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-25T09:05:33.159700642Z",
+  "genesis_time": "2023-07-25T10:36:35.37010363Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "731C0003344136484D83BCE43B67FD65041FED06",
-      "name": "happy-vacuum",
+      "address": "FB0C32B55F04FEFE862AD9E3E0A8C3E17DA12276",
+      "name": "perplexed-toy",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "TkxTsQIikSx1OFFKHFRgzZ58KB9jtt4mZzCGh3w2fHQ="
+        "value": "CAgEJXAbHtsu1vl801PpDQaiSXaMxsI8HJgMA8yZIrk="
       }
     }
   ]
