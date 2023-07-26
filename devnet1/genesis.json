@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "YypMdM+gwaL3VgUR3BB9IheP8NPHRgcbO9yMYnKYloo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/3vrn327fqhjuk0br9f7fwt76bx3i6k9v?d=identicon",
-        "country": "DI",
-        "ethereum_address": "0x0c1CDebcdD6300F638D6a57cA6ff48C26FaBCDA9",
-        "id": "7c631a56e7d709f44edf49d1d297c759e6a6ac73aa27f6911e0ad28777ed961b",
-        "info_url": "https://en.wikipedia.org/wiki/2023_Japanese_unified_local_elections",
-        "name": "brave-lake",
-        "tm_pub_key": "YypMdM+gwaL3VgUR3BB9IheP8NPHRgcbO9yMYnKYloo=",
-        "vega_pub_key": "f5916c6d67748de363d1fea1abb016d9ce5f183cd0f6242951389528ee837505",
+      "OsizNf/Z3aXb1yWbX7nLZTX09aLYGRQI/802XZUL5UI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ao6g4mbaecivohdk4h6mkmur6wq1j7ms?d=identicon",
+        "country": "WN",
+        "ethereum_address": "0xCE1E53355955b49c181573A07e1c7F8bb2b26A16",
+        "id": "6b28d5bedf8ba375837e2b4c0eb2c201474f52e40d387aa268c4a3d15c89fa8a",
+        "info_url": "https://en.wikipedia.org/wiki/Middle_Creek_High_School",
+        "name": "scruffy-window",
+        "tm_pub_key": "OsizNf/Z3aXb1yWbX7nLZTX09aLYGRQI/802XZUL5UI=",
+        "vega_pub_key": "5469ea88a3840466fce27f157483b8593e4588e0396cd8431fb748076823afe2",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307261702",
+  "chain_id": "vega-devnet1-202307261827",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-26T17:02:28.463269731Z",
+  "genesis_time": "2023-07-26T18:27:09.810575059Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "0EE695C2F087CC40BAEE2DFEBD8834FCDC4CB8D0",
-      "name": "brave-lake",
+      "address": "A57762CAD8F3596B4226A2CFD0D2990DFAB7B41E",
+      "name": "scruffy-window",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "YypMdM+gwaL3VgUR3BB9IheP8NPHRgcbO9yMYnKYloo="
+        "value": "OsizNf/Z3aXb1yWbX7nLZTX09aLYGRQI/802XZUL5UI="
       }
     }
   ]
