@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "4JBvw70FXHpw72SlWzyCUNoKjCm+KN6HUhEw+Viz4iM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/z3pom94v7ga3hmq2umijdfolfla2tlnr?d=identicon",
-        "country": "HT",
-        "ethereum_address": "0xb3C6a9A3Fa498116Da2632a3AA49E539b38E304D",
-        "id": "8426310278826819dcb5a84535e4ec3ffac87f3e78fe8cfe3af29a0df07e87eb",
-        "info_url": "https://en.wikipedia.org/wiki/Squaw_Peak_Inn",
-        "name": "inexpensive-key",
-        "tm_pub_key": "4JBvw70FXHpw72SlWzyCUNoKjCm+KN6HUhEw+Viz4iM=",
-        "vega_pub_key": "79213bbff870a4ee1576674e2240cecdf2fa0125f0d5e37d5fbcaf88739f3063",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -313,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "cmmuZmtmF/+G3iIl7WtvXoie2W+mO5aqIyUU5DcqN34=": {
+        "avatar_url": "https://www.gravatar.com/avatar/5vt2sn1ybzd7pdp72ciex1o7ouk2e73i?d=identicon",
+        "country": "MT",
+        "ethereum_address": "0x8A328f0b14AF17873807294e4df31E635c43611c",
+        "id": "938f1e516cd124fcb153f71894d2455a60c2047753e3d38fc30b5630619f9c1b",
+        "info_url": "https://en.wikipedia.org/wiki/Kalinago",
+        "name": "echoing-country",
+        "tm_pub_key": "cmmuZmtmF/+G3iIl7WtvXoie2W+mO5aqIyUU5DcqN34=",
+        "vega_pub_key": "c0b327829609c93bbd9cc5f9074bdfea2f1e8d7804bf3cd3a1424f825335adda",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307251651",
+  "chain_id": "vega-devnet1-202307261149",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-25T16:51:38.872349811Z",
+  "genesis_time": "2023-07-26T11:49:59.520232422Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "344414693FC526E8FFD99B9C301CD34ECD87D3A5",
-      "name": "inexpensive-key",
+      "address": "B8E4E570CD543262566B371147567FB6A5E45BFF",
+      "name": "echoing-country",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "4JBvw70FXHpw72SlWzyCUNoKjCm+KN6HUhEw+Viz4iM="
+        "value": "cmmuZmtmF/+G3iIl7WtvXoie2W+mO5aqIyUU5DcqN34="
       }
     }
   ]
