@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "OsizNf/Z3aXb1yWbX7nLZTX09aLYGRQI/802XZUL5UI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ao6g4mbaecivohdk4h6mkmur6wq1j7ms?d=identicon",
-        "country": "WN",
-        "ethereum_address": "0xCE1E53355955b49c181573A07e1c7F8bb2b26A16",
-        "id": "6b28d5bedf8ba375837e2b4c0eb2c201474f52e40d387aa268c4a3d15c89fa8a",
-        "info_url": "https://en.wikipedia.org/wiki/Middle_Creek_High_School",
-        "name": "scruffy-window",
-        "tm_pub_key": "OsizNf/Z3aXb1yWbX7nLZTX09aLYGRQI/802XZUL5UI=",
-        "vega_pub_key": "5469ea88a3840466fce27f157483b8593e4588e0396cd8431fb748076823afe2",
+      "kui8N10Fiz+8nZOGDnIbW67+4JePn/JZJPprYFXd0YU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/qn4n4nu2x9z09lp1ue2j04s8ihq875ez?d=identicon",
+        "country": "SB",
+        "ethereum_address": "0xdC4840680301af0B743a5f7582632e10343C8dD1",
+        "id": "67de0a7c8b92616665838dd0389e8ff7b77d1b234151e0b52dc5448ed517866d",
+        "info_url": "https://en.wikipedia.org/wiki/Oakdale,_Tennessee",
+        "name": "lovely-bee",
+        "tm_pub_key": "kui8N10Fiz+8nZOGDnIbW67+4JePn/JZJPprYFXd0YU=",
+        "vega_pub_key": "a52a74c4cdf0eec0e050f1c5e02930ae15d48b1ad738e64e8d171e31423ddffd",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307261827",
+  "chain_id": "vega-devnet1-202307261922",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-26T18:27:09.810575059Z",
+  "genesis_time": "2023-07-26T19:22:32.452653142Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "A57762CAD8F3596B4226A2CFD0D2990DFAB7B41E",
-      "name": "scruffy-window",
+      "address": "A2ADA4F1C6589189BF070F7057387866280F7FAA",
+      "name": "lovely-bee",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "OsizNf/Z3aXb1yWbX7nLZTX09aLYGRQI/802XZUL5UI="
+        "value": "kui8N10Fiz+8nZOGDnIbW67+4JePn/JZJPprYFXd0YU="
       }
     }
   ]
