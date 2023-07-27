@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "kui8N10Fiz+8nZOGDnIbW67+4JePn/JZJPprYFXd0YU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/qn4n4nu2x9z09lp1ue2j04s8ihq875ez?d=identicon",
-        "country": "SB",
-        "ethereum_address": "0xdC4840680301af0B743a5f7582632e10343C8dD1",
-        "id": "67de0a7c8b92616665838dd0389e8ff7b77d1b234151e0b52dc5448ed517866d",
-        "info_url": "https://en.wikipedia.org/wiki/Oakdale,_Tennessee",
-        "name": "lovely-bee",
-        "tm_pub_key": "kui8N10Fiz+8nZOGDnIbW67+4JePn/JZJPprYFXd0YU=",
-        "vega_pub_key": "a52a74c4cdf0eec0e050f1c5e02930ae15d48b1ad738e64e8d171e31423ddffd",
+      "OfXhUvlDqo7m1gJLYIegFRyxrm8SkMRG9TnoGvueDzw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/nyje5otsjjgux489vmo1fkncludg00wy?d=identicon",
+        "country": "XN",
+        "ethereum_address": "0x66ce7A57Ee8a48a635135d4C27019Fb22573f38c",
+        "id": "5494f605f4e05aa5aae5207bcb006b1beff43d7cf2d4c008ef078b44d0e86fd3",
+        "info_url": "https://en.wikipedia.org/wiki/2014_Uruguayan_presidential_primaries",
+        "name": "funny-flowers",
+        "tm_pub_key": "OfXhUvlDqo7m1gJLYIegFRyxrm8SkMRG9TnoGvueDzw=",
+        "vega_pub_key": "6e722b2963214d26fc1819ca852eba79b8cc4812d5f5ee5e50f594f67777c545",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307261922",
+  "chain_id": "vega-devnet1-202307270347",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-26T19:22:32.452653142Z",
+  "genesis_time": "2023-07-27T03:47:10.7818299Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "A2ADA4F1C6589189BF070F7057387866280F7FAA",
-      "name": "lovely-bee",
+      "address": "11B060B4FD2DDCCBF2D6E705ACA2D8E249EAF714",
+      "name": "funny-flowers",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "kui8N10Fiz+8nZOGDnIbW67+4JePn/JZJPprYFXd0YU="
+        "value": "OfXhUvlDqo7m1gJLYIegFRyxrm8SkMRG9TnoGvueDzw="
       }
     }
   ]
