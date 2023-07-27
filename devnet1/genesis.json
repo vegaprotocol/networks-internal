@@ -280,6 +280,17 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
+      "9xXieIvMlnah0d1twps1R8TUHjRBYf7n8pSPcnH58/c=": {
+        "avatar_url": "https://www.gravatar.com/avatar/dw9svem5f26dy1ufdlz5wo790tk8gb02?d=identicon",
+        "country": "OC",
+        "ethereum_address": "0xC892201f1404f02fb597455FFdb997a32eA34515",
+        "id": "3d15d3428b684dd57f447010318187856ad53c8fa57a83187de13567c3109ca5",
+        "info_url": "https://en.wikipedia.org/wiki/The_Little_Witch",
+        "name": "timely-honey",
+        "tm_pub_key": "9xXieIvMlnah0d1twps1R8TUHjRBYf7n8pSPcnH58/c=",
+        "vega_pub_key": "1cff16de8adc8b7ddbe49f361ecb881c24ccab4216db1a4455eba6fecb17f33b",
+        "vega_pub_key_index": 1
+      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "ioAYzB8u9By6ulxCotxa4XVq0SqELmFKdVxfe4ysrK0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/d3xo78ydbrzo0caq9kq326acgy91a77f?d=identicon",
-        "country": "UR",
-        "ethereum_address": "0x3c9E4fA6D6874002be49a6874Ce3a418Acd8BAf1",
-        "id": "ed523ed0b7104d85ee430ab3ab996c8d7133b30c1bdf8035d13ece75a20ee164",
-        "info_url": "https://en.wikipedia.org/wiki/Torodora_frustans",
-        "name": "vast-fan",
-        "tm_pub_key": "ioAYzB8u9By6ulxCotxa4XVq0SqELmFKdVxfe4ysrK0=",
-        "vega_pub_key": "445ac27483043df68a2b9a0eece615e052ca2e42388a30d096eefed62eb8ebc3",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307271149",
+  "chain_id": "vega-devnet1-202307271220",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-27T11:49:47.586049605Z",
+  "genesis_time": "2023-07-27T12:20:39.309392399Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "D196239B7AB82C16B0B011845B625DBA921FECDB",
-      "name": "vast-fan",
+      "address": "60CCC8861657B6D9F8C0CAFDFECD7E08A655A88D",
+      "name": "timely-honey",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ioAYzB8u9By6ulxCotxa4XVq0SqELmFKdVxfe4ysrK0="
+        "value": "9xXieIvMlnah0d1twps1R8TUHjRBYf7n8pSPcnH58/c="
       }
     }
   ]
