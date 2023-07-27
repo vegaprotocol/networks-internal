@@ -280,17 +280,6 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
-      "9xXieIvMlnah0d1twps1R8TUHjRBYf7n8pSPcnH58/c=": {
-        "avatar_url": "https://www.gravatar.com/avatar/dw9svem5f26dy1ufdlz5wo790tk8gb02?d=identicon",
-        "country": "OC",
-        "ethereum_address": "0xC892201f1404f02fb597455FFdb997a32eA34515",
-        "id": "3d15d3428b684dd57f447010318187856ad53c8fa57a83187de13567c3109ca5",
-        "info_url": "https://en.wikipedia.org/wiki/The_Little_Witch",
-        "name": "timely-honey",
-        "tm_pub_key": "9xXieIvMlnah0d1twps1R8TUHjRBYf7n8pSPcnH58/c=",
-        "vega_pub_key": "1cff16de8adc8b7ddbe49f361ecb881c24ccab4216db1a4455eba6fecb17f33b",
-        "vega_pub_key_index": 1
-      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -300,6 +289,17 @@
         "name": "friendly-barber",
         "tm_pub_key": "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=",
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
+        "vega_pub_key_index": 1
+      },
+      "F2+OG5RVDQlmGXoneMrqu2ITEy1v0yGNfGQnm2c0Jec=": {
+        "avatar_url": "https://www.gravatar.com/avatar/0zk4yv822lajqf83zoxqayy28aeoujqd?d=identicon",
+        "country": "MK",
+        "ethereum_address": "0x5C0F0e92fa8498ef11e44D22ae4B96f7cCC44458",
+        "id": "50b4a9359b8dff5acb0e65447cd99ee6a95f6b2ce5e3d4a92c60832a46a45f0b",
+        "info_url": "https://en.wikipedia.org/wiki/Pertti_Alaja",
+        "name": "gritty-music",
+        "tm_pub_key": "F2+OG5RVDQlmGXoneMrqu2ITEy1v0yGNfGQnm2c0Jec=",
+        "vega_pub_key": "e32d688c34cb914272c1589270ee64fd09f603d85896487c6e94baefacd50370",
         "vega_pub_key_index": 1
       },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307271220",
+  "chain_id": "vega-devnet1-202307271534",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-27T12:20:39.309392399Z",
+  "genesis_time": "2023-07-27T15:34:11.947313187Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "60CCC8861657B6D9F8C0CAFDFECD7E08A655A88D",
-      "name": "timely-honey",
+      "address": "5812C35C34725021B197398019E3CF58E43E7DB0",
+      "name": "gritty-music",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "9xXieIvMlnah0d1twps1R8TUHjRBYf7n8pSPcnH58/c="
+        "value": "F2+OG5RVDQlmGXoneMrqu2ITEy1v0yGNfGQnm2c0Jec="
       }
     }
   ]
