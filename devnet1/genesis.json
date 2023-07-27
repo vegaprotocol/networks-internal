@@ -291,17 +291,6 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
-      "F2+OG5RVDQlmGXoneMrqu2ITEy1v0yGNfGQnm2c0Jec=": {
-        "avatar_url": "https://www.gravatar.com/avatar/0zk4yv822lajqf83zoxqayy28aeoujqd?d=identicon",
-        "country": "MK",
-        "ethereum_address": "0x5C0F0e92fa8498ef11e44D22ae4B96f7cCC44458",
-        "id": "50b4a9359b8dff5acb0e65447cd99ee6a95f6b2ce5e3d4a92c60832a46a45f0b",
-        "info_url": "https://en.wikipedia.org/wiki/Pertti_Alaja",
-        "name": "gritty-music",
-        "tm_pub_key": "F2+OG5RVDQlmGXoneMrqu2ITEy1v0yGNfGQnm2c0Jec=",
-        "vega_pub_key": "e32d688c34cb914272c1589270ee64fd09f603d85896487c6e94baefacd50370",
-        "vega_pub_key_index": 1
-      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -311,6 +300,17 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
+        "vega_pub_key_index": 1
+      },
+      "dWZkf/+H6J92Ma3c3omhLdmmzLiaPMGa2uYaCQzGm3k=": {
+        "avatar_url": "https://www.gravatar.com/avatar/aw10x6scgceett22uugokjw36n6k00z7?d=identicon",
+        "country": "QO",
+        "ethereum_address": "0x43fB3Edee28643d9A0CAE661cF6A742f9E7e8958",
+        "id": "572dec367ebcbb4191ba810a2d0e0b155d304fbcf98a5fa1c69a64aca4905eb3",
+        "info_url": "https://en.wikipedia.org/wiki/Herbert_Huncke",
+        "name": "wrong-television",
+        "tm_pub_key": "dWZkf/+H6J92Ma3c3omhLdmmzLiaPMGa2uYaCQzGm3k=",
+        "vega_pub_key": "4a793f606326c0636e1cff07741dbdcba6d48b2f8376c14ac7cc938fde2524e3",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307271534",
+  "chain_id": "vega-devnet1-202307271728",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-27T15:34:11.947313187Z",
+  "genesis_time": "2023-07-27T17:28:24.619567763Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "5812C35C34725021B197398019E3CF58E43E7DB0",
-      "name": "gritty-music",
+      "address": "21536ADD8A5A0CE3106C3C52343AEAA5BB8E861D",
+      "name": "wrong-television",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "F2+OG5RVDQlmGXoneMrqu2ITEy1v0yGNfGQnm2c0Jec="
+        "value": "dWZkf/+H6J92Ma3c3omhLdmmzLiaPMGa2uYaCQzGm3k="
       }
     }
   ]
