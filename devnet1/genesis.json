@@ -280,6 +280,17 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
+      "CokMW2hoGVos1n6r2Bi0IIvkHzQovTh4UX92UHdTYnc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ds3gv59gf6zxkz5yio1pt9cgnqmdvixz?d=identicon",
+        "country": "PR",
+        "ethereum_address": "0x080C932Ef95d2e5d0AF71BdB1f5905fD3e4E1CD6",
+        "id": "6fcc51c94831abff751b324ad711af85edcb7065f5957c8d9c976336f4051c0b",
+        "info_url": "https://en.wikipedia.org/wiki/Mithrakary",
+        "name": "purring-flowers",
+        "tm_pub_key": "CokMW2hoGVos1n6r2Bi0IIvkHzQovTh4UX92UHdTYnc=",
+        "vega_pub_key": "b388fa0643e11ddd5f3b85b0358c5dc34f1bb4951a6e4b03e60e13b88a65d86d",
+        "vega_pub_key_index": 1
+      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "Mv6C99odYPDxMm9tIKPyiGt+1EutVNEFyupbHSD9TJA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/j9z54il00d9wubefmv9g7mytvajyn40p?d=identicon",
-        "country": "NZ",
-        "ethereum_address": "0x4f85073c95c2d07a0AD2B3C226663C892D46C28a",
-        "id": "31b3040ead03d61db44b24e6dc18a0fe381ad9b9c30f407eab1cc28aca8cbe2b",
-        "info_url": "https://en.wikipedia.org/wiki/Mike_Guzovsky",
-        "name": "opportune-television",
-        "tm_pub_key": "Mv6C99odYPDxMm9tIKPyiGt+1EutVNEFyupbHSD9TJA=",
-        "vega_pub_key": "d86ef558359a5d11b2055dc2e7d392f4a01d5ed458c9a506ffb6ab33ce4edf50",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307281510",
+  "chain_id": "vega-devnet1-202307281614",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-28T15:10:10.741316665Z",
+  "genesis_time": "2023-07-28T16:14:25.548363177Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "D6DC6B557D9CEBEA6F4550E7EB7AA2BBDEBB5F25",
-      "name": "opportune-television",
+      "address": "327428482E6275ED94BF3ACC23F28B54B53D3986",
+      "name": "purring-flowers",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Mv6C99odYPDxMm9tIKPyiGt+1EutVNEFyupbHSD9TJA="
+        "value": "CokMW2hoGVos1n6r2Bi0IIvkHzQovTh4UX92UHdTYnc="
       }
     }
   ]
