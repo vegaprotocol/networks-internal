@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "ooL+We1pyQwvQXi/CBoyg5Y63uWXePehpWnm9uuvik8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/rssewucqpqcqcv9vta3xmyx0dwba3lzl?d=identicon",
-        "country": "AF",
-        "ethereum_address": "0x75C536Dab96Ea2Afae3588260A06DB4BA3412F4e",
-        "id": "0d29bb6b079ef37a583095c6bad233b3ce2f0b5837e8e1b925904a92f877bd90",
-        "info_url": "https://en.wikipedia.org/wiki/Fernando_Charrier",
-        "name": "promising-bed",
-        "tm_pub_key": "ooL+We1pyQwvQXi/CBoyg5Y63uWXePehpWnm9uuvik8=",
-        "vega_pub_key": "b84c1b76fa0d7925029c4e17b4fc88f31c7735ecc79b4cbde4069ed3c66d13c5",
+      "Mv6C99odYPDxMm9tIKPyiGt+1EutVNEFyupbHSD9TJA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/j9z54il00d9wubefmv9g7mytvajyn40p?d=identicon",
+        "country": "NZ",
+        "ethereum_address": "0x4f85073c95c2d07a0AD2B3C226663C892D46C28a",
+        "id": "31b3040ead03d61db44b24e6dc18a0fe381ad9b9c30f407eab1cc28aca8cbe2b",
+        "info_url": "https://en.wikipedia.org/wiki/Mike_Guzovsky",
+        "name": "opportune-television",
+        "tm_pub_key": "Mv6C99odYPDxMm9tIKPyiGt+1EutVNEFyupbHSD9TJA=",
+        "vega_pub_key": "d86ef558359a5d11b2055dc2e7d392f4a01d5ed458c9a506ffb6ab33ce4edf50",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307281431",
+  "chain_id": "vega-devnet1-202307281510",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-28T14:31:00.247371381Z",
+  "genesis_time": "2023-07-28T15:10:10.741316665Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "7728CDDC47CFE1778FECABA1A11BF25964C2647F",
-      "name": "promising-bed",
+      "address": "D6DC6B557D9CEBEA6F4550E7EB7AA2BBDEBB5F25",
+      "name": "opportune-television",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ooL+We1pyQwvQXi/CBoyg5Y63uWXePehpWnm9uuvik8="
+        "value": "Mv6C99odYPDxMm9tIKPyiGt+1EutVNEFyupbHSD9TJA="
       }
     }
   ]
