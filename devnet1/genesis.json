@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "7lPBI4H6idQ1nSfCPPW4XcP00BpQfPTVZzMoqK9BFAk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/2nveknlph0zqblv7cdumvkk8yq5n2x1n?d=identicon",
+        "country": "FX",
+        "ethereum_address": "0x586656DEb9Bb4aF4ddeC9F654ACF70208c0d5e89",
+        "id": "8f1f61d8259ca5750bccb66bcf5eb58d45aa16f07a0866887cebf4d02fcb6e50",
+        "info_url": "https://en.wikipedia.org/wiki/Barbara_Hutchinson",
+        "name": "purring-beach",
+        "tm_pub_key": "7lPBI4H6idQ1nSfCPPW4XcP00BpQfPTVZzMoqK9BFAk=",
+        "vega_pub_key": "d4abc9099f2e8ca08ac4098f49bc1ac9e381a0a09a2c23c5833510791472475e",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "m2g+XIkfa+jZOyQIrwgVzNQE/BG45O3xD+lFesrnR14=": {
-        "avatar_url": "https://www.gravatar.com/avatar/6scq289gsw1z8bwhuygkvnxi82hqxwf1?d=identicon",
-        "country": "RH",
-        "ethereum_address": "0x28BB913B81fF617e5b1263e3a8a30467BD77E580",
-        "id": "d11f4cb895c78cb151c3a9dc4b4d53cf55e50f43224410f30239242b313b7d40",
-        "info_url": "https://en.wikipedia.org/wiki/Nola_Nahulu",
-        "name": "careful-train",
-        "tm_pub_key": "m2g+XIkfa+jZOyQIrwgVzNQE/BG45O3xD+lFesrnR14=",
-        "vega_pub_key": "838ff0e9b9736346d29b25834d2a12510e3f516788cd04b0ab6317fb21c72b18",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202307282008",
+  "chain_id": "vega-devnet1-202308011035",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-07-28T20:08:33.277393122Z",
+  "genesis_time": "2023-08-01T10:35:38.704597414Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "913EC79EC8F6B477E5E71AF98C5C3FF8E177EBE3",
-      "name": "careful-train",
+      "address": "D6B1EE4A5EF374C6F1452F7F3792E9C1F9BF7131",
+      "name": "purring-beach",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "m2g+XIkfa+jZOyQIrwgVzNQE/BG45O3xD+lFesrnR14="
+        "value": "7lPBI4H6idQ1nSfCPPW4XcP00BpQfPTVZzMoqK9BFAk="
       }
     }
   ]
