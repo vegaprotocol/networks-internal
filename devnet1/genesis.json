@@ -291,17 +291,6 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
-      "J09c/oGDFPulTGFCt2E1Xhq/vr1O7NoZ1kvWm0bZPPM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/emu4rs0288pnafychfbllq6l4u806ccv?d=identicon",
-        "country": "TA",
-        "ethereum_address": "0x561A2Efe88F3bA4a72F7D586fEc3a83109e0D3F0",
-        "id": "b60a783adad2e8a16de4f8cae5758894dfbde58c78b45381732ba357269d74dc",
-        "info_url": "https://en.wikipedia.org/wiki/Connor_Dantzler",
-        "name": "loud-policeman",
-        "tm_pub_key": "J09c/oGDFPulTGFCt2E1Xhq/vr1O7NoZ1kvWm0bZPPM=",
-        "vega_pub_key": "cf43877043fa937a3a810a776b029239d9af12210894a60462fcdda817414f6b",
-        "vega_pub_key_index": 1
-      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -311,6 +300,17 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
+        "vega_pub_key_index": 1
+      },
+      "drkrq5o8EU/dSyNdGGLOpTTZru0o8iMgEo5PEyvvB1U=": {
+        "avatar_url": "https://www.gravatar.com/avatar/6adxfukm0dvfgylhooe5895ajl4hgn83?d=identicon",
+        "country": "OU",
+        "ethereum_address": "0x8f7686C1323c5613C17bF21Cf62EaE2Cc2494eD5",
+        "id": "b8378e68902144a95d8b80829fc8c7f8d3b5bba533e861cbc553d423196de88f",
+        "info_url": "https://en.wikipedia.org/wiki/Paul_Couvret",
+        "name": "clean-hill",
+        "tm_pub_key": "drkrq5o8EU/dSyNdGGLOpTTZru0o8iMgEo5PEyvvB1U=",
+        "vega_pub_key": "cad408ac14f6eb9cc4f29bbed9e34a7f78ff0660df7fa2ba85a99a610605662a",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308021149",
+  "chain_id": "vega-devnet1-202308021437",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-02T11:49:12.371560031Z",
+  "genesis_time": "2023-08-02T14:37:29.730876395Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "91B8C357BF3C8574E8BBB114546A66458359F834",
-      "name": "loud-policeman",
+      "address": "89BE2CA78E8CE702E5803D04E712BAFA3E4F2976",
+      "name": "clean-hill",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "J09c/oGDFPulTGFCt2E1Xhq/vr1O7NoZ1kvWm0bZPPM="
+        "value": "drkrq5o8EU/dSyNdGGLOpTTZru0o8iMgEo5PEyvvB1U="
       }
     }
   ]
