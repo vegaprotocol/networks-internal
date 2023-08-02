@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "drkrq5o8EU/dSyNdGGLOpTTZru0o8iMgEo5PEyvvB1U=": {
-        "avatar_url": "https://www.gravatar.com/avatar/6adxfukm0dvfgylhooe5895ajl4hgn83?d=identicon",
-        "country": "OU",
-        "ethereum_address": "0x8f7686C1323c5613C17bF21Cf62EaE2Cc2494eD5",
-        "id": "b8378e68902144a95d8b80829fc8c7f8d3b5bba533e861cbc553d423196de88f",
-        "info_url": "https://en.wikipedia.org/wiki/Paul_Couvret",
-        "name": "clean-hill",
-        "tm_pub_key": "drkrq5o8EU/dSyNdGGLOpTTZru0o8iMgEo5PEyvvB1U=",
-        "vega_pub_key": "cad408ac14f6eb9cc4f29bbed9e34a7f78ff0660df7fa2ba85a99a610605662a",
+      "rx8lSME1Ox6O+2O8CeVwbtfUUHsmoeUfdwPvgJKHf+U=": {
+        "avatar_url": "https://www.gravatar.com/avatar/qibngp0t928434jhtg2fpujcial1izsl?d=identicon",
+        "country": "TJ",
+        "ethereum_address": "0xcAE15E6e005c590556AaDB14eB611D328eDd6c5D",
+        "id": "16c2e1ba8b715ea9c14e93dae75135cee6b551b6cbff628a71d68bcb79d4097e",
+        "info_url": "https://en.wikipedia.org/wiki/Ed_Love",
+        "name": "gray-brother",
+        "tm_pub_key": "rx8lSME1Ox6O+2O8CeVwbtfUUHsmoeUfdwPvgJKHf+U=",
+        "vega_pub_key": "4d471b67931854b92415fe01ca599669484864ec3f8bd7c7831826af91bb5e78",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308021437",
+  "chain_id": "vega-devnet1-202308021607",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-02T14:37:29.730876395Z",
+  "genesis_time": "2023-08-02T16:07:08.231562673Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "89BE2CA78E8CE702E5803D04E712BAFA3E4F2976",
-      "name": "clean-hill",
+      "address": "5F55B94F87E0C95648892E0A95215C0F4B4FA12F",
+      "name": "gray-brother",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "drkrq5o8EU/dSyNdGGLOpTTZru0o8iMgEo5PEyvvB1U="
+        "value": "rx8lSME1Ox6O+2O8CeVwbtfUUHsmoeUfdwPvgJKHf+U="
       }
     }
   ]
