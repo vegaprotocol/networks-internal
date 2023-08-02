@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "4G4qnmaciR3mCA8MBEJO9f+9AZXJ6KMP0LMcaU/xx5Y=": {
-        "avatar_url": "https://www.gravatar.com/avatar/yncxisn4u5legdd7p3l04ktzhnu33uxb?d=identicon",
-        "country": "OL",
-        "ethereum_address": "0x9137C8A9FfB03b4C2b9D3ba1A7b680C3A02c7ff1",
-        "id": "b890fc324e92c48006c36968953e85cb12d0007b24d679b1805db53134513e12",
-        "info_url": "https://en.wikipedia.org/wiki/Civilizing_the_Economy",
-        "name": "adventurous-bird",
-        "tm_pub_key": "4G4qnmaciR3mCA8MBEJO9f+9AZXJ6KMP0LMcaU/xx5Y=",
-        "vega_pub_key": "f13b4a0222162b5ddee351d56a4959d7b8a6e3cc05949d3407a24e9d5eea202d",
-        "vega_pub_key_index": 1
-      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -300,6 +289,17 @@
         "name": "friendly-barber",
         "tm_pub_key": "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=",
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
+        "vega_pub_key_index": 1
+      },
+      "J09c/oGDFPulTGFCt2E1Xhq/vr1O7NoZ1kvWm0bZPPM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/emu4rs0288pnafychfbllq6l4u806ccv?d=identicon",
+        "country": "TA",
+        "ethereum_address": "0x561A2Efe88F3bA4a72F7D586fEc3a83109e0D3F0",
+        "id": "b60a783adad2e8a16de4f8cae5758894dfbde58c78b45381732ba357269d74dc",
+        "info_url": "https://en.wikipedia.org/wiki/Connor_Dantzler",
+        "name": "loud-policeman",
+        "tm_pub_key": "J09c/oGDFPulTGFCt2E1Xhq/vr1O7NoZ1kvWm0bZPPM=",
+        "vega_pub_key": "cf43877043fa937a3a810a776b029239d9af12210894a60462fcdda817414f6b",
         "vega_pub_key_index": 1
       },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308020906",
+  "chain_id": "vega-devnet1-202308021149",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-02T09:06:49.360922779Z",
+  "genesis_time": "2023-08-02T11:49:12.371560031Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "90AE4F914C4E7585C59A4AEB90AA882A5A147FF5",
-      "name": "adventurous-bird",
+      "address": "91B8C357BF3C8574E8BBB114546A66458359F834",
+      "name": "loud-policeman",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "4G4qnmaciR3mCA8MBEJO9f+9AZXJ6KMP0LMcaU/xx5Y="
+        "value": "J09c/oGDFPulTGFCt2E1Xhq/vr1O7NoZ1kvWm0bZPPM="
       }
     }
   ]
