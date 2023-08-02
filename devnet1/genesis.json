@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "4G4qnmaciR3mCA8MBEJO9f+9AZXJ6KMP0LMcaU/xx5Y=": {
+        "avatar_url": "https://www.gravatar.com/avatar/yncxisn4u5legdd7p3l04ktzhnu33uxb?d=identicon",
+        "country": "OL",
+        "ethereum_address": "0x9137C8A9FfB03b4C2b9D3ba1A7b680C3A02c7ff1",
+        "id": "b890fc324e92c48006c36968953e85cb12d0007b24d679b1805db53134513e12",
+        "info_url": "https://en.wikipedia.org/wiki/Civilizing_the_Economy",
+        "name": "adventurous-bird",
+        "tm_pub_key": "4G4qnmaciR3mCA8MBEJO9f+9AZXJ6KMP0LMcaU/xx5Y=",
+        "vega_pub_key": "f13b4a0222162b5ddee351d56a4959d7b8a6e3cc05949d3407a24e9d5eea202d",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "S9RrsGzUtroSYHbpJFxpSPyZ2GsN5MvRcCLY0m663nc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/dqv594paqt2pfl8xx4oaugf9qmb67dcq?d=identicon",
-        "country": "BT",
-        "ethereum_address": "0x4A0F007052595740475139B7A91a687e2e7D2CC3",
-        "id": "c439b996c781008eb479c885f9e1f2a6cd8c14001e1bd964ee32186b2cccf275",
-        "info_url": "https://en.wikipedia.org/wiki/Priorities_(album)",
-        "name": "happy-horse",
-        "tm_pub_key": "S9RrsGzUtroSYHbpJFxpSPyZ2GsN5MvRcCLY0m663nc=",
-        "vega_pub_key": "d2703c57900a8359eb61cbbbe08d6312861fad790319073b74248de5875def0d",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308011414",
+  "chain_id": "vega-devnet1-202308020906",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-01T14:14:27.590930042Z",
+  "genesis_time": "2023-08-02T09:06:49.360922779Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "0E207F56858B451ACBD8A0C0EA41F70F91E8524A",
-      "name": "happy-horse",
+      "address": "90AE4F914C4E7585C59A4AEB90AA882A5A147FF5",
+      "name": "adventurous-bird",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "S9RrsGzUtroSYHbpJFxpSPyZ2GsN5MvRcCLY0m663nc="
+        "value": "4G4qnmaciR3mCA8MBEJO9f+9AZXJ6KMP0LMcaU/xx5Y="
       }
     }
   ]
