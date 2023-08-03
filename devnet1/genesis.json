@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "rx8lSME1Ox6O+2O8CeVwbtfUUHsmoeUfdwPvgJKHf+U=": {
-        "avatar_url": "https://www.gravatar.com/avatar/qibngp0t928434jhtg2fpujcial1izsl?d=identicon",
-        "country": "TJ",
-        "ethereum_address": "0xcAE15E6e005c590556AaDB14eB611D328eDd6c5D",
-        "id": "16c2e1ba8b715ea9c14e93dae75135cee6b551b6cbff628a71d68bcb79d4097e",
-        "info_url": "https://en.wikipedia.org/wiki/Ed_Love",
-        "name": "gray-brother",
-        "tm_pub_key": "rx8lSME1Ox6O+2O8CeVwbtfUUHsmoeUfdwPvgJKHf+U=",
-        "vega_pub_key": "4d471b67931854b92415fe01ca599669484864ec3f8bd7c7831826af91bb5e78",
+      "LDC0xjThFoS+yyfG2zQXfirbhDQg5NCb+XLz1LyGO5s=": {
+        "avatar_url": "https://www.gravatar.com/avatar/e52htigc0rpbnb9iavf5nuq1606hpskp?d=identicon",
+        "country": "IO",
+        "ethereum_address": "0x2534b0446070e88A1ab9df87Ad51F956B157D9Bf",
+        "id": "d4107ed316c43ae5dc3576e500a794a05d3b40fa918698b8e9afe3725265d89f",
+        "info_url": "https://en.wikipedia.org/wiki/MV_American_Century",
+        "name": "confused-shirt",
+        "tm_pub_key": "LDC0xjThFoS+yyfG2zQXfirbhDQg5NCb+XLz1LyGO5s=",
+        "vega_pub_key": "bde5a7338cd941d6ba197e366de98279700f8711027be8503e87237faebc135a",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308021607",
+  "chain_id": "vega-devnet1-202308031215",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-02T16:07:08.231562673Z",
+  "genesis_time": "2023-08-03T12:15:28.208550882Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "5F55B94F87E0C95648892E0A95215C0F4B4FA12F",
-      "name": "gray-brother",
+      "address": "60CE248A9A63D7220720A73B2EA10085C2FA26AB",
+      "name": "confused-shirt",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "rx8lSME1Ox6O+2O8CeVwbtfUUHsmoeUfdwPvgJKHf+U="
+        "value": "LDC0xjThFoS+yyfG2zQXfirbhDQg5NCb+XLz1LyGO5s="
       }
     }
   ]
