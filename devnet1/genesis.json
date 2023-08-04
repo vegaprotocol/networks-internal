@@ -280,6 +280,17 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
+      "CdSWGU4zqFcqYtvuxUvbbLoyE+5UQWQDu6gQgkvLx7Q=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ypoihfdvtnvchf60f6myrmly0t7ch2bu?d=identicon",
+        "country": "TU",
+        "ethereum_address": "0xBe6F39B987012C012a9f784FCcDFdCe1B6E73682",
+        "id": "37566bdc13773ac8cd1f2c9c080e2bd703f5a74ab10f9a2f13c13137ba84e020",
+        "info_url": "https://en.wikipedia.org/wiki/Virtual_reality_game",
+        "name": "purple-flowers",
+        "tm_pub_key": "CdSWGU4zqFcqYtvuxUvbbLoyE+5UQWQDu6gQgkvLx7Q=",
+        "vega_pub_key": "c26b4d200997d754c947d79a19fb15e816121dc7b71395e4bb9e1bd7a547418d",
+        "vega_pub_key_index": 1
+      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "LDC0xjThFoS+yyfG2zQXfirbhDQg5NCb+XLz1LyGO5s=": {
-        "avatar_url": "https://www.gravatar.com/avatar/e52htigc0rpbnb9iavf5nuq1606hpskp?d=identicon",
-        "country": "IO",
-        "ethereum_address": "0x2534b0446070e88A1ab9df87Ad51F956B157D9Bf",
-        "id": "d4107ed316c43ae5dc3576e500a794a05d3b40fa918698b8e9afe3725265d89f",
-        "info_url": "https://en.wikipedia.org/wiki/MV_American_Century",
-        "name": "confused-shirt",
-        "tm_pub_key": "LDC0xjThFoS+yyfG2zQXfirbhDQg5NCb+XLz1LyGO5s=",
-        "vega_pub_key": "bde5a7338cd941d6ba197e366de98279700f8711027be8503e87237faebc135a",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308031215",
+  "chain_id": "vega-devnet1-202308040943",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-03T12:15:28.208550882Z",
+  "genesis_time": "2023-08-04T09:43:06.928513743Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "60CE248A9A63D7220720A73B2EA10085C2FA26AB",
-      "name": "confused-shirt",
+      "address": "89B303946D804A857DCCECFFC1C3BC19BBBE63AA",
+      "name": "purple-flowers",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "LDC0xjThFoS+yyfG2zQXfirbhDQg5NCb+XLz1LyGO5s="
+        "value": "CdSWGU4zqFcqYtvuxUvbbLoyE+5UQWQDu6gQgkvLx7Q="
       }
     }
   ]
