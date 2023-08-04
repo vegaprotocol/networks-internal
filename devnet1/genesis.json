@@ -280,17 +280,6 @@
         "vega_pub_key": "bc15c6930f8f19ced37551280fbbf1118926c84eb2e8aadf867b3afe26fd9eed",
         "vega_pub_key_index": 1
       },
-      "CdSWGU4zqFcqYtvuxUvbbLoyE+5UQWQDu6gQgkvLx7Q=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ypoihfdvtnvchf60f6myrmly0t7ch2bu?d=identicon",
-        "country": "TU",
-        "ethereum_address": "0xBe6F39B987012C012a9f784FCcDFdCe1B6E73682",
-        "id": "37566bdc13773ac8cd1f2c9c080e2bd703f5a74ab10f9a2f13c13137ba84e020",
-        "info_url": "https://en.wikipedia.org/wiki/Virtual_reality_game",
-        "name": "purple-flowers",
-        "tm_pub_key": "CdSWGU4zqFcqYtvuxUvbbLoyE+5UQWQDu6gQgkvLx7Q=",
-        "vega_pub_key": "c26b4d200997d754c947d79a19fb15e816121dc7b71395e4bb9e1bd7a547418d",
-        "vega_pub_key_index": 1
-      },
       "DRXBMW8LE1uVn9pn1ItHKMLuK/2+GVvLGIOM0qDkcLY=": {
         "avatar_url": "https://www.gravatar.com/avatar/xl6zt0l14ursf3hq16uncmphyw5pcpyk?d=identicon",
         "country": "IK",
@@ -323,10 +312,21 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
+      },
+      "vddkJNjkl//x30F19w2TdlK1Pm4FYgvg0isLyVx94oY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ajft3yx6ogt1rmzd7qcuy21752yvqhb0?d=identicon",
+        "country": "TA",
+        "ethereum_address": "0x438Ff050037F8823600113e481C2aC193De320ba",
+        "id": "7132c834d2ca434f72068e6864902071c22a00dcd802b3d737db1f5f2b70b82d",
+        "info_url": "https://en.wikipedia.org/wiki/Teatro_comunale_Citt%C3%A0_di_Vicenza",
+        "name": "bored-chimney",
+        "tm_pub_key": "vddkJNjkl//x30F19w2TdlK1Pm4FYgvg0isLyVx94oY=",
+        "vega_pub_key": "c3d785f50fbb94d3eac27d1edb1388e6428c4e07ad97461740f79a22813dc467",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202308040943",
+  "chain_id": "vega-devnet1-202308041301",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-04T09:43:06.928513743Z",
+  "genesis_time": "2023-08-04T13:01:55.888428668Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "89B303946D804A857DCCECFFC1C3BC19BBBE63AA",
-      "name": "purple-flowers",
+      "address": "AD08160252E35B69F0D74F7983FF5EF5A363A13A",
+      "name": "bored-chimney",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "CdSWGU4zqFcqYtvuxUvbbLoyE+5UQWQDu6gQgkvLx7Q="
+        "value": "vddkJNjkl//x30F19w2TdlK1Pm4FYgvg0isLyVx94oY="
       }
     }
   ]
