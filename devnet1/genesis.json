@@ -302,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "qJt2NheVls12SC2g7qAQmsLWeIJDROCGtOgiNY75Ysc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/7n12nirpqgxe1mq17iavl2d4xtg7fdhb?d=identicon",
+        "country": "NW",
+        "ethereum_address": "0xdC428A7143C4e3571b9808bD82E140aa3dF6f145",
+        "id": "9db865c6ca31516285b6a569a04df91f3b438d103c94c10634e3e7c7b3a0db88",
+        "info_url": "https://en.wikipedia.org/wiki/Maricao,_Puerto_Rico",
+        "name": "narrow-baby",
+        "tm_pub_key": "qJt2NheVls12SC2g7qAQmsLWeIJDROCGtOgiNY75Ysc=",
+        "vega_pub_key": "b09d0da95ecff7370c564925b12a1fc40dd65013b906cfb2440a08e393979217",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "vddkJNjkl//x30F19w2TdlK1Pm4FYgvg0isLyVx94oY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ajft3yx6ogt1rmzd7qcuy21752yvqhb0?d=identicon",
-        "country": "TA",
-        "ethereum_address": "0x438Ff050037F8823600113e481C2aC193De320ba",
-        "id": "7132c834d2ca434f72068e6864902071c22a00dcd802b3d737db1f5f2b70b82d",
-        "info_url": "https://en.wikipedia.org/wiki/Teatro_comunale_Citt%C3%A0_di_Vicenza",
-        "name": "bored-chimney",
-        "tm_pub_key": "vddkJNjkl//x30F19w2TdlK1Pm4FYgvg0isLyVx94oY=",
-        "vega_pub_key": "c3d785f50fbb94d3eac27d1edb1388e6428c4e07ad97461740f79a22813dc467",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202308041325",
+  "chain_id": "vega-devnet1-202308071121",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-04T13:25:52.71718012Z",
+  "genesis_time": "2023-08-07T11:21:07.980216708Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "AD08160252E35B69F0D74F7983FF5EF5A363A13A",
-      "name": "bored-chimney",
+      "address": "2DCD789156953226AD22258919407D4857974C12",
+      "name": "narrow-baby",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "vddkJNjkl//x30F19w2TdlK1Pm4FYgvg0isLyVx94oY="
+        "value": "qJt2NheVls12SC2g7qAQmsLWeIJDROCGtOgiNY75Ysc="
       }
     }
   ]
