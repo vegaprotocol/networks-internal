@@ -291,17 +291,6 @@
         "vega_pub_key": "47612691a747dd95a9e7fbbb893eebdcb506846d3d42358d9c502fdfa32bb54d",
         "vega_pub_key_index": 1
       },
-      "GvWFgtVTaIeXC0TKGcdBUnF6Df0BMvVHeIG4cF5kI+s=": {
-        "avatar_url": "https://www.gravatar.com/avatar/p2fh1fuami98x8srybormlcgaoyva729?d=identicon",
-        "country": "CJ",
-        "ethereum_address": "0xd1741a5eaf33ae7FAbFF4836196bd4D553FEe547",
-        "id": "9c19c0c7088a7eb16cac25e17f80579fc01a60fb679b5b5b21db269d1ad3ab2b",
-        "info_url": "https://en.wikipedia.org/wiki/Xanthoparmelia_mexicana",
-        "name": "adventurous-coffee",
-        "tm_pub_key": "GvWFgtVTaIeXC0TKGcdBUnF6Df0BMvVHeIG4cF5kI+s=",
-        "vega_pub_key": "0c2cb023bd5cf2474306419dd2ac0f3fae8279474a5490430505fe1e6f30ecbb",
-        "vega_pub_key_index": 1
-      },
       "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=": {
         "avatar_url": "https://www.gravatar.com/avatar/5s8r968sudwmluq64ygtk77k3w2edvqx?d=identicon",
         "country": "UW",
@@ -311,6 +300,17 @@
         "name": "icy-doctor",
         "tm_pub_key": "JK03KAs276qjlOJQ4ipNEs4TuwfVg/04MmldTd6q2dM=",
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
+        "vega_pub_key_index": 1
+      },
+      "RCBmjMjZpXfOh+SI/38WoasJskSIhvbFcVlx2k6DTgo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/zr39o5ntq3jcocnpt0x6mw8ny32ayjrk?d=identicon",
+        "country": "ZZ",
+        "ethereum_address": "0xf226525dBC72C41E51e9D1bb9513c765192c6073",
+        "id": "9a428ed406f528663fcfcee36ff89ad40e908eb0b96394600935dc6e72653fca",
+        "info_url": "https://en.wikipedia.org/wiki/Mute_Print",
+        "name": "stocky-party",
+        "tm_pub_key": "RCBmjMjZpXfOh+SI/38WoasJskSIhvbFcVlx2k6DTgo=",
+        "vega_pub_key": "72219b76f7d07eedfedfab711ab76280f333d9ded5bb9419e513679b9492c3b4",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308071512",
+  "chain_id": "vega-devnet1-202308080826",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-07T15:12:57.262153963Z",
+  "genesis_time": "2023-08-08T08:26:03.195225616Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "B6A4491D2900D1250B9C8F2A3C02648489F72C89",
-      "name": "adventurous-coffee",
+      "address": "516F6F42B64A3AE9ECCFF3C531398B7156F4D519",
+      "name": "stocky-party",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "GvWFgtVTaIeXC0TKGcdBUnF6Df0BMvVHeIG4cF5kI+s="
+        "value": "RCBmjMjZpXfOh+SI/38WoasJskSIhvbFcVlx2k6DTgo="
       }
     }
   ]
