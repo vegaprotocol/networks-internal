@@ -12,11 +12,11 @@ Node documentation page contains all useful informations about the node. You can
 
 | Node DNS | Tendermint DNS | Geographic Location | Hardware Setup | Cloud |
 | ----------------------------------------- | -------------- | ------------------- | -------------- | ----- |
-| [n00.mainnet-mirror.vega.xyz](https://n00.mainnet-mirror.vega.xyz) | [tm-n00.mainnet-mirror.vega.xyz](https://tm-n00.mainnet-mirror.vega.xyz) | nyc1 | s-4vcpu-8gb | do |
-| [n01.mainnet-mirror.vega.xyz](https://n01.mainnet-mirror.vega.xyz) | [tm-n01.mainnet-mirror.vega.xyz](https://tm-n01.mainnet-mirror.vega.xyz) | lon1 | s-4vcpu-8gb | do |
-| [n02.mainnet-mirror.vega.xyz](https://n02.mainnet-mirror.vega.xyz) | [tm-n02.mainnet-mirror.vega.xyz](https://tm-n02.mainnet-mirror.vega.xyz) | fra1 | s-4vcpu-8gb | do |
-| [n03.mainnet-mirror.vega.xyz](https://n03.mainnet-mirror.vega.xyz) | [tm-n03.mainnet-mirror.vega.xyz](https://tm-n03.mainnet-mirror.vega.xyz) | blr1 | s-4vcpu-8gb | do |
-| [n04.mainnet-mirror.vega.xyz](https://n04.mainnet-mirror.vega.xyz) | [tm-n04.mainnet-mirror.vega.xyz](https://tm-n04.mainnet-mirror.vega.xyz) | sfo3 | s-4vcpu-8gb | do |
-| [n05.mainnet-mirror.vega.xyz](https://n05.mainnet-mirror.vega.xyz) | [tm-n05.mainnet-mirror.vega.xyz](https://tm-n05.mainnet-mirror.vega.xyz) | sgp1 | s-4vcpu-8gb | do |
-| [n06.mainnet-mirror.vega.xyz](https://n06.mainnet-mirror.vega.xyz) | [tm-n06.mainnet-mirror.vega.xyz](https://tm-n06.mainnet-mirror.vega.xyz) | ams3 | s-4vcpu-8gb | do |
-| [be.mainnet-mirror.vega.xyz](https://be.mainnet-mirror.vega.xyz) | [tm-be.mainnet-mirror.vega.xyz](https://tm-be.mainnet-mirror.vega.xyz) | tor1 | s-4vcpu-8gb | do |
+| [n00.mainnet-mirror.vega.rocks](https://n00.mainnet-mirror.vega.rocks) | [tm-n00.mainnet-mirror.vega.rocks](https://tm-n00.mainnet-mirror.vega.rocks) | nyc1 | s-4vcpu-8gb | do |
+| [n01.mainnet-mirror.vega.rocks](https://n01.mainnet-mirror.vega.rocks) | [tm-n01.mainnet-mirror.vega.rocks](https://tm-n01.mainnet-mirror.vega.rocks) | lon1 | s-4vcpu-8gb | do |
+| [n02.mainnet-mirror.vega.rocks](https://n02.mainnet-mirror.vega.rocks) | [tm-n02.mainnet-mirror.vega.rocks](https://tm-n02.mainnet-mirror.vega.rocks) | fra1 | s-4vcpu-8gb | do |
+| [n03.mainnet-mirror.vega.rocks](https://n03.mainnet-mirror.vega.rocks) | [tm-n03.mainnet-mirror.vega.rocks](https://tm-n03.mainnet-mirror.vega.rocks) | blr1 | s-4vcpu-8gb | do |
+| [n04.mainnet-mirror.vega.rocks](https://n04.mainnet-mirror.vega.rocks) | [tm-n04.mainnet-mirror.vega.rocks](https://tm-n04.mainnet-mirror.vega.rocks) | sfo3 | s-4vcpu-8gb | do |
+| [n05.mainnet-mirror.vega.rocks](https://n05.mainnet-mirror.vega.rocks) | [tm-n05.mainnet-mirror.vega.rocks](https://tm-n05.mainnet-mirror.vega.rocks) | sgp1 | s-4vcpu-8gb | do |
+| [n06.mainnet-mirror.vega.rocks](https://n06.mainnet-mirror.vega.rocks) | [tm-n06.mainnet-mirror.vega.rocks](https://tm-n06.mainnet-mirror.vega.rocks) | ams3 | s-4vcpu-8gb | do |
+| [be.mainnet-mirror.vega.rocks](https://be.mainnet-mirror.vega.rocks) | [tm-be.mainnet-mirror.vega.rocks](https://tm-be.mainnet-mirror.vega.rocks) | tor1 | s-4vcpu-8gb | do |
