@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "Or3mSB+OXyjhutYufQ+rVjWB64gIpknpJROGobab0GY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ztotb2fckaz2cq9dstnwf16qpa1wqhrx?d=identicon",
-        "country": "WS",
-        "ethereum_address": "0xb2818229392a0d0A28B061D4581841EE82646A90",
-        "id": "bf40afa8ef263f2f6b15c5b0fe1df28d294b2480cd259f31f33be0ddda7a0c4e",
-        "info_url": "https://en.wikipedia.org/wiki/Bulgaria_at_the_2022_European_Championships",
-        "name": "better-train",
-        "tm_pub_key": "Or3mSB+OXyjhutYufQ+rVjWB64gIpknpJROGobab0GY=",
-        "vega_pub_key": "7a3fe549b4f017d2894f9b302a97f5f108067c4aa13562d8afe241e0ba174f93",
+      "qxRR0qShlHPQerDxgBkQyPMLrmxtUW2CLyJqNJOOyV4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/paqbjkxlop529cogmbuoqcktcmps997h?d=identicon",
+        "country": "AB",
+        "ethereum_address": "0x12CCb5dc332F13D1524d50D9574C3615033Ded31",
+        "id": "e8a664eca25ab5480cc37f12b61fea69c3add8f6f84deaf339c5206df0359368",
+        "info_url": "https://en.wikipedia.org/wiki/Barony_of_Halton",
+        "name": "alive-plant",
+        "tm_pub_key": "qxRR0qShlHPQerDxgBkQyPMLrmxtUW2CLyJqNJOOyV4=",
+        "vega_pub_key": "e39b0a30efe7d3db5bc20d7409d28e78384ffc02a89aa2233461cf22b5927d52",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308080943",
+  "chain_id": "vega-devnet1-202308081045",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-08T09:43:35.258120741Z",
+  "genesis_time": "2023-08-08T10:45:17.636517506Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "BF30930A324E8659455A5B4B339BF3340E60CED5",
-      "name": "better-train",
+      "address": "DB62F8809565872E19996B46346BC532BE365265",
+      "name": "alive-plant",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Or3mSB+OXyjhutYufQ+rVjWB64gIpknpJROGobab0GY="
+        "value": "qxRR0qShlHPQerDxgBkQyPMLrmxtUW2CLyJqNJOOyV4="
       }
     }
   ]
