@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "RCBmjMjZpXfOh+SI/38WoasJskSIhvbFcVlx2k6DTgo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/zr39o5ntq3jcocnpt0x6mw8ny32ayjrk?d=identicon",
-        "country": "ZZ",
-        "ethereum_address": "0xf226525dBC72C41E51e9D1bb9513c765192c6073",
-        "id": "9a428ed406f528663fcfcee36ff89ad40e908eb0b96394600935dc6e72653fca",
-        "info_url": "https://en.wikipedia.org/wiki/Mute_Print",
-        "name": "stocky-party",
-        "tm_pub_key": "RCBmjMjZpXfOh+SI/38WoasJskSIhvbFcVlx2k6DTgo=",
-        "vega_pub_key": "72219b76f7d07eedfedfab711ab76280f333d9ded5bb9419e513679b9492c3b4",
+      "Or3mSB+OXyjhutYufQ+rVjWB64gIpknpJROGobab0GY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ztotb2fckaz2cq9dstnwf16qpa1wqhrx?d=identicon",
+        "country": "WS",
+        "ethereum_address": "0xb2818229392a0d0A28B061D4581841EE82646A90",
+        "id": "bf40afa8ef263f2f6b15c5b0fe1df28d294b2480cd259f31f33be0ddda7a0c4e",
+        "info_url": "https://en.wikipedia.org/wiki/Bulgaria_at_the_2022_European_Championships",
+        "name": "better-train",
+        "tm_pub_key": "Or3mSB+OXyjhutYufQ+rVjWB64gIpknpJROGobab0GY=",
+        "vega_pub_key": "7a3fe549b4f017d2894f9b302a97f5f108067c4aa13562d8afe241e0ba174f93",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308080826",
+  "chain_id": "vega-devnet1-202308080911",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-08T08:26:03.195225616Z",
+  "genesis_time": "2023-08-08T09:11:41.991739637Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "516F6F42B64A3AE9ECCFF3C531398B7156F4D519",
-      "name": "stocky-party",
+      "address": "BF30930A324E8659455A5B4B339BF3340E60CED5",
+      "name": "better-train",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "RCBmjMjZpXfOh+SI/38WoasJskSIhvbFcVlx2k6DTgo="
+        "value": "Or3mSB+OXyjhutYufQ+rVjWB64gIpknpJROGobab0GY="
       }
     }
   ]
