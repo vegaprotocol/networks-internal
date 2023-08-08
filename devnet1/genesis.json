@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "qxRR0qShlHPQerDxgBkQyPMLrmxtUW2CLyJqNJOOyV4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/paqbjkxlop529cogmbuoqcktcmps997h?d=identicon",
-        "country": "AB",
-        "ethereum_address": "0x12CCb5dc332F13D1524d50D9574C3615033Ded31",
-        "id": "e8a664eca25ab5480cc37f12b61fea69c3add8f6f84deaf339c5206df0359368",
-        "info_url": "https://en.wikipedia.org/wiki/Barony_of_Halton",
-        "name": "alive-plant",
-        "tm_pub_key": "qxRR0qShlHPQerDxgBkQyPMLrmxtUW2CLyJqNJOOyV4=",
-        "vega_pub_key": "e39b0a30efe7d3db5bc20d7409d28e78384ffc02a89aa2233461cf22b5927d52",
+      "ZGfcOP8cFkzMu+bB9Ajtbnd+yNHeGmJd9NWZV3XT13Y=": {
+        "avatar_url": "https://www.gravatar.com/avatar/0tgyecoby1hb81sph6tklx7zpldjyaeh?d=identicon",
+        "country": "QZ",
+        "ethereum_address": "0xa0291AeFb7C433251eD41c87F7BA98ed8cF2f466",
+        "id": "84ef7547872bebebbbd3e06b3bfde10d23a4bb5fa705b9245d48039386c2c170",
+        "info_url": "https://en.wikipedia.org/wiki/No._1_Croydon",
+        "name": "oppulent-plant",
+        "tm_pub_key": "ZGfcOP8cFkzMu+bB9Ajtbnd+yNHeGmJd9NWZV3XT13Y=",
+        "vega_pub_key": "607cd425781c041b25472ebfaa9367d4ead1f06446db2f778d87fafa89a05bde",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308081045",
+  "chain_id": "vega-devnet1-202308081302",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-08T10:45:17.636517506Z",
+  "genesis_time": "2023-08-08T13:02:43.362423528Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "DB62F8809565872E19996B46346BC532BE365265",
-      "name": "alive-plant",
+      "address": "71A7A3E0856332C879BAA5C1B50A7DFACD99D3B7",
+      "name": "oppulent-plant",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "qxRR0qShlHPQerDxgBkQyPMLrmxtUW2CLyJqNJOOyV4="
+        "value": "ZGfcOP8cFkzMu+bB9Ajtbnd+yNHeGmJd9NWZV3XT13Y="
       }
     }
   ]
