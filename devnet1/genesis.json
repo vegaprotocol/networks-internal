@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "718m1UWAc4kucsr78N2zzXRx61I8HFH4PFtu9THJi9M=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xga0xbi35sw38u4gxp4jdzgpnydtiiyi?d=identicon",
+        "country": "SF",
+        "ethereum_address": "0x827bb9c32afF460F8baE17033Dcd64fd03fBf8bd",
+        "id": "ae1515986808ab042169a7db17d0564c52c74737cfedebcdf1db567d335970c9",
+        "info_url": "https://en.wikipedia.org/wiki/Causal_notation",
+        "name": "adorable-lake",
+        "tm_pub_key": "718m1UWAc4kucsr78N2zzXRx61I8HFH4PFtu9THJi9M=",
+        "vega_pub_key": "d66ba8e7bf017e33666da975f698262766a250abbc4d914d6ed2ab73f775a200",
+        "vega_pub_key_index": 1
+      },
       "9Sdx51CXcN37TJT9UR8E8dmHIms+ecT6pQoQtBc6sAo=": {
         "avatar_url": "https://www.gravatar.com/avatar/9e46u5r3qfr4u16k0saxlcz6soflkll8?d=identicon",
         "country": "JC",
@@ -302,17 +313,6 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "ZGfcOP8cFkzMu+bB9Ajtbnd+yNHeGmJd9NWZV3XT13Y=": {
-        "avatar_url": "https://www.gravatar.com/avatar/0tgyecoby1hb81sph6tklx7zpldjyaeh?d=identicon",
-        "country": "QZ",
-        "ethereum_address": "0xa0291AeFb7C433251eD41c87F7BA98ed8cF2f466",
-        "id": "84ef7547872bebebbbd3e06b3bfde10d23a4bb5fa705b9245d48039386c2c170",
-        "info_url": "https://en.wikipedia.org/wiki/No._1_Croydon",
-        "name": "oppulent-plant",
-        "tm_pub_key": "ZGfcOP8cFkzMu+bB9Ajtbnd+yNHeGmJd9NWZV3XT13Y=",
-        "vega_pub_key": "607cd425781c041b25472ebfaa9367d4ead1f06446db2f778d87fafa89a05bde",
-        "vega_pub_key_index": 1
-      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308081350",
+  "chain_id": "vega-devnet1-202308090939",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-08T13:50:00.673345022Z",
+  "genesis_time": "2023-08-09T09:39:42.488685882Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "71A7A3E0856332C879BAA5C1B50A7DFACD99D3B7",
-      "name": "oppulent-plant",
+      "address": "A81A57846AB36A14409A9612DD86DD1CC84E468F",
+      "name": "adorable-lake",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ZGfcOP8cFkzMu+bB9Ajtbnd+yNHeGmJd9NWZV3XT13Y="
+        "value": "718m1UWAc4kucsr78N2zzXRx61I8HFH4PFtu9THJi9M="
       }
     }
   ]
