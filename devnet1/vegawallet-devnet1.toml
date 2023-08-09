@@ -9,14 +9,14 @@ name = "devnet1"
 [API]
 
   [API.GRPC]
-    Hosts = ["api.devnet1.vega.xyz:3007", "api.n06.devnet1.vega.xyz:3007", "api.n07.devnet1.vega.xyz:3007"]
+    Hosts = ["api.devnet1.vega.rocks:3007", "api.n06.devnet1.vega.rocks:3007", "api.n07.devnet1.vega.rocks:3007"]
     Retries = 5
 
   [API.GraphQL]
-    Hosts = ["https://api.devnet1.vega.xyz/graphql", "https://api.n06.devnet1.vega.xyz/graphql", "https://api.n07.devnet1.vega.xyz/graphql"]
+    Hosts = ["https://api.devnet1.vega.rocks/graphql", "https://api.n06.devnet1.vega.rocks/graphql", "https://api.n07.devnet1.vega.rocks/graphql"]
 
   [API.REST]
-    Hosts = ["https://api.devnet1.vega.xyz", "https://api.n06.devnet1.vega.xyz", "https://api.n07.devnet1.vega.xyz"]
+    Hosts = ["https://api.devnet1.vega.rocks", "https://api.n06.devnet1.vega.rocks", "https://api.n07.devnet1.vega.rocks"]
 
 [Apps]
   Console = ""

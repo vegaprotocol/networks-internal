@@ -80,17 +80,17 @@ func RunGenerateVegawalletConfig(args GenerateVegawalletConfigArgs) error {
 		Host:        "127.0.0.1",
 	}
 
-	data.API.GRPC.Hosts = append(data.API.GRPC.Hosts, fmt.Sprintf("api.%s.vega.xyz:3007", args.VegaNetworkName))
-	data.API.REST.Hosts = append(data.API.REST.Hosts, fmt.Sprintf("https://api.%s.vega.xyz", args.VegaNetworkName))
-	data.API.GraphQL.Hosts = append(data.API.GraphQL.Hosts, fmt.Sprintf("https://api.%s.vega.xyz/graphql", args.VegaNetworkName))
+	data.API.GRPC.Hosts = append(data.API.GRPC.Hosts, fmt.Sprintf("api.%s.vega.rocks:3007", args.VegaNetworkName))
+	data.API.REST.Hosts = append(data.API.REST.Hosts, fmt.Sprintf("https://api.%s.vega.rocks", args.VegaNetworkName))
+	data.API.GraphQL.Hosts = append(data.API.GraphQL.Hosts, fmt.Sprintf("https://api.%s.vega.rocks/graphql", args.VegaNetworkName))
 
 	// sort node ids - to minimise changes to generated config
 	sort.Strings(args.DataNodeIds)
 
 	for _, nodeId := range args.DataNodeIds {
-		data.API.GRPC.Hosts = append(data.API.GRPC.Hosts, fmt.Sprintf("api.%s.%s.vega.xyz:3007", nodeId, args.VegaNetworkName))
-		data.API.REST.Hosts = append(data.API.REST.Hosts, fmt.Sprintf("https://api.%s.%s.vega.xyz", nodeId, args.VegaNetworkName))
-		data.API.GraphQL.Hosts = append(data.API.GraphQL.Hosts, fmt.Sprintf("https://api.%s.%s.vega.xyz/graphql", nodeId, args.VegaNetworkName))
+		data.API.GRPC.Hosts = append(data.API.GRPC.Hosts, fmt.Sprintf("api.%s.%s.vega.rocks:3007", nodeId, args.VegaNetworkName))
+		data.API.REST.Hosts = append(data.API.REST.Hosts, fmt.Sprintf("https://api.%s.%s.vega.rocks", nodeId, args.VegaNetworkName))
+		data.API.GraphQL.Hosts = append(data.API.GraphQL.Hosts, fmt.Sprintf("https://api.%s.%s.vega.rocks/graphql", nodeId, args.VegaNetworkName))
 	}
 	data.API.GRPC.Retries = 5
 	data.Console.URL = "" // fmt.Sprintf("%s.vega.trading", args.VegaNetworkName)
