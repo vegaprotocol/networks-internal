@@ -302,6 +302,17 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
+      "fxuAr1AdZDmwEeXi0nmiKftGffZ79Xeif4MW+EW0DlE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/dynvvcrph8jovl08ae6a4h3z0aqm47jt?d=identicon",
+        "country": "XQ",
+        "ethereum_address": "0x09bA149EbAb797cf051f33Cd7c2d3E80740468b1",
+        "id": "e611f70c126273a2cee4eb117a8d0d1f7da6235b2d3e04ecad866a9e29a216ef",
+        "info_url": "https://en.wikipedia.org/wiki/2010_Formula_3_Sudamericana_season",
+        "name": "faint-cookie",
+        "tm_pub_key": "fxuAr1AdZDmwEeXi0nmiKftGffZ79Xeif4MW+EW0DlE=",
+        "vega_pub_key": "97f23c3d63f3b8ed59b900a0014a53f386233f2792f73f1c23a14bac32d714d8",
+        "vega_pub_key_index": 1
+      },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
         "avatar_url": "https://www.gravatar.com/avatar/e39rueinmfjhkbm7kp8v6vzx3iypgu4g?d=identicon",
         "country": "RU",
@@ -312,21 +323,10 @@
         "tm_pub_key": "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=",
         "vega_pub_key": "37d1a1d38e2d429084dc331e4b07450df9c56e4c6da62d9fd727f44db619dc02",
         "vega_pub_key_index": 1
-      },
-      "vr5ZnfBX0YKr4nc9knOXkNHRqDUAyv0HFUTNM0OIqL0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/sz7mca8r6u1pemhh2hpwvwiyhbm3ejh8?d=identicon",
-        "country": "TY",
-        "ethereum_address": "0xebc2226D6Dc31a0f9e5d844C1C76c8e370f515F8",
-        "id": "055b1432ba59100bf8276ce85dccd4822b2cd232bbca179fa3f08871202b7235",
-        "info_url": "https://en.wikipedia.org/wiki/Drabsha",
-        "name": "costly-roof",
-        "tm_pub_key": "vr5ZnfBX0YKr4nc9knOXkNHRqDUAyv0HFUTNM0OIqL0=",
-        "vega_pub_key": "7a07f72ed76e9996b7a9ca778c92e74e60df651087ca672a581c9c9931049265",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202308101402",
+  "chain_id": "vega-devnet1-202308101543",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-10T14:02:49.105545664Z",
+  "genesis_time": "2023-08-10T15:43:21.454955396Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "27EE637C525706F886BA376FFF6C7097B45DC9E1",
-      "name": "costly-roof",
+      "address": "7CAE0ED6042A454DA024624391C055A97EEB8137",
+      "name": "faint-cookie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "vr5ZnfBX0YKr4nc9knOXkNHRqDUAyv0HFUTNM0OIqL0="
+        "value": "fxuAr1AdZDmwEeXi0nmiKftGffZ79Xeif4MW+EW0DlE="
       }
     }
   ]
