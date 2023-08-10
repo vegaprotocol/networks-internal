@@ -302,15 +302,15 @@
         "vega_pub_key": "22962e3a0a6013ebb86c20ba789dfac9778f2255bae46a414cd254d9ea1135d6",
         "vega_pub_key_index": 1
       },
-      "Nb/EMxU7OC3x5FneUcuApnxKZBUDzjk7OsH9BK1/9E8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/iya6ks6msyz3x42uyw0p8lpi8wt9acdy?d=identicon",
-        "country": "GQ",
-        "ethereum_address": "0x67E042a349274ebAB4Bd66395D410046e1792e84",
-        "id": "3051dbe385f1517afa3d030afa10e2dc3fc51c18c7c044a3047d68db05a43e72",
-        "info_url": "https://en.wikipedia.org/wiki/ZIL-114",
-        "name": "ashy-butterfly",
-        "tm_pub_key": "Nb/EMxU7OC3x5FneUcuApnxKZBUDzjk7OsH9BK1/9E8=",
-        "vega_pub_key": "2ddb7af0368b1a2cf649ec0f3610b997b5ef0191f47311810468782c98410aa5",
+      "lUoF5qcIeWxdSJVRPijahif69RvBoeRmK/mTX/k7YQk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/jm0b2ffp2csoke8wwjvpapv6g4002khi?d=identicon",
+        "country": "BN",
+        "ethereum_address": "0x1ef138EdfB9ee003977f13B80Aa7218183F3a019",
+        "id": "6065d4f97ec4eebc2a0e8791d7d9e6a5f86c915a385c6cab9df26f778bd20e78",
+        "info_url": "https://en.wikipedia.org/wiki/Marigny-le-Ch%C3%A2tel",
+        "name": "frantic-river",
+        "tm_pub_key": "lUoF5qcIeWxdSJVRPijahif69RvBoeRmK/mTX/k7YQk=",
+        "vega_pub_key": "3ab84e68426788db90e041299562f09693014998765cb714097e4cbcdfb0eef7",
         "vega_pub_key_index": 1
       },
       "tnPRL9knbTURmE61QfopkihyXpIotRDjChif9KFNdOw=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308091708",
+  "chain_id": "vega-devnet1-202308101002",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-09T17:08:36.834256403Z",
+  "genesis_time": "2023-08-10T10:02:37.947730525Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "BA337E2960EEFB2C30046EBE7DCC575677FD0FD5",
-      "name": "ashy-butterfly",
+      "address": "20A4EEEE49CA6F46A9F0F432DA3A4001F458FEFB",
+      "name": "frantic-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Nb/EMxU7OC3x5FneUcuApnxKZBUDzjk7OsH9BK1/9E8="
+        "value": "lUoF5qcIeWxdSJVRPijahif69RvBoeRmK/mTX/k7YQk="
       }
     }
   ]
