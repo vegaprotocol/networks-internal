@@ -269,17 +269,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "CxAlYv9hzpAShrtfG9vfJn9sYk6IWAIfWfnxMr1QOUY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/3a5gfvkwhir38rqfz0nz8k566fs5qgni?d=identicon",
-        "country": "XB",
-        "ethereum_address": "0x9B271F8dacEA4830F014fc577cF19B2cC16E6719",
-        "id": "917785026ce54f2ba78659306a7c74e980ae0c242f817dfb8bbbb709fbf0ae2a",
-        "info_url": "https://en.wikipedia.org/wiki/1998_Detroit_Shock_season",
-        "name": "bright-toy",
-        "tm_pub_key": "CxAlYv9hzpAShrtfG9vfJn9sYk6IWAIfWfnxMr1QOUY=",
-        "vega_pub_key": "bfee1947605f637514f5558713273ac16664495d4927b15a6ff3d07efd6656f9",
-        "vega_pub_key_index": 1
-      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -289,6 +278,17 @@
         "name": "narrow-plant",
         "tm_pub_key": "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=",
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
+        "vega_pub_key_index": 1
+      },
+      "buWw2ZrZN/w7JfNb2DG1T2IxDSN4O9wZf2KGqZG9buI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/za6vhnjbrd30oh69wb79vo23u07vrs8y?d=identicon",
+        "country": "QC",
+        "ethereum_address": "0x7012ee58b05023186e3682A91414B5b8345b4D05",
+        "id": "756134f0fee9f35aba9268bda92d5fe2bc13a777bf268f9f52a78d0d57c74c25",
+        "info_url": "https://en.wikipedia.org/wiki/Zafarabad,_Delfan",
+        "name": "healthy-river",
+        "tm_pub_key": "buWw2ZrZN/w7JfNb2DG1T2IxDSN4O9wZf2KGqZG9buI=",
+        "vega_pub_key": "7770d3f94356e147e21d9894dd5075129c47913119b1782cb4242da8f936952f",
         "vega_pub_key_index": 1
       },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308101638",
+  "chain_id": "vega-devnet1-202308111044",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-10T16:38:06.311609366Z",
+  "genesis_time": "2023-08-11T10:44:00.884386498Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "BB662EB8177CCFAC68B9F219789459B94724233A",
-      "name": "bright-toy",
+      "address": "40B6E07D1FC8D965554E9519DFC1ADBC1A2E822C",
+      "name": "healthy-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "CxAlYv9hzpAShrtfG9vfJn9sYk6IWAIfWfnxMr1QOUY="
+        "value": "buWw2ZrZN/w7JfNb2DG1T2IxDSN4O9wZf2KGqZG9buI="
       }
     }
   ]
