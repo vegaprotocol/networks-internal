@@ -269,6 +269,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "Hk8KqIi1970TyBKkgHo+DcjDN9+VVj3yFu6VVcDjBLU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/rpt9wv4yylblhwrbrz8723ciqeeacz6y?d=identicon",
+        "country": "YT",
+        "ethereum_address": "0x90be6f31bE956D0d4b70dDe0464eE6F3B012528f",
+        "id": "123583bb0d94e9c883e8736752a2cf311bb10d5203d55a78e4d3bdc804052880",
+        "info_url": "https://en.wikipedia.org/wiki/Mensje_van_Keulen",
+        "name": "wicked-chair",
+        "tm_pub_key": "Hk8KqIi1970TyBKkgHo+DcjDN9+VVj3yFu6VVcDjBLU=",
+        "vega_pub_key": "e5fa288c5d65df4612c69de0f3a03e3179fa85693d71fd439e2ba37c8d7ae158",
+        "vega_pub_key_index": 1
+      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -278,17 +289,6 @@
         "name": "narrow-plant",
         "tm_pub_key": "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=",
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
-        "vega_pub_key_index": 1
-      },
-      "buWw2ZrZN/w7JfNb2DG1T2IxDSN4O9wZf2KGqZG9buI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/za6vhnjbrd30oh69wb79vo23u07vrs8y?d=identicon",
-        "country": "QC",
-        "ethereum_address": "0x7012ee58b05023186e3682A91414B5b8345b4D05",
-        "id": "756134f0fee9f35aba9268bda92d5fe2bc13a777bf268f9f52a78d0d57c74c25",
-        "info_url": "https://en.wikipedia.org/wiki/Zafarabad,_Delfan",
-        "name": "healthy-river",
-        "tm_pub_key": "buWw2ZrZN/w7JfNb2DG1T2IxDSN4O9wZf2KGqZG9buI=",
-        "vega_pub_key": "7770d3f94356e147e21d9894dd5075129c47913119b1782cb4242da8f936952f",
         "vega_pub_key_index": 1
       },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308111044",
+  "chain_id": "vega-devnet1-202308140951",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-11T10:44:00.884386498Z",
+  "genesis_time": "2023-08-14T09:51:37.407468174Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "40B6E07D1FC8D965554E9519DFC1ADBC1A2E822C",
-      "name": "healthy-river",
+      "address": "A828C1A0F75C0F13B494EA383CAB5F2CA570529B",
+      "name": "wicked-chair",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "buWw2ZrZN/w7JfNb2DG1T2IxDSN4O9wZf2KGqZG9buI="
+        "value": "Hk8KqIi1970TyBKkgHo+DcjDN9+VVj3yFu6VVcDjBLU="
       }
     }
   ]
