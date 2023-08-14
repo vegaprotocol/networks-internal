@@ -269,15 +269,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "Hk8KqIi1970TyBKkgHo+DcjDN9+VVj3yFu6VVcDjBLU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/rpt9wv4yylblhwrbrz8723ciqeeacz6y?d=identicon",
-        "country": "YT",
-        "ethereum_address": "0x90be6f31bE956D0d4b70dDe0464eE6F3B012528f",
-        "id": "123583bb0d94e9c883e8736752a2cf311bb10d5203d55a78e4d3bdc804052880",
-        "info_url": "https://en.wikipedia.org/wiki/Mensje_van_Keulen",
-        "name": "wicked-chair",
-        "tm_pub_key": "Hk8KqIi1970TyBKkgHo+DcjDN9+VVj3yFu6VVcDjBLU=",
-        "vega_pub_key": "e5fa288c5d65df4612c69de0f3a03e3179fa85693d71fd439e2ba37c8d7ae158",
+      "9UZtbNKbLlw2FYjMwkfouP2R2BEI3l6arF1qmtdPT4w=": {
+        "avatar_url": "https://www.gravatar.com/avatar/lt05i1riyztgxxotfhm6bxqmpmnsu41g?d=identicon",
+        "country": "PM",
+        "ethereum_address": "0xfD5dC33c0C4C1A0e5Acc5Ca8758E24400626DF9a",
+        "id": "ea1fe72e21ff5d142736565e31f0715ea859a2abd8ba969ff4f80288042998be",
+        "info_url": "https://en.wikipedia.org/wiki/Cartoonito_(Central_and_Eastern_European_TV_channel)",
+        "name": "lemon-baby",
+        "tm_pub_key": "9UZtbNKbLlw2FYjMwkfouP2R2BEI3l6arF1qmtdPT4w=",
+        "vega_pub_key": "02a4c85e8cdb2a91f3a4806e509f76e1063d2956f94a2c1b0d1e6e0d6cc62da2",
         "vega_pub_key_index": 1
       },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308140951",
+  "chain_id": "vega-devnet1-202308141347",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-14T09:51:37.407468174Z",
+  "genesis_time": "2023-08-14T13:47:21.577570862Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "A828C1A0F75C0F13B494EA383CAB5F2CA570529B",
-      "name": "wicked-chair",
+      "address": "1E8520D0D5E4B0FCF5BB8ABCF2A1502C562833D9",
+      "name": "lemon-baby",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Hk8KqIi1970TyBKkgHo+DcjDN9+VVj3yFu6VVcDjBLU="
+        "value": "9UZtbNKbLlw2FYjMwkfouP2R2BEI3l6arF1qmtdPT4w="
       }
     }
   ]
