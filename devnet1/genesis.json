@@ -271,6 +271,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "C6GvBROX4qQBW7Q8NesyRv9D+VmZ/q3dlGRAiNwAPNk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/77quw0lpz19td8lw9qsf8uxinn93k2x7?d=identicon",
+        "country": "NC",
+        "ethereum_address": "0xA4E81E5e81FE7Da7f064E5cE7883D00AE0fcE6D0",
+        "id": "bbf9364d46bb5641a034642a7cf88b150b04a04fb3728793dc72a6cb807b8066",
+        "info_url": "https://en.wikipedia.org/wiki/2017_CAA_men%27s_soccer_tournament",
+        "name": "ashy-fisherman",
+        "tm_pub_key": "C6GvBROX4qQBW7Q8NesyRv9D+VmZ/q3dlGRAiNwAPNk=",
+        "vega_pub_key": "5cadf0347a3e5b26d607f20e09acf7aebe3d5356aeab9ad550818e66b008f4a7",
+        "vega_pub_key_index": 1
+      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -291,17 +302,6 @@
         "name": "unkempt-mango",
         "tm_pub_key": "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=",
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
-        "vega_pub_key_index": 1
-      },
-      "g1flmcdBCvamv5kkYvJPOWZ2f/SeOdkqVDrqLt0Ane4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/pkbrigfpaewjv033nww35r3fs9e8j9rj?d=identicon",
-        "country": "LD",
-        "ethereum_address": "0x1F027f3902D1414fD49cFa440f7d6bA9a57b22Cd",
-        "id": "49c9d6f2cb1ddc6c530a9aeaa87daa9748f41168d55725fa84298e0a1e8e5b67",
-        "info_url": "https://en.wikipedia.org/wiki/Vietnam_at_the_2012_Asian_Beach_Games",
-        "name": "loose-hat",
-        "tm_pub_key": "g1flmcdBCvamv5kkYvJPOWZ2f/SeOdkqVDrqLt0Ane4=",
-        "vega_pub_key": "55096c752806aaeb32113a464f3ecf61ed5e235d61a6fc57139dbc07ce9969e7",
         "vega_pub_key_index": 1
       },
       "jk+pHGxbQVJRawxw17hIICBeqqKLUCNg1r5E/Aa0U4E=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308151520",
+  "chain_id": "vega-devnet1-202308151735",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-15T15:20:19.443748153Z",
+  "genesis_time": "2023-08-15T17:35:02.17523057Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "AB12F2D83CAD17DB39CA6C9E651F3D066B3C9C00",
-      "name": "loose-hat",
+      "address": "617410344175BBF11B2CC5065227F4873AD670B1",
+      "name": "ashy-fisherman",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "g1flmcdBCvamv5kkYvJPOWZ2f/SeOdkqVDrqLt0Ane4="
+        "value": "C6GvBROX4qQBW7Q8NesyRv9D+VmZ/q3dlGRAiNwAPNk="
       }
     }
   ]
