@@ -269,15 +269,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "HwQrRdeOq1BYe9EBfj+vaGiRnrV3Cn3ykzBQ8riooPY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/h8sgvf7l7pdblox9qa63sr5qi17xd1vx?d=identicon",
-        "country": "GO",
-        "ethereum_address": "0xd6dB1e106C9f47DEEE47bcd22988F0497acf8491",
-        "id": "9536f2c0e0a285b934347480d5eef09ff89c576cdf2fcc7b4331e04314fcc2ab",
-        "info_url": "https://en.wikipedia.org/wiki/Indian_National_Trade_Union_Congress",
-        "name": "loud-hat",
-        "tm_pub_key": "HwQrRdeOq1BYe9EBfj+vaGiRnrV3Cn3ykzBQ8riooPY=",
-        "vega_pub_key": "e8dd6ddd689e889b7a77703b15267ccc7691634743eabe550254a7b5e32bba2d",
+      "HoipxqUHwRHKu2DB93TwVxyGYzo5MfCWPxqJQwli+Jo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/czz66qyx58vqnyotf84dn8lof7ff9dfo?d=identicon",
+        "country": "XN",
+        "ethereum_address": "0x401FC59683805e2d97784ceD1eC1a49b32bA5462",
+        "id": "796e0bce008545ff45ed5742e01b258b1d9278d7085cadf4623938a739a68442",
+        "info_url": "https://en.wikipedia.org/wiki/Simeiz_Observatory",
+        "name": "colossal-cat",
+        "tm_pub_key": "HoipxqUHwRHKu2DB93TwVxyGYzo5MfCWPxqJQwli+Jo=",
+        "vega_pub_key": "51a94ba2723ffe2f9f52f4f6446bfbd239728a4a409ea83c50a1363a91d86d61",
         "vega_pub_key_index": 1
       },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308150901",
+  "chain_id": "vega-devnet1-202308151027",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-15T09:01:28.201143583Z",
+  "genesis_time": "2023-08-15T10:27:56.917852227Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "9FC4BCD0E0651EC6B38954E7B036AC6EEC3F8E51",
-      "name": "loud-hat",
+      "address": "D2C63ECAD169212E45CE8D188FC7CDF76115A0D6",
+      "name": "colossal-cat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "HwQrRdeOq1BYe9EBfj+vaGiRnrV3Cn3ykzBQ8riooPY="
+        "value": "HoipxqUHwRHKu2DB93TwVxyGYzo5MfCWPxqJQwli+Jo="
       }
     }
   ]
