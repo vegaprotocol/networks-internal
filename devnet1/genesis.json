@@ -293,17 +293,6 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
-      "fnvq/HD4YRSZ2agC6zar7pj8bb3Lu9+vfvLclxyWiVE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/tpbngmdid1uytw95n6o0yh7vmjsdjjup?d=identicon",
-        "country": "ZG",
-        "ethereum_address": "0x78328EeA6563e1F97AeFDb7984Fefc167d3CE14D",
-        "id": "494998c586139dc7e6aa610f0967ceafec830fc8246f26445bba96907f341e00",
-        "info_url": "https://en.wikipedia.org/wiki/Vaptsarov",
-        "name": "tender-river",
-        "tm_pub_key": "fnvq/HD4YRSZ2agC6zar7pj8bb3Lu9+vfvLclxyWiVE=",
-        "vega_pub_key": "fde8fe0d7bd4e4484ebe05edcec32ae92c168875c70cdbd59c2417d4bd49a40e",
-        "vega_pub_key_index": 1
-      },
       "jk+pHGxbQVJRawxw17hIICBeqqKLUCNg1r5E/Aa0U4E=": {
         "avatar_url": "https://www.gravatar.com/avatar/d6p992qmdfjp7esf91y06w451nrfcxwf?d=identicon",
         "country": "BG",
@@ -325,10 +314,21 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
+      },
+      "zipdMFz6or+bnovk8bLfRnm724dhNVo7VtmX1TA/BIY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/m4sjs5qksuyo12hd4zj7mt75gwgl1zn5?d=identicon",
+        "country": "UD",
+        "ethereum_address": "0xED95DC65276b03dfF599cb7a3672A2055a9A99B0",
+        "id": "e6c13f73141a2c4a2ea102049eaf815d4a89aa6fe9d61cd8f8966b3b1c6beb5b",
+        "info_url": "https://en.wikipedia.org/wiki/TRAPPIST-1d",
+        "name": "zippy-doctor",
+        "tm_pub_key": "zipdMFz6or+bnovk8bLfRnm724dhNVo7VtmX1TA/BIY=",
+        "vega_pub_key": "c99116dbda1569715ed295091c8a0c459e64e498fac326388221954ba9a282ba",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202308151852",
+  "chain_id": "vega-devnet1-202308152019",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-15T18:52:01.128071851Z",
+  "genesis_time": "2023-08-15T20:19:29.151262149Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "AE4EB57425B0494AF20C26A66A126CD821740524",
-      "name": "tender-river",
+      "address": "65788B46D5620AF979058960B1715E3BF3C3886A",
+      "name": "zippy-doctor",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "fnvq/HD4YRSZ2agC6zar7pj8bb3Lu9+vfvLclxyWiVE="
+        "value": "zipdMFz6or+bnovk8bLfRnm724dhNVo7VtmX1TA/BIY="
       }
     }
   ]
