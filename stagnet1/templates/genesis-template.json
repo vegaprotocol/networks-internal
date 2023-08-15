@@ -284,7 +284,8 @@
             "validators.vote.required": "0.67",
             "network.transactions.maxgasperblock":"500000",
             "network.transaction.defaultgas":"1",
-            "ethereum.oracles.enabled": "1"
+            "ethereum.oracles.enabled": "1",
+            "limits.markets.proposePerpetualEnabled": "1"
         },
         "network_parameters_checkpoint_overwrite": [
             "snapshot.interval.length"
