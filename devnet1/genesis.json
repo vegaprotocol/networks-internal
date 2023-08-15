@@ -271,17 +271,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "C6GvBROX4qQBW7Q8NesyRv9D+VmZ/q3dlGRAiNwAPNk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/77quw0lpz19td8lw9qsf8uxinn93k2x7?d=identicon",
-        "country": "NC",
-        "ethereum_address": "0xA4E81E5e81FE7Da7f064E5cE7883D00AE0fcE6D0",
-        "id": "bbf9364d46bb5641a034642a7cf88b150b04a04fb3728793dc72a6cb807b8066",
-        "info_url": "https://en.wikipedia.org/wiki/2017_CAA_men%27s_soccer_tournament",
-        "name": "ashy-fisherman",
-        "tm_pub_key": "C6GvBROX4qQBW7Q8NesyRv9D+VmZ/q3dlGRAiNwAPNk=",
-        "vega_pub_key": "5cadf0347a3e5b26d607f20e09acf7aebe3d5356aeab9ad550818e66b008f4a7",
-        "vega_pub_key_index": 1
-      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -302,6 +291,17 @@
         "name": "unkempt-mango",
         "tm_pub_key": "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=",
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
+        "vega_pub_key_index": 1
+      },
+      "fnvq/HD4YRSZ2agC6zar7pj8bb3Lu9+vfvLclxyWiVE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/tpbngmdid1uytw95n6o0yh7vmjsdjjup?d=identicon",
+        "country": "ZG",
+        "ethereum_address": "0x78328EeA6563e1F97AeFDb7984Fefc167d3CE14D",
+        "id": "494998c586139dc7e6aa610f0967ceafec830fc8246f26445bba96907f341e00",
+        "info_url": "https://en.wikipedia.org/wiki/Vaptsarov",
+        "name": "tender-river",
+        "tm_pub_key": "fnvq/HD4YRSZ2agC6zar7pj8bb3Lu9+vfvLclxyWiVE=",
+        "vega_pub_key": "fde8fe0d7bd4e4484ebe05edcec32ae92c168875c70cdbd59c2417d4bd49a40e",
         "vega_pub_key_index": 1
       },
       "jk+pHGxbQVJRawxw17hIICBeqqKLUCNg1r5E/Aa0U4E=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308151735",
+  "chain_id": "vega-devnet1-202308151852",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-15T17:35:02.17523057Z",
+  "genesis_time": "2023-08-15T18:52:01.128071851Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "617410344175BBF11B2CC5065227F4873AD670B1",
-      "name": "ashy-fisherman",
+      "address": "AE4EB57425B0494AF20C26A66A126CD821740524",
+      "name": "tender-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "C6GvBROX4qQBW7Q8NesyRv9D+VmZ/q3dlGRAiNwAPNk="
+        "value": "fnvq/HD4YRSZ2agC6zar7pj8bb3Lu9+vfvLclxyWiVE="
       }
     }
   ]
