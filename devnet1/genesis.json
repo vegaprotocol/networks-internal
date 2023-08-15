@@ -190,6 +190,7 @@
     },
     "network_parameters": {
       "blockchains.ethereumConfig": "{ \"network_id\": \"11155111\", \"chain_id\": \"11155111\", \"confirmations\": 3, \"collateral_bridge_contract\": { \"address\": \"0xeb43b95378cE195B03e760749B4e416f4ff1e187\" }, \"staking_bridge_contract\": { \"address\": \"0x45F37Ebbe79F0629E6FCed2a2a75cad9567dFd3d\", \"deployment_block_height\": 4054365 }, \"token_vesting_contract\": { \"address\": \"0x29574E929eFEdd83cC5637313a44378648044cC4\", \"deployment_block_height\": 4054365 }, \"multisig_control_contract\": { \"address\": \"0x79aC716EBfF5a64dAE5E4993eeB3fA048f46E3cB\", \"deployment_block_height\": 4054365 } }",
+      "ethereum.oracles.enabled": "1",
       "governance.proposal.asset.maxClose": "8760h0m0s",
       "governance.proposal.asset.maxEnact": "8760h0m0s",
       "governance.proposal.asset.minClose": "5s",
@@ -222,6 +223,7 @@
       "governance.proposal.updateNetParam.minVoterBalance": "1",
       "governance.proposal.updateNetParam.requiredMajority": "0.5",
       "governance.proposal.updateNetParam.requiredParticipation": "0.0",
+      "limits.markets.proposePerpetualEnabled": "1",
       "market.auction.maximumDuration": "168h0m0s",
       "market.auction.minimumDuration": "10s",
       "market.fee.factors.infrastructureFee": "0.0005",
@@ -269,17 +271,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "OiWjEN4g7MEaeeZIDe+zxxZPxfJD4WAh7pBhZi8RQSs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/0rwlzvpprii2uk7h2r6wq5eo1lv8e8z6?d=identicon",
-        "country": "EY",
-        "ethereum_address": "0x2182DC8237381809b2fbb349ed3EE50C650B7b03",
-        "id": "cede0ca2abc108b64ac990a28ec5404e95b6287a4a3e784644d3c96a58b2bb5e",
-        "info_url": "https://en.wikipedia.org/wiki/Gomel_District",
-        "name": "fluky-stove",
-        "tm_pub_key": "OiWjEN4g7MEaeeZIDe+zxxZPxfJD4WAh7pBhZi8RQSs=",
-        "vega_pub_key": "227bedce806a933e67d47396e6677fe1b12c3f838688186461b28de4f8138cd4",
-        "vega_pub_key_index": 1
-      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -289,6 +280,17 @@
         "name": "narrow-plant",
         "tm_pub_key": "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=",
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
+        "vega_pub_key_index": 1
+      },
+      "X/kqYE1q3qeAScL52hPI0rSRtWkuBxb8tEVTVe7Gb8w=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ryy1dfg95dotxswfoxbdkq151i5r8r8d?d=identicon",
+        "country": "UY",
+        "ethereum_address": "0xc8A81B9d9e5Ad00FB3Bb0C32ae3E18A98436Fc5d",
+        "id": "68681af05d7aa6f1208c0bc85d445fa917df75486041ae0875890acbdff059fd",
+        "info_url": "https://en.wikipedia.org/wiki/American_rule_(attorney%27s_fees)",
+        "name": "adorable-key",
+        "tm_pub_key": "X/kqYE1q3qeAScL52hPI0rSRtWkuBxb8tEVTVe7Gb8w=",
+        "vega_pub_key": "afb16de8e849afea693072f91b767cb7bee6ae63c2846698a777e218941b4bf0",
         "vega_pub_key_index": 1
       },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
@@ -326,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308151242",
+  "chain_id": "vega-devnet1-202308151255",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-15T12:42:06.546215657Z",
+  "genesis_time": "2023-08-15T12:55:54.243214497Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +387,12 @@
       }
     },
     {
-      "address": "21BED39C6E12D2B40A6FA2F38D025FF2CE9EEFFE",
-      "name": "fluky-stove",
+      "address": "D7CE905ED8BF03A76666252A6406748EF08ED2F6",
+      "name": "adorable-key",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "OiWjEN4g7MEaeeZIDe+zxxZPxfJD4WAh7pBhZi8RQSs="
+        "value": "X/kqYE1q3qeAScL52hPI0rSRtWkuBxb8tEVTVe7Gb8w="
       }
     }
   ]
