@@ -271,6 +271,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "TJApGOGuOyn5rShAgli/tq7jogdiDms4uLVCCJ30A8U=": {
+        "avatar_url": "https://www.gravatar.com/avatar/yp3hu978it2bauh9l0bqhrfbyti2t83l?d=identicon",
+        "country": "MB",
+        "ethereum_address": "0xDA0f98A586ea11f4DC5A3894183d68C2d5b191AA",
+        "id": "9e89eb1eb60d75fde37125f6a93f4dc6399f8e16c2d1c1fd3738e618b8a2af3c",
+        "info_url": "https://en.wikipedia.org/wiki/Atsushi_Ono",
+        "name": "green-movie",
+        "tm_pub_key": "TJApGOGuOyn5rShAgli/tq7jogdiDms4uLVCCJ30A8U=",
+        "vega_pub_key": "22f529de267323acca51a7a6718c8f6323521b46fcdaa43a2c747fe38e8a14bd",
+        "vega_pub_key_index": 1
+      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -314,21 +325,10 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
-      },
-      "zipdMFz6or+bnovk8bLfRnm724dhNVo7VtmX1TA/BIY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/m4sjs5qksuyo12hd4zj7mt75gwgl1zn5?d=identicon",
-        "country": "UD",
-        "ethereum_address": "0xED95DC65276b03dfF599cb7a3672A2055a9A99B0",
-        "id": "e6c13f73141a2c4a2ea102049eaf815d4a89aa6fe9d61cd8f8966b3b1c6beb5b",
-        "info_url": "https://en.wikipedia.org/wiki/TRAPPIST-1d",
-        "name": "zippy-doctor",
-        "tm_pub_key": "zipdMFz6or+bnovk8bLfRnm724dhNVo7VtmX1TA/BIY=",
-        "vega_pub_key": "c99116dbda1569715ed295091c8a0c459e64e498fac326388221954ba9a282ba",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202308152021",
+  "chain_id": "vega-devnet1-202308152057",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-15T20:21:08.474853596Z",
+  "genesis_time": "2023-08-15T20:57:53.854647821Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "65788B46D5620AF979058960B1715E3BF3C3886A",
-      "name": "zippy-doctor",
+      "address": "8B057D3828FD71D46F4B1C6FABF8BF7E1E00B00C",
+      "name": "green-movie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "zipdMFz6or+bnovk8bLfRnm724dhNVo7VtmX1TA/BIY="
+        "value": "TJApGOGuOyn5rShAgli/tq7jogdiDms4uLVCCJ30A8U="
       }
     }
   ]
