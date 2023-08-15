@@ -282,17 +282,6 @@
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
         "vega_pub_key_index": 1
       },
-      "X/kqYE1q3qeAScL52hPI0rSRtWkuBxb8tEVTVe7Gb8w=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ryy1dfg95dotxswfoxbdkq151i5r8r8d?d=identicon",
-        "country": "UY",
-        "ethereum_address": "0xc8A81B9d9e5Ad00FB3Bb0C32ae3E18A98436Fc5d",
-        "id": "68681af05d7aa6f1208c0bc85d445fa917df75486041ae0875890acbdff059fd",
-        "info_url": "https://en.wikipedia.org/wiki/American_rule_(attorney%27s_fees)",
-        "name": "adorable-key",
-        "tm_pub_key": "X/kqYE1q3qeAScL52hPI0rSRtWkuBxb8tEVTVe7Gb8w=",
-        "vega_pub_key": "afb16de8e849afea693072f91b767cb7bee6ae63c2846698a777e218941b4bf0",
-        "vega_pub_key_index": 1
-      },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
         "avatar_url": "https://www.gravatar.com/avatar/z9sfw769a99015gw2zxnb0n4o57k4pch?d=identicon",
         "country": "RC",
@@ -302,6 +291,17 @@
         "name": "unkempt-mango",
         "tm_pub_key": "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=",
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
+        "vega_pub_key_index": 1
+      },
+      "g1flmcdBCvamv5kkYvJPOWZ2f/SeOdkqVDrqLt0Ane4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/pkbrigfpaewjv033nww35r3fs9e8j9rj?d=identicon",
+        "country": "LD",
+        "ethereum_address": "0x1F027f3902D1414fD49cFa440f7d6bA9a57b22Cd",
+        "id": "49c9d6f2cb1ddc6c530a9aeaa87daa9748f41168d55725fa84298e0a1e8e5b67",
+        "info_url": "https://en.wikipedia.org/wiki/Vietnam_at_the_2012_Asian_Beach_Games",
+        "name": "loose-hat",
+        "tm_pub_key": "g1flmcdBCvamv5kkYvJPOWZ2f/SeOdkqVDrqLt0Ane4=",
+        "vega_pub_key": "55096c752806aaeb32113a464f3ecf61ed5e235d61a6fc57139dbc07ce9969e7",
         "vega_pub_key_index": 1
       },
       "jk+pHGxbQVJRawxw17hIICBeqqKLUCNg1r5E/Aa0U4E=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308151255",
+  "chain_id": "vega-devnet1-202308151520",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-15T12:55:54.243214497Z",
+  "genesis_time": "2023-08-15T15:20:19.443748153Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "D7CE905ED8BF03A76666252A6406748EF08ED2F6",
-      "name": "adorable-key",
+      "address": "AB12F2D83CAD17DB39CA6C9E651F3D066B3C9C00",
+      "name": "loose-hat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "X/kqYE1q3qeAScL52hPI0rSRtWkuBxb8tEVTVe7Gb8w="
+        "value": "g1flmcdBCvamv5kkYvJPOWZ2f/SeOdkqVDrqLt0Ane4="
       }
     }
   ]
