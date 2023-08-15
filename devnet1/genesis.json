@@ -269,15 +269,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "JY8CmOiUnz14Q7cO4hdsLDQaxSyB+xDjgRG1RtXB+5M=": {
-        "avatar_url": "https://www.gravatar.com/avatar/nc0t9f3ftrz2uerm19g2lwhxqawszsay?d=identicon",
-        "country": "PN",
-        "ethereum_address": "0xA7f1D41Cd2dF7D7bd59e1C173ad9657ec9203f77",
-        "id": "2e2256127d64376aa0a8b7968af0700404a5a29a4c10bb6a5242e456c9d16873",
-        "info_url": "https://en.wikipedia.org/wiki/2006%E2%80%9307_Euroleague_Top_16_Group_F",
-        "name": "shapely-cat",
-        "tm_pub_key": "JY8CmOiUnz14Q7cO4hdsLDQaxSyB+xDjgRG1RtXB+5M=",
-        "vega_pub_key": "3f8ebb56effc92a42705538e805358c1e78e40b0d22eafb6e83e5600726dae34",
+      "HwQrRdeOq1BYe9EBfj+vaGiRnrV3Cn3ykzBQ8riooPY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/h8sgvf7l7pdblox9qa63sr5qi17xd1vx?d=identicon",
+        "country": "GO",
+        "ethereum_address": "0xd6dB1e106C9f47DEEE47bcd22988F0497acf8491",
+        "id": "9536f2c0e0a285b934347480d5eef09ff89c576cdf2fcc7b4331e04314fcc2ab",
+        "info_url": "https://en.wikipedia.org/wiki/Indian_National_Trade_Union_Congress",
+        "name": "loud-hat",
+        "tm_pub_key": "HwQrRdeOq1BYe9EBfj+vaGiRnrV3Cn3ykzBQ8riooPY=",
+        "vega_pub_key": "e8dd6ddd689e889b7a77703b15267ccc7691634743eabe550254a7b5e32bba2d",
         "vega_pub_key_index": 1
       },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308141527",
+  "chain_id": "vega-devnet1-202308150901",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-14T15:27:52.985877546Z",
+  "genesis_time": "2023-08-15T09:01:28.201143583Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "93479A512E4A9DDD40E17E7C2024F82E5135C99A",
-      "name": "shapely-cat",
+      "address": "9FC4BCD0E0651EC6B38954E7B036AC6EEC3F8E51",
+      "name": "loud-hat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "JY8CmOiUnz14Q7cO4hdsLDQaxSyB+xDjgRG1RtXB+5M="
+        "value": "HwQrRdeOq1BYe9EBfj+vaGiRnrV3Cn3ykzBQ8riooPY="
       }
     }
   ]
