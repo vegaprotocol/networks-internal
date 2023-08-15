@@ -269,15 +269,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "HoipxqUHwRHKu2DB93TwVxyGYzo5MfCWPxqJQwli+Jo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/czz66qyx58vqnyotf84dn8lof7ff9dfo?d=identicon",
-        "country": "XN",
-        "ethereum_address": "0x401FC59683805e2d97784ceD1eC1a49b32bA5462",
-        "id": "796e0bce008545ff45ed5742e01b258b1d9278d7085cadf4623938a739a68442",
-        "info_url": "https://en.wikipedia.org/wiki/Simeiz_Observatory",
-        "name": "colossal-cat",
-        "tm_pub_key": "HoipxqUHwRHKu2DB93TwVxyGYzo5MfCWPxqJQwli+Jo=",
-        "vega_pub_key": "51a94ba2723ffe2f9f52f4f6446bfbd239728a4a409ea83c50a1363a91d86d61",
+      "OiWjEN4g7MEaeeZIDe+zxxZPxfJD4WAh7pBhZi8RQSs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/0rwlzvpprii2uk7h2r6wq5eo1lv8e8z6?d=identicon",
+        "country": "EY",
+        "ethereum_address": "0x2182DC8237381809b2fbb349ed3EE50C650B7b03",
+        "id": "cede0ca2abc108b64ac990a28ec5404e95b6287a4a3e784644d3c96a58b2bb5e",
+        "info_url": "https://en.wikipedia.org/wiki/Gomel_District",
+        "name": "fluky-stove",
+        "tm_pub_key": "OiWjEN4g7MEaeeZIDe+zxxZPxfJD4WAh7pBhZi8RQSs=",
+        "vega_pub_key": "227bedce806a933e67d47396e6677fe1b12c3f838688186461b28de4f8138cd4",
         "vega_pub_key_index": 1
       },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
@@ -326,7 +326,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308151027",
+  "chain_id": "vega-devnet1-202308151233",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -345,7 +345,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-15T10:27:56.917852227Z",
+  "genesis_time": "2023-08-15T12:33:18.546076321Z",
   "initial_height": "0",
   "validators": [
     {
@@ -385,12 +385,12 @@
       }
     },
     {
-      "address": "D2C63ECAD169212E45CE8D188FC7CDF76115A0D6",
-      "name": "colossal-cat",
+      "address": "21BED39C6E12D2B40A6FA2F38D025FF2CE9EEFFE",
+      "name": "fluky-stove",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "HoipxqUHwRHKu2DB93TwVxyGYzo5MfCWPxqJQwli+Jo="
+        "value": "OiWjEN4g7MEaeeZIDe+zxxZPxfJD4WAh7pBhZi8RQSs="
       }
     }
   ]
