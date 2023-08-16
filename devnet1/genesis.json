@@ -293,6 +293,17 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
+      "iva8m1EN25Tyds0INsswlhSM75ig9UxAdku1Gi7lXcg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/j15vpxgxvsldfwvaa30lobdu279xb206?d=identicon",
+        "country": "UC",
+        "ethereum_address": "0x217F98a7b01EbA976891be5656afFb269639C8dD",
+        "id": "4bef3d6fd132edc0ecf3066b24e78a31e15a89918dc40d48159035938a6fb39d",
+        "info_url": "https://en.wikipedia.org/wiki/Stop-Zemlia",
+        "name": "irate-pool",
+        "tm_pub_key": "iva8m1EN25Tyds0INsswlhSM75ig9UxAdku1Gi7lXcg=",
+        "vega_pub_key": "fd83af2a6a06afaf7467eac27f42db456b5161ab6f9a0ab8f3acc6e4c11a1e51",
+        "vega_pub_key_index": 1
+      },
       "jk+pHGxbQVJRawxw17hIICBeqqKLUCNg1r5E/Aa0U4E=": {
         "avatar_url": "https://www.gravatar.com/avatar/d6p992qmdfjp7esf91y06w451nrfcxwf?d=identicon",
         "country": "BG",
@@ -302,17 +313,6 @@
         "name": "quizzical-bee",
         "tm_pub_key": "jk+pHGxbQVJRawxw17hIICBeqqKLUCNg1r5E/Aa0U4E=",
         "vega_pub_key": "c35952d665c3744195d66f15511622cb1006f605b6a10823227d0fa226bc500d",
-        "vega_pub_key_index": 1
-      },
-      "reOcBKITnZIQPjSlASxwfhBCkAIMacvrsFcbwtQO22c=": {
-        "avatar_url": "https://www.gravatar.com/avatar/zub3gl9gdx052ly8gnmoclgn7dgn8sl7?d=identicon",
-        "country": "AR",
-        "ethereum_address": "0x449F29916E3DFB2bd7fD52A192Bcfbe5536B7fD4",
-        "id": "678ccb076e6c18585ed90731d9dd594e60d0638109bb7aea12e1cf2dfb87a08c",
-        "info_url": "https://en.wikipedia.org/wiki/Krystian_Brzozowski",
-        "name": "cooperative-bird",
-        "tm_pub_key": "reOcBKITnZIQPjSlASxwfhBCkAIMacvrsFcbwtQO22c=",
-        "vega_pub_key": "5e6c36964ba613d001030cc25658e06e71b1d2773d8cff51a50612cf37ef5ce5",
         "vega_pub_key_index": 1
       },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308161145",
+  "chain_id": "vega-devnet1-202308161301",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-16T11:45:44.997021005Z",
+  "genesis_time": "2023-08-16T13:01:22.191032455Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "B3BD7B99D1DDD971B2F964210D3D859F75A2BBD8",
-      "name": "cooperative-bird",
+      "address": "A4B2D325B9437651D5D61677F5AD5C7CCD482F18",
+      "name": "irate-pool",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "reOcBKITnZIQPjSlASxwfhBCkAIMacvrsFcbwtQO22c="
+        "value": "iva8m1EN25Tyds0INsswlhSM75ig9UxAdku1Gi7lXcg="
       }
     }
   ]
