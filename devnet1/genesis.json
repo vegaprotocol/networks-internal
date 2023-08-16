@@ -271,17 +271,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "0D2DguWXy4Uc8iDK50MxX8ZIpW6WRgMbTao71au7xnY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/rjwsg645gi15y8mr80zm2omvikjg0vv0?d=identicon",
-        "country": "SD",
-        "ethereum_address": "0x05B9B813bAF8904C9f9417F55D4F2000829BB20A",
-        "id": "49db7c02eaae097079f27d7c227011d04a6df7acc6bd365110b621c7ab3e1b53",
-        "info_url": "https://en.wikipedia.org/wiki/Prudence_Penny",
-        "name": "mysterious-beach",
-        "tm_pub_key": "0D2DguWXy4Uc8iDK50MxX8ZIpW6WRgMbTao71au7xnY=",
-        "vega_pub_key": "3e23911f96e5778efae7b82351c0471c4859d75ec23480f839618e1ef23e90a7",
-        "vega_pub_key_index": 1
-      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -315,6 +304,17 @@
         "vega_pub_key": "c35952d665c3744195d66f15511622cb1006f605b6a10823227d0fa226bc500d",
         "vega_pub_key_index": 1
       },
+      "reOcBKITnZIQPjSlASxwfhBCkAIMacvrsFcbwtQO22c=": {
+        "avatar_url": "https://www.gravatar.com/avatar/zub3gl9gdx052ly8gnmoclgn7dgn8sl7?d=identicon",
+        "country": "AR",
+        "ethereum_address": "0x449F29916E3DFB2bd7fD52A192Bcfbe5536B7fD4",
+        "id": "678ccb076e6c18585ed90731d9dd594e60d0638109bb7aea12e1cf2dfb87a08c",
+        "info_url": "https://en.wikipedia.org/wiki/Krystian_Brzozowski",
+        "name": "cooperative-bird",
+        "tm_pub_key": "reOcBKITnZIQPjSlASxwfhBCkAIMacvrsFcbwtQO22c=",
+        "vega_pub_key": "5e6c36964ba613d001030cc25658e06e71b1d2773d8cff51a50612cf37ef5ce5",
+        "vega_pub_key_index": 1
+      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308161019",
+  "chain_id": "vega-devnet1-202308161145",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-16T10:19:22.873512372Z",
+  "genesis_time": "2023-08-16T11:45:44.997021005Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "CDF38F3014CD026F19F03942EAB250E08B08F37E",
-      "name": "mysterious-beach",
+      "address": "B3BD7B99D1DDD971B2F964210D3D859F75A2BBD8",
+      "name": "cooperative-bird",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "0D2DguWXy4Uc8iDK50MxX8ZIpW6WRgMbTao71au7xnY="
+        "value": "reOcBKITnZIQPjSlASxwfhBCkAIMacvrsFcbwtQO22c="
       }
     }
   ]
