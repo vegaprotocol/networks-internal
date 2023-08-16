@@ -271,6 +271,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "0D2DguWXy4Uc8iDK50MxX8ZIpW6WRgMbTao71au7xnY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/rjwsg645gi15y8mr80zm2omvikjg0vv0?d=identicon",
+        "country": "SD",
+        "ethereum_address": "0x05B9B813bAF8904C9f9417F55D4F2000829BB20A",
+        "id": "49db7c02eaae097079f27d7c227011d04a6df7acc6bd365110b621c7ab3e1b53",
+        "info_url": "https://en.wikipedia.org/wiki/Prudence_Penny",
+        "name": "mysterious-beach",
+        "tm_pub_key": "0D2DguWXy4Uc8iDK50MxX8ZIpW6WRgMbTao71au7xnY=",
+        "vega_pub_key": "3e23911f96e5778efae7b82351c0471c4859d75ec23480f839618e1ef23e90a7",
+        "vega_pub_key_index": 1
+      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -314,21 +325,10 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
-      },
-      "zGUH+sb+YgSUO6FQ3WeH1QGCiFRQ8YeMbNfP+G3fhUk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/kup89nyghqcflto29otepbzdhn5f19aw?d=identicon",
-        "country": "MG",
-        "ethereum_address": "0x2d75A034ca2d05e6C10FE3a45552883cf2c5294F",
-        "id": "65e65f3677ce73459af67d5527f220ac6abb511b8a6aefed5cbe89efd8bf48a7",
-        "info_url": "https://en.wikipedia.org/wiki/William_Lee_Antonie",
-        "name": "zippy-lake",
-        "tm_pub_key": "zGUH+sb+YgSUO6FQ3WeH1QGCiFRQ8YeMbNfP+G3fhUk=",
-        "vega_pub_key": "3d86f1b5bbf4d44dd542188d75fe2087234e13408a726cae34af08958a0b5f09",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202308160903",
+  "chain_id": "vega-devnet1-202308161019",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-16T09:03:45.611833063Z",
+  "genesis_time": "2023-08-16T10:19:22.873512372Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "D8342C578C844D308447CFA5F17BDF7B23198F79",
-      "name": "zippy-lake",
+      "address": "CDF38F3014CD026F19F03942EAB250E08B08F37E",
+      "name": "mysterious-beach",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "zGUH+sb+YgSUO6FQ3WeH1QGCiFRQ8YeMbNfP+G3fhUk="
+        "value": "0D2DguWXy4Uc8iDK50MxX8ZIpW6WRgMbTao71au7xnY="
       }
     }
   ]
