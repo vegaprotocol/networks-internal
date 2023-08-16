@@ -293,17 +293,6 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
-      "iva8m1EN25Tyds0INsswlhSM75ig9UxAdku1Gi7lXcg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/j15vpxgxvsldfwvaa30lobdu279xb206?d=identicon",
-        "country": "UC",
-        "ethereum_address": "0x217F98a7b01EbA976891be5656afFb269639C8dD",
-        "id": "4bef3d6fd132edc0ecf3066b24e78a31e15a89918dc40d48159035938a6fb39d",
-        "info_url": "https://en.wikipedia.org/wiki/Stop-Zemlia",
-        "name": "irate-pool",
-        "tm_pub_key": "iva8m1EN25Tyds0INsswlhSM75ig9UxAdku1Gi7lXcg=",
-        "vega_pub_key": "fd83af2a6a06afaf7467eac27f42db456b5161ab6f9a0ab8f3acc6e4c11a1e51",
-        "vega_pub_key_index": 1
-      },
       "jk+pHGxbQVJRawxw17hIICBeqqKLUCNg1r5E/Aa0U4E=": {
         "avatar_url": "https://www.gravatar.com/avatar/d6p992qmdfjp7esf91y06w451nrfcxwf?d=identicon",
         "country": "BG",
@@ -325,10 +314,21 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
+      },
+      "vgB9mCHeN30uT5cp7MPTi1ah8gBhSdwKt+8l0Ku4fUo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/hxmf16ocoy9uzh96wa68ehqkq4w8tams?d=identicon",
+        "country": "AU",
+        "ethereum_address": "0xB2d0dcdaE694E2EE971c507c8444146fb17410FD",
+        "id": "30f9d4161cdd6972a51bd8fe5b93122036d29cda4c6a911c4587dc8ef4c30316",
+        "info_url": "https://en.wikipedia.org/wiki/Order_of_the_Starry_Cross",
+        "name": "lovely-doctor",
+        "tm_pub_key": "vgB9mCHeN30uT5cp7MPTi1ah8gBhSdwKt+8l0Ku4fUo=",
+        "vega_pub_key": "b9f8f2c220926c3479db160617105446598403f4bfadf9823a28fa64e604d024",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202308161301",
+  "chain_id": "vega-devnet1-202308161416",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-16T13:01:22.191032455Z",
+  "genesis_time": "2023-08-16T14:16:28.867074564Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "A4B2D325B9437651D5D61677F5AD5C7CCD482F18",
-      "name": "irate-pool",
+      "address": "02E692C7F04E8AFC98F022A990FCE8C33DE130CF",
+      "name": "lovely-doctor",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "iva8m1EN25Tyds0INsswlhSM75ig9UxAdku1Gi7lXcg="
+        "value": "vgB9mCHeN30uT5cp7MPTi1ah8gBhSdwKt+8l0Ku4fUo="
       }
     }
   ]
