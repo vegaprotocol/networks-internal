@@ -282,6 +282,17 @@
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
         "vega_pub_key_index": 1
       },
+      "WbSBdHVJ3g8/5eUu8r9YQiYUGh4QjL7BK7MtdFfPmc8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/8ng67w68eegcptdu0ddgp5e3gfycjhrl?d=identicon",
+        "country": "ZG",
+        "ethereum_address": "0xB8358782bdcCD874EFA24BC86a484C6B83238E26",
+        "id": "2fc8bb303d8a3f1da0d0b4ae2a85a462d08c542a76c9391e6890b24dfdc9927c",
+        "info_url": "https://en.wikipedia.org/wiki/The_Devil%27s_Path",
+        "name": "bright-day",
+        "tm_pub_key": "WbSBdHVJ3g8/5eUu8r9YQiYUGh4QjL7BK7MtdFfPmc8=",
+        "vega_pub_key": "1aded6f8d1ab99014792ff161f9bf50b19aab681aa152b38a9f788aa07ce77fb",
+        "vega_pub_key_index": 1
+      },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
         "avatar_url": "https://www.gravatar.com/avatar/z9sfw769a99015gw2zxnb0n4o57k4pch?d=identicon",
         "country": "RC",
@@ -314,21 +325,10 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
-      },
-      "vOV/rF8puhqJat2rWUCrzXPgZvPhfmPH1hSr8Mf7Sx4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/2apjdxzrwbfrdoqrv8smjqk6hgjiatif?d=identicon",
-        "country": "EN",
-        "ethereum_address": "0x2Cf8B71059131dd66d59A3cd30465223e7367406",
-        "id": "a1f0ca0ec88730c4b465ab6384f769027682ba2b95259acb9a7194cd3a8d0082",
-        "info_url": "https://en.wikipedia.org/wiki/Aagat",
-        "name": "mysterious-table",
-        "tm_pub_key": "vOV/rF8puhqJat2rWUCrzXPgZvPhfmPH1hSr8Mf7Sx4=",
-        "vega_pub_key": "74ac3cbd9895c059d8b5d2f579d786d6a162ca2c7d1e4ea773c4f0b5e86e502b",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202308160544",
+  "chain_id": "vega-devnet1-202308160734",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-16T05:44:26.661096774Z",
+  "genesis_time": "2023-08-16T07:34:36.466504246Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "A59ADEA3AE981139FED888F9A72BF67DAA85B508",
-      "name": "mysterious-table",
+      "address": "A7F97996E81F83CD911894E86519C2ACF1654E9D",
+      "name": "bright-day",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "vOV/rF8puhqJat2rWUCrzXPgZvPhfmPH1hSr8Mf7Sx4="
+        "value": "WbSBdHVJ3g8/5eUu8r9YQiYUGh4QjL7BK7MtdFfPmc8="
       }
     }
   ]
