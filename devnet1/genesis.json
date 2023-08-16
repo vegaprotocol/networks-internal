@@ -304,6 +304,17 @@
         "vega_pub_key": "c35952d665c3744195d66f15511622cb1006f605b6a10823227d0fa226bc500d",
         "vega_pub_key_index": 1
       },
+      "qmGHNaiwLp7UFni2dFAxLfXKjD256XX70SeM5DbWTWw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/sxa9jcjv8d27lwk25w1lfntb0mix2qqm?d=identicon",
+        "country": "GK",
+        "ethereum_address": "0x76FEe0725a04bDFD9f21dC6728dC20b3f354b08E",
+        "id": "19c981807facd3bcd2dd72150b5647f41fc0dbdb9767240f369643e476a0a885",
+        "info_url": "https://en.wikipedia.org/wiki/Shane_Wright_(ice_hockey)",
+        "name": "thundering-hill",
+        "tm_pub_key": "qmGHNaiwLp7UFni2dFAxLfXKjD256XX70SeM5DbWTWw=",
+        "vega_pub_key": "524bb0e847b6116d8456292ef1412c6a5a54e86ae016ab48e0148dc749311d13",
+        "vega_pub_key_index": 1
+      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -314,21 +325,10 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
-      },
-      "vgB9mCHeN30uT5cp7MPTi1ah8gBhSdwKt+8l0Ku4fUo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/hxmf16ocoy9uzh96wa68ehqkq4w8tams?d=identicon",
-        "country": "AU",
-        "ethereum_address": "0xB2d0dcdaE694E2EE971c507c8444146fb17410FD",
-        "id": "30f9d4161cdd6972a51bd8fe5b93122036d29cda4c6a911c4587dc8ef4c30316",
-        "info_url": "https://en.wikipedia.org/wiki/Order_of_the_Starry_Cross",
-        "name": "lovely-doctor",
-        "tm_pub_key": "vgB9mCHeN30uT5cp7MPTi1ah8gBhSdwKt+8l0Ku4fUo=",
-        "vega_pub_key": "b9f8f2c220926c3479db160617105446598403f4bfadf9823a28fa64e604d024",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202308161416",
+  "chain_id": "vega-devnet1-202308161908",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-16T14:16:28.867074564Z",
+  "genesis_time": "2023-08-16T19:08:33.465946183Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "02E692C7F04E8AFC98F022A990FCE8C33DE130CF",
-      "name": "lovely-doctor",
+      "address": "44D9F688C6273E17AE9334D0493C09D723929422",
+      "name": "thundering-hill",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "vgB9mCHeN30uT5cp7MPTi1ah8gBhSdwKt+8l0Ku4fUo="
+        "value": "qmGHNaiwLp7UFni2dFAxLfXKjD256XX70SeM5DbWTWw="
       }
     }
   ]
