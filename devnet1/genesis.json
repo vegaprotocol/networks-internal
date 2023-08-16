@@ -271,17 +271,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "TJApGOGuOyn5rShAgli/tq7jogdiDms4uLVCCJ30A8U=": {
-        "avatar_url": "https://www.gravatar.com/avatar/yp3hu978it2bauh9l0bqhrfbyti2t83l?d=identicon",
-        "country": "MB",
-        "ethereum_address": "0xDA0f98A586ea11f4DC5A3894183d68C2d5b191AA",
-        "id": "9e89eb1eb60d75fde37125f6a93f4dc6399f8e16c2d1c1fd3738e618b8a2af3c",
-        "info_url": "https://en.wikipedia.org/wiki/Atsushi_Ono",
-        "name": "green-movie",
-        "tm_pub_key": "TJApGOGuOyn5rShAgli/tq7jogdiDms4uLVCCJ30A8U=",
-        "vega_pub_key": "22f529de267323acca51a7a6718c8f6323521b46fcdaa43a2c747fe38e8a14bd",
-        "vega_pub_key_index": 1
-      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -325,10 +314,21 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
+      },
+      "vOV/rF8puhqJat2rWUCrzXPgZvPhfmPH1hSr8Mf7Sx4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/2apjdxzrwbfrdoqrv8smjqk6hgjiatif?d=identicon",
+        "country": "EN",
+        "ethereum_address": "0x2Cf8B71059131dd66d59A3cd30465223e7367406",
+        "id": "a1f0ca0ec88730c4b465ab6384f769027682ba2b95259acb9a7194cd3a8d0082",
+        "info_url": "https://en.wikipedia.org/wiki/Aagat",
+        "name": "mysterious-table",
+        "tm_pub_key": "vOV/rF8puhqJat2rWUCrzXPgZvPhfmPH1hSr8Mf7Sx4=",
+        "vega_pub_key": "74ac3cbd9895c059d8b5d2f579d786d6a162ca2c7d1e4ea773c4f0b5e86e502b",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202308152147",
+  "chain_id": "vega-devnet1-202308160544",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-15T21:47:12.94135447Z",
+  "genesis_time": "2023-08-16T05:44:26.661096774Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "8B057D3828FD71D46F4B1C6FABF8BF7E1E00B00C",
-      "name": "green-movie",
+      "address": "A59ADEA3AE981139FED888F9A72BF67DAA85B508",
+      "name": "mysterious-table",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "TJApGOGuOyn5rShAgli/tq7jogdiDms4uLVCCJ30A8U="
+        "value": "vOV/rF8puhqJat2rWUCrzXPgZvPhfmPH1hSr8Mf7Sx4="
       }
     }
   ]
