@@ -282,17 +282,6 @@
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
         "vega_pub_key_index": 1
       },
-      "WbSBdHVJ3g8/5eUu8r9YQiYUGh4QjL7BK7MtdFfPmc8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/8ng67w68eegcptdu0ddgp5e3gfycjhrl?d=identicon",
-        "country": "ZG",
-        "ethereum_address": "0xB8358782bdcCD874EFA24BC86a484C6B83238E26",
-        "id": "2fc8bb303d8a3f1da0d0b4ae2a85a462d08c542a76c9391e6890b24dfdc9927c",
-        "info_url": "https://en.wikipedia.org/wiki/The_Devil%27s_Path",
-        "name": "bright-day",
-        "tm_pub_key": "WbSBdHVJ3g8/5eUu8r9YQiYUGh4QjL7BK7MtdFfPmc8=",
-        "vega_pub_key": "1aded6f8d1ab99014792ff161f9bf50b19aab681aa152b38a9f788aa07ce77fb",
-        "vega_pub_key_index": 1
-      },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
         "avatar_url": "https://www.gravatar.com/avatar/z9sfw769a99015gw2zxnb0n4o57k4pch?d=identicon",
         "country": "RC",
@@ -325,10 +314,21 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
+      },
+      "zGUH+sb+YgSUO6FQ3WeH1QGCiFRQ8YeMbNfP+G3fhUk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/kup89nyghqcflto29otepbzdhn5f19aw?d=identicon",
+        "country": "MG",
+        "ethereum_address": "0x2d75A034ca2d05e6C10FE3a45552883cf2c5294F",
+        "id": "65e65f3677ce73459af67d5527f220ac6abb511b8a6aefed5cbe89efd8bf48a7",
+        "info_url": "https://en.wikipedia.org/wiki/William_Lee_Antonie",
+        "name": "zippy-lake",
+        "tm_pub_key": "zGUH+sb+YgSUO6FQ3WeH1QGCiFRQ8YeMbNfP+G3fhUk=",
+        "vega_pub_key": "3d86f1b5bbf4d44dd542188d75fe2087234e13408a726cae34af08958a0b5f09",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202308160734",
+  "chain_id": "vega-devnet1-202308160903",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-16T07:34:36.466504246Z",
+  "genesis_time": "2023-08-16T09:03:45.611833063Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "A7F97996E81F83CD911894E86519C2ACF1654E9D",
-      "name": "bright-day",
+      "address": "D8342C578C844D308447CFA5F17BDF7B23198F79",
+      "name": "zippy-lake",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "WbSBdHVJ3g8/5eUu8r9YQiYUGh4QjL7BK7MtdFfPmc8="
+        "value": "zGUH+sb+YgSUO6FQ3WeH1QGCiFRQ8YeMbNfP+G3fhUk="
       }
     }
   ]
