@@ -304,17 +304,6 @@
         "vega_pub_key": "c35952d665c3744195d66f15511622cb1006f605b6a10823227d0fa226bc500d",
         "vega_pub_key_index": 1
       },
-      "qmGHNaiwLp7UFni2dFAxLfXKjD256XX70SeM5DbWTWw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/sxa9jcjv8d27lwk25w1lfntb0mix2qqm?d=identicon",
-        "country": "GK",
-        "ethereum_address": "0x76FEe0725a04bDFD9f21dC6728dC20b3f354b08E",
-        "id": "19c981807facd3bcd2dd72150b5647f41fc0dbdb9767240f369643e476a0a885",
-        "info_url": "https://en.wikipedia.org/wiki/Shane_Wright_(ice_hockey)",
-        "name": "thundering-hill",
-        "tm_pub_key": "qmGHNaiwLp7UFni2dFAxLfXKjD256XX70SeM5DbWTWw=",
-        "vega_pub_key": "524bb0e847b6116d8456292ef1412c6a5a54e86ae016ab48e0148dc749311d13",
-        "vega_pub_key_index": 1
-      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -325,10 +314,21 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
+      },
+      "yfANEKsDwsIBXWU8V9Q5U8Xssv0StIzIDvURD+aamWQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/hp0vrieixb493t2m5qqdcm81ssdg0gfv?d=identicon",
+        "country": "CS",
+        "ethereum_address": "0x7c2EDa7d0D230EE818b09e1B8C95c8c5Aa605Cbf",
+        "id": "12a6071cfe3464bdecc1cdd0af5caddcfaed2fb710e5f65ce5e5c6f680303ff9",
+        "info_url": "https://en.wikipedia.org/wiki/Rugby_league_in_Lebanon",
+        "name": "echoing-computer",
+        "tm_pub_key": "yfANEKsDwsIBXWU8V9Q5U8Xssv0StIzIDvURD+aamWQ=",
+        "vega_pub_key": "315e40bf580875da5cb69ed0103e2a6dd069791243a7cd65181fa9607896a282",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202308161908",
+  "chain_id": "vega-devnet1-202308170819",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-16T19:08:33.465946183Z",
+  "genesis_time": "2023-08-17T08:19:50.126546601Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "44D9F688C6273E17AE9334D0493C09D723929422",
-      "name": "thundering-hill",
+      "address": "32F313126CA7929E7759DCFA740AFF8826BF4758",
+      "name": "echoing-computer",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "qmGHNaiwLp7UFni2dFAxLfXKjD256XX70SeM5DbWTWw="
+        "value": "yfANEKsDwsIBXWU8V9Q5U8Xssv0StIzIDvURD+aamWQ="
       }
     }
   ]
