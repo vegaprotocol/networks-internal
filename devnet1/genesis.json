@@ -304,6 +304,17 @@
         "vega_pub_key": "c35952d665c3744195d66f15511622cb1006f605b6a10823227d0fa226bc500d",
         "vega_pub_key_index": 1
       },
+      "jprRpqiy5x9vAL1kSmT/JJyEefRw3GNV2RWO95qNEcc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ul3302i76904xuwdfyhn5z9w8huwj742?d=identicon",
+        "country": "PJ",
+        "ethereum_address": "0xA8e87eFE890c45A3e0c0d64137E1eAd58f4e1862",
+        "id": "f0e21b89216f7d81be22699d830237f60540825b830bbddba66e586466508607",
+        "info_url": "https://en.wikipedia.org/wiki/Christopher_Tadgell",
+        "name": "adorable-music",
+        "tm_pub_key": "jprRpqiy5x9vAL1kSmT/JJyEefRw3GNV2RWO95qNEcc=",
+        "vega_pub_key": "076901b3635f0a96232a4710220c5cc47043624f1b232855182de02d2f1df0de",
+        "vega_pub_key_index": 1
+      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -314,21 +325,10 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
-      },
-      "yfANEKsDwsIBXWU8V9Q5U8Xssv0StIzIDvURD+aamWQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/hp0vrieixb493t2m5qqdcm81ssdg0gfv?d=identicon",
-        "country": "CS",
-        "ethereum_address": "0x7c2EDa7d0D230EE818b09e1B8C95c8c5Aa605Cbf",
-        "id": "12a6071cfe3464bdecc1cdd0af5caddcfaed2fb710e5f65ce5e5c6f680303ff9",
-        "info_url": "https://en.wikipedia.org/wiki/Rugby_league_in_Lebanon",
-        "name": "echoing-computer",
-        "tm_pub_key": "yfANEKsDwsIBXWU8V9Q5U8Xssv0StIzIDvURD+aamWQ=",
-        "vega_pub_key": "315e40bf580875da5cb69ed0103e2a6dd069791243a7cd65181fa9607896a282",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202308170819",
+  "chain_id": "vega-devnet1-202308170949",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-17T08:19:50.126546601Z",
+  "genesis_time": "2023-08-17T09:49:23.887831176Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "32F313126CA7929E7759DCFA740AFF8826BF4758",
-      "name": "echoing-computer",
+      "address": "16078A2D80A7B214ACBF392BC6FE2A8A5A86181C",
+      "name": "adorable-music",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "yfANEKsDwsIBXWU8V9Q5U8Xssv0StIzIDvURD+aamWQ="
+        "value": "jprRpqiy5x9vAL1kSmT/JJyEefRw3GNV2RWO95qNEcc="
       }
     }
   ]
