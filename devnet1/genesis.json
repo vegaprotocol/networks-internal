@@ -271,17 +271,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "TDhfB4EgKC1EBlx79I1Pj4+rEr7kzGYEsYPWiuTYl/Y=": {
-        "avatar_url": "https://www.gravatar.com/avatar/zh1nf4lzm9urjbov88chwtvkyjc6dus0?d=identicon",
-        "country": "GC",
-        "ethereum_address": "0xfF06c45a1F20c8aA7d55eE22E4B4a0812e9977Ee",
-        "id": "1d9f5db77e5f506043987068e5118602e09df29c7e08610fa376103697fbad99",
-        "info_url": "https://en.wikipedia.org/wiki/D._P._Singh_(runner)",
-        "name": "determined-music",
-        "tm_pub_key": "TDhfB4EgKC1EBlx79I1Pj4+rEr7kzGYEsYPWiuTYl/Y=",
-        "vega_pub_key": "5c4ea294184ae8c5ea817d298eaa4c96dd3651d4858e3f225c4a742285e60839",
-        "vega_pub_key_index": 1
-      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -315,6 +304,17 @@
         "vega_pub_key": "c35952d665c3744195d66f15511622cb1006f605b6a10823227d0fa226bc500d",
         "vega_pub_key_index": 1
       },
+      "lIKnuc0kae/1xo4kux3US1/NWwuouhKVoh+ge3vLXNM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/96krj3jblkyibot5qc8eut9uns2ryllk?d=identicon",
+        "country": "LD",
+        "ethereum_address": "0x0A3A6fECAD763E1e7B7A341C567AB7c5eEe0E4cF",
+        "id": "bd1bc634d68780118f5f595330ef841e15b2ba9b3218cf7078e5963cc1b43c52",
+        "info_url": "https://en.wikipedia.org/wiki/Juan_Bustabad",
+        "name": "tender-hat",
+        "tm_pub_key": "lIKnuc0kae/1xo4kux3US1/NWwuouhKVoh+ge3vLXNM=",
+        "vega_pub_key": "975c0155ee67f87c0733c0400765db4a3e567781ef9a39ba180d3846cafa0a2b",
+        "vega_pub_key_index": 1
+      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308171729",
+  "chain_id": "vega-devnet1-202308171806",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-17T17:29:06.246646911Z",
+  "genesis_time": "2023-08-17T18:06:56.479249409Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "061D8ACDE42E4441848E01B38304DA2F326B1CAB",
-      "name": "determined-music",
+      "address": "4D5677DA29A0DA6313685BA641A9B5694DCEC9B3",
+      "name": "tender-hat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "TDhfB4EgKC1EBlx79I1Pj4+rEr7kzGYEsYPWiuTYl/Y="
+        "value": "lIKnuc0kae/1xo4kux3US1/NWwuouhKVoh+ge3vLXNM="
       }
     }
   ]
