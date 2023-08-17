@@ -271,17 +271,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "D50/i5qLZ2f4nq0xP4VRToIehhLMZ7j1xqHyjt2cc4g=": {
-        "avatar_url": "https://www.gravatar.com/avatar/78cv8m6cvj91c22jb5qia0o92q48e6qm?d=identicon",
-        "country": "GN",
-        "ethereum_address": "0x1ADAf1E28C1F391F9BE1e301E7335292fFdf3791",
-        "id": "66888f684be920d01541ae220a67f3068eaf69b8b219e6c2af4e58f5e1290aad",
-        "info_url": "https://en.wikipedia.org/wiki/Batcher_Opera_House_Block",
-        "name": "better-dress",
-        "tm_pub_key": "D50/i5qLZ2f4nq0xP4VRToIehhLMZ7j1xqHyjt2cc4g=",
-        "vega_pub_key": "ffac74eef254c62b4958969c814d2ad55017a337d348dceae211e496c557a31d",
-        "vega_pub_key_index": 1
-      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -315,6 +304,17 @@
         "vega_pub_key": "c35952d665c3744195d66f15511622cb1006f605b6a10823227d0fa226bc500d",
         "vega_pub_key_index": 1
       },
+      "kT87/4/zccHt4COvdqheluey/jddz8Lq0lCVeUldB/g=": {
+        "avatar_url": "https://www.gravatar.com/avatar/24ni6mgkl0rnop8a5aq6arhcxgb7jso5?d=identicon",
+        "country": "EX",
+        "ethereum_address": "0xcD0Ff2FbFd38dc6BDB6535585B64712AF699505C",
+        "id": "3bf2bf7d7ebedc5ccaf69de01fc7dc5d603944bc8c15318483a0ab4dfae5abbd",
+        "info_url": "https://en.wikipedia.org/wiki/Cannabinodiol",
+        "name": "perplexed-shirt",
+        "tm_pub_key": "kT87/4/zccHt4COvdqheluey/jddz8Lq0lCVeUldB/g=",
+        "vega_pub_key": "ee567f433826797e86bcc42ce0b59be3162a660a82014df11e9eaa4318518b56",
+        "vega_pub_key_index": 1
+      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308171053",
+  "chain_id": "vega-devnet1-202308171354",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-17T10:53:41.239255887Z",
+  "genesis_time": "2023-08-17T13:54:24.105329545Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "2AB82270BB766324A9C404BAB52FCB4176CE40F1",
-      "name": "better-dress",
+      "address": "4714B39F8F56AB43856829B0E27D5420300B33D5",
+      "name": "perplexed-shirt",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "D50/i5qLZ2f4nq0xP4VRToIehhLMZ7j1xqHyjt2cc4g="
+        "value": "kT87/4/zccHt4COvdqheluey/jddz8Lq0lCVeUldB/g="
       }
     }
   ]
