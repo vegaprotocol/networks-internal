@@ -271,6 +271,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "D50/i5qLZ2f4nq0xP4VRToIehhLMZ7j1xqHyjt2cc4g=": {
+        "avatar_url": "https://www.gravatar.com/avatar/78cv8m6cvj91c22jb5qia0o92q48e6qm?d=identicon",
+        "country": "GN",
+        "ethereum_address": "0x1ADAf1E28C1F391F9BE1e301E7335292fFdf3791",
+        "id": "66888f684be920d01541ae220a67f3068eaf69b8b219e6c2af4e58f5e1290aad",
+        "info_url": "https://en.wikipedia.org/wiki/Batcher_Opera_House_Block",
+        "name": "better-dress",
+        "tm_pub_key": "D50/i5qLZ2f4nq0xP4VRToIehhLMZ7j1xqHyjt2cc4g=",
+        "vega_pub_key": "ffac74eef254c62b4958969c814d2ad55017a337d348dceae211e496c557a31d",
+        "vega_pub_key_index": 1
+      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -304,17 +315,6 @@
         "vega_pub_key": "c35952d665c3744195d66f15511622cb1006f605b6a10823227d0fa226bc500d",
         "vega_pub_key_index": 1
       },
-      "jprRpqiy5x9vAL1kSmT/JJyEefRw3GNV2RWO95qNEcc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ul3302i76904xuwdfyhn5z9w8huwj742?d=identicon",
-        "country": "PJ",
-        "ethereum_address": "0xA8e87eFE890c45A3e0c0d64137E1eAd58f4e1862",
-        "id": "f0e21b89216f7d81be22699d830237f60540825b830bbddba66e586466508607",
-        "info_url": "https://en.wikipedia.org/wiki/Christopher_Tadgell",
-        "name": "adorable-music",
-        "tm_pub_key": "jprRpqiy5x9vAL1kSmT/JJyEefRw3GNV2RWO95qNEcc=",
-        "vega_pub_key": "076901b3635f0a96232a4710220c5cc47043624f1b232855182de02d2f1df0de",
-        "vega_pub_key_index": 1
-      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308170949",
+  "chain_id": "vega-devnet1-202308171025",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-17T09:49:23.887831176Z",
+  "genesis_time": "2023-08-17T10:25:10.284741899Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "16078A2D80A7B214ACBF392BC6FE2A8A5A86181C",
-      "name": "adorable-music",
+      "address": "2AB82270BB766324A9C404BAB52FCB4176CE40F1",
+      "name": "better-dress",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "jprRpqiy5x9vAL1kSmT/JJyEefRw3GNV2RWO95qNEcc="
+        "value": "D50/i5qLZ2f4nq0xP4VRToIehhLMZ7j1xqHyjt2cc4g="
       }
     }
   ]
