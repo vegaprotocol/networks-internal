@@ -271,6 +271,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "FqQuTAP6izRHCEv0lXI6hN1oJQuWJKN47C9kzNwCOig=": {
+        "avatar_url": "https://www.gravatar.com/avatar/dd65lqf1v448wqbm2rlf1r5m9qavl5xe?d=identicon",
+        "country": "NM",
+        "ethereum_address": "0x62B28d4139f7e205e8ef2880451c073c7467732E",
+        "id": "423940530d2b29a6ae8d3bd3d3ead95cbd0e386a8fa0a99101d1552620083731",
+        "info_url": "https://en.wikipedia.org/wiki/Jamb,_Parbhani",
+        "name": "brave-cloud",
+        "tm_pub_key": "FqQuTAP6izRHCEv0lXI6hN1oJQuWJKN47C9kzNwCOig=",
+        "vega_pub_key": "79b14315d3e04a138120effab9dff075018ac06ac526226285d55a0cbd48ea01",
+        "vega_pub_key_index": 1
+      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -304,17 +315,6 @@
         "vega_pub_key": "c35952d665c3744195d66f15511622cb1006f605b6a10823227d0fa226bc500d",
         "vega_pub_key_index": 1
       },
-      "lIKnuc0kae/1xo4kux3US1/NWwuouhKVoh+ge3vLXNM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/96krj3jblkyibot5qc8eut9uns2ryllk?d=identicon",
-        "country": "LD",
-        "ethereum_address": "0x0A3A6fECAD763E1e7B7A341C567AB7c5eEe0E4cF",
-        "id": "bd1bc634d68780118f5f595330ef841e15b2ba9b3218cf7078e5963cc1b43c52",
-        "info_url": "https://en.wikipedia.org/wiki/Juan_Bustabad",
-        "name": "tender-hat",
-        "tm_pub_key": "lIKnuc0kae/1xo4kux3US1/NWwuouhKVoh+ge3vLXNM=",
-        "vega_pub_key": "975c0155ee67f87c0733c0400765db4a3e567781ef9a39ba180d3846cafa0a2b",
-        "vega_pub_key_index": 1
-      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308171806",
+  "chain_id": "vega-devnet1-202308180806",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-17T18:06:56.479249409Z",
+  "genesis_time": "2023-08-18T08:06:38.988883671Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "4D5677DA29A0DA6313685BA641A9B5694DCEC9B3",
-      "name": "tender-hat",
+      "address": "8F17155C998F02212E1D3B344081DF8BC52AEB22",
+      "name": "brave-cloud",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "lIKnuc0kae/1xo4kux3US1/NWwuouhKVoh+ge3vLXNM="
+        "value": "FqQuTAP6izRHCEv0lXI6hN1oJQuWJKN47C9kzNwCOig="
       }
     }
   ]
