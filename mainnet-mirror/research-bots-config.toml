@@ -1,11 +1,11 @@
 network_config_file = "https://raw.githubusercontent.com/vegaprotocol/networks-internal/main/mainnet-mirror/vegawallet-mainnet-mirror.toml"
 debug = false
-work_dir = "/work-dir"
+work_dir = "./network"
 
 
 [healthcheck]
 interface = "0.0.0.0"
-port = 80
+port = 8080
 
 [vegawallet]
 version = "v0.71.6"
@@ -15,8 +15,8 @@ download_wallet_binary = true
 wallet_name = "vegamarketsim"
 network = "mainnet-mirror"
 binary = "vegawallet" # this will be used when download_wallet_binary = False
-home = "/wallethome"
-passphrase_file = "/work-dir/passphrase.txt"
+home = "./wallethome"
+passphrase_file = "./assets/passphrase.txt"
 
 [scenario.btcusdt_230930]
     market_name = "BTC/USDT expiry 2023 Sept 30th"
