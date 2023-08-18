@@ -9,7 +9,7 @@ TokenExpiry = "168h0m0s"
 [API]
 
   [API.GRPC]
-    Hosts = ["api.mainnet-mirror.vega.rocks:3007","n06.mainnet-mirror.vega.rocks:3007"]
+    Hosts = ["api.mainnet-mirror.vega.rocks:3007","api.n06.mainnet-mirror.vega.rocks:3007"]
     Retries = 5
 
   [API.GraphQL]
