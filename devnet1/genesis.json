@@ -271,15 +271,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "FqQuTAP6izRHCEv0lXI6hN1oJQuWJKN47C9kzNwCOig=": {
-        "avatar_url": "https://www.gravatar.com/avatar/dd65lqf1v448wqbm2rlf1r5m9qavl5xe?d=identicon",
-        "country": "NM",
-        "ethereum_address": "0x62B28d4139f7e205e8ef2880451c073c7467732E",
-        "id": "423940530d2b29a6ae8d3bd3d3ead95cbd0e386a8fa0a99101d1552620083731",
-        "info_url": "https://en.wikipedia.org/wiki/Jamb,_Parbhani",
-        "name": "brave-cloud",
-        "tm_pub_key": "FqQuTAP6izRHCEv0lXI6hN1oJQuWJKN47C9kzNwCOig=",
-        "vega_pub_key": "79b14315d3e04a138120effab9dff075018ac06ac526226285d55a0cbd48ea01",
+      "JqR1ussxjBm+9eH0gkk3oa0q+0G8bA2u06MuBNeT4oY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/gqb12n6bv2ghbfdks5kn9mzk12kbrahq?d=identicon",
+        "country": "NL",
+        "ethereum_address": "0xC852FEFbC05C04EC3473B2055Eb385be0A5fa282",
+        "id": "1212fa53f64e6ab1964a444d08e8dc1266e55306f6233640e4300798cb8ca7d8",
+        "info_url": "https://en.wikipedia.org/wiki/Almuradiel",
+        "name": "gifted-cat",
+        "tm_pub_key": "JqR1ussxjBm+9eH0gkk3oa0q+0G8bA2u06MuBNeT4oY=",
+        "vega_pub_key": "09e8ad75db7f2599275379db5df610ff8d671c46ba3614e97c023a1ca63e6370",
         "vega_pub_key_index": 1
       },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308180841",
+  "chain_id": "vega-devnet1-202308181212",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-18T08:41:23.764465992Z",
+  "genesis_time": "2023-08-18T12:12:57.252924938Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "8F17155C998F02212E1D3B344081DF8BC52AEB22",
-      "name": "brave-cloud",
+      "address": "F54426A657A8F174DFB063FF299BE0969A91A941",
+      "name": "gifted-cat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "FqQuTAP6izRHCEv0lXI6hN1oJQuWJKN47C9kzNwCOig="
+        "value": "JqR1ussxjBm+9eH0gkk3oa0q+0G8bA2u06MuBNeT4oY="
       }
     }
   ]
