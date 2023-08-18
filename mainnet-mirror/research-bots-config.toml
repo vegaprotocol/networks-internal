@@ -1,0 +1,150 @@
+network_config_file = "https://raw.githubusercontent.com/vegaprotocol/networks-internal/main/mainnet-mirror/vegawallet-mainnet-mirror.toml"
+debug = false
+work_dir = "/work-dir"
+
+
+[healthcheck]
+interface = "0.0.0.0"
+port = 80
+
+[vegawallet]
+version = "v0.71.6"
+repository = "vegaprotocol/vega"
+download_wallet_binary = true
+
+wallet_name = "vegamarketsim"
+network = "mainnet-mirror"
+binary = "vegawallet" # this will be used when download_wallet_binary = False
+home = "/wallethome"
+passphrase_file = "/work-dir/passphrase.txt"
+
+[scenario.btcusdt_230930]
+    market_name = "BTC/USDT expiry 2023 Sept 30th"
+    biance_code = "BTCDAI"
+    step_length_seconds = 3
+    [scenario.btcusdt_230930.market_manager_args]
+        market_name = "BTC/USDT expiry 2023 Sept 30th"
+        market_code = "BTC/USDT-230930"
+        asset_name = "USDTT"
+        adp = 6
+        mdp = 4
+        pdp = 0
+    [scenario.btcusdt_230930.market_maker_args]
+        market_kappa = 0.15
+        market_order_arrival_rate = 100
+        order_kappa = 0.15
+        order_size = 1
+        order_levels = 25
+        order_spacing = 1
+        order_clipping = 10000
+        inventory_lower_boundary = -3
+        inventory_upper_boundary = 3
+        fee_amount = 0.0001
+        commitment_amount = 800000
+        initial_mint = 200000
+    [scenario.btcusdt_230930.auction_trader_args]
+        initial_volume = 0.001
+        initial_mint = 10000
+    [scenario.btcusdt_230930.random_trader_args]
+        order_intensity = [5, 5, 5, 5, 5, 5]
+        order_volume = [0.01, 0.1, 1.0, 0.01, 0.1, 1.0]
+        step_bias = [0.333, 0.012, 0.003, 0.333, 0.012, 0.003]
+        initial_mint = 1000000
+    [scenario.btcusdt_230930.sensitive_trader_args]
+        scale = [10, 10, 10, 10, 10, 10]
+        max_order_size = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
+        initial_mint = 10000
+    [scenario.btcusdt_230930.simulation_args]
+        n_steps = 360
+        granularity = "MINUTE"
+        coinbase_code = "BTC-USDT"
+        start_date = "2022-11-01 00:00:00"
+        randomise_history = false
+
+
+[scenario.ethusdt_230930]
+    market_name = "ETH/USDT expiry 2023 Sept 30th"
+    biance_code = "ETHDAI"
+    step_length_seconds = 3
+    [scenario.ethusdt_230930.market_manager_args]
+        market_name = "ETH/USDT expiry 2023 Sept 30th"
+        market_code = "ETH/USDT-230930"
+        asset_name = "USDTT"
+        adp = 6
+        mdp = 4
+        pdp = 0
+    [scenario.ethusdt_230930.market_maker_args]
+        market_kappa = 0.15
+        market_order_arrival_rate = 100
+        order_kappa = 0.15
+        order_size = 1
+        order_levels = 25
+        order_spacing = 1
+        order_clipping = 10000
+        inventory_lower_boundary = -3
+        inventory_upper_boundary = 3
+        fee_amount = 0.0001
+        commitment_amount = 400000
+        initial_mint = 200000
+    [scenario.ethusdt_230930.auction_trader_args]
+        initial_volume = 0.001
+        initial_mint = 10000
+    [scenario.ethusdt_230930.random_trader_args]
+        order_intensity = [45, 45, 45]
+        order_volume = [0.01, 0.1, 1.0]
+        step_bias = [0.333, 0.012, 0.003]
+        initial_mint = 1000000
+    [scenario.ethusdt_230930.sensitive_trader_args]
+        scale = [10, 10, 10]
+        max_order_size = [0.001, 0.01, 0.1]
+        initial_mint = 1e4
+    [scenario.ethusdt_230930.simulation_args]
+        n_steps = 360
+        granularity = "MINUTE"
+        coinbase_code = "ETH-USDT"
+        start_date = "2022-11-01 00:00:00"
+        randomise_history = false
+
+
+[scenario.linkusdt_230930]
+    market_name = "LINK/USDT expiry 2023 Sept 30th"
+    biance_code = "LINKUSDT"
+    step_length_seconds = 1
+    [scenario.linkusdt_230930.market_manager_args]
+        market_name = "LINK/USDT expiry 2023 Sept 30th"
+        market_code = "LINK/USDT-230930"
+        asset_name = "USDTT"
+        adp = 6
+        mdp = 4
+        pdp = 0
+    [scenario.linkusdt_230930.market_maker_args]
+        market_kappa = 30000
+        market_order_arrival_rate = 100
+        order_kappa = 0.15
+        order_size = 1
+        order_levels = 25
+        order_spacing = 0.001
+        order_clipping = 10000
+        inventory_lower_boundary = -3
+        inventory_upper_boundary = 3
+        fee_amount = 0.0001
+        commitment_amount = 400000
+        initial_mint = 200000
+    [scenario.linkusdt_230930.auction_trader_args]
+        initial_volume = 0.001
+        initial_mint = 10000
+    [scenario.linkusdt_230930.random_trader_args]
+        order_intensity = [5, 5, 5]
+        order_volume = [0.001, 0.01, 0.1]
+        step_bias = [0.333, 0.012, 0.003]
+        initial_mint = 1000000
+    [scenario.linkusdt_230930.sensitive_trader_args]
+        scale = [10, 10, 10]
+        max_order_size = [0.001, 0.01, 0.1]
+        initial_mint = 1e4
+    [scenario.linkusdt_230930.simulation_args]
+        n_steps = 360
+        granularity = "MINUTE"
+        coinbase_code = "LINK-USDT"
+        start_date = "2022-11-01 00:00:00"
+        randomise_history = false
