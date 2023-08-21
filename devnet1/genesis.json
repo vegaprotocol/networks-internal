@@ -271,6 +271,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "AFN8pIPwD7foMeZ0/HMoF7gJWL6e1ooaJ90LVNS0aro=": {
+        "avatar_url": "https://www.gravatar.com/avatar/5iy8jz3kyzw7xd34ucb71nby73ui06h6?d=identicon",
+        "country": "WW",
+        "ethereum_address": "0x59352156524E1b9e03400b1a9a8d9E87245DEc56",
+        "id": "b3fd2f6efa14ab4972cedcd3fba59f12938414d9065dd9a7ad14fa939b5ffa37",
+        "info_url": "https://en.wikipedia.org/wiki/Cynthia_Tse_Kimberlin",
+        "name": "quaint-burger",
+        "tm_pub_key": "AFN8pIPwD7foMeZ0/HMoF7gJWL6e1ooaJ90LVNS0aro=",
+        "vega_pub_key": "ae5cef947bcbed9063e2e7f30c0ade27a091af79540abc4c9c4f93f2939836d7",
+        "vega_pub_key_index": 1
+      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -280,17 +291,6 @@
         "name": "narrow-plant",
         "tm_pub_key": "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=",
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
-        "vega_pub_key_index": 1
-      },
-      "cCWEdrsEkAy+xiPJKe/1aoVWAx8yrw/lfFZWL6DcBr8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/14m5ta6cvri4z6v81m6fqrbr31avmb2n?d=identicon",
-        "country": "VY",
-        "ethereum_address": "0x5C791b07ee55a2Df9Fa64Fcb817A960Aa290a6c6",
-        "id": "537d947878641c924b296cb074b93454df6c4a9cdbce573a72f8ea20e1dc7e9a",
-        "info_url": "https://en.wikipedia.org/wiki/1892_Gonzaga_Blue_and_White_football_team",
-        "name": "purple-cookie",
-        "tm_pub_key": "cCWEdrsEkAy+xiPJKe/1aoVWAx8yrw/lfFZWL6DcBr8=",
-        "vega_pub_key": "59b2f1306d668380624d6b94f0d9618f0d4529b9a8a027c16f8a62b12fbb937f",
         "vega_pub_key_index": 1
       },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308181311",
+  "chain_id": "vega-devnet1-202308211151",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-18T13:11:36.285819081Z",
+  "genesis_time": "2023-08-21T11:51:12.500924171Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "C212AC8E4B370C60ED293B3ADE1E4337ED1BC443",
-      "name": "purple-cookie",
+      "address": "75D5EF7E106744178B311B7F9B62E2433B4C004E",
+      "name": "quaint-burger",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "cCWEdrsEkAy+xiPJKe/1aoVWAx8yrw/lfFZWL6DcBr8="
+        "value": "AFN8pIPwD7foMeZ0/HMoF7gJWL6e1ooaJ90LVNS0aro="
       }
     }
   ]
