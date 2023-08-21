@@ -118,25 +118,25 @@ passphrase_file = "./assets/passphrase.txt"
         mdp = 4
         pdp = 0
     [scenario.linkusdt_230930.market_maker_args]
-        market_kappa = 30000
-        market_order_arrival_rate = 100
-        order_kappa = 0.15
+        market_kappa = 1000
+        market_order_arrival_rate = 5000
+        order_kappa = 500
         order_size = 1
         order_levels = 25
-        order_spacing = 0.001
-        order_clipping = 10000
-        inventory_lower_boundary = -3
-        inventory_upper_boundary = 3
+        order_spacing = 0.0002
+        order_clipping = 20000
+        inventory_lower_boundary = -5000
+        inventory_upper_boundary = 5000
         fee_amount = 0.0001
         commitment_amount = 400000
         initial_mint = 200000
     [scenario.linkusdt_230930.auction_trader_args]
-        initial_volume = 0.001
+        initial_volume = 1
         initial_mint = 10000
     [scenario.linkusdt_230930.random_trader_args]
-        order_intensity = [5, 5, 5]
-        order_volume = [0.001, 0.01, 0.1]
-        step_bias = [0.333, 0.012, 0.003]
+        order_intensity = [100, 100, 100]
+        order_volume = [0.01, 0.01, 0.01]
+        step_bias = [0.8, 0.6, 0.4]
         initial_mint = 1000000
     [scenario.linkusdt_230930.sensitive_trader_args]
         scale = [10, 10, 10]
