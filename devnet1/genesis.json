@@ -271,6 +271,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "KRfr+1NrvWSFRglylPDwE3E6gjF3JNNL2VY7FFtF7MI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/0oidgab51ai14przl3g738zcaayusyxt?d=identicon",
+        "country": "LN",
+        "ethereum_address": "0x0a780c8BF388Eb2dCd701BBD8505A9EC4184FD0f",
+        "id": "63e1dad175c817cba634e4066f6cdf268591c293890fc417d1b556031bc306d6",
+        "info_url": "https://en.wikipedia.org/wiki/2017_Wimbledon_Championships",
+        "name": "happy-cookie",
+        "tm_pub_key": "KRfr+1NrvWSFRglylPDwE3E6gjF3JNNL2VY7FFtF7MI=",
+        "vega_pub_key": "d98c8fec3e587328366235e31bdadb4905cc4fc141eb73cae7a59ba1a8560fc1",
+        "vega_pub_key_index": 1
+      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -280,17 +291,6 @@
         "name": "narrow-plant",
         "tm_pub_key": "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=",
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
-        "vega_pub_key_index": 1
-      },
-      "d43bTXqSibAvdNA5rJWLShrWndjuBmbQKXK3DVEqdo8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/bk0idv9ki182gwfgjyid5qu876kz28rt?d=identicon",
-        "country": "PH",
-        "ethereum_address": "0xC4DFE08A47EA9B60B2f71B91DcE45E81d6942015",
-        "id": "90a5db1aedd2a56c98e1fe22110448426071215cd914cb15a943ca38468bcf20",
-        "info_url": "https://en.wikipedia.org/wiki/D%C3%A9line_Water_Aerodrome",
-        "name": "zippy-chimney",
-        "tm_pub_key": "d43bTXqSibAvdNA5rJWLShrWndjuBmbQKXK3DVEqdo8=",
-        "vega_pub_key": "a477a9eb59b30cd1bb5b2691d2386e75a2d6412641c46db62c654637f26aea29",
         "vega_pub_key_index": 1
       },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308211308",
+  "chain_id": "vega-devnet1-202308220938",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-21T13:08:56.161127405Z",
+  "genesis_time": "2023-08-22T09:38:28.172646692Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "1751BDB72B6F67589A1C827D6D82AA4B4AE544EB",
-      "name": "zippy-chimney",
+      "address": "A1676DF6F01D65E21770EDBC0F57318E760BCD9F",
+      "name": "happy-cookie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "d43bTXqSibAvdNA5rJWLShrWndjuBmbQKXK3DVEqdo8="
+        "value": "KRfr+1NrvWSFRglylPDwE3E6gjF3JNNL2VY7FFtF7MI="
       }
     }
   ]
