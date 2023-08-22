@@ -271,6 +271,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "JDqqVjs8A+QMYUFXIESAXP58W8fVh40KqJUeXJWewH8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/d6zncpf9xwem51xlf17cd0k22izw1gqf?d=identicon",
+        "country": "FN",
+        "ethereum_address": "0x14D7D4996f49014f5F65c9B5D5c8494057e0Ce59",
+        "id": "260393a8f87331b2f4ac7e925873f8f8e7624580eaa88029713eb628602fd566",
+        "info_url": "https://en.wikipedia.org/wiki/Chen_Reiss",
+        "name": "gifted-country",
+        "tm_pub_key": "JDqqVjs8A+QMYUFXIESAXP58W8fVh40KqJUeXJWewH8=",
+        "vega_pub_key": "80b304c61a74524345152231363d043a6f5355cc281b0a78f3b61bb4882403ef",
+        "vega_pub_key_index": 1
+      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -280,17 +291,6 @@
         "name": "narrow-plant",
         "tm_pub_key": "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=",
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
-        "vega_pub_key_index": 1
-      },
-      "ZQaTHzLT99w1vgenjObnyFXhxhcMKAtlKE3EQiYVce0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/9owzf31fpeu9v8jddc3i9lijj2z12v0j?d=identicon",
-        "country": "RB",
-        "ethereum_address": "0x9c0D236466Cd43B9Fb2D36Cc45550ee77443d442",
-        "id": "d25e969342f7b7c0ae53f42a0c4e869c7add0409b410b9b73cb333a14190f3e5",
-        "info_url": "https://en.wikipedia.org/wiki/National_Grand_Bank",
-        "name": "shapely-car",
-        "tm_pub_key": "ZQaTHzLT99w1vgenjObnyFXhxhcMKAtlKE3EQiYVce0=",
-        "vega_pub_key": "6c9169b64f7e6fefd5cf69c43ed8209a7dfb2c58dcb101b8f7cb9fc8f6fcf818",
         "vega_pub_key_index": 1
       },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308221150",
+  "chain_id": "vega-devnet1-202308221713",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-22T11:50:54.500962967Z",
+  "genesis_time": "2023-08-22T17:13:01.370361024Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "4614EF766B2195792BFEABCD8A362B6E55EC475F",
-      "name": "shapely-car",
+      "address": "5725D62CDFEF9829729DFB6214375D65BB6C458A",
+      "name": "gifted-country",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ZQaTHzLT99w1vgenjObnyFXhxhcMKAtlKE3EQiYVce0="
+        "value": "JDqqVjs8A+QMYUFXIESAXP58W8fVh40KqJUeXJWewH8="
       }
     }
   ]
