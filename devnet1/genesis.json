@@ -271,15 +271,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "KRfr+1NrvWSFRglylPDwE3E6gjF3JNNL2VY7FFtF7MI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/0oidgab51ai14przl3g738zcaayusyxt?d=identicon",
-        "country": "LN",
-        "ethereum_address": "0x0a780c8BF388Eb2dCd701BBD8505A9EC4184FD0f",
-        "id": "63e1dad175c817cba634e4066f6cdf268591c293890fc417d1b556031bc306d6",
-        "info_url": "https://en.wikipedia.org/wiki/2017_Wimbledon_Championships",
-        "name": "happy-cookie",
-        "tm_pub_key": "KRfr+1NrvWSFRglylPDwE3E6gjF3JNNL2VY7FFtF7MI=",
-        "vega_pub_key": "d98c8fec3e587328366235e31bdadb4905cc4fc141eb73cae7a59ba1a8560fc1",
+      "HcEeWboOCWX4gfDch6iT1sOo+gAoENhZe+buHTI9Nr4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/m3u9pr1gy0rffk5o01rrufw1a9tp52tb?d=identicon",
+        "country": "SA",
+        "ethereum_address": "0xb64ed79efDCB52086D6CBdeaAf9f1876ce3DF4c9",
+        "id": "d7991d54a0accbde09e26235b7ae619cc886edc488bcfd260fe83fd0892543f9",
+        "info_url": "https://en.wikipedia.org/wiki/F%C3%A1bio_Baptista",
+        "name": "crashing-bus",
+        "tm_pub_key": "HcEeWboOCWX4gfDch6iT1sOo+gAoENhZe+buHTI9Nr4=",
+        "vega_pub_key": "49be84101147c6c98543f0180bc14d0d3dd529a06e1cda13fe4a3278d00108a6",
         "vega_pub_key_index": 1
       },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308220938",
+  "chain_id": "vega-devnet1-202308221050",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-22T09:38:28.172646692Z",
+  "genesis_time": "2023-08-22T10:50:52.054520064Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "A1676DF6F01D65E21770EDBC0F57318E760BCD9F",
-      "name": "happy-cookie",
+      "address": "4159FBBB09427D16E413A050E763C0A159AA4E95",
+      "name": "crashing-bus",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "KRfr+1NrvWSFRglylPDwE3E6gjF3JNNL2VY7FFtF7MI="
+        "value": "HcEeWboOCWX4gfDch6iT1sOo+gAoENhZe+buHTI9Nr4="
       }
     }
   ]
