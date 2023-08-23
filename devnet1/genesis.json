@@ -271,17 +271,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "JDqqVjs8A+QMYUFXIESAXP58W8fVh40KqJUeXJWewH8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/d6zncpf9xwem51xlf17cd0k22izw1gqf?d=identicon",
-        "country": "FN",
-        "ethereum_address": "0x14D7D4996f49014f5F65c9B5D5c8494057e0Ce59",
-        "id": "260393a8f87331b2f4ac7e925873f8f8e7624580eaa88029713eb628602fd566",
-        "info_url": "https://en.wikipedia.org/wiki/Chen_Reiss",
-        "name": "gifted-country",
-        "tm_pub_key": "JDqqVjs8A+QMYUFXIESAXP58W8fVh40KqJUeXJWewH8=",
-        "vega_pub_key": "80b304c61a74524345152231363d043a6f5355cc281b0a78f3b61bb4882403ef",
-        "vega_pub_key_index": 1
-      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -325,10 +314,21 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
+      },
+      "xM2EMApqCJh6rZO6YsuYmX7pJxkVtpITC6j9m0uvujA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/5beta5cd30o5ml8s4whkbg6q6nkfhljk?d=identicon",
+        "country": "QN",
+        "ethereum_address": "0x7906DAB5958A28a116dA87aAfB12E30F994A6015",
+        "id": "49f708f07c19cb6fee8c257246be1e298f8e9c11b75f2a2a76742f0c3827ee34",
+        "info_url": "https://en.wikipedia.org/wiki/Don%27t_Want_to_Say_Goodbye",
+        "name": "cooperative-vacuum",
+        "tm_pub_key": "xM2EMApqCJh6rZO6YsuYmX7pJxkVtpITC6j9m0uvujA=",
+        "vega_pub_key": "a5207fc220d2e1a87bd3f993bd0c299cddf88ead7b4c13d36d2959dfdd0199e8",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202308221713",
+  "chain_id": "vega-devnet1-202308230738",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-22T17:13:01.370361024Z",
+  "genesis_time": "2023-08-23T07:38:36.674656452Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "5725D62CDFEF9829729DFB6214375D65BB6C458A",
-      "name": "gifted-country",
+      "address": "8AE2E2BB6444C2C7E2F77741ACA9D6ECEF450D54",
+      "name": "cooperative-vacuum",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "JDqqVjs8A+QMYUFXIESAXP58W8fVh40KqJUeXJWewH8="
+        "value": "xM2EMApqCJh6rZO6YsuYmX7pJxkVtpITC6j9m0uvujA="
       }
     }
   ]
