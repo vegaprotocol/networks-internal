@@ -271,6 +271,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "6MXaIUkylJADvzPHsGwphXB7SsPDwnHM6/gZiXy/arw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/yr6aun0r2gsqa1f9zsxq311hpjug35u0?d=identicon",
+        "country": "TP",
+        "ethereum_address": "0xd639E1928c693FFbD14e515e0D2B3910cD2235F2",
+        "id": "93f9d76a78f5e381a8e27a44c32d2ca01bc58bc85e2a7ace596a924d85bc11d2",
+        "info_url": "https://en.wikipedia.org/wiki/Thomas_Gore",
+        "name": "agitated-party",
+        "tm_pub_key": "6MXaIUkylJADvzPHsGwphXB7SsPDwnHM6/gZiXy/arw=",
+        "vega_pub_key": "05cce07260d929ac60aa2021b406f0deb4a9a560d051e2e2a5afaa500658d288",
+        "vega_pub_key_index": 1
+      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -314,21 +325,10 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
-      },
-      "xM2EMApqCJh6rZO6YsuYmX7pJxkVtpITC6j9m0uvujA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/5beta5cd30o5ml8s4whkbg6q6nkfhljk?d=identicon",
-        "country": "QN",
-        "ethereum_address": "0x7906DAB5958A28a116dA87aAfB12E30F994A6015",
-        "id": "49f708f07c19cb6fee8c257246be1e298f8e9c11b75f2a2a76742f0c3827ee34",
-        "info_url": "https://en.wikipedia.org/wiki/Don%27t_Want_to_Say_Goodbye",
-        "name": "cooperative-vacuum",
-        "tm_pub_key": "xM2EMApqCJh6rZO6YsuYmX7pJxkVtpITC6j9m0uvujA=",
-        "vega_pub_key": "a5207fc220d2e1a87bd3f993bd0c299cddf88ead7b4c13d36d2959dfdd0199e8",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202308230738",
+  "chain_id": "vega-devnet1-202308230801",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-23T07:38:36.674656452Z",
+  "genesis_time": "2023-08-23T08:01:46.693418629Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "8AE2E2BB6444C2C7E2F77741ACA9D6ECEF450D54",
-      "name": "cooperative-vacuum",
+      "address": "FFDC340F1F9AF3D32BEC9DF3C23FCECA4DED8EBE",
+      "name": "agitated-party",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "xM2EMApqCJh6rZO6YsuYmX7pJxkVtpITC6j9m0uvujA="
+        "value": "6MXaIUkylJADvzPHsGwphXB7SsPDwnHM6/gZiXy/arw="
       }
     }
   ]
