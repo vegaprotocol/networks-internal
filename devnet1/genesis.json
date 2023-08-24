@@ -282,17 +282,6 @@
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
         "vega_pub_key_index": 1
       },
-      "WiU1Eo/ywYIxm9J0I5fIX0jZohoof3FML9q3eR3R/Ns=": {
-        "avatar_url": "https://www.gravatar.com/avatar/65ognhjqtuogpkibcws60o7jjyuosb3h?d=identicon",
-        "country": "SI",
-        "ethereum_address": "0x295786cFD0545Bf0603DBCB139b26afc025eD07b",
-        "id": "2cf2a505db7dd54f21ecd395198720af1d96a2814ce4ef322271cc31521c7341",
-        "info_url": "https://en.wikipedia.org/wiki/List_of_earthquakes_2021%E2%80%932030",
-        "name": "fluky-duck",
-        "tm_pub_key": "WiU1Eo/ywYIxm9J0I5fIX0jZohoof3FML9q3eR3R/Ns=",
-        "vega_pub_key": "e0c87533b26d77851c1d1bf9b03d2c559955e57ad5e90eb330c02ca4056c0255",
-        "vega_pub_key_index": 1
-      },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
         "avatar_url": "https://www.gravatar.com/avatar/z9sfw769a99015gw2zxnb0n4o57k4pch?d=identicon",
         "country": "RC",
@@ -315,6 +304,17 @@
         "vega_pub_key": "c35952d665c3744195d66f15511622cb1006f605b6a10823227d0fa226bc500d",
         "vega_pub_key_index": 1
       },
+      "lHedZhgWiRFA0hNaFXcYOi6eW1yuh1QmILy+sPjeS4M=": {
+        "avatar_url": "https://www.gravatar.com/avatar/qjuzkjjt76sbagh0iy4nhzjdby5gq289?d=identicon",
+        "country": "EJ",
+        "ethereum_address": "0xC2Bb9eD796a1C52df8Aff56A12BB50936Ac6eb06",
+        "id": "773d2080e292b4e81b3951a63648367134e581359d07b3eb0bec4e5eb5cb0489",
+        "info_url": "https://en.wikipedia.org/wiki/Panagoda_Cantonment",
+        "name": "adventurous-beach",
+        "tm_pub_key": "lHedZhgWiRFA0hNaFXcYOi6eW1yuh1QmILy+sPjeS4M=",
+        "vega_pub_key": "6dbbc5da4c185762c7c705807f1110e0da264ff85d348a9aca3461eca58473ac",
+        "vega_pub_key_index": 1
+      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308241212",
+  "chain_id": "vega-devnet1-202308241339",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-24T12:12:22.443300142Z",
+  "genesis_time": "2023-08-24T13:39:14.963007711Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "8BAE05DDE80660C209CB31664E076D226CBF11A3",
-      "name": "fluky-duck",
+      "address": "75C209EDE31C790843563CDAFB7386BC1B97607A",
+      "name": "adventurous-beach",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "WiU1Eo/ywYIxm9J0I5fIX0jZohoof3FML9q3eR3R/Ns="
+        "value": "lHedZhgWiRFA0hNaFXcYOi6eW1yuh1QmILy+sPjeS4M="
       }
     }
   ]
