@@ -304,17 +304,6 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
-      "ouPJD+wJXGZQb2XZN8AWfB2Bvdr/Ua79LyIzqbleaFM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/h23z7b6pm76dcjp8i389mr5wcdpxouud?d=identicon",
-        "country": "KA",
-        "ethereum_address": "0x07fdAD1F3f496d55E283970b3c1111F315aAa3F6",
-        "id": "260258ad2d707a10a1464bb978d4cf178cd80ef5158d96dd6db9674dcde2a0dd",
-        "info_url": "https://en.wikipedia.org/wiki/Hugh_Lawson_(British_politician)",
-        "name": "foolish-week",
-        "tm_pub_key": "ouPJD+wJXGZQb2XZN8AWfB2Bvdr/Ua79LyIzqbleaFM=",
-        "vega_pub_key": "860afc95e79344a0e325b8ca79bb7df2460989d5966324bd31dfa61d45dbe0bf",
-        "vega_pub_key_index": 1
-      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -325,10 +314,21 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
+      },
+      "xJL2v/+3ME29Em0lmygzxK4WVmJ7jfpyF1sue11pyP8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/btid8vr85oooic0mm3qsn8jomwxyafdi?d=identicon",
+        "country": "YZ",
+        "ethereum_address": "0x9aAAACe86B5f0d10EBaEa9BF5ba4CE6B79787a61",
+        "id": "1163a0cdbd3c08b5e2bba1c6abc4ede06e42126f4801e2e3268ae7158364d4e9",
+        "info_url": "https://en.wikipedia.org/wiki/Pinalia_multiflora",
+        "name": "determined-barber",
+        "tm_pub_key": "xJL2v/+3ME29Em0lmygzxK4WVmJ7jfpyF1sue11pyP8=",
+        "vega_pub_key": "5a1666cf058cf91581ae82e7c187e03c90d5c36b76afb757e5a56d0235647207",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202308241407",
+  "chain_id": "vega-devnet1-202308241803",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-24T14:07:08.127591726Z",
+  "genesis_time": "2023-08-24T18:03:00.392808791Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "F0E64894DAEDE113B3D1BD73136F599830A5E91C",
-      "name": "foolish-week",
+      "address": "EB2635DE108996F3F55A306EAD777EAEE8D9084C",
+      "name": "determined-barber",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ouPJD+wJXGZQb2XZN8AWfB2Bvdr/Ua79LyIzqbleaFM="
+        "value": "xJL2v/+3ME29Em0lmygzxK4WVmJ7jfpyF1sue11pyP8="
       }
     }
   ]
