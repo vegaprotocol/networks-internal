@@ -282,6 +282,17 @@
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
         "vega_pub_key_index": 1
       },
+      "WK5oEujKki4fPT0aSeFdF/1RB96+jvwXj7vPA3WDMuA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/u9smmjzgwcy2ermk5n21qfelnf20t6fr?d=identicon",
+        "country": "SU",
+        "ethereum_address": "0x2118eaf10e32c322F4fE3c0eB2C07aE3563E5f4A",
+        "id": "644974f40f3e5517c772d7b7c23d8297d35cb4c63ab482131b1a33163390b6a5",
+        "info_url": "https://en.wikipedia.org/wiki/Janusz_Nawrocki",
+        "name": "oppulent-pool",
+        "tm_pub_key": "WK5oEujKki4fPT0aSeFdF/1RB96+jvwXj7vPA3WDMuA=",
+        "vega_pub_key": "2c0e57de90bf3fca6c24d301b3cff905efad0e4af1bdd52c0f73a958e3c09fcf",
+        "vega_pub_key_index": 1
+      },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
         "avatar_url": "https://www.gravatar.com/avatar/z9sfw769a99015gw2zxnb0n4o57k4pch?d=identicon",
         "country": "RC",
@@ -304,17 +315,6 @@
         "vega_pub_key": "c35952d665c3744195d66f15511622cb1006f605b6a10823227d0fa226bc500d",
         "vega_pub_key_index": 1
       },
-      "ljJ41xxXAQUx25m3IleSEFST4yn2TcPPl59u7QrQ5sg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/5sbxtaejw1hvq6fwax29upr4f6t9jbj4?d=identicon",
-        "country": "LW",
-        "ethereum_address": "0x8A5640B64777ea8120Fb616b12934f1A32E1Bc21",
-        "id": "8d7bc88cb6008d7d5edb8ab07e93c604e19ae580d85dc3274941dbf0484eae96",
-        "info_url": "https://en.wikipedia.org/wiki/1956_in_French_television",
-        "name": "high-vacuum",
-        "tm_pub_key": "ljJ41xxXAQUx25m3IleSEFST4yn2TcPPl59u7QrQ5sg=",
-        "vega_pub_key": "dfc8811c19c8436397a7bb9e4ad9ff6871176c222a3c0d3465d0c23e4ac7f1fe",
-        "vega_pub_key_index": 1
-      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308240804",
+  "chain_id": "vega-devnet1-202308240906",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-24T08:04:17.110611964Z",
+  "genesis_time": "2023-08-24T09:06:22.129185609Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "C1FD5FCE91FBFC3D199ECE025B0A6E61CFA26A27",
-      "name": "high-vacuum",
+      "address": "147799667907555CBA126868DC02919CCB270B74",
+      "name": "oppulent-pool",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ljJ41xxXAQUx25m3IleSEFST4yn2TcPPl59u7QrQ5sg="
+        "value": "WK5oEujKki4fPT0aSeFdF/1RB96+jvwXj7vPA3WDMuA="
       }
     }
   ]
