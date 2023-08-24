@@ -271,6 +271,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/oapaoa6gfsgvg6f1yo5umw2fnn3thw1z?d=identicon",
+        "country": "FQ",
+        "ethereum_address": "0x54E1f11A7023364551fDE48F7C8E71A2Bf25E075",
+        "id": "cc16876bfcbc2d756d3040c0a72f95361faacc597159d7ef470dab5aefed7196",
+        "info_url": "https://en.wikipedia.org/wiki/Let%C3%ADcia_Rom%C3%A1n",
+        "name": "immense-tile",
+        "tm_pub_key": "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=",
+        "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
+        "vega_pub_key_index": 1
+      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -293,26 +304,15 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
-      "jk+pHGxbQVJRawxw17hIICBeqqKLUCNg1r5E/Aa0U4E=": {
-        "avatar_url": "https://www.gravatar.com/avatar/d6p992qmdfjp7esf91y06w451nrfcxwf?d=identicon",
-        "country": "BG",
-        "ethereum_address": "0xEFc220e0926E94Fc065B25E4B01C074F52ccAcd5",
-        "id": "59783dcc4f9085859be571a88185174b5aa1216eaa8331d193d6700c55c5b67f",
-        "info_url": "https://en.wikipedia.org/wiki/De_Klinge",
-        "name": "quizzical-bee",
-        "tm_pub_key": "jk+pHGxbQVJRawxw17hIICBeqqKLUCNg1r5E/Aa0U4E=",
-        "vega_pub_key": "c35952d665c3744195d66f15511622cb1006f605b6a10823227d0fa226bc500d",
-        "vega_pub_key_index": 1
-      },
-      "lHedZhgWiRFA0hNaFXcYOi6eW1yuh1QmILy+sPjeS4M=": {
-        "avatar_url": "https://www.gravatar.com/avatar/qjuzkjjt76sbagh0iy4nhzjdby5gq289?d=identicon",
-        "country": "EJ",
-        "ethereum_address": "0xC2Bb9eD796a1C52df8Aff56A12BB50936Ac6eb06",
-        "id": "773d2080e292b4e81b3951a63648367134e581359d07b3eb0bec4e5eb5cb0489",
-        "info_url": "https://en.wikipedia.org/wiki/Panagoda_Cantonment",
-        "name": "adventurous-beach",
-        "tm_pub_key": "lHedZhgWiRFA0hNaFXcYOi6eW1yuh1QmILy+sPjeS4M=",
-        "vega_pub_key": "6dbbc5da4c185762c7c705807f1110e0da264ff85d348a9aca3461eca58473ac",
+      "ouPJD+wJXGZQb2XZN8AWfB2Bvdr/Ua79LyIzqbleaFM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/h23z7b6pm76dcjp8i389mr5wcdpxouud?d=identicon",
+        "country": "KA",
+        "ethereum_address": "0x07fdAD1F3f496d55E283970b3c1111F315aAa3F6",
+        "id": "260258ad2d707a10a1464bb978d4cf178cd80ef5158d96dd6db9674dcde2a0dd",
+        "info_url": "https://en.wikipedia.org/wiki/Hugh_Lawson_(British_politician)",
+        "name": "foolish-week",
+        "tm_pub_key": "ouPJD+wJXGZQb2XZN8AWfB2Bvdr/Ua79LyIzqbleaFM=",
+        "vega_pub_key": "860afc95e79344a0e325b8ca79bb7df2460989d5966324bd31dfa61d45dbe0bf",
         "vega_pub_key_index": 1
       },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308241345",
+  "chain_id": "vega-devnet1-202308241407",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-24T13:45:30.627143855Z",
+  "genesis_time": "2023-08-24T14:07:08.127591726Z",
   "initial_height": "0",
   "validators": [
     {
@@ -378,21 +378,21 @@
       }
     },
     {
-      "address": "E1CEB58D6B25F2B924ED3BCFEA90A2CAEA49D500",
-      "name": "quizzical-bee",
+      "address": "9B08B3797CAE31C28ABEA9830D5C218F2846FDB3",
+      "name": "immense-tile",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "jk+pHGxbQVJRawxw17hIICBeqqKLUCNg1r5E/Aa0U4E="
+        "value": "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4="
       }
     },
     {
-      "address": "75C209EDE31C790843563CDAFB7386BC1B97607A",
-      "name": "adventurous-beach",
+      "address": "F0E64894DAEDE113B3D1BD73136F599830A5E91C",
+      "name": "foolish-week",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "lHedZhgWiRFA0hNaFXcYOi6eW1yuh1QmILy+sPjeS4M="
+        "value": "ouPJD+wJXGZQb2XZN8AWfB2Bvdr/Ua79LyIzqbleaFM="
       }
     }
   ]
