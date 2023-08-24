@@ -304,15 +304,15 @@
         "vega_pub_key": "c35952d665c3744195d66f15511622cb1006f605b6a10823227d0fa226bc500d",
         "vega_pub_key_index": 1
       },
-      "kGv/QUUACc8043Cy90ew8C1FrQTVxKdZfuzxjybV/aA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/v6590157shl5hx2f64my5n2hgon1nk56?d=identicon",
-        "country": "BB",
-        "ethereum_address": "0x46F6098F8E4f98aAc3bc76cdE1ce4eB101B8DA46",
-        "id": "6de4d88c6a1c1106373dc0fc6b394680037b7453da2ce1c2e5c9d71f22682310",
-        "info_url": "https://en.wikipedia.org/wiki/Dan_Roche",
-        "name": "funny-building",
-        "tm_pub_key": "kGv/QUUACc8043Cy90ew8C1FrQTVxKdZfuzxjybV/aA=",
-        "vega_pub_key": "76842e536399202bad37759a2624ff13a969cc116edc8ed35d5073b216d05cbd",
+      "ljJ41xxXAQUx25m3IleSEFST4yn2TcPPl59u7QrQ5sg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/5sbxtaejw1hvq6fwax29upr4f6t9jbj4?d=identicon",
+        "country": "LW",
+        "ethereum_address": "0x8A5640B64777ea8120Fb616b12934f1A32E1Bc21",
+        "id": "8d7bc88cb6008d7d5edb8ab07e93c604e19ae580d85dc3274941dbf0484eae96",
+        "info_url": "https://en.wikipedia.org/wiki/1956_in_French_television",
+        "name": "high-vacuum",
+        "tm_pub_key": "ljJ41xxXAQUx25m3IleSEFST4yn2TcPPl59u7QrQ5sg=",
+        "vega_pub_key": "dfc8811c19c8436397a7bb9e4ad9ff6871176c222a3c0d3465d0c23e4ac7f1fe",
         "vega_pub_key_index": 1
       },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308231529",
+  "chain_id": "vega-devnet1-202308240804",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-23T15:29:28.957891994Z",
+  "genesis_time": "2023-08-24T08:04:17.110611964Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "5C65AC603805094D9BF1FD5514FCD27F0FAD8781",
-      "name": "funny-building",
+      "address": "C1FD5FCE91FBFC3D199ECE025B0A6E61CFA26A27",
+      "name": "high-vacuum",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "kGv/QUUACc8043Cy90ew8C1FrQTVxKdZfuzxjybV/aA="
+        "value": "ljJ41xxXAQUx25m3IleSEFST4yn2TcPPl59u7QrQ5sg="
       }
     }
   ]
