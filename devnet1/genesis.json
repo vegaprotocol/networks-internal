@@ -271,17 +271,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "7R3YrAeMcDVcxcFSFOt1IQwaNp/m1+RtehCyecdHQ+M=": {
-        "avatar_url": "https://www.gravatar.com/avatar/vq52nhltoa79awv7f99e5i1zca97lj3y?d=identicon",
-        "country": "NE",
-        "ethereum_address": "0x73534C5934A7C99af78A2a35BAc323a4AA6bA3B6",
-        "id": "b4872e19cf03cbc28f6750f133f58e2c59d964685aa47866feaeeb8b6fed6693",
-        "info_url": "https://en.wikipedia.org/wiki/Fatoumata_Camara_(wrestler)",
-        "name": "oppulent-doctor",
-        "tm_pub_key": "7R3YrAeMcDVcxcFSFOt1IQwaNp/m1+RtehCyecdHQ+M=",
-        "vega_pub_key": "dd38fb9afad826ec8625120e2a2f830e9680072614d83b0fbb4bd4d6e25bfa27",
-        "vega_pub_key_index": 1
-      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -315,6 +304,17 @@
         "vega_pub_key": "c35952d665c3744195d66f15511622cb1006f605b6a10823227d0fa226bc500d",
         "vega_pub_key_index": 1
       },
+      "lcljsUVqJZixnD4wFHysK6itm1NXzhBWMMG4L5vSuO4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/snlfrml4wil3lmxdrxdrizfqamcqd8nr?d=identicon",
+        "country": "OW",
+        "ethereum_address": "0xb171D2b668AdCb6F65812148ce788F70DF949Cc0",
+        "id": "01f06d14c57cb735a7621da472cb6f9f3efcad6c4600bb77134be71df5cc4a56",
+        "info_url": "https://en.wikipedia.org/wiki/John_Callahan_(wrestler)",
+        "name": "extensive-day",
+        "tm_pub_key": "lcljsUVqJZixnD4wFHysK6itm1NXzhBWMMG4L5vSuO4=",
+        "vega_pub_key": "2bd2eb63ffa55d89220e1933d91e034abfa4c70659887e230b0425e8eb8e93d7",
+        "vega_pub_key_index": 1
+      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308241013",
+  "chain_id": "vega-devnet1-202308241115",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-24T10:13:21.924904049Z",
+  "genesis_time": "2023-08-24T11:15:44.622604327Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "F5ACA438085F84CB7C3F09E0D275700F9F9E1A4D",
-      "name": "oppulent-doctor",
+      "address": "4B7DE6FB35DAC66815A5B1EE9EEE471B76095163",
+      "name": "extensive-day",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "7R3YrAeMcDVcxcFSFOt1IQwaNp/m1+RtehCyecdHQ+M="
+        "value": "lcljsUVqJZixnD4wFHysK6itm1NXzhBWMMG4L5vSuO4="
       }
     }
   ]
