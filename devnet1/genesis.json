@@ -271,6 +271,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "7R3YrAeMcDVcxcFSFOt1IQwaNp/m1+RtehCyecdHQ+M=": {
+        "avatar_url": "https://www.gravatar.com/avatar/vq52nhltoa79awv7f99e5i1zca97lj3y?d=identicon",
+        "country": "NE",
+        "ethereum_address": "0x73534C5934A7C99af78A2a35BAc323a4AA6bA3B6",
+        "id": "b4872e19cf03cbc28f6750f133f58e2c59d964685aa47866feaeeb8b6fed6693",
+        "info_url": "https://en.wikipedia.org/wiki/Fatoumata_Camara_(wrestler)",
+        "name": "oppulent-doctor",
+        "tm_pub_key": "7R3YrAeMcDVcxcFSFOt1IQwaNp/m1+RtehCyecdHQ+M=",
+        "vega_pub_key": "dd38fb9afad826ec8625120e2a2f830e9680072614d83b0fbb4bd4d6e25bfa27",
+        "vega_pub_key_index": 1
+      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -280,17 +291,6 @@
         "name": "narrow-plant",
         "tm_pub_key": "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=",
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
-        "vega_pub_key_index": 1
-      },
-      "WK5oEujKki4fPT0aSeFdF/1RB96+jvwXj7vPA3WDMuA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/u9smmjzgwcy2ermk5n21qfelnf20t6fr?d=identicon",
-        "country": "SU",
-        "ethereum_address": "0x2118eaf10e32c322F4fE3c0eB2C07aE3563E5f4A",
-        "id": "644974f40f3e5517c772d7b7c23d8297d35cb4c63ab482131b1a33163390b6a5",
-        "info_url": "https://en.wikipedia.org/wiki/Janusz_Nawrocki",
-        "name": "oppulent-pool",
-        "tm_pub_key": "WK5oEujKki4fPT0aSeFdF/1RB96+jvwXj7vPA3WDMuA=",
-        "vega_pub_key": "2c0e57de90bf3fca6c24d301b3cff905efad0e4af1bdd52c0f73a958e3c09fcf",
         "vega_pub_key_index": 1
       },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308240906",
+  "chain_id": "vega-devnet1-202308241013",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-24T09:06:22.129185609Z",
+  "genesis_time": "2023-08-24T10:13:21.924904049Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "147799667907555CBA126868DC02919CCB270B74",
-      "name": "oppulent-pool",
+      "address": "F5ACA438085F84CB7C3F09E0D275700F9F9E1A4D",
+      "name": "oppulent-doctor",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "WK5oEujKki4fPT0aSeFdF/1RB96+jvwXj7vPA3WDMuA="
+        "value": "7R3YrAeMcDVcxcFSFOt1IQwaNp/m1+RtehCyecdHQ+M="
       }
     }
   ]
