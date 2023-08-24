@@ -282,6 +282,17 @@
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
         "vega_pub_key_index": 1
       },
+      "WiU1Eo/ywYIxm9J0I5fIX0jZohoof3FML9q3eR3R/Ns=": {
+        "avatar_url": "https://www.gravatar.com/avatar/65ognhjqtuogpkibcws60o7jjyuosb3h?d=identicon",
+        "country": "SI",
+        "ethereum_address": "0x295786cFD0545Bf0603DBCB139b26afc025eD07b",
+        "id": "2cf2a505db7dd54f21ecd395198720af1d96a2814ce4ef322271cc31521c7341",
+        "info_url": "https://en.wikipedia.org/wiki/List_of_earthquakes_2021%E2%80%932030",
+        "name": "fluky-duck",
+        "tm_pub_key": "WiU1Eo/ywYIxm9J0I5fIX0jZohoof3FML9q3eR3R/Ns=",
+        "vega_pub_key": "e0c87533b26d77851c1d1bf9b03d2c559955e57ad5e90eb330c02ca4056c0255",
+        "vega_pub_key_index": 1
+      },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
         "avatar_url": "https://www.gravatar.com/avatar/z9sfw769a99015gw2zxnb0n4o57k4pch?d=identicon",
         "country": "RC",
@@ -304,17 +315,6 @@
         "vega_pub_key": "c35952d665c3744195d66f15511622cb1006f605b6a10823227d0fa226bc500d",
         "vega_pub_key_index": 1
       },
-      "lcljsUVqJZixnD4wFHysK6itm1NXzhBWMMG4L5vSuO4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/snlfrml4wil3lmxdrxdrizfqamcqd8nr?d=identicon",
-        "country": "OW",
-        "ethereum_address": "0xb171D2b668AdCb6F65812148ce788F70DF949Cc0",
-        "id": "01f06d14c57cb735a7621da472cb6f9f3efcad6c4600bb77134be71df5cc4a56",
-        "info_url": "https://en.wikipedia.org/wiki/John_Callahan_(wrestler)",
-        "name": "extensive-day",
-        "tm_pub_key": "lcljsUVqJZixnD4wFHysK6itm1NXzhBWMMG4L5vSuO4=",
-        "vega_pub_key": "2bd2eb63ffa55d89220e1933d91e034abfa4c70659887e230b0425e8eb8e93d7",
-        "vega_pub_key_index": 1
-      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308241115",
+  "chain_id": "vega-devnet1-202308241212",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-24T11:15:44.622604327Z",
+  "genesis_time": "2023-08-24T12:12:22.443300142Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "4B7DE6FB35DAC66815A5B1EE9EEE471B76095163",
-      "name": "extensive-day",
+      "address": "8BAE05DDE80660C209CB31664E076D226CBF11A3",
+      "name": "fluky-duck",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "lcljsUVqJZixnD4wFHysK6itm1NXzhBWMMG4L5vSuO4="
+        "value": "WiU1Eo/ywYIxm9J0I5fIX0jZohoof3FML9q3eR3R/Ns="
       }
     }
   ]
