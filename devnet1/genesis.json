@@ -293,17 +293,6 @@
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
         "vega_pub_key_index": 1
       },
-      "X0GmO4fbHkF2oB2pDUNf7VHO+PphTNEkDoHOilURsD0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/t96qn56xx0d1oubrjof4emn1jyasfmpd?d=identicon",
-        "country": "BJ",
-        "ethereum_address": "0x3EbceD63E11763008DECd7Fec1229ebFeEdEb8fF",
-        "id": "f7b560fd673c552e3cdb48e4505111ccf12a991852366f934fe65d356a6644c2",
-        "info_url": "https://en.wikipedia.org/wiki/Abbas_Zaryab",
-        "name": "tricky-music",
-        "tm_pub_key": "X0GmO4fbHkF2oB2pDUNf7VHO+PphTNEkDoHOilURsD0=",
-        "vega_pub_key": "a4f6226972d2ce0f82d3e71d9f6c12261e2a758e17a311dd2c84d305872fcd4b",
-        "vega_pub_key_index": 1
-      },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
         "avatar_url": "https://www.gravatar.com/avatar/z9sfw769a99015gw2zxnb0n4o57k4pch?d=identicon",
         "country": "RC",
@@ -313,6 +302,17 @@
         "name": "unkempt-mango",
         "tm_pub_key": "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=",
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
+        "vega_pub_key_index": 1
+      },
+      "n4zj2660YURJIPaJBmiEZ0YRP76VrIMW0zCd8KtD8UU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/bwh2r8wrw5bfxeqstuegm08lwbeg891r?d=identicon",
+        "country": "TG",
+        "ethereum_address": "0x418e2FB8975eC8213c8E24d510278Aa0182A113a",
+        "id": "016922e7d56572b6499673f15733c65646a89bdac743e7628d37dc234c96149a",
+        "info_url": "https://en.wikipedia.org/wiki/Cherthala_Assembly_constituency",
+        "name": "condescending-pen",
+        "tm_pub_key": "n4zj2660YURJIPaJBmiEZ0YRP76VrIMW0zCd8KtD8UU=",
+        "vega_pub_key": "63e01f432a8b2efd03b2cd3d637b8e1f79bf03b02e551aea0fed6aa9925c24c3",
         "vega_pub_key_index": 1
       },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308251226",
+  "chain_id": "vega-devnet1-202308251335",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-25T12:26:10.855889409Z",
+  "genesis_time": "2023-08-25T13:35:10.652423266Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "C01D4EA4FFB1B9208C8D0282A8C2D7C9DA4803DF",
-      "name": "tricky-music",
+      "address": "963A146CBF2417427781BB0E5B4C6E089CE92C02",
+      "name": "condescending-pen",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "X0GmO4fbHkF2oB2pDUNf7VHO+PphTNEkDoHOilURsD0="
+        "value": "n4zj2660YURJIPaJBmiEZ0YRP76VrIMW0zCd8KtD8UU="
       }
     }
   ]
