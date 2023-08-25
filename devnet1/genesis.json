@@ -293,6 +293,17 @@
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
         "vega_pub_key_index": 1
       },
+      "X0GmO4fbHkF2oB2pDUNf7VHO+PphTNEkDoHOilURsD0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/t96qn56xx0d1oubrjof4emn1jyasfmpd?d=identicon",
+        "country": "BJ",
+        "ethereum_address": "0x3EbceD63E11763008DECd7Fec1229ebFeEdEb8fF",
+        "id": "f7b560fd673c552e3cdb48e4505111ccf12a991852366f934fe65d356a6644c2",
+        "info_url": "https://en.wikipedia.org/wiki/Abbas_Zaryab",
+        "name": "tricky-music",
+        "tm_pub_key": "X0GmO4fbHkF2oB2pDUNf7VHO+PphTNEkDoHOilURsD0=",
+        "vega_pub_key": "a4f6226972d2ce0f82d3e71d9f6c12261e2a758e17a311dd2c84d305872fcd4b",
+        "vega_pub_key_index": 1
+      },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
         "avatar_url": "https://www.gravatar.com/avatar/z9sfw769a99015gw2zxnb0n4o57k4pch?d=identicon",
         "country": "RC",
@@ -314,21 +325,10 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
-      },
-      "xJL2v/+3ME29Em0lmygzxK4WVmJ7jfpyF1sue11pyP8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/btid8vr85oooic0mm3qsn8jomwxyafdi?d=identicon",
-        "country": "YZ",
-        "ethereum_address": "0x9aAAACe86B5f0d10EBaEa9BF5ba4CE6B79787a61",
-        "id": "1163a0cdbd3c08b5e2bba1c6abc4ede06e42126f4801e2e3268ae7158364d4e9",
-        "info_url": "https://en.wikipedia.org/wiki/Pinalia_multiflora",
-        "name": "determined-barber",
-        "tm_pub_key": "xJL2v/+3ME29Em0lmygzxK4WVmJ7jfpyF1sue11pyP8=",
-        "vega_pub_key": "5a1666cf058cf91581ae82e7c187e03c90d5c36b76afb757e5a56d0235647207",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202308241803",
+  "chain_id": "vega-devnet1-202308251226",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-24T18:03:00.392808791Z",
+  "genesis_time": "2023-08-25T12:26:10.855889409Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "EB2635DE108996F3F55A306EAD777EAEE8D9084C",
-      "name": "determined-barber",
+      "address": "C01D4EA4FFB1B9208C8D0282A8C2D7C9DA4803DF",
+      "name": "tricky-music",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "xJL2v/+3ME29Em0lmygzxK4WVmJ7jfpyF1sue11pyP8="
+        "value": "X0GmO4fbHkF2oB2pDUNf7VHO+PphTNEkDoHOilURsD0="
       }
     }
   ]
