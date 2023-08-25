@@ -271,6 +271,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "2zP2fq9kb2kAK+FNBcBUy8U1c77w7UhlZZw2EVyRVZQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/d523l6p02pro4fv33ch7cx6mt14xjlx8?d=identicon",
+        "country": "FK",
+        "ethereum_address": "0x0f64f271E4c7b0e94376C4703E948A8eADC322e9",
+        "id": "3ea957667412694771d5a0810c0b56149dfda3bf2a56a6f05bba774e059bb64c",
+        "info_url": "https://en.wikipedia.org/wiki/List_of_people_on_the_postage_stamps_of_Ireland",
+        "name": "skinny-cookie",
+        "tm_pub_key": "2zP2fq9kb2kAK+FNBcBUy8U1c77w7UhlZZw2EVyRVZQ=",
+        "vega_pub_key": "3850f07d0c5d9a05e63f80940d1c41a7c78984d0ed3703efbe37edec9fa87ac6",
+        "vega_pub_key_index": 1
+      },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
         "avatar_url": "https://www.gravatar.com/avatar/oapaoa6gfsgvg6f1yo5umw2fnn3thw1z?d=identicon",
         "country": "FQ",
@@ -304,17 +315,6 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
-      "n4zj2660YURJIPaJBmiEZ0YRP76VrIMW0zCd8KtD8UU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/bwh2r8wrw5bfxeqstuegm08lwbeg891r?d=identicon",
-        "country": "TG",
-        "ethereum_address": "0x418e2FB8975eC8213c8E24d510278Aa0182A113a",
-        "id": "016922e7d56572b6499673f15733c65646a89bdac743e7628d37dc234c96149a",
-        "info_url": "https://en.wikipedia.org/wiki/Cherthala_Assembly_constituency",
-        "name": "condescending-pen",
-        "tm_pub_key": "n4zj2660YURJIPaJBmiEZ0YRP76VrIMW0zCd8KtD8UU=",
-        "vega_pub_key": "63e01f432a8b2efd03b2cd3d637b8e1f79bf03b02e551aea0fed6aa9925c24c3",
-        "vega_pub_key_index": 1
-      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308251335",
+  "chain_id": "vega-devnet1-202308251549",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-25T13:35:10.652423266Z",
+  "genesis_time": "2023-08-25T15:49:42.758897441Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "963A146CBF2417427781BB0E5B4C6E089CE92C02",
-      "name": "condescending-pen",
+      "address": "3647B0B4548C52413F4015A52BC975667AF89541",
+      "name": "skinny-cookie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "n4zj2660YURJIPaJBmiEZ0YRP76VrIMW0zCd8KtD8UU="
+        "value": "2zP2fq9kb2kAK+FNBcBUy8U1c77w7UhlZZw2EVyRVZQ="
       }
     }
   ]
