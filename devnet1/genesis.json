@@ -271,15 +271,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "48IJIb+dV85Dwp4M5ws4YWH5qCGtOo+XDP2P8mHSBtk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/qwjrpx2xzy4sggx1bz3w5z2fnvty2raw?d=identicon",
-        "country": "JO",
-        "ethereum_address": "0xCba5Faec5CDb109d51812Cf4dA5B12f6C27a22AD",
-        "id": "c15c2112609b51af814f0c883fc8b9c439362f0dcf5a4b6089abca8ef0c1e0b9",
-        "info_url": "https://en.wikipedia.org/wiki/List_of_leaders_of_Red_Hat",
-        "name": "impressionable-doctor",
-        "tm_pub_key": "48IJIb+dV85Dwp4M5ws4YWH5qCGtOo+XDP2P8mHSBtk=",
-        "vega_pub_key": "55ed11eb9c199b8fece95c5fa794391ffbbdcabd10ccae91153b4e41a8ca5ed7",
+      "1PtGpNqbCZ2bWwCH03ZFClBbVTZvWvw/V/tQC1I+53M=": {
+        "avatar_url": "https://www.gravatar.com/avatar/fjrgqrfjopwvnzhg4hr4x7fggih52q1a?d=identicon",
+        "country": "GT",
+        "ethereum_address": "0x6E7Fcc1f7fF53d62291406270ca1182b2f86C4f5",
+        "id": "fdbbdf76ba9977118a8d9e477eacff8b9b5832972f6d7ae40af0fc77857ec2a1",
+        "info_url": "https://en.wikipedia.org/wiki/CRMP1",
+        "name": "narrow-fan",
+        "tm_pub_key": "1PtGpNqbCZ2bWwCH03ZFClBbVTZvWvw/V/tQC1I+53M=",
+        "vega_pub_key": "d07a26bc16f0c0a1159e41f7cafd992f29a8444d33e89936c4ab08f60b98dae0",
         "vega_pub_key_index": 1
       },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308260642",
+  "chain_id": "vega-devnet1-202308261102",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-26T06:42:02.550049961Z",
+  "genesis_time": "2023-08-26T11:02:55.20945133Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "1CA2F2C5E4A1394889C0818694091E8E6474ACD6",
-      "name": "impressionable-doctor",
+      "address": "133C586BCD7339615FF2C0528C91B5F930BD4976",
+      "name": "narrow-fan",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "48IJIb+dV85Dwp4M5ws4YWH5qCGtOo+XDP2P8mHSBtk="
+        "value": "1PtGpNqbCZ2bWwCH03ZFClBbVTZvWvw/V/tQC1I+53M="
       }
     }
   ]
