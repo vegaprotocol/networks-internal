@@ -271,15 +271,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "2zP2fq9kb2kAK+FNBcBUy8U1c77w7UhlZZw2EVyRVZQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/d523l6p02pro4fv33ch7cx6mt14xjlx8?d=identicon",
-        "country": "FK",
-        "ethereum_address": "0x0f64f271E4c7b0e94376C4703E948A8eADC322e9",
-        "id": "3ea957667412694771d5a0810c0b56149dfda3bf2a56a6f05bba774e059bb64c",
-        "info_url": "https://en.wikipedia.org/wiki/List_of_people_on_the_postage_stamps_of_Ireland",
-        "name": "skinny-cookie",
-        "tm_pub_key": "2zP2fq9kb2kAK+FNBcBUy8U1c77w7UhlZZw2EVyRVZQ=",
-        "vega_pub_key": "3850f07d0c5d9a05e63f80940d1c41a7c78984d0ed3703efbe37edec9fa87ac6",
+      "48IJIb+dV85Dwp4M5ws4YWH5qCGtOo+XDP2P8mHSBtk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/qwjrpx2xzy4sggx1bz3w5z2fnvty2raw?d=identicon",
+        "country": "JO",
+        "ethereum_address": "0xCba5Faec5CDb109d51812Cf4dA5B12f6C27a22AD",
+        "id": "c15c2112609b51af814f0c883fc8b9c439362f0dcf5a4b6089abca8ef0c1e0b9",
+        "info_url": "https://en.wikipedia.org/wiki/List_of_leaders_of_Red_Hat",
+        "name": "impressionable-doctor",
+        "tm_pub_key": "48IJIb+dV85Dwp4M5ws4YWH5qCGtOo+XDP2P8mHSBtk=",
+        "vega_pub_key": "55ed11eb9c199b8fece95c5fa794391ffbbdcabd10ccae91153b4e41a8ca5ed7",
         "vega_pub_key_index": 1
       },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308251549",
+  "chain_id": "vega-devnet1-202308260642",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-25T15:49:42.758897441Z",
+  "genesis_time": "2023-08-26T06:42:02.550049961Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "3647B0B4548C52413F4015A52BC975667AF89541",
-      "name": "skinny-cookie",
+      "address": "1CA2F2C5E4A1394889C0818694091E8E6474ACD6",
+      "name": "impressionable-doctor",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "2zP2fq9kb2kAK+FNBcBUy8U1c77w7UhlZZw2EVyRVZQ="
+        "value": "48IJIb+dV85Dwp4M5ws4YWH5qCGtOo+XDP2P8mHSBtk="
       }
     }
   ]
