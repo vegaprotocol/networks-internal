@@ -271,17 +271,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "1PtGpNqbCZ2bWwCH03ZFClBbVTZvWvw/V/tQC1I+53M=": {
-        "avatar_url": "https://www.gravatar.com/avatar/fjrgqrfjopwvnzhg4hr4x7fggih52q1a?d=identicon",
-        "country": "GT",
-        "ethereum_address": "0x6E7Fcc1f7fF53d62291406270ca1182b2f86C4f5",
-        "id": "fdbbdf76ba9977118a8d9e477eacff8b9b5832972f6d7ae40af0fc77857ec2a1",
-        "info_url": "https://en.wikipedia.org/wiki/CRMP1",
-        "name": "narrow-fan",
-        "tm_pub_key": "1PtGpNqbCZ2bWwCH03ZFClBbVTZvWvw/V/tQC1I+53M=",
-        "vega_pub_key": "d07a26bc16f0c0a1159e41f7cafd992f29a8444d33e89936c4ab08f60b98dae0",
-        "vega_pub_key_index": 1
-      },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
         "avatar_url": "https://www.gravatar.com/avatar/oapaoa6gfsgvg6f1yo5umw2fnn3thw1z?d=identicon",
         "country": "FQ",
@@ -315,6 +304,17 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
+      "fg2YB+3Qd6V2aCc9mL6rdbQRnzSPqX6d0BZ4Y8bunAg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/us3cx6oj0toa4l83eq9q14qxsgvr7crw?d=identicon",
+        "country": "ST",
+        "ethereum_address": "0x087298B62d5A7dB6b626CE9fD4aF7909463D0541",
+        "id": "a3361ef28f3b802aafa85873135537adca5f003007dea30fae4e7c77cd664794",
+        "info_url": "https://en.wikipedia.org/wiki/Oswald_Langdon_Woodford",
+        "name": "funny-biscuit",
+        "tm_pub_key": "fg2YB+3Qd6V2aCc9mL6rdbQRnzSPqX6d0BZ4Y8bunAg=",
+        "vega_pub_key": "28164d5f05dcfc42b42d60f13eb273e34369e3414220eb84ba01fa41661690f4",
+        "vega_pub_key_index": 1
+      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308261102",
+  "chain_id": "vega-devnet1-202308281057",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-26T11:02:55.20945133Z",
+  "genesis_time": "2023-08-28T10:57:57.127350402Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "133C586BCD7339615FF2C0528C91B5F930BD4976",
-      "name": "narrow-fan",
+      "address": "DF2673C2C8BF6796262E77767A23583F586BFE4F",
+      "name": "funny-biscuit",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "1PtGpNqbCZ2bWwCH03ZFClBbVTZvWvw/V/tQC1I+53M="
+        "value": "fg2YB+3Qd6V2aCc9mL6rdbQRnzSPqX6d0BZ4Y8bunAg="
       }
     }
   ]
