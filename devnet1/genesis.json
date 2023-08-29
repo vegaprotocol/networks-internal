@@ -293,6 +293,17 @@
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
         "vega_pub_key_index": 1
       },
+      "Vff1Tj3ErXWZ6xyvtHpbDm5TBAt28DTkPDfJgOcn+NI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ppr20amm4kojxau54ahqo56yjbghoj6f?d=identicon",
+        "country": "NB",
+        "ethereum_address": "0x5b8bAC265412b28F39F684F5C0198c5cF2c7d60A",
+        "id": "49e69e38c38d1f69f56692400e202eca93bec0df606a571972286205978287cc",
+        "info_url": "https://en.wikipedia.org/wiki/Ahras",
+        "name": "colossal-bat",
+        "tm_pub_key": "Vff1Tj3ErXWZ6xyvtHpbDm5TBAt28DTkPDfJgOcn+NI=",
+        "vega_pub_key": "96628da378b4113d9cc8d930677ecead36bb89661d12f4c8032f3f7501139e97",
+        "vega_pub_key_index": 1
+      },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
         "avatar_url": "https://www.gravatar.com/avatar/z9sfw769a99015gw2zxnb0n4o57k4pch?d=identicon",
         "country": "RC",
@@ -302,17 +313,6 @@
         "name": "unkempt-mango",
         "tm_pub_key": "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=",
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
-        "vega_pub_key_index": 1
-      },
-      "fg2YB+3Qd6V2aCc9mL6rdbQRnzSPqX6d0BZ4Y8bunAg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/us3cx6oj0toa4l83eq9q14qxsgvr7crw?d=identicon",
-        "country": "ST",
-        "ethereum_address": "0x087298B62d5A7dB6b626CE9fD4aF7909463D0541",
-        "id": "a3361ef28f3b802aafa85873135537adca5f003007dea30fae4e7c77cd664794",
-        "info_url": "https://en.wikipedia.org/wiki/Oswald_Langdon_Woodford",
-        "name": "funny-biscuit",
-        "tm_pub_key": "fg2YB+3Qd6V2aCc9mL6rdbQRnzSPqX6d0BZ4Y8bunAg=",
-        "vega_pub_key": "28164d5f05dcfc42b42d60f13eb273e34369e3414220eb84ba01fa41661690f4",
         "vega_pub_key_index": 1
       },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308281122",
+  "chain_id": "vega-devnet1-202308291014",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-28T11:22:57.489976612Z",
+  "genesis_time": "2023-08-29T10:14:11.9519964Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "DF2673C2C8BF6796262E77767A23583F586BFE4F",
-      "name": "funny-biscuit",
+      "address": "813CA108DB478DA7DE284A8B212982958170F1C7",
+      "name": "colossal-bat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "fg2YB+3Qd6V2aCc9mL6rdbQRnzSPqX6d0BZ4Y8bunAg="
+        "value": "Vff1Tj3ErXWZ6xyvtHpbDm5TBAt28DTkPDfJgOcn+NI="
       }
     }
   ]
