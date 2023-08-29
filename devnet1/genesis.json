@@ -293,15 +293,15 @@
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
         "vega_pub_key_index": 1
       },
-      "Vff1Tj3ErXWZ6xyvtHpbDm5TBAt28DTkPDfJgOcn+NI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ppr20amm4kojxau54ahqo56yjbghoj6f?d=identicon",
-        "country": "NB",
-        "ethereum_address": "0x5b8bAC265412b28F39F684F5C0198c5cF2c7d60A",
-        "id": "49e69e38c38d1f69f56692400e202eca93bec0df606a571972286205978287cc",
-        "info_url": "https://en.wikipedia.org/wiki/Ahras",
-        "name": "colossal-bat",
-        "tm_pub_key": "Vff1Tj3ErXWZ6xyvtHpbDm5TBAt28DTkPDfJgOcn+NI=",
-        "vega_pub_key": "96628da378b4113d9cc8d930677ecead36bb89661d12f4c8032f3f7501139e97",
+      "er9KCK2IwlzdVys2/s/fLAyjVaWNdslMK3GJgzbIZBs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/wcz3qlnvlpiody7up8oq9vnbure4r0jr?d=identicon",
+        "country": "AI",
+        "ethereum_address": "0x9AbB44c0e8712B70433aB7f65f684Baa9FA0Fa3a",
+        "id": "f1b854bce858fd57619678886d8b81c452aa84c592d692070aaa5b8e0f133f02",
+        "info_url": "https://en.wikipedia.org/wiki/TechWadi",
+        "name": "wicked-bird",
+        "tm_pub_key": "er9KCK2IwlzdVys2/s/fLAyjVaWNdslMK3GJgzbIZBs=",
+        "vega_pub_key": "ef494325e425bd28b583c9b5d3be55f3f4c151b55c12819359dc9a40474085ae",
         "vega_pub_key_index": 1
       },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308291014",
+  "chain_id": "vega-devnet1-202308291743",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-29T10:14:11.9519964Z",
+  "genesis_time": "2023-08-29T17:43:51.760030252Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "813CA108DB478DA7DE284A8B212982958170F1C7",
-      "name": "colossal-bat",
+      "address": "532AE44B234D7482471305BA2FBCB3D83485FD92",
+      "name": "wicked-bird",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Vff1Tj3ErXWZ6xyvtHpbDm5TBAt28DTkPDfJgOcn+NI="
+        "value": "er9KCK2IwlzdVys2/s/fLAyjVaWNdslMK3GJgzbIZBs="
       }
     }
   ]
