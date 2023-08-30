@@ -271,17 +271,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "9uAT2Ex89YiPMu2exF3gxYqj89q/p5E2GeiGbp3Z+W4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/92ukmknw4kqkm9nwbf51nkj0v8tcq5s6?d=identicon",
-        "country": "XU",
-        "ethereum_address": "0xE8AaCF03E785489416D21a956Aa86eA2e75389a0",
-        "id": "fb74c9f9800591044aeb79713e4da0d97a898d4b463d2b1a15d988d64f6410a0",
-        "info_url": "https://en.wikipedia.org/wiki/Lynching_of_Joe_Winters",
-        "name": "high-train",
-        "tm_pub_key": "9uAT2Ex89YiPMu2exF3gxYqj89q/p5E2GeiGbp3Z+W4=",
-        "vega_pub_key": "29d312df11cf5dc0bbdfb9e167f575fdf86ca7eef10a3955780a9e4e7f833fd5",
-        "vega_pub_key_index": 1
-      },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
         "avatar_url": "https://www.gravatar.com/avatar/oapaoa6gfsgvg6f1yo5umw2fnn3thw1z?d=identicon",
         "country": "FQ",
@@ -291,6 +280,17 @@
         "name": "immense-tile",
         "tm_pub_key": "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=",
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
+        "vega_pub_key_index": 1
+      },
+      "QfQ5IZEUJCJkq2B0NxauckwEF6rSp8B1UrgdrQXzrgU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/u8fk0pwe9a4j50qy6kua78930hqqg57k?d=identicon",
+        "country": "XE",
+        "ethereum_address": "0xa6E8dF2cA0Be27de4c5be2FE3FEfc03aE683f7Bc",
+        "id": "a9410b962345a8962b8126e1e80c2b5900007c881d969b411b61200ca7eac6cf",
+        "info_url": "https://en.wikipedia.org/wiki/Kamla_Nehru_College,_Korba",
+        "name": "narrow-day",
+        "tm_pub_key": "QfQ5IZEUJCJkq2B0NxauckwEF6rSp8B1UrgdrQXzrgU=",
+        "vega_pub_key": "3f82b5ad74b4efca99b5f52c3ff868b27669a086e5987da22892e0b0ad245432",
         "vega_pub_key_index": 1
       },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308300837",
+  "chain_id": "vega-devnet1-202308300953",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-30T08:37:12.68325122Z",
+  "genesis_time": "2023-08-30T09:53:55.14663029Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "E0A832F9E11F339971C3703A52C65B788A7DDC80",
-      "name": "high-train",
+      "address": "FCC36E0DCC0425CC6A65CB6E6A2ACED02DFD7950",
+      "name": "narrow-day",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "9uAT2Ex89YiPMu2exF3gxYqj89q/p5E2GeiGbp3Z+W4="
+        "value": "QfQ5IZEUJCJkq2B0NxauckwEF6rSp8B1UrgdrQXzrgU="
       }
     }
   ]
