@@ -271,6 +271,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "6wg7VQe2ug2EoRxJWmo9qwNYnLhWwTKz1kZW6AAukis=": {
+        "avatar_url": "https://www.gravatar.com/avatar/uaf8u5jo2c7hktdmxamsjbux1cerowbr?d=identicon",
+        "country": "FC",
+        "ethereum_address": "0x00B34e41e89553Fb55bB88A2db1a1D0B70260980",
+        "id": "b5b9aab85880da5a8d3fe733dc4267f7e6e4498a1d9f044dac27dcfabe5477a3",
+        "info_url": "https://en.wikipedia.org/wiki/Tintorettor_Jishu_(film)",
+        "name": "terrible-river",
+        "tm_pub_key": "6wg7VQe2ug2EoRxJWmo9qwNYnLhWwTKz1kZW6AAukis=",
+        "vega_pub_key": "b88ff69df7c4e216aaaea64cb49aad9b8005a476fe89a11d042561c829b649d8",
+        "vega_pub_key_index": 1
+      },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
         "avatar_url": "https://www.gravatar.com/avatar/oapaoa6gfsgvg6f1yo5umw2fnn3thw1z?d=identicon",
         "country": "FQ",
@@ -304,17 +315,6 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
-      "mjxcjKnNOiYRHILxzX1LWzV87GfUkbI4P2njwQebqQ8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/r8jom1dpl0estyb2wvogvdaup6gagsdx?d=identicon",
-        "country": "JE",
-        "ethereum_address": "0x1D52b306EeD3EeE40A5FBFbCD6355e55C8b763b8",
-        "id": "889d5ed1dba27528a779599bb9c39bd387939c4ef3a29082c44dd0a862f889aa",
-        "info_url": "https://en.wikipedia.org/wiki/Seth_Putnam",
-        "name": "unkempt-shoe",
-        "tm_pub_key": "mjxcjKnNOiYRHILxzX1LWzV87GfUkbI4P2njwQebqQ8=",
-        "vega_pub_key": "c8e6af46a4ca3524954beaafb61bdacc4444e115c0e6ba119816b4a879ad8874",
-        "vega_pub_key_index": 1
-      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308301318",
+  "chain_id": "vega-devnet1-202308301358",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-30T13:18:25.664640913Z",
+  "genesis_time": "2023-08-30T13:58:52.499736694Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "0DCB719B5B3FF880BDE1AC5B4670AAC082FA74CC",
-      "name": "unkempt-shoe",
+      "address": "4C71389C2CC1D66BF115A3E9B715D8AB6B2BD21D",
+      "name": "terrible-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "mjxcjKnNOiYRHILxzX1LWzV87GfUkbI4P2njwQebqQ8="
+        "value": "6wg7VQe2ug2EoRxJWmo9qwNYnLhWwTKz1kZW6AAukis="
       }
     }
   ]
