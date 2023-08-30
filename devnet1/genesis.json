@@ -271,6 +271,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "9uAT2Ex89YiPMu2exF3gxYqj89q/p5E2GeiGbp3Z+W4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/92ukmknw4kqkm9nwbf51nkj0v8tcq5s6?d=identicon",
+        "country": "XU",
+        "ethereum_address": "0xE8AaCF03E785489416D21a956Aa86eA2e75389a0",
+        "id": "fb74c9f9800591044aeb79713e4da0d97a898d4b463d2b1a15d988d64f6410a0",
+        "info_url": "https://en.wikipedia.org/wiki/Lynching_of_Joe_Winters",
+        "name": "high-train",
+        "tm_pub_key": "9uAT2Ex89YiPMu2exF3gxYqj89q/p5E2GeiGbp3Z+W4=",
+        "vega_pub_key": "29d312df11cf5dc0bbdfb9e167f575fdf86ca7eef10a3955780a9e4e7f833fd5",
+        "vega_pub_key_index": 1
+      },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
         "avatar_url": "https://www.gravatar.com/avatar/oapaoa6gfsgvg6f1yo5umw2fnn3thw1z?d=identicon",
         "country": "FQ",
@@ -291,17 +302,6 @@
         "name": "narrow-plant",
         "tm_pub_key": "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=",
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
-        "vega_pub_key_index": 1
-      },
-      "er9KCK2IwlzdVys2/s/fLAyjVaWNdslMK3GJgzbIZBs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/wcz3qlnvlpiody7up8oq9vnbure4r0jr?d=identicon",
-        "country": "AI",
-        "ethereum_address": "0x9AbB44c0e8712B70433aB7f65f684Baa9FA0Fa3a",
-        "id": "f1b854bce858fd57619678886d8b81c452aa84c592d692070aaa5b8e0f133f02",
-        "info_url": "https://en.wikipedia.org/wiki/TechWadi",
-        "name": "wicked-bird",
-        "tm_pub_key": "er9KCK2IwlzdVys2/s/fLAyjVaWNdslMK3GJgzbIZBs=",
-        "vega_pub_key": "ef494325e425bd28b583c9b5d3be55f3f4c151b55c12819359dc9a40474085ae",
         "vega_pub_key_index": 1
       },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308291743",
+  "chain_id": "vega-devnet1-202308300837",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-29T17:43:51.760030252Z",
+  "genesis_time": "2023-08-30T08:37:12.68325122Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "532AE44B234D7482471305BA2FBCB3D83485FD92",
-      "name": "wicked-bird",
+      "address": "E0A832F9E11F339971C3703A52C65B788A7DDC80",
+      "name": "high-train",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "er9KCK2IwlzdVys2/s/fLAyjVaWNdslMK3GJgzbIZBs="
+        "value": "9uAT2Ex89YiPMu2exF3gxYqj89q/p5E2GeiGbp3Z+W4="
       }
     }
   ]
