@@ -271,17 +271,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "+YFsKOn4gUhD0kDrIae6TfQXNStG0jCpIWF/HMnMxq8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/f9o4b7bv6wd2bpzqi6aowime44l5cwfj?d=identicon",
-        "country": "OA",
-        "ethereum_address": "0xB60Ef61D4593C456713DdC578EeE00A5441D39Fd",
-        "id": "f3a47e26dc5092ce45089a52c4d3b223581bb0523482db189a8e9eb007d05f5f",
-        "info_url": "https://en.wikipedia.org/wiki/DN7",
-        "name": "stocky-taxi",
-        "tm_pub_key": "+YFsKOn4gUhD0kDrIae6TfQXNStG0jCpIWF/HMnMxq8=",
-        "vega_pub_key": "34ffd801eaddb22647f7fd4d3f21b985012eff3ddbe24c6204cd3e18e11cf076",
-        "vega_pub_key_index": 1
-      },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
         "avatar_url": "https://www.gravatar.com/avatar/oapaoa6gfsgvg6f1yo5umw2fnn3thw1z?d=identicon",
         "country": "FQ",
@@ -302,6 +291,17 @@
         "name": "narrow-plant",
         "tm_pub_key": "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=",
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
+        "vega_pub_key_index": 1
+      },
+      "YtSNB8I3thJHgvOaat7wtuoGt8toN/kBu8c3rrX81po=": {
+        "avatar_url": "https://www.gravatar.com/avatar/jc7p6tvziossjcf7pbetqafi1avr6x9m?d=identicon",
+        "country": "LN",
+        "ethereum_address": "0x94BA2eeD748571F3A7B045530bdAf04Ad30Dde2A",
+        "id": "a737bbb52c3828db8bf3f74616210b2d88181df312985d4fd9344ed63103f88a",
+        "info_url": "https://en.wikipedia.org/wiki/2018_Russian_National_Freestyle_Wrestling_Championships",
+        "name": "confused-sheep",
+        "tm_pub_key": "YtSNB8I3thJHgvOaat7wtuoGt8toN/kBu8c3rrX81po=",
+        "vega_pub_key": "33ed836a591959465b477c55f6c5f1bd77cab55b7b75ca59b1b95040dd2cb3ae",
         "vega_pub_key_index": 1
       },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308301848",
+  "chain_id": "vega-devnet1-202308302035",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-30T18:48:35.473745018Z",
+  "genesis_time": "2023-08-30T20:35:15.474074991Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "66578CC5901127E6B1D760CA2144DD331ACE104F",
-      "name": "stocky-taxi",
+      "address": "4732F439D42E0D2D9AEAE6A43182B59E6988B562",
+      "name": "confused-sheep",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "+YFsKOn4gUhD0kDrIae6TfQXNStG0jCpIWF/HMnMxq8="
+        "value": "YtSNB8I3thJHgvOaat7wtuoGt8toN/kBu8c3rrX81po="
       }
     }
   ]
