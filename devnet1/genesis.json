@@ -282,6 +282,17 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
+      "D5i+uF0Ld127eagpYvcOAHiFn6MwVoNWZrGhS+V1zvk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/bl5wbr3sxlpjoolociys5tupck174ttf?d=identicon",
+        "country": "IS",
+        "ethereum_address": "0x753fBF2bd151C812fC203cA4001d8d9da95D59b3",
+        "id": "7215bb55ae404d906d53306228de4c781dd517445182216d26210c578155015a",
+        "info_url": "https://en.wikipedia.org/wiki/Andray_Baptiste",
+        "name": "adorable-bee",
+        "tm_pub_key": "D5i+uF0Ld127eagpYvcOAHiFn6MwVoNWZrGhS+V1zvk=",
+        "vega_pub_key": "b7f1c638c69b29aa23e3ea975ddc0968a1595c41bc00e42acb1b747a9a1fea18",
+        "vega_pub_key_index": 1
+      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -291,17 +302,6 @@
         "name": "narrow-plant",
         "tm_pub_key": "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=",
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
-        "vega_pub_key_index": 1
-      },
-      "YtSNB8I3thJHgvOaat7wtuoGt8toN/kBu8c3rrX81po=": {
-        "avatar_url": "https://www.gravatar.com/avatar/jc7p6tvziossjcf7pbetqafi1avr6x9m?d=identicon",
-        "country": "LN",
-        "ethereum_address": "0x94BA2eeD748571F3A7B045530bdAf04Ad30Dde2A",
-        "id": "a737bbb52c3828db8bf3f74616210b2d88181df312985d4fd9344ed63103f88a",
-        "info_url": "https://en.wikipedia.org/wiki/2018_Russian_National_Freestyle_Wrestling_Championships",
-        "name": "confused-sheep",
-        "tm_pub_key": "YtSNB8I3thJHgvOaat7wtuoGt8toN/kBu8c3rrX81po=",
-        "vega_pub_key": "33ed836a591959465b477c55f6c5f1bd77cab55b7b75ca59b1b95040dd2cb3ae",
         "vega_pub_key_index": 1
       },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308302035",
+  "chain_id": "vega-devnet1-202308302105",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-30T20:35:15.474074991Z",
+  "genesis_time": "2023-08-30T21:05:55.747270773Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "4732F439D42E0D2D9AEAE6A43182B59E6988B562",
-      "name": "confused-sheep",
+      "address": "5A5B75E7FEBE2A5F7E48548940B7346AFD1BDC18",
+      "name": "adorable-bee",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "YtSNB8I3thJHgvOaat7wtuoGt8toN/kBu8c3rrX81po="
+        "value": "D5i+uF0Ld127eagpYvcOAHiFn6MwVoNWZrGhS+V1zvk="
       }
     }
   ]
