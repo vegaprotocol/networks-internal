@@ -271,15 +271,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "6wg7VQe2ug2EoRxJWmo9qwNYnLhWwTKz1kZW6AAukis=": {
-        "avatar_url": "https://www.gravatar.com/avatar/uaf8u5jo2c7hktdmxamsjbux1cerowbr?d=identicon",
-        "country": "FC",
-        "ethereum_address": "0x00B34e41e89553Fb55bB88A2db1a1D0B70260980",
-        "id": "b5b9aab85880da5a8d3fe733dc4267f7e6e4498a1d9f044dac27dcfabe5477a3",
-        "info_url": "https://en.wikipedia.org/wiki/Tintorettor_Jishu_(film)",
-        "name": "terrible-river",
-        "tm_pub_key": "6wg7VQe2ug2EoRxJWmo9qwNYnLhWwTKz1kZW6AAukis=",
-        "vega_pub_key": "b88ff69df7c4e216aaaea64cb49aad9b8005a476fe89a11d042561c829b649d8",
+      "1QlhYcbqa/wkGiyEqSXj7SzKY8Hga0uB2ojRqj1gRJs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/2fjez59vmak15k73trogv9u6nqhbg6jp?d=identicon",
+        "country": "WH",
+        "ethereum_address": "0x96B0B6934B458BC7Bc7259CF257B186EC9E260fD",
+        "id": "21745dafe3cb7675d30856e7d5f02c21353515965cf74c7395aa063d862353a0",
+        "info_url": "https://en.wikipedia.org/wiki/Agnes_Harrold",
+        "name": "mango-sister",
+        "tm_pub_key": "1QlhYcbqa/wkGiyEqSXj7SzKY8Hga0uB2ojRqj1gRJs=",
+        "vega_pub_key": "30fabe4dbc1f8c34bb02ae44efdceb1d2d408a484fbee3ee106046978c78aac8",
         "vega_pub_key_index": 1
       },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308301450",
+  "chain_id": "vega-devnet1-202308301514",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-30T14:50:25.454699493Z",
+  "genesis_time": "2023-08-30T15:14:30.118368915Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "4C71389C2CC1D66BF115A3E9B715D8AB6B2BD21D",
-      "name": "terrible-river",
+      "address": "7C0CB60DC46F3B6C814AC91F969CC98D3FCCADD7",
+      "name": "mango-sister",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "6wg7VQe2ug2EoRxJWmo9qwNYnLhWwTKz1kZW6AAukis="
+        "value": "1QlhYcbqa/wkGiyEqSXj7SzKY8Hga0uB2ojRqj1gRJs="
       }
     }
   ]
