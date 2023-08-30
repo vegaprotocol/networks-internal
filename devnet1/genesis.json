@@ -282,15 +282,15 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
-      "QfQ5IZEUJCJkq2B0NxauckwEF6rSp8B1UrgdrQXzrgU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/u8fk0pwe9a4j50qy6kua78930hqqg57k?d=identicon",
-        "country": "XE",
-        "ethereum_address": "0xa6E8dF2cA0Be27de4c5be2FE3FEfc03aE683f7Bc",
-        "id": "a9410b962345a8962b8126e1e80c2b5900007c881d969b411b61200ca7eac6cf",
-        "info_url": "https://en.wikipedia.org/wiki/Kamla_Nehru_College,_Korba",
-        "name": "narrow-day",
-        "tm_pub_key": "QfQ5IZEUJCJkq2B0NxauckwEF6rSp8B1UrgdrQXzrgU=",
-        "vega_pub_key": "3f82b5ad74b4efca99b5f52c3ff868b27669a086e5987da22892e0b0ad245432",
+      "QmQ5j3xpAiXyf8VOkMLYDYwCw9ZES1aOWzhYvIBgQFY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/gniw2f75apsj86bca0x7ty650mjmg79n?d=identicon",
+        "country": "AX",
+        "ethereum_address": "0x759aF36c3376C977C53282EB22b7214612C16B7E",
+        "id": "079f2dbb1a2516aa92af04be96ba028de8ce07f05943a743b1e05459dbe94a55",
+        "info_url": "https://en.wikipedia.org/wiki/Andrey_Coutinho",
+        "name": "healthy-key",
+        "tm_pub_key": "QmQ5j3xpAiXyf8VOkMLYDYwCw9ZES1aOWzhYvIBgQFY=",
+        "vega_pub_key": "eabb8f4f5199eb90250608a384774f87cacfdd5b5ba49880de29593171bd7ad6",
         "vega_pub_key_index": 1
       },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308300953",
+  "chain_id": "vega-devnet1-202308301045",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-30T09:53:55.14663029Z",
+  "genesis_time": "2023-08-30T10:45:28.783588996Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "FCC36E0DCC0425CC6A65CB6E6A2ACED02DFD7950",
-      "name": "narrow-day",
+      "address": "2ECCADED1DFAB7DC4B15173C1E0E278D5F85FCAD",
+      "name": "healthy-key",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "QfQ5IZEUJCJkq2B0NxauckwEF6rSp8B1UrgdrQXzrgU="
+        "value": "QmQ5j3xpAiXyf8VOkMLYDYwCw9ZES1aOWzhYvIBgQFY="
       }
     }
   ]
