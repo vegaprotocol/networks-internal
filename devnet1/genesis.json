@@ -271,17 +271,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "1QlhYcbqa/wkGiyEqSXj7SzKY8Hga0uB2ojRqj1gRJs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/2fjez59vmak15k73trogv9u6nqhbg6jp?d=identicon",
-        "country": "WH",
-        "ethereum_address": "0x96B0B6934B458BC7Bc7259CF257B186EC9E260fD",
-        "id": "21745dafe3cb7675d30856e7d5f02c21353515965cf74c7395aa063d862353a0",
-        "info_url": "https://en.wikipedia.org/wiki/Agnes_Harrold",
-        "name": "mango-sister",
-        "tm_pub_key": "1QlhYcbqa/wkGiyEqSXj7SzKY8Hga0uB2ojRqj1gRJs=",
-        "vega_pub_key": "30fabe4dbc1f8c34bb02ae44efdceb1d2d408a484fbee3ee106046978c78aac8",
-        "vega_pub_key_index": 1
-      },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
         "avatar_url": "https://www.gravatar.com/avatar/oapaoa6gfsgvg6f1yo5umw2fnn3thw1z?d=identicon",
         "country": "FQ",
@@ -325,10 +314,21 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
+      },
+      "tcAonBKJgLdNst+VFl2U0LJPqXkbP7TUj2ePi2lFCR4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/5luftcm03gx1mjixd90mgfl7067zoy42?d=identicon",
+        "country": "XU",
+        "ethereum_address": "0xe89bD62dc43620426Dc1f4F8af0Cf773B5f20247",
+        "id": "fc99b9f673fe86935bb8094e21171b83507c5a98d3f3a96192cf0ad448e2ed22",
+        "info_url": "https://en.wikipedia.org/wiki/Charles_Mason_(cricketer)",
+        "name": "adorable-pickle",
+        "tm_pub_key": "tcAonBKJgLdNst+VFl2U0LJPqXkbP7TUj2ePi2lFCR4=",
+        "vega_pub_key": "91f6215f23ce938128553953cc43611d46710c20516adb30d1bd2d13a3f29924",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202308301544",
+  "chain_id": "vega-devnet1-202308301616",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-30T15:44:57.174491801Z",
+  "genesis_time": "2023-08-30T16:16:47.390700006Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "7C0CB60DC46F3B6C814AC91F969CC98D3FCCADD7",
-      "name": "mango-sister",
+      "address": "B5B64B9E195C5579E1FAA7EE29DEC0C629E2D39F",
+      "name": "adorable-pickle",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "1QlhYcbqa/wkGiyEqSXj7SzKY8Hga0uB2ojRqj1gRJs="
+        "value": "tcAonBKJgLdNst+VFl2U0LJPqXkbP7TUj2ePi2lFCR4="
       }
     }
   ]
