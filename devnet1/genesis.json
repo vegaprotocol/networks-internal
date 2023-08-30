@@ -282,17 +282,6 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
-      "Qt/ncNQJAWF0hNYVCxpI0hF7cH1OyEkMbaziI2Xe+Lo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/zbbcyi9xm8tg3ld8wt6tgvtqux8zz5qt?d=identicon",
-        "country": "KJ",
-        "ethereum_address": "0x424814F2edc9d87D61986c1Ca178ad8e1328f839",
-        "id": "746eac24a436ed37eca7c810de7631caac0a8a4989fddab704aa962a32e5d811",
-        "info_url": "https://en.wikipedia.org/wiki/List_of_Nalanda_College_Colombo_alumni",
-        "name": "echoing-pencil",
-        "tm_pub_key": "Qt/ncNQJAWF0hNYVCxpI0hF7cH1OyEkMbaziI2Xe+Lo=",
-        "vega_pub_key": "6cfd962726aef56602b3e7804d88acb10ab41ebb39eea6d9c8db9c5bf80b288e",
-        "vega_pub_key_index": 1
-      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -315,6 +304,17 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
+      "mjxcjKnNOiYRHILxzX1LWzV87GfUkbI4P2njwQebqQ8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/r8jom1dpl0estyb2wvogvdaup6gagsdx?d=identicon",
+        "country": "JE",
+        "ethereum_address": "0x1D52b306EeD3EeE40A5FBFbCD6355e55C8b763b8",
+        "id": "889d5ed1dba27528a779599bb9c39bd387939c4ef3a29082c44dd0a862f889aa",
+        "info_url": "https://en.wikipedia.org/wiki/Seth_Putnam",
+        "name": "unkempt-shoe",
+        "tm_pub_key": "mjxcjKnNOiYRHILxzX1LWzV87GfUkbI4P2njwQebqQ8=",
+        "vega_pub_key": "c8e6af46a4ca3524954beaafb61bdacc4444e115c0e6ba119816b4a879ad8874",
+        "vega_pub_key_index": 1
+      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308301246",
+  "chain_id": "vega-devnet1-202308301318",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-30T12:46:24.646078349Z",
+  "genesis_time": "2023-08-30T13:18:25.664640913Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "ED16ECA8618CB1155DC52422375209E70B7C08BA",
-      "name": "echoing-pencil",
+      "address": "0DCB719B5B3FF880BDE1AC5B4670AAC082FA74CC",
+      "name": "unkempt-shoe",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Qt/ncNQJAWF0hNYVCxpI0hF7cH1OyEkMbaziI2Xe+Lo="
+        "value": "mjxcjKnNOiYRHILxzX1LWzV87GfUkbI4P2njwQebqQ8="
       }
     }
   ]
