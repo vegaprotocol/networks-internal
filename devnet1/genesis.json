@@ -282,15 +282,15 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
-      "QmQ5j3xpAiXyf8VOkMLYDYwCw9ZES1aOWzhYvIBgQFY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/gniw2f75apsj86bca0x7ty650mjmg79n?d=identicon",
-        "country": "AX",
-        "ethereum_address": "0x759aF36c3376C977C53282EB22b7214612C16B7E",
-        "id": "079f2dbb1a2516aa92af04be96ba028de8ce07f05943a743b1e05459dbe94a55",
-        "info_url": "https://en.wikipedia.org/wiki/Andrey_Coutinho",
-        "name": "healthy-key",
-        "tm_pub_key": "QmQ5j3xpAiXyf8VOkMLYDYwCw9ZES1aOWzhYvIBgQFY=",
-        "vega_pub_key": "eabb8f4f5199eb90250608a384774f87cacfdd5b5ba49880de29593171bd7ad6",
+      "Qt/ncNQJAWF0hNYVCxpI0hF7cH1OyEkMbaziI2Xe+Lo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/zbbcyi9xm8tg3ld8wt6tgvtqux8zz5qt?d=identicon",
+        "country": "KJ",
+        "ethereum_address": "0x424814F2edc9d87D61986c1Ca178ad8e1328f839",
+        "id": "746eac24a436ed37eca7c810de7631caac0a8a4989fddab704aa962a32e5d811",
+        "info_url": "https://en.wikipedia.org/wiki/List_of_Nalanda_College_Colombo_alumni",
+        "name": "echoing-pencil",
+        "tm_pub_key": "Qt/ncNQJAWF0hNYVCxpI0hF7cH1OyEkMbaziI2Xe+Lo=",
+        "vega_pub_key": "6cfd962726aef56602b3e7804d88acb10ab41ebb39eea6d9c8db9c5bf80b288e",
         "vega_pub_key_index": 1
       },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308301045",
+  "chain_id": "vega-devnet1-202308301223",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-30T10:45:28.783588996Z",
+  "genesis_time": "2023-08-30T12:23:12.90550375Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "2ECCADED1DFAB7DC4B15173C1E0E278D5F85FCAD",
-      "name": "healthy-key",
+      "address": "ED16ECA8618CB1155DC52422375209E70B7C08BA",
+      "name": "echoing-pencil",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "QmQ5j3xpAiXyf8VOkMLYDYwCw9ZES1aOWzhYvIBgQFY="
+        "value": "Qt/ncNQJAWF0hNYVCxpI0hF7cH1OyEkMbaziI2Xe+Lo="
       }
     }
   ]
