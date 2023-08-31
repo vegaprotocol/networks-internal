@@ -282,15 +282,15 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
-      "JfIbqMwtAhJO125qVItLQrdngamZcpgHG90T2/qarXU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/wu1qoz5vf0iqeyzbdq52nd9y1qnuutim?d=identicon",
-        "country": "ZN",
-        "ethereum_address": "0x408DF720480353900EB6B86A7C43b1bD9F9cB90f",
-        "id": "243ad69554f17b86de78c8c22a7a616cfa55ae3cf8a38cbadab1464b2a51e7fa",
-        "info_url": "https://en.wikipedia.org/wiki/Hugh_Tinney_(footballer)",
-        "name": "exuberant-fan",
-        "tm_pub_key": "JfIbqMwtAhJO125qVItLQrdngamZcpgHG90T2/qarXU=",
-        "vega_pub_key": "4f8f7fb06745f9115fd1f9914a565e9d36f51f1a16f243836890cd01da05bd9f",
+      "HIW0MWGGSKEufIehEPOqvtxETQJj3+Ns3IV2uTWy7m4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/yhwoode73047k5evzl4xkz278ji20zi2?d=identicon",
+        "country": "WS",
+        "ethereum_address": "0xa5eBB60D29F2d612EF454A941b09decd0c4388Af",
+        "id": "441dadaefd9fc1b8a91e05c40715026cbba7334d45e0dd10c33949ff56588e64",
+        "info_url": "https://en.wikipedia.org/wiki/Kahanok_(27%C2%B026%E2%80%B2_N_59%C2%B036%E2%80%B2_E),_Dalgan",
+        "name": "skinny-hat",
+        "tm_pub_key": "HIW0MWGGSKEufIehEPOqvtxETQJj3+Ns3IV2uTWy7m4=",
+        "vega_pub_key": "06aec032267d34184e54fb058d41f22e08d9a98a5236e1ecf9940e3f1c00ecc4",
         "vega_pub_key_index": 1
       },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308311608",
+  "chain_id": "vega-devnet1-202308311705",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-31T16:08:18.712762402Z",
+  "genesis_time": "2023-08-31T17:05:40.916684281Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "24F3C2433097834BF02F59C62A3565A0F5C12421",
-      "name": "exuberant-fan",
+      "address": "690ECE66721406851708AD7D6DDAC18C6BBFAF1E",
+      "name": "skinny-hat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "JfIbqMwtAhJO125qVItLQrdngamZcpgHG90T2/qarXU="
+        "value": "HIW0MWGGSKEufIehEPOqvtxETQJj3+Ns3IV2uTWy7m4="
       }
     }
   ]
