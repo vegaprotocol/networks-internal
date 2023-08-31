@@ -271,17 +271,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "1og7ebmkXyLVNelD3qD2vvg6IJI4WbQIule6YvRSnWc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/nult115wpc1vl0773nib1adorhn659vt?d=identicon",
-        "country": "WJ",
-        "ethereum_address": "0x76479fa26c8ECe376CBc2b5025F788afDB56Cd38",
-        "id": "580164a4a577c331df84525c4f6593fd7a4ef23db55cce5db04f73954f88c013",
-        "info_url": "https://en.wikipedia.org/wiki/Tukingassoq_Island",
-        "name": "promising-week",
-        "tm_pub_key": "1og7ebmkXyLVNelD3qD2vvg6IJI4WbQIule6YvRSnWc=",
-        "vega_pub_key": "bc007c3ce7eac4f46686fd33e97df0d36afcac9b6b578fc86db04d07401a79e4",
-        "vega_pub_key_index": 1
-      },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
         "avatar_url": "https://www.gravatar.com/avatar/oapaoa6gfsgvg6f1yo5umw2fnn3thw1z?d=identicon",
         "country": "FQ",
@@ -325,10 +314,21 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
+      },
+      "xrNuT3/pZsUyoSvX3gmUw1LX3H5AmJGDrJPG+LqyZi8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/wmcf8wgbpzepyvm7h7tedm64yllwwudf?d=identicon",
+        "country": "NA",
+        "ethereum_address": "0x76ce9E2D5D43bD65c2E62F17e47D2DA86Bd08Fbf",
+        "id": "ca72b9f71f2b2c59ccb53492f4962e94c73f4a66d070a7a6c8cedd37ed9a7bb8",
+        "info_url": "https://en.wikipedia.org/wiki/Richtolsheim",
+        "name": "purple-lake",
+        "tm_pub_key": "xrNuT3/pZsUyoSvX3gmUw1LX3H5AmJGDrJPG+LqyZi8=",
+        "vega_pub_key": "c1101f8b92126de6bcedaea8af40a80af1825de416d3251b8f07583b40d30fc9",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202308311141",
+  "chain_id": "vega-devnet1-202308311438",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-31T11:41:18.689308801Z",
+  "genesis_time": "2023-08-31T14:38:03.354750265Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "33B97BB1BA055E0AB625BE36E72494900682E1C7",
-      "name": "promising-week",
+      "address": "71553C78817FAFCAC6BDBAC74EC7490D5D09342F",
+      "name": "purple-lake",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "1og7ebmkXyLVNelD3qD2vvg6IJI4WbQIule6YvRSnWc="
+        "value": "xrNuT3/pZsUyoSvX3gmUw1LX3H5AmJGDrJPG+LqyZi8="
       }
     }
   ]
