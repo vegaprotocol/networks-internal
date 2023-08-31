@@ -282,6 +282,17 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
+      "JfIbqMwtAhJO125qVItLQrdngamZcpgHG90T2/qarXU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/wu1qoz5vf0iqeyzbdq52nd9y1qnuutim?d=identicon",
+        "country": "ZN",
+        "ethereum_address": "0x408DF720480353900EB6B86A7C43b1bD9F9cB90f",
+        "id": "243ad69554f17b86de78c8c22a7a616cfa55ae3cf8a38cbadab1464b2a51e7fa",
+        "info_url": "https://en.wikipedia.org/wiki/Hugh_Tinney_(footballer)",
+        "name": "exuberant-fan",
+        "tm_pub_key": "JfIbqMwtAhJO125qVItLQrdngamZcpgHG90T2/qarXU=",
+        "vega_pub_key": "4f8f7fb06745f9115fd1f9914a565e9d36f51f1a16f243836890cd01da05bd9f",
+        "vega_pub_key_index": 1
+      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -314,21 +325,10 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
-      },
-      "xrNuT3/pZsUyoSvX3gmUw1LX3H5AmJGDrJPG+LqyZi8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/wmcf8wgbpzepyvm7h7tedm64yllwwudf?d=identicon",
-        "country": "NA",
-        "ethereum_address": "0x76ce9E2D5D43bD65c2E62F17e47D2DA86Bd08Fbf",
-        "id": "ca72b9f71f2b2c59ccb53492f4962e94c73f4a66d070a7a6c8cedd37ed9a7bb8",
-        "info_url": "https://en.wikipedia.org/wiki/Richtolsheim",
-        "name": "purple-lake",
-        "tm_pub_key": "xrNuT3/pZsUyoSvX3gmUw1LX3H5AmJGDrJPG+LqyZi8=",
-        "vega_pub_key": "c1101f8b92126de6bcedaea8af40a80af1825de416d3251b8f07583b40d30fc9",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202308311438",
+  "chain_id": "vega-devnet1-202308311608",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-31T14:38:03.354750265Z",
+  "genesis_time": "2023-08-31T16:08:18.712762402Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "71553C78817FAFCAC6BDBAC74EC7490D5D09342F",
-      "name": "purple-lake",
+      "address": "24F3C2433097834BF02F59C62A3565A0F5C12421",
+      "name": "exuberant-fan",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "xrNuT3/pZsUyoSvX3gmUw1LX3H5AmJGDrJPG+LqyZi8="
+        "value": "JfIbqMwtAhJO125qVItLQrdngamZcpgHG90T2/qarXU="
       }
     }
   ]
