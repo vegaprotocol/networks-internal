@@ -282,15 +282,15 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
-      "D5i+uF0Ld127eagpYvcOAHiFn6MwVoNWZrGhS+V1zvk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/bl5wbr3sxlpjoolociys5tupck174ttf?d=identicon",
-        "country": "IS",
-        "ethereum_address": "0x753fBF2bd151C812fC203cA4001d8d9da95D59b3",
-        "id": "7215bb55ae404d906d53306228de4c781dd517445182216d26210c578155015a",
-        "info_url": "https://en.wikipedia.org/wiki/Andray_Baptiste",
-        "name": "adorable-bee",
-        "tm_pub_key": "D5i+uF0Ld127eagpYvcOAHiFn6MwVoNWZrGhS+V1zvk=",
-        "vega_pub_key": "b7f1c638c69b29aa23e3ea975ddc0968a1595c41bc00e42acb1b747a9a1fea18",
+      "GXYUIBVa6AJQsDI4u5B210kBeeT2xkz8GV5CIbVTkEU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/05gww5isqbtn799yp8ybt8ba240d2633?d=identicon",
+        "country": "NY",
+        "ethereum_address": "0x79952E906e286aD3543eC76cb3347Ac19beE43C0",
+        "id": "44697d67d8986c62437b6999869adb41f3209d5505e64ea4908ff3f34e29edbf",
+        "info_url": "https://en.wikipedia.org/wiki/Albanian_Roots",
+        "name": "helpful-week",
+        "tm_pub_key": "GXYUIBVa6AJQsDI4u5B210kBeeT2xkz8GV5CIbVTkEU=",
+        "vega_pub_key": "a4003a755eb32bd248925c486791f82b03ee3dc5491e042ac11cab6c98ec9b2a",
         "vega_pub_key_index": 1
       },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308302128",
+  "chain_id": "vega-devnet1-202308311036",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-30T21:28:17.213099265Z",
+  "genesis_time": "2023-08-31T10:36:28.582967563Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "5A5B75E7FEBE2A5F7E48548940B7346AFD1BDC18",
-      "name": "adorable-bee",
+      "address": "EE43F6C7C98B99B9826BD6F1CECD111E9BB0E3E2",
+      "name": "helpful-week",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "D5i+uF0Ld127eagpYvcOAHiFn6MwVoNWZrGhS+V1zvk="
+        "value": "GXYUIBVa6AJQsDI4u5B210kBeeT2xkz8GV5CIbVTkEU="
       }
     }
   ]
