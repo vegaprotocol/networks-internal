@@ -271,6 +271,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "1og7ebmkXyLVNelD3qD2vvg6IJI4WbQIule6YvRSnWc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/nult115wpc1vl0773nib1adorhn659vt?d=identicon",
+        "country": "WJ",
+        "ethereum_address": "0x76479fa26c8ECe376CBc2b5025F788afDB56Cd38",
+        "id": "580164a4a577c331df84525c4f6593fd7a4ef23db55cce5db04f73954f88c013",
+        "info_url": "https://en.wikipedia.org/wiki/Tukingassoq_Island",
+        "name": "promising-week",
+        "tm_pub_key": "1og7ebmkXyLVNelD3qD2vvg6IJI4WbQIule6YvRSnWc=",
+        "vega_pub_key": "bc007c3ce7eac4f46686fd33e97df0d36afcac9b6b578fc86db04d07401a79e4",
+        "vega_pub_key_index": 1
+      },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
         "avatar_url": "https://www.gravatar.com/avatar/oapaoa6gfsgvg6f1yo5umw2fnn3thw1z?d=identicon",
         "country": "FQ",
@@ -280,17 +291,6 @@
         "name": "immense-tile",
         "tm_pub_key": "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=",
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
-        "vega_pub_key_index": 1
-      },
-      "GXYUIBVa6AJQsDI4u5B210kBeeT2xkz8GV5CIbVTkEU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/05gww5isqbtn799yp8ybt8ba240d2633?d=identicon",
-        "country": "NY",
-        "ethereum_address": "0x79952E906e286aD3543eC76cb3347Ac19beE43C0",
-        "id": "44697d67d8986c62437b6999869adb41f3209d5505e64ea4908ff3f34e29edbf",
-        "info_url": "https://en.wikipedia.org/wiki/Albanian_Roots",
-        "name": "helpful-week",
-        "tm_pub_key": "GXYUIBVa6AJQsDI4u5B210kBeeT2xkz8GV5CIbVTkEU=",
-        "vega_pub_key": "a4003a755eb32bd248925c486791f82b03ee3dc5491e042ac11cab6c98ec9b2a",
         "vega_pub_key_index": 1
       },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308311036",
+  "chain_id": "vega-devnet1-202308311141",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-31T10:36:28.582967563Z",
+  "genesis_time": "2023-08-31T11:41:18.689308801Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "EE43F6C7C98B99B9826BD6F1CECD111E9BB0E3E2",
-      "name": "helpful-week",
+      "address": "33B97BB1BA055E0AB625BE36E72494900682E1C7",
+      "name": "promising-week",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "GXYUIBVa6AJQsDI4u5B210kBeeT2xkz8GV5CIbVTkEU="
+        "value": "1og7ebmkXyLVNelD3qD2vvg6IJI4WbQIule6YvRSnWc="
       }
     }
   ]
