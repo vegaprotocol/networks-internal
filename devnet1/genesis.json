@@ -282,15 +282,15 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
-      "HIW0MWGGSKEufIehEPOqvtxETQJj3+Ns3IV2uTWy7m4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/yhwoode73047k5evzl4xkz278ji20zi2?d=identicon",
-        "country": "WS",
-        "ethereum_address": "0xa5eBB60D29F2d612EF454A941b09decd0c4388Af",
-        "id": "441dadaefd9fc1b8a91e05c40715026cbba7334d45e0dd10c33949ff56588e64",
-        "info_url": "https://en.wikipedia.org/wiki/Kahanok_(27%C2%B026%E2%80%B2_N_59%C2%B036%E2%80%B2_E),_Dalgan",
-        "name": "skinny-hat",
-        "tm_pub_key": "HIW0MWGGSKEufIehEPOqvtxETQJj3+Ns3IV2uTWy7m4=",
-        "vega_pub_key": "06aec032267d34184e54fb058d41f22e08d9a98a5236e1ecf9940e3f1c00ecc4",
+      "PNzWt0cBwCXM1QwbDHe41PYSu2Q6U9JsRHgeBKcfsWI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/1fw1b45qanniztmcih0rwqi5conlxhyx?d=identicon",
+        "country": "ZP",
+        "ethereum_address": "0xEf7053117467aB3B95F5B88D2e50e62bF7Bc0772",
+        "id": "61eeb7b79dd45877fe54accdcee9b9cd47756ab3ded1da67744437beada7bfa2",
+        "info_url": "https://en.wikipedia.org/wiki/The_Metamorph",
+        "name": "promising-dog",
+        "tm_pub_key": "PNzWt0cBwCXM1QwbDHe41PYSu2Q6U9JsRHgeBKcfsWI=",
+        "vega_pub_key": "7681ad06bc65ce756a7ea24dd7b9da1675ce3a628b0fd44dbd69a19d304345a8",
         "vega_pub_key_index": 1
       },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202308311747",
+  "chain_id": "vega-devnet1-202309010544",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-08-31T17:47:36.486426317Z",
+  "genesis_time": "2023-09-01T05:44:12.773276704Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "690ECE66721406851708AD7D6DDAC18C6BBFAF1E",
-      "name": "skinny-hat",
+      "address": "3A155620D51203C9BECC8189FC04F543701897D5",
+      "name": "promising-dog",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "HIW0MWGGSKEufIehEPOqvtxETQJj3+Ns3IV2uTWy7m4="
+        "value": "PNzWt0cBwCXM1QwbDHe41PYSu2Q6U9JsRHgeBKcfsWI="
       }
     }
   ]
