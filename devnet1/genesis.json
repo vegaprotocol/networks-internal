@@ -271,6 +271,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "6r79dGIUrO3eLApEVsILwu0QQpLiPD18r5ttyeiIGm0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/01cdgf3hinn1yct1xm45txxjrwpvt1mp?d=identicon",
+        "country": "NJ",
+        "ethereum_address": "0xd058A41Df37e00D2030E66804A4De931Fb1390C0",
+        "id": "801c70e32d4b0538216518461ba5cba8bb359d93625ad01fe5b2e1f4e6d6f9a3",
+        "info_url": "https://en.wikipedia.org/wiki/James_M._Russell",
+        "name": "alert-window",
+        "tm_pub_key": "6r79dGIUrO3eLApEVsILwu0QQpLiPD18r5ttyeiIGm0=",
+        "vega_pub_key": "0a4150e40c0c86bee0dad222d765fe8c092b59e209dbf509bdbc3276054b472c",
+        "vega_pub_key_index": 1
+      },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
         "avatar_url": "https://www.gravatar.com/avatar/oapaoa6gfsgvg6f1yo5umw2fnn3thw1z?d=identicon",
         "country": "FQ",
@@ -280,17 +291,6 @@
         "name": "immense-tile",
         "tm_pub_key": "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=",
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
-        "vega_pub_key_index": 1
-      },
-      "PNzWt0cBwCXM1QwbDHe41PYSu2Q6U9JsRHgeBKcfsWI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/1fw1b45qanniztmcih0rwqi5conlxhyx?d=identicon",
-        "country": "ZP",
-        "ethereum_address": "0xEf7053117467aB3B95F5B88D2e50e62bF7Bc0772",
-        "id": "61eeb7b79dd45877fe54accdcee9b9cd47756ab3ded1da67744437beada7bfa2",
-        "info_url": "https://en.wikipedia.org/wiki/The_Metamorph",
-        "name": "promising-dog",
-        "tm_pub_key": "PNzWt0cBwCXM1QwbDHe41PYSu2Q6U9JsRHgeBKcfsWI=",
-        "vega_pub_key": "7681ad06bc65ce756a7ea24dd7b9da1675ce3a628b0fd44dbd69a19d304345a8",
         "vega_pub_key_index": 1
       },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309010544",
+  "chain_id": "vega-devnet1-202309011501",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-01T05:44:12.773276704Z",
+  "genesis_time": "2023-09-01T15:01:07.952798566Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "3A155620D51203C9BECC8189FC04F543701897D5",
-      "name": "promising-dog",
+      "address": "E7E593705F179F378C328D37328B9AF8B4C0F7EB",
+      "name": "alert-window",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "PNzWt0cBwCXM1QwbDHe41PYSu2Q6U9JsRHgeBKcfsWI="
+        "value": "6r79dGIUrO3eLApEVsILwu0QQpLiPD18r5ttyeiIGm0="
       }
     }
   ]
