@@ -271,17 +271,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "6r79dGIUrO3eLApEVsILwu0QQpLiPD18r5ttyeiIGm0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/01cdgf3hinn1yct1xm45txxjrwpvt1mp?d=identicon",
-        "country": "NJ",
-        "ethereum_address": "0xd058A41Df37e00D2030E66804A4De931Fb1390C0",
-        "id": "801c70e32d4b0538216518461ba5cba8bb359d93625ad01fe5b2e1f4e6d6f9a3",
-        "info_url": "https://en.wikipedia.org/wiki/James_M._Russell",
-        "name": "alert-window",
-        "tm_pub_key": "6r79dGIUrO3eLApEVsILwu0QQpLiPD18r5ttyeiIGm0=",
-        "vega_pub_key": "0a4150e40c0c86bee0dad222d765fe8c092b59e209dbf509bdbc3276054b472c",
-        "vega_pub_key_index": 1
-      },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
         "avatar_url": "https://www.gravatar.com/avatar/oapaoa6gfsgvg6f1yo5umw2fnn3thw1z?d=identicon",
         "country": "FQ",
@@ -325,10 +314,21 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
+      },
+      "yQl0hgRmOeGkxTRyQ67H7HA0+ErfyCrmcjeOeWfoIwM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/g9c5i76bhwqtre2er9y7ckycz1xgn2fi?d=identicon",
+        "country": "BH",
+        "ethereum_address": "0xdb6bEe840Ad6405c4268319910b75ab5AE091AFD",
+        "id": "10051b47677ed967da58bcb4f195c8a11c7c032b41d4b3f324fa2c9cb47a7004",
+        "info_url": "https://en.wikipedia.org/wiki/Yavgildy",
+        "name": "tender-doctor",
+        "tm_pub_key": "yQl0hgRmOeGkxTRyQ67H7HA0+ErfyCrmcjeOeWfoIwM=",
+        "vega_pub_key": "067d4ee45da9b9dde414f9d8f81abd7eda98f2ac75c5c9467efc6e522e1440f9",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202309011501",
+  "chain_id": "vega-devnet1-202309011559",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-01T15:01:07.952798566Z",
+  "genesis_time": "2023-09-01T15:59:22.929864675Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "E7E593705F179F378C328D37328B9AF8B4C0F7EB",
-      "name": "alert-window",
+      "address": "936B797D910255664F97A5763290765557344D25",
+      "name": "tender-doctor",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "6r79dGIUrO3eLApEVsILwu0QQpLiPD18r5ttyeiIGm0="
+        "value": "yQl0hgRmOeGkxTRyQ67H7HA0+ErfyCrmcjeOeWfoIwM="
       }
     }
   ]
