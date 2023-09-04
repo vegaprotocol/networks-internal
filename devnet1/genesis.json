@@ -303,15 +303,15 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
-      "muHhbwVyGvvA9BA5DrVC4lqfoGOZwUog4NRd0VY5al4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/by9dd842yqnzocytrs0xx1eklpyt9ewm?d=identicon",
-        "country": "CC",
-        "ethereum_address": "0xE3e9BfF9686d62621E9C554C8a87C9fA30437bd8",
-        "id": "9da100de353c0fa6099099f5436c5a1e9ac35edbd7f16ee638fb700221d9fd2f",
-        "info_url": "https://en.wikipedia.org/wiki/1965_in_Norwegian_television",
-        "name": "gifted-pen",
-        "tm_pub_key": "muHhbwVyGvvA9BA5DrVC4lqfoGOZwUog4NRd0VY5al4=",
-        "vega_pub_key": "2f6f9c960506b304633748bfe623a8467d905885ed8e14733205f782fbbdcc88",
+      "l2BpgiCCvXG3mjme/t6S8qtFH1hg0XyvQIAdsjlx4d0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/vezk9oh8qjvsbxbwbumzumdeh7mkvy2q?d=identicon",
+        "country": "EE",
+        "ethereum_address": "0xb2f380837bAeB51D13E81a683Cc7FAaa64c9e610",
+        "id": "0c6515c419819e53d47fe6750337d4ad5241730509b087c326363f51881b89ce",
+        "info_url": "https://en.wikipedia.org/wiki/Adolfo_Navajas_Artaza",
+        "name": "tender-wall",
+        "tm_pub_key": "l2BpgiCCvXG3mjme/t6S8qtFH1hg0XyvQIAdsjlx4d0=",
+        "vega_pub_key": "61d41f5cb4870f66e53d81633ea86f9fd5ef05a5986e73a783504209d7cd5f3a",
         "vega_pub_key_index": 1
       },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309042030",
+  "chain_id": "vega-devnet1-202309042127",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-04T20:30:12.586788608Z",
+  "genesis_time": "2023-09-04T21:27:21.694712467Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "0F566C50A53465A877BE91A9663CD6C2AB5B3272",
-      "name": "gifted-pen",
+      "address": "A207301994E2F8E1D847E0794693D659A2872666",
+      "name": "tender-wall",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "muHhbwVyGvvA9BA5DrVC4lqfoGOZwUog4NRd0VY5al4="
+        "value": "l2BpgiCCvXG3mjme/t6S8qtFH1hg0XyvQIAdsjlx4d0="
       }
     }
   ]
