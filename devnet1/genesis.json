@@ -282,6 +282,17 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
+      "LKK0pDnxu3l1MhMg3KgyHGMF12W5sC/8w3+U5SoCK10=": {
+        "avatar_url": "https://www.gravatar.com/avatar/zil9zqdv1g7jhel99h7adf7l1cvn8lqh?d=identicon",
+        "country": "ES",
+        "ethereum_address": "0x4Ef695A0aAbE611830d9Cab45031db441b3f66b0",
+        "id": "8e0171d27482ebb59ada2426d991e7a812933e32d8d81cbcabe4ef22c375afd7",
+        "info_url": "https://en.wikipedia.org/wiki/River_Erewash",
+        "name": "helpless-farmer",
+        "tm_pub_key": "LKK0pDnxu3l1MhMg3KgyHGMF12W5sC/8w3+U5SoCK10=",
+        "vega_pub_key": "3a4ac24a1099459f944eecfc81965d2e73e99f7127589022833cc0b47ec1c78a",
+        "vega_pub_key_index": 1
+      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -304,17 +315,6 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
-      "hZTHPEvcXI6xqQeSF9N/8zWiZ0HFhPpFWAVOp0Xv9hE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/zr3w3s1c0hd3m0vkq4yka5fhbip95y0z?d=identicon",
-        "country": "KO",
-        "ethereum_address": "0x94399016ee39E67f28b55856395f20f56fe0BC8C",
-        "id": "1ac8b6cde03754e405c2b4eb32c652059756c5617820e26e28a2ad270fd9899d",
-        "info_url": "https://en.wikipedia.org/wiki/Delegation_of_the_European_Union_to_Moldova",
-        "name": "fluky-cloud",
-        "tm_pub_key": "hZTHPEvcXI6xqQeSF9N/8zWiZ0HFhPpFWAVOp0Xv9hE=",
-        "vega_pub_key": "3cf9cd18a841d8e566283afcbabaa264cb91997b1a28d08630e32878dd4bf101",
-        "vega_pub_key_index": 1
-      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309040937",
+  "chain_id": "vega-devnet1-202309041436",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-04T09:37:24.910523029Z",
+  "genesis_time": "2023-09-04T14:36:59.055881264Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "222F6D8F08B7B3959E2667E7DFE00E3707D3BF17",
-      "name": "fluky-cloud",
+      "address": "A0F18C20D453A193C618D10696D6328B698AB75C",
+      "name": "helpless-farmer",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "hZTHPEvcXI6xqQeSF9N/8zWiZ0HFhPpFWAVOp0Xv9hE="
+        "value": "LKK0pDnxu3l1MhMg3KgyHGMF12W5sC/8w3+U5SoCK10="
       }
     }
   ]
