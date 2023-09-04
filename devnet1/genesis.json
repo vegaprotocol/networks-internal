@@ -282,17 +282,6 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
-      "LKK0pDnxu3l1MhMg3KgyHGMF12W5sC/8w3+U5SoCK10=": {
-        "avatar_url": "https://www.gravatar.com/avatar/zil9zqdv1g7jhel99h7adf7l1cvn8lqh?d=identicon",
-        "country": "ES",
-        "ethereum_address": "0x4Ef695A0aAbE611830d9Cab45031db441b3f66b0",
-        "id": "8e0171d27482ebb59ada2426d991e7a812933e32d8d81cbcabe4ef22c375afd7",
-        "info_url": "https://en.wikipedia.org/wiki/River_Erewash",
-        "name": "helpless-farmer",
-        "tm_pub_key": "LKK0pDnxu3l1MhMg3KgyHGMF12W5sC/8w3+U5SoCK10=",
-        "vega_pub_key": "3a4ac24a1099459f944eecfc81965d2e73e99f7127589022833cc0b47ec1c78a",
-        "vega_pub_key_index": 1
-      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -315,6 +304,17 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
+      "muHhbwVyGvvA9BA5DrVC4lqfoGOZwUog4NRd0VY5al4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/by9dd842yqnzocytrs0xx1eklpyt9ewm?d=identicon",
+        "country": "CC",
+        "ethereum_address": "0xE3e9BfF9686d62621E9C554C8a87C9fA30437bd8",
+        "id": "9da100de353c0fa6099099f5436c5a1e9ac35edbd7f16ee638fb700221d9fd2f",
+        "info_url": "https://en.wikipedia.org/wiki/1965_in_Norwegian_television",
+        "name": "gifted-pen",
+        "tm_pub_key": "muHhbwVyGvvA9BA5DrVC4lqfoGOZwUog4NRd0VY5al4=",
+        "vega_pub_key": "2f6f9c960506b304633748bfe623a8467d905885ed8e14733205f782fbbdcc88",
+        "vega_pub_key_index": 1
+      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309041436",
+  "chain_id": "vega-devnet1-202309041700",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-04T14:36:59.055881264Z",
+  "genesis_time": "2023-09-04T17:00:04.751895953Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "A0F18C20D453A193C618D10696D6328B698AB75C",
-      "name": "helpless-farmer",
+      "address": "0F566C50A53465A877BE91A9663CD6C2AB5B3272",
+      "name": "gifted-pen",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "LKK0pDnxu3l1MhMg3KgyHGMF12W5sC/8w3+U5SoCK10="
+        "value": "muHhbwVyGvvA9BA5DrVC4lqfoGOZwUog4NRd0VY5al4="
       }
     }
   ]
