@@ -303,15 +303,15 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
-      "l2BpgiCCvXG3mjme/t6S8qtFH1hg0XyvQIAdsjlx4d0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/vezk9oh8qjvsbxbwbumzumdeh7mkvy2q?d=identicon",
-        "country": "EE",
-        "ethereum_address": "0xb2f380837bAeB51D13E81a683Cc7FAaa64c9e610",
-        "id": "0c6515c419819e53d47fe6750337d4ad5241730509b087c326363f51881b89ce",
-        "info_url": "https://en.wikipedia.org/wiki/Adolfo_Navajas_Artaza",
-        "name": "tender-wall",
-        "tm_pub_key": "l2BpgiCCvXG3mjme/t6S8qtFH1hg0XyvQIAdsjlx4d0=",
-        "vega_pub_key": "61d41f5cb4870f66e53d81633ea86f9fd5ef05a5986e73a783504209d7cd5f3a",
+      "lyXQScmbGrr0WDub85bms+UymCEkRb0QooZJUEP2EpM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/a87riyv06694r4veo3zyxu7i3l01wfhq?d=identicon",
+        "country": "OQ",
+        "ethereum_address": "0xa45D65A9bf2823b715288e6AF9B868B49C6Dd65E",
+        "id": "7c3ad0b3de78d9193d7b4e62a19b2e8872e4c88410ae39237efc5b5665648927",
+        "info_url": "https://en.wikipedia.org/wiki/Goodenia_coerulea",
+        "name": "yummy-town",
+        "tm_pub_key": "lyXQScmbGrr0WDub85bms+UymCEkRb0QooZJUEP2EpM=",
+        "vega_pub_key": "6354fb6c7c7a2debca11e5aa2f232b19a4e227910670d960fd5e3db46f3db510",
         "vega_pub_key_index": 1
       },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309042127",
+  "chain_id": "vega-devnet1-202309050644",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-04T21:27:21.694712467Z",
+  "genesis_time": "2023-09-05T06:44:59.597897312Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "A207301994E2F8E1D847E0794693D659A2872666",
-      "name": "tender-wall",
+      "address": "18A6DDBFAFDEF1D2489C1D445CCD1915E0AF06CA",
+      "name": "yummy-town",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "l2BpgiCCvXG3mjme/t6S8qtFH1hg0XyvQIAdsjlx4d0="
+        "value": "lyXQScmbGrr0WDub85bms+UymCEkRb0QooZJUEP2EpM="
       }
     }
   ]
