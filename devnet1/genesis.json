@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "3KkYR9D9ZRW6USLBNHK5P5o9fLiok8DLtqGCX52H7l4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/dsaq3ohe6b3oazxpn3k9kzd1pbefs5i3?d=identicon",
-        "country": "IX",
-        "ethereum_address": "0x0cc861D6E0D6BD278785b8ce67B34e90E2F45a34",
-        "id": "22f8d8d7f47f7a1bef8d4a83631611810040224e0902d06b7942e3e2358156b8",
-        "info_url": "https://en.wikipedia.org/wiki/Ant%C3%B4nio_Delfim_Netto",
-        "name": "happy-park",
-        "tm_pub_key": "3KkYR9D9ZRW6USLBNHK5P5o9fLiok8DLtqGCX52H7l4=",
-        "vega_pub_key": "f3073586f075c33f5f73ef156ecbfd77cbf4c4ec86a25ca360f17b5b71c8724d",
-        "vega_pub_key_index": 1
-      },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
         "avatar_url": "https://www.gravatar.com/avatar/oapaoa6gfsgvg6f1yo5umw2fnn3thw1z?d=identicon",
         "country": "FQ",
@@ -324,10 +313,21 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
+      },
+      "yoKBKYAEpyCaiS7fAeR62kkfcsX2F4iEqM76T3GvFbU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/1fn37lsh2bmndti5ack0svo6ojx2b66o?d=identicon",
+        "country": "IL",
+        "ethereum_address": "0x2E4CFC68627e9fd5ec2f9d68c3f4DCE11bdb60CB",
+        "id": "9c38abbc903fccfbcee962f5279be7841a90199c2e5136c5c411b16b1d40368a",
+        "info_url": "https://en.wikipedia.org/wiki/480s",
+        "name": "frantic-wind",
+        "tm_pub_key": "yoKBKYAEpyCaiS7fAeR62kkfcsX2F4iEqM76T3GvFbU=",
+        "vega_pub_key": "da2471c64440a563ae6df81d3c06742b8ccd504a2d4aa5b61d3a6072f19b931f",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202309051000",
+  "chain_id": "vega-devnet1-202309051447",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-05T10:00:25.544431063Z",
+  "genesis_time": "2023-09-05T14:47:19.474733979Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "BE6EF9ACF2788D1B168FDC76DE297BEF31AD31BE",
-      "name": "happy-park",
+      "address": "DA2F5142D638B999544EFC5934FFAB0C8E4C790D",
+      "name": "frantic-wind",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "3KkYR9D9ZRW6USLBNHK5P5o9fLiok8DLtqGCX52H7l4="
+        "value": "yoKBKYAEpyCaiS7fAeR62kkfcsX2F4iEqM76T3GvFbU="
       }
     }
   ]
