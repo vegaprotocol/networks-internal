@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "95jgztc5vdGHr5E5mrkSnUHohO5BHcKHXDDd9LQWmxI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/slfz1ymu2nnuyd02yt9yefr6298z7g2s?d=identicon",
+        "country": "RC",
+        "ethereum_address": "0xBcCC65ef3C45Ee4BFA3E729202C08fA10D920a75",
+        "id": "14fd879dcb6110a43337cd34f27ae1d3512bc5415af64793efc6fac38e29fc6a",
+        "info_url": "https://en.wikipedia.org/wiki/Gello,_Montecatini_Val_di_Cecina",
+        "name": "confused-tree",
+        "tm_pub_key": "95jgztc5vdGHr5E5mrkSnUHohO5BHcKHXDDd9LQWmxI=",
+        "vega_pub_key": "e9e3fc7457b40bf2e2880bbfa69fa002cea4542ac347cbccf1de1e9f86f4323c",
+        "vega_pub_key_index": 1
+      },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
         "avatar_url": "https://www.gravatar.com/avatar/oapaoa6gfsgvg6f1yo5umw2fnn3thw1z?d=identicon",
         "country": "FQ",
@@ -303,17 +314,6 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
-      "lyXQScmbGrr0WDub85bms+UymCEkRb0QooZJUEP2EpM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/a87riyv06694r4veo3zyxu7i3l01wfhq?d=identicon",
-        "country": "OQ",
-        "ethereum_address": "0xa45D65A9bf2823b715288e6AF9B868B49C6Dd65E",
-        "id": "7c3ad0b3de78d9193d7b4e62a19b2e8872e4c88410ae39237efc5b5665648927",
-        "info_url": "https://en.wikipedia.org/wiki/Goodenia_coerulea",
-        "name": "yummy-town",
-        "tm_pub_key": "lyXQScmbGrr0WDub85bms+UymCEkRb0QooZJUEP2EpM=",
-        "vega_pub_key": "6354fb6c7c7a2debca11e5aa2f232b19a4e227910670d960fd5e3db46f3db510",
-        "vega_pub_key_index": 1
-      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309050644",
+  "chain_id": "vega-devnet1-202309050840",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-05T06:44:59.597897312Z",
+  "genesis_time": "2023-09-05T08:40:21.463587525Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "18A6DDBFAFDEF1D2489C1D445CCD1915E0AF06CA",
-      "name": "yummy-town",
+      "address": "DAECFCD6D43AA2B09119A44EA5B078E77D1D7845",
+      "name": "confused-tree",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "lyXQScmbGrr0WDub85bms+UymCEkRb0QooZJUEP2EpM="
+        "value": "95jgztc5vdGHr5E5mrkSnUHohO5BHcKHXDDd9LQWmxI="
       }
     }
   ]
