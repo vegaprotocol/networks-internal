@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "95jgztc5vdGHr5E5mrkSnUHohO5BHcKHXDDd9LQWmxI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/slfz1ymu2nnuyd02yt9yefr6298z7g2s?d=identicon",
-        "country": "RC",
-        "ethereum_address": "0xBcCC65ef3C45Ee4BFA3E729202C08fA10D920a75",
-        "id": "14fd879dcb6110a43337cd34f27ae1d3512bc5415af64793efc6fac38e29fc6a",
-        "info_url": "https://en.wikipedia.org/wiki/Gello,_Montecatini_Val_di_Cecina",
-        "name": "confused-tree",
-        "tm_pub_key": "95jgztc5vdGHr5E5mrkSnUHohO5BHcKHXDDd9LQWmxI=",
-        "vega_pub_key": "e9e3fc7457b40bf2e2880bbfa69fa002cea4542ac347cbccf1de1e9f86f4323c",
+      "3KkYR9D9ZRW6USLBNHK5P5o9fLiok8DLtqGCX52H7l4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/dsaq3ohe6b3oazxpn3k9kzd1pbefs5i3?d=identicon",
+        "country": "IX",
+        "ethereum_address": "0x0cc861D6E0D6BD278785b8ce67B34e90E2F45a34",
+        "id": "22f8d8d7f47f7a1bef8d4a83631611810040224e0902d06b7942e3e2358156b8",
+        "info_url": "https://en.wikipedia.org/wiki/Ant%C3%B4nio_Delfim_Netto",
+        "name": "happy-park",
+        "tm_pub_key": "3KkYR9D9ZRW6USLBNHK5P5o9fLiok8DLtqGCX52H7l4=",
+        "vega_pub_key": "f3073586f075c33f5f73ef156ecbfd77cbf4c4ec86a25ca360f17b5b71c8724d",
         "vega_pub_key_index": 1
       },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309050840",
+  "chain_id": "vega-devnet1-202309051000",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-05T08:40:21.463587525Z",
+  "genesis_time": "2023-09-05T10:00:25.544431063Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "DAECFCD6D43AA2B09119A44EA5B078E77D1D7845",
-      "name": "confused-tree",
+      "address": "BE6EF9ACF2788D1B168FDC76DE297BEF31AD31BE",
+      "name": "happy-park",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "95jgztc5vdGHr5E5mrkSnUHohO5BHcKHXDDd9LQWmxI="
+        "value": "3KkYR9D9ZRW6USLBNHK5P5o9fLiok8DLtqGCX52H7l4="
       }
     }
   ]
