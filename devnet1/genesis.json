@@ -281,6 +281,17 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
+      "S+K2/0RaaKh2/gh4hthiE6x0JL9N3bHWmYknp/nkteM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/oks7sker5qv1kbpdh8px93td2v6l3f15?d=identicon",
+        "country": "ZT",
+        "ethereum_address": "0xB81117f2329635413544359f06D1B3E66BA4E9B5",
+        "id": "9751b6561ab698edf6db0c21dae3a3976e1aeb717800e8e8d23f89b8b6023829",
+        "info_url": "https://en.wikipedia.org/wiki/Slavery_in_Thailand",
+        "name": "odd-sheep",
+        "tm_pub_key": "S+K2/0RaaKh2/gh4hthiE6x0JL9N3bHWmYknp/nkteM=",
+        "vega_pub_key": "8fe34506df50602035a7f6aca53707f2d55043b2ce3ccd872bb4f6ea042e3c4c",
+        "vega_pub_key_index": 1
+      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -313,21 +324,10 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
-      },
-      "yoKBKYAEpyCaiS7fAeR62kkfcsX2F4iEqM76T3GvFbU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/1fn37lsh2bmndti5ack0svo6ojx2b66o?d=identicon",
-        "country": "IL",
-        "ethereum_address": "0x2E4CFC68627e9fd5ec2f9d68c3f4DCE11bdb60CB",
-        "id": "9c38abbc903fccfbcee962f5279be7841a90199c2e5136c5c411b16b1d40368a",
-        "info_url": "https://en.wikipedia.org/wiki/480s",
-        "name": "frantic-wind",
-        "tm_pub_key": "yoKBKYAEpyCaiS7fAeR62kkfcsX2F4iEqM76T3GvFbU=",
-        "vega_pub_key": "da2471c64440a563ae6df81d3c06742b8ccd504a2d4aa5b61d3a6072f19b931f",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202309051447",
+  "chain_id": "vega-devnet1-202309051707",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-05T14:47:19.474733979Z",
+  "genesis_time": "2023-09-05T17:07:37.007772695Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "DA2F5142D638B999544EFC5934FFAB0C8E4C790D",
-      "name": "frantic-wind",
+      "address": "31E899F34640355D75552926AF966E6566E28AC3",
+      "name": "odd-sheep",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "yoKBKYAEpyCaiS7fAeR62kkfcsX2F4iEqM76T3GvFbU="
+        "value": "S+K2/0RaaKh2/gh4hthiE6x0JL9N3bHWmYknp/nkteM="
       }
     }
   ]
