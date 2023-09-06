@@ -292,6 +292,17 @@
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
         "vega_pub_key_index": 1
       },
+      "VI2aRNaDTrUZJs6k/zXcdig/xRWDbytVibizRyk05C8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/zoarvp9fbtdixl50ovhco7sqqn7wy6ky?d=identicon",
+        "country": "EG",
+        "ethereum_address": "0x089E2237A35a8E474F8265D2bf3220f31b4AFf6D",
+        "id": "e9a6357c4cc9214240554bdaf6cd77cdb53889446ae3e0cd2f3537a817063a36",
+        "info_url": "https://en.wikipedia.org/wiki/Leistus_ferruginosus",
+        "name": "hallowed-sister",
+        "tm_pub_key": "VI2aRNaDTrUZJs6k/zXcdig/xRWDbytVibizRyk05C8=",
+        "vega_pub_key": "33419a68a6b358a3d7ca76d003917814c1d11e7741e5c7ac8bd6d631202dbe72",
+        "vega_pub_key_index": 1
+      },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
         "avatar_url": "https://www.gravatar.com/avatar/z9sfw769a99015gw2zxnb0n4o57k4pch?d=identicon",
         "country": "RC",
@@ -313,21 +324,10 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
-      },
-      "wNMt0ebAma9oK6NumhLyEpbpzLXWcgHG/lrPIYwBWV8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/sz9uo5m8ftjhxh5npzkbzbnx3n0u2lvz?d=identicon",
-        "country": "QF",
-        "ethereum_address": "0xDCE1EC47034E6F4BB7C6Ba6AD3Cfb041BD746C48",
-        "id": "8e331de039f4a25c794efb899c2fa6d6702d79f05d5f2e677a7867995de7dcc9",
-        "info_url": "https://en.wikipedia.org/wiki/St._Valentin_auf_der_Haide",
-        "name": "narrow-honey",
-        "tm_pub_key": "wNMt0ebAma9oK6NumhLyEpbpzLXWcgHG/lrPIYwBWV8=",
-        "vega_pub_key": "cb85f097e683510738e86a39bfbee6886c43357758d4ee1cd6dfc4d3e215ed1a",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202309061325",
+  "chain_id": "vega-devnet1-202309061427",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-06T13:25:38.126210245Z",
+  "genesis_time": "2023-09-06T14:27:13.679402405Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "15C5C08A02691871EA8AA53EF456F7304CAC18FC",
-      "name": "narrow-honey",
+      "address": "654DCFA9018A5CBC2B245BEAEC0C5198C5C312D2",
+      "name": "hallowed-sister",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "wNMt0ebAma9oK6NumhLyEpbpzLXWcgHG/lrPIYwBWV8="
+        "value": "VI2aRNaDTrUZJs6k/zXcdig/xRWDbytVibizRyk05C8="
       }
     }
   ]
