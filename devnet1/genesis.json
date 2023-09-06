@@ -281,17 +281,6 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
-      "R1MjEsNwbK04mUJCGbj/rOBwuNke2xJeg1FYZaCrXPM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/xh1ud29h644foezbgp1rfhsgpzldpvq9?d=identicon",
-        "country": "BA",
-        "ethereum_address": "0x4169cFF6bD8C25391aE488E7592F434Fc02b8929",
-        "id": "bf39335a09e23bf7408a545ba216e175f4db6ad5149f1e01034655931acb2f3b",
-        "info_url": "https://en.wikipedia.org/wiki/Sybra_inanis",
-        "name": "foolish-wall",
-        "tm_pub_key": "R1MjEsNwbK04mUJCGbj/rOBwuNke2xJeg1FYZaCrXPM=",
-        "vega_pub_key": "c9a757395f870aab8a50666ebbc71cf8233b513b0e9b9eaa637c013d6741d25d",
-        "vega_pub_key_index": 1
-      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -324,10 +313,21 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
+      },
+      "wNMt0ebAma9oK6NumhLyEpbpzLXWcgHG/lrPIYwBWV8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/sz9uo5m8ftjhxh5npzkbzbnx3n0u2lvz?d=identicon",
+        "country": "QF",
+        "ethereum_address": "0xDCE1EC47034E6F4BB7C6Ba6AD3Cfb041BD746C48",
+        "id": "8e331de039f4a25c794efb899c2fa6d6702d79f05d5f2e677a7867995de7dcc9",
+        "info_url": "https://en.wikipedia.org/wiki/St._Valentin_auf_der_Haide",
+        "name": "narrow-honey",
+        "tm_pub_key": "wNMt0ebAma9oK6NumhLyEpbpzLXWcgHG/lrPIYwBWV8=",
+        "vega_pub_key": "cb85f097e683510738e86a39bfbee6886c43357758d4ee1cd6dfc4d3e215ed1a",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202309061248",
+  "chain_id": "vega-devnet1-202309061325",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-06T12:48:11.841714112Z",
+  "genesis_time": "2023-09-06T13:25:38.126210245Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "E4C86A1B8A327357776AEDFF805A64BF342CE6DC",
-      "name": "foolish-wall",
+      "address": "15C5C08A02691871EA8AA53EF456F7304CAC18FC",
+      "name": "narrow-honey",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "R1MjEsNwbK04mUJCGbj/rOBwuNke2xJeg1FYZaCrXPM="
+        "value": "wNMt0ebAma9oK6NumhLyEpbpzLXWcgHG/lrPIYwBWV8="
       }
     }
   ]
