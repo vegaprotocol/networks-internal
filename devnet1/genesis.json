@@ -281,6 +281,17 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
+      "R1MjEsNwbK04mUJCGbj/rOBwuNke2xJeg1FYZaCrXPM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xh1ud29h644foezbgp1rfhsgpzldpvq9?d=identicon",
+        "country": "BA",
+        "ethereum_address": "0x4169cFF6bD8C25391aE488E7592F434Fc02b8929",
+        "id": "bf39335a09e23bf7408a545ba216e175f4db6ad5149f1e01034655931acb2f3b",
+        "info_url": "https://en.wikipedia.org/wiki/Sybra_inanis",
+        "name": "foolish-wall",
+        "tm_pub_key": "R1MjEsNwbK04mUJCGbj/rOBwuNke2xJeg1FYZaCrXPM=",
+        "vega_pub_key": "c9a757395f870aab8a50666ebbc71cf8233b513b0e9b9eaa637c013d6741d25d",
+        "vega_pub_key_index": 1
+      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -303,17 +314,6 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
-      "rGDEnAQaDroZXPu2g/U9tmBMPkamZVMpxsJ++hImGb8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/e4x75t410c294ypzylciyzy80q9sb5a1?d=identicon",
-        "country": "XT",
-        "ethereum_address": "0x995cc8c71ee07Ea7148B55ceD03DB3A7D9B2C2F6",
-        "id": "58ba16d6b911659d87894359b86cc95d40465359f2b9988bb3edc7233e54fa82",
-        "info_url": "https://en.wikipedia.org/wiki/List_of_flag_bearers_for_Thailand_at_the_Olympics",
-        "name": "confused-park",
-        "tm_pub_key": "rGDEnAQaDroZXPu2g/U9tmBMPkamZVMpxsJ++hImGb8=",
-        "vega_pub_key": "ccfbdeab5cc4dc05c0b37626db8beb50d59e6ed675533567915abc0a7d11633a",
-        "vega_pub_key_index": 1
-      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309061136",
+  "chain_id": "vega-devnet1-202309061215",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-06T11:36:02.472871405Z",
+  "genesis_time": "2023-09-06T12:15:54.344078033Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "776F90964DAD5A4ABAF9465DEDBA8872221EF656",
-      "name": "confused-park",
+      "address": "E4C86A1B8A327357776AEDFF805A64BF342CE6DC",
+      "name": "foolish-wall",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "rGDEnAQaDroZXPu2g/U9tmBMPkamZVMpxsJ++hImGb8="
+        "value": "R1MjEsNwbK04mUJCGbj/rOBwuNke2xJeg1FYZaCrXPM="
       }
     }
   ]
