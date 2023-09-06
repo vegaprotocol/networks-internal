@@ -281,15 +281,15 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
-      "S+K2/0RaaKh2/gh4hthiE6x0JL9N3bHWmYknp/nkteM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/oks7sker5qv1kbpdh8px93td2v6l3f15?d=identicon",
-        "country": "ZT",
-        "ethereum_address": "0xB81117f2329635413544359f06D1B3E66BA4E9B5",
-        "id": "9751b6561ab698edf6db0c21dae3a3976e1aeb717800e8e8d23f89b8b6023829",
-        "info_url": "https://en.wikipedia.org/wiki/Slavery_in_Thailand",
-        "name": "odd-sheep",
-        "tm_pub_key": "S+K2/0RaaKh2/gh4hthiE6x0JL9N3bHWmYknp/nkteM=",
-        "vega_pub_key": "8fe34506df50602035a7f6aca53707f2d55043b2ce3ccd872bb4f6ea042e3c4c",
+      "TX926AXr24TVm1OlzLRvBT0XcGTIAKeRxh34mn41oTU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/a52jhjnla1xbm6he77d8plvruyghfyd2?d=identicon",
+        "country": "CV",
+        "ethereum_address": "0xFa9D5C8127203c21709d29E605AbF6a69Bbb0596",
+        "id": "7325e4d16be8a272f72d43e6e682cac58a72e049383a6393a5a05aeb0eac5ab3",
+        "info_url": "https://en.wikipedia.org/wiki/Pamphilida",
+        "name": "high-river",
+        "tm_pub_key": "TX926AXr24TVm1OlzLRvBT0XcGTIAKeRxh34mn41oTU=",
+        "vega_pub_key": "1bff3e19411e95e54e0b67511c11fbfcd5e985598982c506605a981688bd2bc6",
         "vega_pub_key_index": 1
       },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309051707",
+  "chain_id": "vega-devnet1-202309060318",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-05T17:07:37.007772695Z",
+  "genesis_time": "2023-09-06T03:18:25.810025654Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "31E899F34640355D75552926AF966E6566E28AC3",
-      "name": "odd-sheep",
+      "address": "374A258A63CC22949568535643E8B114943FE913",
+      "name": "high-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "S+K2/0RaaKh2/gh4hthiE6x0JL9N3bHWmYknp/nkteM="
+        "value": "TX926AXr24TVm1OlzLRvBT0XcGTIAKeRxh34mn41oTU="
       }
     }
   ]
