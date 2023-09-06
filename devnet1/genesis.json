@@ -281,17 +281,6 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
-      "DHHBN4Tt/vBiTqM+HcCalOD1N02Q6zrWtsNq3bvX42I=": {
-        "avatar_url": "https://www.gravatar.com/avatar/tpvdqkklpawtpquymnntw39tvpw7jca6?d=identicon",
-        "country": "RF",
-        "ethereum_address": "0xd83301aEcCa004D5A8FEBdB34070558E32A16D2E",
-        "id": "864fefb59203fd12a02d54d13622edbc8f38a8f73194a1b6cdc29f49a7d78acc",
-        "info_url": "https://en.wikipedia.org/wiki/Matt_Lintz",
-        "name": "helpful-cat",
-        "tm_pub_key": "DHHBN4Tt/vBiTqM+HcCalOD1N02Q6zrWtsNq3bvX42I=",
-        "vega_pub_key": "a40b52e50de8566524d25ec5eb37b36f07799111254a17a078564cd2c5f064b2",
-        "vega_pub_key_index": 1
-      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -314,6 +303,17 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
+      "rGDEnAQaDroZXPu2g/U9tmBMPkamZVMpxsJ++hImGb8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/e4x75t410c294ypzylciyzy80q9sb5a1?d=identicon",
+        "country": "XT",
+        "ethereum_address": "0x995cc8c71ee07Ea7148B55ceD03DB3A7D9B2C2F6",
+        "id": "58ba16d6b911659d87894359b86cc95d40465359f2b9988bb3edc7233e54fa82",
+        "info_url": "https://en.wikipedia.org/wiki/List_of_flag_bearers_for_Thailand_at_the_Olympics",
+        "name": "confused-park",
+        "tm_pub_key": "rGDEnAQaDroZXPu2g/U9tmBMPkamZVMpxsJ++hImGb8=",
+        "vega_pub_key": "ccfbdeab5cc4dc05c0b37626db8beb50d59e6ed675533567915abc0a7d11633a",
+        "vega_pub_key_index": 1
+      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309060827",
+  "chain_id": "vega-devnet1-202309061136",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-06T08:27:27.039334787Z",
+  "genesis_time": "2023-09-06T11:36:02.472871405Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "9C9303A36ECEC60FB1D9E4B1D4A7DF604786A626",
-      "name": "helpful-cat",
+      "address": "776F90964DAD5A4ABAF9465DEDBA8872221EF656",
+      "name": "confused-park",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "DHHBN4Tt/vBiTqM+HcCalOD1N02Q6zrWtsNq3bvX42I="
+        "value": "rGDEnAQaDroZXPu2g/U9tmBMPkamZVMpxsJ++hImGb8="
       }
     }
   ]
