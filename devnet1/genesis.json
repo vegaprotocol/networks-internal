@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "4nC4Qw0nUKQkca2iWL8zlCQZc0s5ZzRwLCgCwWK7TjM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/32zmx36fqjlaa72j23umvcxn4xzwhmjn?d=identicon",
+        "country": "WM",
+        "ethereum_address": "0x7e57F1e34b4f7C380EA7AbC3f2847edaB638dE49",
+        "id": "8d5a96369ccc50703832b2bf90f3a5ea0721027a7b0e21b419b1691ba4ff25b5",
+        "info_url": "https://en.wikipedia.org/wiki/Convention_of_Patriots_for_Justice_and_Peace",
+        "name": "howling-horse",
+        "tm_pub_key": "4nC4Qw0nUKQkca2iWL8zlCQZc0s5ZzRwLCgCwWK7TjM=",
+        "vega_pub_key": "cd3e29736d7685fd9f9307e1c294c40bda98a04ba0f6747b8554dbf68c46c565",
+        "vega_pub_key_index": 1
+      },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
         "avatar_url": "https://www.gravatar.com/avatar/oapaoa6gfsgvg6f1yo5umw2fnn3thw1z?d=identicon",
         "country": "FQ",
@@ -290,17 +301,6 @@
         "name": "narrow-plant",
         "tm_pub_key": "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=",
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
-        "vega_pub_key_index": 1
-      },
-      "VI2aRNaDTrUZJs6k/zXcdig/xRWDbytVibizRyk05C8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/zoarvp9fbtdixl50ovhco7sqqn7wy6ky?d=identicon",
-        "country": "EG",
-        "ethereum_address": "0x089E2237A35a8E474F8265D2bf3220f31b4AFf6D",
-        "id": "e9a6357c4cc9214240554bdaf6cd77cdb53889446ae3e0cd2f3537a817063a36",
-        "info_url": "https://en.wikipedia.org/wiki/Leistus_ferruginosus",
-        "name": "hallowed-sister",
-        "tm_pub_key": "VI2aRNaDTrUZJs6k/zXcdig/xRWDbytVibizRyk05C8=",
-        "vega_pub_key": "33419a68a6b358a3d7ca76d003917814c1d11e7741e5c7ac8bd6d631202dbe72",
         "vega_pub_key_index": 1
       },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309061427",
+  "chain_id": "vega-devnet1-202309070714",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-06T14:27:13.679402405Z",
+  "genesis_time": "2023-09-07T07:14:03.926879422Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "654DCFA9018A5CBC2B245BEAEC0C5198C5C312D2",
-      "name": "hallowed-sister",
+      "address": "5A3D8C2A8D53D90CE7E6E7C17FB46FB9FAE881E9",
+      "name": "howling-horse",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "VI2aRNaDTrUZJs6k/zXcdig/xRWDbytVibizRyk05C8="
+        "value": "4nC4Qw0nUKQkca2iWL8zlCQZc0s5ZzRwLCgCwWK7TjM="
       }
     }
   ]
