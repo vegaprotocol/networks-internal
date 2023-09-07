@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "1RxO59XPJ3prkyQB9URHf1elKAujsbdxzeBs53C9K6A=": {
-        "avatar_url": "https://www.gravatar.com/avatar/p9fe5rbpefk3g9worx9uht6oysn2u55t?d=identicon",
-        "country": "UN",
-        "ethereum_address": "0xa4035eA008544eB75f3A5CCCAC5e3bDc12Db604E",
-        "id": "b4ef929c9abfe64bdadbccf43982499105aea2ed11634d260958350a84ad2273",
-        "info_url": "https://en.wikipedia.org/wiki/Rondon,_Paran%C3%A1",
-        "name": "irate-window",
-        "tm_pub_key": "1RxO59XPJ3prkyQB9URHf1elKAujsbdxzeBs53C9K6A=",
-        "vega_pub_key": "cbacbccbbc2a1bbbe740c59b0b407b86a0c115a099bde29c5d34c63550414203",
-        "vega_pub_key_index": 1
-      },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
         "avatar_url": "https://www.gravatar.com/avatar/oapaoa6gfsgvg6f1yo5umw2fnn3thw1z?d=identicon",
         "country": "FQ",
@@ -324,10 +313,21 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
+      },
+      "sS0trPpD4yPx9t/SarRjkP/FezCEuq8AWg7HxQ2lSXU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/4mkcvoe2czxdvmmzej940o95nedf9qgs?d=identicon",
+        "country": "AD",
+        "ethereum_address": "0x1303150b9e37bBcEfF32271317317b24E43B0F7d",
+        "id": "c90a94d8ec7c097b176bd632a07c35c16aef08449ed0e204fdda4672076dd961",
+        "info_url": "https://en.wikipedia.org/wiki/Back_Campus_Fields",
+        "name": "terrible-biscuit",
+        "tm_pub_key": "sS0trPpD4yPx9t/SarRjkP/FezCEuq8AWg7HxQ2lSXU=",
+        "vega_pub_key": "cc88ff133396ea3e1134f7bac80e6366a4b8a132ef17d5b398ab65a5915e0aea",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202309071519",
+  "chain_id": "vega-devnet1-202309071602",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-07T15:19:00.558827098Z",
+  "genesis_time": "2023-09-07T16:02:36.962280382Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "BB202FD94BF2103FD59CD56FADB4888623A7EBDF",
-      "name": "irate-window",
+      "address": "864A63BE446B1EC5B613278DF9FD691490D1C566",
+      "name": "terrible-biscuit",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "1RxO59XPJ3prkyQB9URHf1elKAujsbdxzeBs53C9K6A="
+        "value": "sS0trPpD4yPx9t/SarRjkP/FezCEuq8AWg7HxQ2lSXU="
       }
     }
   ]
