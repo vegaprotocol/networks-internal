@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "1RxO59XPJ3prkyQB9URHf1elKAujsbdxzeBs53C9K6A=": {
+        "avatar_url": "https://www.gravatar.com/avatar/p9fe5rbpefk3g9worx9uht6oysn2u55t?d=identicon",
+        "country": "UN",
+        "ethereum_address": "0xa4035eA008544eB75f3A5CCCAC5e3bDc12Db604E",
+        "id": "b4ef929c9abfe64bdadbccf43982499105aea2ed11634d260958350a84ad2273",
+        "info_url": "https://en.wikipedia.org/wiki/Rondon,_Paran%C3%A1",
+        "name": "irate-window",
+        "tm_pub_key": "1RxO59XPJ3prkyQB9URHf1elKAujsbdxzeBs53C9K6A=",
+        "vega_pub_key": "cbacbccbbc2a1bbbe740c59b0b407b86a0c115a099bde29c5d34c63550414203",
+        "vega_pub_key_index": 1
+      },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
         "avatar_url": "https://www.gravatar.com/avatar/oapaoa6gfsgvg6f1yo5umw2fnn3thw1z?d=identicon",
         "country": "FQ",
@@ -303,17 +314,6 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
-      "lSwsst+fvR3tnCWBnYkOqvsM3X2tFui2daexVfrSObo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/xyprbyvkt9ebx9evxvlkf9ss3vqvrqy6?d=identicon",
-        "country": "UX",
-        "ethereum_address": "0x652146Ea99df1D7BE3fC53C7499f05e5C62e4a5A",
-        "id": "7c30eea9fea86016cfbb86aa33b35d180c4cff591f7fe4000f5e0d6fac8f97e0",
-        "info_url": "https://en.wikipedia.org/wiki/Arthur_Butler,_4th_Marquess_of_Ormonde",
-        "name": "promising-mango",
-        "tm_pub_key": "lSwsst+fvR3tnCWBnYkOqvsM3X2tFui2daexVfrSObo=",
-        "vega_pub_key": "2b655a70a0c4d2799986e9de863760eab259544d9ec472ce2425991fb1d68f1f",
-        "vega_pub_key_index": 1
-      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309071418",
+  "chain_id": "vega-devnet1-202309071519",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-07T14:18:09.118742461Z",
+  "genesis_time": "2023-09-07T15:19:00.558827098Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "FA6E8C97F3A68BEC5EFE56A93A62BDEC6AE1EB83",
-      "name": "promising-mango",
+      "address": "BB202FD94BF2103FD59CD56FADB4888623A7EBDF",
+      "name": "irate-window",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "lSwsst+fvR3tnCWBnYkOqvsM3X2tFui2daexVfrSObo="
+        "value": "1RxO59XPJ3prkyQB9URHf1elKAujsbdxzeBs53C9K6A="
       }
     }
   ]
