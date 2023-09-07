@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "BfVnjJ1jrgK9GAHBO23rsEq4jPxQ3K784EL5A1we2Bg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/avelb6p5zi61am3n62u9idwy8qun50t7?d=identicon",
-        "country": "FA",
-        "ethereum_address": "0x73841bb8Ba642423753e2d4e82CdDb495ed7b110",
-        "id": "e9306da0a8864413f631e8ebe196b4f0dba46f72f0f1d45f5e4132a3442215cd",
-        "info_url": "https://en.wikipedia.org/wiki/2011_Japanese_Formula_3_Championship",
-        "name": "quaint-doctor",
-        "tm_pub_key": "BfVnjJ1jrgK9GAHBO23rsEq4jPxQ3K784EL5A1we2Bg=",
-        "vega_pub_key": "2d8160a7336fc3ece2ee6db0c49a189b643ca03ab244f6bfc0fd82461a40c74c",
-        "vega_pub_key_index": 1
-      },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
         "avatar_url": "https://www.gravatar.com/avatar/oapaoa6gfsgvg6f1yo5umw2fnn3thw1z?d=identicon",
         "country": "FQ",
@@ -314,6 +303,17 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
+      "nOS14tqfUvMFCuhV73z31sX2yfJ/h+sXjbmsvBcPF2k=": {
+        "avatar_url": "https://www.gravatar.com/avatar/yyw3h31gdjckpxcb40q9xroqnk3d5584?d=identicon",
+        "country": "VF",
+        "ethereum_address": "0xbeD94EF2F99DA8F71623f7C7a3be1dB50beF9876",
+        "id": "bb36d5042d85bab966f1aa020999fdd33653ea07ce45f72d040cd268b8e52197",
+        "info_url": "https://en.wikipedia.org/wiki/Latifa_discography",
+        "name": "graceful-duck",
+        "tm_pub_key": "nOS14tqfUvMFCuhV73z31sX2yfJ/h+sXjbmsvBcPF2k=",
+        "vega_pub_key": "bb3ddf3f51ca938cf6a4838926943c80fe6b8a5170ac13a1f4593c4219de4958",
+        "vega_pub_key_index": 1
+      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309070836",
+  "chain_id": "vega-devnet1-202309071048",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-07T08:36:29.645939566Z",
+  "genesis_time": "2023-09-07T10:48:27.574552284Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "52943E190084FD9F3FD08D4EA8DF9DD9DEE60943",
-      "name": "quaint-doctor",
+      "address": "99BF32DE67019A6B03F066E51BE235786DBF02E6",
+      "name": "graceful-duck",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "BfVnjJ1jrgK9GAHBO23rsEq4jPxQ3K784EL5A1we2Bg="
+        "value": "nOS14tqfUvMFCuhV73z31sX2yfJ/h+sXjbmsvBcPF2k="
       }
     }
   ]
