@@ -303,15 +303,15 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
-      "ol4jYOzWKS7xjwNnxHFK3+NsLoyeq9ToryoO+OLHym8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/exc8ygpss53l468dsa8d1mywax7dlsgn?d=identicon",
-        "country": "HI",
-        "ethereum_address": "0xb68EdcA180adBe40b67F36161CEd5e12bB0025c4",
-        "id": "6a64c35c7a7640841ab38589e44adf22697bf734ebcde520718656d2c2a0bc35",
-        "info_url": "https://en.wikipedia.org/wiki/Nicholas_Sposato",
-        "name": "graceful-pen",
-        "tm_pub_key": "ol4jYOzWKS7xjwNnxHFK3+NsLoyeq9ToryoO+OLHym8=",
-        "vega_pub_key": "bde69a63b92aac15abcfa2c0f3bb42cddee91712d12e75603ad39b2a9b71b609",
+      "lSwsst+fvR3tnCWBnYkOqvsM3X2tFui2daexVfrSObo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xyprbyvkt9ebx9evxvlkf9ss3vqvrqy6?d=identicon",
+        "country": "UX",
+        "ethereum_address": "0x652146Ea99df1D7BE3fC53C7499f05e5C62e4a5A",
+        "id": "7c30eea9fea86016cfbb86aa33b35d180c4cff591f7fe4000f5e0d6fac8f97e0",
+        "info_url": "https://en.wikipedia.org/wiki/Arthur_Butler,_4th_Marquess_of_Ormonde",
+        "name": "promising-mango",
+        "tm_pub_key": "lSwsst+fvR3tnCWBnYkOqvsM3X2tFui2daexVfrSObo=",
+        "vega_pub_key": "2b655a70a0c4d2799986e9de863760eab259544d9ec472ce2425991fb1d68f1f",
         "vega_pub_key_index": 1
       },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309071314",
+  "chain_id": "vega-devnet1-202309071418",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-07T13:14:24.884451556Z",
+  "genesis_time": "2023-09-07T14:18:09.118742461Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "CC58EF6AE8D2DF56BB65149BF98117641A1F62F1",
-      "name": "graceful-pen",
+      "address": "FA6E8C97F3A68BEC5EFE56A93A62BDEC6AE1EB83",
+      "name": "promising-mango",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ol4jYOzWKS7xjwNnxHFK3+NsLoyeq9ToryoO+OLHym8="
+        "value": "lSwsst+fvR3tnCWBnYkOqvsM3X2tFui2daexVfrSObo="
       }
     }
   ]
