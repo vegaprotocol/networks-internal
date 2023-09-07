@@ -292,17 +292,6 @@
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
         "vega_pub_key_index": 1
       },
-      "VBNFGxr5FTbs6WroGguaLMjlziXa6hUOYCO6wGNS2yc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/d9xrulgnrqyrj92oae46kunsevgua7gt?d=identicon",
-        "country": "HE",
-        "ethereum_address": "0xE60880390aAd8EA3fd1862BA84a3AC1B9d5563D4",
-        "id": "31d78a9d72acdf233054fd485924fbd1123c0e9b9bdf07c66f73cf289801e79b",
-        "info_url": "https://en.wikipedia.org/wiki/Clara_Pater",
-        "name": "lovely-town",
-        "tm_pub_key": "VBNFGxr5FTbs6WroGguaLMjlziXa6hUOYCO6wGNS2yc=",
-        "vega_pub_key": "9781a120715f6e43d5d457ef699694903a01250ebfb6617d1a02d48156e63da8",
-        "vega_pub_key_index": 1
-      },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
         "avatar_url": "https://www.gravatar.com/avatar/z9sfw769a99015gw2zxnb0n4o57k4pch?d=identicon",
         "country": "RC",
@@ -312,6 +301,17 @@
         "name": "unkempt-mango",
         "tm_pub_key": "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=",
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
+        "vega_pub_key_index": 1
+      },
+      "ol4jYOzWKS7xjwNnxHFK3+NsLoyeq9ToryoO+OLHym8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/exc8ygpss53l468dsa8d1mywax7dlsgn?d=identicon",
+        "country": "HI",
+        "ethereum_address": "0xb68EdcA180adBe40b67F36161CEd5e12bB0025c4",
+        "id": "6a64c35c7a7640841ab38589e44adf22697bf734ebcde520718656d2c2a0bc35",
+        "info_url": "https://en.wikipedia.org/wiki/Nicholas_Sposato",
+        "name": "graceful-pen",
+        "tm_pub_key": "ol4jYOzWKS7xjwNnxHFK3+NsLoyeq9ToryoO+OLHym8=",
+        "vega_pub_key": "bde69a63b92aac15abcfa2c0f3bb42cddee91712d12e75603ad39b2a9b71b609",
         "vega_pub_key_index": 1
       },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309071231",
+  "chain_id": "vega-devnet1-202309071314",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-07T12:31:47.012717314Z",
+  "genesis_time": "2023-09-07T13:14:24.884451556Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "FC829D823CC4EC8212DEB1BA9625C88A31C693F2",
-      "name": "lovely-town",
+      "address": "CC58EF6AE8D2DF56BB65149BF98117641A1F62F1",
+      "name": "graceful-pen",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "VBNFGxr5FTbs6WroGguaLMjlziXa6hUOYCO6wGNS2yc="
+        "value": "ol4jYOzWKS7xjwNnxHFK3+NsLoyeq9ToryoO+OLHym8="
       }
     }
   ]
