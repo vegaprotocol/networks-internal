@@ -281,6 +281,17 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
+      "DE6xVMD753NDdPV4GfQt+pDKWKYlSJsnIGbWcF8nWp0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/9o8nymlichu03vvi4945nbv9lntbj463?d=identicon",
+        "country": "KB",
+        "ethereum_address": "0x273d38FE7876841808dcF89a2d775cf4ab648aE4",
+        "id": "9e22d4b4e712d9007fc6854ccc3c9ee32fa6d34b29eb65a390b51d7c86bee83c",
+        "info_url": "https://en.wikipedia.org/wiki/Dave_Hemingway",
+        "name": "tender-hat",
+        "tm_pub_key": "DE6xVMD753NDdPV4GfQt+pDKWKYlSJsnIGbWcF8nWp0=",
+        "vega_pub_key": "dabae608e0026ac65a0c49660913effdd6bc9dcde278fdcf0e8c836b4a3a64cf",
+        "vega_pub_key_index": 1
+      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -290,17 +301,6 @@
         "name": "narrow-plant",
         "tm_pub_key": "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=",
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
-        "vega_pub_key_index": 1
-      },
-      "VHNKZ7A5lru77JIhp2PG2PLRUyBmsJGP5uDAjhLgzLI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/d90nls3uglo3fslcnc7041nyt2sckj6v?d=identicon",
-        "country": "ME",
-        "ethereum_address": "0xdD0BAB15d9A3590f6A72596d8E22781A02cC62c9",
-        "id": "9ad7391945b1308cb8b0766fac2765e26f05e29cc5ad3569eff580384e2059ed",
-        "info_url": "https://en.wikipedia.org/wiki/Drag%C3%B8r_Church",
-        "name": "opportune-vacuum",
-        "tm_pub_key": "VHNKZ7A5lru77JIhp2PG2PLRUyBmsJGP5uDAjhLgzLI=",
-        "vega_pub_key": "d529a9402dc6963448e4a45229f328a91a2aa24ed3d3793d5d22725bc768c977",
         "vega_pub_key_index": 1
       },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309081225",
+  "chain_id": "vega-devnet1-202309081604",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-08T12:25:40.467321238Z",
+  "genesis_time": "2023-09-08T16:04:54.424104867Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "E635D3D985E783F801EE7EE6F2857A580325108F",
-      "name": "opportune-vacuum",
+      "address": "4F5ABA430416DC175520D72AB5E947F080550124",
+      "name": "tender-hat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "VHNKZ7A5lru77JIhp2PG2PLRUyBmsJGP5uDAjhLgzLI="
+        "value": "DE6xVMD753NDdPV4GfQt+pDKWKYlSJsnIGbWcF8nWp0="
       }
     }
   ]
