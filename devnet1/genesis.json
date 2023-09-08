@@ -281,17 +281,6 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
-      "Cgrv2aQilas3MJ+T4W+bpif6/zQuiiyGp/LaC6RduMs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/77tfphammevk8m4846443j3g2h0bf8e2?d=identicon",
-        "country": "OF",
-        "ethereum_address": "0xa0A616657d8Ca608749D87f9203f7970a3A1346B",
-        "id": "d294547b4241cfdcfefbfd5453b4e88fc9db5c802eebe11ef52970653ae8544d",
-        "info_url": "https://en.wikipedia.org/wiki/Oakshott",
-        "name": "tense-candle",
-        "tm_pub_key": "Cgrv2aQilas3MJ+T4W+bpif6/zQuiiyGp/LaC6RduMs=",
-        "vega_pub_key": "88e1fa3bcbb26a4a91c004a414d85831fdb8ab3fbf05ba767fcc5b65fa22c498",
-        "vega_pub_key_index": 1
-      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -301,6 +290,17 @@
         "name": "narrow-plant",
         "tm_pub_key": "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=",
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
+        "vega_pub_key_index": 1
+      },
+      "VHNKZ7A5lru77JIhp2PG2PLRUyBmsJGP5uDAjhLgzLI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/d90nls3uglo3fslcnc7041nyt2sckj6v?d=identicon",
+        "country": "ME",
+        "ethereum_address": "0xdD0BAB15d9A3590f6A72596d8E22781A02cC62c9",
+        "id": "9ad7391945b1308cb8b0766fac2765e26f05e29cc5ad3569eff580384e2059ed",
+        "info_url": "https://en.wikipedia.org/wiki/Drag%C3%B8r_Church",
+        "name": "opportune-vacuum",
+        "tm_pub_key": "VHNKZ7A5lru77JIhp2PG2PLRUyBmsJGP5uDAjhLgzLI=",
+        "vega_pub_key": "d529a9402dc6963448e4a45229f328a91a2aa24ed3d3793d5d22725bc768c977",
         "vega_pub_key_index": 1
       },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309081100",
+  "chain_id": "vega-devnet1-202309081225",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-08T11:00:29.561069099Z",
+  "genesis_time": "2023-09-08T12:25:40.467321238Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "9670AF679E572B287BC97799BA81C36AA5B7BF5A",
-      "name": "tense-candle",
+      "address": "E635D3D985E783F801EE7EE6F2857A580325108F",
+      "name": "opportune-vacuum",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Cgrv2aQilas3MJ+T4W+bpif6/zQuiiyGp/LaC6RduMs="
+        "value": "VHNKZ7A5lru77JIhp2PG2PLRUyBmsJGP5uDAjhLgzLI="
       }
     }
   ]
