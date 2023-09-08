@@ -281,15 +281,15 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
-      "DE6xVMD753NDdPV4GfQt+pDKWKYlSJsnIGbWcF8nWp0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/9o8nymlichu03vvi4945nbv9lntbj463?d=identicon",
-        "country": "KB",
-        "ethereum_address": "0x273d38FE7876841808dcF89a2d775cf4ab648aE4",
-        "id": "9e22d4b4e712d9007fc6854ccc3c9ee32fa6d34b29eb65a390b51d7c86bee83c",
-        "info_url": "https://en.wikipedia.org/wiki/Dave_Hemingway",
-        "name": "tender-hat",
-        "tm_pub_key": "DE6xVMD753NDdPV4GfQt+pDKWKYlSJsnIGbWcF8nWp0=",
-        "vega_pub_key": "dabae608e0026ac65a0c49660913effdd6bc9dcde278fdcf0e8c836b4a3a64cf",
+      "Dz1JlQf2SRkg1GztUG5zivxJh/0KUCJPZJd9fFQLyx4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ts22qgufezmnb8uws5mtoonb71w9n792?d=identicon",
+        "country": "GB",
+        "ethereum_address": "0xcbbCD5f056bD5b23DE4E167598a57202ACCB1396",
+        "id": "5d592f5d7ab83ae9f1ff432a442227a0721c8ce2d1dc846b1cf1de34d0a0f4b7",
+        "info_url": "https://en.wikipedia.org/wiki/V%C3%ADctor_Suances_y_D%C3%ADaz_del_R%C3%ADo",
+        "name": "frantic-chimney",
+        "tm_pub_key": "Dz1JlQf2SRkg1GztUG5zivxJh/0KUCJPZJd9fFQLyx4=",
+        "vega_pub_key": "8a12c389005f8fded90061bfae79696fc2adee0c0f67907ee5dbf67406228a44",
         "vega_pub_key_index": 1
       },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309081629",
+  "chain_id": "vega-devnet1-202309081728",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-08T16:29:02.877625935Z",
+  "genesis_time": "2023-09-08T17:28:36.46823814Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "4F5ABA430416DC175520D72AB5E947F080550124",
-      "name": "tender-hat",
+      "address": "9510011A76695BC2BF0369C36C825194D5F90224",
+      "name": "frantic-chimney",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "DE6xVMD753NDdPV4GfQt+pDKWKYlSJsnIGbWcF8nWp0="
+        "value": "Dz1JlQf2SRkg1GztUG5zivxJh/0KUCJPZJd9fFQLyx4="
       }
     }
   ]
