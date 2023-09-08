@@ -281,6 +281,17 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
+      "Cgrv2aQilas3MJ+T4W+bpif6/zQuiiyGp/LaC6RduMs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/77tfphammevk8m4846443j3g2h0bf8e2?d=identicon",
+        "country": "OF",
+        "ethereum_address": "0xa0A616657d8Ca608749D87f9203f7970a3A1346B",
+        "id": "d294547b4241cfdcfefbfd5453b4e88fc9db5c802eebe11ef52970653ae8544d",
+        "info_url": "https://en.wikipedia.org/wiki/Oakshott",
+        "name": "tense-candle",
+        "tm_pub_key": "Cgrv2aQilas3MJ+T4W+bpif6/zQuiiyGp/LaC6RduMs=",
+        "vega_pub_key": "88e1fa3bcbb26a4a91c004a414d85831fdb8ab3fbf05ba767fcc5b65fa22c498",
+        "vega_pub_key_index": 1
+      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -290,17 +301,6 @@
         "name": "narrow-plant",
         "tm_pub_key": "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=",
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
-        "vega_pub_key_index": 1
-      },
-      "Zqpo1Guj0m1X43CWrQabL2a+f1/DfyNBK7EignAGdvE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/v5gakjnx0guook6sndyo2uttlxix8ka8?d=identicon",
-        "country": "AG",
-        "ethereum_address": "0x8BdE9e3C852dbae3F73468A48cd0823375bB4D94",
-        "id": "19725834cd6db74967de8ad7fc34953d7272ef320528596b07db25904d9dd82f",
-        "info_url": "https://en.wikipedia.org/wiki/Lurleen_Wallace",
-        "name": "adorable-chimney",
-        "tm_pub_key": "Zqpo1Guj0m1X43CWrQabL2a+f1/DfyNBK7EignAGdvE=",
-        "vega_pub_key": "449ddb49ff2a8fd860abb78f78b31f7cad117e91e9a421070b3b6d1834bb867a",
         "vega_pub_key_index": 1
       },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309071710",
+  "chain_id": "vega-devnet1-202309081100",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-07T17:10:57.659704374Z",
+  "genesis_time": "2023-09-08T11:00:29.561069099Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "681D1046A206D06D4D5E47FD6FA18FA56AB8D5DE",
-      "name": "adorable-chimney",
+      "address": "9670AF679E572B287BC97799BA81C36AA5B7BF5A",
+      "name": "tense-candle",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Zqpo1Guj0m1X43CWrQabL2a+f1/DfyNBK7EignAGdvE="
+        "value": "Cgrv2aQilas3MJ+T4W+bpif6/zQuiiyGp/LaC6RduMs="
       }
     }
   ]
