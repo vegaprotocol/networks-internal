@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "3h5LRnbYGI3/eHbaGcpTIwgIBiPqwgeQRq3MLORB9mw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/rvp2fnorabeoqudwzx0dhwhynu1aep5o?d=identicon",
-        "country": "KA",
-        "ethereum_address": "0xC42f8A3DD80431e1F3fC3E064704c3c7DF1479E3",
-        "id": "3ca21a54c50971b3ada479af437c078196184402d6afc91f40dcdf13f7edcf58",
-        "info_url": "https://en.wikipedia.org/wiki/Peterhouse_school_of_history",
-        "name": "ashy-coffee",
-        "tm_pub_key": "3h5LRnbYGI3/eHbaGcpTIwgIBiPqwgeQRq3MLORB9mw=",
-        "vega_pub_key": "10e0b2ece5f5bd7a66f41c6c9bd891583734fa2afb6af149b1c751c7d74e012b",
+      "/l9AkO18UA3+NbJKJygsQ2YchV5m84BAwTNnS0i6gyA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/a36s5bphwloosi3x3l24lysevuf60cwn?d=identicon",
+        "country": "VE",
+        "ethereum_address": "0xA590d600f951C303915b8CE96e4bF1870c2c1Ba7",
+        "id": "132f0d80c0e494c3ac5a5e25c31d9c6d39ae9205d0d3ed817683e86f45b360f6",
+        "info_url": "https://en.wikipedia.org/wiki/Scott_Hicks_(basketball)",
+        "name": "frightened-tile",
+        "tm_pub_key": "/l9AkO18UA3+NbJKJygsQ2YchV5m84BAwTNnS0i6gyA=",
+        "vega_pub_key": "637348eab98e3f24cb185007ea36f826565d0b1ddc205469e25bc00c640ae1e4",
         "vega_pub_key_index": 1
       },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309111718",
+  "chain_id": "vega-devnet1-202309111759",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-11T17:18:49.088520707Z",
+  "genesis_time": "2023-09-11T17:59:07.00630436Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "16FE667D3943D0EE1F85F49F4D59E6FA16639B14",
-      "name": "ashy-coffee",
+      "address": "DBB0F9562B2BE50A3DCD12E39D15E2CD9DBCB877",
+      "name": "frightened-tile",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "3h5LRnbYGI3/eHbaGcpTIwgIBiPqwgeQRq3MLORB9mw="
+        "value": "/l9AkO18UA3+NbJKJygsQ2YchV5m84BAwTNnS0i6gyA="
       }
     }
   ]
