@@ -281,17 +281,6 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
-      "PZT3SzbKo8pybD4ec5nZ1IPMbjGmsAjAAcSE+IPxM9A=": {
-        "avatar_url": "https://www.gravatar.com/avatar/iqgrh3xwwkr6fa5ek5porr9vmgqb2w0f?d=identicon",
-        "country": "AB",
-        "ethereum_address": "0xeF4bD381dBe257d58a0B5eE48D8A20c9F4649f92",
-        "id": "316e545731f56dff9bc35315f3eec08ac0589f07943ce4ef22388d8dfb3178f8",
-        "info_url": "https://en.wikipedia.org/wiki/Penantly_Creek",
-        "name": "wrong-clouds",
-        "tm_pub_key": "PZT3SzbKo8pybD4ec5nZ1IPMbjGmsAjAAcSE+IPxM9A=",
-        "vega_pub_key": "1662c744907fcecfe573e4cac22d34f4fea0f4284d10c13f54025864f8232d90",
-        "vega_pub_key_index": 1
-      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -324,10 +313,21 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
+      },
+      "xiOnFtoVXP2cxnyLHcPVLzDV/ln8es7ZsjWw13rGPlQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/w3oz1nesfodz5ryt01mxkps5o5osgjqv?d=identicon",
+        "country": "NA",
+        "ethereum_address": "0x655d9F4730eDe9B3529fA6049059cb67344EBade",
+        "id": "0238443b99bb23beaa6cf59c83379192ce6cf1a2be14842686916fa7a1a979ea",
+        "info_url": "https://en.wikipedia.org/wiki/University_of_Vienna",
+        "name": "purring-barber",
+        "tm_pub_key": "xiOnFtoVXP2cxnyLHcPVLzDV/ln8es7ZsjWw13rGPlQ=",
+        "vega_pub_key": "d97ae1cce6c9799c4a87c400169774d3e87470ab319d919788df2194f5901cad",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202309110902",
+  "chain_id": "vega-devnet1-202309111048",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-11T09:02:06.537714094Z",
+  "genesis_time": "2023-09-11T10:48:05.868805944Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "8AEEAA3C110110E2153EDB05DB3EB754EC6EA932",
-      "name": "wrong-clouds",
+      "address": "E70E0A882E49C2DB6B161628BC0FC497E3603634",
+      "name": "purring-barber",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "PZT3SzbKo8pybD4ec5nZ1IPMbjGmsAjAAcSE+IPxM9A="
+        "value": "xiOnFtoVXP2cxnyLHcPVLzDV/ln8es7ZsjWw13rGPlQ="
       }
     }
   ]
