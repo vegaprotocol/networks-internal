@@ -281,6 +281,17 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
+      "MPkINKdguyMZvLaWgv9o5Nna2divjCPeIwxyoHy7i6I=": {
+        "avatar_url": "https://www.gravatar.com/avatar/fyz4wlgomg8ryw3iknoq1llykz1zr4po?d=identicon",
+        "country": "UU",
+        "ethereum_address": "0x81BD0b1Bec77e1f99a855216D31b28d48d992aEa",
+        "id": "6ec53808e79c4a373b1fd01a7ae0d874f8ef5d7e9ef96aaec06639e604c0d035",
+        "info_url": "https://en.wikipedia.org/wiki/Rodric_Braithwaite",
+        "name": "immense-key",
+        "tm_pub_key": "MPkINKdguyMZvLaWgv9o5Nna2divjCPeIwxyoHy7i6I=",
+        "vega_pub_key": "624017946acf117be1ff3746410dc2be875eac4abdff5b665df5987bf8b47c29",
+        "vega_pub_key_index": 1
+      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -303,17 +314,6 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
-      "iJMf174iVefM2X3KICkQUz0CxVlbyHeby5as04eIVvc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/dy16zxmvzdtcu9arrintvs2xzvr3a7k5?d=identicon",
-        "country": "TI",
-        "ethereum_address": "0x70482cdDD6981553834B98e16Cd20c317602c00c",
-        "id": "de5af997cdaa94f2144eb9edf61d1c63904c4ab79ffdc787d721f75d61b82d5b",
-        "info_url": "https://en.wikipedia.org/wiki/Godefroid_Devreese",
-        "name": "frantic-music",
-        "tm_pub_key": "iJMf174iVefM2X3KICkQUz0CxVlbyHeby5as04eIVvc=",
-        "vega_pub_key": "c9933329cec4834b25a5278e178bdf04d5a6ace94224d0861ecbadec1e64ffa3",
-        "vega_pub_key_index": 1
-      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309111246",
+  "chain_id": "vega-devnet1-202309111316",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-11T12:46:18.094976241Z",
+  "genesis_time": "2023-09-11T13:16:48.295319355Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "F2D3383BF82A515922802CA12126F8B902BFBA57",
-      "name": "frantic-music",
+      "address": "32A40492BCB49E7D941F729F0F2A028C24EA3ED6",
+      "name": "immense-key",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "iJMf174iVefM2X3KICkQUz0CxVlbyHeby5as04eIVvc="
+        "value": "MPkINKdguyMZvLaWgv9o5Nna2divjCPeIwxyoHy7i6I="
       }
     }
   ]
