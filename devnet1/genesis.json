@@ -281,17 +281,6 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
-      "JtJXM17HnmOo5wm27CPwp8NQl+SGQLaKkfcI7KNVLTo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/lrglp2pvm9conckwszkqz9y5jvlb0y9s?d=identicon",
-        "country": "SE",
-        "ethereum_address": "0xB7808eF0f83216D64199d453b619D1D2565dfE7F",
-        "id": "716be0318d874016d429497d13bc1fe3d6ff26233df9f388dcde950ceba630fc",
-        "info_url": "https://en.wikipedia.org/wiki/Big_Stone_County,_Minnesota",
-        "name": "disturbed-toy",
-        "tm_pub_key": "JtJXM17HnmOo5wm27CPwp8NQl+SGQLaKkfcI7KNVLTo=",
-        "vega_pub_key": "8aaec09896d76d4a557423f1f10c4de9685a448d73da886dca15b666ad27d1c9",
-        "vega_pub_key_index": 1
-      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -314,6 +303,17 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
+      "iJMf174iVefM2X3KICkQUz0CxVlbyHeby5as04eIVvc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/dy16zxmvzdtcu9arrintvs2xzvr3a7k5?d=identicon",
+        "country": "TI",
+        "ethereum_address": "0x70482cdDD6981553834B98e16Cd20c317602c00c",
+        "id": "de5af997cdaa94f2144eb9edf61d1c63904c4ab79ffdc787d721f75d61b82d5b",
+        "info_url": "https://en.wikipedia.org/wiki/Godefroid_Devreese",
+        "name": "frantic-music",
+        "tm_pub_key": "iJMf174iVefM2X3KICkQUz0CxVlbyHeby5as04eIVvc=",
+        "vega_pub_key": "c9933329cec4834b25a5278e178bdf04d5a6ace94224d0861ecbadec1e64ffa3",
+        "vega_pub_key_index": 1
+      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309111145",
+  "chain_id": "vega-devnet1-202309111246",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-11T11:45:41.679780289Z",
+  "genesis_time": "2023-09-11T12:46:18.094976241Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "38086D2435419A244FFD71727B3ABCA8441FF038",
-      "name": "disturbed-toy",
+      "address": "F2D3383BF82A515922802CA12126F8B902BFBA57",
+      "name": "frantic-music",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "JtJXM17HnmOo5wm27CPwp8NQl+SGQLaKkfcI7KNVLTo="
+        "value": "iJMf174iVefM2X3KICkQUz0CxVlbyHeby5as04eIVvc="
       }
     }
   ]
