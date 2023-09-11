@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "6PYVcBAaJ/0Z604qo9P1poRHcs+/BUYyKbxtCQdJ/8I=": {
-        "avatar_url": "https://www.gravatar.com/avatar/8ptfh3c9koupu0rex7h0xy4aw8gsys2f?d=identicon",
-        "country": "GX",
-        "ethereum_address": "0x658B9ad3D2E59581aec7c78315EdE8311ef077c8",
-        "id": "5ab1e85d266427352225ccd506e3bfa7fdefc1b06507946e25750d60c378a2ae",
-        "info_url": "https://en.wikipedia.org/wiki/Bicategory",
-        "name": "skinny-dog",
-        "tm_pub_key": "6PYVcBAaJ/0Z604qo9P1poRHcs+/BUYyKbxtCQdJ/8I=",
-        "vega_pub_key": "5cfc09ceecce06d6f884c4afcbeccacd136f535b7041e7b7b39c6aa3f890c52a",
+      "3h5LRnbYGI3/eHbaGcpTIwgIBiPqwgeQRq3MLORB9mw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/rvp2fnorabeoqudwzx0dhwhynu1aep5o?d=identicon",
+        "country": "KA",
+        "ethereum_address": "0xC42f8A3DD80431e1F3fC3E064704c3c7DF1479E3",
+        "id": "3ca21a54c50971b3ada479af437c078196184402d6afc91f40dcdf13f7edcf58",
+        "info_url": "https://en.wikipedia.org/wiki/Peterhouse_school_of_history",
+        "name": "ashy-coffee",
+        "tm_pub_key": "3h5LRnbYGI3/eHbaGcpTIwgIBiPqwgeQRq3MLORB9mw=",
+        "vega_pub_key": "10e0b2ece5f5bd7a66f41c6c9bd891583734fa2afb6af149b1c751c7d74e012b",
         "vega_pub_key_index": 1
       },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309111624",
+  "chain_id": "vega-devnet1-202309111718",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-11T16:24:59.681035589Z",
+  "genesis_time": "2023-09-11T17:18:49.088520707Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "5DD665536D1E085E757CC900572EA1CDC23CC0B1",
-      "name": "skinny-dog",
+      "address": "16FE667D3943D0EE1F85F49F4D59E6FA16639B14",
+      "name": "ashy-coffee",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "6PYVcBAaJ/0Z604qo9P1poRHcs+/BUYyKbxtCQdJ/8I="
+        "value": "3h5LRnbYGI3/eHbaGcpTIwgIBiPqwgeQRq3MLORB9mw="
       }
     }
   ]
