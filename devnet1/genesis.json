@@ -281,6 +281,17 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
+      "JtJXM17HnmOo5wm27CPwp8NQl+SGQLaKkfcI7KNVLTo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/lrglp2pvm9conckwszkqz9y5jvlb0y9s?d=identicon",
+        "country": "SE",
+        "ethereum_address": "0xB7808eF0f83216D64199d453b619D1D2565dfE7F",
+        "id": "716be0318d874016d429497d13bc1fe3d6ff26233df9f388dcde950ceba630fc",
+        "info_url": "https://en.wikipedia.org/wiki/Big_Stone_County,_Minnesota",
+        "name": "disturbed-toy",
+        "tm_pub_key": "JtJXM17HnmOo5wm27CPwp8NQl+SGQLaKkfcI7KNVLTo=",
+        "vega_pub_key": "8aaec09896d76d4a557423f1f10c4de9685a448d73da886dca15b666ad27d1c9",
+        "vega_pub_key_index": 1
+      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -313,21 +324,10 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
-      },
-      "xiOnFtoVXP2cxnyLHcPVLzDV/ln8es7ZsjWw13rGPlQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/w3oz1nesfodz5ryt01mxkps5o5osgjqv?d=identicon",
-        "country": "NA",
-        "ethereum_address": "0x655d9F4730eDe9B3529fA6049059cb67344EBade",
-        "id": "0238443b99bb23beaa6cf59c83379192ce6cf1a2be14842686916fa7a1a979ea",
-        "info_url": "https://en.wikipedia.org/wiki/University_of_Vienna",
-        "name": "purring-barber",
-        "tm_pub_key": "xiOnFtoVXP2cxnyLHcPVLzDV/ln8es7ZsjWw13rGPlQ=",
-        "vega_pub_key": "d97ae1cce6c9799c4a87c400169774d3e87470ab319d919788df2194f5901cad",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202309111048",
+  "chain_id": "vega-devnet1-202309111145",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-11T10:48:05.868805944Z",
+  "genesis_time": "2023-09-11T11:45:41.679780289Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "E70E0A882E49C2DB6B161628BC0FC497E3603634",
-      "name": "purring-barber",
+      "address": "38086D2435419A244FFD71727B3ABCA8441FF038",
+      "name": "disturbed-toy",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "xiOnFtoVXP2cxnyLHcPVLzDV/ln8es7ZsjWw13rGPlQ="
+        "value": "JtJXM17HnmOo5wm27CPwp8NQl+SGQLaKkfcI7KNVLTo="
       }
     }
   ]
