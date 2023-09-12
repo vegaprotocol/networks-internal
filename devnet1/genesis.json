@@ -292,6 +292,17 @@
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
         "vega_pub_key_index": 1
       },
+      "d240KAOHnrZT5U0i/CUm2PsSLiPVsY3xyIQcOAjdkqc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/8g04gh4lcisio4ebop894riqonrylo29?d=identicon",
+        "country": "IH",
+        "ethereum_address": "0x883ddE127b7e507c42e92c5c24Af865497840e06",
+        "id": "e6f862d2b367b14e95365abfdd469a677f1d2d8ba33c3e3cc9af36a3cf0620ce",
+        "info_url": "https://en.wikipedia.org/wiki/575_Commonwealth_Avenue",
+        "name": "inexpensive-pool",
+        "tm_pub_key": "d240KAOHnrZT5U0i/CUm2PsSLiPVsY3xyIQcOAjdkqc=",
+        "vega_pub_key": "3ec9141040bb0e8fcfa8f9541babaf10172a2250162afd8fa9b06a8447017b24",
+        "vega_pub_key_index": 1
+      },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
         "avatar_url": "https://www.gravatar.com/avatar/z9sfw769a99015gw2zxnb0n4o57k4pch?d=identicon",
         "country": "RC",
@@ -313,21 +324,10 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
-      },
-      "txCUtQ9S3aKKFFnuELmSE/MphDR0gNd+ve8yIpmawMk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/xz4wf0zdhizazsi69gjx9q59rm7nl2ml?d=identicon",
-        "country": "MS",
-        "ethereum_address": "0x6398d9f687619e900789601b862804658BDb63c9",
-        "id": "e3153cf4485a051f0c4efe2cdc0d858c7e2c04c1b4fb8906915536c6361d76af",
-        "info_url": "https://en.wikipedia.org/wiki/1998_Southern_Conference_men%27s_basketball_tournament",
-        "name": "thundering-shirt",
-        "tm_pub_key": "txCUtQ9S3aKKFFnuELmSE/MphDR0gNd+ve8yIpmawMk=",
-        "vega_pub_key": "02cdd8d25da0522c452d1e28422b514ff2eef3e98cdc48d71313f9cca6b38a69",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202309120901",
+  "chain_id": "vega-devnet1-202309121059",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-12T09:01:36.555380348Z",
+  "genesis_time": "2023-09-12T10:59:23.486255757Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "C572DDEDBD3B451A9467CE0084F523D1FDDED923",
-      "name": "thundering-shirt",
+      "address": "1837F38D0DD2F942CB83FFDEA933FB17BB0186B6",
+      "name": "inexpensive-pool",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "txCUtQ9S3aKKFFnuELmSE/MphDR0gNd+ve8yIpmawMk="
+        "value": "d240KAOHnrZT5U0i/CUm2PsSLiPVsY3xyIQcOAjdkqc="
       }
     }
   ]
