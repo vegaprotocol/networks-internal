@@ -281,17 +281,6 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
-      "GjEqvtOP1FYd6K7v0+ps+9cwS/WTCFdd1a8H07n36cE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/o7hxjpedesroldh4fout189535jk4dbb?d=identicon",
-        "country": "JL",
-        "ethereum_address": "0xa8c49d2B29920Adb6e46153f99ED044603B5D8b3",
-        "id": "73107e807dafc54b2f059d72b342184030d731c3063aad576852873a1fab4734",
-        "info_url": "https://en.wikipedia.org/wiki/Trampin%27",
-        "name": "easy-baby",
-        "tm_pub_key": "GjEqvtOP1FYd6K7v0+ps+9cwS/WTCFdd1a8H07n36cE=",
-        "vega_pub_key": "7f4f3c8b9957378a782b8ee261945679efd3f9ddad1d2b903e17ce55f7fb8714",
-        "vega_pub_key_index": 1
-      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -314,6 +303,17 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
+      "m+0cHn6Cd+C8b/wZx52s2CWFu6q6y2etxFoTH9jBh1M=": {
+        "avatar_url": "https://www.gravatar.com/avatar/g5eklfq6wy4u2rveho4j1ev1egqmft9c?d=identicon",
+        "country": "BS",
+        "ethereum_address": "0xD9989Ae8c414331395f00Df5b3bcA7386873c6d0",
+        "id": "485974129b80d3ccf64f53783de1c32231ee84349ddcc76af49ee0cfe4d55247",
+        "info_url": "https://en.wikipedia.org/wiki/81_Armoured_Brigade_(South_Africa)",
+        "name": "icy-party",
+        "tm_pub_key": "m+0cHn6Cd+C8b/wZx52s2CWFu6q6y2etxFoTH9jBh1M=",
+        "vega_pub_key": "1b6aa9342d7af4f664b60d1637491fa8104614589a4550aeb1058c2d5e911dc6",
+        "vega_pub_key_index": 1
+      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309120654",
+  "chain_id": "vega-devnet1-202309120805",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-12T06:54:32.228928348Z",
+  "genesis_time": "2023-09-12T08:05:54.850184441Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "91C5F705C9DD57C916029B84657250849B2E0486",
-      "name": "easy-baby",
+      "address": "89F8180EAB2B93C1393FCFA8B5C806DC71435DEF",
+      "name": "icy-party",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "GjEqvtOP1FYd6K7v0+ps+9cwS/WTCFdd1a8H07n36cE="
+        "value": "m+0cHn6Cd+C8b/wZx52s2CWFu6q6y2etxFoTH9jBh1M="
       }
     }
   ]
