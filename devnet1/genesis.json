@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "C3RcW+xefBdS06cR5Zdg974Cm0iclUQqDSq0FrQequs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/zxf6oeqt926br2c5nxq5q3l224kq6udu?d=identicon",
+        "country": "WM",
+        "ethereum_address": "0x81b703aC5630D1e4895d9deEBb90aAF44F7EE9Ec",
+        "id": "5d3f77394c79db06c6ae89fe9f98fea9c7321a597b4ed91fce2ad178021e9572",
+        "info_url": "https://en.wikipedia.org/wiki/Happy_Returns",
+        "name": "friendly-pond",
+        "tm_pub_key": "C3RcW+xefBdS06cR5Zdg974Cm0iclUQqDSq0FrQequs=",
+        "vega_pub_key": "35b0f6e8bd5198bc4fab3fa011e88c305418fa8f404320467724373edf6bfd75",
+        "vega_pub_key_index": 1
+      },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
         "avatar_url": "https://www.gravatar.com/avatar/oapaoa6gfsgvg6f1yo5umw2fnn3thw1z?d=identicon",
         "country": "FQ",
@@ -290,17 +301,6 @@
         "name": "narrow-plant",
         "tm_pub_key": "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=",
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
-        "vega_pub_key_index": 1
-      },
-      "d240KAOHnrZT5U0i/CUm2PsSLiPVsY3xyIQcOAjdkqc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/8g04gh4lcisio4ebop894riqonrylo29?d=identicon",
-        "country": "IH",
-        "ethereum_address": "0x883ddE127b7e507c42e92c5c24Af865497840e06",
-        "id": "e6f862d2b367b14e95365abfdd469a677f1d2d8ba33c3e3cc9af36a3cf0620ce",
-        "info_url": "https://en.wikipedia.org/wiki/575_Commonwealth_Avenue",
-        "name": "inexpensive-pool",
-        "tm_pub_key": "d240KAOHnrZT5U0i/CUm2PsSLiPVsY3xyIQcOAjdkqc=",
-        "vega_pub_key": "3ec9141040bb0e8fcfa8f9541babaf10172a2250162afd8fa9b06a8447017b24",
         "vega_pub_key_index": 1
       },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309121059",
+  "chain_id": "vega-devnet1-202309121259",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-12T10:59:23.486255757Z",
+  "genesis_time": "2023-09-12T12:59:36.006878888Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "1837F38D0DD2F942CB83FFDEA933FB17BB0186B6",
-      "name": "inexpensive-pool",
+      "address": "94724B64BF483C17A7D128EB438ECA507650D7BE",
+      "name": "friendly-pond",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "d240KAOHnrZT5U0i/CUm2PsSLiPVsY3xyIQcOAjdkqc="
+        "value": "C3RcW+xefBdS06cR5Zdg974Cm0iclUQqDSq0FrQequs="
       }
     }
   ]
