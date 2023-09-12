@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "5GEe1fgYqYj/sX3smIDPFxP5FWKUFhXlKqUv7+u9ZyM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/b6luql1i5q6pqz0j0js6sf4fpcg8f3cg?d=identicon",
+        "country": "FH",
+        "ethereum_address": "0xe94d7d521C899Eb88f44FfBBA719dd70fd1c86AA",
+        "id": "6c8b6169f3a8076a376e25e4cb79010a22c6c92568c578788e976270555c5dcf",
+        "info_url": "https://en.wikipedia.org/wiki/Blue_Mountain_(Pennsylvania)",
+        "name": "shapely-candle",
+        "tm_pub_key": "5GEe1fgYqYj/sX3smIDPFxP5FWKUFhXlKqUv7+u9ZyM=",
+        "vega_pub_key": "949cec35fa7e21e14d9386349b827aac81d2d48c42f25f4ba7b35d6f62078c81",
+        "vega_pub_key_index": 1
+      },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
         "avatar_url": "https://www.gravatar.com/avatar/oapaoa6gfsgvg6f1yo5umw2fnn3thw1z?d=identicon",
         "country": "FQ",
@@ -279,17 +290,6 @@
         "name": "immense-tile",
         "tm_pub_key": "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=",
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
-        "vega_pub_key_index": 1
-      },
-      "I3o3qGR7x+D0NtHpvYpIQGyVPX1RVvkO8z2KBZ17nVY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/nxdnsxkfdsu168jrix926kx2ka41t6dc?d=identicon",
-        "country": "MM",
-        "ethereum_address": "0x40Ab9B28c16D07cEF0aC966Ac3076603E1722558",
-        "id": "9d685aaa3cfecb374a14fde9f12c7525b571eb0b1daa1a550dfca62572f576be",
-        "info_url": "https://en.wikipedia.org/wiki/Elsenfeld",
-        "name": "hollow-country",
-        "tm_pub_key": "I3o3qGR7x+D0NtHpvYpIQGyVPX1RVvkO8z2KBZ17nVY=",
-        "vega_pub_key": "209d36e96eee200bb1c0f48149418b1a9f9e0db5157d2e74591318804e182c18",
         "vega_pub_key_index": 1
       },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309121409",
+  "chain_id": "vega-devnet1-202309121519",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-12T14:09:12.580458486Z",
+  "genesis_time": "2023-09-12T15:19:54.380548635Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "FC51BD1A41DBB192BEFEEAC194672E9097E1FECE",
-      "name": "hollow-country",
+      "address": "E088D3DCFC0122BEF22357073B656767DF6C7171",
+      "name": "shapely-candle",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "I3o3qGR7x+D0NtHpvYpIQGyVPX1RVvkO8z2KBZ17nVY="
+        "value": "5GEe1fgYqYj/sX3smIDPFxP5FWKUFhXlKqUv7+u9ZyM="
       }
     }
   ]
