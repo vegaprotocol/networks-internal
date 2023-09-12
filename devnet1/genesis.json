@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "A/kLNsnSvjOQnpfqW/+8Dxx/vZJCkdk65CTV0Z2FG1w=": {
-        "avatar_url": "https://www.gravatar.com/avatar/wc87e93cb03gb3zyiyn17r49goegtxdm?d=identicon",
-        "country": "TS",
-        "ethereum_address": "0xf34eB3454b21eDC75Fcb70C2C12f421D42093EC2",
-        "id": "f833dfae4bdc6fcf11ed54af285dc4cb89b6a87f800e792a5588bd6013b29122",
-        "info_url": "https://en.wikipedia.org/wiki/Move_That_Dope",
-        "name": "short-cloud",
-        "tm_pub_key": "A/kLNsnSvjOQnpfqW/+8Dxx/vZJCkdk65CTV0Z2FG1w=",
-        "vega_pub_key": "30901282eb21f064d6d0dc8e5eb06d9ecd4a84c7a602e3fae89f3ed7ad73178b",
+      "4Cmxh0ysAcg6pQWO5ozpy50qlix/6nRLKZlp1REtAsA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/pzkixfblrk00dtcwovhgw4x7e5kmkw0c?d=identicon",
+        "country": "JC",
+        "ethereum_address": "0x04C8071aD06A73B5b1578Cf2127d9865DA51bBC3",
+        "id": "c81de16a0893a395d54687b1692e0ec36bf83231f418a93ecbca5a002adfe11a",
+        "info_url": "https://en.wikipedia.org/wiki/Yediadalar",
+        "name": "promising-building",
+        "tm_pub_key": "4Cmxh0ysAcg6pQWO5ozpy50qlix/6nRLKZlp1REtAsA=",
+        "vega_pub_key": "13bf85ff2f5566a9aee552f88d953425dfbca21bbcdda4eb706ed74d8f0aa1b1",
         "vega_pub_key_index": 1
       },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309121603",
+  "chain_id": "vega-devnet1-202309122126",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-12T16:03:17.12248585Z",
+  "genesis_time": "2023-09-12T21:26:42.777025262Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "F3086A5142545DB90BA88E3BCC28811F4C574FA2",
-      "name": "short-cloud",
+      "address": "3433C19F3108D2F76A44827C9CB62BBED3946A7A",
+      "name": "promising-building",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "A/kLNsnSvjOQnpfqW/+8Dxx/vZJCkdk65CTV0Z2FG1w="
+        "value": "4Cmxh0ysAcg6pQWO5ozpy50qlix/6nRLKZlp1REtAsA="
       }
     }
   ]
