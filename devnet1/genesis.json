@@ -303,17 +303,6 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
-      "m+0cHn6Cd+C8b/wZx52s2CWFu6q6y2etxFoTH9jBh1M=": {
-        "avatar_url": "https://www.gravatar.com/avatar/g5eklfq6wy4u2rveho4j1ev1egqmft9c?d=identicon",
-        "country": "BS",
-        "ethereum_address": "0xD9989Ae8c414331395f00Df5b3bcA7386873c6d0",
-        "id": "485974129b80d3ccf64f53783de1c32231ee84349ddcc76af49ee0cfe4d55247",
-        "info_url": "https://en.wikipedia.org/wiki/81_Armoured_Brigade_(South_Africa)",
-        "name": "icy-party",
-        "tm_pub_key": "m+0cHn6Cd+C8b/wZx52s2CWFu6q6y2etxFoTH9jBh1M=",
-        "vega_pub_key": "1b6aa9342d7af4f664b60d1637491fa8104614589a4550aeb1058c2d5e911dc6",
-        "vega_pub_key_index": 1
-      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -324,10 +313,21 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
+      },
+      "txCUtQ9S3aKKFFnuELmSE/MphDR0gNd+ve8yIpmawMk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xz4wf0zdhizazsi69gjx9q59rm7nl2ml?d=identicon",
+        "country": "MS",
+        "ethereum_address": "0x6398d9f687619e900789601b862804658BDb63c9",
+        "id": "e3153cf4485a051f0c4efe2cdc0d858c7e2c04c1b4fb8906915536c6361d76af",
+        "info_url": "https://en.wikipedia.org/wiki/1998_Southern_Conference_men%27s_basketball_tournament",
+        "name": "thundering-shirt",
+        "tm_pub_key": "txCUtQ9S3aKKFFnuELmSE/MphDR0gNd+ve8yIpmawMk=",
+        "vega_pub_key": "02cdd8d25da0522c452d1e28422b514ff2eef3e98cdc48d71313f9cca6b38a69",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202309120843",
+  "chain_id": "vega-devnet1-202309120901",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-12T08:43:53.541438784Z",
+  "genesis_time": "2023-09-12T09:01:36.555380348Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "89F8180EAB2B93C1393FCFA8B5C806DC71435DEF",
-      "name": "icy-party",
+      "address": "C572DDEDBD3B451A9467CE0084F523D1FDDED923",
+      "name": "thundering-shirt",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "m+0cHn6Cd+C8b/wZx52s2CWFu6q6y2etxFoTH9jBh1M="
+        "value": "txCUtQ9S3aKKFFnuELmSE/MphDR0gNd+ve8yIpmawMk="
       }
     }
   ]
