@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "/xsuNQH+M5XbmstzXKu9JyjzORmDvmSmDLKk8xaNIFA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/bp46jy4auow69g93xuajpgrm90guq6wb?d=identicon",
-        "country": "EU",
-        "ethereum_address": "0xBCA59b04C18d27EEc59aF7BB337f5Aa1e579A845",
-        "id": "4f210ad2c8dd69be1f6e585aa6a9dea230756d53d10a161ade6f45c63f5e9218",
-        "info_url": "https://en.wikipedia.org/wiki/Indratherium",
-        "name": "gray-mouse",
-        "tm_pub_key": "/xsuNQH+M5XbmstzXKu9JyjzORmDvmSmDLKk8xaNIFA=",
-        "vega_pub_key": "273adf1f230f007c600849cf8de03eea2f294e948a9aa57606d579f6b5d5dbec",
-        "vega_pub_key_index": 1
-      },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
         "avatar_url": "https://www.gravatar.com/avatar/oapaoa6gfsgvg6f1yo5umw2fnn3thw1z?d=identicon",
         "country": "FQ",
@@ -290,6 +279,17 @@
         "name": "immense-tile",
         "tm_pub_key": "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=",
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
+        "vega_pub_key_index": 1
+      },
+      "TOZZTIsyy+jbOfSaJvyK4RvFnhJe3hwNxKHkSCm6c9U=": {
+        "avatar_url": "https://www.gravatar.com/avatar/19fwh4pm6k4cgm2giylel7s5h9dfe4k0?d=identicon",
+        "country": "BO",
+        "ethereum_address": "0x78C4B3E40800bCcb8968C644ad77F41b791DEA75",
+        "id": "3222e396475012613a43ff538753c68e5baa0f593ff44bf78cad4181a1c54711",
+        "info_url": "https://en.wikipedia.org/wiki/Standard_Bank_Building",
+        "name": "lovely-movie",
+        "tm_pub_key": "TOZZTIsyy+jbOfSaJvyK4RvFnhJe3hwNxKHkSCm6c9U=",
+        "vega_pub_key": "694418553f53c9c0b07f381c9eacea9d656ccd47922f08f9509e54282299bd33",
         "vega_pub_key_index": 1
       },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309130859",
+  "chain_id": "vega-devnet1-202309131130",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-13T08:59:00.956022251Z",
+  "genesis_time": "2023-09-13T11:30:52.288599188Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "EED79B87AA04490F9EFB6D34FB254F879C7D0210",
-      "name": "gray-mouse",
+      "address": "C117AA800B9CE1CA43DBC06F2A7BD0C9830165DB",
+      "name": "lovely-movie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "/xsuNQH+M5XbmstzXKu9JyjzORmDvmSmDLKk8xaNIFA="
+        "value": "TOZZTIsyy+jbOfSaJvyK4RvFnhJe3hwNxKHkSCm6c9U="
       }
     }
   ]
