@@ -198,11 +198,11 @@ passphrase_file = "./assets/passphrase.txt"
 
 
 [scenario.btcusd_perpetual]
-    market_name = "BTCUSD Perpetual"
+    market_name = "BTCUSD Perpetual Futures"
     biance_code = "BTCDAI"
     step_length_seconds = 3
     [scenario.btcusd_perpetual.market_manager_args]
-        market_name = "BTCUSD Perpetual"
+        market_name = "BTCUSD Perpetual Futures"
         market_code = "BTCUSD.MF21"
         asset_name = "tUSDC"
         adp = 6
