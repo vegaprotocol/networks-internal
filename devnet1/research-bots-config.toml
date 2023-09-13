@@ -10,11 +10,11 @@ interface = "0.0.0.0"
 port = 80
 
 [vegawallet]
-version = "...." # ignored if auto_version == true
+version = "v0.72.1-13391-08069ba0" # ignored if auto_version == true
 repository = "vegaprotocol/vega-dev-releases"
 artifact_name = "vega"
 download_wallet_binary = true
-auto_version = true
+auto_version = false
 
 wallet_name = "vegamarketsim"
 network_name = "devnet1"
