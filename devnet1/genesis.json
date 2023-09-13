@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "4Cmxh0ysAcg6pQWO5ozpy50qlix/6nRLKZlp1REtAsA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/pzkixfblrk00dtcwovhgw4x7e5kmkw0c?d=identicon",
-        "country": "JC",
-        "ethereum_address": "0x04C8071aD06A73B5b1578Cf2127d9865DA51bBC3",
-        "id": "c81de16a0893a395d54687b1692e0ec36bf83231f418a93ecbca5a002adfe11a",
-        "info_url": "https://en.wikipedia.org/wiki/Yediadalar",
-        "name": "promising-building",
-        "tm_pub_key": "4Cmxh0ysAcg6pQWO5ozpy50qlix/6nRLKZlp1REtAsA=",
-        "vega_pub_key": "13bf85ff2f5566a9aee552f88d953425dfbca21bbcdda4eb706ed74d8f0aa1b1",
+      "/xsuNQH+M5XbmstzXKu9JyjzORmDvmSmDLKk8xaNIFA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/bp46jy4auow69g93xuajpgrm90guq6wb?d=identicon",
+        "country": "EU",
+        "ethereum_address": "0xBCA59b04C18d27EEc59aF7BB337f5Aa1e579A845",
+        "id": "4f210ad2c8dd69be1f6e585aa6a9dea230756d53d10a161ade6f45c63f5e9218",
+        "info_url": "https://en.wikipedia.org/wiki/Indratherium",
+        "name": "gray-mouse",
+        "tm_pub_key": "/xsuNQH+M5XbmstzXKu9JyjzORmDvmSmDLKk8xaNIFA=",
+        "vega_pub_key": "273adf1f230f007c600849cf8de03eea2f294e948a9aa57606d579f6b5d5dbec",
         "vega_pub_key_index": 1
       },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309122126",
+  "chain_id": "vega-devnet1-202309130859",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-12T21:26:42.777025262Z",
+  "genesis_time": "2023-09-13T08:59:00.956022251Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "3433C19F3108D2F76A44827C9CB62BBED3946A7A",
-      "name": "promising-building",
+      "address": "EED79B87AA04490F9EFB6D34FB254F879C7D0210",
+      "name": "gray-mouse",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "4Cmxh0ysAcg6pQWO5ozpy50qlix/6nRLKZlp1REtAsA="
+        "value": "/xsuNQH+M5XbmstzXKu9JyjzORmDvmSmDLKk8xaNIFA="
       }
     }
   ]
