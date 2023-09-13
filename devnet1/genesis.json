@@ -281,17 +281,6 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
-      "TOZZTIsyy+jbOfSaJvyK4RvFnhJe3hwNxKHkSCm6c9U=": {
-        "avatar_url": "https://www.gravatar.com/avatar/19fwh4pm6k4cgm2giylel7s5h9dfe4k0?d=identicon",
-        "country": "BO",
-        "ethereum_address": "0x78C4B3E40800bCcb8968C644ad77F41b791DEA75",
-        "id": "3222e396475012613a43ff538753c68e5baa0f593ff44bf78cad4181a1c54711",
-        "info_url": "https://en.wikipedia.org/wiki/Standard_Bank_Building",
-        "name": "lovely-movie",
-        "tm_pub_key": "TOZZTIsyy+jbOfSaJvyK4RvFnhJe3hwNxKHkSCm6c9U=",
-        "vega_pub_key": "694418553f53c9c0b07f381c9eacea9d656ccd47922f08f9509e54282299bd33",
-        "vega_pub_key_index": 1
-      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -301,6 +290,17 @@
         "name": "narrow-plant",
         "tm_pub_key": "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=",
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
+        "vega_pub_key_index": 1
+      },
+      "YVTUVa9bzhITfQd5LtJ8n+1RqpiXbh+8j25zLto6C2A=": {
+        "avatar_url": "https://www.gravatar.com/avatar/wwmlu54nqvy4ejffbqt8qanb250umae2?d=identicon",
+        "country": "YJ",
+        "ethereum_address": "0xbdeb7AFe51F262AC2F350046511Feb06ac788df3",
+        "id": "2d92005484e5267004b76004f5f985519ee1ab8cec1f5fde62bf491af067f8b6",
+        "info_url": "https://en.wikipedia.org/wiki/Thomas_Fletcher_(bishop)",
+        "name": "gifted-river",
+        "tm_pub_key": "YVTUVa9bzhITfQd5LtJ8n+1RqpiXbh+8j25zLto6C2A=",
+        "vega_pub_key": "b1ef3f090fa624c6f859c3af0ff69a4cd842f37355fb3ebda6f9cadaeddf7ced",
         "vega_pub_key_index": 1
       },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309131223",
+  "chain_id": "vega-devnet1-202309131309",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-13T12:23:47.286461249Z",
+  "genesis_time": "2023-09-13T13:09:44.679669643Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "C117AA800B9CE1CA43DBC06F2A7BD0C9830165DB",
-      "name": "lovely-movie",
+      "address": "182DE9DEAB64ED47EF91DE40BF9C8B1664E21CC3",
+      "name": "gifted-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "TOZZTIsyy+jbOfSaJvyK4RvFnhJe3hwNxKHkSCm6c9U="
+        "value": "YVTUVa9bzhITfQd5LtJ8n+1RqpiXbh+8j25zLto6C2A="
       }
     }
   ]
