@@ -292,17 +292,6 @@
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
         "vega_pub_key_index": 1
       },
-      "a4a5sbcHstWUaVpQWaX0fCLHtg9F67o9Kav4dmhQeIY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/4hqqv17ka4stb88x6pr1vyrivjzfqjk3?d=identicon",
-        "country": "BN",
-        "ethereum_address": "0xc1b17126EF75689adCd74a1a272b1b89aEe5AfF3",
-        "id": "e735dfab6463129969e650c2964dd1ede909b6c1286c7389e007783799aca3d7",
-        "info_url": "https://en.wikipedia.org/wiki/Dragon_Prince_(comics)",
-        "name": "quiet-pond",
-        "tm_pub_key": "a4a5sbcHstWUaVpQWaX0fCLHtg9F67o9Kav4dmhQeIY=",
-        "vega_pub_key": "5eff4d13da86c5cb813974b073b19ab0b264ea07cd076397dd29a8a09805b69b",
-        "vega_pub_key_index": 1
-      },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
         "avatar_url": "https://www.gravatar.com/avatar/z9sfw769a99015gw2zxnb0n4o57k4pch?d=identicon",
         "country": "RC",
@@ -324,10 +313,21 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
+      },
+      "ypgldH3XrSKoiuZ3ELp01sDhng2M9VdOD0pyczdwLzc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ohhcke11yn2f5izx9k8cxgzz7erwzj56?d=identicon",
+        "country": "BV",
+        "ethereum_address": "0x7e0871c6E329aFd8Eb1eEE8Bc3DF160117E03294",
+        "id": "94243e34d690d2b73d4babdfece634a446a88a5be7d7dd60e072074e59ba73b6",
+        "info_url": "https://en.wikipedia.org/wiki/Anya_Lahiri",
+        "name": "better-spoon",
+        "tm_pub_key": "ypgldH3XrSKoiuZ3ELp01sDhng2M9VdOD0pyczdwLzc=",
+        "vega_pub_key": "4c5ac88edcdadfaae73776ea4aaf4bf798e66d1975272e2510d27120ea28b189",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202309141422",
+  "chain_id": "vega-devnet1-202309141505",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-14T14:22:57.592292332Z",
+  "genesis_time": "2023-09-14T15:05:44.135598192Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "13C29ABB9F70768EDD5C1488F9E14A8DF9B5EB9E",
-      "name": "quiet-pond",
+      "address": "D8E423A25DC11EB47E47AE1EFA65513DA9DFEE77",
+      "name": "better-spoon",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "a4a5sbcHstWUaVpQWaX0fCLHtg9F67o9Kav4dmhQeIY="
+        "value": "ypgldH3XrSKoiuZ3ELp01sDhng2M9VdOD0pyczdwLzc="
       }
     }
   ]
