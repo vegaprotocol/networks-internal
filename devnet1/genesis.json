@@ -303,6 +303,17 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
+      "hWEHiJtqnDv0tz0VtIl+5ywh7aaHeeTi0rtGTqclcvI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/419duu04hn29a0s49vcdjvugqtjg0qg8?d=identicon",
+        "country": "OA",
+        "ethereum_address": "0x05de16a8E5a026a9855cdFb25C5ab15fBE4C9623",
+        "id": "831e26ed53c78322d3c473dd331a5ce9d6a221ba4e43a3b01bd52ff0eeba9e37",
+        "info_url": "https://en.wikipedia.org/wiki/Charles_S._Bradley",
+        "name": "ideal-chair",
+        "tm_pub_key": "hWEHiJtqnDv0tz0VtIl+5ywh7aaHeeTi0rtGTqclcvI=",
+        "vega_pub_key": "71992dfc70a9f49c56c2cece3428ab54d494015e2a90c7ec41a73a6d5a05587b",
+        "vega_pub_key_index": 1
+      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -313,21 +324,10 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
-      },
-      "ypgldH3XrSKoiuZ3ELp01sDhng2M9VdOD0pyczdwLzc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ohhcke11yn2f5izx9k8cxgzz7erwzj56?d=identicon",
-        "country": "BV",
-        "ethereum_address": "0x7e0871c6E329aFd8Eb1eEE8Bc3DF160117E03294",
-        "id": "94243e34d690d2b73d4babdfece634a446a88a5be7d7dd60e072074e59ba73b6",
-        "info_url": "https://en.wikipedia.org/wiki/Anya_Lahiri",
-        "name": "better-spoon",
-        "tm_pub_key": "ypgldH3XrSKoiuZ3ELp01sDhng2M9VdOD0pyczdwLzc=",
-        "vega_pub_key": "4c5ac88edcdadfaae73776ea4aaf4bf798e66d1975272e2510d27120ea28b189",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202309141545",
+  "chain_id": "vega-devnet1-202309141803",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-14T15:45:43.604970875Z",
+  "genesis_time": "2023-09-14T18:03:02.596002604Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "D8E423A25DC11EB47E47AE1EFA65513DA9DFEE77",
-      "name": "better-spoon",
+      "address": "5868FC842F72FF14FCF9D6C9F19BE90627A6452B",
+      "name": "ideal-chair",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ypgldH3XrSKoiuZ3ELp01sDhng2M9VdOD0pyczdwLzc="
+        "value": "hWEHiJtqnDv0tz0VtIl+5ywh7aaHeeTi0rtGTqclcvI="
       }
     }
   ]
