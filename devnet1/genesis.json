@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "6BKlFvQNnCtW3fiu89lygksERQWYtpwhrXQKyz5+9+0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/3d0d9k1990nhnad24rkgkwzjhf0y602e?d=identicon",
+        "country": "EN",
+        "ethereum_address": "0xE74f92038c367120A8eD4e14752D6c1b904da6CF",
+        "id": "94ecaf720c582c12076007b45c9c9da26df4113b358d898b37d41a991bf1bca5",
+        "info_url": "https://en.wikipedia.org/wiki/Harbach_(surname)",
+        "name": "disturbed-road",
+        "tm_pub_key": "6BKlFvQNnCtW3fiu89lygksERQWYtpwhrXQKyz5+9+0=",
+        "vega_pub_key": "dfee36665b6bcc85bed85f9d392937c970e3036b68505c0ed54c0f9ef5780379",
+        "vega_pub_key_index": 1
+      },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
         "avatar_url": "https://www.gravatar.com/avatar/oapaoa6gfsgvg6f1yo5umw2fnn3thw1z?d=identicon",
         "country": "FQ",
@@ -313,21 +324,10 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
-      },
-      "uhQMTE/J34iNpWmY4cFvFNNok+oxiHBcfsZkZGMLt2Q=": {
-        "avatar_url": "https://www.gravatar.com/avatar/giprree8ry4r0yava6082yl3f57e5d5v?d=identicon",
-        "country": "QG",
-        "ethereum_address": "0xa3B038c29341189F87F6d3602e0fb16e1882e57E",
-        "id": "25d50473b55edc42b42c30fd7d1a3cf0a1ee8238aa62bde6a7e8f7511229020c",
-        "info_url": "https://en.wikipedia.org/wiki/Sam_Coppersmith",
-        "name": "frantic-flowers",
-        "tm_pub_key": "uhQMTE/J34iNpWmY4cFvFNNok+oxiHBcfsZkZGMLt2Q=",
-        "vega_pub_key": "b275e9951735af409c21e68ecc08970acf2e953f7f21be4ca410a745366fb5e7",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202309141225",
+  "chain_id": "vega-devnet1-202309141346",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-14T12:25:59.236259165Z",
+  "genesis_time": "2023-09-14T13:46:38.535982068Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "9BFE626F00A01938556AD8BC0BEDB850398E415F",
-      "name": "frantic-flowers",
+      "address": "32C15AD88C188139EE991CB6257EDE20756AD741",
+      "name": "disturbed-road",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "uhQMTE/J34iNpWmY4cFvFNNok+oxiHBcfsZkZGMLt2Q="
+        "value": "6BKlFvQNnCtW3fiu89lygksERQWYtpwhrXQKyz5+9+0="
       }
     }
   ]
