@@ -303,17 +303,6 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
-      "qRakQTAf0QV8hkAW8vEAYlU1R+K7Onu1HPx0hhx9Ud8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/b0is2vve69rv1vwvmy1yvsidh9hzr54d?d=identicon",
-        "country": "AY",
-        "ethereum_address": "0x45F2e2b7aca9E541daBA64be0a5EB91016b0a86e",
-        "id": "6970815c3f5bb76bb490a6d4193e751498c3835ffbf0e357e52ead23db283eec",
-        "info_url": "https://en.wikipedia.org/wiki/Pleasance_Islington",
-        "name": "clever-stove",
-        "tm_pub_key": "qRakQTAf0QV8hkAW8vEAYlU1R+K7Onu1HPx0hhx9Ud8=",
-        "vega_pub_key": "dc1025ee5d07c5c94a3035bbaedff4b4d505649e082d7a6c2c112cc2c140df63",
-        "vega_pub_key_index": 1
-      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -324,10 +313,21 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
+      },
+      "uhQMTE/J34iNpWmY4cFvFNNok+oxiHBcfsZkZGMLt2Q=": {
+        "avatar_url": "https://www.gravatar.com/avatar/giprree8ry4r0yava6082yl3f57e5d5v?d=identicon",
+        "country": "QG",
+        "ethereum_address": "0xa3B038c29341189F87F6d3602e0fb16e1882e57E",
+        "id": "25d50473b55edc42b42c30fd7d1a3cf0a1ee8238aa62bde6a7e8f7511229020c",
+        "info_url": "https://en.wikipedia.org/wiki/Sam_Coppersmith",
+        "name": "frantic-flowers",
+        "tm_pub_key": "uhQMTE/J34iNpWmY4cFvFNNok+oxiHBcfsZkZGMLt2Q=",
+        "vega_pub_key": "b275e9951735af409c21e68ecc08970acf2e953f7f21be4ca410a745366fb5e7",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202309141109",
+  "chain_id": "vega-devnet1-202309141225",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-14T11:09:11.342127426Z",
+  "genesis_time": "2023-09-14T12:25:59.236259165Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "F7B5945390B606A37DED2BF7B2BC112A14B33A81",
-      "name": "clever-stove",
+      "address": "9BFE626F00A01938556AD8BC0BEDB850398E415F",
+      "name": "frantic-flowers",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "qRakQTAf0QV8hkAW8vEAYlU1R+K7Onu1HPx0hhx9Ud8="
+        "value": "uhQMTE/J34iNpWmY4cFvFNNok+oxiHBcfsZkZGMLt2Q="
       }
     }
   ]
