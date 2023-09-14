@@ -292,15 +292,15 @@
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
         "vega_pub_key_index": 1
       },
-      "YVTUVa9bzhITfQd5LtJ8n+1RqpiXbh+8j25zLto6C2A=": {
-        "avatar_url": "https://www.gravatar.com/avatar/wwmlu54nqvy4ejffbqt8qanb250umae2?d=identicon",
-        "country": "YJ",
-        "ethereum_address": "0xbdeb7AFe51F262AC2F350046511Feb06ac788df3",
-        "id": "2d92005484e5267004b76004f5f985519ee1ab8cec1f5fde62bf491af067f8b6",
-        "info_url": "https://en.wikipedia.org/wiki/Thomas_Fletcher_(bishop)",
-        "name": "gifted-river",
-        "tm_pub_key": "YVTUVa9bzhITfQd5LtJ8n+1RqpiXbh+8j25zLto6C2A=",
-        "vega_pub_key": "b1ef3f090fa624c6f859c3af0ff69a4cd842f37355fb3ebda6f9cadaeddf7ced",
+      "Ws96bVGE+YdMI814KbFMz1XtnNDosFjNtmsaWqL38ZY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/o1mu1sflpgey41bd8zy28bqyujk0smp4?d=identicon",
+        "country": "RU",
+        "ethereum_address": "0x5F82c6b575eEEea17DE53F9D7156aBb7621aC760",
+        "id": "4aced467f3281822dd0d4f966e318d6a39a5d6a4c1404a8326dc7f1044115e3c",
+        "info_url": "https://en.wikipedia.org/wiki/Deon_Davids",
+        "name": "friendly-hat",
+        "tm_pub_key": "Ws96bVGE+YdMI814KbFMz1XtnNDosFjNtmsaWqL38ZY=",
+        "vega_pub_key": "d3e6a19b34e4914c41084c4bea606a71c976c6c0a83de078ec9f7cecf1ac107f",
         "vega_pub_key_index": 1
       },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309131309",
+  "chain_id": "vega-devnet1-202309140847",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-13T13:09:44.679669643Z",
+  "genesis_time": "2023-09-14T08:47:37.030189846Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "182DE9DEAB64ED47EF91DE40BF9C8B1664E21CC3",
-      "name": "gifted-river",
+      "address": "CF2002482DA8376CA3FF0B37081E44468A836431",
+      "name": "friendly-hat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "YVTUVa9bzhITfQd5LtJ8n+1RqpiXbh+8j25zLto6C2A="
+        "value": "Ws96bVGE+YdMI814KbFMz1XtnNDosFjNtmsaWqL38ZY="
       }
     }
   ]
