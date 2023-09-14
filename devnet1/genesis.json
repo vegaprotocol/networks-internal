@@ -281,17 +281,6 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
-      "QPj5FOWax1OGwdX9RIJ25NGT/HK+ni4DD1vnBn0YXgo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/2rjk5fprz9zlrsbdi17mlpy78fwhi2p0?d=identicon",
-        "country": "WK",
-        "ethereum_address": "0xcCca964f827a0c5Cd50235FA82d72EC93Ead20B6",
-        "id": "320287eae8943b569c6f549567457191e341e3a869af05905ae93470ab5266f6",
-        "info_url": "https://en.wikipedia.org/wiki/Jantroon_Dhar",
-        "name": "echoing-plant",
-        "tm_pub_key": "QPj5FOWax1OGwdX9RIJ25NGT/HK+ni4DD1vnBn0YXgo=",
-        "vega_pub_key": "5ec2badebc98aedaf4a9e0790e22146043e7193442cfa020776ee6adeebf9ab7",
-        "vega_pub_key_index": 1
-      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -314,6 +303,17 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
+      "qRakQTAf0QV8hkAW8vEAYlU1R+K7Onu1HPx0hhx9Ud8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/b0is2vve69rv1vwvmy1yvsidh9hzr54d?d=identicon",
+        "country": "AY",
+        "ethereum_address": "0x45F2e2b7aca9E541daBA64be0a5EB91016b0a86e",
+        "id": "6970815c3f5bb76bb490a6d4193e751498c3835ffbf0e357e52ead23db283eec",
+        "info_url": "https://en.wikipedia.org/wiki/Pleasance_Islington",
+        "name": "clever-stove",
+        "tm_pub_key": "qRakQTAf0QV8hkAW8vEAYlU1R+K7Onu1HPx0hhx9Ud8=",
+        "vega_pub_key": "dc1025ee5d07c5c94a3035bbaedff4b4d505649e082d7a6c2c112cc2c140df63",
+        "vega_pub_key_index": 1
+      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309141003",
+  "chain_id": "vega-devnet1-202309141109",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-14T10:03:49.378654256Z",
+  "genesis_time": "2023-09-14T11:09:11.342127426Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "049320311451A9C8237FA027F2FFE9490E9F027E",
-      "name": "echoing-plant",
+      "address": "F7B5945390B606A37DED2BF7B2BC112A14B33A81",
+      "name": "clever-stove",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "QPj5FOWax1OGwdX9RIJ25NGT/HK+ni4DD1vnBn0YXgo="
+        "value": "qRakQTAf0QV8hkAW8vEAYlU1R+K7Onu1HPx0hhx9Ud8="
       }
     }
   ]
