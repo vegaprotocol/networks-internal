@@ -1,0 +1,567 @@
+# Binance exchange info/symbols: https://api.binance.com/api/v1/exchangeInfo
+
+network_config_file = "https://raw.githubusercontent.com/vegaprotocol/networks-internal/main/stagnet1/vegawallet-stagnet1.toml"
+debug = false
+work_dir = "./network"
+
+
+[http_server]
+interface = "0.0.0.0"
+port = 80
+
+[vegawallet]
+version = "" # ignored if auto_version == true
+repository = "vegaprotocol/vega"
+artifact_name = "vega"
+download_wallet_binary = true
+auto_version = true
+tokens_file = "./network/wallet-info.json"
+
+wallet_name = "vegamarketsim"
+network_name = "stagnet1"
+binary = "vega" # vega binary, as we use vega wallet command
+home = "/opt/wallets-mount" # mounted from the host
+passphrase_file = "./assets/passphrase.txt"
+
+# [scenario.btcusdt_230630]
+#     market_name = "BTC/USDT expiry 2023 June 30th"
+#     binance_code = "BTCDAI"
+#     step_length_seconds = 10
+#     [scenario.btcusdt_230630.market_manager_args]
+#         market_name = "BTC/USDT expiry 2023 June 30th"
+#         market_code = "BTC/USDT-230630"
+#         asset_name = "tUSDC"
+#         adp = 6
+#         mdp = 4
+#         pdp = 0
+#     [scenario.btcusdt_230630.market_maker_args]
+#         market_kappa = 0.15
+#         market_order_arrival_rate = 100
+#         order_kappa = 0.15
+#         order_size = 1
+#         order_levels = 25
+#         order_spacing = 1
+#         order_clipping = 10000
+#         inventory_lower_boundary = -3
+#         inventory_upper_boundary = 3
+#         fee_amount = 0.0001
+#         commitment_amount = 800000
+#         initial_mint = 200000
+#     [scenario.btcusdt_230630.auction_trader_args]
+#         initial_volume = 0.001
+#         initial_mint = 10000
+#     [scenario.btcusdt_230630.random_trader_args]
+#         order_intensity = [5, 5, 5, 5, 5, 5]
+#         order_volume = [0.01, 0.1, 1.0, 0.01, 0.1, 1.0]
+#         step_bias = [0.333, 0.012, 0.003, 0.333, 0.012, 0.003]
+#         initial_mint = 1000000
+#     [scenario.btcusdt_230630.sensitive_trader_args]
+#         scale = [10, 10, 10, 10, 10, 10]
+#         max_order_size = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
+#         initial_mint = 10000
+#     [scenario.btcusdt_230630.simulation_args]
+#         n_steps = 360
+#         granularity = "MINUTE"
+#         coinbase_code = "BTC-USDT"
+#         start_date = "2022-11-01 00:00:00"
+#         randomise_history = false
+
+# [scenario.ethusdt_230630]
+#     market_name = "ETH/USDT expiry 2023 June 30th"
+#     binance_code = "ETHDAI"
+#     step_length_seconds = 10
+#     [scenario.ethusdt_230630.market_manager_args]
+#         market_name = "ETH/USDT expiry 2023 June 30th"
+#         market_code = "ETH/USDT-230630"
+#         asset_name = "tUSDC"
+#         adp = 6
+#         mdp = 4
+#         pdp = 0
+#     [scenario.ethusdt_230630.market_maker_args]
+#         market_kappa = 0.15
+#         market_order_arrival_rate = 100
+#         order_kappa = 0.15
+#         order_size = 1
+#         order_levels = 25
+#         order_spacing = 1
+#         order_clipping = 10000
+#         inventory_lower_boundary = -3
+#         inventory_upper_boundary = 3
+#         fee_amount = 0.0001
+#         commitment_amount = 400000
+#         initial_mint = 200000
+#     [scenario.ethusdt_230630.auction_trader_args]
+#         initial_volume = 0.001
+#         initial_mint = 10000
+#     [scenario.ethusdt_230630.random_trader_args]
+#         order_intensity = [45, 45, 45]
+#         order_volume = [0.01, 0.1, 1.0]
+#         step_bias = [0.333, 0.012, 0.003]
+#         initial_mint = 1000000
+#     [scenario.ethusdt_230630.sensitive_trader_args]
+#         scale = [10, 10, 10]
+#         max_order_size = [0.001, 0.01, 0.1]
+#         initial_mint = 10000
+#     [scenario.ethusdt_230630.simulation_args]
+#         n_steps = 360
+#         granularity = "MINUTE"
+#         coinbase_code = "ETH-USDT"
+#         start_date = "2022-11-01 00:00:00"
+#         randomise_history = false
+
+
+[scenario.applemontly]
+    market_name = "Apple Monthly (Jul 2023)"
+    binance_code = "EOSUSDT"
+    step_length_seconds = 10
+    [scenario.applemontly.market_manager_args]
+        asset_name = "tUSDC"
+        adp = 6
+        mdp = 4
+        pdp = 0
+    [scenario.applemontly.market_maker_args]
+        market_kappa = 1000
+        market_order_arrival_rate = 100
+        order_kappa = 0.5
+        order_size = 1
+        order_levels = 30
+        order_spacing = 0.0001
+        order_clipping = 10000
+        inventory_lower_boundary = -3
+        inventory_upper_boundary = 3
+        fee_amount = 0.0001
+        commitment_amount = 800000
+        initial_mint = 200000
+    [scenario.applemontly.auction_trader_args]
+        initial_volume = 0.001
+        initial_mint = 10000
+    [scenario.applemontly.random_trader_args]
+        order_intensity = [5, 5, 5, 5, 5, 5]
+        order_volume = [0.01, 0.1, 1.0, 0.01, 0.1, 1.0]
+        step_bias = [0.333, 0.012, 0.003, 0.333, 0.012, 0.003]
+        initial_mint = 1000000
+    [scenario.applemontly.sensitive_trader_args]
+        scale = [20, 20, 20, 20, 20, 20]
+        max_order_size = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
+        initial_mint = 10000
+    [scenario.applemontly.simulation_args]
+        n_steps = 360
+        granularity = "MINUTE"
+        coinbase_code = "BTC-USDT"
+        start_date = "2022-11-01 00:00:00"
+        randomise_history = false
+
+
+[scenario.tsla_quarterly]
+    market_name = "Tesla Quarterly (Sep 2023)"
+    binance_code = "BNBEUR"
+    step_length_seconds = 10
+    [scenario.tsla_quarterly.market_manager_args]
+        asset_name = "tEURO"
+        adp = 5
+        mdp = 5
+        pdp = 0
+    [scenario.tsla_quarterly.market_maker_args]
+        market_kappa = 10
+        market_order_arrival_rate = 100
+        order_kappa = 0.02
+        order_size = 1
+        order_levels = 25
+        order_spacing = 0.5
+        order_clipping = 10000
+        inventory_lower_boundary = -3
+        inventory_upper_boundary = 3
+        fee_amount = 0.0001
+        commitment_amount = 400000
+        initial_mint = 200000
+    [scenario.tsla_quarterly.auction_trader_args]
+        initial_volume = 0.001
+        initial_mint = 10000
+    [scenario.tsla_quarterly.random_trader_args]
+        order_intensity = [45, 45, 45]
+        order_volume = [0.01, 0.1, 1.0]
+        step_bias = [0.333, 0.012, 0.003]
+        initial_mint = 1000000
+    [scenario.tsla_quarterly.sensitive_trader_args]
+        scale = [10, 10, 10]
+        max_order_size = [0.001, 0.01, 0.1]
+        initial_mint = 10000
+    [scenario.tsla_quarterly.simulation_args]
+        n_steps = 360
+        granularity = "MINUTE"
+        coinbase_code = "ETH-USDT"
+        start_date = "2022-11-01 00:00:00"
+        randomise_history = false
+
+
+[scenario.btcusd_perpetual]
+    market_name = "BTCUSD Perpetual Futures"
+    binance_code = "BTCDAI"
+    step_length_seconds = 10
+    [scenario.btcusd_perpetual.market_manager_args]
+        asset_name = "tUSDC"
+        adp = 6
+        mdp = 4
+        pdp = 0
+    [scenario.btcusd_perpetual.market_maker_args]
+        market_kappa = 0.15
+        market_order_arrival_rate = 100
+        order_kappa = 0.15
+        order_size = 1
+        order_levels = 25
+        order_spacing = 1
+        order_clipping = 10000
+        inventory_lower_boundary = -3
+        inventory_upper_boundary = 3
+        fee_amount = 0.0001
+        commitment_amount = 800000
+        initial_mint = 200000
+    [scenario.btcusd_perpetual.auction_trader_args]
+        traders = 2
+        initial_volume = 0.001
+        initial_mint = 10000
+    [scenario.btcusd_perpetual.random_trader_args]
+        traders = 3
+        order_intensity = [5, 5, 5, 5, 5, 5]
+        order_volume = [0.01, 0.1, 1.0, 0.01, 0.1, 1.0]
+        step_bias = [0.333, 0.012, 0.003, 0.333, 0.012, 0.003]
+        initial_mint = 1000000
+    [scenario.btcusd_perpetual.sensitive_trader_args]
+        traders = 3
+        scale = [10, 10, 10, 10, 10, 10]
+        max_order_size = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
+        initial_mint = 10000
+    [scenario.btcusd_perpetual.simulation_args]
+        n_steps = 360
+        granularity = "MINUTE"
+        coinbase_code = "BTC-USDT"
+        start_date = "2022-11-01 00:00:00"
+        randomise_history = false
+
+[scenario.ethusdt_perpetual]
+    market_name = "ETHUSD Perpetual"
+    binance_code = "ETHDAI"
+    step_length_seconds = 10
+    [scenario.ethusdt_perpetual.market_manager_args]
+        asset_name = "tUSDC"
+        adp = 6
+        mdp = 6
+        pdp = 0
+    [scenario.ethusdt_perpetual.market_maker_args]
+        market_kappa = 0.15
+        market_order_arrival_rate = 100
+        order_kappa = 0.15
+        order_size = 1
+        order_levels = 25
+        order_spacing = 1
+        order_clipping = 10000
+        inventory_lower_boundary = -3
+        inventory_upper_boundary = 3
+        fee_amount = 0.0001
+        commitment_amount = 400000
+        initial_mint = 200000
+    [scenario.ethusdt_perpetual.auction_trader_args]
+        initial_volume = 0.001
+        initial_mint = 10000
+    [scenario.ethusdt_perpetual.random_trader_args]
+        order_intensity = [45, 45, 45]
+        order_volume = [0.01, 0.1, 1.0]
+        step_bias = [0.333, 0.012, 0.003]
+        initial_mint = 1000000
+    [scenario.ethusdt_perpetual.sensitive_trader_args]
+        scale = [10, 10, 10]
+        max_order_size = [0.001, 0.01, 0.1]
+        initial_mint = 10000
+    [scenario.ethusdt_perpetual.simulation_args]
+        n_steps = 360
+        granularity = "MINUTE"
+        coinbase_code = "ETH-USDT"
+        start_date = "2022-11-01 00:00:00"
+        randomise_history = false
+
+[scenario.daiusd_perpetual]
+    market_name = "DAIUSD Perpetual"
+    binance_code = "DAIUSDT"
+    step_length_seconds = 10
+    [scenario.daiusd_perpetual.market_manager_args]
+        asset_name = "tUSDC"
+        adp = 6
+        mdp = 6
+        pdp = 0
+    [scenario.daiusd_perpetual.market_maker_args]
+        market_kappa = 1000
+        market_order_arrival_rate = 100
+        order_kappa = 0.5
+        order_size = 1
+        order_levels = 30
+        order_spacing = 0.00001
+        order_clipping = 10000
+        inventory_lower_boundary = -3
+        inventory_upper_boundary = 3
+        fee_amount = 0.0001
+        commitment_amount = 800000
+        initial_mint = 200000
+    [scenario.daiusd_perpetual.auction_trader_args]
+        initial_volume = 0.001
+        initial_mint = 10000
+    [scenario.daiusd_perpetual.random_trader_args]
+        order_intensity = [5, 5, 5, 5, 5, 5]
+        order_volume = [0.01, 0.1, 1.0, 0.01, 0.1, 1.0]
+        step_bias = [0.333, 0.012, 0.003, 0.333, 0.012, 0.003]
+        initial_mint = 1000000
+    [scenario.daiusd_perpetual.sensitive_trader_args]
+        scale = [20, 20, 20, 20, 20, 20]
+        max_order_size = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
+        initial_mint = 10000
+    [scenario.daiusd_perpetual.simulation_args]
+        n_steps = 360
+        granularity = "MINUTE"
+        coinbase_code = "BTC-USDT"
+        start_date = "2022-11-01 00:00:00"
+        randomise_history = false
+
+[scenario.btcusdt_monthly]
+    market_name = "BTCUSD Monthly (Jul 2023)"
+    binance_code = "BTCDAI"
+    step_length_seconds = 10
+    [scenario.btcusdt_monthly.market_manager_args]
+        asset_name = "tDAI"
+        adp = 18
+        mdp = 4
+        pdp = 0
+    [scenario.btcusdt_monthly.market_maker_args]
+        market_kappa = 0.15
+        market_order_arrival_rate = 100
+        order_kappa = 0.15
+        order_size = 1
+        order_levels = 25
+        order_spacing = 1
+        order_clipping = 10000
+        inventory_lower_boundary = -3
+        inventory_upper_boundary = 3
+        fee_amount = 0.0001
+        commitment_amount = 800000
+        initial_mint = 200000
+    [scenario.btcusdt_monthly.auction_trader_args]
+        initial_volume = 0.001
+        initial_mint = 10000
+    [scenario.btcusdt_monthly.random_trader_args]
+        order_intensity = [5, 5, 5, 5, 5, 5]
+        order_volume = [0.01, 0.1, 1.0, 0.01, 0.1, 1.0]
+        step_bias = [0.333, 0.012, 0.003, 0.333, 0.012, 0.003]
+        initial_mint = 1000000
+    [scenario.btcusdt_monthly.sensitive_trader_args]
+        scale = [10, 10, 10, 10, 10, 10]
+        max_order_size = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
+        initial_mint = 10000
+    [scenario.btcusdt_monthly.simulation_args]
+        n_steps = 360
+        granularity = "MINUTE"
+        coinbase_code = "BTC-USDT"
+        start_date = "2022-11-01 00:00:00"
+        randomise_history = false
+
+[scenario.eurusd_perpetual]
+    market_name = "EURUSD Perpetual"
+    binance_code = "EURUSDT"
+    step_length_seconds = 10
+    [scenario.eurusd_perpetual.market_manager_args]
+        asset_name = "tUSDC"
+        adp = 6
+        mdp = 6
+        pdp = 0
+    [scenario.eurusd_perpetual.market_maker_args]
+        market_kappa = 100000
+        market_order_arrival_rate = 100
+        order_kappa = 0.005
+        order_size = 1
+        order_levels = 30
+        order_spacing = 0.0005
+        order_clipping = 10000
+        inventory_lower_boundary = -3
+        inventory_upper_boundary = 3
+        fee_amount = 0.0001
+        commitment_amount = 800000
+        initial_mint = 200000
+    [scenario.eurusd_perpetual.auction_trader_args]
+        initial_volume = 0.001
+        initial_mint = 10000
+    [scenario.eurusd_perpetual.random_trader_args]
+        order_intensity = [5, 5, 5, 5, 5, 5]
+        order_volume = [0.01, 0.1, 1.0, 0.01, 0.1, 1.0]
+        step_bias = [0.333, 0.012, 0.003, 0.333, 0.012, 0.003]
+        initial_mint = 1000000
+    [scenario.eurusd_perpetual.sensitive_trader_args]
+        scale = [20, 20, 20, 20, 20, 20]
+        max_order_size = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
+        initial_mint = 10000
+    [scenario.eurusd_perpetual.simulation_args]
+        n_steps = 360
+        granularity = "MINUTE"
+        coinbase_code = "BTC-USDT"
+        start_date = "2022-11-01 00:00:00"
+        randomise_history = false
+
+[scenario.aavedai]
+    market_name = "AAVEDAI Monthly (Jul 2023)"
+    binance_code = "AAVEUSDT"
+    step_length_seconds = 10
+    [scenario.aavedai.market_manager_args]
+        asset_name = "tDAI"
+        adp = 18
+        mdp = 5
+        pdp = 0
+    [scenario.aavedai.market_maker_args]
+        market_kappa = 1
+        market_order_arrival_rate = 100
+        order_kappa = 0.4
+        order_size = 1
+        order_levels = 10
+        order_spacing = 0.2
+        order_clipping = 10000
+        inventory_lower_boundary = -3
+        inventory_upper_boundary = 3
+        fee_amount = 0.0001
+        commitment_amount = 800000
+        initial_mint = 200000
+    [scenario.aavedai.auction_trader_args]
+        initial_volume = 0.001
+        initial_mint = 10000
+    [scenario.aavedai.random_trader_args]
+        order_intensity = [5, 5, 5, 5, 5, 5]
+        order_volume = [0.01, 0.1, 1.0, 0.01, 0.1, 1.0]
+        step_bias = [0.333, 0.012, 0.003, 0.333, 0.012, 0.003]
+        initial_mint = 1000000
+    [scenario.aavedai.sensitive_trader_args]
+        scale = [20, 20, 20, 20, 20, 20]
+        max_order_size = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
+        initial_mint = 10000
+    [scenario.aavedai.simulation_args]
+        n_steps = 360
+        granularity = "MINUTE"
+        coinbase_code = "BTC-USDT"
+        start_date = "2022-11-01 00:00:00"
+        randomise_history = false
+
+[scenario.ethbtc_quarterly]
+    market_name = "ETHBTC Quarterly (Sep 2023)"
+    binance_code = "ETHBTC"
+    step_length_seconds = 10
+    [scenario.ethbtc_quarterly.market_manager_args]
+        asset_name = "tUSDC"
+        adp = 8
+        mdp = 5
+        pdp = 0
+    [scenario.ethbtc_quarterly.market_maker_args]
+        market_kappa = 100000
+        market_order_arrival_rate = 100
+        order_kappa = 0.0000001
+        order_size = 1
+        order_levels = 30
+        order_spacing = 0.00001
+        order_clipping = 10000
+        inventory_lower_boundary = -3
+        inventory_upper_boundary = 3
+        fee_amount = 0.0001
+        commitment_amount = 800000
+        initial_mint = 200000
+    [scenario.ethbtc_quarterly.auction_trader_args]
+        initial_volume = 0.001
+        initial_mint = 10000
+    [scenario.ethbtc_quarterly.random_trader_args]
+        order_intensity = [5, 5, 5, 5, 5, 5]
+        order_volume = [0.01, 0.1, 1.0, 0.01, 0.1, 1.0]
+        step_bias = [0.333, 0.012, 0.003, 0.333, 0.012, 0.003]
+        initial_mint = 1000000
+    [scenario.ethbtc_quarterly.sensitive_trader_args]
+        scale = [20, 20, 20, 20, 20, 20]
+        max_order_size = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
+        initial_mint = 10000
+    [scenario.ethbtc_quarterly.simulation_args]
+        n_steps = 360
+        granularity = "MINUTE"
+        coinbase_code = "BTC-USDT"
+        start_date = "2022-11-01 00:00:00"
+        randomise_history = false
+
+[scenario.linkusdt_perpetual]
+    market_name = "LINKUSD Perpetual"
+    binance_code = "LINKUSDT"
+    step_length_seconds = 10
+    [scenario.linkusdt_perpetual.market_manager_args]
+        asset_name = "tUSDC"
+        adp = 6
+        mdp = 4
+        pdp = 0
+    [scenario.linkusdt_perpetual.market_maker_args]
+        market_kappa = 30000
+        market_order_arrival_rate = 100
+        order_kappa = 0.15
+        order_size = 1
+        order_levels = 25
+        order_spacing = 0.001
+        order_clipping = 10000
+        inventory_lower_boundary = -3
+        inventory_upper_boundary = 3
+        fee_amount = 0.0001
+        commitment_amount = 400000
+        initial_mint = 200000
+    [scenario.linkusdt_perpetual.auction_trader_args]
+        initial_volume = 0.001
+        initial_mint = 10000
+    [scenario.linkusdt_perpetual.random_trader_args]
+        order_intensity = [5, 5, 5]
+        order_volume = [0.001, 0.01, 0.1]
+        step_bias = [0.333, 0.012, 0.003]
+        initial_mint = 1000000
+    [scenario.linkusdt_perpetual.sensitive_trader_args]
+        scale = [10, 10, 10]
+        max_order_size = [0.001, 0.01, 0.1]
+        initial_mint = 10000
+    [scenario.linkusdt_perpetual.simulation_args]
+        n_steps = 360
+        granularity = "MINUTE"
+        coinbase_code = "LINK-USDT"
+        start_date = "2022-11-01 00:00:00"
+        randomise_history = false
+
+[scenario.ehtdai_monthly]
+    market_name = "ETHDAI Monthly (Jul 2023)"
+    binance_code = "ETHDAI"
+    step_length_seconds = 10
+    [scenario.ehtdai_monthly.market_manager_args]
+        asset_name = "tDAI"
+        adp = 18
+        mdp = 4
+        pdp = 0
+    [scenario.ehtdai_monthly.market_maker_args]
+        market_kappa = 0.15
+        market_order_arrival_rate = 100
+        order_kappa = 0.15
+        order_size = 1
+        order_levels = 25
+        order_spacing = 1
+        order_clipping = 10000
+        inventory_lower_boundary = -3
+        inventory_upper_boundary = 3
+        fee_amount = 0.0001
+        commitment_amount = 400000
+        initial_mint = 200000
+    [scenario.ehtdai_monthly.auction_trader_args]
+        initial_volume = 0.001
+        initial_mint = 10000
+    [scenario.ehtdai_monthly.random_trader_args]
+        order_intensity = [45, 45, 45]
+        order_volume = [0.01, 0.1, 1.0]
+        step_bias = [0.333, 0.012, 0.003]
+        initial_mint = 1000000
+    [scenario.ehtdai_monthly.sensitive_trader_args]
+        scale = [10, 10, 10]
+        max_order_size = [0.001, 0.01, 0.1]
+        initial_mint = 10000
+    [scenario.ehtdai_monthly.simulation_args]
+        n_steps = 360
+        granularity = "MINUTE"
+        coinbase_code = "ETH-USDT"
+        start_date = "2022-11-01 00:00:00"
+        randomise_history = false
