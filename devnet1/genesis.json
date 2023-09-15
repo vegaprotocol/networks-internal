@@ -303,17 +303,6 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
-      "hWEHiJtqnDv0tz0VtIl+5ywh7aaHeeTi0rtGTqclcvI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/419duu04hn29a0s49vcdjvugqtjg0qg8?d=identicon",
-        "country": "OA",
-        "ethereum_address": "0x05de16a8E5a026a9855cdFb25C5ab15fBE4C9623",
-        "id": "831e26ed53c78322d3c473dd331a5ce9d6a221ba4e43a3b01bd52ff0eeba9e37",
-        "info_url": "https://en.wikipedia.org/wiki/Charles_S._Bradley",
-        "name": "ideal-chair",
-        "tm_pub_key": "hWEHiJtqnDv0tz0VtIl+5ywh7aaHeeTi0rtGTqclcvI=",
-        "vega_pub_key": "71992dfc70a9f49c56c2cece3428ab54d494015e2a90c7ec41a73a6d5a05587b",
-        "vega_pub_key_index": 1
-      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -324,10 +313,21 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
+      },
+      "urRXaGCcqcWdcnUNv9O5lr2sMWmXggwLP4RkDrSu1VM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/5mufgi01a1ch2chhzylbrw17isb130lz?d=identicon",
+        "country": "GB",
+        "ethereum_address": "0x9CEb86E2212f731775b4CadAF648C6988c8eCc0e",
+        "id": "fd2afb70328361a58353130e99e9b88520ab232ec8abfba3628e893488b07cd4",
+        "info_url": "https://en.wikipedia.org/wiki/FIBT_World_Championships_1973",
+        "name": "exuberant-dress",
+        "tm_pub_key": "urRXaGCcqcWdcnUNv9O5lr2sMWmXggwLP4RkDrSu1VM=",
+        "vega_pub_key": "a7029209c35f8f0ec140a5c9f754f44d6a82cf39532159a4374d6c1bfce16e86",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202309141803",
+  "chain_id": "vega-devnet1-202309150841",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-14T18:03:02.596002604Z",
+  "genesis_time": "2023-09-15T08:41:32.312143117Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "5868FC842F72FF14FCF9D6C9F19BE90627A6452B",
-      "name": "ideal-chair",
+      "address": "887608602AF8DCB2E4EAF5DCD05187F68E3FC9C7",
+      "name": "exuberant-dress",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "hWEHiJtqnDv0tz0VtIl+5ywh7aaHeeTi0rtGTqclcvI="
+        "value": "urRXaGCcqcWdcnUNv9O5lr2sMWmXggwLP4RkDrSu1VM="
       }
     }
   ]
