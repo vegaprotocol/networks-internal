@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "9DzTwk1tzugvBuCJJAZv1uoGSiZSJFXUQ7AJZzJHs1Y=": {
+        "avatar_url": "https://www.gravatar.com/avatar/jy7r8k18n8u6my8f1dxwp712s12vigvg?d=identicon",
+        "country": "FL",
+        "ethereum_address": "0x99357653900AE4dAEE52f10dfB7aeF6d6987d866",
+        "id": "2ae850314a82e2be5c2bbf1e83a88a2afc5aa754d477977acc688b3793c02be9",
+        "info_url": "https://en.wikipedia.org/wiki/Losing_My_Religion_(album)",
+        "name": "helpless-mango",
+        "tm_pub_key": "9DzTwk1tzugvBuCJJAZv1uoGSiZSJFXUQ7AJZzJHs1Y=",
+        "vega_pub_key": "b42e7025f6161ceeda06721cf1f970086a24414b94d1d5be6b2c0356b624b339",
+        "vega_pub_key_index": 1
+      },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
         "avatar_url": "https://www.gravatar.com/avatar/oapaoa6gfsgvg6f1yo5umw2fnn3thw1z?d=identicon",
         "country": "FQ",
@@ -303,17 +314,6 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
-      "oD20l3jAPyuS6RrYNVVs8WPjctWH8Gweqj6kfP1PHXA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/z8dseyahtv67u588uermz9gtgnmp1m7r?d=identicon",
-        "country": "FS",
-        "ethereum_address": "0x11acC9e845a0b89029306f7D43E234E84444AB31",
-        "id": "913b012a7d869b4265cc45b2cab887716282ec3336500a700cf38153a1e307e3",
-        "info_url": "https://en.wikipedia.org/wiki/Bill_Marky",
-        "name": "helpful-movie",
-        "tm_pub_key": "oD20l3jAPyuS6RrYNVVs8WPjctWH8Gweqj6kfP1PHXA=",
-        "vega_pub_key": "043e314ce38dcb99c1fc5f3b3dbabea748ae51205fe8307e17a3558b6ceff72f",
-        "vega_pub_key_index": 1
-      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309151448",
+  "chain_id": "vega-devnet1-202309151542",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-15T14:48:36.227815549Z",
+  "genesis_time": "2023-09-15T15:42:40.08843451Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "CFF70537B3C5C0E59D41DC4675BAB20BA33EB9CB",
-      "name": "helpful-movie",
+      "address": "367452515BED0389772F9F962C23A6B5BFC18B80",
+      "name": "helpless-mango",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "oD20l3jAPyuS6RrYNVVs8WPjctWH8Gweqj6kfP1PHXA="
+        "value": "9DzTwk1tzugvBuCJJAZv1uoGSiZSJFXUQ7AJZzJHs1Y="
       }
     }
   ]
