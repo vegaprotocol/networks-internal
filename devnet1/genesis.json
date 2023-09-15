@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "AVFwPrt1Vts69BoWTrKRonJ4z5cEIEi/jkhB0r2Bd8A=": {
+        "avatar_url": "https://www.gravatar.com/avatar/5xt8jwkce5jw71s8zpd849w94m0y86qe?d=identicon",
+        "country": "XF",
+        "ethereum_address": "0xe8bF4293E7D1B9dB8284B54fB3eF7dF92209f82a",
+        "id": "2c58eb64dd971b47937bd5b9c7874f2dcc3723f1f08ef8c17a2d7859fd4f995c",
+        "info_url": "https://en.wikipedia.org/wiki/Marco_Lund",
+        "name": "timely-fan",
+        "tm_pub_key": "AVFwPrt1Vts69BoWTrKRonJ4z5cEIEi/jkhB0r2Bd8A=",
+        "vega_pub_key": "1deabb09c315a78143a5b8e5ba43a0470df9124d271c19f0e1e3662d898e2bae",
+        "vega_pub_key_index": 1
+      },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
         "avatar_url": "https://www.gravatar.com/avatar/oapaoa6gfsgvg6f1yo5umw2fnn3thw1z?d=identicon",
         "country": "FQ",
@@ -290,17 +301,6 @@
         "name": "narrow-plant",
         "tm_pub_key": "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=",
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
-        "vega_pub_key_index": 1
-      },
-      "eL2n6ECIuQLA9GRV7nOI/q9pm1wKWXp2gVJTCgW/S04=": {
-        "avatar_url": "https://www.gravatar.com/avatar/oin34urah7612fzbvdwnlxnib7418x9e?d=identicon",
-        "country": "WF",
-        "ethereum_address": "0x513Ba96F788086Ca13365AB5143438515742cd12",
-        "id": "012352e9a7f2d767fb31abe677348b44f2113427f406c0d2c89f7112a2c832af",
-        "info_url": "https://en.wikipedia.org/wiki/Sistema_P%C3%BAblico_de_Radiodifusi%C3%B3n_del_Estado_Mexicano",
-        "name": "helpful-spoon",
-        "tm_pub_key": "eL2n6ECIuQLA9GRV7nOI/q9pm1wKWXp2gVJTCgW/S04=",
-        "vega_pub_key": "61df72a9e43599c1e68f5ea6a52e72b8adf8bb21d1612fe706f746a2ea8b2a5d",
         "vega_pub_key_index": 1
       },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309150942",
+  "chain_id": "vega-devnet1-202309151112",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-15T09:42:14.859101444Z",
+  "genesis_time": "2023-09-15T11:12:39.343504795Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "A489ACA8893055931428264AD82A0C812AEFCAF3",
-      "name": "helpful-spoon",
+      "address": "F253F615F72FE117D73248B4EC4B59359489714E",
+      "name": "timely-fan",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "eL2n6ECIuQLA9GRV7nOI/q9pm1wKWXp2gVJTCgW/S04="
+        "value": "AVFwPrt1Vts69BoWTrKRonJ4z5cEIEi/jkhB0r2Bd8A="
       }
     }
   ]
