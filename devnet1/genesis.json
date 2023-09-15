@@ -292,6 +292,17 @@
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
         "vega_pub_key_index": 1
       },
+      "eL2n6ECIuQLA9GRV7nOI/q9pm1wKWXp2gVJTCgW/S04=": {
+        "avatar_url": "https://www.gravatar.com/avatar/oin34urah7612fzbvdwnlxnib7418x9e?d=identicon",
+        "country": "WF",
+        "ethereum_address": "0x513Ba96F788086Ca13365AB5143438515742cd12",
+        "id": "012352e9a7f2d767fb31abe677348b44f2113427f406c0d2c89f7112a2c832af",
+        "info_url": "https://en.wikipedia.org/wiki/Sistema_P%C3%BAblico_de_Radiodifusi%C3%B3n_del_Estado_Mexicano",
+        "name": "helpful-spoon",
+        "tm_pub_key": "eL2n6ECIuQLA9GRV7nOI/q9pm1wKWXp2gVJTCgW/S04=",
+        "vega_pub_key": "61df72a9e43599c1e68f5ea6a52e72b8adf8bb21d1612fe706f746a2ea8b2a5d",
+        "vega_pub_key_index": 1
+      },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
         "avatar_url": "https://www.gravatar.com/avatar/z9sfw769a99015gw2zxnb0n4o57k4pch?d=identicon",
         "country": "RC",
@@ -313,21 +324,10 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
-      },
-      "urRXaGCcqcWdcnUNv9O5lr2sMWmXggwLP4RkDrSu1VM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/5mufgi01a1ch2chhzylbrw17isb130lz?d=identicon",
-        "country": "GB",
-        "ethereum_address": "0x9CEb86E2212f731775b4CadAF648C6988c8eCc0e",
-        "id": "fd2afb70328361a58353130e99e9b88520ab232ec8abfba3628e893488b07cd4",
-        "info_url": "https://en.wikipedia.org/wiki/FIBT_World_Championships_1973",
-        "name": "exuberant-dress",
-        "tm_pub_key": "urRXaGCcqcWdcnUNv9O5lr2sMWmXggwLP4RkDrSu1VM=",
-        "vega_pub_key": "a7029209c35f8f0ec140a5c9f754f44d6a82cf39532159a4374d6c1bfce16e86",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202309150841",
+  "chain_id": "vega-devnet1-202309150942",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-15T08:41:32.312143117Z",
+  "genesis_time": "2023-09-15T09:42:14.859101444Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "887608602AF8DCB2E4EAF5DCD05187F68E3FC9C7",
-      "name": "exuberant-dress",
+      "address": "A489ACA8893055931428264AD82A0C812AEFCAF3",
+      "name": "helpful-spoon",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "urRXaGCcqcWdcnUNv9O5lr2sMWmXggwLP4RkDrSu1VM="
+        "value": "eL2n6ECIuQLA9GRV7nOI/q9pm1wKWXp2gVJTCgW/S04="
       }
     }
   ]
