@@ -281,15 +281,15 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
-      "IcFPJTZIdxT45h6GEQ4XwScc58072Bk3iy5iLzKmjWo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/mzmzrmx7wve0rf0mjqagbo6nwafja6xb?d=identicon",
-        "country": "WV",
-        "ethereum_address": "0xaE23B2Fd77374a2da2a97413A8542E5952834C80",
-        "id": "b157ae4a98e0ce4b1c7e71047b5bf1ee216ec943308b5c7eea40941e05ffc195",
-        "info_url": "https://en.wikipedia.org/wiki/Geoffrey_Taylour,_4th_Marquess_of_Headfort",
-        "name": "mysterious-duck",
-        "tm_pub_key": "IcFPJTZIdxT45h6GEQ4XwScc58072Bk3iy5iLzKmjWo=",
-        "vega_pub_key": "d5e4c7715d752f4a9a9dab1ecd98608f614cdd71ed89240acd20297d837c0efd",
+      "E0UxphXRlG4Pg1MHquS/ckOjkXZU+yoWHmZNWa1PaNU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/3bzoe76lfeinyi4fixtsvufafrdvsjeh?d=identicon",
+        "country": "FU",
+        "ethereum_address": "0x0D585bAf228Fb02029cb0d0AcD7D556B24f1Df41",
+        "id": "b3333937a5fe348e8fa5d8679f4d2d5a72e2a6589ad24377f9c84eed22fbb651",
+        "info_url": "https://en.wikipedia.org/wiki/Yossi_Abu",
+        "name": "whispering-pond",
+        "tm_pub_key": "E0UxphXRlG4Pg1MHquS/ckOjkXZU+yoWHmZNWa1PaNU=",
+        "vega_pub_key": "49eddf367405ced313ba4f53eaaf87e67573ad5c99c438d410e5085f47a5cd75",
         "vega_pub_key_index": 1
       },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309151650",
+  "chain_id": "vega-devnet1-202309151717",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-15T16:50:49.702838368Z",
+  "genesis_time": "2023-09-15T17:17:16.218702758Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "AF85DCA3120A4D0C206AA7E157745E1D07865305",
-      "name": "mysterious-duck",
+      "address": "B6BECD8BE5611595846839E2D39C85E25C19CC15",
+      "name": "whispering-pond",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "IcFPJTZIdxT45h6GEQ4XwScc58072Bk3iy5iLzKmjWo="
+        "value": "E0UxphXRlG4Pg1MHquS/ckOjkXZU+yoWHmZNWa1PaNU="
       }
     }
   ]
