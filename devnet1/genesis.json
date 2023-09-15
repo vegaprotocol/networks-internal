@@ -281,17 +281,6 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
-      "ITFDtpxd7niCHLav2D+QLw105ckcCiqbXtuvVCx1Zys=": {
-        "avatar_url": "https://www.gravatar.com/avatar/hr84541q9xcv5sftuu3whlgsmatlzbew?d=identicon",
-        "country": "DO",
-        "ethereum_address": "0x2733A7c2f47179654b8B8AB223FBf4A622663c7C",
-        "id": "6d19accb543ef9867aa081477d4b39f3cbeaecc65cbfd3c5af607ef14141e538",
-        "info_url": "https://en.wikipedia.org/wiki/Meanings_of_minor_planet_names:_518001%E2%80%93519000",
-        "name": "icy-sheep",
-        "tm_pub_key": "ITFDtpxd7niCHLav2D+QLw105ckcCiqbXtuvVCx1Zys=",
-        "vega_pub_key": "f86be540988659164ce5634393dad144f81276fd7aa1f388b11f6801eaa0c59e",
-        "vega_pub_key_index": 1
-      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -314,6 +303,17 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
+      "oD20l3jAPyuS6RrYNVVs8WPjctWH8Gweqj6kfP1PHXA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/z8dseyahtv67u588uermz9gtgnmp1m7r?d=identicon",
+        "country": "FS",
+        "ethereum_address": "0x11acC9e845a0b89029306f7D43E234E84444AB31",
+        "id": "913b012a7d869b4265cc45b2cab887716282ec3336500a700cf38153a1e307e3",
+        "info_url": "https://en.wikipedia.org/wiki/Bill_Marky",
+        "name": "helpful-movie",
+        "tm_pub_key": "oD20l3jAPyuS6RrYNVVs8WPjctWH8Gweqj6kfP1PHXA=",
+        "vega_pub_key": "043e314ce38dcb99c1fc5f3b3dbabea748ae51205fe8307e17a3558b6ceff72f",
+        "vega_pub_key_index": 1
+      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309151239",
+  "chain_id": "vega-devnet1-202309151429",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-15T12:39:42.394800648Z",
+  "genesis_time": "2023-09-15T14:29:31.962213046Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "47DFA704A2D69C24ED055E1C0D5B812AD282DCAE",
-      "name": "icy-sheep",
+      "address": "CFF70537B3C5C0E59D41DC4675BAB20BA33EB9CB",
+      "name": "helpful-movie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ITFDtpxd7niCHLav2D+QLw105ckcCiqbXtuvVCx1Zys="
+        "value": "oD20l3jAPyuS6RrYNVVs8WPjctWH8Gweqj6kfP1PHXA="
       }
     }
   ]
