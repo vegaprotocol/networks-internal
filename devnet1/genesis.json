@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "9DzTwk1tzugvBuCJJAZv1uoGSiZSJFXUQ7AJZzJHs1Y=": {
-        "avatar_url": "https://www.gravatar.com/avatar/jy7r8k18n8u6my8f1dxwp712s12vigvg?d=identicon",
-        "country": "FL",
-        "ethereum_address": "0x99357653900AE4dAEE52f10dfB7aeF6d6987d866",
-        "id": "2ae850314a82e2be5c2bbf1e83a88a2afc5aa754d477977acc688b3793c02be9",
-        "info_url": "https://en.wikipedia.org/wiki/Losing_My_Religion_(album)",
-        "name": "helpless-mango",
-        "tm_pub_key": "9DzTwk1tzugvBuCJJAZv1uoGSiZSJFXUQ7AJZzJHs1Y=",
-        "vega_pub_key": "b42e7025f6161ceeda06721cf1f970086a24414b94d1d5be6b2c0356b624b339",
-        "vega_pub_key_index": 1
-      },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
         "avatar_url": "https://www.gravatar.com/avatar/oapaoa6gfsgvg6f1yo5umw2fnn3thw1z?d=identicon",
         "country": "FQ",
@@ -290,6 +279,17 @@
         "name": "immense-tile",
         "tm_pub_key": "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=",
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
+        "vega_pub_key_index": 1
+      },
+      "IcFPJTZIdxT45h6GEQ4XwScc58072Bk3iy5iLzKmjWo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/mzmzrmx7wve0rf0mjqagbo6nwafja6xb?d=identicon",
+        "country": "WV",
+        "ethereum_address": "0xaE23B2Fd77374a2da2a97413A8542E5952834C80",
+        "id": "b157ae4a98e0ce4b1c7e71047b5bf1ee216ec943308b5c7eea40941e05ffc195",
+        "info_url": "https://en.wikipedia.org/wiki/Geoffrey_Taylour,_4th_Marquess_of_Headfort",
+        "name": "mysterious-duck",
+        "tm_pub_key": "IcFPJTZIdxT45h6GEQ4XwScc58072Bk3iy5iLzKmjWo=",
+        "vega_pub_key": "d5e4c7715d752f4a9a9dab1ecd98608f614cdd71ed89240acd20297d837c0efd",
         "vega_pub_key_index": 1
       },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309151542",
+  "chain_id": "vega-devnet1-202309151615",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-15T15:42:40.08843451Z",
+  "genesis_time": "2023-09-15T16:15:28.35710376Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "367452515BED0389772F9F962C23A6B5BFC18B80",
-      "name": "helpless-mango",
+      "address": "AF85DCA3120A4D0C206AA7E157745E1D07865305",
+      "name": "mysterious-duck",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "9DzTwk1tzugvBuCJJAZv1uoGSiZSJFXUQ7AJZzJHs1Y="
+        "value": "IcFPJTZIdxT45h6GEQ4XwScc58072Bk3iy5iLzKmjWo="
       }
     }
   ]
