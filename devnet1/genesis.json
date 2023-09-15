@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "AVFwPrt1Vts69BoWTrKRonJ4z5cEIEi/jkhB0r2Bd8A=": {
-        "avatar_url": "https://www.gravatar.com/avatar/5xt8jwkce5jw71s8zpd849w94m0y86qe?d=identicon",
-        "country": "XF",
-        "ethereum_address": "0xe8bF4293E7D1B9dB8284B54fB3eF7dF92209f82a",
-        "id": "2c58eb64dd971b47937bd5b9c7874f2dcc3723f1f08ef8c17a2d7859fd4f995c",
-        "info_url": "https://en.wikipedia.org/wiki/Marco_Lund",
-        "name": "timely-fan",
-        "tm_pub_key": "AVFwPrt1Vts69BoWTrKRonJ4z5cEIEi/jkhB0r2Bd8A=",
-        "vega_pub_key": "1deabb09c315a78143a5b8e5ba43a0470df9124d271c19f0e1e3662d898e2bae",
-        "vega_pub_key_index": 1
-      },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
         "avatar_url": "https://www.gravatar.com/avatar/oapaoa6gfsgvg6f1yo5umw2fnn3thw1z?d=identicon",
         "country": "FQ",
@@ -290,6 +279,17 @@
         "name": "immense-tile",
         "tm_pub_key": "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=",
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
+        "vega_pub_key_index": 1
+      },
+      "ITFDtpxd7niCHLav2D+QLw105ckcCiqbXtuvVCx1Zys=": {
+        "avatar_url": "https://www.gravatar.com/avatar/hr84541q9xcv5sftuu3whlgsmatlzbew?d=identicon",
+        "country": "DO",
+        "ethereum_address": "0x2733A7c2f47179654b8B8AB223FBf4A622663c7C",
+        "id": "6d19accb543ef9867aa081477d4b39f3cbeaecc65cbfd3c5af607ef14141e538",
+        "info_url": "https://en.wikipedia.org/wiki/Meanings_of_minor_planet_names:_518001%E2%80%93519000",
+        "name": "icy-sheep",
+        "tm_pub_key": "ITFDtpxd7niCHLav2D+QLw105ckcCiqbXtuvVCx1Zys=",
+        "vega_pub_key": "f86be540988659164ce5634393dad144f81276fd7aa1f388b11f6801eaa0c59e",
         "vega_pub_key_index": 1
       },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309151112",
+  "chain_id": "vega-devnet1-202309151210",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-15T11:12:39.343504795Z",
+  "genesis_time": "2023-09-15T12:10:24.519193059Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "F253F615F72FE117D73248B4EC4B59359489714E",
-      "name": "timely-fan",
+      "address": "47DFA704A2D69C24ED055E1C0D5B812AD282DCAE",
+      "name": "icy-sheep",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "AVFwPrt1Vts69BoWTrKRonJ4z5cEIEi/jkhB0r2Bd8A="
+        "value": "ITFDtpxd7niCHLav2D+QLw105ckcCiqbXtuvVCx1Zys="
       }
     }
   ]
