@@ -2,7 +2,7 @@
 
 network_config_file = "https://raw.githubusercontent.com/vegaprotocol/networks-internal/main/stagnet1/vegawallet-stagnet1.toml"
 debug = false
-work_dir = "./network"
+work_dir = "/opt/workdir"
 
 
 [http_server]
@@ -15,7 +15,7 @@ repository = "vegaprotocol/vega"
 artifact_name = "vega"
 download_wallet_binary = true
 auto_version = true
-tokens_file = "./network/wallet-info.json"
+tokens_file = "/opt/wallets-mount/wallet-info.json"
 
 wallet_name = "vegamarketsim"
 network_name = "stagnet1"
