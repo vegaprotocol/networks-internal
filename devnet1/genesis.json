@@ -292,17 +292,6 @@
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
         "vega_pub_key_index": 1
       },
-      "e0taeX2SW1z/SVJiHBpYUDcMK37fNl6TTux0ApAGRrg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/yfs1i1k7j314ju4k1xrh4ypbumswogha?d=identicon",
-        "country": "QK",
-        "ethereum_address": "0x43917432A184efcd0D4D9bA03Dd977F62D31E165",
-        "id": "0b32a249133f25e532d4a684c650422711ef13b385e4f22ce011606af7ae75c2",
-        "info_url": "https://en.wikipedia.org/wiki/Giovanni_Ermano_Ligozzi",
-        "name": "purring-chimney",
-        "tm_pub_key": "e0taeX2SW1z/SVJiHBpYUDcMK37fNl6TTux0ApAGRrg=",
-        "vega_pub_key": "76450ee377dc1932fd92087b34dbbbb08cde3242065a17fd90a72ff490008df7",
-        "vega_pub_key_index": 1
-      },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
         "avatar_url": "https://www.gravatar.com/avatar/z9sfw769a99015gw2zxnb0n4o57k4pch?d=identicon",
         "country": "RC",
@@ -312,6 +301,17 @@
         "name": "unkempt-mango",
         "tm_pub_key": "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=",
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
+        "vega_pub_key_index": 1
+      },
+      "nlczF3wEYXcbVeACPgtX1cmCvr3zOECAuFlbgUM+NZ8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/tajzx0h11m07f2ywvrpu6o43e65gegut?d=identicon",
+        "country": "QL",
+        "ethereum_address": "0x19e67F89A633fdE3bedbAf08c1F3D42af527bC07",
+        "id": "59cfd9ce301a650bfcdd21e92a7f93a992fc7a919188f718cb1d6c8d1a984c82",
+        "info_url": "https://en.wikipedia.org/wiki/Rock_You_Sinners",
+        "name": "ideal-dress",
+        "tm_pub_key": "nlczF3wEYXcbVeACPgtX1cmCvr3zOECAuFlbgUM+NZ8=",
+        "vega_pub_key": "0b5ede1b1084b72839bcafd33da89c57d1b73f5d44d281236c51f826348ceb6d",
         "vega_pub_key_index": 1
       },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309181104",
+  "chain_id": "vega-devnet1-202309181237",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-18T11:04:31.135066774Z",
+  "genesis_time": "2023-09-18T12:37:03.470991185Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "185189ACB8CD4B7716D118AE05174E08D489C0B4",
-      "name": "purring-chimney",
+      "address": "086DA91B1783A6A4D6847D4EB35F2DC6E093800D",
+      "name": "ideal-dress",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "e0taeX2SW1z/SVJiHBpYUDcMK37fNl6TTux0ApAGRrg="
+        "value": "nlczF3wEYXcbVeACPgtX1cmCvr3zOECAuFlbgUM+NZ8="
       }
     }
   ]
