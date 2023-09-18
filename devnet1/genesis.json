@@ -281,6 +281,17 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
+      "LL/3PFHs2wN7+6O36DdB+5ye2/5GHLdoEFQ9tS0PD64=": {
+        "avatar_url": "https://www.gravatar.com/avatar/8qyi20zjqzdnkqb4ovnte8s1prgvnwqu?d=identicon",
+        "country": "EG",
+        "ethereum_address": "0x21aD9bCFd496624F0e0E2A597639471D3A967255",
+        "id": "47d4babdb3d34e91eff3ee57c0646ba46885ca4dc82db97626b06b237e26cc21",
+        "info_url": "https://en.wikipedia.org/wiki/Venera",
+        "name": "tender-toy",
+        "tm_pub_key": "LL/3PFHs2wN7+6O36DdB+5ye2/5GHLdoEFQ9tS0PD64=",
+        "vega_pub_key": "d21c5f30ca5cd701925d491fbefbcb6da024798e4baf20d89d6580854366afff",
+        "vega_pub_key_index": 1
+      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -290,17 +301,6 @@
         "name": "narrow-plant",
         "tm_pub_key": "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=",
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
-        "vega_pub_key_index": 1
-      },
-      "UnDbheo+sbKYljaHGP2LhxITyqbfhdDsLcH+tcbC2j8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/x31f2jcmajittwdx8wu2j5u6ld12bt4f?d=identicon",
-        "country": "FJ",
-        "ethereum_address": "0x2E4e1D19FB436cf712BceEdFC4e24DEd1C0bDAb9",
-        "id": "467fbd683fceb31bbdbd6635f5a2d36da5ea7758b24137669e9460c06732ae09",
-        "info_url": "https://en.wikipedia.org/wiki/Mineh",
-        "name": "dizzy-taxi",
-        "tm_pub_key": "UnDbheo+sbKYljaHGP2LhxITyqbfhdDsLcH+tcbC2j8=",
-        "vega_pub_key": "17316670e0ecc4cb5c2f4822824d82a1db362829613bd81ab9315c511d96ee4e",
         "vega_pub_key_index": 1
       },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309181701",
+  "chain_id": "vega-devnet1-202309182111",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-18T17:01:22.934678901Z",
+  "genesis_time": "2023-09-18T21:11:35.901161588Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "DBC3CB34EA05C57686B2E5B6E2A19F39C63C8FC0",
-      "name": "dizzy-taxi",
+      "address": "2DC64B8F082EF9E34FFB8767BA02601DF075CA77",
+      "name": "tender-toy",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "UnDbheo+sbKYljaHGP2LhxITyqbfhdDsLcH+tcbC2j8="
+        "value": "LL/3PFHs2wN7+6O36DdB+5ye2/5GHLdoEFQ9tS0PD64="
       }
     }
   ]
