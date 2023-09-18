@@ -60,7 +60,7 @@ passphrase_file = "./assets/passphrase.txt"
 #         max_order_size = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
 #         initial_mint = 10000
 #     [scenario.btcusdt_230630.simulation_args]
-#         n_steps = 360
+#         n_steps = 999999999
 #         granularity = "MINUTE"
 #         coinbase_code = "BTC-USDT"
 #         start_date = "2022-11-01 00:00:00"
@@ -103,7 +103,7 @@ passphrase_file = "./assets/passphrase.txt"
 #         max_order_size = [0.001, 0.01, 0.1]
 #         initial_mint = 10000
 #     [scenario.ethusdt_230630.simulation_args]
-#         n_steps = 360
+#         n_steps = 999999999
 #         granularity = "MINUTE"
 #         coinbase_code = "ETH-USDT"
 #         start_date = "2022-11-01 00:00:00"
@@ -136,13 +136,15 @@ passphrase_file = "./assets/passphrase.txt"
         initial_volume = 0.001
         initial_mint = 10000
     [scenario.applemontly.random_trader_args]
-        order_intensity = [5, 5, 5, 5, 5, 5]
-        order_volume = [0.01, 0.1, 1.0, 0.01, 0.1, 1.0]
-        step_bias = [0.333, 0.012, 0.003, 0.333, 0.012, 0.003]
+        traders = 15
+        order_intensity = [10,10,10,10,10,10,10,10,10,10,10,10,10,10,10]
+        order_volume = [0.01, 0.1, 1.0, 0.01, 0.1, 1.0, 0.01, 0.1, 1.0 , 0.01, 0.1, 1.0, 0.01, 0.1, 1.0]
+        step_bias = [0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003]
         initial_mint = 1000000
     [scenario.applemontly.sensitive_trader_args]
-        scale = [20, 20, 20, 20, 20, 20]
-        max_order_size = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
+        traders = 15
+        scale = [20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20]
+        max_order_size = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
         initial_mint = 10000
     [scenario.applemontly.simulation_args]
         n_steps = 360
@@ -178,13 +180,15 @@ passphrase_file = "./assets/passphrase.txt"
         initial_volume = 0.001
         initial_mint = 10000
     [scenario.tsla_quarterly.random_trader_args]
-        order_intensity = [45, 45, 45]
-        order_volume = [0.01, 0.1, 1.0]
-        step_bias = [0.333, 0.012, 0.003]
+        traders = 15
+        order_intensity = [10,10,10,10,10,10,10,10,10,10,10,10,10,10,10]
+        order_volume = [0.01, 0.1, 1.0, 0.01, 0.1, 1.0, 0.01, 0.1, 1.0 , 0.01, 0.1, 1.0, 0.01, 0.1, 1.0]
+        step_bias = [0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003]
         initial_mint = 1000000
     [scenario.tsla_quarterly.sensitive_trader_args]
-        scale = [10, 10, 10]
-        max_order_size = [0.001, 0.01, 0.1]
+        traders = 15
+        scale = [10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+        max_order_size = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
         initial_mint = 10000
     [scenario.tsla_quarterly.simulation_args]
         n_steps = 360
@@ -221,15 +225,15 @@ passphrase_file = "./assets/passphrase.txt"
         initial_volume = 0.001
         initial_mint = 10000
     [scenario.btcusd_perpetual.random_trader_args]
-        traders = 3
-        order_intensity = [5, 5, 5, 5, 5, 5]
-        order_volume = [0.01, 0.1, 1.0, 0.01, 0.1, 1.0]
-        step_bias = [0.333, 0.012, 0.003, 0.333, 0.012, 0.003]
+        traders = 15
+        order_intensity = [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+        order_volume = [0.01, 0.1, 1.0, 0.01, 0.1, 1.0, 0.01, 0.1, 1.0, 0.01, 0.1, 1.0, 0.01, 0.1, 1.0, 0.01, 0.1, 1.0]
+        step_bias = [0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003]
         initial_mint = 1000000
     [scenario.btcusd_perpetual.sensitive_trader_args]
-        traders = 3
-        scale = [10, 10, 10, 10, 10, 10]
-        max_order_size = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
+        traders = 15
+        scale = [10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+        max_order_size = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
         initial_mint = 10000
     [scenario.btcusd_perpetual.simulation_args]
         n_steps = 360
@@ -264,13 +268,15 @@ passphrase_file = "./assets/passphrase.txt"
         initial_volume = 0.001
         initial_mint = 10000
     [scenario.ethusdt_perpetual.random_trader_args]
-        order_intensity = [45, 45, 45]
-        order_volume = [0.01, 0.1, 1.0]
-        step_bias = [0.333, 0.012, 0.003]
+        traders = 15
+        order_intensity = [45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45]
+        order_volume = [0.01, 0.1, 1.0, 0.01, 0.1, 1.0, 0.01, 0.1, 1.0, 0.01, 0.1, 1.0, 0.01, 0.1, 1.0]
+        step_bias = [0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003]
         initial_mint = 1000000
     [scenario.ethusdt_perpetual.sensitive_trader_args]
-        scale = [10, 10, 10]
-        max_order_size = [0.001, 0.01, 0.1]
+        traders = 15
+        scale = [10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+        max_order_size = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
         initial_mint = 10000
     [scenario.ethusdt_perpetual.simulation_args]
         n_steps = 360
@@ -305,13 +311,15 @@ passphrase_file = "./assets/passphrase.txt"
         initial_volume = 0.001
         initial_mint = 10000
     [scenario.daiusd_perpetual.random_trader_args]
-        order_intensity = [5, 5, 5, 5, 5, 5]
-        order_volume = [0.01, 0.1, 1.0, 0.01, 0.1, 1.0]
-        step_bias = [0.333, 0.012, 0.003, 0.333, 0.012, 0.003]
+        traders = 15
+        order_intensity = [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+        order_volume = [0.01, 0.1, 1.0, 0.01, 0.1, 1.0, 0.01, 0.1, 1.0, 0.01, 0.1, 1.0, 0.01, 0.1, 1.0, 0.01, 0.1, 1.0]
+        step_bias = [0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003]
         initial_mint = 1000000
     [scenario.daiusd_perpetual.sensitive_trader_args]
-        scale = [20, 20, 20, 20, 20, 20]
-        max_order_size = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
+        traders = 15
+        scale = [20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20]
+        max_order_size = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
         initial_mint = 10000
     [scenario.daiusd_perpetual.simulation_args]
         n_steps = 360
@@ -346,13 +354,15 @@ passphrase_file = "./assets/passphrase.txt"
         initial_volume = 0.001
         initial_mint = 10000
     [scenario.btcusdt_monthly.random_trader_args]
-        order_intensity = [5, 5, 5, 5, 5, 5]
-        order_volume = [0.01, 0.1, 1.0, 0.01, 0.1, 1.0]
-        step_bias = [0.333, 0.012, 0.003, 0.333, 0.012, 0.003]
+        traders = 15
+        order_intensity = [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+        order_volume = [0.01, 0.1, 1.0, 0.01, 0.1, 1.0, 0.01, 0.1, 1.0, 0.01, 0.1, 1.0, 0.01, 0.1, 1.0, 0.01, 0.1, 1.0]
+        step_bias = [0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003]
         initial_mint = 1000000
     [scenario.btcusdt_monthly.sensitive_trader_args]
-        scale = [10, 10, 10, 10, 10, 10]
-        max_order_size = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
+        traders = 15
+        scale = [10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+        max_order_size = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
         initial_mint = 10000
     [scenario.btcusdt_monthly.simulation_args]
         n_steps = 360
@@ -387,13 +397,15 @@ passphrase_file = "./assets/passphrase.txt"
         initial_volume = 0.001
         initial_mint = 10000
     [scenario.eurusd_perpetual.random_trader_args]
-        order_intensity = [5, 5, 5, 5, 5, 5]
-        order_volume = [0.01, 0.1, 1.0, 0.01, 0.1, 1.0]
-        step_bias = [0.333, 0.012, 0.003, 0.333, 0.012, 0.003]
+        traders = 15
+        order_intensity = [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+        order_volume = [0.01, 0.1, 1.0, 0.01, 0.1, 1.0, 0.01, 0.1, 1.0, 0.01, 0.1, 1.0, 0.01, 0.1, 1.0, 0.01, 0.1, 1.0]
+        step_bias = [0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003]
         initial_mint = 1000000
     [scenario.eurusd_perpetual.sensitive_trader_args]
-        scale = [20, 20, 20, 20, 20, 20]
-        max_order_size = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
+        traders = 15
+        scale = [10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+        max_order_size = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
         initial_mint = 10000
     [scenario.eurusd_perpetual.simulation_args]
         n_steps = 360
@@ -428,13 +440,15 @@ passphrase_file = "./assets/passphrase.txt"
         initial_volume = 0.001
         initial_mint = 10000
     [scenario.aavedai.random_trader_args]
-        order_intensity = [5, 5, 5, 5, 5, 5]
-        order_volume = [0.01, 0.1, 1.0, 0.01, 0.1, 1.0]
-        step_bias = [0.333, 0.012, 0.003, 0.333, 0.012, 0.003]
+        traders = 15
+        order_intensity = [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+        order_volume = [0.01, 0.1, 1.0, 0.01, 0.1, 1.0, 0.01, 0.1, 1.0, 0.01, 0.1, 1.0, 0.01, 0.1, 1.0, 0.01, 0.1, 1.0]
+        step_bias = [0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003]
         initial_mint = 1000000
     [scenario.aavedai.sensitive_trader_args]
-        scale = [20, 20, 20, 20, 20, 20]
-        max_order_size = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
+        traders = 15
+        scale = [10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+        max_order_size = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
         initial_mint = 10000
     [scenario.aavedai.simulation_args]
         n_steps = 360
@@ -469,13 +483,15 @@ passphrase_file = "./assets/passphrase.txt"
         initial_volume = 0.001
         initial_mint = 10000
     [scenario.ethbtc_quarterly.random_trader_args]
-        order_intensity = [5, 5, 5, 5, 5, 5]
-        order_volume = [0.01, 0.1, 1.0, 0.01, 0.1, 1.0]
-        step_bias = [0.333, 0.012, 0.003, 0.333, 0.012, 0.003]
+        traders = 15
+        order_intensity = [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+        order_volume = [0.01, 0.1, 1.0, 0.01, 0.1, 1.0, 0.01, 0.1, 1.0, 0.01, 0.1, 1.0, 0.01, 0.1, 1.0, 0.01, 0.1, 1.0]
+        step_bias = [0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003]
         initial_mint = 1000000
     [scenario.ethbtc_quarterly.sensitive_trader_args]
-        scale = [20, 20, 20, 20, 20, 20]
-        max_order_size = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
+        traders = 15
+        scale = [10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+        max_order_size = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
         initial_mint = 10000
     [scenario.ethbtc_quarterly.simulation_args]
         n_steps = 360
@@ -510,13 +526,15 @@ passphrase_file = "./assets/passphrase.txt"
         initial_volume = 0.001
         initial_mint = 10000
     [scenario.linkusdt_perpetual.random_trader_args]
-        order_intensity = [5, 5, 5]
-        order_volume = [0.001, 0.01, 0.1]
-        step_bias = [0.333, 0.012, 0.003]
+        traders = 15
+        order_intensity = [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+        order_volume = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
+        step_bias = [0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003]
         initial_mint = 1000000
     [scenario.linkusdt_perpetual.sensitive_trader_args]
-        scale = [10, 10, 10]
-        max_order_size = [0.001, 0.01, 0.1]
+        traders = 15
+        scale = [10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+        max_order_size = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
         initial_mint = 10000
     [scenario.linkusdt_perpetual.simulation_args]
         n_steps = 360
@@ -551,13 +569,15 @@ passphrase_file = "./assets/passphrase.txt"
         initial_volume = 0.001
         initial_mint = 10000
     [scenario.ehtdai_monthly.random_trader_args]
-        order_intensity = [45, 45, 45]
-        order_volume = [0.01, 0.1, 1.0]
-        step_bias = [0.333, 0.012, 0.003]
+        traders = 15
+        order_intensity = [10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+        order_volume = [0.01, 0.1, 1.0, 0.01, 0.1, 1.0, 0.01, 0.1, 1.0, 0.01, 0.1, 1.0, 0.01, 0.1, 1.0]
+        step_bias = [0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003]
         initial_mint = 1000000
     [scenario.ehtdai_monthly.sensitive_trader_args]
-        scale = [10, 10, 10]
-        max_order_size = [0.001, 0.01, 0.1]
+        traders = 15
+        scale = [10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+        max_order_size = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
         initial_mint = 10000
     [scenario.ehtdai_monthly.simulation_args]
         n_steps = 360
@@ -565,3 +585,4 @@ passphrase_file = "./assets/passphrase.txt"
         coinbase_code = "ETH-USDT"
         start_date = "2022-11-01 00:00:00"
         randomise_history = false
+
