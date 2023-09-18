@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "2wWOMubjS+zyni9jgidGdZ9pPoypddQTLj18H+erAI8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/56v5d5l1oq9em7u0ayzwmjw77sw2o2fl?d=identicon",
-        "country": "TU",
-        "ethereum_address": "0xBAE8e0b96BFD7ddd74079804e263B6f76262cb3d",
-        "id": "5b159e5d8ca893ed242ba806d0a1c9fa579af14c1cbb4270af9f6e769c6550d9",
-        "info_url": "https://en.wikipedia.org/wiki/Out_of_the_Ashes_(Jessi_Colter_album)",
-        "name": "zippy-stove",
-        "tm_pub_key": "2wWOMubjS+zyni9jgidGdZ9pPoypddQTLj18H+erAI8=",
-        "vega_pub_key": "3331ac2a1d9c781ac92f4a25a118cdefc771bc449042a4f57d32dc19ffc5c602",
-        "vega_pub_key_index": 1
-      },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
         "avatar_url": "https://www.gravatar.com/avatar/oapaoa6gfsgvg6f1yo5umw2fnn3thw1z?d=identicon",
         "country": "FQ",
@@ -324,10 +313,21 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
+      },
+      "zB6eNGck7cFXLfJhgRZGFBVpkT8cpIuo+hcmoQG4RKI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/rv9642dbi4he7ohj3le3q49itl4n0sir?d=identicon",
+        "country": "NZ",
+        "ethereum_address": "0x960FA0520920c9EC0b4234EAC79fC51030c0891E",
+        "id": "a93a7aa8b3bca17c074699f30b6c2a4bab3e7be59b650ae6fa5d4c6a2c8f1996",
+        "info_url": "https://en.wikipedia.org/wiki/Guntakal%E2%80%93Nandyal_section",
+        "name": "odd-farmer",
+        "tm_pub_key": "zB6eNGck7cFXLfJhgRZGFBVpkT8cpIuo+hcmoQG4RKI=",
+        "vega_pub_key": "ef23ae71330581ac0afdfe8f97002110f18466600aea5776ab0682d9bad08a17",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202309181342",
+  "chain_id": "vega-devnet1-202309181407",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-18T13:42:20.318266914Z",
+  "genesis_time": "2023-09-18T14:07:39.189846385Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "001866BFC84DA937D618BB1531C438360C404C18",
-      "name": "zippy-stove",
+      "address": "9ECA1854FD43BC0CACA87EA70277F1988DF8504B",
+      "name": "odd-farmer",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "2wWOMubjS+zyni9jgidGdZ9pPoypddQTLj18H+erAI8="
+        "value": "zB6eNGck7cFXLfJhgRZGFBVpkT8cpIuo+hcmoQG4RKI="
       }
     }
   ]
