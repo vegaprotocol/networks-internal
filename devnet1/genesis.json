@@ -281,6 +281,17 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
+      "K5mFRDvh20y+hzTdt9Q0Xh9QA+9Dua6wecYR1kjmikE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/unyu7hwvy1d1d5r1ygu2vcqazjdxj2hl?d=identicon",
+        "country": "DX",
+        "ethereum_address": "0x7A9De67098E928A9b4215Fd356B9EE288D255260",
+        "id": "966f32a88d7bc62812f82a97c7c3451a885361fe7fd084ed678ac87f61f92125",
+        "info_url": "https://en.wikipedia.org/wiki/Ibrahim_Babatunde",
+        "name": "clean-river",
+        "tm_pub_key": "K5mFRDvh20y+hzTdt9Q0Xh9QA+9Dua6wecYR1kjmikE=",
+        "vega_pub_key": "4ffdf32ce455264abcbb10db71faa28c998bff57a5c8d733b010a2bf6edc2d73",
+        "vega_pub_key_index": 1
+      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -313,21 +324,10 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
-      },
-      "zB6eNGck7cFXLfJhgRZGFBVpkT8cpIuo+hcmoQG4RKI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/rv9642dbi4he7ohj3le3q49itl4n0sir?d=identicon",
-        "country": "NZ",
-        "ethereum_address": "0x960FA0520920c9EC0b4234EAC79fC51030c0891E",
-        "id": "a93a7aa8b3bca17c074699f30b6c2a4bab3e7be59b650ae6fa5d4c6a2c8f1996",
-        "info_url": "https://en.wikipedia.org/wiki/Guntakal%E2%80%93Nandyal_section",
-        "name": "odd-farmer",
-        "tm_pub_key": "zB6eNGck7cFXLfJhgRZGFBVpkT8cpIuo+hcmoQG4RKI=",
-        "vega_pub_key": "ef23ae71330581ac0afdfe8f97002110f18466600aea5776ab0682d9bad08a17",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202309181435",
+  "chain_id": "vega-devnet1-202309181505",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-18T14:35:35.59329851Z",
+  "genesis_time": "2023-09-18T15:05:47.10552745Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "9ECA1854FD43BC0CACA87EA70277F1988DF8504B",
-      "name": "odd-farmer",
+      "address": "6E2D1073FB23BBB9A799244D7CE67C36FFBDC124",
+      "name": "clean-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "zB6eNGck7cFXLfJhgRZGFBVpkT8cpIuo+hcmoQG4RKI="
+        "value": "K5mFRDvh20y+hzTdt9Q0Xh9QA+9Dua6wecYR1kjmikE="
       }
     }
   ]
