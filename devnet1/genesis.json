@@ -281,17 +281,6 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
-      "K5mFRDvh20y+hzTdt9Q0Xh9QA+9Dua6wecYR1kjmikE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/unyu7hwvy1d1d5r1ygu2vcqazjdxj2hl?d=identicon",
-        "country": "DX",
-        "ethereum_address": "0x7A9De67098E928A9b4215Fd356B9EE288D255260",
-        "id": "966f32a88d7bc62812f82a97c7c3451a885361fe7fd084ed678ac87f61f92125",
-        "info_url": "https://en.wikipedia.org/wiki/Ibrahim_Babatunde",
-        "name": "clean-river",
-        "tm_pub_key": "K5mFRDvh20y+hzTdt9Q0Xh9QA+9Dua6wecYR1kjmikE=",
-        "vega_pub_key": "4ffdf32ce455264abcbb10db71faa28c998bff57a5c8d733b010a2bf6edc2d73",
-        "vega_pub_key_index": 1
-      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -301,6 +290,17 @@
         "name": "narrow-plant",
         "tm_pub_key": "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=",
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
+        "vega_pub_key_index": 1
+      },
+      "XFIPhjcal0ihoG/TitiOoi0Mh8DFU81vuOENMqDdyFM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/0jssthd1fwuf7evfjmtncf7ke1m2hhxj?d=identicon",
+        "country": "YS",
+        "ethereum_address": "0xBc7A85bD0F1CC91f01aF44b7Ab2ed6592a09c8CE",
+        "id": "ce362eb0235d949606edc5c7c5ac49fba01d5fea8b9d0f6f372cf63ea61950d6",
+        "info_url": "https://en.wikipedia.org/wiki/Gr%C3%A9gor_Marchand",
+        "name": "whispering-movie",
+        "tm_pub_key": "XFIPhjcal0ihoG/TitiOoi0Mh8DFU81vuOENMqDdyFM=",
+        "vega_pub_key": "9700f6f160b916a9984790aa9400089e19cb5b0f29df225e991cb7f3aa9f186e",
         "vega_pub_key_index": 1
       },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309181505",
+  "chain_id": "vega-devnet1-202309181626",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-18T15:05:47.10552745Z",
+  "genesis_time": "2023-09-18T16:26:24.271682504Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "6E2D1073FB23BBB9A799244D7CE67C36FFBDC124",
-      "name": "clean-river",
+      "address": "74DE78C0D325D66EDAF0F255A8899131676EBD56",
+      "name": "whispering-movie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "K5mFRDvh20y+hzTdt9Q0Xh9QA+9Dua6wecYR1kjmikE="
+        "value": "XFIPhjcal0ihoG/TitiOoi0Mh8DFU81vuOENMqDdyFM="
       }
     }
   ]
