@@ -281,17 +281,6 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
-      "E0UxphXRlG4Pg1MHquS/ckOjkXZU+yoWHmZNWa1PaNU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/3bzoe76lfeinyi4fixtsvufafrdvsjeh?d=identicon",
-        "country": "FU",
-        "ethereum_address": "0x0D585bAf228Fb02029cb0d0AcD7D556B24f1Df41",
-        "id": "b3333937a5fe348e8fa5d8679f4d2d5a72e2a6589ad24377f9c84eed22fbb651",
-        "info_url": "https://en.wikipedia.org/wiki/Yossi_Abu",
-        "name": "whispering-pond",
-        "tm_pub_key": "E0UxphXRlG4Pg1MHquS/ckOjkXZU+yoWHmZNWa1PaNU=",
-        "vega_pub_key": "49eddf367405ced313ba4f53eaaf87e67573ad5c99c438d410e5085f47a5cd75",
-        "vega_pub_key_index": 1
-      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -301,6 +290,17 @@
         "name": "narrow-plant",
         "tm_pub_key": "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=",
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
+        "vega_pub_key_index": 1
+      },
+      "e0taeX2SW1z/SVJiHBpYUDcMK37fNl6TTux0ApAGRrg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/yfs1i1k7j314ju4k1xrh4ypbumswogha?d=identicon",
+        "country": "QK",
+        "ethereum_address": "0x43917432A184efcd0D4D9bA03Dd977F62D31E165",
+        "id": "0b32a249133f25e532d4a684c650422711ef13b385e4f22ce011606af7ae75c2",
+        "info_url": "https://en.wikipedia.org/wiki/Giovanni_Ermano_Ligozzi",
+        "name": "purring-chimney",
+        "tm_pub_key": "e0taeX2SW1z/SVJiHBpYUDcMK37fNl6TTux0ApAGRrg=",
+        "vega_pub_key": "76450ee377dc1932fd92087b34dbbbb08cde3242065a17fd90a72ff490008df7",
         "vega_pub_key_index": 1
       },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309151717",
+  "chain_id": "vega-devnet1-202309181104",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-15T17:17:16.218702758Z",
+  "genesis_time": "2023-09-18T11:04:31.135066774Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "B6BECD8BE5611595846839E2D39C85E25C19CC15",
-      "name": "whispering-pond",
+      "address": "185189ACB8CD4B7716D118AE05174E08D489C0B4",
+      "name": "purring-chimney",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "E0UxphXRlG4Pg1MHquS/ckOjkXZU+yoWHmZNWa1PaNU="
+        "value": "e0taeX2SW1z/SVJiHBpYUDcMK37fNl6TTux0ApAGRrg="
       }
     }
   ]
