@@ -281,6 +281,17 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
+      "TlC22d9I2dPDGt84OsmfQcu0MJPNCt1oemtoIqsivYw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/0fcnoa8a7nusgk8xbsca9pdu8zwgsgbr?d=identicon",
+        "country": "IL",
+        "ethereum_address": "0xf52ae8F44B1796f2AC6DDb04779b0281c8b99B45",
+        "id": "0c3e8683c6414576e11b04b692f9f6c2d1cdc80f98babdb32f3667d5df45d02c",
+        "info_url": "https://en.wikipedia.org/wiki/Isaac_Fletcher_(footballer)",
+        "name": "tricky-music",
+        "tm_pub_key": "TlC22d9I2dPDGt84OsmfQcu0MJPNCt1oemtoIqsivYw=",
+        "vega_pub_key": "5431d35d5147d1f3a52571a408937429409cb5b240472ceb37876df9345c6d86",
+        "vega_pub_key_index": 1
+      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -290,17 +301,6 @@
         "name": "narrow-plant",
         "tm_pub_key": "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=",
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
-        "vega_pub_key_index": 1
-      },
-      "e3wgqSqEUEeqXJKj4tRpUFAvq1C2Y3NW9uM1/JULWAY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/n8sw6lubtaeiqepgpnx676k7vdf2yumb?d=identicon",
-        "country": "MV",
-        "ethereum_address": "0x2dB0f78f81867943a6fBaE3E51f5Dcd9fD856800",
-        "id": "1cdbe4c30b51111eb429b646fee22a813b43cd4559c7622b5d85d61778667104",
-        "info_url": "https://en.wikipedia.org/wiki/Adolfo_Vaccaro",
-        "name": "stocky-stove",
-        "tm_pub_key": "e3wgqSqEUEeqXJKj4tRpUFAvq1C2Y3NW9uM1/JULWAY=",
-        "vega_pub_key": "98b80c0cd4b07657f8b99fd1748e6c6fc51be2d41672d19593668e7920cb6887",
         "vega_pub_key_index": 1
       },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309191242",
+  "chain_id": "vega-devnet1-202309191332",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-19T12:42:51.486557398Z",
+  "genesis_time": "2023-09-19T13:32:45.098802496Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "225507D569D7B078DE7AF1907115F67B1771DCFF",
-      "name": "stocky-stove",
+      "address": "8B0E832A52EA68AB01D06C3AC857ECB5C8E73B51",
+      "name": "tricky-music",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "e3wgqSqEUEeqXJKj4tRpUFAvq1C2Y3NW9uM1/JULWAY="
+        "value": "TlC22d9I2dPDGt84OsmfQcu0MJPNCt1oemtoIqsivYw="
       }
     }
   ]
