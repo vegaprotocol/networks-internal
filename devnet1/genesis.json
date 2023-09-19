@@ -303,17 +303,6 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
-      "iR2LTcig/akTLQcfu5XIDE6p1XzdW8ZX2+pRs7Cr1EY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/j46sgtg2z19lbn48co7e6o40e3z9wp1a?d=identicon",
-        "country": "OM",
-        "ethereum_address": "0x997aF6BBf0AaF2e68f8C6D077eB76bC05646f08E",
-        "id": "5dacf99136be4f755892bfe05ad23612df0d01d7a301834b874e991ef2e178ee",
-        "info_url": "https://en.wikipedia.org/wiki/Dwayne_Mars",
-        "name": "hollow-table",
-        "tm_pub_key": "iR2LTcig/akTLQcfu5XIDE6p1XzdW8ZX2+pRs7Cr1EY=",
-        "vega_pub_key": "559d66c9099221325945538a07b268e376897d77b091600118952089988e1197",
-        "vega_pub_key_index": 1
-      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -324,10 +313,21 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
+      },
+      "uVjdvmzuNZE5TcUSscKPZxERqP0BKTW1N41+nlTthQ8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/zy9h9st3qp2y65cwgdi6x5vr0nlzvstr?d=identicon",
+        "country": "YU",
+        "ethereum_address": "0xFCAf8d3fEe1c79b2a1655dD625Cbaca24b559bC5",
+        "id": "352c8e94d5a5ae56939a713e46a66f1f26a03010231e11c23c6faa85dff1b1f3",
+        "info_url": "https://en.wikipedia.org/wiki/Baddegama_North",
+        "name": "oppulent-shoe",
+        "tm_pub_key": "uVjdvmzuNZE5TcUSscKPZxERqP0BKTW1N41+nlTthQ8=",
+        "vega_pub_key": "6089b8c676afdf6bf76f4c162f6917dcd703cec03abdec03ae48fffdce152e83",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202309191517",
+  "chain_id": "vega-devnet1-202309191554",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-19T15:17:18.76294934Z",
+  "genesis_time": "2023-09-19T15:54:33.817747183Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "58827F726CECA31AFEDDE4394EFD1032FFBEB617",
-      "name": "hollow-table",
+      "address": "8A7E86E45C0AE2AB3EEF16256DFCB61AD8658AD8",
+      "name": "oppulent-shoe",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "iR2LTcig/akTLQcfu5XIDE6p1XzdW8ZX2+pRs7Cr1EY="
+        "value": "uVjdvmzuNZE5TcUSscKPZxERqP0BKTW1N41+nlTthQ8="
       }
     }
   ]
