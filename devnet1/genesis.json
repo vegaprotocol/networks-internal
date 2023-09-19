@@ -281,17 +281,6 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
-      "FQQZMxRS2dUE8P4rt3+nyRGpXjT5Zr05WafBNCZjJ/w=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ps2cdfo5holfszrvm3whjnymbm3936cc?d=identicon",
-        "country": "UB",
-        "ethereum_address": "0xD91aD2a2572c4e689c87c2FF0e049Fb855bFbf3b",
-        "id": "fafb3d1b0c54cd41bc1cd4b00164a1854200fb67dfc239e2e1828ee15ac9c513",
-        "info_url": "https://en.wikipedia.org/wiki/Lele_Hardy",
-        "name": "tender-bee",
-        "tm_pub_key": "FQQZMxRS2dUE8P4rt3+nyRGpXjT5Zr05WafBNCZjJ/w=",
-        "vega_pub_key": "8b4a228327b045b13685fb8af711e486ab893067848fc0d537e95fdc809bd7f7",
-        "vega_pub_key_index": 1
-      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -314,6 +303,17 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
+      "iR2LTcig/akTLQcfu5XIDE6p1XzdW8ZX2+pRs7Cr1EY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/j46sgtg2z19lbn48co7e6o40e3z9wp1a?d=identicon",
+        "country": "OM",
+        "ethereum_address": "0x997aF6BBf0AaF2e68f8C6D077eB76bC05646f08E",
+        "id": "5dacf99136be4f755892bfe05ad23612df0d01d7a301834b874e991ef2e178ee",
+        "info_url": "https://en.wikipedia.org/wiki/Dwayne_Mars",
+        "name": "hollow-table",
+        "tm_pub_key": "iR2LTcig/akTLQcfu5XIDE6p1XzdW8ZX2+pRs7Cr1EY=",
+        "vega_pub_key": "559d66c9099221325945538a07b268e376897d77b091600118952089988e1197",
+        "vega_pub_key_index": 1
+      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309191435",
+  "chain_id": "vega-devnet1-202309191517",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-19T14:35:54.12299005Z",
+  "genesis_time": "2023-09-19T15:17:18.76294934Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "624C60770071BC0D32C483617C794D560B91120A",
-      "name": "tender-bee",
+      "address": "58827F726CECA31AFEDDE4394EFD1032FFBEB617",
+      "name": "hollow-table",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "FQQZMxRS2dUE8P4rt3+nyRGpXjT5Zr05WafBNCZjJ/w="
+        "value": "iR2LTcig/akTLQcfu5XIDE6p1XzdW8ZX2+pRs7Cr1EY="
       }
     }
   ]
