@@ -281,17 +281,6 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
-      "Qr+rBy8yIdx5SCGou5fyFjimPYjwsSFSV9dM3utBnuA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/txjzg5e3pgbmzhye1gwohy2qppx84y1x?d=identicon",
-        "country": "YJ",
-        "ethereum_address": "0x4E365E092317098Cddad7b431C7D25995b4B88fC",
-        "id": "9776840c6b842dd3505e22fb00491617e8e2a7893ccfa848034b4fbeac63d069",
-        "info_url": "https://en.wikipedia.org/wiki/Dorothy_Clement",
-        "name": "skinny-pickle",
-        "tm_pub_key": "Qr+rBy8yIdx5SCGou5fyFjimPYjwsSFSV9dM3utBnuA=",
-        "vega_pub_key": "d1f88f0cce60576f75cfa785daf7422bf604fb37bd25f9600232c373c252f7c2",
-        "vega_pub_key_index": 1
-      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -314,6 +303,17 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
+      "lwB+IFCwHBDDRS1NiDHvTMugXKTjczmE9bb5E5LWde4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/zohoklw61rsqstbsccgw5s5juiuwz3zx?d=identicon",
+        "country": "NH",
+        "ethereum_address": "0xB54506eF94c669ec06Aad3C500Dbc5cC9915Ab8E",
+        "id": "011651162930026ce9aecadb02269ee4e319a44d506ee7cd1ec1abbe0db4aa3e",
+        "info_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ram%C3%B3n_Larraz",
+        "name": "condescending-shoe",
+        "tm_pub_key": "lwB+IFCwHBDDRS1NiDHvTMugXKTjczmE9bb5E5LWde4=",
+        "vega_pub_key": "d592bd8f5c7d257282ce3f15d4dd7650aff0030f3bafb9b5fc0f1e67161b46fa",
+        "vega_pub_key_index": 1
+      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309191029",
+  "chain_id": "vega-devnet1-202309191105",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-19T10:29:18.082669675Z",
+  "genesis_time": "2023-09-19T11:05:46.219248561Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "70D0493568435133672596DF50D3C030953514D9",
-      "name": "skinny-pickle",
+      "address": "1F6B05436D9FD445A713CA2CEE552E6462F9148F",
+      "name": "condescending-shoe",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Qr+rBy8yIdx5SCGou5fyFjimPYjwsSFSV9dM3utBnuA="
+        "value": "lwB+IFCwHBDDRS1NiDHvTMugXKTjczmE9bb5E5LWde4="
       }
     }
   ]
