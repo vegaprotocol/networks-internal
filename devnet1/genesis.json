@@ -281,15 +281,15 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
-      "LL/3PFHs2wN7+6O36DdB+5ye2/5GHLdoEFQ9tS0PD64=": {
-        "avatar_url": "https://www.gravatar.com/avatar/8qyi20zjqzdnkqb4ovnte8s1prgvnwqu?d=identicon",
-        "country": "EG",
-        "ethereum_address": "0x21aD9bCFd496624F0e0E2A597639471D3A967255",
-        "id": "47d4babdb3d34e91eff3ee57c0646ba46885ca4dc82db97626b06b237e26cc21",
-        "info_url": "https://en.wikipedia.org/wiki/Venera",
-        "name": "tender-toy",
-        "tm_pub_key": "LL/3PFHs2wN7+6O36DdB+5ye2/5GHLdoEFQ9tS0PD64=",
-        "vega_pub_key": "d21c5f30ca5cd701925d491fbefbcb6da024798e4baf20d89d6580854366afff",
+      "Qr+rBy8yIdx5SCGou5fyFjimPYjwsSFSV9dM3utBnuA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/txjzg5e3pgbmzhye1gwohy2qppx84y1x?d=identicon",
+        "country": "YJ",
+        "ethereum_address": "0x4E365E092317098Cddad7b431C7D25995b4B88fC",
+        "id": "9776840c6b842dd3505e22fb00491617e8e2a7893ccfa848034b4fbeac63d069",
+        "info_url": "https://en.wikipedia.org/wiki/Dorothy_Clement",
+        "name": "skinny-pickle",
+        "tm_pub_key": "Qr+rBy8yIdx5SCGou5fyFjimPYjwsSFSV9dM3utBnuA=",
+        "vega_pub_key": "d1f88f0cce60576f75cfa785daf7422bf604fb37bd25f9600232c373c252f7c2",
         "vega_pub_key_index": 1
       },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309182111",
+  "chain_id": "vega-devnet1-202309190958",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-18T21:11:35.901161588Z",
+  "genesis_time": "2023-09-19T09:58:32.329399286Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "2DC64B8F082EF9E34FFB8767BA02601DF075CA77",
-      "name": "tender-toy",
+      "address": "70D0493568435133672596DF50D3C030953514D9",
+      "name": "skinny-pickle",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "LL/3PFHs2wN7+6O36DdB+5ye2/5GHLdoEFQ9tS0PD64="
+        "value": "Qr+rBy8yIdx5SCGou5fyFjimPYjwsSFSV9dM3utBnuA="
       }
     }
   ]
