@@ -281,17 +281,6 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
-      "O9YAkOFye5AqonLaSxVGtZkxkOcFFZ0gak6M2QIQ6UI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/qa3l90uol89h6jr0fc3h8w75i0nwlsl4?d=identicon",
-        "country": "JP",
-        "ethereum_address": "0xe62bFE684e929e51826ef47CFf7c4EBd64BcDCee",
-        "id": "02fee613320058fe0ec69795056415ed6b16cd0eca3e828dfa8d25124c3e3532",
-        "info_url": "https://en.wikipedia.org/wiki/Myrtle_Beach_Freedom",
-        "name": "wrong-sheep",
-        "tm_pub_key": "O9YAkOFye5AqonLaSxVGtZkxkOcFFZ0gak6M2QIQ6UI=",
-        "vega_pub_key": "dd958fa753716ade61519159e12f08fe1387d90c5cb2a2df3ec9896b3ccff709",
-        "vega_pub_key_index": 1
-      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -324,10 +313,21 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
+      },
+      "y4ykLWA+y7BfNQWrgt9x3toVYVV7v178q7/gotFmQAU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/imb4olai3qon43rdcmxclhszwb2q47cc?d=identicon",
+        "country": "TQ",
+        "ethereum_address": "0xacE2e963747244f55e95c8E5E567A1ed81f0b630",
+        "id": "9319ca8330fab4790c32d3741615869cc48e10b9a0fb1ce476be8469c659eb5d",
+        "info_url": "https://en.wikipedia.org/wiki/Roger_Dodger_(phrase)",
+        "name": "ugly-wall",
+        "tm_pub_key": "y4ykLWA+y7BfNQWrgt9x3toVYVV7v178q7/gotFmQAU=",
+        "vega_pub_key": "3920ab76e721cb5a6a68a2e24262fc15d7ce39aef335a4c6eb917fdb687eaec7",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202309191746",
+  "chain_id": "vega-devnet1-202309192011",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-19T17:46:59.804390488Z",
+  "genesis_time": "2023-09-19T20:11:31.711418962Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "131B07096872E63F0B08DE3FD818F93E57ABA548",
-      "name": "wrong-sheep",
+      "address": "715B86A39D8889701E0799807A11AEB3E5EC7C7D",
+      "name": "ugly-wall",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "O9YAkOFye5AqonLaSxVGtZkxkOcFFZ0gak6M2QIQ6UI="
+        "value": "y4ykLWA+y7BfNQWrgt9x3toVYVV7v178q7/gotFmQAU="
       }
     }
   ]
