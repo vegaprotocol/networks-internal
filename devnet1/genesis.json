@@ -292,6 +292,17 @@
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
         "vega_pub_key_index": 1
       },
+      "e3wgqSqEUEeqXJKj4tRpUFAvq1C2Y3NW9uM1/JULWAY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/n8sw6lubtaeiqepgpnx676k7vdf2yumb?d=identicon",
+        "country": "MV",
+        "ethereum_address": "0x2dB0f78f81867943a6fBaE3E51f5Dcd9fD856800",
+        "id": "1cdbe4c30b51111eb429b646fee22a813b43cd4559c7622b5d85d61778667104",
+        "info_url": "https://en.wikipedia.org/wiki/Adolfo_Vaccaro",
+        "name": "stocky-stove",
+        "tm_pub_key": "e3wgqSqEUEeqXJKj4tRpUFAvq1C2Y3NW9uM1/JULWAY=",
+        "vega_pub_key": "98b80c0cd4b07657f8b99fd1748e6c6fc51be2d41672d19593668e7920cb6887",
+        "vega_pub_key_index": 1
+      },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
         "avatar_url": "https://www.gravatar.com/avatar/z9sfw769a99015gw2zxnb0n4o57k4pch?d=identicon",
         "country": "RC",
@@ -301,17 +312,6 @@
         "name": "unkempt-mango",
         "tm_pub_key": "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=",
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
-        "vega_pub_key_index": 1
-      },
-      "lwB+IFCwHBDDRS1NiDHvTMugXKTjczmE9bb5E5LWde4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/zohoklw61rsqstbsccgw5s5juiuwz3zx?d=identicon",
-        "country": "NH",
-        "ethereum_address": "0xB54506eF94c669ec06Aad3C500Dbc5cC9915Ab8E",
-        "id": "011651162930026ce9aecadb02269ee4e319a44d506ee7cd1ec1abbe0db4aa3e",
-        "info_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ram%C3%B3n_Larraz",
-        "name": "condescending-shoe",
-        "tm_pub_key": "lwB+IFCwHBDDRS1NiDHvTMugXKTjczmE9bb5E5LWde4=",
-        "vega_pub_key": "d592bd8f5c7d257282ce3f15d4dd7650aff0030f3bafb9b5fc0f1e67161b46fa",
         "vega_pub_key_index": 1
       },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309191134",
+  "chain_id": "vega-devnet1-202309191242",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-19T11:34:58.593077678Z",
+  "genesis_time": "2023-09-19T12:42:51.486557398Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "1F6B05436D9FD445A713CA2CEE552E6462F9148F",
-      "name": "condescending-shoe",
+      "address": "225507D569D7B078DE7AF1907115F67B1771DCFF",
+      "name": "stocky-stove",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "lwB+IFCwHBDDRS1NiDHvTMugXKTjczmE9bb5E5LWde4="
+        "value": "e3wgqSqEUEeqXJKj4tRpUFAvq1C2Y3NW9uM1/JULWAY="
       }
     }
   ]
