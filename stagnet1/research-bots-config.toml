@@ -136,7 +136,7 @@ passphrase_file = "./assets/passphrase.txt"
         initial_volume = 0.001
         initial_mint = 10000
     [scenario.applemontly.random_trader_args]
-        traders = 15
+        traders = 50
         order_intensity = [10,10,10,10,10,10,10,10,10,10,10,10,10,10,10]
         order_volume = [0.01, 0.1, 1.0, 0.01, 0.1, 1.0, 0.01, 0.1, 1.0 , 0.01, 0.1, 1.0, 0.01, 0.1, 1.0]
         step_bias = [0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003, 0.333, 0.012, 0.003]
@@ -585,4 +585,3 @@ passphrase_file = "./assets/passphrase.txt"
         coinbase_code = "ETH-USDT"
         start_date = "2022-11-01 00:00:00"
         randomise_history = false
-
