@@ -281,17 +281,6 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
-      "MBBMZFgEthMnnJbYOdC/lCIe3y1QnbzX+Z23f7k43h8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ht5vgicr2nok03z18x8yllo5nn4txqh3?d=identicon",
-        "country": "PF",
-        "ethereum_address": "0xe1c20cbe0ab9FE42CdEd7E64d3C01BfEA97A32d2",
-        "id": "5545e6414d4609f184ede055523315c46d630cd3f8fe51383af1fc7853f0e5f7",
-        "info_url": "https://en.wikipedia.org/wiki/Oliver_Allison",
-        "name": "mango-day",
-        "tm_pub_key": "MBBMZFgEthMnnJbYOdC/lCIe3y1QnbzX+Z23f7k43h8=",
-        "vega_pub_key": "11156309b98ce85b090b309539ea4596858103f50834c536451d2f0c6f36d5fc",
-        "vega_pub_key_index": 1
-      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -301,6 +290,17 @@
         "name": "narrow-plant",
         "tm_pub_key": "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=",
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
+        "vega_pub_key_index": 1
+      },
+      "Zn8nawu5uDuodtqiUsIVBVsPTvSwKhqFclWTuwC4g3E=": {
+        "avatar_url": "https://www.gravatar.com/avatar/jg51q5y5ebbjee9qm8f7dp2gowxdr515?d=identicon",
+        "country": "QF",
+        "ethereum_address": "0xd3d1E5ff4f685824B30771253008Ee3324E59b74",
+        "id": "60552977f82dad4d372213a188ed3786afe221e7fd3305b988cd6824bb36e712",
+        "info_url": "https://en.wikipedia.org/wiki/1970_Scottish_League_Cup_final",
+        "name": "clean-chimney",
+        "tm_pub_key": "Zn8nawu5uDuodtqiUsIVBVsPTvSwKhqFclWTuwC4g3E=",
+        "vega_pub_key": "faae66570cfad95056a31574422fef8dba2d271f1c5986acfa5b790a2e90bacb",
         "vega_pub_key_index": 1
       },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309200837",
+  "chain_id": "vega-devnet1-202309201007",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-20T08:37:00.11126087Z",
+  "genesis_time": "2023-09-20T10:07:46.429012069Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "42FE0F1E6835ED1B7EDB77B17E70B1659A77E113",
-      "name": "mango-day",
+      "address": "AFBB09622C58794C12A9F093D9F54CD183191AE1",
+      "name": "clean-chimney",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "MBBMZFgEthMnnJbYOdC/lCIe3y1QnbzX+Z23f7k43h8="
+        "value": "Zn8nawu5uDuodtqiUsIVBVsPTvSwKhqFclWTuwC4g3E="
       }
     }
   ]
