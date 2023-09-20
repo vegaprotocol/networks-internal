@@ -1,0 +1,68 @@
+# Binance exchange info/symbols: https://api.binance.com/api/v1/exchangeInfo
+
+network_config_file = "https://raw.githubusercontent.com/vegaprotocol/networks-internal/main/fairground/vegawallet-fairground.toml"
+debug = false
+work_dir = "./network"
+
+
+[http_server]
+interface = "0.0.0.0"
+port = 8080
+
+[vegawallet]
+version = "" # ignored if auto_version == true
+repository = "vegaprotocol/vega"
+artifact_name = "vega"
+download_wallet_binary = true
+auto_version = true
+tokens_file = "./network/wallet-info.json"
+
+wallet_name = "vegamarketsim"
+network_name = "fairground"
+binary = "vega" # vega binary, as we use vega wallet command
+home = "./wallets-mount" # mounted from the host
+passphrase_file = "./assets/passphrase.txt"
+
+[scenario.btcusd_perpetual_incentive]
+    market_name = "BTC/USD Perpetual Incentive"
+    binance_code = "BTCDAI"
+    step_length_seconds = 3
+    [scenario.btcusd_perpetual_incentive.market_manager_args]
+        asset_name = "USD-P"
+        adp = 6
+        mdp = 4
+        pdp = 0
+    [scenario.btcusd_perpetual_incentive.market_maker_args]
+        market_kappa = 0.15
+        market_order_arrival_rate = 100
+        order_kappa = 0.15
+        order_size = 1
+        order_levels = 25
+        order_spacing = 1
+        order_clipping = 10000
+        inventory_lower_boundary = -3
+        inventory_upper_boundary = 3
+        fee_amount = 0.0001
+        commitment_amount = 800000
+        initial_mint = 200000
+    [scenario.btcusd_perpetual_incentive.auction_trader_args]
+        traders = 2
+        initial_volume = 0.001
+        initial_mint = 10000
+    [scenario.btcusd_perpetual_incentive.random_trader_args]
+        traders = 10
+        order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+        order_volume = [0.001, 0.005, 0.01, 0.02, 0.6, 0.07, 0.09, 0.1, 0.4, 0.6, 0.8]
+        step_bias = [0.333, 0.222, 0.175, 0.130, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
+        initial_mint = 1000000
+    [scenario.btcusd_perpetual_incentive.sensitive_trader_args]
+        traders = 10
+        scale = [2, 4, 6, 8, 10, 12, 14, 16, 17, 20]
+        max_order_size = [0.001, 0.005, 0.01, 0.02, 0.05, 0.08, 0.1, 0.2, 0.3, 0.4]
+        initial_mint = 10000
+    [scenario.btcusd_perpetual_incentive.simulation_args]
+        n_steps = 99999999
+        granularity = "MINUTE"
+        coinbase_code = "BTC-USDT"
+        start_date = "2022-11-01 00:00:00"
+        randomise_history = false
