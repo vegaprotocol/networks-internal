@@ -292,15 +292,15 @@
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
         "vega_pub_key_index": 1
       },
-      "Zn8nawu5uDuodtqiUsIVBVsPTvSwKhqFclWTuwC4g3E=": {
-        "avatar_url": "https://www.gravatar.com/avatar/jg51q5y5ebbjee9qm8f7dp2gowxdr515?d=identicon",
-        "country": "QF",
-        "ethereum_address": "0xd3d1E5ff4f685824B30771253008Ee3324E59b74",
-        "id": "60552977f82dad4d372213a188ed3786afe221e7fd3305b988cd6824bb36e712",
-        "info_url": "https://en.wikipedia.org/wiki/1970_Scottish_League_Cup_final",
-        "name": "clean-chimney",
-        "tm_pub_key": "Zn8nawu5uDuodtqiUsIVBVsPTvSwKhqFclWTuwC4g3E=",
-        "vega_pub_key": "faae66570cfad95056a31574422fef8dba2d271f1c5986acfa5b790a2e90bacb",
+      "X2ZkYG7GKo9D57w2a2VFuGYREr6mTTMsD0yKguKemYs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/z0u8m4q413pnqroe3wgjb8hx3jl13ge3?d=identicon",
+        "country": "ZD",
+        "ethereum_address": "0x5fE445e3C3D176a325e885b96Ef47FcC32C91eFA",
+        "id": "403badf16ceea95bb5e1f9db2bde7932c8af0510459b5f3c66217c0cbd844f88",
+        "info_url": "https://en.wikipedia.org/wiki/2020_Bougainvillean_general_election",
+        "name": "thundering-key",
+        "tm_pub_key": "X2ZkYG7GKo9D57w2a2VFuGYREr6mTTMsD0yKguKemYs=",
+        "vega_pub_key": "5977f18b934167a0a474f6103674ad23343e6147a5ab35fa439ce696b9817f79",
         "vega_pub_key_index": 1
       },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309201040",
+  "chain_id": "vega-devnet1-202309201104",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-20T10:40:47.715829132Z",
+  "genesis_time": "2023-09-20T11:04:48.663550157Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "AFBB09622C58794C12A9F093D9F54CD183191AE1",
-      "name": "clean-chimney",
+      "address": "C8160DEEE93B62CB248F7845A78B949A54CE1BF7",
+      "name": "thundering-key",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Zn8nawu5uDuodtqiUsIVBVsPTvSwKhqFclWTuwC4g3E="
+        "value": "X2ZkYG7GKo9D57w2a2VFuGYREr6mTTMsD0yKguKemYs="
       }
     }
   ]
