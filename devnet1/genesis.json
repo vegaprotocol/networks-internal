@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "5YZEwYkLY9g3opJdEegXqPxFNi2dBB6obTlkLYynm3Y=": {
-        "avatar_url": "https://www.gravatar.com/avatar/3efc6k9ua5ri95leqmsuwd9dmfjm22oc?d=identicon",
-        "country": "HH",
-        "ethereum_address": "0x476d7c73728c48F2Fe120Bf08a786dEE7cEb91B0",
-        "id": "2d4ec7f25c6445565a91414b1f00510f733c5582a1402e43c19a3cfc8300efa8",
-        "info_url": "https://en.wikipedia.org/wiki/Cybister",
-        "name": "helpful-stove",
-        "tm_pub_key": "5YZEwYkLY9g3opJdEegXqPxFNi2dBB6obTlkLYynm3Y=",
-        "vega_pub_key": "057033421f75bdf692b5940d636ce987fe3ca937a0b7cfb33871df8bcc926791",
-        "vega_pub_key_index": 1
-      },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
         "avatar_url": "https://www.gravatar.com/avatar/oapaoa6gfsgvg6f1yo5umw2fnn3thw1z?d=identicon",
         "country": "FQ",
@@ -290,6 +279,17 @@
         "name": "immense-tile",
         "tm_pub_key": "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=",
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
+        "vega_pub_key_index": 1
+      },
+      "QoRT/ajSO4+atbuOnMb9jv3ZceqgIaFnx9Y0OtkBlCs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ybfnu5vlxa12ahaf3goo4ygabmk78wgb?d=identicon",
+        "country": "PA",
+        "ethereum_address": "0x7E643d1527B329A9a2ADeC91d20746206B376dF2",
+        "id": "ee8b51c3b434fe52c8ebb4ce7e5ed7be0c39550d1b4d949dfe501926a73df957",
+        "info_url": "https://en.wikipedia.org/wiki/Tirukkural_translations_into_Chinese",
+        "name": "zippy-road",
+        "tm_pub_key": "QoRT/ajSO4+atbuOnMb9jv3ZceqgIaFnx9Y0OtkBlCs=",
+        "vega_pub_key": "310056f4aa5ddc3cb905095ec1b1828281b40d8cad1ad39fa997b10716293c2a",
         "vega_pub_key_index": 1
       },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309201408",
+  "chain_id": "vega-devnet1-202309201739",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-20T14:08:46.48196451Z",
+  "genesis_time": "2023-09-20T17:39:28.644843591Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "387E1709C268E7B4347005204DEC8D5C67286BD1",
-      "name": "helpful-stove",
+      "address": "DE2C7D93142380563F8AEFBBC49D586F7D52BA9B",
+      "name": "zippy-road",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "5YZEwYkLY9g3opJdEegXqPxFNi2dBB6obTlkLYynm3Y="
+        "value": "QoRT/ajSO4+atbuOnMb9jv3ZceqgIaFnx9Y0OtkBlCs="
       }
     }
   ]
