@@ -281,6 +281,17 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
+      "MBBMZFgEthMnnJbYOdC/lCIe3y1QnbzX+Z23f7k43h8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ht5vgicr2nok03z18x8yllo5nn4txqh3?d=identicon",
+        "country": "PF",
+        "ethereum_address": "0xe1c20cbe0ab9FE42CdEd7E64d3C01BfEA97A32d2",
+        "id": "5545e6414d4609f184ede055523315c46d630cd3f8fe51383af1fc7853f0e5f7",
+        "info_url": "https://en.wikipedia.org/wiki/Oliver_Allison",
+        "name": "mango-day",
+        "tm_pub_key": "MBBMZFgEthMnnJbYOdC/lCIe3y1QnbzX+Z23f7k43h8=",
+        "vega_pub_key": "11156309b98ce85b090b309539ea4596858103f50834c536451d2f0c6f36d5fc",
+        "vega_pub_key_index": 1
+      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -313,21 +324,10 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
-      },
-      "y4ykLWA+y7BfNQWrgt9x3toVYVV7v178q7/gotFmQAU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/imb4olai3qon43rdcmxclhszwb2q47cc?d=identicon",
-        "country": "TQ",
-        "ethereum_address": "0xacE2e963747244f55e95c8E5E567A1ed81f0b630",
-        "id": "9319ca8330fab4790c32d3741615869cc48e10b9a0fb1ce476be8469c659eb5d",
-        "info_url": "https://en.wikipedia.org/wiki/Roger_Dodger_(phrase)",
-        "name": "ugly-wall",
-        "tm_pub_key": "y4ykLWA+y7BfNQWrgt9x3toVYVV7v178q7/gotFmQAU=",
-        "vega_pub_key": "3920ab76e721cb5a6a68a2e24262fc15d7ce39aef335a4c6eb917fdb687eaec7",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202309192011",
+  "chain_id": "vega-devnet1-202309200837",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-19T20:11:31.711418962Z",
+  "genesis_time": "2023-09-20T08:37:00.11126087Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "715B86A39D8889701E0799807A11AEB3E5EC7C7D",
-      "name": "ugly-wall",
+      "address": "42FE0F1E6835ED1B7EDB77B17E70B1659A77E113",
+      "name": "mango-day",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "y4ykLWA+y7BfNQWrgt9x3toVYVV7v178q7/gotFmQAU="
+        "value": "MBBMZFgEthMnnJbYOdC/lCIe3y1QnbzX+Z23f7k43h8="
       }
     }
   ]
