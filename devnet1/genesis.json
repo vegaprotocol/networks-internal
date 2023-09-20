@@ -292,17 +292,6 @@
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
         "vega_pub_key_index": 1
       },
-      "X2ZkYG7GKo9D57w2a2VFuGYREr6mTTMsD0yKguKemYs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/z0u8m4q413pnqroe3wgjb8hx3jl13ge3?d=identicon",
-        "country": "ZD",
-        "ethereum_address": "0x5fE445e3C3D176a325e885b96Ef47FcC32C91eFA",
-        "id": "403badf16ceea95bb5e1f9db2bde7932c8af0510459b5f3c66217c0cbd844f88",
-        "info_url": "https://en.wikipedia.org/wiki/2020_Bougainvillean_general_election",
-        "name": "thundering-key",
-        "tm_pub_key": "X2ZkYG7GKo9D57w2a2VFuGYREr6mTTMsD0yKguKemYs=",
-        "vega_pub_key": "5977f18b934167a0a474f6103674ad23343e6147a5ab35fa439ce696b9817f79",
-        "vega_pub_key_index": 1
-      },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
         "avatar_url": "https://www.gravatar.com/avatar/z9sfw769a99015gw2zxnb0n4o57k4pch?d=identicon",
         "country": "RC",
@@ -324,10 +313,21 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
+      },
+      "vsDUwrsZGR8ok2MZSNMqPwIdy9CN131/fGTodDGjxIU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/x2o54b638hvulj3pkge0rf8iprk5eok9?d=identicon",
+        "country": "ZT",
+        "ethereum_address": "0x51F5e3808b688CBbCa29DeB48d94653897D42acc",
+        "id": "256e232a8d9a459dc83c1e3367497f8039f58b926920a9e47978d9565112b5c3",
+        "info_url": "https://en.wikipedia.org/wiki/Hordes_of_Chaos_(album)",
+        "name": "harsh-pool",
+        "tm_pub_key": "vsDUwrsZGR8ok2MZSNMqPwIdy9CN131/fGTodDGjxIU=",
+        "vega_pub_key": "cd452648c216c4e217db0bcb3a1f40f409395610f2ed0dc239bd2fa46270120d",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202309201120",
+  "chain_id": "vega-devnet1-202309201258",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-20T11:20:18.120878709Z",
+  "genesis_time": "2023-09-20T12:58:38.425857319Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "C8160DEEE93B62CB248F7845A78B949A54CE1BF7",
-      "name": "thundering-key",
+      "address": "45E4D8FE5AF0622A43CA77CD08010F8D3D5EA159",
+      "name": "harsh-pool",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "X2ZkYG7GKo9D57w2a2VFuGYREr6mTTMsD0yKguKemYs="
+        "value": "vsDUwrsZGR8ok2MZSNMqPwIdy9CN131/fGTodDGjxIU="
       }
     }
   ]
