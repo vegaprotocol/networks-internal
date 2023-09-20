@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "5YZEwYkLY9g3opJdEegXqPxFNi2dBB6obTlkLYynm3Y=": {
+        "avatar_url": "https://www.gravatar.com/avatar/3efc6k9ua5ri95leqmsuwd9dmfjm22oc?d=identicon",
+        "country": "HH",
+        "ethereum_address": "0x476d7c73728c48F2Fe120Bf08a786dEE7cEb91B0",
+        "id": "2d4ec7f25c6445565a91414b1f00510f733c5582a1402e43c19a3cfc8300efa8",
+        "info_url": "https://en.wikipedia.org/wiki/Cybister",
+        "name": "helpful-stove",
+        "tm_pub_key": "5YZEwYkLY9g3opJdEegXqPxFNi2dBB6obTlkLYynm3Y=",
+        "vega_pub_key": "057033421f75bdf692b5940d636ce987fe3ca937a0b7cfb33871df8bcc926791",
+        "vega_pub_key_index": 1
+      },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
         "avatar_url": "https://www.gravatar.com/avatar/oapaoa6gfsgvg6f1yo5umw2fnn3thw1z?d=identicon",
         "country": "FQ",
@@ -313,21 +324,10 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
-      },
-      "vsDUwrsZGR8ok2MZSNMqPwIdy9CN131/fGTodDGjxIU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/x2o54b638hvulj3pkge0rf8iprk5eok9?d=identicon",
-        "country": "ZT",
-        "ethereum_address": "0x51F5e3808b688CBbCa29DeB48d94653897D42acc",
-        "id": "256e232a8d9a459dc83c1e3367497f8039f58b926920a9e47978d9565112b5c3",
-        "info_url": "https://en.wikipedia.org/wiki/Hordes_of_Chaos_(album)",
-        "name": "harsh-pool",
-        "tm_pub_key": "vsDUwrsZGR8ok2MZSNMqPwIdy9CN131/fGTodDGjxIU=",
-        "vega_pub_key": "cd452648c216c4e217db0bcb3a1f40f409395610f2ed0dc239bd2fa46270120d",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202309201344",
+  "chain_id": "vega-devnet1-202309201408",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-20T13:44:52.132219255Z",
+  "genesis_time": "2023-09-20T14:08:46.48196451Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "45E4D8FE5AF0622A43CA77CD08010F8D3D5EA159",
-      "name": "harsh-pool",
+      "address": "387E1709C268E7B4347005204DEC8D5C67286BD1",
+      "name": "helpful-stove",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "vsDUwrsZGR8ok2MZSNMqPwIdy9CN131/fGTodDGjxIU="
+        "value": "5YZEwYkLY9g3opJdEegXqPxFNi2dBB6obTlkLYynm3Y="
       }
     }
   ]
