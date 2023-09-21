@@ -303,17 +303,6 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
-      "mxxTKJN1u+HBpykEK2D3hwLwPI+UvC912lZrhf9eccI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/6sq6luxuow8bdwf3fius68629ccre81v?d=identicon",
-        "country": "XO",
-        "ethereum_address": "0x17C02B2F12D282153B7a673F6e2b417e532A2A16",
-        "id": "f7c1c77b591352c11a2b322ba9e879212c48f28cb94638f3191cac520cfe89e7",
-        "info_url": "https://en.wikipedia.org/wiki/Rapha%C3%ABl_Voltz",
-        "name": "helpful-music",
-        "tm_pub_key": "mxxTKJN1u+HBpykEK2D3hwLwPI+UvC912lZrhf9eccI=",
-        "vega_pub_key": "a970bdd06a45c55e806987e566cba37b6f62e1b439dec41d36736306a75d8f30",
-        "vega_pub_key_index": 1
-      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -324,10 +313,21 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
+      },
+      "tdXVXo7gskplTuferX3R63ZsNcN935+kEGL9Nw433do=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ni8cp5bmztsqlzkwffakzcxezzbrzhfs?d=identicon",
+        "country": "RI",
+        "ethereum_address": "0xF7ece18eEF530167B04fA865CaC609eB476101cD",
+        "id": "92464af10ba35b57d5b2353cdf46f21d850af6c5b953500ac0251d384737fa8e",
+        "info_url": "https://en.wikipedia.org/wiki/Whakaari_/_White_Island",
+        "name": "alive-duck",
+        "tm_pub_key": "tdXVXo7gskplTuferX3R63ZsNcN935+kEGL9Nw433do=",
+        "vega_pub_key": "19ada9015e3fef06eeb31e27d95a0e210a69829196fb1a3618052fdbb966f7ed",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202309210004",
+  "chain_id": "vega-devnet1-202309210810",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-21T00:04:15.069064377Z",
+  "genesis_time": "2023-09-21T08:10:56.316158027Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "C82F74C896C3570D3133E7078316B2AEE3B0C7E1",
-      "name": "helpful-music",
+      "address": "9FA2BB256CEAD63932DE80698CE9CB8515D33691",
+      "name": "alive-duck",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "mxxTKJN1u+HBpykEK2D3hwLwPI+UvC912lZrhf9eccI="
+        "value": "tdXVXo7gskplTuferX3R63ZsNcN935+kEGL9Nw433do="
       }
     }
   ]
