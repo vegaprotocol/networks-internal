@@ -26,7 +26,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 [scenario.btcusdt_230630]
     market_name = "BTC/USDT expiry 2023 June 30th"
-    biance_code = "BTCDAI"
+    binance_code = "BTCDAI"
     step_length_seconds = 3
     [scenario.btcusdt_230630.market_manager_args]
         market_name = "BTC/USDT expiry 2023 June 30th"
@@ -69,7 +69,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 [scenario.ethusdt_230630]
     market_name = "ETH/USDT expiry 2023 June 30th"
-    biance_code = "ETHDAI"
+    binance_code = "ETHDAI"
     step_length_seconds = 3
     [scenario.ethusdt_230630.market_manager_args]
         market_name = "ETH/USDT expiry 2023 June 30th"
@@ -113,7 +113,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 [scenario.applemontly]
     market_name = "Apple Monthly (Oct 2023)"
-    biance_code = "EOSUSDT"
+    binance_code = "EOSUSDT"
     step_length_seconds = 3
     [scenario.applemontly.market_manager_args]
         market_name = "Apple Monthly (Oct 2023)"
@@ -157,7 +157,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 [scenario.tsla_quarterly]
     market_name = "Tesla Quarterly (Dec 2023)"
-    biance_code = "BNBEUR"
+    binance_code = "BNBEUR"
     step_length_seconds = 3
     [scenario.tsla_quarterly.market_manager_args]
         market_name = "Tesla Quarterly (Dec 2023)"
@@ -201,7 +201,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 [scenario.btcusd_perpetual]
     market_name = "BTCUSD Perpetual Futures"
-    biance_code = "BTCDAI"
+    binance_code = "BTCDAI"
     step_length_seconds = 3
     [scenario.btcusd_perpetual.market_manager_args]
         market_name = "BTCUSD Perpetual Futures"
@@ -244,7 +244,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 [scenario.ethusdt_perpetual]
     market_name = "ETHUSD Perpetual"
-    biance_code = "ETHDAI"
+    binance_code = "ETHDAI"
     step_length_seconds = 3
     [scenario.ethusdt_perpetual.market_manager_args]
         market_name = "ETHUSD Perpetual"
@@ -287,7 +287,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 [scenario.daiusd_perpetual]
     market_name = "DAIUSD Perpetual"
-    biance_code = "DAIUSDT"
+    binance_code = "DAIUSDT"
     step_length_seconds = 3
     [scenario.daiusd_perpetual.market_manager_args]
         market_name = "DAIUSD Perpetual"
@@ -330,7 +330,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 [scenario.btcusdt_monthly]
     market_name = "BTCUSD Monthly (Oct 2023)"
-    biance_code = "BTCDAI"
+    binance_code = "BTCDAI"
     step_length_seconds = 3
     [scenario.btcusdt_monthly.market_manager_args]
         market_name = "BTCUSD Monthly (Oct 2023)"
@@ -373,7 +373,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 [scenario.eurusd_perpetual]
     market_name = "EURUSD Perpetual"
-    biance_code = "EURUSDT"
+    binance_code = "EURUSDT"
     step_length_seconds = 3
     [scenario.eurusd_perpetual.market_manager_args]
         market_name = "EURUSD Perpetual"
@@ -416,7 +416,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 [scenario.aavedai]
     market_name = "AAVEDAI Monthly (Oct 2023)"
-    biance_code = "AAVEUSDT"
+    binance_code = "AAVEUSDT"
     step_length_seconds = 3
     [scenario.aavedai.market_manager_args]
         market_name = "AAVEDAI Monthly (Oct 2023)"
@@ -459,7 +459,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 [scenario.ethbtc_quarterly]
     market_name = "ETHBTC Quarterly (Dec 2023)"
-    biance_code = "ETHBTC"
+    binance_code = "ETHBTC"
     step_length_seconds = 3
     [scenario.ethbtc_quarterly.market_manager_args]
         market_name = "ETHBTC Quarterly (Dec 2023)"
@@ -502,7 +502,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 [scenario.linkusdt_perpetual]
     market_name = "LINKUSD Perpetual"
-    biance_code = "LINKUSDT"
+    binance_code = "LINKUSDT"
     step_length_seconds = 1
     [scenario.linkusdt_perpetual.market_manager_args]
         market_name = "LINKUSD Perpetual"
@@ -545,7 +545,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 [scenario.ehtdai_monthly]
     market_name = "ETHDAI Monthly (Oct 2023)"
-    biance_code = "ETHDAI"
+    binance_code = "ETHDAI"
     step_length_seconds = 3
     [scenario.ehtdai_monthly.market_manager_args]
         market_name = "ETHDAI Monthly (Oct 2023)"
