@@ -281,15 +281,15 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
-      "TU+4wRUiEpIwF4qUWcAsWhOj+jtPFynRZI6NGJ7b8BY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/iy8jal1hhprq1a9l2q2tiblf7xh2yn9z?d=identicon",
-        "country": "BV",
-        "ethereum_address": "0x76BDeF9f81357DcE78F4a25F80C5E6856D981D6d",
-        "id": "7d394d5dbf4232084584160a2bbf79c8eb237b1e166b67bd81c03f6d2bb41ef2",
-        "info_url": "https://en.wikipedia.org/wiki/Somerset_Island_(Nunavut)",
-        "name": "costly-taxi",
-        "tm_pub_key": "TU+4wRUiEpIwF4qUWcAsWhOj+jtPFynRZI6NGJ7b8BY=",
-        "vega_pub_key": "adc97cdd8232ac7a4169ca4988ddb7342e9a37bc9d77a6f4ad7833cc4d2654bd",
+      "JFB5hwO35nSXzOrdPzlmj1wmSDgmPJnjOCYxk8m8WAU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/50teqfn2fe8dos2o7bzvrs90fi0p56qc?d=identicon",
+        "country": "PQ",
+        "ethereum_address": "0xa2f095Bd362f2177EA68608A41527a1D29521006",
+        "id": "b4cf195c9ddb0eb6b3225acf738ab02d82e4af8d0ab98145b53c085193a5379e",
+        "info_url": "https://en.wikipedia.org/wiki/O_Song-suk",
+        "name": "happy-month",
+        "tm_pub_key": "JFB5hwO35nSXzOrdPzlmj1wmSDgmPJnjOCYxk8m8WAU=",
+        "vega_pub_key": "aa3d00092140b68f1495227aa48ff00f9a91c449f9cc3701c04d7bd855e3c567",
         "vega_pub_key_index": 1
       },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309210905",
+  "chain_id": "vega-devnet1-202309211016",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-21T09:05:01.839894171Z",
+  "genesis_time": "2023-09-21T10:16:47.80139326Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "0BCC6B0BC70553FB3550164F7C5DBE9FF517308D",
-      "name": "costly-taxi",
+      "address": "9F84F17C87739EBDEE56E4005E8501015111E9A9",
+      "name": "happy-month",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "TU+4wRUiEpIwF4qUWcAsWhOj+jtPFynRZI6NGJ7b8BY="
+        "value": "JFB5hwO35nSXzOrdPzlmj1wmSDgmPJnjOCYxk8m8WAU="
       }
     }
   ]
