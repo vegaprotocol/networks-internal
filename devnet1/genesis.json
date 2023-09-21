@@ -281,17 +281,6 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
-      "JFB5hwO35nSXzOrdPzlmj1wmSDgmPJnjOCYxk8m8WAU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/50teqfn2fe8dos2o7bzvrs90fi0p56qc?d=identicon",
-        "country": "PQ",
-        "ethereum_address": "0xa2f095Bd362f2177EA68608A41527a1D29521006",
-        "id": "b4cf195c9ddb0eb6b3225acf738ab02d82e4af8d0ab98145b53c085193a5379e",
-        "info_url": "https://en.wikipedia.org/wiki/O_Song-suk",
-        "name": "happy-month",
-        "tm_pub_key": "JFB5hwO35nSXzOrdPzlmj1wmSDgmPJnjOCYxk8m8WAU=",
-        "vega_pub_key": "aa3d00092140b68f1495227aa48ff00f9a91c449f9cc3701c04d7bd855e3c567",
-        "vega_pub_key_index": 1
-      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -314,6 +303,17 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
+      "fuXWQuMuhO/HqWO/WTxj4iuFkgNeCi84yPLi+IlutPA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/zw9x7tdw4nu2uo7uvmjo5kjmi0xq6sfs?d=identicon",
+        "country": "MN",
+        "ethereum_address": "0x14fDd4B791a48Fbe844C7e0f5c10b7348f449f21",
+        "id": "64ea5284ebda7e82650e265c779dbcc653cb4402e53b0757b2cd719d6b02ab75",
+        "info_url": "https://en.wikipedia.org/wiki/Bass_Pro_Shops_Legends_of_Golf",
+        "name": "happy-spoon",
+        "tm_pub_key": "fuXWQuMuhO/HqWO/WTxj4iuFkgNeCi84yPLi+IlutPA=",
+        "vega_pub_key": "c5c473e4c229d2649853c4327e5f3041f1dbb7d4c33fea1aa642cf15fe03b8b2",
+        "vega_pub_key_index": 1
+      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309211016",
+  "chain_id": "vega-devnet1-202309211107",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-21T10:16:47.80139326Z",
+  "genesis_time": "2023-09-21T11:07:48.200347558Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "9F84F17C87739EBDEE56E4005E8501015111E9A9",
-      "name": "happy-month",
+      "address": "D7CF417E098FDD70FDFA647E683E28471A47778F",
+      "name": "happy-spoon",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "JFB5hwO35nSXzOrdPzlmj1wmSDgmPJnjOCYxk8m8WAU="
+        "value": "fuXWQuMuhO/HqWO/WTxj4iuFkgNeCi84yPLi+IlutPA="
       }
     }
   ]
