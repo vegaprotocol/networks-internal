@@ -303,15 +303,15 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
-      "qBAB8wC2uD3sTfsny8PDXSm40AtZHxqTdmTpuqcP1Ak=": {
-        "avatar_url": "https://www.gravatar.com/avatar/hady5myoqeygi31r1oqmbqk7b2b9cshh?d=identicon",
-        "country": "PT",
-        "ethereum_address": "0x8d14Cb1fde4222E031653372B1C56FF946A4746D",
-        "id": "3128b03ede09a00a330891351386d3a930c23ed3c0ec4526c0b8eff6b5c875ed",
-        "info_url": "https://en.wikipedia.org/wiki/Cethegus_ischnotheloides",
-        "name": "dead-chimney",
-        "tm_pub_key": "qBAB8wC2uD3sTfsny8PDXSm40AtZHxqTdmTpuqcP1Ak=",
-        "vega_pub_key": "a19714cea4ebe74b85ec632e44f7da96b94f93deba9fc966d2b0e1c006079c12",
+      "mxxTKJN1u+HBpykEK2D3hwLwPI+UvC912lZrhf9eccI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/6sq6luxuow8bdwf3fius68629ccre81v?d=identicon",
+        "country": "XO",
+        "ethereum_address": "0x17C02B2F12D282153B7a673F6e2b417e532A2A16",
+        "id": "f7c1c77b591352c11a2b322ba9e879212c48f28cb94638f3191cac520cfe89e7",
+        "info_url": "https://en.wikipedia.org/wiki/Rapha%C3%ABl_Voltz",
+        "name": "helpful-music",
+        "tm_pub_key": "mxxTKJN1u+HBpykEK2D3hwLwPI+UvC912lZrhf9eccI=",
+        "vega_pub_key": "a970bdd06a45c55e806987e566cba37b6f62e1b439dec41d36736306a75d8f30",
         "vega_pub_key_index": 1
       },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309202308",
+  "chain_id": "vega-devnet1-202309210004",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-20T23:08:43.716407938Z",
+  "genesis_time": "2023-09-21T00:04:15.069064377Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "ABFFC0E1169BB2399F8077A847A8D0B0958CB017",
-      "name": "dead-chimney",
+      "address": "C82F74C896C3570D3133E7078316B2AEE3B0C7E1",
+      "name": "helpful-music",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "qBAB8wC2uD3sTfsny8PDXSm40AtZHxqTdmTpuqcP1Ak="
+        "value": "mxxTKJN1u+HBpykEK2D3hwLwPI+UvC912lZrhf9eccI="
       }
     }
   ]
