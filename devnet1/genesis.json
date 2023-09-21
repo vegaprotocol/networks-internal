@@ -281,6 +281,17 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
+      "TU+4wRUiEpIwF4qUWcAsWhOj+jtPFynRZI6NGJ7b8BY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/iy8jal1hhprq1a9l2q2tiblf7xh2yn9z?d=identicon",
+        "country": "BV",
+        "ethereum_address": "0x76BDeF9f81357DcE78F4a25F80C5E6856D981D6d",
+        "id": "7d394d5dbf4232084584160a2bbf79c8eb237b1e166b67bd81c03f6d2bb41ef2",
+        "info_url": "https://en.wikipedia.org/wiki/Somerset_Island_(Nunavut)",
+        "name": "costly-taxi",
+        "tm_pub_key": "TU+4wRUiEpIwF4qUWcAsWhOj+jtPFynRZI6NGJ7b8BY=",
+        "vega_pub_key": "adc97cdd8232ac7a4169ca4988ddb7342e9a37bc9d77a6f4ad7833cc4d2654bd",
+        "vega_pub_key_index": 1
+      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -313,21 +324,10 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
-      },
-      "tdXVXo7gskplTuferX3R63ZsNcN935+kEGL9Nw433do=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ni8cp5bmztsqlzkwffakzcxezzbrzhfs?d=identicon",
-        "country": "RI",
-        "ethereum_address": "0xF7ece18eEF530167B04fA865CaC609eB476101cD",
-        "id": "92464af10ba35b57d5b2353cdf46f21d850af6c5b953500ac0251d384737fa8e",
-        "info_url": "https://en.wikipedia.org/wiki/Whakaari_/_White_Island",
-        "name": "alive-duck",
-        "tm_pub_key": "tdXVXo7gskplTuferX3R63ZsNcN935+kEGL9Nw433do=",
-        "vega_pub_key": "19ada9015e3fef06eeb31e27d95a0e210a69829196fb1a3618052fdbb966f7ed",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202309210810",
+  "chain_id": "vega-devnet1-202309210905",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-21T08:10:56.316158027Z",
+  "genesis_time": "2023-09-21T09:05:01.839894171Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "9FA2BB256CEAD63932DE80698CE9CB8515D33691",
-      "name": "alive-duck",
+      "address": "0BCC6B0BC70553FB3550164F7C5DBE9FF517308D",
+      "name": "costly-taxi",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "tdXVXo7gskplTuferX3R63ZsNcN935+kEGL9Nw433do="
+        "value": "TU+4wRUiEpIwF4qUWcAsWhOj+jtPFynRZI6NGJ7b8BY="
       }
     }
   ]
