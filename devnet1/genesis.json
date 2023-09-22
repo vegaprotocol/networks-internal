@@ -292,17 +292,6 @@
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
         "vega_pub_key_index": 1
       },
-      "bM405hIFMvqj80WFsqMuJQK3C1j6Vyyt+wx4PdHKZ1U=": {
-        "avatar_url": "https://www.gravatar.com/avatar/vmzrkrc6sq6w4oe8tu6cee4tpk562omw?d=identicon",
-        "country": "PG",
-        "ethereum_address": "0x9383f2F6F2C1cb5336996aEb15a8d5Cba76C7256",
-        "id": "a7bc9c4b8143d7fb576e3f560e80d7a5acb3e2b8aeb6a07fafec1f715df5b52f",
-        "info_url": "https://en.wikipedia.org/wiki/Upaix",
-        "name": "whining-man",
-        "tm_pub_key": "bM405hIFMvqj80WFsqMuJQK3C1j6Vyyt+wx4PdHKZ1U=",
-        "vega_pub_key": "a827ab5a63f6bb278ba11c28945d1683b5d7e16293c2691a9a598720b2c2966c",
-        "vega_pub_key_index": 1
-      },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
         "avatar_url": "https://www.gravatar.com/avatar/z9sfw769a99015gw2zxnb0n4o57k4pch?d=identicon",
         "country": "RC",
@@ -324,10 +313,21 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
+      },
+      "uMaLXJX5MPp2D61cVNZq6Im54sZqr3T528/hJNDlmBU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/hnln2ypv745qzunkrobkbl5vgd2xcsfu?d=identicon",
+        "country": "WL",
+        "ethereum_address": "0x48734Cf77318a13b6FEBd3A6e941653154F1343b",
+        "id": "9ba9aa1adcd677ef4310a106f174193b3da5f9bf7e9b492208fe07b553dbe793",
+        "info_url": "https://en.wikipedia.org/wiki/Constitutional_crisis_in_Punjab,_Pakistan_(2022)",
+        "name": "excited-chair",
+        "tm_pub_key": "uMaLXJX5MPp2D61cVNZq6Im54sZqr3T528/hJNDlmBU=",
+        "vega_pub_key": "1af4435137dfdaaeaf59be7788ea2f06d80c4b063f8cf60581e15dc36b480fab",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202309221343",
+  "chain_id": "vega-devnet1-202309221458",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-22T13:43:42.813916133Z",
+  "genesis_time": "2023-09-22T14:58:55.511054024Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "AC6DCCC5F1C9634B75FFE3904DA126B7CE8DFCBA",
-      "name": "whining-man",
+      "address": "8E1CDD5C339393944AA6A00B86D7EC1BC387932A",
+      "name": "excited-chair",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "bM405hIFMvqj80WFsqMuJQK3C1j6Vyyt+wx4PdHKZ1U="
+        "value": "uMaLXJX5MPp2D61cVNZq6Im54sZqr3T528/hJNDlmBU="
       }
     }
   ]
