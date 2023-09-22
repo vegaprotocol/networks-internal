@@ -292,15 +292,15 @@
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
         "vega_pub_key_index": 1
       },
-      "Y4tSpQJI6NIwZpXEFy1UT+aHh4CHhb75P1xgcAg1i74=": {
-        "avatar_url": "https://www.gravatar.com/avatar/jcx9oeeuykowuxtv5sx5f4ncv1oet97g?d=identicon",
-        "country": "WR",
-        "ethereum_address": "0x525533EDD8CDad1ee86b37B402839BE8875F596D",
-        "id": "0d2b83382cf643c3be4ad8a12118e1d4a349db34e849ef556e0a25b0340b46e1",
-        "info_url": "https://en.wikipedia.org/wiki/Maaya_Uchida",
-        "name": "confused-park",
-        "tm_pub_key": "Y4tSpQJI6NIwZpXEFy1UT+aHh4CHhb75P1xgcAg1i74=",
-        "vega_pub_key": "64f8c07ca6099f2ea03c776e48095c5621609f2b89ea7120de9b46aa3139f529",
+      "bM405hIFMvqj80WFsqMuJQK3C1j6Vyyt+wx4PdHKZ1U=": {
+        "avatar_url": "https://www.gravatar.com/avatar/vmzrkrc6sq6w4oe8tu6cee4tpk562omw?d=identicon",
+        "country": "PG",
+        "ethereum_address": "0x9383f2F6F2C1cb5336996aEb15a8d5Cba76C7256",
+        "id": "a7bc9c4b8143d7fb576e3f560e80d7a5acb3e2b8aeb6a07fafec1f715df5b52f",
+        "info_url": "https://en.wikipedia.org/wiki/Upaix",
+        "name": "whining-man",
+        "tm_pub_key": "bM405hIFMvqj80WFsqMuJQK3C1j6Vyyt+wx4PdHKZ1U=",
+        "vega_pub_key": "a827ab5a63f6bb278ba11c28945d1683b5d7e16293c2691a9a598720b2c2966c",
         "vega_pub_key_index": 1
       },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309221247",
+  "chain_id": "vega-devnet1-202309221343",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-22T12:47:31.977780203Z",
+  "genesis_time": "2023-09-22T13:43:42.813916133Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "0B2162C4D8F8547A317434E4BBFE029BEFB65B4F",
-      "name": "confused-park",
+      "address": "AC6DCCC5F1C9634B75FFE3904DA126B7CE8DFCBA",
+      "name": "whining-man",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Y4tSpQJI6NIwZpXEFy1UT+aHh4CHhb75P1xgcAg1i74="
+        "value": "bM405hIFMvqj80WFsqMuJQK3C1j6Vyyt+wx4PdHKZ1U="
       }
     }
   ]
