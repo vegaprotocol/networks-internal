@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "At9/uDS/XuJ8LmVFJ59U9MMRfRBttmexf76I4LEnpCU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ete12s7q9gxso5sifh1geomc1y1xw08t?d=identicon",
-        "country": "PR",
-        "ethereum_address": "0x4d64078c2D8526BdFaf4FD335dC4Cb140EEa1a1F",
-        "id": "de8ec4820f55b104c8840fa81f05adf0da45bb9b2de83b09705f4cb13e926391",
-        "info_url": "https://en.wikipedia.org/wiki/Chantal_Grimard",
-        "name": "dizzy-bee",
-        "tm_pub_key": "At9/uDS/XuJ8LmVFJ59U9MMRfRBttmexf76I4LEnpCU=",
-        "vega_pub_key": "4f0f72287a6f5bb8da56a95ef2784df2765b1d320ca62c26bb742303a10e55ff",
-        "vega_pub_key_index": 1
-      },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
         "avatar_url": "https://www.gravatar.com/avatar/oapaoa6gfsgvg6f1yo5umw2fnn3thw1z?d=identicon",
         "country": "FQ",
@@ -301,6 +290,17 @@
         "name": "narrow-plant",
         "tm_pub_key": "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=",
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
+        "vega_pub_key_index": 1
+      },
+      "Y4tSpQJI6NIwZpXEFy1UT+aHh4CHhb75P1xgcAg1i74=": {
+        "avatar_url": "https://www.gravatar.com/avatar/jcx9oeeuykowuxtv5sx5f4ncv1oet97g?d=identicon",
+        "country": "WR",
+        "ethereum_address": "0x525533EDD8CDad1ee86b37B402839BE8875F596D",
+        "id": "0d2b83382cf643c3be4ad8a12118e1d4a349db34e849ef556e0a25b0340b46e1",
+        "info_url": "https://en.wikipedia.org/wiki/Maaya_Uchida",
+        "name": "confused-park",
+        "tm_pub_key": "Y4tSpQJI6NIwZpXEFy1UT+aHh4CHhb75P1xgcAg1i74=",
+        "vega_pub_key": "64f8c07ca6099f2ea03c776e48095c5621609f2b89ea7120de9b46aa3139f529",
         "vega_pub_key_index": 1
       },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309211411",
+  "chain_id": "vega-devnet1-202309221247",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-21T14:11:07.909823954Z",
+  "genesis_time": "2023-09-22T12:47:31.977780203Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "5F65D7D696BDD1E6716499C03D6C890C1220DE3B",
-      "name": "dizzy-bee",
+      "address": "0B2162C4D8F8547A317434E4BBFE029BEFB65B4F",
+      "name": "confused-park",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "At9/uDS/XuJ8LmVFJ59U9MMRfRBttmexf76I4LEnpCU="
+        "value": "Y4tSpQJI6NIwZpXEFy1UT+aHh4CHhb75P1xgcAg1i74="
       }
     }
   ]
