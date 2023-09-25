@@ -292,6 +292,17 @@
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
         "vega_pub_key_index": 1
       },
+      "f84mKL4iHQRVZoHAfFt8Xmb6vzuTXf2XIPVU9HwT2GA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/vkfotfh0u3nmzmfpp6fwi2kdone4tcnc?d=identicon",
+        "country": "IH",
+        "ethereum_address": "0xBd8C9fb6d287d45F5E66350774B111565DDa6c6B",
+        "id": "cb794e63dad4e5d84f9e24513d409e3b9b778a65cb19944160ba8ebaaf7f9728",
+        "info_url": "https://en.wikipedia.org/wiki/Sue%C3%B1os_L%C3%ADquidos",
+        "name": "lemon-coffee",
+        "tm_pub_key": "f84mKL4iHQRVZoHAfFt8Xmb6vzuTXf2XIPVU9HwT2GA=",
+        "vega_pub_key": "d85d3fd42b3d582b64d06a000b9bd169be2871a4bdd3ad87b625f20e0f4c8df3",
+        "vega_pub_key_index": 1
+      },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
         "avatar_url": "https://www.gravatar.com/avatar/z9sfw769a99015gw2zxnb0n4o57k4pch?d=identicon",
         "country": "RC",
@@ -301,17 +312,6 @@
         "name": "unkempt-mango",
         "tm_pub_key": "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=",
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
-        "vega_pub_key_index": 1
-      },
-      "jb7ROcQhpyc95VAO3CCRsMJN74BFuM257215pc8oT7s=": {
-        "avatar_url": "https://www.gravatar.com/avatar/w8d1lnb3e2pp4hkd9rsgbuj4eliokcll?d=identicon",
-        "country": "NO",
-        "ethereum_address": "0xDaC96D5408565600D04D0917341dC4Cd3f2e5Fce",
-        "id": "94a47434b20baa8955156e2c4f4b23cbfbd83e46ff558aec3f58d812aa681110",
-        "info_url": "https://en.wikipedia.org/wiki/Renfroe",
-        "name": "green-movie",
-        "tm_pub_key": "jb7ROcQhpyc95VAO3CCRsMJN74BFuM257215pc8oT7s=",
-        "vega_pub_key": "0fd8b1bfb67c2ec1da43b8b6ff11248bfb208d8d98e87f09b6dd74843d8b98e6",
         "vega_pub_key_index": 1
       },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309251737",
+  "chain_id": "vega-devnet1-202309251837",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-25T17:37:28.551359428Z",
+  "genesis_time": "2023-09-25T18:37:10.504115681Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "45894BD74DF3AE70B26C727B897592D48E6C890D",
-      "name": "green-movie",
+      "address": "D67D3E53E1104F3999E8FF8097BF37BD220C6C2D",
+      "name": "lemon-coffee",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "jb7ROcQhpyc95VAO3CCRsMJN74BFuM257215pc8oT7s="
+        "value": "f84mKL4iHQRVZoHAfFt8Xmb6vzuTXf2XIPVU9HwT2GA="
       }
     }
   ]
