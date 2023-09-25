@@ -281,15 +281,15 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
-      "Jk7SFNAu3Fqx5hutoYbVrimKBuS6ADt4ySFRgqlUyic=": {
-        "avatar_url": "https://www.gravatar.com/avatar/b1dzl5tmz5szbrlh23s5pat3suhz915q?d=identicon",
-        "country": "PW",
-        "ethereum_address": "0xd048d821eAdCDC9E6A41757Dc9144df7Bccc60b1",
-        "id": "0a29aaa6cc8cae379ddcf127b4e6164c7889b7126c6073bb1fe96ccffb312fb7",
-        "info_url": "https://en.wikipedia.org/wiki/2014_Eastern_Michigan_Eagles_football_team",
-        "name": "brave-country",
-        "tm_pub_key": "Jk7SFNAu3Fqx5hutoYbVrimKBuS6ADt4ySFRgqlUyic=",
-        "vega_pub_key": "cfa8d8893f76b3eaaa54f68310db8a700b81ef630ba894d3784455a3d657d12e",
+      "O+f9FKd6eQBEl/amO2+gURM85KlXDGe0fFfXO9A7JQ8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ct4raf7zxjbll3g5uvtak4cxh0u2gbiv?d=identicon",
+        "country": "DS",
+        "ethereum_address": "0x1d1D35A97B1F2c54ed07A23c847c14338cBceAf8",
+        "id": "e52c1d429e6ae2fa86ea62f23422cc41e2c09104f62f4df4a0bea37e6d10c846",
+        "info_url": "https://en.wikipedia.org/wiki/Philipp_Emanuel_von_Fellenberg",
+        "name": "wailing-monkey",
+        "tm_pub_key": "O+f9FKd6eQBEl/amO2+gURM85KlXDGe0fFfXO9A7JQ8=",
+        "vega_pub_key": "daa27d54a92d0d5f78b564f306697fb0999da8ba943307fcec58d3ac94932076",
         "vega_pub_key_index": 1
       },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309251440",
+  "chain_id": "vega-devnet1-202309251607",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-25T14:40:41.244278273Z",
+  "genesis_time": "2023-09-25T16:07:54.188076983Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "B0D79860646DC45B702B9F3B02D31F649FDE1945",
-      "name": "brave-country",
+      "address": "C26912C4A7CF0788799A48BCB89A23BD16ABE0AB",
+      "name": "wailing-monkey",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Jk7SFNAu3Fqx5hutoYbVrimKBuS6ADt4ySFRgqlUyic="
+        "value": "O+f9FKd6eQBEl/amO2+gURM85KlXDGe0fFfXO9A7JQ8="
       }
     }
   ]
