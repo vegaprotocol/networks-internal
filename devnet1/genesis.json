@@ -292,17 +292,6 @@
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
         "vega_pub_key_index": 1
       },
-      "byBIOfAxnNq/4C/NONU8r5sKmZhLrlRzuTDpGc9aryE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/2rn4hgzw9oii31z30r36p7b5c49a5nqg?d=identicon",
-        "country": "KP",
-        "ethereum_address": "0xd7c164be0C1E5F5467d1Dc628434304B1edef749",
-        "id": "f66c4859c9d85ba8e2dea174fae2e91567159f099dc9fc55fcb71e9c2f8d0c6d",
-        "info_url": "https://en.wikipedia.org/wiki/Arde%C5%9Fen_GSK",
-        "name": "unsightly-train",
-        "tm_pub_key": "byBIOfAxnNq/4C/NONU8r5sKmZhLrlRzuTDpGc9aryE=",
-        "vega_pub_key": "8cef861308f7d875dc8d158aa8bc04ca7e7841b5e64ffb19537482fc379d4a97",
-        "vega_pub_key_index": 1
-      },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
         "avatar_url": "https://www.gravatar.com/avatar/z9sfw769a99015gw2zxnb0n4o57k4pch?d=identicon",
         "country": "RC",
@@ -312,6 +301,17 @@
         "name": "unkempt-mango",
         "tm_pub_key": "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=",
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
+        "vega_pub_key_index": 1
+      },
+      "gvzH+Nl2KukKRv8GsHu6pF/EkJTf2g91EeA8v3N6a1c=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xsntwj9zh4xu7mk3r65doi5ss01lgwh3?d=identicon",
+        "country": "WN",
+        "ethereum_address": "0x77862f6c50F421fB33Eed7089314d0E48add0066",
+        "id": "ce7aacaf6eae4402d61e9e148e8953c85ca230f0ca72f1faca6f9e36cfe89f01",
+        "info_url": "https://en.wikipedia.org/wiki/Andrei_Borissov",
+        "name": "hollow-biscuit",
+        "tm_pub_key": "gvzH+Nl2KukKRv8GsHu6pF/EkJTf2g91EeA8v3N6a1c=",
+        "vega_pub_key": "50a461c10bc557b4d0cbf9936c63f311953c9170d6ce7ad333e828002e09a996",
         "vega_pub_key_index": 1
       },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309251132",
+  "chain_id": "vega-devnet1-202309251240",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-25T11:32:33.236960186Z",
+  "genesis_time": "2023-09-25T12:40:33.774594129Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "7F700631E709D85E094E9448C3BE9F53B581FEA7",
-      "name": "unsightly-train",
+      "address": "D5E536C82E0922E12AF2B13B02538449BFB47FFA",
+      "name": "hollow-biscuit",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "byBIOfAxnNq/4C/NONU8r5sKmZhLrlRzuTDpGc9aryE="
+        "value": "gvzH+Nl2KukKRv8GsHu6pF/EkJTf2g91EeA8v3N6a1c="
       }
     }
   ]
