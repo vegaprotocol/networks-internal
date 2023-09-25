@@ -292,15 +292,15 @@
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
         "vega_pub_key_index": 1
       },
-      "bkU1HG1M942ECnWbsOG+Dz6xZU9aZq91SEK6IlfIlsE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/blb86nh4ox895rgfkmvg1f962nxgoas3?d=identicon",
-        "country": "XA",
-        "ethereum_address": "0x6c42dFF8ba4b5a43B5bE2bD3425d47aFd6B829f2",
-        "id": "df018a5985351df5cd6d6fd540d77e944b1a5ab7191d404bd5f9a9370965b296",
-        "info_url": "https://en.wikipedia.org/wiki/Subhrajit_Dutta",
-        "name": "frantic-burger",
-        "tm_pub_key": "bkU1HG1M942ECnWbsOG+Dz6xZU9aZq91SEK6IlfIlsE=",
-        "vega_pub_key": "c1ced645aed48ba55758acaa6f61c76ede8e485a926681663cde6d4732e92d08",
+      "Xy+zpjrtN94C8ef/W7EIxGjjbxtELDPx6I+PjxlTC68=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ojjbfs0hxzrni1l89iq0pe113ny9srxo?d=identicon",
+        "country": "JD",
+        "ethereum_address": "0x9170F081B3C41da2006D5513751f71eA06F29F6C",
+        "id": "65f31ed977831bde5406147f62c3a5987302893641c35e45fb474d73a97cbb4d",
+        "info_url": "https://en.wikipedia.org/wiki/List_of_mayors_of_Hamburg",
+        "name": "happy-road",
+        "tm_pub_key": "Xy+zpjrtN94C8ef/W7EIxGjjbxtELDPx6I+PjxlTC68=",
+        "vega_pub_key": "6741be81ac1679c5f7538b87fb3b4ba1e260f2c968292ba3cfed92068cab35fb",
         "vega_pub_key_index": 1
       },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309251920",
+  "chain_id": "vega-devnet1-202309252005",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-25T19:20:15.350542154Z",
+  "genesis_time": "2023-09-25T20:05:02.455891248Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "D59D44D3CE4688743AF29A1A0B4E9A70AC37D682",
-      "name": "frantic-burger",
+      "address": "343DD0529474F06C9B28AB05F8332626C161198E",
+      "name": "happy-road",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "bkU1HG1M942ECnWbsOG+Dz6xZU9aZq91SEK6IlfIlsE="
+        "value": "Xy+zpjrtN94C8ef/W7EIxGjjbxtELDPx6I+PjxlTC68="
       }
     }
   ]
