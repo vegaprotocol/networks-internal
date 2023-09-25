@@ -281,17 +281,6 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
-      "O+f9FKd6eQBEl/amO2+gURM85KlXDGe0fFfXO9A7JQ8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ct4raf7zxjbll3g5uvtak4cxh0u2gbiv?d=identicon",
-        "country": "DS",
-        "ethereum_address": "0x1d1D35A97B1F2c54ed07A23c847c14338cBceAf8",
-        "id": "e52c1d429e6ae2fa86ea62f23422cc41e2c09104f62f4df4a0bea37e6d10c846",
-        "info_url": "https://en.wikipedia.org/wiki/Philipp_Emanuel_von_Fellenberg",
-        "name": "wailing-monkey",
-        "tm_pub_key": "O+f9FKd6eQBEl/amO2+gURM85KlXDGe0fFfXO9A7JQ8=",
-        "vega_pub_key": "daa27d54a92d0d5f78b564f306697fb0999da8ba943307fcec58d3ac94932076",
-        "vega_pub_key_index": 1
-      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -314,6 +303,17 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
+      "jb7ROcQhpyc95VAO3CCRsMJN74BFuM257215pc8oT7s=": {
+        "avatar_url": "https://www.gravatar.com/avatar/w8d1lnb3e2pp4hkd9rsgbuj4eliokcll?d=identicon",
+        "country": "NO",
+        "ethereum_address": "0xDaC96D5408565600D04D0917341dC4Cd3f2e5Fce",
+        "id": "94a47434b20baa8955156e2c4f4b23cbfbd83e46ff558aec3f58d812aa681110",
+        "info_url": "https://en.wikipedia.org/wiki/Renfroe",
+        "name": "green-movie",
+        "tm_pub_key": "jb7ROcQhpyc95VAO3CCRsMJN74BFuM257215pc8oT7s=",
+        "vega_pub_key": "0fd8b1bfb67c2ec1da43b8b6ff11248bfb208d8d98e87f09b6dd74843d8b98e6",
+        "vega_pub_key_index": 1
+      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309251634",
+  "chain_id": "vega-devnet1-202309251737",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-25T16:34:36.061289382Z",
+  "genesis_time": "2023-09-25T17:37:28.551359428Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "C26912C4A7CF0788799A48BCB89A23BD16ABE0AB",
-      "name": "wailing-monkey",
+      "address": "45894BD74DF3AE70B26C727B897592D48E6C890D",
+      "name": "green-movie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "O+f9FKd6eQBEl/amO2+gURM85KlXDGe0fFfXO9A7JQ8="
+        "value": "jb7ROcQhpyc95VAO3CCRsMJN74BFuM257215pc8oT7s="
       }
     }
   ]
