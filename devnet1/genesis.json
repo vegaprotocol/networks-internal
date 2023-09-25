@@ -303,15 +303,15 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
-      "gvzH+Nl2KukKRv8GsHu6pF/EkJTf2g91EeA8v3N6a1c=": {
-        "avatar_url": "https://www.gravatar.com/avatar/xsntwj9zh4xu7mk3r65doi5ss01lgwh3?d=identicon",
-        "country": "WN",
-        "ethereum_address": "0x77862f6c50F421fB33Eed7089314d0E48add0066",
-        "id": "ce7aacaf6eae4402d61e9e148e8953c85ca230f0ca72f1faca6f9e36cfe89f01",
-        "info_url": "https://en.wikipedia.org/wiki/Andrei_Borissov",
-        "name": "hollow-biscuit",
-        "tm_pub_key": "gvzH+Nl2KukKRv8GsHu6pF/EkJTf2g91EeA8v3N6a1c=",
-        "vega_pub_key": "50a461c10bc557b4d0cbf9936c63f311953c9170d6ce7ad333e828002e09a996",
+      "jJvQpfXwDmhNbIt8jHEdx7FY4XTM2YM2lQEWMH9qr0A=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xdzkhfavp5jlfzgw1fqkh4utt2sl272d?d=identicon",
+        "country": "GP",
+        "ethereum_address": "0x626e42C5c0a9D91713Cac2e5E2949cDC922D5be3",
+        "id": "230efee0546286f0209e716b3622341a8b946e9d2f7a90f6eaee193e75038396",
+        "info_url": "https://en.wikipedia.org/wiki/Mauricio_(footballer,_born_1987)",
+        "name": "zippy-music",
+        "tm_pub_key": "jJvQpfXwDmhNbIt8jHEdx7FY4XTM2YM2lQEWMH9qr0A=",
+        "vega_pub_key": "05c14499c64d7f04b3c26b4fb063dfcce633de5657cfcee359638064007b4dde",
         "vega_pub_key_index": 1
       },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309251240",
+  "chain_id": "vega-devnet1-202309251323",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-25T12:40:33.774594129Z",
+  "genesis_time": "2023-09-25T13:23:07.224944839Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "D5E536C82E0922E12AF2B13B02538449BFB47FFA",
-      "name": "hollow-biscuit",
+      "address": "6AFA6AA93396A9AA5EBF480AD8337F818D7A3113",
+      "name": "zippy-music",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "gvzH+Nl2KukKRv8GsHu6pF/EkJTf2g91EeA8v3N6a1c="
+        "value": "jJvQpfXwDmhNbIt8jHEdx7FY4XTM2YM2lQEWMH9qr0A="
       }
     }
   ]
