@@ -281,6 +281,17 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
+      "EohBE7tGPu4xSrbq3B0OBqhLjzrYGph8JR1TA1+C2Ig=": {
+        "avatar_url": "https://www.gravatar.com/avatar/x6s3jnac5kducp93tupdl9grgd97vy98?d=identicon",
+        "country": "HP",
+        "ethereum_address": "0xbbC1Da111dA31906a7640653803f6C169F06c27E",
+        "id": "20f7c52f2641c706dbd7154e36e346e61252e0b71ed3baa9cf263bf8b823be5c",
+        "info_url": "https://en.wikipedia.org/wiki/Andrej_Stavrov",
+        "name": "loose-hat",
+        "tm_pub_key": "EohBE7tGPu4xSrbq3B0OBqhLjzrYGph8JR1TA1+C2Ig=",
+        "vega_pub_key": "611016230980675a0465250de98a8de35add3f45ca1a25188f376a880d194516",
+        "vega_pub_key_index": 1
+      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -290,17 +301,6 @@
         "name": "narrow-plant",
         "tm_pub_key": "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=",
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
-        "vega_pub_key_index": 1
-      },
-      "dWniwW9yCpDLpzpqR3bkR9CxYfQwElsx4JSk84/Cw+4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/4jgs17505waph1hrd0iizfhahehz4e53?d=identicon",
-        "country": "BY",
-        "ethereum_address": "0x42b0DA3860CaaC05b7f9f796C7c0d41054B3D0DB",
-        "id": "6a42a497160ef8ef8d6ae3f803e799f36f37e5446e83634aa76dbaf523c6fb87",
-        "info_url": "https://en.wikipedia.org/wiki/Tarqetey",
-        "name": "agitated-park",
-        "tm_pub_key": "dWniwW9yCpDLpzpqR3bkR9CxYfQwElsx4JSk84/Cw+4=",
-        "vega_pub_key": "6e4aa66fcd5a052402bce5251f3fe2aac06a956a55597e2a350a444ab6de2c12",
         "vega_pub_key_index": 1
       },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309261004",
+  "chain_id": "vega-devnet1-202309261119",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-26T10:04:57.111781119Z",
+  "genesis_time": "2023-09-26T11:19:42.353903775Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "80B5D4163AA38F561D0170A95696810C29F23A6A",
-      "name": "agitated-park",
+      "address": "CED74914E3CCC6D042783280D6A6D9C09B53766A",
+      "name": "loose-hat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "dWniwW9yCpDLpzpqR3bkR9CxYfQwElsx4JSk84/Cw+4="
+        "value": "EohBE7tGPu4xSrbq3B0OBqhLjzrYGph8JR1TA1+C2Ig="
       }
     }
   ]
