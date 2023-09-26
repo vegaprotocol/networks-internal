@@ -292,17 +292,6 @@
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
         "vega_pub_key_index": 1
       },
-      "UX3GcqtBs3q8Dt9unPnl7y/eleMq4Tsk6e99FobNMjA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/qcnoyyr2r412ui6u9boh03haqr405ks6?d=identicon",
-        "country": "WQ",
-        "ethereum_address": "0x3aea40F279eD0e3948a2570DC693786614801766",
-        "id": "581da019de500be805b297733a4649339a14e09ecd969a4645963c563a72e722",
-        "info_url": "https://en.wikipedia.org/wiki/Outline_of_Serbia",
-        "name": "loose-week",
-        "tm_pub_key": "UX3GcqtBs3q8Dt9unPnl7y/eleMq4Tsk6e99FobNMjA=",
-        "vega_pub_key": "064eb9f5daf707da4c8754cb79a74223ba292f411cf3cf49bea56e8659e83e63",
-        "vega_pub_key_index": 1
-      },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
         "avatar_url": "https://www.gravatar.com/avatar/z9sfw769a99015gw2zxnb0n4o57k4pch?d=identicon",
         "country": "RC",
@@ -312,6 +301,17 @@
         "name": "unkempt-mango",
         "tm_pub_key": "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=",
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
+        "vega_pub_key_index": 1
+      },
+      "iijt85q9QrS4XqMmYGyhRQJ+EcDWyD+MEnTha8p3MIg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/tylbo7anr9803643hwjlk84uwccyts8b?d=identicon",
+        "country": "HL",
+        "ethereum_address": "0x99BD3434B7bd9640b19282fA1A2c1f38A2b3C098",
+        "id": "e825a34ebe8febe00c21dd71f56025c5f34c4dbdbe7131d4efabca6fd272a977",
+        "info_url": "https://en.wikipedia.org/wiki/Nature_Arabic_Edition",
+        "name": "exuberant-sister",
+        "tm_pub_key": "iijt85q9QrS4XqMmYGyhRQJ+EcDWyD+MEnTha8p3MIg=",
+        "vega_pub_key": "00a97da17bacf7e7a2d7804d2a85047ef04b4f7d60272559be2a90bfdff8c7fc",
         "vega_pub_key_index": 1
       },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309261629",
+  "chain_id": "vega-devnet1-202309261849",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-26T16:29:35.097038861Z",
+  "genesis_time": "2023-09-26T18:49:01.018255635Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "65AF53F67D87BA15DD280631434AC322A72654A4",
-      "name": "loose-week",
+      "address": "9B9584CA505637B1D4F6385A0F862112010A7D7E",
+      "name": "exuberant-sister",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "UX3GcqtBs3q8Dt9unPnl7y/eleMq4Tsk6e99FobNMjA="
+        "value": "iijt85q9QrS4XqMmYGyhRQJ+EcDWyD+MEnTha8p3MIg="
       }
     }
   ]
