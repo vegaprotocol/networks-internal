@@ -292,15 +292,15 @@
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
         "vega_pub_key_index": 1
       },
-      "Xy+zpjrtN94C8ef/W7EIxGjjbxtELDPx6I+PjxlTC68=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ojjbfs0hxzrni1l89iq0pe113ny9srxo?d=identicon",
-        "country": "JD",
-        "ethereum_address": "0x9170F081B3C41da2006D5513751f71eA06F29F6C",
-        "id": "65f31ed977831bde5406147f62c3a5987302893641c35e45fb474d73a97cbb4d",
-        "info_url": "https://en.wikipedia.org/wiki/List_of_mayors_of_Hamburg",
-        "name": "happy-road",
-        "tm_pub_key": "Xy+zpjrtN94C8ef/W7EIxGjjbxtELDPx6I+PjxlTC68=",
-        "vega_pub_key": "6741be81ac1679c5f7538b87fb3b4ba1e260f2c968292ba3cfed92068cab35fb",
+      "dWniwW9yCpDLpzpqR3bkR9CxYfQwElsx4JSk84/Cw+4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/4jgs17505waph1hrd0iizfhahehz4e53?d=identicon",
+        "country": "BY",
+        "ethereum_address": "0x42b0DA3860CaaC05b7f9f796C7c0d41054B3D0DB",
+        "id": "6a42a497160ef8ef8d6ae3f803e799f36f37e5446e83634aa76dbaf523c6fb87",
+        "info_url": "https://en.wikipedia.org/wiki/Tarqetey",
+        "name": "agitated-park",
+        "tm_pub_key": "dWniwW9yCpDLpzpqR3bkR9CxYfQwElsx4JSk84/Cw+4=",
+        "vega_pub_key": "6e4aa66fcd5a052402bce5251f3fe2aac06a956a55597e2a350a444ab6de2c12",
         "vega_pub_key_index": 1
       },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309252035",
+  "chain_id": "vega-devnet1-202309261004",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-25T20:35:28.808344286Z",
+  "genesis_time": "2023-09-26T10:04:57.111781119Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "343DD0529474F06C9B28AB05F8332626C161198E",
-      "name": "happy-road",
+      "address": "80B5D4163AA38F561D0170A95696810C29F23A6A",
+      "name": "agitated-park",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Xy+zpjrtN94C8ef/W7EIxGjjbxtELDPx6I+PjxlTC68="
+        "value": "dWniwW9yCpDLpzpqR3bkR9CxYfQwElsx4JSk84/Cw+4="
       }
     }
   ]
