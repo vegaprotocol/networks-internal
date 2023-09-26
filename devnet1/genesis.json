@@ -281,17 +281,6 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
-      "EohBE7tGPu4xSrbq3B0OBqhLjzrYGph8JR1TA1+C2Ig=": {
-        "avatar_url": "https://www.gravatar.com/avatar/x6s3jnac5kducp93tupdl9grgd97vy98?d=identicon",
-        "country": "HP",
-        "ethereum_address": "0xbbC1Da111dA31906a7640653803f6C169F06c27E",
-        "id": "20f7c52f2641c706dbd7154e36e346e61252e0b71ed3baa9cf263bf8b823be5c",
-        "info_url": "https://en.wikipedia.org/wiki/Andrej_Stavrov",
-        "name": "loose-hat",
-        "tm_pub_key": "EohBE7tGPu4xSrbq3B0OBqhLjzrYGph8JR1TA1+C2Ig=",
-        "vega_pub_key": "611016230980675a0465250de98a8de35add3f45ca1a25188f376a880d194516",
-        "vega_pub_key_index": 1
-      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -301,6 +290,17 @@
         "name": "narrow-plant",
         "tm_pub_key": "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=",
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
+        "vega_pub_key_index": 1
+      },
+      "Z1RD48qtx/34waX/SkviyVdlvyHxwFi1LCSyakbwPoA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/wisary62ug8gniafa1e9yxtoks1qzbh1?d=identicon",
+        "country": "KM",
+        "ethereum_address": "0x75592218Ece0D04ee89b0Fb8B1bA167B13Ae9d61",
+        "id": "a773554fe79d9eb1cdedde49561f4f17c8fccc75c878ef049f99e400494e53cb",
+        "info_url": "https://en.wikipedia.org/wiki/Les_Orientales_(ballet)",
+        "name": "faint-river",
+        "tm_pub_key": "Z1RD48qtx/34waX/SkviyVdlvyHxwFi1LCSyakbwPoA=",
+        "vega_pub_key": "7e2cf23f7fd07650ffd0e49a06b79b997f3738fbaa4219255506880987f82ca1",
         "vega_pub_key_index": 1
       },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309261140",
+  "chain_id": "vega-devnet1-202309261224",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-26T11:40:26.298922393Z",
+  "genesis_time": "2023-09-26T12:24:47.627679985Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "CED74914E3CCC6D042783280D6A6D9C09B53766A",
-      "name": "loose-hat",
+      "address": "ED99A67A4B26FE2D5E27B105CAEA1121EFCDA859",
+      "name": "faint-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "EohBE7tGPu4xSrbq3B0OBqhLjzrYGph8JR1TA1+C2Ig="
+        "value": "Z1RD48qtx/34waX/SkviyVdlvyHxwFi1LCSyakbwPoA="
       }
     }
   ]
