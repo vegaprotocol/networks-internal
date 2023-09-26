@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "7+0i6UgGU7qYT2RlP+9RkAsh5CikxYj90A/HLsSsyYw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/el97jjv2rxoqa0yaci230nhb6pjtbt8n?d=identicon",
-        "country": "SU",
-        "ethereum_address": "0x46C64dA6Cb1Ff36A9F96cc21D9f35bf0C982393D",
-        "id": "4ad0826fd65cb65a5da82c1378bad19f71df5386a6bc6fb28102275ea82e7652",
-        "info_url": "https://en.wikipedia.org/wiki/Walter_F._Timpone",
-        "name": "vast-river",
-        "tm_pub_key": "7+0i6UgGU7qYT2RlP+9RkAsh5CikxYj90A/HLsSsyYw=",
-        "vega_pub_key": "7a204ab02e9fb704f7a517708faee32e52538622007f105646dea2a552f8eb2b",
-        "vega_pub_key_index": 1
-      },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
         "avatar_url": "https://www.gravatar.com/avatar/oapaoa6gfsgvg6f1yo5umw2fnn3thw1z?d=identicon",
         "country": "FQ",
@@ -324,10 +313,21 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
+      },
+      "vwqJegUVZR3zSVNgvgyLxDOLg0LoPDgc4qtg/XI2sbI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/arkqxs7g6yhwiyam7uovhhqxzblxznew?d=identicon",
+        "country": "SU",
+        "ethereum_address": "0x3AE5E41e834375b91b9366dD6F5f2F61E775af0c",
+        "id": "ccae42c56eeb2fd4a9e606b01206b0e3f4f2528c072c899124ee9ae95504bdb5",
+        "info_url": "https://en.wikipedia.org/wiki/Marabou_Stork_Nightmares",
+        "name": "salmon-hill",
+        "tm_pub_key": "vwqJegUVZR3zSVNgvgyLxDOLg0LoPDgc4qtg/XI2sbI=",
+        "vega_pub_key": "1b6a9d393632ed80246a532dc3d8f2f4a0aaa2a4415c5940b31619424934230a",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202309261320",
+  "chain_id": "vega-devnet1-202309261428",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-26T13:20:17.551800906Z",
+  "genesis_time": "2023-09-26T14:28:09.30376508Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "DEEC8FE24AD8251F8CE9FF16C0663D523A42E14B",
-      "name": "vast-river",
+      "address": "9B97CF536D62B756D702B5067BD2D0458D0DEBB8",
+      "name": "salmon-hill",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "7+0i6UgGU7qYT2RlP+9RkAsh5CikxYj90A/HLsSsyYw="
+        "value": "vwqJegUVZR3zSVNgvgyLxDOLg0LoPDgc4qtg/XI2sbI="
       }
     }
   ]
