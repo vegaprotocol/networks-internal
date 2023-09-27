@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "2V18Eup8HTTEXGGySrrenh+WlPX5OQE93BuNNSAZ7B8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/lk3f2h874xobo61uuu61c529hjoqq33r?d=identicon",
+        "country": "EX",
+        "ethereum_address": "0x31107503f0e8B66fe21D396C0A9aae0220726562",
+        "id": "112ae3df11c5f238811215a4650400cd134f451e7f90d8112ca5e8b218fe8c98",
+        "info_url": "https://en.wikipedia.org/wiki/Mount_Kisco,_New_York",
+        "name": "purple-tree",
+        "tm_pub_key": "2V18Eup8HTTEXGGySrrenh+WlPX5OQE93BuNNSAZ7B8=",
+        "vega_pub_key": "e4a390b76e1dfbc6713c35b45f32151717e1c14da3446945ef36cae7de1d93fb",
+        "vega_pub_key_index": 1
+      },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
         "avatar_url": "https://www.gravatar.com/avatar/oapaoa6gfsgvg6f1yo5umw2fnn3thw1z?d=identicon",
         "country": "FQ",
@@ -303,17 +314,6 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
-      "olGYSXjzLfGSthO7ArxfuVcn4SnCtyLJMYpqtJiH4qU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/mwm5tzjjhdw4jvguzdic6czp9emtm349?d=identicon",
-        "country": "OE",
-        "ethereum_address": "0x47A1B452332Cf68e86B9CE43809e5fFE1B39214a",
-        "id": "87f052f3864c99b97ee2ea2188bc697565265bdef0aaaccb5f42bd3b2b3d45af",
-        "info_url": "https://en.wikipedia.org/wiki/The_Airfield",
-        "name": "frightened-biscuit",
-        "tm_pub_key": "olGYSXjzLfGSthO7ArxfuVcn4SnCtyLJMYpqtJiH4qU=",
-        "vega_pub_key": "0ffdc1a00012da359c97723eb04ff988ed3351d419a4d16994dcdd7768315704",
-        "vega_pub_key_index": 1
-      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309271507",
+  "chain_id": "vega-devnet1-202309271612",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-27T15:07:41.851522267Z",
+  "genesis_time": "2023-09-27T16:12:56.115889966Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "68B6D9F54E3F545F2739945EE9FDA6D7B2DB0269",
-      "name": "frightened-biscuit",
+      "address": "95EB9F2619AAF07DE5283ACC5D6B94A5D790F7AB",
+      "name": "purple-tree",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "olGYSXjzLfGSthO7ArxfuVcn4SnCtyLJMYpqtJiH4qU="
+        "value": "2V18Eup8HTTEXGGySrrenh+WlPX5OQE93BuNNSAZ7B8="
       }
     }
   ]
