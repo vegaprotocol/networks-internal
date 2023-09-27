@@ -281,6 +281,17 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
+      "UDP799bQHgFZWRUxqyTH0FzS8Su5Z9aQalfgVnMECVk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/my3n4wd9l2kijenng6y4ztnswv8hpzs8?d=identicon",
+        "country": "UJ",
+        "ethereum_address": "0x49698A7BE5910Ea17406C85c646DaCa9bDA2ddA4",
+        "id": "ff305a0f375ee1c76cf3b914e89730a3307d8d198c6b6aee0ce057d94c7eb48a",
+        "info_url": "https://en.wikipedia.org/wiki/ASEAN_PGA_Tour",
+        "name": "icy-candle",
+        "tm_pub_key": "UDP799bQHgFZWRUxqyTH0FzS8Su5Z9aQalfgVnMECVk=",
+        "vega_pub_key": "3d9a99a35fa1f3741ea73f54f113fad2937da8525e2d4f38c6d9e75a52843104",
+        "vega_pub_key_index": 1
+      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -303,17 +314,6 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
-      "iijt85q9QrS4XqMmYGyhRQJ+EcDWyD+MEnTha8p3MIg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/tylbo7anr9803643hwjlk84uwccyts8b?d=identicon",
-        "country": "HL",
-        "ethereum_address": "0x99BD3434B7bd9640b19282fA1A2c1f38A2b3C098",
-        "id": "e825a34ebe8febe00c21dd71f56025c5f34c4dbdbe7131d4efabca6fd272a977",
-        "info_url": "https://en.wikipedia.org/wiki/Nature_Arabic_Edition",
-        "name": "exuberant-sister",
-        "tm_pub_key": "iijt85q9QrS4XqMmYGyhRQJ+EcDWyD+MEnTha8p3MIg=",
-        "vega_pub_key": "00a97da17bacf7e7a2d7804d2a85047ef04b4f7d60272559be2a90bfdff8c7fc",
-        "vega_pub_key_index": 1
-      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309261849",
+  "chain_id": "vega-devnet1-202309270936",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-26T18:49:01.018255635Z",
+  "genesis_time": "2023-09-27T09:36:06.654576579Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "9B9584CA505637B1D4F6385A0F862112010A7D7E",
-      "name": "exuberant-sister",
+      "address": "48F939D61CEF627842CB3AD591C464D9D1C33E44",
+      "name": "icy-candle",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "iijt85q9QrS4XqMmYGyhRQJ+EcDWyD+MEnTha8p3MIg="
+        "value": "UDP799bQHgFZWRUxqyTH0FzS8Su5Z9aQalfgVnMECVk="
       }
     }
   ]
