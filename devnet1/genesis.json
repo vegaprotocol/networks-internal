@@ -303,6 +303,17 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
+      "oPY1OosuFKSE/jwFqQ+NBXtYeewImJFp6MHsYBr4lfc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/kzgtf9mrzatnlftsdch37wm7zk14fymt?d=identicon",
+        "country": "AS",
+        "ethereum_address": "0x59681649ffB0471B9d1081175bc62B84418938F7",
+        "id": "c017c4c9562e8538854d19d922e1d3b1f7148f4caf65339dd8ddbdd8c07d6f40",
+        "info_url": "https://en.wikipedia.org/wiki/H%C3%B8yenhall_(station)",
+        "name": "ugly-book",
+        "tm_pub_key": "oPY1OosuFKSE/jwFqQ+NBXtYeewImJFp6MHsYBr4lfc=",
+        "vega_pub_key": "09bb2ed83f406c880c309833c597233dc8928a761aa46aedc4ef993cfb8778a5",
+        "vega_pub_key_index": 1
+      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -313,21 +324,10 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
-      },
-      "umNl8oc/bTqbCocSNaG64UCArDn6drpPW5OEFlYkqQY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/7j3hup8wpxrxq6abb85z1zxeo04i2siy?d=identicon",
-        "country": "MF",
-        "ethereum_address": "0x73075685C58519daA26E1e18fC458b8e3C27383D",
-        "id": "cb6c7dd113a9e6fa3399b1b01b16b2efd640aa2452b834335c17f2d4d75203ce",
-        "info_url": "https://en.wikipedia.org/wiki/Blue_Foot",
-        "name": "rhythmic-river",
-        "tm_pub_key": "umNl8oc/bTqbCocSNaG64UCArDn6drpPW5OEFlYkqQY=",
-        "vega_pub_key": "b493486042fe4347e051ec2e464ea4067a2e97b9cb5f2d11a8b5e43e68be60d4",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202309271232",
+  "chain_id": "vega-devnet1-202309271409",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-27T12:32:09.695109624Z",
+  "genesis_time": "2023-09-27T14:09:49.597735289Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "5DBEA69550D241ABD21A9662A97D24504E69E9D6",
-      "name": "rhythmic-river",
+      "address": "BFE0953B2188585B71744847FBFB3BF17FA7450B",
+      "name": "ugly-book",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "umNl8oc/bTqbCocSNaG64UCArDn6drpPW5OEFlYkqQY="
+        "value": "oPY1OosuFKSE/jwFqQ+NBXtYeewImJFp6MHsYBr4lfc="
       }
     }
   ]
