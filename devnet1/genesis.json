@@ -281,17 +281,6 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
-      "UDP799bQHgFZWRUxqyTH0FzS8Su5Z9aQalfgVnMECVk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/my3n4wd9l2kijenng6y4ztnswv8hpzs8?d=identicon",
-        "country": "UJ",
-        "ethereum_address": "0x49698A7BE5910Ea17406C85c646DaCa9bDA2ddA4",
-        "id": "ff305a0f375ee1c76cf3b914e89730a3307d8d198c6b6aee0ce057d94c7eb48a",
-        "info_url": "https://en.wikipedia.org/wiki/ASEAN_PGA_Tour",
-        "name": "icy-candle",
-        "tm_pub_key": "UDP799bQHgFZWRUxqyTH0FzS8Su5Z9aQalfgVnMECVk=",
-        "vega_pub_key": "3d9a99a35fa1f3741ea73f54f113fad2937da8525e2d4f38c6d9e75a52843104",
-        "vega_pub_key_index": 1
-      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -314,6 +303,17 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
+      "rqFP5DjArhGEhdjGyUz/XJk5akmU41MBx9RighrtIYU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/00now0damy8nc1i4xgzltz44lg2axrf7?d=identicon",
+        "country": "PB",
+        "ethereum_address": "0xF096b7E8D4447d2819D376995dD02c1DeF7624F1",
+        "id": "cc34d4d1d66ef2cfeb33160410721b28982d533cd081630719082237e53d9d9c",
+        "info_url": "https://en.wikipedia.org/wiki/Tre_Avery",
+        "name": "perplexed-lake",
+        "tm_pub_key": "rqFP5DjArhGEhdjGyUz/XJk5akmU41MBx9RighrtIYU=",
+        "vega_pub_key": "31a19af78b26a681e02db777d16a50e6899528ac7d7ef682c7732097348fc34f",
+        "vega_pub_key_index": 1
+      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309270936",
+  "chain_id": "vega-devnet1-202309271041",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-27T09:36:06.654576579Z",
+  "genesis_time": "2023-09-27T10:41:57.187402183Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "48F939D61CEF627842CB3AD591C464D9D1C33E44",
-      "name": "icy-candle",
+      "address": "734D807073999D880EB8FDBE110CB08340C23A23",
+      "name": "perplexed-lake",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "UDP799bQHgFZWRUxqyTH0FzS8Su5Z9aQalfgVnMECVk="
+        "value": "rqFP5DjArhGEhdjGyUz/XJk5akmU41MBx9RighrtIYU="
       }
     }
   ]
