@@ -303,15 +303,15 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
-      "oPY1OosuFKSE/jwFqQ+NBXtYeewImJFp6MHsYBr4lfc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/kzgtf9mrzatnlftsdch37wm7zk14fymt?d=identicon",
-        "country": "AS",
-        "ethereum_address": "0x59681649ffB0471B9d1081175bc62B84418938F7",
-        "id": "c017c4c9562e8538854d19d922e1d3b1f7148f4caf65339dd8ddbdd8c07d6f40",
-        "info_url": "https://en.wikipedia.org/wiki/H%C3%B8yenhall_(station)",
-        "name": "ugly-book",
-        "tm_pub_key": "oPY1OosuFKSE/jwFqQ+NBXtYeewImJFp6MHsYBr4lfc=",
-        "vega_pub_key": "09bb2ed83f406c880c309833c597233dc8928a761aa46aedc4ef993cfb8778a5",
+      "olGYSXjzLfGSthO7ArxfuVcn4SnCtyLJMYpqtJiH4qU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/mwm5tzjjhdw4jvguzdic6czp9emtm349?d=identicon",
+        "country": "OE",
+        "ethereum_address": "0x47A1B452332Cf68e86B9CE43809e5fFE1B39214a",
+        "id": "87f052f3864c99b97ee2ea2188bc697565265bdef0aaaccb5f42bd3b2b3d45af",
+        "info_url": "https://en.wikipedia.org/wiki/The_Airfield",
+        "name": "frightened-biscuit",
+        "tm_pub_key": "olGYSXjzLfGSthO7ArxfuVcn4SnCtyLJMYpqtJiH4qU=",
+        "vega_pub_key": "0ffdc1a00012da359c97723eb04ff988ed3351d419a4d16994dcdd7768315704",
         "vega_pub_key_index": 1
       },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309271409",
+  "chain_id": "vega-devnet1-202309271507",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-27T14:09:49.597735289Z",
+  "genesis_time": "2023-09-27T15:07:41.851522267Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "BFE0953B2188585B71744847FBFB3BF17FA7450B",
-      "name": "ugly-book",
+      "address": "68B6D9F54E3F545F2739945EE9FDA6D7B2DB0269",
+      "name": "frightened-biscuit",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "oPY1OosuFKSE/jwFqQ+NBXtYeewImJFp6MHsYBr4lfc="
+        "value": "olGYSXjzLfGSthO7ArxfuVcn4SnCtyLJMYpqtJiH4qU="
       }
     }
   ]
