@@ -303,17 +303,6 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
-      "rqFP5DjArhGEhdjGyUz/XJk5akmU41MBx9RighrtIYU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/00now0damy8nc1i4xgzltz44lg2axrf7?d=identicon",
-        "country": "PB",
-        "ethereum_address": "0xF096b7E8D4447d2819D376995dD02c1DeF7624F1",
-        "id": "cc34d4d1d66ef2cfeb33160410721b28982d533cd081630719082237e53d9d9c",
-        "info_url": "https://en.wikipedia.org/wiki/Tre_Avery",
-        "name": "perplexed-lake",
-        "tm_pub_key": "rqFP5DjArhGEhdjGyUz/XJk5akmU41MBx9RighrtIYU=",
-        "vega_pub_key": "31a19af78b26a681e02db777d16a50e6899528ac7d7ef682c7732097348fc34f",
-        "vega_pub_key_index": 1
-      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -324,10 +313,21 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
+      },
+      "umNl8oc/bTqbCocSNaG64UCArDn6drpPW5OEFlYkqQY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/7j3hup8wpxrxq6abb85z1zxeo04i2siy?d=identicon",
+        "country": "MF",
+        "ethereum_address": "0x73075685C58519daA26E1e18fC458b8e3C27383D",
+        "id": "cb6c7dd113a9e6fa3399b1b01b16b2efd640aa2452b834335c17f2d4d75203ce",
+        "info_url": "https://en.wikipedia.org/wiki/Blue_Foot",
+        "name": "rhythmic-river",
+        "tm_pub_key": "umNl8oc/bTqbCocSNaG64UCArDn6drpPW5OEFlYkqQY=",
+        "vega_pub_key": "b493486042fe4347e051ec2e464ea4067a2e97b9cb5f2d11a8b5e43e68be60d4",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202309271041",
+  "chain_id": "vega-devnet1-202309271232",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-27T10:41:57.187402183Z",
+  "genesis_time": "2023-09-27T12:32:09.695109624Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "734D807073999D880EB8FDBE110CB08340C23A23",
-      "name": "perplexed-lake",
+      "address": "5DBEA69550D241ABD21A9662A97D24504E69E9D6",
+      "name": "rhythmic-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "rqFP5DjArhGEhdjGyUz/XJk5akmU41MBx9RighrtIYU="
+        "value": "umNl8oc/bTqbCocSNaG64UCArDn6drpPW5OEFlYkqQY="
       }
     }
   ]
