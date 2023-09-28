@@ -281,15 +281,15 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
-      "Tk5HTcE734FqdWTgsfBAajFlL0OROK0Zx/yhIHKUv2Q=": {
-        "avatar_url": "https://www.gravatar.com/avatar/3pgw0e3e08n3xpjbbm7kfpdo7xpkhvsc?d=identicon",
-        "country": "TD",
-        "ethereum_address": "0xD59cFDa38eFf9d3cA9477502e09420F2cE853C8B",
-        "id": "5db2eb4103179ae1ac990b3ff8cfc7bbeaa9a4c437692b4f1a0ea6967b22f828",
-        "info_url": "https://en.wikipedia.org/wiki/Uniform_Controlled_Substances_Act",
-        "name": "perplexed-plant",
-        "tm_pub_key": "Tk5HTcE734FqdWTgsfBAajFlL0OROK0Zx/yhIHKUv2Q=",
-        "vega_pub_key": "2bb98b34757c5998f358fed3b0985a534855544ee44d204abaf376b416846d2b",
+      "Kz67Svd+BEsMPKs1+x6f9N66oLibR7mAXZrVeRbg0aE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/9tgfz7thwpkhu44afvyw97yf88fznebd?d=identicon",
+        "country": "RW",
+        "ethereum_address": "0x452EA2a183cA70eAb548f6Ee5Ad582f3bd0d631E",
+        "id": "eaafd1e646c43c6d68fb510b83243a1c6bdc519740e3cdd963d8f56c1274cc2b",
+        "info_url": "https://en.wikipedia.org/wiki/Samuel_Brookes",
+        "name": "odd-bed",
+        "tm_pub_key": "Kz67Svd+BEsMPKs1+x6f9N66oLibR7mAXZrVeRbg0aE=",
+        "vega_pub_key": "bb8a9c2571e4a0b1312f8f7cea2f499ddabb413253d04317610c88a664ffc3c0",
         "vega_pub_key_index": 1
       },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309281341",
+  "chain_id": "vega-devnet1-202309281425",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-28T13:41:46.752700424Z",
+  "genesis_time": "2023-09-28T14:25:55.435823996Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "9AD0BF1BC9EE1560380A614CCD874A4ACAD262CF",
-      "name": "perplexed-plant",
+      "address": "D198B91B3F83B71097248272884C7FE4ED1A64A1",
+      "name": "odd-bed",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Tk5HTcE734FqdWTgsfBAajFlL0OROK0Zx/yhIHKUv2Q="
+        "value": "Kz67Svd+BEsMPKs1+x6f9N66oLibR7mAXZrVeRbg0aE="
       }
     }
   ]
