@@ -281,15 +281,15 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
-      "Q7xuKNZp3hroq7kCpqXoSUQA32uq7DJJBUVSHFcxmhA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ailwdpdw6ofptamexwutthzpi9d55jsh?d=identicon",
-        "country": "LT",
-        "ethereum_address": "0x1027Cd8b551fb077BB8B7b8b39A395f88687bd45",
-        "id": "16c19bf4b4f9036d1cc9a56941589b4e6961fe82c31827ec1af9f56005bdf6e1",
-        "info_url": "https://en.wikipedia.org/wiki/George_Gibbs_(Australian_politician)",
-        "name": "red-computer",
-        "tm_pub_key": "Q7xuKNZp3hroq7kCpqXoSUQA32uq7DJJBUVSHFcxmhA=",
-        "vega_pub_key": "be332bc6ef96836bfbfc1711658119955a1d7560b2846a486bd2730e952333af",
+      "Tk5HTcE734FqdWTgsfBAajFlL0OROK0Zx/yhIHKUv2Q=": {
+        "avatar_url": "https://www.gravatar.com/avatar/3pgw0e3e08n3xpjbbm7kfpdo7xpkhvsc?d=identicon",
+        "country": "TD",
+        "ethereum_address": "0xD59cFDa38eFf9d3cA9477502e09420F2cE853C8B",
+        "id": "5db2eb4103179ae1ac990b3ff8cfc7bbeaa9a4c437692b4f1a0ea6967b22f828",
+        "info_url": "https://en.wikipedia.org/wiki/Uniform_Controlled_Substances_Act",
+        "name": "perplexed-plant",
+        "tm_pub_key": "Tk5HTcE734FqdWTgsfBAajFlL0OROK0Zx/yhIHKUv2Q=",
+        "vega_pub_key": "2bb98b34757c5998f358fed3b0985a534855544ee44d204abaf376b416846d2b",
         "vega_pub_key_index": 1
       },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309280935",
+  "chain_id": "vega-devnet1-202309281341",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-28T09:35:49.252169145Z",
+  "genesis_time": "2023-09-28T13:41:46.752700424Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "E2DA2F60BC854031028FE24421B95D2B98DFA507",
-      "name": "red-computer",
+      "address": "9AD0BF1BC9EE1560380A614CCD874A4ACAD262CF",
+      "name": "perplexed-plant",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Q7xuKNZp3hroq7kCpqXoSUQA32uq7DJJBUVSHFcxmhA="
+        "value": "Tk5HTcE734FqdWTgsfBAajFlL0OROK0Zx/yhIHKUv2Q="
       }
     }
   ]
