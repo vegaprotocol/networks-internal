@@ -292,17 +292,6 @@
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
         "vega_pub_key_index": 1
       },
-      "ddqqQopj6on9Ux7phGV3v2yVSnHQUj+0syfehzUGOFc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/h374kpaf7s0rjle4flnm1gyr2nheh1oh?d=identicon",
-        "country": "EE",
-        "ethereum_address": "0x6F705cdd3AD121E2C12d3cbd0C5330821c7722a3",
-        "id": "7660714eea21015cc5e26a56f81ebb8d7bbd7b988e83afaf782ff5779676ddd0",
-        "info_url": "https://en.wikipedia.org/wiki/Humphries_Brook",
-        "name": "green-town",
-        "tm_pub_key": "ddqqQopj6on9Ux7phGV3v2yVSnHQUj+0syfehzUGOFc=",
-        "vega_pub_key": "2f3ea48add4858b5b27144d23a511200f66964991fc762ea84293d2dd3c5327d",
-        "vega_pub_key_index": 1
-      },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
         "avatar_url": "https://www.gravatar.com/avatar/z9sfw769a99015gw2zxnb0n4o57k4pch?d=identicon",
         "country": "RC",
@@ -312,6 +301,17 @@
         "name": "unkempt-mango",
         "tm_pub_key": "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=",
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
+        "vega_pub_key_index": 1
+      },
+      "la+jQtiFKdHK8J8HdxZVX8+0yNhggvPTFvumrnTWdzs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/bp9rj1ga0lgpfcah0zvuwbnbik4n8fu5?d=identicon",
+        "country": "YT",
+        "ethereum_address": "0x175f9ebE4E74f1eB7ea7Deb19c26f3B89c0cF51a",
+        "id": "656dfa96ea98e0579d6f68beb91e63508bb5c71540015906f8c9d7b2adaf9741",
+        "info_url": "https://en.wikipedia.org/wiki/Yao_Zhikui",
+        "name": "healthy-monkey",
+        "tm_pub_key": "la+jQtiFKdHK8J8HdxZVX8+0yNhggvPTFvumrnTWdzs=",
+        "vega_pub_key": "1ef41087e2f34e8d1b3d03dbd42f407303172190954d2f7606a3b7620cb5e5f4",
         "vega_pub_key_index": 1
       },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309280537",
+  "chain_id": "vega-devnet1-202309280826",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-28T05:37:34.762213429Z",
+  "genesis_time": "2023-09-28T08:26:27.745946756Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "D67765841EAF88346D22111AF22910A6CA6D5226",
-      "name": "green-town",
+      "address": "1882E6D1EE08CBA091CC1FAC962A40708049CBBD",
+      "name": "healthy-monkey",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ddqqQopj6on9Ux7phGV3v2yVSnHQUj+0syfehzUGOFc="
+        "value": "la+jQtiFKdHK8J8HdxZVX8+0yNhggvPTFvumrnTWdzs="
       }
     }
   ]
