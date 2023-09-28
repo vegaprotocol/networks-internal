@@ -281,6 +281,17 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
+      "Q7xuKNZp3hroq7kCpqXoSUQA32uq7DJJBUVSHFcxmhA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ailwdpdw6ofptamexwutthzpi9d55jsh?d=identicon",
+        "country": "LT",
+        "ethereum_address": "0x1027Cd8b551fb077BB8B7b8b39A395f88687bd45",
+        "id": "16c19bf4b4f9036d1cc9a56941589b4e6961fe82c31827ec1af9f56005bdf6e1",
+        "info_url": "https://en.wikipedia.org/wiki/George_Gibbs_(Australian_politician)",
+        "name": "red-computer",
+        "tm_pub_key": "Q7xuKNZp3hroq7kCpqXoSUQA32uq7DJJBUVSHFcxmhA=",
+        "vega_pub_key": "be332bc6ef96836bfbfc1711658119955a1d7560b2846a486bd2730e952333af",
+        "vega_pub_key_index": 1
+      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -303,17 +314,6 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
-      "la+jQtiFKdHK8J8HdxZVX8+0yNhggvPTFvumrnTWdzs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/bp9rj1ga0lgpfcah0zvuwbnbik4n8fu5?d=identicon",
-        "country": "YT",
-        "ethereum_address": "0x175f9ebE4E74f1eB7ea7Deb19c26f3B89c0cF51a",
-        "id": "656dfa96ea98e0579d6f68beb91e63508bb5c71540015906f8c9d7b2adaf9741",
-        "info_url": "https://en.wikipedia.org/wiki/Yao_Zhikui",
-        "name": "healthy-monkey",
-        "tm_pub_key": "la+jQtiFKdHK8J8HdxZVX8+0yNhggvPTFvumrnTWdzs=",
-        "vega_pub_key": "1ef41087e2f34e8d1b3d03dbd42f407303172190954d2f7606a3b7620cb5e5f4",
-        "vega_pub_key_index": 1
-      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309280826",
+  "chain_id": "vega-devnet1-202309280935",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-28T08:26:27.745946756Z",
+  "genesis_time": "2023-09-28T09:35:49.252169145Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "1882E6D1EE08CBA091CC1FAC962A40708049CBBD",
-      "name": "healthy-monkey",
+      "address": "E2DA2F60BC854031028FE24421B95D2B98DFA507",
+      "name": "red-computer",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "la+jQtiFKdHK8J8HdxZVX8+0yNhggvPTFvumrnTWdzs="
+        "value": "Q7xuKNZp3hroq7kCpqXoSUQA32uq7DJJBUVSHFcxmhA="
       }
     }
   ]
