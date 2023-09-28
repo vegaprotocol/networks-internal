@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "2V18Eup8HTTEXGGySrrenh+WlPX5OQE93BuNNSAZ7B8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/lk3f2h874xobo61uuu61c529hjoqq33r?d=identicon",
-        "country": "EX",
-        "ethereum_address": "0x31107503f0e8B66fe21D396C0A9aae0220726562",
-        "id": "112ae3df11c5f238811215a4650400cd134f451e7f90d8112ca5e8b218fe8c98",
-        "info_url": "https://en.wikipedia.org/wiki/Mount_Kisco,_New_York",
-        "name": "purple-tree",
-        "tm_pub_key": "2V18Eup8HTTEXGGySrrenh+WlPX5OQE93BuNNSAZ7B8=",
-        "vega_pub_key": "e4a390b76e1dfbc6713c35b45f32151717e1c14da3446945ef36cae7de1d93fb",
-        "vega_pub_key_index": 1
-      },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
         "avatar_url": "https://www.gravatar.com/avatar/oapaoa6gfsgvg6f1yo5umw2fnn3thw1z?d=identicon",
         "country": "FQ",
@@ -301,6 +290,17 @@
         "name": "narrow-plant",
         "tm_pub_key": "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=",
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
+        "vega_pub_key_index": 1
+      },
+      "ddqqQopj6on9Ux7phGV3v2yVSnHQUj+0syfehzUGOFc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/h374kpaf7s0rjle4flnm1gyr2nheh1oh?d=identicon",
+        "country": "EE",
+        "ethereum_address": "0x6F705cdd3AD121E2C12d3cbd0C5330821c7722a3",
+        "id": "7660714eea21015cc5e26a56f81ebb8d7bbd7b988e83afaf782ff5779676ddd0",
+        "info_url": "https://en.wikipedia.org/wiki/Humphries_Brook",
+        "name": "green-town",
+        "tm_pub_key": "ddqqQopj6on9Ux7phGV3v2yVSnHQUj+0syfehzUGOFc=",
+        "vega_pub_key": "2f3ea48add4858b5b27144d23a511200f66964991fc762ea84293d2dd3c5327d",
         "vega_pub_key_index": 1
       },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309271612",
+  "chain_id": "vega-devnet1-202309280537",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-27T16:12:56.115889966Z",
+  "genesis_time": "2023-09-28T05:37:34.762213429Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "95EB9F2619AAF07DE5283ACC5D6B94A5D790F7AB",
-      "name": "purple-tree",
+      "address": "D67765841EAF88346D22111AF22910A6CA6D5226",
+      "name": "green-town",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "2V18Eup8HTTEXGGySrrenh+WlPX5OQE93BuNNSAZ7B8="
+        "value": "ddqqQopj6on9Ux7phGV3v2yVSnHQUj+0syfehzUGOFc="
       }
     }
   ]
