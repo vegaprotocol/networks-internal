@@ -281,17 +281,6 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
-      "Kz67Svd+BEsMPKs1+x6f9N66oLibR7mAXZrVeRbg0aE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/9tgfz7thwpkhu44afvyw97yf88fznebd?d=identicon",
-        "country": "RW",
-        "ethereum_address": "0x452EA2a183cA70eAb548f6Ee5Ad582f3bd0d631E",
-        "id": "eaafd1e646c43c6d68fb510b83243a1c6bdc519740e3cdd963d8f56c1274cc2b",
-        "info_url": "https://en.wikipedia.org/wiki/Samuel_Brookes",
-        "name": "odd-bed",
-        "tm_pub_key": "Kz67Svd+BEsMPKs1+x6f9N66oLibR7mAXZrVeRbg0aE=",
-        "vega_pub_key": "bb8a9c2571e4a0b1312f8f7cea2f499ddabb413253d04317610c88a664ffc3c0",
-        "vega_pub_key_index": 1
-      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -301,6 +290,17 @@
         "name": "narrow-plant",
         "tm_pub_key": "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=",
         "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
+        "vega_pub_key_index": 1
+      },
+      "dBkfXb+5IYqJd9yTFM6LvCg/EiI0q4WbhL5cSKai+eg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/66um0aq5inb41m8fgip7zwjdl2mua6b5?d=identicon",
+        "country": "FW",
+        "ethereum_address": "0x9e09F005A109223738766B8679dc06B4284e6d1c",
+        "id": "aa290f337069ea7294ebb68a95ec7ff4be17cd38aff1d23b3c00c8f75a288e1e",
+        "info_url": "https://en.wikipedia.org/wiki/NGC_452",
+        "name": "helpful-town",
+        "tm_pub_key": "dBkfXb+5IYqJd9yTFM6LvCg/EiI0q4WbhL5cSKai+eg=",
+        "vega_pub_key": "f4cdb9cb2c9e18c6107c9ec6d760dba7dd92179bf344b5baa4ead8c2aa3ecb15",
         "vega_pub_key_index": 1
       },
       "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309281425",
+  "chain_id": "vega-devnet1-202309282141",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-28T14:25:55.435823996Z",
+  "genesis_time": "2023-09-28T21:41:33.14926389Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "D198B91B3F83B71097248272884C7FE4ED1A64A1",
-      "name": "odd-bed",
+      "address": "EC231275B7970A86189DD3ABD7D6C0E534E251E9",
+      "name": "helpful-town",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Kz67Svd+BEsMPKs1+x6f9N66oLibR7mAXZrVeRbg0aE="
+        "value": "dBkfXb+5IYqJd9yTFM6LvCg/EiI0q4WbhL5cSKai+eg="
       }
     }
   ]
