@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "0vIEki/TfkwMkpQb1dzyDEfsZ84qZvQkaGyCSDyKahw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/sycsc2p7jsj0x4t96j1s97etrwjqymtt?d=identicon",
+        "country": "LT",
+        "ethereum_address": "0x89dc1EFaF506C71356aD58963162663Cd8249397",
+        "id": "d37a7bcbf12443d74e37995b32a045e6151e0fe008ef242cd8180573251aba10",
+        "info_url": "https://en.wikipedia.org/wiki/2012%E2%80%9313_Kennesaw_State_Owls_men%27s_basketball_team",
+        "name": "careful-window",
+        "tm_pub_key": "0vIEki/TfkwMkpQb1dzyDEfsZ84qZvQkaGyCSDyKahw=",
+        "vega_pub_key": "21196ee268a76cedac7bae9a9a0e27b0e96b1bd7a12af6c1c8dd96e6dbafee27",
+        "vega_pub_key_index": 1
+      },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
         "avatar_url": "https://www.gravatar.com/avatar/oapaoa6gfsgvg6f1yo5umw2fnn3thw1z?d=identicon",
         "country": "FQ",
@@ -303,17 +314,6 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
-      "muuYty88WsNdAOD0rOLYMc5+/AH9t/HF2l+/ZPrdyzY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/80rywityvkxqlrq7t21inlk68zwwtcxk?d=identicon",
-        "country": "CW",
-        "ethereum_address": "0x028ecdE444e0262b43b3Af733d4799EfEA0783df",
-        "id": "3f250a5507da9574abe1c933883c94d4741a73b83cd9c4a59e0b40b619dab8f5",
-        "info_url": "https://en.wikipedia.org/wiki/Alireza_Salimi_(footballer)",
-        "name": "powerful-shoe",
-        "tm_pub_key": "muuYty88WsNdAOD0rOLYMc5+/AH9t/HF2l+/ZPrdyzY=",
-        "vega_pub_key": "3893835dcde477bd16e4808dd69358581e30200594fc541ed907d58ec3b21c3f",
-        "vega_pub_key_index": 1
-      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309290717",
+  "chain_id": "vega-devnet1-202309290913",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-29T07:17:13.345246206Z",
+  "genesis_time": "2023-09-29T09:13:01.929574168Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "CF8406C611AF74E00813F5643F04D2605201F022",
-      "name": "powerful-shoe",
+      "address": "3CFF10F23A1FA58155CC6B5DB1881A65737D8B1F",
+      "name": "careful-window",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "muuYty88WsNdAOD0rOLYMc5+/AH9t/HF2l+/ZPrdyzY="
+        "value": "0vIEki/TfkwMkpQb1dzyDEfsZ84qZvQkaGyCSDyKahw="
       }
     }
   ]
