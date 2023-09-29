@@ -303,15 +303,15 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
-      "h1duhY+YrXfxMZv6/1GhAExQpkS19qkD094jQLsDoK4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/c54ekjs40lcbj717vrwnxksegunwiqlz?d=identicon",
-        "country": "PO",
-        "ethereum_address": "0xf957499dbDbd1d534d020a1626236EBbDA9Bf7C6",
-        "id": "0fe5d2a34d88278865527402e5af9d8c3f845a869628f96d1d4e0afe394c3367",
-        "info_url": "https://en.wikipedia.org/wiki/Carsten_Pump",
-        "name": "rhythmic-burger",
-        "tm_pub_key": "h1duhY+YrXfxMZv6/1GhAExQpkS19qkD094jQLsDoK4=",
-        "vega_pub_key": "0b3c5661cfb365bcb4df134779f62c345621bd3496060d22c790ac5ce08e6d86",
+      "mCydOKPDKoikXupo5VDnZE0k96cYapUDUXH/uDrzA1c=": {
+        "avatar_url": "https://www.gravatar.com/avatar/iqcm6u7wbjucswlvyb9wi02ophbo22og?d=identicon",
+        "country": "FS",
+        "ethereum_address": "0x396ec562CdcFaE39E8556c68a7879F856a6f6d29",
+        "id": "105052bebf329fec8bb77f0b39c98f8a0dcf5021e3043783872a4f98d23bffc9",
+        "info_url": "https://en.wikipedia.org/wiki/USS_Vandalia_(1876)",
+        "name": "mango-butterfly",
+        "tm_pub_key": "mCydOKPDKoikXupo5VDnZE0k96cYapUDUXH/uDrzA1c=",
+        "vega_pub_key": "a4058635cf58616ffb9ad90fe8493756d5742e9b15eed34d42441ed184838712",
         "vega_pub_key_index": 1
       },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309291624",
+  "chain_id": "vega-devnet1-202309291659",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-29T16:24:54.26708218Z",
+  "genesis_time": "2023-09-29T16:59:08.287612079Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "26617F57A96AFD696577B3915F89EF7E8FD6D985",
-      "name": "rhythmic-burger",
+      "address": "8B489EA5C9C69568EE2C86EA0DB69B2897F1E53E",
+      "name": "mango-butterfly",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "h1duhY+YrXfxMZv6/1GhAExQpkS19qkD094jQLsDoK4="
+        "value": "mCydOKPDKoikXupo5VDnZE0k96cYapUDUXH/uDrzA1c="
       }
     }
   ]
