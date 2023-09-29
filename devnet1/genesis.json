@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "0vIEki/TfkwMkpQb1dzyDEfsZ84qZvQkaGyCSDyKahw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/sycsc2p7jsj0x4t96j1s97etrwjqymtt?d=identicon",
-        "country": "LT",
-        "ethereum_address": "0x89dc1EFaF506C71356aD58963162663Cd8249397",
-        "id": "d37a7bcbf12443d74e37995b32a045e6151e0fe008ef242cd8180573251aba10",
-        "info_url": "https://en.wikipedia.org/wiki/2012%E2%80%9313_Kennesaw_State_Owls_men%27s_basketball_team",
-        "name": "careful-window",
-        "tm_pub_key": "0vIEki/TfkwMkpQb1dzyDEfsZ84qZvQkaGyCSDyKahw=",
-        "vega_pub_key": "21196ee268a76cedac7bae9a9a0e27b0e96b1bd7a12af6c1c8dd96e6dbafee27",
-        "vega_pub_key_index": 1
-      },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
         "avatar_url": "https://www.gravatar.com/avatar/oapaoa6gfsgvg6f1yo5umw2fnn3thw1z?d=identicon",
         "country": "FQ",
@@ -290,6 +279,17 @@
         "name": "immense-tile",
         "tm_pub_key": "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=",
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
+        "vega_pub_key_index": 1
+      },
+      "KqR0VMcU8PQcMo1dUv/ubac/VaaK/KK0p8huYXQMb4A=": {
+        "avatar_url": "https://www.gravatar.com/avatar/r1bjs3uouvxsjo9uitaqyskuwyqvi5s5?d=identicon",
+        "country": "HP",
+        "ethereum_address": "0xaEC26E8af6E500aE0fC38FD1Fb2a51B6EEd989d0",
+        "id": "61c433a444fa30d24281a9a331559aee92703dfdb729cba0de0b1281430a0815",
+        "info_url": "https://en.wikipedia.org/wiki/Dodda_Basaveshwara_Temple",
+        "name": "shapely-cookie",
+        "tm_pub_key": "KqR0VMcU8PQcMo1dUv/ubac/VaaK/KK0p8huYXQMb4A=",
+        "vega_pub_key": "a813d5d63a7bcf0b420769c8cd1071a79a79143b2f2d7c9293235869d2fe3bf1",
         "vega_pub_key_index": 1
       },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309290913",
+  "chain_id": "vega-devnet1-202309291049",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-29T09:13:01.929574168Z",
+  "genesis_time": "2023-09-29T10:49:11.515912671Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "3CFF10F23A1FA58155CC6B5DB1881A65737D8B1F",
-      "name": "careful-window",
+      "address": "B8AD343D9C19C3A0C1F58F8518820F284283DB69",
+      "name": "shapely-cookie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "0vIEki/TfkwMkpQb1dzyDEfsZ84qZvQkaGyCSDyKahw="
+        "value": "KqR0VMcU8PQcMo1dUv/ubac/VaaK/KK0p8huYXQMb4A="
       }
     }
   ]
