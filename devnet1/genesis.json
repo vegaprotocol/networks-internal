@@ -270,64 +270,64 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/oapaoa6gfsgvg6f1yo5umw2fnn3thw1z?d=identicon",
-        "country": "FQ",
-        "ethereum_address": "0x54E1f11A7023364551fDE48F7C8E71A2Bf25E075",
-        "id": "cc16876bfcbc2d756d3040c0a72f95361faacc597159d7ef470dab5aefed7196",
-        "info_url": "https://en.wikipedia.org/wiki/Let%C3%ADcia_Rom%C3%A1n",
-        "name": "immense-tile",
-        "tm_pub_key": "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=",
-        "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
+      "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
+        "country": "LO",
+        "ethereum_address": "0x8eCCb3B0D246854a64d2BF3489B2e145Bf93Af26",
+        "id": "da201630aa9daf94153b9330eeaacc31defa17e0b7d0ca73254bcce7038b6c62",
+        "info_url": "https://en.wikipedia.org/wiki/Ensoniq_ASR-10",
+        "name": "terrible-fan",
+        "tm_pub_key": "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=",
+        "vega_pub_key": "88537d06d0a10dcb71d0b0b370d7c188936bb3417b0105bb6b61340745141194",
         "vega_pub_key_index": 1
       },
-      "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
-        "country": "XY",
-        "ethereum_address": "0x3670b5b7a20620C6de3EdF053cca6A989b28350a",
-        "id": "eb6ecaa42282093a02d8e702370214c2657d70ac418ea6e4cb6b50c80bb7f98d",
-        "info_url": "https://en.wikipedia.org/wiki/Electoral_district_of_Talbot_and_Avoca",
-        "name": "narrow-plant",
-        "tm_pub_key": "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=",
-        "vega_pub_key": "ba46e2e6107998269d1d144cb8b6066c9e5c6cbf2096a6301f3084ecc1387db3",
+      "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=": {
+        "avatar_url": "https://www.gravatar.com/avatar/5lclj8qe2cqcg9minvnflj0ivxr97v3f?d=identicon",
+        "country": "JQ",
+        "ethereum_address": "0x75e66a8EE37ce6494c4ca5d635368A87555c27dA",
+        "id": "f7e77491c75b2d3412ca45b85fd587b583ba087b566644514b79c0861b975ba0",
+        "info_url": "https://en.wikipedia.org/wiki/Mannosyl-oligosaccharide_1,2-alpha-mannosidase",
+        "name": "adventurous-television",
+        "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
+        "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/z9sfw769a99015gw2zxnb0n4o57k4pch?d=identicon",
-        "country": "RC",
-        "ethereum_address": "0x842ca23351cE7113A58b1bD0929014ac8e09e811",
-        "id": "70d23bf802d749dbf53c8b7079f8f620e9792dd445d9d87fc7cdede9fcba16f5",
-        "info_url": "https://en.wikipedia.org/wiki/Bholari_railway_station",
-        "name": "unkempt-mango",
-        "tm_pub_key": "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA=",
-        "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
+      "lu/yf9jZBkt+vp+An6w8F4uYnS4jefzTuD1MWYjSgv0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/22dmu20gatdvtiz2rzorzr77u9fm6r40?d=identicon",
+        "country": "PK",
+        "ethereum_address": "0xAD292f4aD150467F7028A42473a65f7eB97D55CD",
+        "id": "6c71e4f8432a919bb4299bba0d882caf819e5ce0997f279335ede0e11f533e3a",
+        "info_url": "https://en.wikipedia.org/wiki/Chajian_Waterfall",
+        "name": "whining-honey",
+        "tm_pub_key": "lu/yf9jZBkt+vp+An6w8F4uYnS4jefzTuD1MWYjSgv0=",
+        "vega_pub_key": "b99addccb48e265ed95cce11ddfae349a2d2fbff1aa51a0d9b69204a4e8e549e",
         "vega_pub_key_index": 1
       },
-      "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
-        "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
-        "country": "BD",
-        "ethereum_address": "0xc7410156d961dFe7357FFba4Df2AA9cC03d01E16",
-        "id": "0c57922114d5425cd9c50525aca3f8d51b00074d39f460b023ca8aa7c86ef517",
-        "info_url": "https://en.wikipedia.org/wiki/Aalmi_Majlis_Tahaffuz_Khatm-e-Nubuwwat",
-        "name": "hungry-shoe",
-        "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
-        "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
+      "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/14wh06jhnafyxu5ea1p41y8972c1flw0?d=identicon",
+        "country": "QX",
+        "ethereum_address": "0x7D09006aE1a21143725D1Ae0fB504f5cB78a533A",
+        "id": "73cd4098b607ae250b4436f0d1127f9e05d84609612c0aefbd0e3edfcd182d34",
+        "info_url": "https://en.wikipedia.org/wiki/September_1992_South_Lebanon_clashes",
+        "name": "helpless-biscuit",
+        "tm_pub_key": "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=",
+        "vega_pub_key": "ec52a0909053e61531925dbf38ef3419265d41375fc82c967b429ab17548f254",
         "vega_pub_key_index": 1
       },
-      "uWQh/U/yRTnky40SGqP5Xn/Ybr8Vo8SYqymzqg6EtVA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/h5yhb6xf242zeolvhjlg0veo8g5rd40m?d=identicon",
-        "country": "OL",
-        "ethereum_address": "0xD48be66cF373D3A0eC6FEdC42C20545Af385B153",
-        "id": "0f61551a202ec511e838464b9b226374a856541b90c3ba351d459f5d8f6a6815",
-        "info_url": "https://en.wikipedia.org/wiki/Sooper_Yooper",
-        "name": "alive-table",
-        "tm_pub_key": "uWQh/U/yRTnky40SGqP5Xn/Ybr8Vo8SYqymzqg6EtVA=",
-        "vega_pub_key": "1546ac9742e98e8f4bad5055c6d18714508bf5abe4fe5edbb2121a90cf49314b",
+      "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/a1ae15bucug2qortml2n4rifwznx19tv?d=identicon",
+        "country": "WO",
+        "ethereum_address": "0x21dC9aBaC782c224A407A1C5CC39601035f01Fb7",
+        "id": "3cda5344199a6c6772d17fa83917402ae013095a2edeaffd5b7ed6e756d76904",
+        "info_url": "https://en.wikipedia.org/wiki/Right_Livelihood_Award",
+        "name": "tricky-wall",
+        "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
+        "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202309291811",
+  "chain_id": "vega-devnet1-202309292105",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,52 +346,52 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-29T18:11:59.960200486Z",
+  "genesis_time": "2023-09-29T21:05:24.941684727Z",
   "initial_height": "0",
   "validators": [
     {
-      "address": "CAB18606029E94EDC0BEA7FCECDEFA3B696C94B5",
-      "name": "unkempt-mango",
+      "address": "5120D58A09DFBC3548CFEE07F90475EDAF60FCE4",
+      "name": "adventurous-television",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "fXQJiw+FwWi9M4UV1CJPzjrtKHHSbPEWguFCn6jKuVA="
+        "value": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U="
       }
     },
     {
-      "address": "A8F6E168F587EB84F6296586CE9DB2A9836C8E0B",
-      "name": "narrow-plant",
+      "address": "59A06EAF8BFB6900DE489A04F2A6136E92F19BF0",
+      "name": "terrible-fan",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI="
+        "value": "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo="
       }
     },
     {
-      "address": "7883ADE996B965DB7DF0292554B8FCC54A4BA458",
-      "name": "hungry-shoe",
+      "address": "7BB7D6248AB177FE1F8308440E629B3363F363BC",
+      "name": "tricky-wall",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y="
+        "value": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc="
       }
     },
     {
-      "address": "9B08B3797CAE31C28ABEA9830D5C218F2846FDB3",
-      "name": "immense-tile",
+      "address": "D103DE67EE6E31D5EF8A087BD9BDAE03DF1AA3E2",
+      "name": "helpless-biscuit",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4="
+        "value": "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8="
       }
     },
     {
-      "address": "73B285ABDB5C4A7CD414156989CC71FEBBC76E9E",
-      "name": "alive-table",
+      "address": "E08F1BCF5E3A9E5C99CAE29E409A8E4A56052590",
+      "name": "whining-honey",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "uWQh/U/yRTnky40SGqP5Xn/Ybr8Vo8SYqymzqg6EtVA="
+        "value": "lu/yf9jZBkt+vp+An6w8F4uYnS4jefzTuD1MWYjSgv0="
       }
     }
   ]
