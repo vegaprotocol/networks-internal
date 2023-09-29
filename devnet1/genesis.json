@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "2VbsgwOUkv4EABTbhnfj4FJWSv3wgWWnxV5YRS5N+Gc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/dyawn8a9q3bhq0yrh9z63agal6gznkuw?d=identicon",
+        "country": "ES",
+        "ethereum_address": "0x4f1DA52F1CC4899c26e8cC48C79ff0A074DcD4A5",
+        "id": "e8cf6ecc96316bb8a42fdd403145f15b52baed454d470553573ae22332d35491",
+        "info_url": "https://en.wikipedia.org/wiki/Whitney_Phillips_(author)",
+        "name": "excited-stove",
+        "tm_pub_key": "2VbsgwOUkv4EABTbhnfj4FJWSv3wgWWnxV5YRS5N+Gc=",
+        "vega_pub_key": "4f608c9f02d2551835bbb932cbf980a6d2761dfa4321cc80ff23009dab3805d7",
+        "vega_pub_key_index": 1
+      },
       "CgaKX5ZTDISY89jLXw0eWRfrKLY7u6yF13Q/sGX2sQ4=": {
         "avatar_url": "https://www.gravatar.com/avatar/oapaoa6gfsgvg6f1yo5umw2fnn3thw1z?d=identicon",
         "country": "FQ",
@@ -313,21 +324,10 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
-      },
-      "umW1F4N6/n3vvidOzSLlo6SXNGBs5ndBs/Y/Vhcvdp0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/noap57hy99pgyf6g8qukrynh9s8iks8w?d=identicon",
-        "country": "EI",
-        "ethereum_address": "0xB56B010624F7192fD9bC0AeddD73c0864ba9457c",
-        "id": "f21aeb75876d0f1dfa7951621ce47e0941467e87e46eb3adc2f6e4ccd8d291e3",
-        "info_url": "https://en.wikipedia.org/wiki/Beacon_designer",
-        "name": "colossal-wind",
-        "tm_pub_key": "umW1F4N6/n3vvidOzSLlo6SXNGBs5ndBs/Y/Vhcvdp0=",
-        "vega_pub_key": "9a866724c24c037415378713eeb45e94095af153cdd2f3ce2b126098093498d0",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202309291216",
+  "chain_id": "vega-devnet1-202309291259",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-29T12:16:50.027761105Z",
+  "genesis_time": "2023-09-29T12:59:27.946306423Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "B2F66481DF18F53A62EB0345AB141656A9A3FDE4",
-      "name": "colossal-wind",
+      "address": "D413F7DBAA17EA311C655A2D8D2E9846C80AA039",
+      "name": "excited-stove",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "umW1F4N6/n3vvidOzSLlo6SXNGBs5ndBs/Y/Vhcvdp0="
+        "value": "2VbsgwOUkv4EABTbhnfj4FJWSv3wgWWnxV5YRS5N+Gc="
       }
     }
   ]
