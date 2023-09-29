@@ -281,15 +281,15 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
-      "KqR0VMcU8PQcMo1dUv/ubac/VaaK/KK0p8huYXQMb4A=": {
-        "avatar_url": "https://www.gravatar.com/avatar/r1bjs3uouvxsjo9uitaqyskuwyqvi5s5?d=identicon",
-        "country": "HP",
-        "ethereum_address": "0xaEC26E8af6E500aE0fC38FD1Fb2a51B6EEd989d0",
-        "id": "61c433a444fa30d24281a9a331559aee92703dfdb729cba0de0b1281430a0815",
-        "info_url": "https://en.wikipedia.org/wiki/Dodda_Basaveshwara_Temple",
-        "name": "shapely-cookie",
-        "tm_pub_key": "KqR0VMcU8PQcMo1dUv/ubac/VaaK/KK0p8huYXQMb4A=",
-        "vega_pub_key": "a813d5d63a7bcf0b420769c8cd1071a79a79143b2f2d7c9293235869d2fe3bf1",
+      "OQs74mALNMjk3lYcWz39dLWAUlJtLZnOl449v3FfjB0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/o96gs4w6fldv1a3t1g3fosbmol1g8df1?d=identicon",
+        "country": "CL",
+        "ethereum_address": "0x6EFCa55e36d93647E0a9b03aFf1663542B62568e",
+        "id": "8338287dfad63f207ee9f7792e66072842ad30266ab1947f85f4f9ea5d785d7f",
+        "info_url": "https://en.wikipedia.org/wiki/P%C5%82awna_Dolna",
+        "name": "icy-shoe",
+        "tm_pub_key": "OQs74mALNMjk3lYcWz39dLWAUlJtLZnOl449v3FfjB0=",
+        "vega_pub_key": "9bedb23ec9f3c62ab07e54a03dacb2fc2515d5265a5a27ee234d07b499da5a5c",
         "vega_pub_key_index": 1
       },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309291049",
+  "chain_id": "vega-devnet1-202309291126",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-29T10:49:11.515912671Z",
+  "genesis_time": "2023-09-29T11:26:52.491244834Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "B8AD343D9C19C3A0C1F58F8518820F284283DB69",
-      "name": "shapely-cookie",
+      "address": "504B3FE1548F7924B425116B0C64C2A29299C210",
+      "name": "icy-shoe",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "KqR0VMcU8PQcMo1dUv/ubac/VaaK/KK0p8huYXQMb4A="
+        "value": "OQs74mALNMjk3lYcWz39dLWAUlJtLZnOl449v3FfjB0="
       }
     }
   ]
