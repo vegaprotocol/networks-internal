@@ -281,17 +281,6 @@
         "vega_pub_key": "8318aa203b377d4a6fc40a3f182d6474f90b815578e6d72220894e1df5a54eb1",
         "vega_pub_key_index": 1
       },
-      "OQs74mALNMjk3lYcWz39dLWAUlJtLZnOl449v3FfjB0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/o96gs4w6fldv1a3t1g3fosbmol1g8df1?d=identicon",
-        "country": "CL",
-        "ethereum_address": "0x6EFCa55e36d93647E0a9b03aFf1663542B62568e",
-        "id": "8338287dfad63f207ee9f7792e66072842ad30266ab1947f85f4f9ea5d785d7f",
-        "info_url": "https://en.wikipedia.org/wiki/P%C5%82awna_Dolna",
-        "name": "icy-shoe",
-        "tm_pub_key": "OQs74mALNMjk3lYcWz39dLWAUlJtLZnOl449v3FfjB0=",
-        "vega_pub_key": "9bedb23ec9f3c62ab07e54a03dacb2fc2515d5265a5a27ee234d07b499da5a5c",
-        "vega_pub_key_index": 1
-      },
       "USH9Tho2uwV2SkPYVGEYzDeFrmhaysvNkss27DqURzI=": {
         "avatar_url": "https://www.gravatar.com/avatar/u2hfje28woei8pdhi1o0g830hzkoarbu?d=identicon",
         "country": "XY",
@@ -324,10 +313,21 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
+      },
+      "umW1F4N6/n3vvidOzSLlo6SXNGBs5ndBs/Y/Vhcvdp0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/noap57hy99pgyf6g8qukrynh9s8iks8w?d=identicon",
+        "country": "EI",
+        "ethereum_address": "0xB56B010624F7192fD9bC0AeddD73c0864ba9457c",
+        "id": "f21aeb75876d0f1dfa7951621ce47e0941467e87e46eb3adc2f6e4ccd8d291e3",
+        "info_url": "https://en.wikipedia.org/wiki/Beacon_designer",
+        "name": "colossal-wind",
+        "tm_pub_key": "umW1F4N6/n3vvidOzSLlo6SXNGBs5ndBs/Y/Vhcvdp0=",
+        "vega_pub_key": "9a866724c24c037415378713eeb45e94095af153cdd2f3ce2b126098093498d0",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202309291126",
+  "chain_id": "vega-devnet1-202309291216",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-29T11:26:52.491244834Z",
+  "genesis_time": "2023-09-29T12:16:50.027761105Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "504B3FE1548F7924B425116B0C64C2A29299C210",
-      "name": "icy-shoe",
+      "address": "B2F66481DF18F53A62EB0345AB141656A9A3FDE4",
+      "name": "colossal-wind",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "OQs74mALNMjk3lYcWz39dLWAUlJtLZnOl449v3FfjB0="
+        "value": "umW1F4N6/n3vvidOzSLlo6SXNGBs5ndBs/Y/Vhcvdp0="
       }
     }
   ]
