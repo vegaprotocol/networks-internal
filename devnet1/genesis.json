@@ -303,15 +303,15 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
-      "lpwsDb3XGSc6xOiCIC15yRsW5y3TGK3Yj8GBUKhQ7m0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/newq9z0l1fnjkyuj5o9tgim5r885ksj4?d=identicon",
-        "country": "QQ",
-        "ethereum_address": "0x98223b1694888B94eE1D01c074F0e5E51a1D0a28",
-        "id": "ad3bfd395b74afbbee14bf69ce218bb563aa0ca91bc3599bb1c09de2c007ac47",
-        "info_url": "https://en.wikipedia.org/wiki/Viga_(river)",
-        "name": "happy-sheep",
-        "tm_pub_key": "lpwsDb3XGSc6xOiCIC15yRsW5y3TGK3Yj8GBUKhQ7m0=",
-        "vega_pub_key": "9760a451c4771b046071bd7b3ace8d52f220464b8f8fa5aeb3e46d0119b60c77",
+      "h1duhY+YrXfxMZv6/1GhAExQpkS19qkD094jQLsDoK4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/c54ekjs40lcbj717vrwnxksegunwiqlz?d=identicon",
+        "country": "PO",
+        "ethereum_address": "0xf957499dbDbd1d534d020a1626236EBbDA9Bf7C6",
+        "id": "0fe5d2a34d88278865527402e5af9d8c3f845a869628f96d1d4e0afe394c3367",
+        "info_url": "https://en.wikipedia.org/wiki/Carsten_Pump",
+        "name": "rhythmic-burger",
+        "tm_pub_key": "h1duhY+YrXfxMZv6/1GhAExQpkS19qkD094jQLsDoK4=",
+        "vega_pub_key": "0b3c5661cfb365bcb4df134779f62c345621bd3496060d22c790ac5ce08e6d86",
         "vega_pub_key_index": 1
       },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309291450",
+  "chain_id": "vega-devnet1-202309291605",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-29T14:50:35.998905606Z",
+  "genesis_time": "2023-09-29T16:05:39.307994176Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "A7E140E5588E4FFCAD6462F53A5D35165DFCA844",
-      "name": "happy-sheep",
+      "address": "26617F57A96AFD696577B3915F89EF7E8FD6D985",
+      "name": "rhythmic-burger",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "lpwsDb3XGSc6xOiCIC15yRsW5y3TGK3Yj8GBUKhQ7m0="
+        "value": "h1duhY+YrXfxMZv6/1GhAExQpkS19qkD094jQLsDoK4="
       }
     }
   ]
