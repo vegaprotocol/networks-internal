@@ -303,17 +303,6 @@
         "vega_pub_key": "2fa4f04642c838715cb3334ed78e81ce852bbefd412f364fcbb3c8001e073a0f",
         "vega_pub_key_index": 1
       },
-      "mCydOKPDKoikXupo5VDnZE0k96cYapUDUXH/uDrzA1c=": {
-        "avatar_url": "https://www.gravatar.com/avatar/iqcm6u7wbjucswlvyb9wi02ophbo22og?d=identicon",
-        "country": "FS",
-        "ethereum_address": "0x396ec562CdcFaE39E8556c68a7879F856a6f6d29",
-        "id": "105052bebf329fec8bb77f0b39c98f8a0dcf5021e3043783872a4f98d23bffc9",
-        "info_url": "https://en.wikipedia.org/wiki/USS_Vandalia_(1876)",
-        "name": "mango-butterfly",
-        "tm_pub_key": "mCydOKPDKoikXupo5VDnZE0k96cYapUDUXH/uDrzA1c=",
-        "vega_pub_key": "a4058635cf58616ffb9ad90fe8493756d5742e9b15eed34d42441ed184838712",
-        "vega_pub_key_index": 1
-      },
       "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=": {
         "avatar_url": "https://www.gravatar.com/avatar/6r3cq90fgv18ffd8enfwufiz6kdip11q?d=identicon",
         "country": "BD",
@@ -324,10 +313,21 @@
         "tm_pub_key": "s3i0T+zNF7BFMFFn0C3SeHB3qCYvtr7nYo60I8DcD+Y=",
         "vega_pub_key": "17329d6092c32bf435c45e60cb1bc18bdc217c81a09d780a6308ec35be2c8598",
         "vega_pub_key_index": 1
+      },
+      "uWQh/U/yRTnky40SGqP5Xn/Ybr8Vo8SYqymzqg6EtVA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/h5yhb6xf242zeolvhjlg0veo8g5rd40m?d=identicon",
+        "country": "OL",
+        "ethereum_address": "0xD48be66cF373D3A0eC6FEdC42C20545Af385B153",
+        "id": "0f61551a202ec511e838464b9b226374a856541b90c3ba351d459f5d8f6a6815",
+        "info_url": "https://en.wikipedia.org/wiki/Sooper_Yooper",
+        "name": "alive-table",
+        "tm_pub_key": "uWQh/U/yRTnky40SGqP5Xn/Ybr8Vo8SYqymzqg6EtVA=",
+        "vega_pub_key": "1546ac9742e98e8f4bad5055c6d18714508bf5abe4fe5edbb2121a90cf49314b",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202309291728",
+  "chain_id": "vega-devnet1-202309291811",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-29T17:28:56.523995856Z",
+  "genesis_time": "2023-09-29T18:11:59.960200486Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "8B489EA5C9C69568EE2C86EA0DB69B2897F1E53E",
-      "name": "mango-butterfly",
+      "address": "73B285ABDB5C4A7CD414156989CC71FEBBC76E9E",
+      "name": "alive-table",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "mCydOKPDKoikXupo5VDnZE0k96cYapUDUXH/uDrzA1c="
+        "value": "uWQh/U/yRTnky40SGqP5Xn/Ybr8Vo8SYqymzqg6EtVA="
       }
     }
   ]
