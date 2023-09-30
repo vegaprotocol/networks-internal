@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "/j/J79ctXGEu/oacxkA8xSsv1YxqlBzwJzJOv25zYio=": {
+        "avatar_url": "https://www.gravatar.com/avatar/voy1cy8beb3nimqc10gyolw7s1efpebf?d=identicon",
+        "country": "PM",
+        "ethereum_address": "0x58FB96504c36493a2A9820Ebb17ff71D121D7493",
+        "id": "e0dc41701a30b4c890e941b7b160680bd883efe4efe5534aa8ee3c2c616f65ea",
+        "info_url": "https://en.wikipedia.org/wiki/Live_by_Request_(Blondie_album)",
+        "name": "irate-river",
+        "tm_pub_key": "/j/J79ctXGEu/oacxkA8xSsv1YxqlBzwJzJOv25zYio=",
+        "vega_pub_key": "1919f0249a026822aef9e5deafd06f595f6538556ddc2bfedfd3bd739470b088",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "lu/yf9jZBkt+vp+An6w8F4uYnS4jefzTuD1MWYjSgv0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/22dmu20gatdvtiz2rzorzr77u9fm6r40?d=identicon",
-        "country": "PK",
-        "ethereum_address": "0xAD292f4aD150467F7028A42473a65f7eB97D55CD",
-        "id": "6c71e4f8432a919bb4299bba0d882caf819e5ce0997f279335ede0e11f533e3a",
-        "info_url": "https://en.wikipedia.org/wiki/Chajian_Waterfall",
-        "name": "whining-honey",
-        "tm_pub_key": "lu/yf9jZBkt+vp+An6w8F4uYnS4jefzTuD1MWYjSgv0=",
-        "vega_pub_key": "b99addccb48e265ed95cce11ddfae349a2d2fbff1aa51a0d9b69204a4e8e549e",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309292133",
+  "chain_id": "vega-devnet1-202309300851",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-29T21:33:12.564298853Z",
+  "genesis_time": "2023-09-30T08:51:07.606710579Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "E08F1BCF5E3A9E5C99CAE29E409A8E4A56052590",
-      "name": "whining-honey",
+      "address": "13FF943A931E4A5229E538112BC98F2C4CC15DC4",
+      "name": "irate-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "lu/yf9jZBkt+vp+An6w8F4uYnS4jefzTuD1MWYjSgv0="
+        "value": "/j/J79ctXGEu/oacxkA8xSsv1YxqlBzwJzJOv25zYio="
       }
     }
   ]
