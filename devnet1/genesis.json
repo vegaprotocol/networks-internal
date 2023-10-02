@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "VAyTU7oBaeSiwAM3h1ALMpitOrJ3nKP+gr+/3993cjE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/b86692t0d41h1gk8si406zpoq3vdwkgr?d=identicon",
-        "country": "RM",
-        "ethereum_address": "0x6c56a909292F4811Fb1B8EeeE1211CB8Def49FBd",
-        "id": "b6741cb08ca2aca4b46429e9909f5f89722949088bfaaf477b2816bf8306d6ca",
-        "info_url": "https://en.wikipedia.org/wiki/Dragonfly_(production_company)",
-        "name": "dead-car",
-        "tm_pub_key": "VAyTU7oBaeSiwAM3h1ALMpitOrJ3nKP+gr+/3993cjE=",
-        "vega_pub_key": "e3256af149a9f329bd398876890438d088b507cf3d180feacfc9a09105184ee7",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "aIXO3jwibhJBQ32y8dG40EeryzRIBuvX96Clwl/w6/c=": {
+        "avatar_url": "https://www.gravatar.com/avatar/cqy1wy8fm6y0vlvo4ciyscryd3jt691u?d=identicon",
+        "country": "FK",
+        "ethereum_address": "0x9d21aF4b7928bdaeE5B86608684A879F1ba7161c",
+        "id": "6fed5e85f4650f5dbff97c30d6e5922dc8e80ec7a6d3ca591bddb23e7d2aecc2",
+        "info_url": "https://en.wikipedia.org/wiki/Shuihudi_Qin_bamboo_texts",
+        "name": "perplexed-road",
+        "tm_pub_key": "aIXO3jwibhJBQ32y8dG40EeryzRIBuvX96Clwl/w6/c=",
+        "vega_pub_key": "fa498f6919f1cfb08ea63c87fe80c72ea8be30d2ae6d689b75d3793e84e32dd7",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310021217",
+  "chain_id": "vega-devnet1-202310021258",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-02T12:17:34.419963886Z",
+  "genesis_time": "2023-10-02T12:58:59.469787602Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "DC22BBB44542A8184E774A973596FB76DC80F3EE",
-      "name": "dead-car",
+      "address": "F13D25762CDDC17713ABD88B1706B4F42CE70C17",
+      "name": "perplexed-road",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "VAyTU7oBaeSiwAM3h1ALMpitOrJ3nKP+gr+/3993cjE="
+        "value": "aIXO3jwibhJBQ32y8dG40EeryzRIBuvX96Clwl/w6/c="
       }
     }
   ]
