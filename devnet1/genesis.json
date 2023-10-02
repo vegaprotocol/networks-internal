@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "iNZeO3uZirMyx8eqOcURMiYG91nn48+sab6MWzq7RA4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/duyuxzxfc3s91x88fg0i8hcjfp0a8w7j?d=identicon",
-        "country": "LM",
-        "ethereum_address": "0x11F619F97A5a44b48a0807Da759dF2218Ffa4336",
-        "id": "486073e0d8e67921838a4682d5d27c20d5f2ad74779f12c5f7f480097f992256",
-        "info_url": "https://en.wikipedia.org/wiki/Percy_Howard",
-        "name": "green-duck",
-        "tm_pub_key": "iNZeO3uZirMyx8eqOcURMiYG91nn48+sab6MWzq7RA4=",
-        "vega_pub_key": "a5777334b50328e934c32c4264fbe3098b4cef4befa8e9eb089d722315cd127a",
+      "iaZKBz9hVeIU5A2Sklc107+5OpyDmXPtS79V0esDDZQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xe3mq3dujiomcvha828h6mi2jqudbe1l?d=identicon",
+        "country": "GF",
+        "ethereum_address": "0x7Ffb6BD2968446204581FD4c14093504b999Da30",
+        "id": "6d77f88d9d340d85137969af14769da2ce24dce2cd9d05d9b872cecd3a2227df",
+        "info_url": "https://en.wikipedia.org/wiki/Hypatima_arignota",
+        "name": "odd-park",
+        "tm_pub_key": "iaZKBz9hVeIU5A2Sklc107+5OpyDmXPtS79V0esDDZQ=",
+        "vega_pub_key": "729a17361835067a52cff7218f005a6bef6e3e9e2d12e5c88b5deabd080d500d",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310020815",
+  "chain_id": "vega-devnet1-202310020934",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-02T08:15:29.692749222Z",
+  "genesis_time": "2023-10-02T09:34:05.033329988Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "87892DBE8914072F41259F6301451F46EA7BA12B",
-      "name": "green-duck",
+      "address": "F495BB47F17E3CF076FB8BA59983753FE5887DC8",
+      "name": "odd-park",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "iNZeO3uZirMyx8eqOcURMiYG91nn48+sab6MWzq7RA4="
+        "value": "iaZKBz9hVeIU5A2Sklc107+5OpyDmXPtS79V0esDDZQ="
       }
     }
   ]
