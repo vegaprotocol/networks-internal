@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "GgBMlrFY+zWScdmWXZ5UjcI5j1UFX0IksIk4Pe3Nxi8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/rx1mkuqg1k6tjrog6rcsahvcokzmimux?d=identicon",
+        "country": "SC",
+        "ethereum_address": "0x8166B14f0d615F2e74F19C490A9c5A0857463c61",
+        "id": "f766233732c32932277cbb285e6e9442b7f43db70361371a38f508d482080900",
+        "info_url": "https://en.wikipedia.org/wiki/Gustavo_dos_Santos",
+        "name": "perplexed-fisherman",
+        "tm_pub_key": "GgBMlrFY+zWScdmWXZ5UjcI5j1UFX0IksIk4Pe3Nxi8=",
+        "vega_pub_key": "e1767e9d63ce74824c009403e94dad7b1934ac0d3ea541bd49187573cf28735b",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "aIXO3jwibhJBQ32y8dG40EeryzRIBuvX96Clwl/w6/c=": {
-        "avatar_url": "https://www.gravatar.com/avatar/cqy1wy8fm6y0vlvo4ciyscryd3jt691u?d=identicon",
-        "country": "FK",
-        "ethereum_address": "0x9d21aF4b7928bdaeE5B86608684A879F1ba7161c",
-        "id": "6fed5e85f4650f5dbff97c30d6e5922dc8e80ec7a6d3ca591bddb23e7d2aecc2",
-        "info_url": "https://en.wikipedia.org/wiki/Shuihudi_Qin_bamboo_texts",
-        "name": "perplexed-road",
-        "tm_pub_key": "aIXO3jwibhJBQ32y8dG40EeryzRIBuvX96Clwl/w6/c=",
-        "vega_pub_key": "fa498f6919f1cfb08ea63c87fe80c72ea8be30d2ae6d689b75d3793e84e32dd7",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310021326",
+  "chain_id": "vega-devnet1-202310021815",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-02T13:26:36.254234669Z",
+  "genesis_time": "2023-10-02T18:15:19.328846589Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "F13D25762CDDC17713ABD88B1706B4F42CE70C17",
-      "name": "perplexed-road",
+      "address": "FF7F6B885547C38286A67EC5EF0C724D4CA57DAE",
+      "name": "perplexed-fisherman",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "aIXO3jwibhJBQ32y8dG40EeryzRIBuvX96Clwl/w6/c="
+        "value": "GgBMlrFY+zWScdmWXZ5UjcI5j1UFX0IksIk4Pe3Nxi8="
       }
     }
   ]
