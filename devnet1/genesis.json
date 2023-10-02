@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "VAyTU7oBaeSiwAM3h1ALMpitOrJ3nKP+gr+/3993cjE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/b86692t0d41h1gk8si406zpoq3vdwkgr?d=identicon",
+        "country": "RM",
+        "ethereum_address": "0x6c56a909292F4811Fb1B8EeeE1211CB8Def49FBd",
+        "id": "b6741cb08ca2aca4b46429e9909f5f89722949088bfaaf477b2816bf8306d6ca",
+        "info_url": "https://en.wikipedia.org/wiki/Dragonfly_(production_company)",
+        "name": "dead-car",
+        "tm_pub_key": "VAyTU7oBaeSiwAM3h1ALMpitOrJ3nKP+gr+/3993cjE=",
+        "vega_pub_key": "e3256af149a9f329bd398876890438d088b507cf3d180feacfc9a09105184ee7",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "eZFusur9YjnO1IqCERzYy0jU+JLkaQo/RizgozXLH0I=": {
-        "avatar_url": "https://www.gravatar.com/avatar/41qbp98oc509zb85hnu5f1fe7mkaagx6?d=identicon",
-        "country": "CC",
-        "ethereum_address": "0x31B95869dD6Dd58F2Aa1a526F9fdE26216D451B5",
-        "id": "4f461c4b9159fc394edd6f5f0c3b5e6be5e7556d3e76bdad53b70af419f90383",
-        "info_url": "https://en.wikipedia.org/wiki/Aikaranad_South",
-        "name": "narrow-wall",
-        "tm_pub_key": "eZFusur9YjnO1IqCERzYy0jU+JLkaQo/RizgozXLH0I=",
-        "vega_pub_key": "92aee4491f764b874f436a9939b96c2b68be7aeb0aaadf8c33bb11aeffbcdea0",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310021113",
+  "chain_id": "vega-devnet1-202310021217",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-02T11:13:53.189051243Z",
+  "genesis_time": "2023-10-02T12:17:34.419963886Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "B4C3EA0BF12AC038A38F487F84D4F76C0649EC72",
-      "name": "narrow-wall",
+      "address": "DC22BBB44542A8184E774A973596FB76DC80F3EE",
+      "name": "dead-car",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "eZFusur9YjnO1IqCERzYy0jU+JLkaQo/RizgozXLH0I="
+        "value": "VAyTU7oBaeSiwAM3h1ALMpitOrJ3nKP+gr+/3993cjE="
       }
     }
   ]
