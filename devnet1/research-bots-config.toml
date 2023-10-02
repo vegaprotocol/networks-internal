@@ -156,11 +156,11 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 
 [scenario.tsla_quarterly]
-    market_name = "Tesla Quarterly (Jan 2023)"
+    market_name = "Tesla Quarterly (Jan 2024)"
     binance_code = "BNBEUR"
     step_length_seconds = 3
     [scenario.tsla_quarterly.market_manager_args]
-        market_name = "Tesla Quarterly (Jan 2023)"
+        market_name = "Tesla Quarterly (Jan 2024)"
         market_code = "TSLA.QM21"
         asset_name = "tEURO"
         adp = 5
@@ -458,11 +458,11 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         randomise_history = false
 
 [scenario.ethbtc_quarterly]
-    market_name = "ETHBTC Quarterly (Jan 2023)"
+    market_name = "ETHBTC Quarterly (Jan 2024)"
     binance_code = "ETHBTC"
     step_length_seconds = 3
     [scenario.ethbtc_quarterly.market_manager_args]
-        market_name = "ETHBTC Quarterly (Jan 2023)"
+        market_name = "ETHBTC Quarterly (Jan 2024)"
         market_code = "ETHBTC.QM21"
         asset_name = "tUSDC"
         adp = 8
