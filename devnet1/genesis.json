@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "/j/J79ctXGEu/oacxkA8xSsv1YxqlBzwJzJOv25zYio=": {
-        "avatar_url": "https://www.gravatar.com/avatar/voy1cy8beb3nimqc10gyolw7s1efpebf?d=identicon",
-        "country": "PM",
-        "ethereum_address": "0x58FB96504c36493a2A9820Ebb17ff71D121D7493",
-        "id": "e0dc41701a30b4c890e941b7b160680bd883efe4efe5534aa8ee3c2c616f65ea",
-        "info_url": "https://en.wikipedia.org/wiki/Live_by_Request_(Blondie_album)",
-        "name": "irate-river",
-        "tm_pub_key": "/j/J79ctXGEu/oacxkA8xSsv1YxqlBzwJzJOv25zYio=",
-        "vega_pub_key": "1919f0249a026822aef9e5deafd06f595f6538556ddc2bfedfd3bd739470b088",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "iNZeO3uZirMyx8eqOcURMiYG91nn48+sab6MWzq7RA4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/duyuxzxfc3s91x88fg0i8hcjfp0a8w7j?d=identicon",
+        "country": "LM",
+        "ethereum_address": "0x11F619F97A5a44b48a0807Da759dF2218Ffa4336",
+        "id": "486073e0d8e67921838a4682d5d27c20d5f2ad74779f12c5f7f480097f992256",
+        "info_url": "https://en.wikipedia.org/wiki/Percy_Howard",
+        "name": "green-duck",
+        "tm_pub_key": "iNZeO3uZirMyx8eqOcURMiYG91nn48+sab6MWzq7RA4=",
+        "vega_pub_key": "a5777334b50328e934c32c4264fbe3098b4cef4befa8e9eb089d722315cd127a",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202309300851",
+  "chain_id": "vega-devnet1-202310020815",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-09-30T08:51:07.606710579Z",
+  "genesis_time": "2023-10-02T08:15:29.692749222Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "13FF943A931E4A5229E538112BC98F2C4CC15DC4",
-      "name": "irate-river",
+      "address": "87892DBE8914072F41259F6301451F46EA7BA12B",
+      "name": "green-duck",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "/j/J79ctXGEu/oacxkA8xSsv1YxqlBzwJzJOv25zYio="
+        "value": "iNZeO3uZirMyx8eqOcURMiYG91nn48+sab6MWzq7RA4="
       }
     }
   ]
