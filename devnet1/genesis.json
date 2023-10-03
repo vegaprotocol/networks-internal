@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "6z9W2T2wFbBh+z4/3oTpLroY1yjscykcYo2D4Pzd5UU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/nc98d5vl333eqyimxepz7ggaqj6qrzfn?d=identicon",
+        "country": "UY",
+        "ethereum_address": "0xE8B7Fd372A0282848ba4040B94859187d178f9b7",
+        "id": "8ce5d96f9a28e8391d4f02fde06e8fb7a2a9cb6b7bbe5ebae6f25529389f58cc",
+        "info_url": "https://en.wikipedia.org/wiki/Municipal_Relaxation_Module",
+        "name": "alive-window",
+        "tm_pub_key": "6z9W2T2wFbBh+z4/3oTpLroY1yjscykcYo2D4Pzd5UU=",
+        "vega_pub_key": "593d14fd9ad6dc2168dbfcc7cfe9345bbcb4f59d66cab9f5a531a1916a016030",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "lcj3kK78VO7F3up+fe3yL1Wf8SYYv5fx9HQmlYKLkpM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/a2hvbnhl5r8z1cvkl7x6lra1pm9y3rqx?d=identicon",
-        "country": "DW",
-        "ethereum_address": "0x7D0be754a7aaB9870b2E132cC8DfD402eB0594C2",
-        "id": "15740424ea09a9b102f27ca8c37c01e98891cf2f7450d9efcd67e7145b07a7a0",
-        "info_url": "https://en.wikipedia.org/wiki/Lectionary_1619",
-        "name": "purring-monkey",
-        "tm_pub_key": "lcj3kK78VO7F3up+fe3yL1Wf8SYYv5fx9HQmlYKLkpM=",
-        "vega_pub_key": "3fbc19a122f6f975be84606f512e15c52af4af0f2e86aa4581bdbc20be70b5c7",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310031330",
+  "chain_id": "vega-devnet1-202310031514",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-03T13:30:41.400525549Z",
+  "genesis_time": "2023-10-03T15:14:42.79215035Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "AFD7D1F46FDEE547077F6B9E3FE70009435C2014",
-      "name": "purring-monkey",
+      "address": "5EB15675EAE2CA3690D975E19C9358A9E587C93E",
+      "name": "alive-window",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "lcj3kK78VO7F3up+fe3yL1Wf8SYYv5fx9HQmlYKLkpM="
+        "value": "6z9W2T2wFbBh+z4/3oTpLroY1yjscykcYo2D4Pzd5UU="
       }
     }
   ]
