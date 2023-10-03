@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "CNhcyL4ehQG71n6NKEksyuaVKd5xCtcuR0hHmRK2gXE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/fud88fpqg338wo3u5gyly3zld8udwqwk?d=identicon",
-        "country": "QH",
-        "ethereum_address": "0x97182763762656999Fb2B52F784c2d151fF37D8a",
-        "id": "175ebeb9e1ad70552a71237dfb08aad0422fd376fc7b9e2027b25294366b9697",
-        "info_url": "https://en.wikipedia.org/wiki/Granville_Roland_Fortescue",
-        "name": "graceful-butterfly",
-        "tm_pub_key": "CNhcyL4ehQG71n6NKEksyuaVKd5xCtcuR0hHmRK2gXE=",
-        "vega_pub_key": "51b7b54b438caae0ed9edfa6339f0a1d0ff57ae5214a2160531b98bba8a3f348",
+      "0dDdASCtpXPEiicl+LsXf+rOQsx5jbBRAW8pgGZU47A=": {
+        "avatar_url": "https://www.gravatar.com/avatar/gn640radps5geojukxgci26t233dva8b?d=identicon",
+        "country": "SV",
+        "ethereum_address": "0x50FBEB2869d101672261A159Fc60B41cb240dBbd",
+        "id": "ebb3af4c6da34c519115a101b070fe3884cb96ed8a6c1c9fe69beb18eb018a40",
+        "info_url": "https://en.wikipedia.org/wiki/Adjaye",
+        "name": "tricky-pool",
+        "tm_pub_key": "0dDdASCtpXPEiicl+LsXf+rOQsx5jbBRAW8pgGZU47A=",
+        "vega_pub_key": "de413736331b3f1811a8baddcfc51b55f4d84f58ed06e57564c3dd924d69b713",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310030903",
+  "chain_id": "vega-devnet1-202310030953",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-03T09:03:06.537937192Z",
+  "genesis_time": "2023-10-03T09:53:35.120563845Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "63FB7407DCF647F2A2CE2D34BA290E56CE22ADF4",
-      "name": "graceful-butterfly",
+      "address": "FF2F0275806FD19B9A581A59EDE6AA8AD40C8CF5",
+      "name": "tricky-pool",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "CNhcyL4ehQG71n6NKEksyuaVKd5xCtcuR0hHmRK2gXE="
+        "value": "0dDdASCtpXPEiicl+LsXf+rOQsx5jbBRAW8pgGZU47A="
       }
     }
   ]
