@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "GgBMlrFY+zWScdmWXZ5UjcI5j1UFX0IksIk4Pe3Nxi8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/rx1mkuqg1k6tjrog6rcsahvcokzmimux?d=identicon",
-        "country": "SC",
-        "ethereum_address": "0x8166B14f0d615F2e74F19C490A9c5A0857463c61",
-        "id": "f766233732c32932277cbb285e6e9442b7f43db70361371a38f508d482080900",
-        "info_url": "https://en.wikipedia.org/wiki/Gustavo_dos_Santos",
-        "name": "perplexed-fisherman",
-        "tm_pub_key": "GgBMlrFY+zWScdmWXZ5UjcI5j1UFX0IksIk4Pe3Nxi8=",
-        "vega_pub_key": "e1767e9d63ce74824c009403e94dad7b1934ac0d3ea541bd49187573cf28735b",
+      "/E/a1N9158ZuxxMeytj+K1MYYAsLZ+Hku8WcCWCluaI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/40upc3n4ubnbloxzbthqqk04yjy7hqyr?d=identicon",
+        "country": "UR",
+        "ethereum_address": "0x7C9480d87F9C76b634e6DbcD740EaBA98dB485BD",
+        "id": "e35dd066bb8a10e0e37d48339db5ee854870f245402d78f8544afc214e68fe04",
+        "info_url": "https://en.wikipedia.org/wiki/Lake_Ha!_Ha!",
+        "name": "timely-computer",
+        "tm_pub_key": "/E/a1N9158ZuxxMeytj+K1MYYAsLZ+Hku8WcCWCluaI=",
+        "vega_pub_key": "dbc93e35a7b297459cc883422e3f72d07c31b402455dda69677e72e1a6eb3cca",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310021815",
+  "chain_id": "vega-devnet1-202310030759",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-02T18:15:19.328846589Z",
+  "genesis_time": "2023-10-03T07:59:45.673182937Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "FF7F6B885547C38286A67EC5EF0C724D4CA57DAE",
-      "name": "perplexed-fisherman",
+      "address": "6E8D70133B773702E1BD36F512779F975AF244E2",
+      "name": "timely-computer",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "GgBMlrFY+zWScdmWXZ5UjcI5j1UFX0IksIk4Pe3Nxi8="
+        "value": "/E/a1N9158ZuxxMeytj+K1MYYAsLZ+Hku8WcCWCluaI="
       }
     }
   ]
