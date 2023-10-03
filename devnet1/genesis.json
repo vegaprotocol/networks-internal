@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "/E/a1N9158ZuxxMeytj+K1MYYAsLZ+Hku8WcCWCluaI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/40upc3n4ubnbloxzbthqqk04yjy7hqyr?d=identicon",
-        "country": "UR",
-        "ethereum_address": "0x7C9480d87F9C76b634e6DbcD740EaBA98dB485BD",
-        "id": "e35dd066bb8a10e0e37d48339db5ee854870f245402d78f8544afc214e68fe04",
-        "info_url": "https://en.wikipedia.org/wiki/Lake_Ha!_Ha!",
-        "name": "timely-computer",
-        "tm_pub_key": "/E/a1N9158ZuxxMeytj+K1MYYAsLZ+Hku8WcCWCluaI=",
-        "vega_pub_key": "dbc93e35a7b297459cc883422e3f72d07c31b402455dda69677e72e1a6eb3cca",
+      "CNhcyL4ehQG71n6NKEksyuaVKd5xCtcuR0hHmRK2gXE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/fud88fpqg338wo3u5gyly3zld8udwqwk?d=identicon",
+        "country": "QH",
+        "ethereum_address": "0x97182763762656999Fb2B52F784c2d151fF37D8a",
+        "id": "175ebeb9e1ad70552a71237dfb08aad0422fd376fc7b9e2027b25294366b9697",
+        "info_url": "https://en.wikipedia.org/wiki/Granville_Roland_Fortescue",
+        "name": "graceful-butterfly",
+        "tm_pub_key": "CNhcyL4ehQG71n6NKEksyuaVKd5xCtcuR0hHmRK2gXE=",
+        "vega_pub_key": "51b7b54b438caae0ed9edfa6339f0a1d0ff57ae5214a2160531b98bba8a3f348",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310030759",
+  "chain_id": "vega-devnet1-202310030903",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-03T07:59:45.673182937Z",
+  "genesis_time": "2023-10-03T09:03:06.537937192Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "6E8D70133B773702E1BD36F512779F975AF244E2",
-      "name": "timely-computer",
+      "address": "63FB7407DCF647F2A2CE2D34BA290E56CE22ADF4",
+      "name": "graceful-butterfly",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "/E/a1N9158ZuxxMeytj+K1MYYAsLZ+Hku8WcCWCluaI="
+        "value": "CNhcyL4ehQG71n6NKEksyuaVKd5xCtcuR0hHmRK2gXE="
       }
     }
   ]
