@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "6z9W2T2wFbBh+z4/3oTpLroY1yjscykcYo2D4Pzd5UU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/nc98d5vl333eqyimxepz7ggaqj6qrzfn?d=identicon",
-        "country": "UY",
-        "ethereum_address": "0xE8B7Fd372A0282848ba4040B94859187d178f9b7",
-        "id": "8ce5d96f9a28e8391d4f02fde06e8fb7a2a9cb6b7bbe5ebae6f25529389f58cc",
-        "info_url": "https://en.wikipedia.org/wiki/Municipal_Relaxation_Module",
-        "name": "alive-window",
-        "tm_pub_key": "6z9W2T2wFbBh+z4/3oTpLroY1yjscykcYo2D4Pzd5UU=",
-        "vega_pub_key": "593d14fd9ad6dc2168dbfcc7cfe9345bbcb4f59d66cab9f5a531a1916a016030",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -324,10 +313,21 @@
         "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
+      },
+      "zEZgMvnHqWIy15V1sY/CAVqEFGNgOXjH9dothHCalPU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/nnies4o2f9oj9f0wr4t9qz0stxvh8iaa?d=identicon",
+        "country": "UE",
+        "ethereum_address": "0x2769a02E22121C75F0d87170C2711a448FeCe1A0",
+        "id": "d31b2c5d1a6de26a684895e95a15b7f5dc05c08b5b5f976f0477709f0f47901b",
+        "info_url": "https://en.wikipedia.org/wiki/Grange_GAA",
+        "name": "rich-door",
+        "tm_pub_key": "zEZgMvnHqWIy15V1sY/CAVqEFGNgOXjH9dothHCalPU=",
+        "vega_pub_key": "ffa451a1ec2fa5b018ad890fe28feb85a9decc3d5da2841ec79e57b1d5a01bfc",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202310031543",
+  "chain_id": "vega-devnet1-202310031613",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-03T15:43:16.304089812Z",
+  "genesis_time": "2023-10-03T16:13:08.330341749Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "5EB15675EAE2CA3690D975E19C9358A9E587C93E",
-      "name": "alive-window",
+      "address": "0F6142FFCEDEFD1A179AE78D2B6385C774F2AE07",
+      "name": "rich-door",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "6z9W2T2wFbBh+z4/3oTpLroY1yjscykcYo2D4Pzd5UU="
+        "value": "zEZgMvnHqWIy15V1sY/CAVqEFGNgOXjH9dothHCalPU="
       }
     }
   ]
