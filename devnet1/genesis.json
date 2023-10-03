@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "0dDdASCtpXPEiicl+LsXf+rOQsx5jbBRAW8pgGZU47A=": {
-        "avatar_url": "https://www.gravatar.com/avatar/gn640radps5geojukxgci26t233dva8b?d=identicon",
-        "country": "SV",
-        "ethereum_address": "0x50FBEB2869d101672261A159Fc60B41cb240dBbd",
-        "id": "ebb3af4c6da34c519115a101b070fe3884cb96ed8a6c1c9fe69beb18eb018a40",
-        "info_url": "https://en.wikipedia.org/wiki/Adjaye",
-        "name": "tricky-pool",
-        "tm_pub_key": "0dDdASCtpXPEiicl+LsXf+rOQsx5jbBRAW8pgGZU47A=",
-        "vega_pub_key": "de413736331b3f1811a8baddcfc51b55f4d84f58ed06e57564c3dd924d69b713",
+      "PpKaqF02MJRDQU7Zi0whs0InsOQ9HM9Gt4GT2RAtRG4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/9mr3vwiqizzvoxk7598shxvrh9evgy0y?d=identicon",
+        "country": "SY",
+        "ethereum_address": "0x8548D84D9Ac265E5d2e8Dd0837BfA539bAaEC098",
+        "id": "e5e715956510a430d4c4b5e15b8ab13ead4d168fe7b17774353cabd484d74474",
+        "info_url": "https://en.wikipedia.org/wiki/Heart_Blanche",
+        "name": "icy-flowers",
+        "tm_pub_key": "PpKaqF02MJRDQU7Zi0whs0InsOQ9HM9Gt4GT2RAtRG4=",
+        "vega_pub_key": "d939142a24cc179bfa775e5acec6a538d3e843399e685c024fc81918310c9481",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310031044",
+  "chain_id": "vega-devnet1-202310031125",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-03T10:44:33.881503517Z",
+  "genesis_time": "2023-10-03T11:25:02.43469948Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "FF2F0275806FD19B9A581A59EDE6AA8AD40C8CF5",
-      "name": "tricky-pool",
+      "address": "E43E863DAF26FD62717958031FC98994E3A63F6C",
+      "name": "icy-flowers",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "0dDdASCtpXPEiicl+LsXf+rOQsx5jbBRAW8pgGZU47A="
+        "value": "PpKaqF02MJRDQU7Zi0whs0InsOQ9HM9Gt4GT2RAtRG4="
       }
     }
   ]
