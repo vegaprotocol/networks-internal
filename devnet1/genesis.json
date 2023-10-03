@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "PpKaqF02MJRDQU7Zi0whs0InsOQ9HM9Gt4GT2RAtRG4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/9mr3vwiqizzvoxk7598shxvrh9evgy0y?d=identicon",
-        "country": "SY",
-        "ethereum_address": "0x8548D84D9Ac265E5d2e8Dd0837BfA539bAaEC098",
-        "id": "e5e715956510a430d4c4b5e15b8ab13ead4d168fe7b17774353cabd484d74474",
-        "info_url": "https://en.wikipedia.org/wiki/Heart_Blanche",
-        "name": "icy-flowers",
-        "tm_pub_key": "PpKaqF02MJRDQU7Zi0whs0InsOQ9HM9Gt4GT2RAtRG4=",
-        "vega_pub_key": "d939142a24cc179bfa775e5acec6a538d3e843399e685c024fc81918310c9481",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "rDq/uNHcG7H1OA2u/25hgCdnIBQYa1sTJ598O/APFu8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ip9hoam8eo9oyacqlzmgae0gxc9fhd52?d=identicon",
+        "country": "YH",
+        "ethereum_address": "0x990E42974a5Db44F16cd0518Bb8019174ec626f3",
+        "id": "998e59d1fb56d5a10c7bf3b101a19e85d592c0a733b5e9f6a420b06b3658483b",
+        "info_url": "https://en.wikipedia.org/wiki/Track_Bus_No._19",
+        "name": "frustrating-policeman",
+        "tm_pub_key": "rDq/uNHcG7H1OA2u/25hgCdnIBQYa1sTJ598O/APFu8=",
+        "vega_pub_key": "1d0e41098c8e7184323f553ff12cdf589293a849af82373d9728bf351dc31368",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310031125",
+  "chain_id": "vega-devnet1-202310031248",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-03T11:25:02.43469948Z",
+  "genesis_time": "2023-10-03T12:48:41.225440861Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "E43E863DAF26FD62717958031FC98994E3A63F6C",
-      "name": "icy-flowers",
+      "address": "F7E1C45E74AB80C46E2C632DF3079841CC68CA71",
+      "name": "frustrating-policeman",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "PpKaqF02MJRDQU7Zi0whs0InsOQ9HM9Gt4GT2RAtRG4="
+        "value": "rDq/uNHcG7H1OA2u/25hgCdnIBQYa1sTJ598O/APFu8="
       }
     }
   ]
