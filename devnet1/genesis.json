@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "rDq/uNHcG7H1OA2u/25hgCdnIBQYa1sTJ598O/APFu8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ip9hoam8eo9oyacqlzmgae0gxc9fhd52?d=identicon",
-        "country": "YH",
-        "ethereum_address": "0x990E42974a5Db44F16cd0518Bb8019174ec626f3",
-        "id": "998e59d1fb56d5a10c7bf3b101a19e85d592c0a733b5e9f6a420b06b3658483b",
-        "info_url": "https://en.wikipedia.org/wiki/Track_Bus_No._19",
-        "name": "frustrating-policeman",
-        "tm_pub_key": "rDq/uNHcG7H1OA2u/25hgCdnIBQYa1sTJ598O/APFu8=",
-        "vega_pub_key": "1d0e41098c8e7184323f553ff12cdf589293a849af82373d9728bf351dc31368",
+      "lcj3kK78VO7F3up+fe3yL1Wf8SYYv5fx9HQmlYKLkpM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/a2hvbnhl5r8z1cvkl7x6lra1pm9y3rqx?d=identicon",
+        "country": "DW",
+        "ethereum_address": "0x7D0be754a7aaB9870b2E132cC8DfD402eB0594C2",
+        "id": "15740424ea09a9b102f27ca8c37c01e98891cf2f7450d9efcd67e7145b07a7a0",
+        "info_url": "https://en.wikipedia.org/wiki/Lectionary_1619",
+        "name": "purring-monkey",
+        "tm_pub_key": "lcj3kK78VO7F3up+fe3yL1Wf8SYYv5fx9HQmlYKLkpM=",
+        "vega_pub_key": "3fbc19a122f6f975be84606f512e15c52af4af0f2e86aa4581bdbc20be70b5c7",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310031248",
+  "chain_id": "vega-devnet1-202310031330",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-03T12:48:41.225440861Z",
+  "genesis_time": "2023-10-03T13:30:41.400525549Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "F7E1C45E74AB80C46E2C632DF3079841CC68CA71",
-      "name": "frustrating-policeman",
+      "address": "AFD7D1F46FDEE547077F6B9E3FE70009435C2014",
+      "name": "purring-monkey",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "rDq/uNHcG7H1OA2u/25hgCdnIBQYa1sTJ598O/APFu8="
+        "value": "lcj3kK78VO7F3up+fe3yL1Wf8SYYv5fx9HQmlYKLkpM="
       }
     }
   ]
