@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "gpo6MjlBv9zOBQNUovM8QtA/iljUjj+xPFhLTYhdHEs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/lyyuo3tsgcdnvwco1hg0iz72akh0p7is?d=identicon",
-        "country": "BG",
-        "ethereum_address": "0x5abFb5AA5e51EF4bFfDa5C6E1d36821B54edfF3d",
-        "id": "b33ebaa4bfd930d7d079f0b7981bccc7e668485b63081bb9b255f1784ea65790",
-        "info_url": "https://en.wikipedia.org/wiki/George_Tollet",
-        "name": "graceful-mango",
-        "tm_pub_key": "gpo6MjlBv9zOBQNUovM8QtA/iljUjj+xPFhLTYhdHEs=",
-        "vega_pub_key": "4ff187b7a2ab9b635ac5e73902794ed7889f5f95be8afd3475c368fd25d35ae4",
+      "gYbQsH8f4FwPtqQAzwxfxKuYu50D325ibKX/9vCurUw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/cdalht3rzgb5k1siqnwjrkvj3i165l9s?d=identicon",
+        "country": "BC",
+        "ethereum_address": "0x03Dd545E47529bdB517ee8d2911728D92bcAD373",
+        "id": "7596cfbac974ef08a2801cbb29135187f65b473936e13770675ab3db4953a096",
+        "info_url": "https://en.wikipedia.org/wiki/Jean_Maynier",
+        "name": "high-car",
+        "tm_pub_key": "gYbQsH8f4FwPtqQAzwxfxKuYu50D325ibKX/9vCurUw=",
+        "vega_pub_key": "1346757085ffa6c0b6818a63d471438759e1fe4b2f6e7aa60a2ad161f2d5eb5f",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310041519",
+  "chain_id": "vega-devnet1-202310041619",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-04T15:19:27.316303023Z",
+  "genesis_time": "2023-10-04T16:19:16.996385267Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "3B1F22241961B6A3FB44BE3AEA0E643FDE812B26",
-      "name": "graceful-mango",
+      "address": "98514233BF99F699DAE69881A82D164BE68FB11A",
+      "name": "high-car",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "gpo6MjlBv9zOBQNUovM8QtA/iljUjj+xPFhLTYhdHEs="
+        "value": "gYbQsH8f4FwPtqQAzwxfxKuYu50D325ibKX/9vCurUw="
       }
     }
   ]
