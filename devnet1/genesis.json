@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "T5IlIoWJdoQw9Kp5p6Y7uTRyQPyaPQzZDMyMe7auQHA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/fp63asw4oniho0euwi0ehgvt3qr20pjl?d=identicon",
-        "country": "LI",
-        "ethereum_address": "0x7365b4eF3e37ec23964b420E445d44970e357180",
-        "id": "1f436b27af43fc0ef59375c6c666ad23c898aa70ee2afbc5691b68c286e96e92",
-        "info_url": "https://en.wikipedia.org/wiki/2018%E2%80%9319_I_liga",
-        "name": "opportune-doctor",
-        "tm_pub_key": "T5IlIoWJdoQw9Kp5p6Y7uTRyQPyaPQzZDMyMe7auQHA=",
-        "vega_pub_key": "830a2e3c320896ec259ce60a9aed442d95ee523bcee2c1ab37e3b28ed1919a06",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "gpo6MjlBv9zOBQNUovM8QtA/iljUjj+xPFhLTYhdHEs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/lyyuo3tsgcdnvwco1hg0iz72akh0p7is?d=identicon",
+        "country": "BG",
+        "ethereum_address": "0x5abFb5AA5e51EF4bFfDa5C6E1d36821B54edfF3d",
+        "id": "b33ebaa4bfd930d7d079f0b7981bccc7e668485b63081bb9b255f1784ea65790",
+        "info_url": "https://en.wikipedia.org/wiki/George_Tollet",
+        "name": "graceful-mango",
+        "tm_pub_key": "gpo6MjlBv9zOBQNUovM8QtA/iljUjj+xPFhLTYhdHEs=",
+        "vega_pub_key": "4ff187b7a2ab9b635ac5e73902794ed7889f5f95be8afd3475c368fd25d35ae4",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310041429",
+  "chain_id": "vega-devnet1-202310041519",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-04T14:29:05.318129133Z",
+  "genesis_time": "2023-10-04T15:19:27.316303023Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "C6609AB3CF6E9C17BCA601EC3F4399AB239E795A",
-      "name": "opportune-doctor",
+      "address": "3B1F22241961B6A3FB44BE3AEA0E643FDE812B26",
+      "name": "graceful-mango",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "T5IlIoWJdoQw9Kp5p6Y7uTRyQPyaPQzZDMyMe7auQHA="
+        "value": "gpo6MjlBv9zOBQNUovM8QtA/iljUjj+xPFhLTYhdHEs="
       }
     }
   ]
