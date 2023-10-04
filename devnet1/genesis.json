@@ -292,6 +292,17 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
+      "sl8sqa5Sj+XZrOC71BgSl8rywzjnkCIHFCLuL7hLg+E=": {
+        "avatar_url": "https://www.gravatar.com/avatar/rzrw1j7zuepnx94inqy9j8bvp1r069xd?d=identicon",
+        "country": "ML",
+        "ethereum_address": "0x1cAa319d3909DB27B6FC7a4C42A32aCD8A43F335",
+        "id": "2a742ca7d54233c8e4182dcd0487d21c7b85a1fd238f25dd3fa72c68fbb83e5b",
+        "info_url": "https://en.wikipedia.org/wiki/Abu_Hana",
+        "name": "impressionable-flowers",
+        "tm_pub_key": "sl8sqa5Sj+XZrOC71BgSl8rywzjnkCIHFCLuL7hLg+E=",
+        "vega_pub_key": "cd42a693a67b5080ea00a2054d6d6ae014a06984af36469abfd09320914534b1",
+        "vega_pub_key_index": 1
+      },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
         "avatar_url": "https://www.gravatar.com/avatar/14wh06jhnafyxu5ea1p41y8972c1flw0?d=identicon",
         "country": "QX",
@@ -313,21 +324,10 @@
         "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
-      },
-      "zEZgMvnHqWIy15V1sY/CAVqEFGNgOXjH9dothHCalPU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/nnies4o2f9oj9f0wr4t9qz0stxvh8iaa?d=identicon",
-        "country": "UE",
-        "ethereum_address": "0x2769a02E22121C75F0d87170C2711a448FeCe1A0",
-        "id": "d31b2c5d1a6de26a684895e95a15b7f5dc05c08b5b5f976f0477709f0f47901b",
-        "info_url": "https://en.wikipedia.org/wiki/Grange_GAA",
-        "name": "rich-door",
-        "tm_pub_key": "zEZgMvnHqWIy15V1sY/CAVqEFGNgOXjH9dothHCalPU=",
-        "vega_pub_key": "ffa451a1ec2fa5b018ad890fe28feb85a9decc3d5da2841ec79e57b1d5a01bfc",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202310031613",
+  "chain_id": "vega-devnet1-202310040936",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-03T16:13:08.330341749Z",
+  "genesis_time": "2023-10-04T09:36:34.265990804Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "0F6142FFCEDEFD1A179AE78D2B6385C774F2AE07",
-      "name": "rich-door",
+      "address": "6755A1A9E6586C7CAF87CD26FD535997AF36ACAE",
+      "name": "impressionable-flowers",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "zEZgMvnHqWIy15V1sY/CAVqEFGNgOXjH9dothHCalPU="
+        "value": "sl8sqa5Sj+XZrOC71BgSl8rywzjnkCIHFCLuL7hLg+E="
       }
     }
   ]
