@@ -24,7 +24,7 @@ home = "/opt/wallets-mount" # mounted from the host
 passphrase_file = "./assets/passphrase.txt"
 
 [scenario.btcusd_perpetual_incentive]
-    market_name = "BTC/USD Perpetual Incentive"
+    market_name = "BTC/USD Perpetual Incentive III"
     binance_code = "BTCDAI"
     step_length_seconds = 3
     [scenario.btcusd_perpetual_incentive.market_manager_args]
