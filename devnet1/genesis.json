@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "8j5SzQVNaYz11S4P3KJHeKMhNZL8A87lKRQDW/epr0U=": {
-        "avatar_url": "https://www.gravatar.com/avatar/knp3i9ogpfrkwyjmtoh10to95hphsm6z?d=identicon",
-        "country": "QU",
-        "ethereum_address": "0xcede245556305F8FDfCdc05D0C15F30c496553cA",
-        "id": "2f2ba598976e68a69ea1bd408a1e6b67f196d997d0510a9aa1162f2fbb4edeef",
-        "info_url": "https://en.wikipedia.org/wiki/Leemore_Dafny",
-        "name": "bored-hat",
-        "tm_pub_key": "8j5SzQVNaYz11S4P3KJHeKMhNZL8A87lKRQDW/epr0U=",
-        "vega_pub_key": "a1fea26058a67f406d7c9d59b704232f0ef235001ddbd2ee6da6504d21c1ad50",
+      "30QpJYEG5uctgLzGuf2gR1SMHcWJMqX98sq+dyTaihU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/txcdkdit0tdfxd4kl52jcz9myt6x06x5?d=identicon",
+        "country": "OO",
+        "ethereum_address": "0x6346b727052b07A3d3Ab70D33787d15633553800",
+        "id": "e148d833aa04597700a1b140808db06e4ce02be875822f220185fdd6371dc85f",
+        "info_url": "https://en.wikipedia.org/wiki/Rocky_Creek_(Oregon)",
+        "name": "alert-pizza",
+        "tm_pub_key": "30QpJYEG5uctgLzGuf2gR1SMHcWJMqX98sq+dyTaihU=",
+        "vega_pub_key": "b1b40e7ee5edfabaf1c081af622b4560ce5aa847bb1d51965c221b01b76cc09f",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310041147",
+  "chain_id": "vega-devnet1-202310041330",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-04T11:47:50.885869272Z",
+  "genesis_time": "2023-10-04T13:30:37.655718642Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "AD727C46E4EE01CA190BA2F475500681BCAB29AE",
-      "name": "bored-hat",
+      "address": "93A7B564DE5669F6C413EF4C939A59092009FDC6",
+      "name": "alert-pizza",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "8j5SzQVNaYz11S4P3KJHeKMhNZL8A87lKRQDW/epr0U="
+        "value": "30QpJYEG5uctgLzGuf2gR1SMHcWJMqX98sq+dyTaihU="
       }
     }
   ]
