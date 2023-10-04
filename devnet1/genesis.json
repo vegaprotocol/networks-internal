@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "8j5SzQVNaYz11S4P3KJHeKMhNZL8A87lKRQDW/epr0U=": {
+        "avatar_url": "https://www.gravatar.com/avatar/knp3i9ogpfrkwyjmtoh10to95hphsm6z?d=identicon",
+        "country": "QU",
+        "ethereum_address": "0xcede245556305F8FDfCdc05D0C15F30c496553cA",
+        "id": "2f2ba598976e68a69ea1bd408a1e6b67f196d997d0510a9aa1162f2fbb4edeef",
+        "info_url": "https://en.wikipedia.org/wiki/Leemore_Dafny",
+        "name": "bored-hat",
+        "tm_pub_key": "8j5SzQVNaYz11S4P3KJHeKMhNZL8A87lKRQDW/epr0U=",
+        "vega_pub_key": "a1fea26058a67f406d7c9d59b704232f0ef235001ddbd2ee6da6504d21c1ad50",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "sl8sqa5Sj+XZrOC71BgSl8rywzjnkCIHFCLuL7hLg+E=": {
-        "avatar_url": "https://www.gravatar.com/avatar/rzrw1j7zuepnx94inqy9j8bvp1r069xd?d=identicon",
-        "country": "ML",
-        "ethereum_address": "0x1cAa319d3909DB27B6FC7a4C42A32aCD8A43F335",
-        "id": "2a742ca7d54233c8e4182dcd0487d21c7b85a1fd238f25dd3fa72c68fbb83e5b",
-        "info_url": "https://en.wikipedia.org/wiki/Abu_Hana",
-        "name": "impressionable-flowers",
-        "tm_pub_key": "sl8sqa5Sj+XZrOC71BgSl8rywzjnkCIHFCLuL7hLg+E=",
-        "vega_pub_key": "cd42a693a67b5080ea00a2054d6d6ae014a06984af36469abfd09320914534b1",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310040936",
+  "chain_id": "vega-devnet1-202310041147",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-04T09:36:34.265990804Z",
+  "genesis_time": "2023-10-04T11:47:50.885869272Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "6755A1A9E6586C7CAF87CD26FD535997AF36ACAE",
-      "name": "impressionable-flowers",
+      "address": "AD727C46E4EE01CA190BA2F475500681BCAB29AE",
+      "name": "bored-hat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "sl8sqa5Sj+XZrOC71BgSl8rywzjnkCIHFCLuL7hLg+E="
+        "value": "8j5SzQVNaYz11S4P3KJHeKMhNZL8A87lKRQDW/epr0U="
       }
     }
   ]
