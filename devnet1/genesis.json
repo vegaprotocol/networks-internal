@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "30QpJYEG5uctgLzGuf2gR1SMHcWJMqX98sq+dyTaihU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/txcdkdit0tdfxd4kl52jcz9myt6x06x5?d=identicon",
-        "country": "OO",
-        "ethereum_address": "0x6346b727052b07A3d3Ab70D33787d15633553800",
-        "id": "e148d833aa04597700a1b140808db06e4ce02be875822f220185fdd6371dc85f",
-        "info_url": "https://en.wikipedia.org/wiki/Rocky_Creek_(Oregon)",
-        "name": "alert-pizza",
-        "tm_pub_key": "30QpJYEG5uctgLzGuf2gR1SMHcWJMqX98sq+dyTaihU=",
-        "vega_pub_key": "b1b40e7ee5edfabaf1c081af622b4560ce5aa847bb1d51965c221b01b76cc09f",
+      "T5IlIoWJdoQw9Kp5p6Y7uTRyQPyaPQzZDMyMe7auQHA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/fp63asw4oniho0euwi0ehgvt3qr20pjl?d=identicon",
+        "country": "LI",
+        "ethereum_address": "0x7365b4eF3e37ec23964b420E445d44970e357180",
+        "id": "1f436b27af43fc0ef59375c6c666ad23c898aa70ee2afbc5691b68c286e96e92",
+        "info_url": "https://en.wikipedia.org/wiki/2018%E2%80%9319_I_liga",
+        "name": "opportune-doctor",
+        "tm_pub_key": "T5IlIoWJdoQw9Kp5p6Y7uTRyQPyaPQzZDMyMe7auQHA=",
+        "vega_pub_key": "830a2e3c320896ec259ce60a9aed442d95ee523bcee2c1ab37e3b28ed1919a06",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310041330",
+  "chain_id": "vega-devnet1-202310041429",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-04T13:30:37.655718642Z",
+  "genesis_time": "2023-10-04T14:29:05.318129133Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "93A7B564DE5669F6C413EF4C939A59092009FDC6",
-      "name": "alert-pizza",
+      "address": "C6609AB3CF6E9C17BCA601EC3F4399AB239E795A",
+      "name": "opportune-doctor",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "30QpJYEG5uctgLzGuf2gR1SMHcWJMqX98sq+dyTaihU="
+        "value": "T5IlIoWJdoQw9Kp5p6Y7uTRyQPyaPQzZDMyMe7auQHA="
       }
     }
   ]
