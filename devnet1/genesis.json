@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "+N6HDhY8npVbDC8VCubMC0QmUoIqXVAqgOSQ0OfO520=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ubfgq195xjj7m9nhqqe4iqfr93wt64w8?d=identicon",
+        "country": "XF",
+        "ethereum_address": "0x304eB235b92172883474c8625EA25b784f943504",
+        "id": "d25f0e3e29667527166bdbe471b5e34d5a3f1daed886e97642da2c8307ffca69",
+        "info_url": "https://en.wikipedia.org/wiki/Brett_Denevi",
+        "name": "fluky-mouse",
+        "tm_pub_key": "+N6HDhY8npVbDC8VCubMC0QmUoIqXVAqgOSQ0OfO520=",
+        "vega_pub_key": "1fa72ffe5c43a2e6c13d7b236562938c2aaf327f026efd7e8810f413bbf09028",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "gYbQsH8f4FwPtqQAzwxfxKuYu50D325ibKX/9vCurUw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/cdalht3rzgb5k1siqnwjrkvj3i165l9s?d=identicon",
-        "country": "BC",
-        "ethereum_address": "0x03Dd545E47529bdB517ee8d2911728D92bcAD373",
-        "id": "7596cfbac974ef08a2801cbb29135187f65b473936e13770675ab3db4953a096",
-        "info_url": "https://en.wikipedia.org/wiki/Jean_Maynier",
-        "name": "high-car",
-        "tm_pub_key": "gYbQsH8f4FwPtqQAzwxfxKuYu50D325ibKX/9vCurUw=",
-        "vega_pub_key": "1346757085ffa6c0b6818a63d471438759e1fe4b2f6e7aa60a2ad161f2d5eb5f",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310041619",
+  "chain_id": "vega-devnet1-202310051411",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-04T16:19:16.996385267Z",
+  "genesis_time": "2023-10-05T14:11:18.702318887Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "98514233BF99F699DAE69881A82D164BE68FB11A",
-      "name": "high-car",
+      "address": "6023091084436FB72E5410C6EA66EE59495F69A0",
+      "name": "fluky-mouse",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "gYbQsH8f4FwPtqQAzwxfxKuYu50D325ibKX/9vCurUw="
+        "value": "+N6HDhY8npVbDC8VCubMC0QmUoIqXVAqgOSQ0OfO520="
       }
     }
   ]
