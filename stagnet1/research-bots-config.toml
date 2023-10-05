@@ -15,13 +15,14 @@ repository = "vegaprotocol/vega"
 artifact_name = "vega"
 download_wallet_binary = true
 auto_version = true
-tokens_file = "/opt/wallets-mount/wallet-info.json"
 
 wallet_name = "vegamarketsim"
 network_name = "stagnet1"
 binary = "vega" # vega binary, as we use vega wallet command
-home = "/opt/wallets-mount" # mounted from the host
+home = "/opt/wallets-mount/wallethome"
 passphrase_file = "./assets/passphrase.txt"
+tokens_file = "/opt/wallets-mount/wallet-info.json"
+state_file = "/opt/wallets-mount/wallet-state.json"
 
 # [scenario.btcusdt_230630]
 #     market_name = "BTC/USDT expiry 2023 June 30th"
