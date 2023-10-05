@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "+N6HDhY8npVbDC8VCubMC0QmUoIqXVAqgOSQ0OfO520=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ubfgq195xjj7m9nhqqe4iqfr93wt64w8?d=identicon",
-        "country": "XF",
-        "ethereum_address": "0x304eB235b92172883474c8625EA25b784f943504",
-        "id": "d25f0e3e29667527166bdbe471b5e34d5a3f1daed886e97642da2c8307ffca69",
-        "info_url": "https://en.wikipedia.org/wiki/Brett_Denevi",
-        "name": "fluky-mouse",
-        "tm_pub_key": "+N6HDhY8npVbDC8VCubMC0QmUoIqXVAqgOSQ0OfO520=",
-        "vega_pub_key": "1fa72ffe5c43a2e6c13d7b236562938c2aaf327f026efd7e8810f413bbf09028",
+      "T/SrbCaiBIYAAKRlMaXq2Yswyu0lOzaduDUu4aM8nkc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/hwd5jzom6gq2ow9g481yafe4a3bt7u69?d=identicon",
+        "country": "QO",
+        "ethereum_address": "0x67142E66D5F886a03a8496b8A79dF02b5276b5bF",
+        "id": "8f86c7ccf52e2dce793bc205fd36d9bec6326873a4984a6a2ec35c730c2ee155",
+        "info_url": "https://en.wikipedia.org/wiki/Mui_tsai",
+        "name": "thundering-building",
+        "tm_pub_key": "T/SrbCaiBIYAAKRlMaXq2Yswyu0lOzaduDUu4aM8nkc=",
+        "vega_pub_key": "037c51d409d5555646ab7c4af98e4dc03a1bba42fbd9cb33fe733eb2f39d8c24",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310051411",
+  "chain_id": "vega-devnet1-202310051505",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-05T14:11:18.702318887Z",
+  "genesis_time": "2023-10-05T15:05:26.163419111Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "6023091084436FB72E5410C6EA66EE59495F69A0",
-      "name": "fluky-mouse",
+      "address": "29E5C8114EADFE7434ECE6905B8AF7D62FDC20EA",
+      "name": "thundering-building",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "+N6HDhY8npVbDC8VCubMC0QmUoIqXVAqgOSQ0OfO520="
+        "value": "T/SrbCaiBIYAAKRlMaXq2Yswyu0lOzaduDUu4aM8nkc="
       }
     }
   ]
