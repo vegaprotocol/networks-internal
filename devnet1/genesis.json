@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "T/SrbCaiBIYAAKRlMaXq2Yswyu0lOzaduDUu4aM8nkc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/hwd5jzom6gq2ow9g481yafe4a3bt7u69?d=identicon",
-        "country": "QO",
-        "ethereum_address": "0x67142E66D5F886a03a8496b8A79dF02b5276b5bF",
-        "id": "8f86c7ccf52e2dce793bc205fd36d9bec6326873a4984a6a2ec35c730c2ee155",
-        "info_url": "https://en.wikipedia.org/wiki/Mui_tsai",
-        "name": "thundering-building",
-        "tm_pub_key": "T/SrbCaiBIYAAKRlMaXq2Yswyu0lOzaduDUu4aM8nkc=",
-        "vega_pub_key": "037c51d409d5555646ab7c4af98e4dc03a1bba42fbd9cb33fe733eb2f39d8c24",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "Z+4Q8wPNarwBdngeoicmDA1MxcLqEFh9+rG1mtY7dfE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ih7z0i9s3yjbctw2ll3pnmgbkrua972v?d=identicon",
+        "country": "XZ",
+        "ethereum_address": "0x51fBb5bceDF125E350E1b59B095dD2CA38eC5443",
+        "id": "d103e105d4a7297dfd88a7502ff1fc05ff00610f12afbf3e2c4c3f3d7a3ffea2",
+        "info_url": "https://en.wikipedia.org/wiki/Maple_Leaf_Mills_Silos",
+        "name": "quizzical-phone",
+        "tm_pub_key": "Z+4Q8wPNarwBdngeoicmDA1MxcLqEFh9+rG1mtY7dfE=",
+        "vega_pub_key": "bd918517bfb5b7912e90748615369abf3fb73f8aa9c46b472b435b1cde4b6086",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310051505",
+  "chain_id": "vega-devnet1-202310060717",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-05T15:05:26.163419111Z",
+  "genesis_time": "2023-10-06T07:17:08.656754797Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "29E5C8114EADFE7434ECE6905B8AF7D62FDC20EA",
-      "name": "thundering-building",
+      "address": "8C7FA6E3FBE545E4AE650D05171D38D58D14FF13",
+      "name": "quizzical-phone",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "T/SrbCaiBIYAAKRlMaXq2Yswyu0lOzaduDUu4aM8nkc="
+        "value": "Z+4Q8wPNarwBdngeoicmDA1MxcLqEFh9+rG1mtY7dfE="
       }
     }
   ]
