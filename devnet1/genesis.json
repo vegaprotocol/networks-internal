@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "leRUbsFtUOiJkCl97owRtI7SyyzFbml/KcsKz8CFuQU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/2ohmvrd51j03aqajrybsr0f5rq81bobr?d=identicon",
-        "country": "UR",
-        "ethereum_address": "0xAd03f7914874972862eD05D87faB284c955EAE9F",
-        "id": "6a278018a4485fc93e920ef74c324184086c05dd0a0fbf593a3e32851ca4f97f",
-        "info_url": "https://en.wikipedia.org/wiki/Samson_Fran%C3%A7ois",
-        "name": "dead-apple",
-        "tm_pub_key": "leRUbsFtUOiJkCl97owRtI7SyyzFbml/KcsKz8CFuQU=",
-        "vega_pub_key": "772a7d7c5bb2bc75b6fcff6a65bc159a3e516f1212a576eb21e37c6fe13b1e2e",
+      "Z3t4yjvUOExVGFo2AdKBBQY1JEmv42mIg/E+Zr7jMVs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/afj7he5urdj49v68vss5n838qk5kirdi?d=identicon",
+        "country": "SR",
+        "ethereum_address": "0x51967C572426446BB8E6D80804a942da6BBa9672",
+        "id": "5dd36d54798c4accdafcbf39357f49a5404b402adaffb40e3faaa31e20a4e46c",
+        "info_url": "https://en.wikipedia.org/wiki/2016_Baton_Rouge_mayoral_election",
+        "name": "vast-spoon",
+        "tm_pub_key": "Z3t4yjvUOExVGFo2AdKBBQY1JEmv42mIg/E+Zr7jMVs=",
+        "vega_pub_key": "0d09e4c17a52dd697ed85470c1257fe54775a02f94a9d292eb519037b78e6595",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310060836",
+  "chain_id": "vega-devnet1-202310060918",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-06T08:36:35.592286949Z",
+  "genesis_time": "2023-10-06T09:18:21.859331159Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "650E96371C8A6BFE9C6E839778F89B9E10C3238B",
-      "name": "dead-apple",
+      "address": "C07CB447CC42C160C8521A2100523B69FAE85C5D",
+      "name": "vast-spoon",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "leRUbsFtUOiJkCl97owRtI7SyyzFbml/KcsKz8CFuQU="
+        "value": "Z3t4yjvUOExVGFo2AdKBBQY1JEmv42mIg/E+Zr7jMVs="
       }
     }
   ]
