@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "2+bG7LJ2v2CWxJHE4GW/8felXMXizH7Ekvy0pJmJkGw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/obg756hy01c8a18r5ke8ejoeug1ol9ei?d=identicon",
+        "country": "FA",
+        "ethereum_address": "0x5AdE5E0e42A4407A797E180BC338b96fFd81fd78",
+        "id": "c7be338c44c9f80188cb341ba2f257396afe9bb359fa465448fca11f49941089",
+        "info_url": "https://en.wikipedia.org/wiki/Alonnisos_shipwreck",
+        "name": "stocky-tile",
+        "tm_pub_key": "2+bG7LJ2v2CWxJHE4GW/8felXMXizH7Ekvy0pJmJkGw=",
+        "vega_pub_key": "968aebc482c3f8064e5da447e6ae6eefb1bbdc8016f14bd8353998ebfd5d09a7",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "Z3t4yjvUOExVGFo2AdKBBQY1JEmv42mIg/E+Zr7jMVs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/afj7he5urdj49v68vss5n838qk5kirdi?d=identicon",
-        "country": "SR",
-        "ethereum_address": "0x51967C572426446BB8E6D80804a942da6BBa9672",
-        "id": "5dd36d54798c4accdafcbf39357f49a5404b402adaffb40e3faaa31e20a4e46c",
-        "info_url": "https://en.wikipedia.org/wiki/2016_Baton_Rouge_mayoral_election",
-        "name": "vast-spoon",
-        "tm_pub_key": "Z3t4yjvUOExVGFo2AdKBBQY1JEmv42mIg/E+Zr7jMVs=",
-        "vega_pub_key": "0d09e4c17a52dd697ed85470c1257fe54775a02f94a9d292eb519037b78e6595",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310060918",
+  "chain_id": "vega-devnet1-202310061247",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-06T09:18:21.859331159Z",
+  "genesis_time": "2023-10-06T12:47:45.882034306Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "C07CB447CC42C160C8521A2100523B69FAE85C5D",
-      "name": "vast-spoon",
+      "address": "F86312538075E0721BE23ECC90A7D7DA514BF127",
+      "name": "stocky-tile",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Z3t4yjvUOExVGFo2AdKBBQY1JEmv42mIg/E+Zr7jMVs="
+        "value": "2+bG7LJ2v2CWxJHE4GW/8felXMXizH7Ekvy0pJmJkGw="
       }
     }
   ]
