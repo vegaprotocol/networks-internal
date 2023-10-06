@@ -292,6 +292,17 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
+      "Wonp3KubA0bWknNVQcb0+/vtv8pay8ARq7TVNtD8OWE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/w2ywwxjwixkmm3gb6r0330qm886xeqxb?d=identicon",
+        "country": "XN",
+        "ethereum_address": "0xFE4C39bc18acAb5009d524918E909be61a8cb9B6",
+        "id": "7783993c6ce42654acc4365d1a2c1ecb2415eebb804fd89c6d87b069af1a7040",
+        "info_url": "https://en.wikipedia.org/wiki/George_Barger",
+        "name": "magnificent-fisherman",
+        "tm_pub_key": "Wonp3KubA0bWknNVQcb0+/vtv8pay8ARq7TVNtD8OWE=",
+        "vega_pub_key": "38df3d64a2f3db8e1664948089d3ee56f88ffb36731dc1fa00107d88d7f65d79",
+        "vega_pub_key_index": 1
+      },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
         "avatar_url": "https://www.gravatar.com/avatar/14wh06jhnafyxu5ea1p41y8972c1flw0?d=identicon",
         "country": "QX",
@@ -313,21 +324,10 @@
         "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
-      },
-      "xh2V1J2WYpyU26UlPD5he9FTf0x9EjjGr0pb/TXLbxc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/l6w52r14x6tii6bzyfr8t7hgp7k7d1ol?d=identicon",
-        "country": "QL",
-        "ethereum_address": "0x43c22e75E27B48D0b0FEBB64C4246be3cA65FE29",
-        "id": "76d0857ddde169ff8ffd0ff5294b4e205fa8b6ae9cf5f8e66f6479a773a2c14c",
-        "info_url": "https://en.wikipedia.org/wiki/Thomas_L%C3%BCscher",
-        "name": "frantic-vacuum",
-        "tm_pub_key": "xh2V1J2WYpyU26UlPD5he9FTf0x9EjjGr0pb/TXLbxc=",
-        "vega_pub_key": "b134bb5b08a19ea259df6f8c66e2c7b183014d84a90919728fde4a08109e7a37",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202310061343",
+  "chain_id": "vega-devnet1-202310061411",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-06T13:43:41.715992846Z",
+  "genesis_time": "2023-10-06T14:11:43.804352779Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "299B39E124BCC656D5A00F61F989B89083CC1333",
-      "name": "frantic-vacuum",
+      "address": "73BE66EBB125266F92DC9CA378D3896B431F3996",
+      "name": "magnificent-fisherman",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "xh2V1J2WYpyU26UlPD5he9FTf0x9EjjGr0pb/TXLbxc="
+        "value": "Wonp3KubA0bWknNVQcb0+/vtv8pay8ARq7TVNtD8OWE="
       }
     }
   ]
