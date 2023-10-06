@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "/s3ik7LjK2VjstCL3Q/Q+fKnnKw2SB/mUaLAGyJzpzk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/k0gt7vkjscunxn5mbdducju4yy4eyu4x?d=identicon",
+        "country": "AZ",
+        "ethereum_address": "0x23A614568Deb395B83855EdBFA5E96b6DB55B05D",
+        "id": "b3bac92519a9449ad9c8caf0b1c9620efe890caae8c6f9e2c141de277730a814",
+        "info_url": "https://en.wikipedia.org/wiki/Pooja_Entertainment",
+        "name": "promising-bird",
+        "tm_pub_key": "/s3ik7LjK2VjstCL3Q/Q+fKnnKw2SB/mUaLAGyJzpzk=",
+        "vega_pub_key": "eaefba9e2f67e223169fa655857b2b185c66d0d17383281fe76a33ee0dfdd0ca",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "Wonp3KubA0bWknNVQcb0+/vtv8pay8ARq7TVNtD8OWE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/w2ywwxjwixkmm3gb6r0330qm886xeqxb?d=identicon",
-        "country": "XN",
-        "ethereum_address": "0xFE4C39bc18acAb5009d524918E909be61a8cb9B6",
-        "id": "7783993c6ce42654acc4365d1a2c1ecb2415eebb804fd89c6d87b069af1a7040",
-        "info_url": "https://en.wikipedia.org/wiki/George_Barger",
-        "name": "magnificent-fisherman",
-        "tm_pub_key": "Wonp3KubA0bWknNVQcb0+/vtv8pay8ARq7TVNtD8OWE=",
-        "vega_pub_key": "38df3d64a2f3db8e1664948089d3ee56f88ffb36731dc1fa00107d88d7f65d79",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310061431",
+  "chain_id": "vega-devnet1-202310061508",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-06T14:31:55.013335456Z",
+  "genesis_time": "2023-10-06T15:08:03.214601177Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "73BE66EBB125266F92DC9CA378D3896B431F3996",
-      "name": "magnificent-fisherman",
+      "address": "724229E04BCA52B3B1CAD8D0213AC83BAA79B264",
+      "name": "promising-bird",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Wonp3KubA0bWknNVQcb0+/vtv8pay8ARq7TVNtD8OWE="
+        "value": "/s3ik7LjK2VjstCL3Q/Q+fKnnKw2SB/mUaLAGyJzpzk="
       }
     }
   ]
