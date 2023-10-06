@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "Z+4Q8wPNarwBdngeoicmDA1MxcLqEFh9+rG1mtY7dfE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ih7z0i9s3yjbctw2ll3pnmgbkrua972v?d=identicon",
-        "country": "XZ",
-        "ethereum_address": "0x51fBb5bceDF125E350E1b59B095dD2CA38eC5443",
-        "id": "d103e105d4a7297dfd88a7502ff1fc05ff00610f12afbf3e2c4c3f3d7a3ffea2",
-        "info_url": "https://en.wikipedia.org/wiki/Maple_Leaf_Mills_Silos",
-        "name": "quizzical-phone",
-        "tm_pub_key": "Z+4Q8wPNarwBdngeoicmDA1MxcLqEFh9+rG1mtY7dfE=",
-        "vega_pub_key": "bd918517bfb5b7912e90748615369abf3fb73f8aa9c46b472b435b1cde4b6086",
+      "leRUbsFtUOiJkCl97owRtI7SyyzFbml/KcsKz8CFuQU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/2ohmvrd51j03aqajrybsr0f5rq81bobr?d=identicon",
+        "country": "UR",
+        "ethereum_address": "0xAd03f7914874972862eD05D87faB284c955EAE9F",
+        "id": "6a278018a4485fc93e920ef74c324184086c05dd0a0fbf593a3e32851ca4f97f",
+        "info_url": "https://en.wikipedia.org/wiki/Samson_Fran%C3%A7ois",
+        "name": "dead-apple",
+        "tm_pub_key": "leRUbsFtUOiJkCl97owRtI7SyyzFbml/KcsKz8CFuQU=",
+        "vega_pub_key": "772a7d7c5bb2bc75b6fcff6a65bc159a3e516f1212a576eb21e37c6fe13b1e2e",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310060717",
+  "chain_id": "vega-devnet1-202310060836",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-06T07:17:08.656754797Z",
+  "genesis_time": "2023-10-06T08:36:35.592286949Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "8C7FA6E3FBE545E4AE650D05171D38D58D14FF13",
-      "name": "quizzical-phone",
+      "address": "650E96371C8A6BFE9C6E839778F89B9E10C3238B",
+      "name": "dead-apple",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Z+4Q8wPNarwBdngeoicmDA1MxcLqEFh9+rG1mtY7dfE="
+        "value": "leRUbsFtUOiJkCl97owRtI7SyyzFbml/KcsKz8CFuQU="
       }
     }
   ]
