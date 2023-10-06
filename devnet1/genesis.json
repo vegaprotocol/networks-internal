@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "2+bG7LJ2v2CWxJHE4GW/8felXMXizH7Ekvy0pJmJkGw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/obg756hy01c8a18r5ke8ejoeug1ol9ei?d=identicon",
-        "country": "FA",
-        "ethereum_address": "0x5AdE5E0e42A4407A797E180BC338b96fFd81fd78",
-        "id": "c7be338c44c9f80188cb341ba2f257396afe9bb359fa465448fca11f49941089",
-        "info_url": "https://en.wikipedia.org/wiki/Alonnisos_shipwreck",
-        "name": "stocky-tile",
-        "tm_pub_key": "2+bG7LJ2v2CWxJHE4GW/8felXMXizH7Ekvy0pJmJkGw=",
-        "vega_pub_key": "968aebc482c3f8064e5da447e6ae6eefb1bbdc8016f14bd8353998ebfd5d09a7",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -324,10 +313,21 @@
         "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
+      },
+      "xh2V1J2WYpyU26UlPD5he9FTf0x9EjjGr0pb/TXLbxc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/l6w52r14x6tii6bzyfr8t7hgp7k7d1ol?d=identicon",
+        "country": "QL",
+        "ethereum_address": "0x43c22e75E27B48D0b0FEBB64C4246be3cA65FE29",
+        "id": "76d0857ddde169ff8ffd0ff5294b4e205fa8b6ae9cf5f8e66f6479a773a2c14c",
+        "info_url": "https://en.wikipedia.org/wiki/Thomas_L%C3%BCscher",
+        "name": "frantic-vacuum",
+        "tm_pub_key": "xh2V1J2WYpyU26UlPD5he9FTf0x9EjjGr0pb/TXLbxc=",
+        "vega_pub_key": "b134bb5b08a19ea259df6f8c66e2c7b183014d84a90919728fde4a08109e7a37",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202310061247",
+  "chain_id": "vega-devnet1-202310061343",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-06T12:47:45.882034306Z",
+  "genesis_time": "2023-10-06T13:43:41.715992846Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "F86312538075E0721BE23ECC90A7D7DA514BF127",
-      "name": "stocky-tile",
+      "address": "299B39E124BCC656D5A00F61F989B89083CC1333",
+      "name": "frantic-vacuum",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "2+bG7LJ2v2CWxJHE4GW/8felXMXizH7Ekvy0pJmJkGw="
+        "value": "xh2V1J2WYpyU26UlPD5he9FTf0x9EjjGr0pb/TXLbxc="
       }
     }
   ]
