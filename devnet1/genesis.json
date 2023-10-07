@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "/s3ik7LjK2VjstCL3Q/Q+fKnnKw2SB/mUaLAGyJzpzk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/k0gt7vkjscunxn5mbdducju4yy4eyu4x?d=identicon",
-        "country": "AZ",
-        "ethereum_address": "0x23A614568Deb395B83855EdBFA5E96b6DB55B05D",
-        "id": "b3bac92519a9449ad9c8caf0b1c9620efe890caae8c6f9e2c141de277730a814",
-        "info_url": "https://en.wikipedia.org/wiki/Pooja_Entertainment",
-        "name": "promising-bird",
-        "tm_pub_key": "/s3ik7LjK2VjstCL3Q/Q+fKnnKw2SB/mUaLAGyJzpzk=",
-        "vega_pub_key": "eaefba9e2f67e223169fa655857b2b185c66d0d17383281fe76a33ee0dfdd0ca",
+      "2djCDjP8f1C5Hh6X9Gq9jyz3WznvvGrBiYeq3GsqFgU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/yfimgnhxtemitazarxz3tazyah4vh3n7?d=identicon",
+        "country": "XF",
+        "ethereum_address": "0xC6be978e366E89BbF2ffD8065A013a9A1d92E08A",
+        "id": "4bdf308e4c4a42c3884e01e461d9eea947262d218727f96e907929197f73bd08",
+        "info_url": "https://en.wikipedia.org/wiki/Mark_Blackburn_(numismatist)",
+        "name": "red-building",
+        "tm_pub_key": "2djCDjP8f1C5Hh6X9Gq9jyz3WznvvGrBiYeq3GsqFgU=",
+        "vega_pub_key": "f34e8b80473e1e5176fd86e20e5a488849a40513ac9382547000c6f7276bb8a2",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310061508",
+  "chain_id": "vega-devnet1-202310070903",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-06T15:08:03.214601177Z",
+  "genesis_time": "2023-10-07T09:03:02.287932672Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "724229E04BCA52B3B1CAD8D0213AC83BAA79B264",
-      "name": "promising-bird",
+      "address": "8B3CAE5DAFBD6F25DD04323DC408E4B9525E652A",
+      "name": "red-building",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "/s3ik7LjK2VjstCL3Q/Q+fKnnKw2SB/mUaLAGyJzpzk="
+        "value": "2djCDjP8f1C5Hh6X9Gq9jyz3WznvvGrBiYeq3GsqFgU="
       }
     }
   ]
