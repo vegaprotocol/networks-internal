@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "2djCDjP8f1C5Hh6X9Gq9jyz3WznvvGrBiYeq3GsqFgU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/yfimgnhxtemitazarxz3tazyah4vh3n7?d=identicon",
-        "country": "XF",
-        "ethereum_address": "0xC6be978e366E89BbF2ffD8065A013a9A1d92E08A",
-        "id": "4bdf308e4c4a42c3884e01e461d9eea947262d218727f96e907929197f73bd08",
-        "info_url": "https://en.wikipedia.org/wiki/Mark_Blackburn_(numismatist)",
-        "name": "red-building",
-        "tm_pub_key": "2djCDjP8f1C5Hh6X9Gq9jyz3WznvvGrBiYeq3GsqFgU=",
-        "vega_pub_key": "f34e8b80473e1e5176fd86e20e5a488849a40513ac9382547000c6f7276bb8a2",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -324,10 +313,21 @@
         "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
+      },
+      "zW4ceJos6wWA9QamisDMDqlNyClhltenIO0BM2BaOD4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ylldxcy7nhillf9d92a4lc48326l2ljm?d=identicon",
+        "country": "JC",
+        "ethereum_address": "0x23075b061551e8dA03F415abf40bF05CD0Ec8022",
+        "id": "9defacbb471e6a046e6b13f90c8ebfaf3c3beb56ab11fdb3e4eb322f350cd4a8",
+        "info_url": "https://en.wikipedia.org/wiki/Holbeton",
+        "name": "opportune-cat",
+        "tm_pub_key": "zW4ceJos6wWA9QamisDMDqlNyClhltenIO0BM2BaOD4=",
+        "vega_pub_key": "77d038cded6dd35e4d890c597a552ce52dc7966b394f9f1f893af492182b2e64",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202310070903",
+  "chain_id": "vega-devnet1-202310080014",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-07T09:03:02.287932672Z",
+  "genesis_time": "2023-10-08T00:14:44.992920752Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "8B3CAE5DAFBD6F25DD04323DC408E4B9525E652A",
-      "name": "red-building",
+      "address": "6D874FB07177D75FEFD9B93EBF8AD5C8B85906AF",
+      "name": "opportune-cat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "2djCDjP8f1C5Hh6X9Gq9jyz3WznvvGrBiYeq3GsqFgU="
+        "value": "zW4ceJos6wWA9QamisDMDqlNyClhltenIO0BM2BaOD4="
       }
     }
   ]
