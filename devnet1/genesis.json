@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "7pLue9Iw6tAaj6eMT3jicDbBEguFZoKVNISbiizPRwE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/c1na15rxr00bmappim8tp14f3ca3324q?d=identicon",
-        "country": "KU",
-        "ethereum_address": "0xC16Fed45B0B56d5138c07e8b3cd92B16B875Cc1B",
-        "id": "104345e1b008f4993ed92e483d4e9e583e3a67c2be1fdf673105b0fb44a58d54",
-        "info_url": "https://en.wikipedia.org/wiki/Kilien_Stengel",
-        "name": "loose-doctor",
-        "tm_pub_key": "7pLue9Iw6tAaj6eMT3jicDbBEguFZoKVNISbiizPRwE=",
-        "vega_pub_key": "8401c887766749d22a9faeb27bcb797314950dbad6fa38dc35f9c5f38709eb6d",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "ZvYWi8JJcdyOQYEVD2qWkHS8To19aHGLYHhMIj873iM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/qq3vg1dn64whhsxf6owsqvx3nxwsgmy7?d=identicon",
+        "country": "ER",
+        "ethereum_address": "0xEC91D783578a853c104146472A34626AefA73B23",
+        "id": "2b5dcfa37551fbb15d6f1b93602b21d63f2c54e58d8f6a873e34ba0c7a4132d4",
+        "info_url": "https://en.wikipedia.org/wiki/1958%E2%80%9359_AHL_season",
+        "name": "icy-park",
+        "tm_pub_key": "ZvYWi8JJcdyOQYEVD2qWkHS8To19aHGLYHhMIj873iM=",
+        "vega_pub_key": "1f02e278f03b0bc47bd6e749a74390ae7d4d6cad515cbc18b435c85963fba888",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310091308",
+  "chain_id": "vega-devnet1-202310091412",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-09T13:08:01.805788143Z",
+  "genesis_time": "2023-10-09T14:12:12.05597463Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "BFDD1F2F02107AD7724BBF5B6CF4EC6A07484B62",
-      "name": "loose-doctor",
+      "address": "0892E464D0DA51BAF08DE5EE7FF51CD7F8568D0E",
+      "name": "icy-park",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "7pLue9Iw6tAaj6eMT3jicDbBEguFZoKVNISbiizPRwE="
+        "value": "ZvYWi8JJcdyOQYEVD2qWkHS8To19aHGLYHhMIj873iM="
       }
     }
   ]
