@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "G//xnCcBpFkGN7EX7iW2N4ATAbw8BJi2qqk6TLlONI4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/bkl6mcxb6pr2qsqkko1oxle0da2o4lv1?d=identicon",
-        "country": "AU",
-        "ethereum_address": "0xB0fb1Afa28bbE861D915D3266aDa00F7Be3F8D5B",
-        "id": "55f53f2edc1c5a4991ec92fc93d570d03a28a8718fa4f766d8a30816dfc2a46c",
-        "info_url": "https://en.wikipedia.org/wiki/Hillary_Clinton_2016_presidential_campaign",
-        "name": "icy-beach",
-        "tm_pub_key": "G//xnCcBpFkGN7EX7iW2N4ATAbw8BJi2qqk6TLlONI4=",
-        "vega_pub_key": "92455464230d95d0f2334a6b1b009b0c282c41c3e30953e9ce148816a266f728",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -324,10 +313,21 @@
         "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
+      },
+      "whDUbZzwJD9uTQs2iju+obs2RyYs1FHDaJoZsRW6pnc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/9gtb2xs48gwbz3a2ulavgt8w4kg3qtln?d=identicon",
+        "country": "CR",
+        "ethereum_address": "0x99E7dCeDD28D9B209aD185a94E0050dfe44D3454",
+        "id": "20a22f5e2b58f3bbf4e2b525b4264f999ea4f6edb7a2fffea5dc48223f275ac7",
+        "info_url": "https://en.wikipedia.org/wiki/Kevin_Bradfield",
+        "name": "confused-book",
+        "tm_pub_key": "whDUbZzwJD9uTQs2iju+obs2RyYs1FHDaJoZsRW6pnc=",
+        "vega_pub_key": "6e1751dc038aff9d90c5b564defa3dbf01c58b4419bab1f05870f31eca5aa994",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202310091559",
+  "chain_id": "vega-devnet1-202310091630",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-09T15:59:11.91715615Z",
+  "genesis_time": "2023-10-09T16:30:43.23491136Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "F57A8903A5557BDF8901B4837CD8B9FA32C2BCBE",
-      "name": "icy-beach",
+      "address": "D9B071F1ADC45B2BCA40B185935598F4FC5DEF29",
+      "name": "confused-book",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "G//xnCcBpFkGN7EX7iW2N4ATAbw8BJi2qqk6TLlONI4="
+        "value": "whDUbZzwJD9uTQs2iju+obs2RyYs1FHDaJoZsRW6pnc="
       }
     }
   ]
