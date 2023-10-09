@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "G1+/PR0QOLTk3iv48AQoOkwk3xbqAAbd2OsI//fgmIw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/1tn62s7ei3gzsdzznz4spjr1zcwdc5io?d=identicon",
-        "country": "EC",
-        "ethereum_address": "0x23e97D1fBAf0C1DDDDD9D87E05FB997296978D57",
-        "id": "ad36586b3fc376f7efc79db4608b4e167eae0c2896bacd2bd5f903298e267655",
-        "info_url": "https://en.wikipedia.org/wiki/Redcliffs",
-        "name": "fuzzy-bed",
-        "tm_pub_key": "G1+/PR0QOLTk3iv48AQoOkwk3xbqAAbd2OsI//fgmIw=",
-        "vega_pub_key": "20548288d079aaa9142ad2fc9678f2d02db8e43a0cd299b0c7e43c6cf5723b70",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "su9GXhd+lUu8GQJ5l/FbfY+nHjQpI3d+rNuEouVevCY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/080wmiotgfsnmyt0c1o015kvde81iid9?d=identicon",
+        "country": "UI",
+        "ethereum_address": "0xd1292aDc2C45349658fd0d39D661994FcFB14CAB",
+        "id": "53dc29941bb9bf5336569b19eb6bc7da451864f41b742a9bf60046eb5a551867",
+        "info_url": "https://en.wikipedia.org/wiki/Gberu",
+        "name": "odd-tree",
+        "tm_pub_key": "su9GXhd+lUu8GQJ5l/FbfY+nHjQpI3d+rNuEouVevCY=",
+        "vega_pub_key": "b07d6408056afc9faef31e86469ffff9b45f3348f7f4f93510f3e5ee90812e04",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310081205",
+  "chain_id": "vega-devnet1-202310090912",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-08T12:05:08.944432148Z",
+  "genesis_time": "2023-10-09T09:12:50.376918224Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "A8A2B8A1F486A4BD21758FB6D17F4A33A79B1067",
-      "name": "fuzzy-bed",
+      "address": "856D1A5A0B03112727CE09CA596013E51D375421",
+      "name": "odd-tree",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "G1+/PR0QOLTk3iv48AQoOkwk3xbqAAbd2OsI//fgmIw="
+        "value": "su9GXhd+lUu8GQJ5l/FbfY+nHjQpI3d+rNuEouVevCY="
       }
     }
   ]
