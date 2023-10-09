@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "AmMOeDbWssmMKNlTZ7m/WYNoElnBqBgacFsrJRkLVQM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/gvrcg20sfyny1v28s3i0yrf7f64zg58k?d=identicon",
-        "country": "CC",
-        "ethereum_address": "0xBE43CAF2E6f4993b4f7B3a47971f9E814b15e0a0",
-        "id": "787370515f105f6780b2f153f7fa3a50c7c2c5b0e5aca77dfeb6096fa37a92a1",
-        "info_url": "https://en.wikipedia.org/wiki/2015_Korea_Open_%E2%80%93_Singles",
-        "name": "happy-barber",
-        "tm_pub_key": "AmMOeDbWssmMKNlTZ7m/WYNoElnBqBgacFsrJRkLVQM=",
-        "vega_pub_key": "ff5f3230e0f6c0f42aab0f75d1afb9adf2e912666ddeb53d74ae3fb9eb7201a2",
+      "7pLue9Iw6tAaj6eMT3jicDbBEguFZoKVNISbiizPRwE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/c1na15rxr00bmappim8tp14f3ca3324q?d=identicon",
+        "country": "KU",
+        "ethereum_address": "0xC16Fed45B0B56d5138c07e8b3cd92B16B875Cc1B",
+        "id": "104345e1b008f4993ed92e483d4e9e583e3a67c2be1fdf673105b0fb44a58d54",
+        "info_url": "https://en.wikipedia.org/wiki/Kilien_Stengel",
+        "name": "loose-doctor",
+        "tm_pub_key": "7pLue9Iw6tAaj6eMT3jicDbBEguFZoKVNISbiizPRwE=",
+        "vega_pub_key": "8401c887766749d22a9faeb27bcb797314950dbad6fa38dc35f9c5f38709eb6d",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310091016",
+  "chain_id": "vega-devnet1-202310091308",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-09T10:16:22.208076358Z",
+  "genesis_time": "2023-10-09T13:08:01.805788143Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "3619F4686E9F6C84ACE3C6159FCE42136963AA0A",
-      "name": "happy-barber",
+      "address": "BFDD1F2F02107AD7724BBF5B6CF4EC6A07484B62",
+      "name": "loose-doctor",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "AmMOeDbWssmMKNlTZ7m/WYNoElnBqBgacFsrJRkLVQM="
+        "value": "7pLue9Iw6tAaj6eMT3jicDbBEguFZoKVNISbiizPRwE="
       }
     }
   ]
