@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "AmMOeDbWssmMKNlTZ7m/WYNoElnBqBgacFsrJRkLVQM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/gvrcg20sfyny1v28s3i0yrf7f64zg58k?d=identicon",
+        "country": "CC",
+        "ethereum_address": "0xBE43CAF2E6f4993b4f7B3a47971f9E814b15e0a0",
+        "id": "787370515f105f6780b2f153f7fa3a50c7c2c5b0e5aca77dfeb6096fa37a92a1",
+        "info_url": "https://en.wikipedia.org/wiki/2015_Korea_Open_%E2%80%93_Singles",
+        "name": "happy-barber",
+        "tm_pub_key": "AmMOeDbWssmMKNlTZ7m/WYNoElnBqBgacFsrJRkLVQM=",
+        "vega_pub_key": "ff5f3230e0f6c0f42aab0f75d1afb9adf2e912666ddeb53d74ae3fb9eb7201a2",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "su9GXhd+lUu8GQJ5l/FbfY+nHjQpI3d+rNuEouVevCY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/080wmiotgfsnmyt0c1o015kvde81iid9?d=identicon",
-        "country": "UI",
-        "ethereum_address": "0xd1292aDc2C45349658fd0d39D661994FcFB14CAB",
-        "id": "53dc29941bb9bf5336569b19eb6bc7da451864f41b742a9bf60046eb5a551867",
-        "info_url": "https://en.wikipedia.org/wiki/Gberu",
-        "name": "odd-tree",
-        "tm_pub_key": "su9GXhd+lUu8GQJ5l/FbfY+nHjQpI3d+rNuEouVevCY=",
-        "vega_pub_key": "b07d6408056afc9faef31e86469ffff9b45f3348f7f4f93510f3e5ee90812e04",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310090943",
+  "chain_id": "vega-devnet1-202310091016",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-09T09:43:46.428588Z",
+  "genesis_time": "2023-10-09T10:16:22.208076358Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "856D1A5A0B03112727CE09CA596013E51D375421",
-      "name": "odd-tree",
+      "address": "3619F4686E9F6C84ACE3C6159FCE42136963AA0A",
+      "name": "happy-barber",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "su9GXhd+lUu8GQJ5l/FbfY+nHjQpI3d+rNuEouVevCY="
+        "value": "AmMOeDbWssmMKNlTZ7m/WYNoElnBqBgacFsrJRkLVQM="
       }
     }
   ]
