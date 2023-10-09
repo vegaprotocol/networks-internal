@@ -292,6 +292,17 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
+      "m0fAXTFP2RXOtrzpJ5ZWZTCsJQbjB3GEOvaoNrFLkg0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/fa0jayu2binqlgsisdnueo8s0m799cja?d=identicon",
+        "country": "EI",
+        "ethereum_address": "0x618dAEddbf6f7713eedCeb61Befe9189D24a8BbC",
+        "id": "ed19b7d49e12e3cb4fffa0d67779af05847758edeb748edc69ee07d963158c3a",
+        "info_url": "https://en.wikipedia.org/wiki/No_More_Parties_in_LA",
+        "name": "famous-sheep",
+        "tm_pub_key": "m0fAXTFP2RXOtrzpJ5ZWZTCsJQbjB3GEOvaoNrFLkg0=",
+        "vega_pub_key": "6324ae97b366a43d575ed0b8fb1981022a20015b966fa2457057a658e98f94e5",
+        "vega_pub_key_index": 1
+      },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
         "avatar_url": "https://www.gravatar.com/avatar/14wh06jhnafyxu5ea1p41y8972c1flw0?d=identicon",
         "country": "QX",
@@ -313,21 +324,10 @@
         "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
-      },
-      "whDUbZzwJD9uTQs2iju+obs2RyYs1FHDaJoZsRW6pnc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/9gtb2xs48gwbz3a2ulavgt8w4kg3qtln?d=identicon",
-        "country": "CR",
-        "ethereum_address": "0x99E7dCeDD28D9B209aD185a94E0050dfe44D3454",
-        "id": "20a22f5e2b58f3bbf4e2b525b4264f999ea4f6edb7a2fffea5dc48223f275ac7",
-        "info_url": "https://en.wikipedia.org/wiki/Kevin_Bradfield",
-        "name": "confused-book",
-        "tm_pub_key": "whDUbZzwJD9uTQs2iju+obs2RyYs1FHDaJoZsRW6pnc=",
-        "vega_pub_key": "6e1751dc038aff9d90c5b564defa3dbf01c58b4419bab1f05870f31eca5aa994",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202310091651",
+  "chain_id": "vega-devnet1-202310091725",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-09T16:51:59.524394646Z",
+  "genesis_time": "2023-10-09T17:25:05.373097933Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "D9B071F1ADC45B2BCA40B185935598F4FC5DEF29",
-      "name": "confused-book",
+      "address": "8DE77EE0128031271436E051E08D8A68D730E1AC",
+      "name": "famous-sheep",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "whDUbZzwJD9uTQs2iju+obs2RyYs1FHDaJoZsRW6pnc="
+        "value": "m0fAXTFP2RXOtrzpJ5ZWZTCsJQbjB3GEOvaoNrFLkg0="
       }
     }
   ]
