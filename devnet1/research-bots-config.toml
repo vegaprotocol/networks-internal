@@ -47,7 +47,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         inventory_upper_boundary = 3
         fee_amount = 0.0001
         commitment_amount = 800000
-        initial_mint = 200000
+        initial_mint = 1000000
     [scenario.btcusdt_230630.auction_trader_args]
         initial_volume = 0.001
         initial_mint = 10000
@@ -61,7 +61,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         max_order_size = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
         initial_mint = 10000
     [scenario.btcusdt_230630.simulation_args]
-        n_steps = 360
+        n_steps = -1
         granularity = "MINUTE"
         coinbase_code = "BTC-USDT"
         start_date = "2022-11-01 00:00:00"
@@ -90,7 +90,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         inventory_upper_boundary = 3
         fee_amount = 0.0001
         commitment_amount = 400000
-        initial_mint = 200000
+        initial_mint = 600000
     [scenario.ethusdt_230630.auction_trader_args]
         initial_volume = 0.001
         initial_mint = 10000
@@ -104,7 +104,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         max_order_size = [0.001, 0.01, 0.1]
         initial_mint = 10000
     [scenario.ethusdt_230630.simulation_args]
-        n_steps = 360
+        n_steps = -1
         granularity = "MINUTE"
         coinbase_code = "ETH-USDT"
         start_date = "2022-11-01 00:00:00"
@@ -134,7 +134,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         inventory_upper_boundary = 3
         fee_amount = 0.0001
         commitment_amount = 800000
-        initial_mint = 200000
+        initial_mint = 1000000
     [scenario.applemontly.auction_trader_args]
         initial_volume = 0.001
         initial_mint = 10000
@@ -148,7 +148,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         max_order_size = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
         initial_mint = 10000
     [scenario.applemontly.simulation_args]
-        n_steps = 360
+        n_steps = -1
         granularity = "MINUTE"
         coinbase_code = "BTC-USDT"
         start_date = "2022-11-01 00:00:00"
@@ -178,7 +178,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         inventory_upper_boundary = 3
         fee_amount = 0.0001
         commitment_amount = 400000
-        initial_mint = 200000
+        initial_mint = 600000
     [scenario.tsla_quarterly.auction_trader_args]
         initial_volume = 0.001
         initial_mint = 10000
@@ -192,7 +192,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         max_order_size = [0.001, 0.01, 0.1]
         initial_mint = 10000
     [scenario.tsla_quarterly.simulation_args]
-        n_steps = 360
+        n_steps = -1
         granularity = "MINUTE"
         coinbase_code = "ETH-USDT"
         start_date = "2022-11-01 00:00:00"
@@ -222,7 +222,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         inventory_upper_boundary = 3
         fee_amount = 0.0001
         commitment_amount = 800000
-        initial_mint = 200000
+        initial_mint = 1000000
     [scenario.btcusd_perpetual.auction_trader_args]
         initial_volume = 0.001
         initial_mint = 10000
@@ -236,7 +236,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         max_order_size = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
         initial_mint = 10000
     [scenario.btcusd_perpetual.simulation_args]
-        n_steps = 360
+        n_steps = -1
         granularity = "MINUTE"
         coinbase_code = "BTC-USDT"
         start_date = "2022-11-01 00:00:00"
@@ -265,7 +265,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         inventory_upper_boundary = 3
         fee_amount = 0.0001
         commitment_amount = 400000
-        initial_mint = 200000
+        initial_mint = 600000
     [scenario.ethusdt_perpetual.auction_trader_args]
         initial_volume = 0.001
         initial_mint = 10000
@@ -279,7 +279,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         max_order_size = [0.001, 0.01, 0.1]
         initial_mint = 10000
     [scenario.ethusdt_perpetual.simulation_args]
-        n_steps = 360
+        n_steps = -1
         granularity = "MINUTE"
         coinbase_code = "ETH-USDT"
         start_date = "2022-11-01 00:00:00"
@@ -308,7 +308,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         inventory_upper_boundary = 3
         fee_amount = 0.0001
         commitment_amount = 800000
-        initial_mint = 200000
+        initial_mint = 1000000
     [scenario.daiusd_perpetual.auction_trader_args]
         initial_volume = 0.001
         initial_mint = 10000
@@ -322,7 +322,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         max_order_size = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
         initial_mint = 10000
     [scenario.daiusd_perpetual.simulation_args]
-        n_steps = 360
+        n_steps = -1
         granularity = "MINUTE"
         coinbase_code = "BTC-USDT"
         start_date = "2022-11-01 00:00:00"
@@ -351,7 +351,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         inventory_upper_boundary = 3
         fee_amount = 0.0001
         commitment_amount = 800000
-        initial_mint = 200000
+        initial_mint = 1000000
     [scenario.btcusdt_monthly.auction_trader_args]
         initial_volume = 0.001
         initial_mint = 10000
@@ -365,7 +365,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         max_order_size = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
         initial_mint = 10000
     [scenario.btcusdt_monthly.simulation_args]
-        n_steps = 360
+        n_steps = -1
         granularity = "MINUTE"
         coinbase_code = "BTC-USDT"
         start_date = "2022-11-01 00:00:00"
@@ -394,7 +394,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         inventory_upper_boundary = 3
         fee_amount = 0.0001
         commitment_amount = 800000
-        initial_mint = 200000
+        initial_mint = 1000000
     [scenario.eurusd_perpetual.auction_trader_args]
         initial_volume = 0.001
         initial_mint = 10000
@@ -408,7 +408,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         max_order_size = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
         initial_mint = 10000
     [scenario.eurusd_perpetual.simulation_args]
-        n_steps = 360
+        n_steps = -1
         granularity = "MINUTE"
         coinbase_code = "BTC-USDT"
         start_date = "2022-11-01 00:00:00"
@@ -424,7 +424,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         asset_name = "tDAI"
         adp = 18
         mdp = 5
-        pdp = 0
+        pdp = 3
     [scenario.aavedai.market_maker_args]
         market_kappa = 1
         market_order_arrival_rate = 100
@@ -437,7 +437,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         inventory_upper_boundary = 3
         fee_amount = 0.0001
         commitment_amount = 800000
-        initial_mint = 200000
+        initial_mint = 1000000
     [scenario.aavedai.auction_trader_args]
         initial_volume = 0.001
         initial_mint = 10000
@@ -451,7 +451,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         max_order_size = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
         initial_mint = 10000
     [scenario.aavedai.simulation_args]
-        n_steps = 360
+        n_steps = -1
         granularity = "MINUTE"
         coinbase_code = "BTC-USDT"
         start_date = "2022-11-01 00:00:00"
@@ -480,7 +480,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         inventory_upper_boundary = 3
         fee_amount = 0.0001
         commitment_amount = 800000
-        initial_mint = 200000
+        initial_mint = 1000000
     [scenario.ethbtc_quarterly.auction_trader_args]
         initial_volume = 0.001
         initial_mint = 10000
@@ -494,7 +494,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         max_order_size = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
         initial_mint = 10000
     [scenario.ethbtc_quarterly.simulation_args]
-        n_steps = 360
+        n_steps = -1
         granularity = "MINUTE"
         coinbase_code = "BTC-USDT"
         start_date = "2022-11-01 00:00:00"
@@ -503,7 +503,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 [scenario.linkusdt_perpetual]
     market_name = "LINKUSD Perpetual"
     binance_code = "LINKUSDT"
-    step_length_seconds = 1
+    step_length_seconds = 3
     [scenario.linkusdt_perpetual.market_manager_args]
         market_name = "LINKUSD Perpetual"
         market_code = "LINKUSD.MF21"
@@ -523,7 +523,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         inventory_upper_boundary = 3
         fee_amount = 0.0001
         commitment_amount = 400000
-        initial_mint = 200000
+        initial_mint = 600000
     [scenario.linkusdt_perpetual.auction_trader_args]
         initial_volume = 0.001
         initial_mint = 10000
@@ -537,7 +537,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         max_order_size = [0.001, 0.01, 0.1]
         initial_mint = 10000
     [scenario.linkusdt_perpetual.simulation_args]
-        n_steps = 360
+        n_steps = -1
         granularity = "MINUTE"
         coinbase_code = "LINK-USDT"
         start_date = "2022-11-01 00:00:00"
@@ -566,7 +566,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         inventory_upper_boundary = 3
         fee_amount = 0.0001
         commitment_amount = 400000
-        initial_mint = 200000
+        initial_mint = 600000
     [scenario.ehtdai_monthly.auction_trader_args]
         initial_volume = 0.001
         initial_mint = 10000
@@ -580,7 +580,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         max_order_size = [0.001, 0.01, 0.1]
         initial_mint = 10000
     [scenario.ehtdai_monthly.simulation_args]
-        n_steps = 360
+        n_steps = -1
         granularity = "MINUTE"
         coinbase_code = "ETH-USDT"
         start_date = "2022-11-01 00:00:00"
