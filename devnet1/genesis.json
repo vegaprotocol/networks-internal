@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "AsLf1nmaBCwUtXcQlMy95hKuf3qhhmECon4gCKcjXNQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/0z1jsa9ixvxbqzqdpt7bbxn2a6cwgcvh?d=identicon",
+        "country": "OZ",
+        "ethereum_address": "0xA85065812f3a57F452C6ED5230d9eD04C9767422",
+        "id": "fa783e5cbf97d53813ea84b245a9279e7f58191b551c02281854f27bcdae0514",
+        "info_url": "https://en.wikipedia.org/wiki/One_Big_Day",
+        "name": "graceful-apple",
+        "tm_pub_key": "AsLf1nmaBCwUtXcQlMy95hKuf3qhhmECon4gCKcjXNQ=",
+        "vega_pub_key": "8dc9177b0bd7d45c93dc99aebd31f1e043e6c100eb2113dd7dacc7913e58ccb8",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "mP7wiazaOR97KaWp3nfM6VsO5oP63OAltZpGUGZmD94=": {
-        "avatar_url": "https://www.gravatar.com/avatar/fzm3h3638d0ijf32cuk8ap5ewqov74st?d=identicon",
-        "country": "LU",
-        "ethereum_address": "0xc168Ff70f2cd72CFAC2Da0314FFC1de24fac135E",
-        "id": "8b8178b9d5ed719bad204cd8bcc6fed1dd8f041f0be464fac9b6ba17f430ef03",
-        "info_url": "https://en.wikipedia.org/wiki/Chappelli_Cycles",
-        "name": "frightened-swing",
-        "tm_pub_key": "mP7wiazaOR97KaWp3nfM6VsO5oP63OAltZpGUGZmD94=",
-        "vega_pub_key": "791c98251e29e5dd8966ff740a2eb3def7632176541ef0df38b9a37b743f322f",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310101014",
+  "chain_id": "vega-devnet1-202310101105",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-10T10:14:46.314602559Z",
+  "genesis_time": "2023-10-10T11:05:39.392702882Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "14058BDBB2C6D03F36927743CEC2FC143334E1DF",
-      "name": "frightened-swing",
+      "address": "830C9424DAD8113BEC0BD60427F4C02F607936F2",
+      "name": "graceful-apple",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "mP7wiazaOR97KaWp3nfM6VsO5oP63OAltZpGUGZmD94="
+        "value": "AsLf1nmaBCwUtXcQlMy95hKuf3qhhmECon4gCKcjXNQ="
       }
     }
   ]
