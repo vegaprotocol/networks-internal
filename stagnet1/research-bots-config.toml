@@ -139,7 +139,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         initial_volume = 0.001
         initial_mint = 10000
     [scenario.applemontly.random_trader_args]
-        traders = 150
+        traders = 35
         order_intensity = [
             10,10,10,10,10,10,10,10,10,10,
             10,10,10,10,10,10,10,10,10,10,
@@ -199,7 +199,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         ]
         initial_mint = 1000000
     [scenario.applemontly.sensitive_trader_args]
-        traders = 150
+        traders = 35
         scale = [
             10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 
             10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 
@@ -273,7 +273,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         initial_volume = 0.001
         initial_mint = 10000
     [scenario.tsla_quarterly.random_trader_args]
-        traders = 150
+        traders = 35
         order_intensity = [
             10,10,10,10,10,10,10,10,10,10,
             10,10,10,10,10,10,10,10,10,10,
@@ -333,7 +333,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         ]
         initial_mint = 1000000
     [scenario.tsla_quarterly.sensitive_trader_args]
-        traders = 150
+        traders = 35
         scale = [
             10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 
             10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 
@@ -407,7 +407,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         initial_volume = 0.001
         initial_mint = 10000
     [scenario.ethusdt_perpetual.random_trader_args]
-        traders = 150
+        traders = 35
         order_intensity = [
             45, 45, 45, 45, 45, 45, 45, 45, 45, 45,
             45, 45, 45, 45, 45, 45, 45, 45, 45, 45,
@@ -467,7 +467,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         ]
         initial_mint = 1000000
     [scenario.ethusdt_perpetual.sensitive_trader_args]
-        traders = 150
+        traders = 35
         scale = [
             10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
             10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
@@ -541,7 +541,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         initial_volume = 0.001
         initial_mint = 10000
     [scenario.daiusd_perpetual.random_trader_args]
-        traders = 150
+        traders = 35
         order_intensity = [
             5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 
             5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 
@@ -601,7 +601,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         ]
         initial_mint = 1000000
     [scenario.daiusd_perpetual.sensitive_trader_args]
-        traders = 150
+        traders = 35
         scale = [
             10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 
             10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
@@ -675,7 +675,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         initial_volume = 0.001
         initial_mint = 10000
     [scenario.btcusdt_monthly.random_trader_args]
-        traders = 150
+        traders = 35
         order_intensity = [
             5, 5, 5, 5, 5, 5, 5, 5, 5, 5,
             5, 5, 5, 5, 5, 5, 5, 5, 5, 5,
@@ -735,7 +735,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         ]
         initial_mint = 1000000
     [scenario.btcusdt_monthly.sensitive_trader_args]
-        traders = 150
+        traders = 35
         scale = [
             10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
             10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
@@ -809,7 +809,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         initial_volume = 0.001
         initial_mint = 10000
     [scenario.eurusd_perpetual.random_trader_args]
-        traders = 150
+        traders = 35
         order_intensity = [
             5, 5, 5, 5, 5, 5, 5, 5, 5, 5,
             5, 5, 5, 5, 5, 5, 5, 5, 5, 5,
@@ -869,7 +869,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         ]
         initial_mint = 1000000
     [scenario.eurusd_perpetual.sensitive_trader_args]
-        traders = 150
+        traders = 35
         scale = [
             10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
             10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
@@ -943,7 +943,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         initial_volume = 0.001
         initial_mint = 10000
     [scenario.aavedai.random_trader_args]
-        traders = 150
+        traders = 35
         order_intensity = [
             5, 5, 5, 5, 5, 5, 5, 5, 5, 5,
             5, 5, 5, 5, 5, 5, 5, 5, 5, 5,
@@ -1003,7 +1003,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         ]
         initial_mint = 1000000
     [scenario.aavedai.sensitive_trader_args]
-        traders = 150
+        traders = 35
         scale = [
             10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 
             10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 
@@ -1076,7 +1076,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         initial_volume = 0.001
         initial_mint = 10000
     [scenario.ethbtc_quarterly.random_trader_args]
-        traders = 150
+        traders = 35
         order_intensity = [
             5, 5, 5, 5, 5, 5, 5, 5, 5, 5,
             5, 5, 5, 5, 5, 5, 5, 5, 5, 5,
@@ -1136,7 +1136,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         ]
         initial_mint = 1000000
     [scenario.ethbtc_quarterly.sensitive_trader_args]
-        traders = 150
+        traders = 35
         scale = [
             10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 
             10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 
@@ -1210,7 +1210,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         initial_volume = 0.001
         initial_mint = 10000
     [scenario.linkusdt_perpetual.random_trader_args]
-        traders = 150
+        traders = 35
         order_intensity = [
             5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 
             5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 
@@ -1270,7 +1270,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         ]
         initial_mint = 1000000
     [scenario.linkusdt_perpetual.sensitive_trader_args]
-        traders = 150
+        traders = 35
         scale = [
             10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 
             10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 
@@ -1344,7 +1344,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         initial_volume = 0.001
         initial_mint = 10000
     [scenario.ehtdai_monthly.random_trader_args]
-        traders = 150
+        traders = 35
         order_intensity = [
             10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 
             10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 
@@ -1404,7 +1404,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         ]
         initial_mint = 1000000
     [scenario.ehtdai_monthly.sensitive_trader_args]
-        traders = 150
+        traders = 35
         scale = [
             10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 
             10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
