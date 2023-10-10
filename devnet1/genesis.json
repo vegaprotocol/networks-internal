@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "m0fAXTFP2RXOtrzpJ5ZWZTCsJQbjB3GEOvaoNrFLkg0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/fa0jayu2binqlgsisdnueo8s0m799cja?d=identicon",
-        "country": "EI",
-        "ethereum_address": "0x618dAEddbf6f7713eedCeb61Befe9189D24a8BbC",
-        "id": "ed19b7d49e12e3cb4fffa0d67779af05847758edeb748edc69ee07d963158c3a",
-        "info_url": "https://en.wikipedia.org/wiki/No_More_Parties_in_LA",
-        "name": "famous-sheep",
-        "tm_pub_key": "m0fAXTFP2RXOtrzpJ5ZWZTCsJQbjB3GEOvaoNrFLkg0=",
-        "vega_pub_key": "6324ae97b366a43d575ed0b8fb1981022a20015b966fa2457057a658e98f94e5",
+      "mP7wiazaOR97KaWp3nfM6VsO5oP63OAltZpGUGZmD94=": {
+        "avatar_url": "https://www.gravatar.com/avatar/fzm3h3638d0ijf32cuk8ap5ewqov74st?d=identicon",
+        "country": "LU",
+        "ethereum_address": "0xc168Ff70f2cd72CFAC2Da0314FFC1de24fac135E",
+        "id": "8b8178b9d5ed719bad204cd8bcc6fed1dd8f041f0be464fac9b6ba17f430ef03",
+        "info_url": "https://en.wikipedia.org/wiki/Chappelli_Cycles",
+        "name": "frightened-swing",
+        "tm_pub_key": "mP7wiazaOR97KaWp3nfM6VsO5oP63OAltZpGUGZmD94=",
+        "vega_pub_key": "791c98251e29e5dd8966ff740a2eb3def7632176541ef0df38b9a37b743f322f",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310091725",
+  "chain_id": "vega-devnet1-202310101014",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-09T17:25:05.373097933Z",
+  "genesis_time": "2023-10-10T10:14:46.314602559Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "8DE77EE0128031271436E051E08D8A68D730E1AC",
-      "name": "famous-sheep",
+      "address": "14058BDBB2C6D03F36927743CEC2FC143334E1DF",
+      "name": "frightened-swing",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "m0fAXTFP2RXOtrzpJ5ZWZTCsJQbjB3GEOvaoNrFLkg0="
+        "value": "mP7wiazaOR97KaWp3nfM6VsO5oP63OAltZpGUGZmD94="
       }
     }
   ]
