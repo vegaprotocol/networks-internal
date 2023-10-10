@@ -292,6 +292,17 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
+      "gWCssV12PRSKXlhE7NbqA17gRXaLFaiyx3kHhx7NM4c=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xi085pbjbky06mh2rb62u0negoq5gt45?d=identicon",
+        "country": "PJ",
+        "ethereum_address": "0x5d227B8683b507229bA79D9FC68eb2d7B671eD3A",
+        "id": "ee9656b8296b83055b56136e4d79920a3c50ae90e3d494ba4d3b222d6995a9ad",
+        "info_url": "https://en.wikipedia.org/wiki/Video_games_in_the_United_Kingdom",
+        "name": "exuberant-bird",
+        "tm_pub_key": "gWCssV12PRSKXlhE7NbqA17gRXaLFaiyx3kHhx7NM4c=",
+        "vega_pub_key": "20ac685e691b3da920643faebd247f41ed5a3a4c754600ec96494210823cbc7a",
+        "vega_pub_key_index": 1
+      },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
         "avatar_url": "https://www.gravatar.com/avatar/14wh06jhnafyxu5ea1p41y8972c1flw0?d=identicon",
         "country": "QX",
@@ -313,21 +324,10 @@
         "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
-      },
-      "zXCSX0/oVgZJFQGC/2p3Uz7WhYoSTN5kSbCNPypKMps=": {
-        "avatar_url": "https://www.gravatar.com/avatar/owc2l364oslp1iboiiz0fj0rl42x70iy?d=identicon",
-        "country": "SW",
-        "ethereum_address": "0x690fE1097fF940BAecB602461A13475908c83e7e",
-        "id": "dde5d94f19c845db1d1368db05e2348a7d8b968a9ddfae81aa06aa42a721f1b6",
-        "info_url": "https://en.wikipedia.org/wiki/Narcis_Iustin_Ian%C4%83u",
-        "name": "harsh-doctor",
-        "tm_pub_key": "zXCSX0/oVgZJFQGC/2p3Uz7WhYoSTN5kSbCNPypKMps=",
-        "vega_pub_key": "88fad3005447a32f0d2f54234431e1b044060379b326d1fd16af3c1312ca0329",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202310101624",
+  "chain_id": "vega-devnet1-202310101658",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-10T16:24:47.443551301Z",
+  "genesis_time": "2023-10-10T16:58:14.57482983Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "C01CFB63B4B34C2C57610CBA1F3018D016F83506",
-      "name": "harsh-doctor",
+      "address": "B8643D62BDCD78D234FA5A3B92F74B7F3AF70799",
+      "name": "exuberant-bird",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "zXCSX0/oVgZJFQGC/2p3Uz7WhYoSTN5kSbCNPypKMps="
+        "value": "gWCssV12PRSKXlhE7NbqA17gRXaLFaiyx3kHhx7NM4c="
       }
     }
   ]
