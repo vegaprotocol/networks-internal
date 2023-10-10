@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "mM43wZknUvLJsfgungC6xlRMoUK3qxw/ZyIweJof0uQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/fhpr7ujb3mt8pwfps6at62q5zty04n2f?d=identicon",
-        "country": "HR",
-        "ethereum_address": "0xC5636f74df3ce49775A494Bb799e3C3B4447F2E0",
-        "id": "db245e0e0e6c81b4acf35582d7f7aa10732f3071fe34165c554983cf8f98b74b",
-        "info_url": "https://en.wikipedia.org/wiki/Ted_Solotaroff",
-        "name": "helpless-day",
-        "tm_pub_key": "mM43wZknUvLJsfgungC6xlRMoUK3qxw/ZyIweJof0uQ=",
-        "vega_pub_key": "bf8954f241e6485b38456dd90b47682d9614ea055b6edc74fad7da6e3e9cbfdf",
+      "YcwU6i51dJlegcgDAIlDfUYVd0zu4pmgPTZljxbpf2Q=": {
+        "avatar_url": "https://www.gravatar.com/avatar/qj4hbuacj8gz4u0z5zmzvc56r1e2je47?d=identicon",
+        "country": "KV",
+        "ethereum_address": "0x637ef380C599E90fA95d0c1836a5a9BE412Eb4d2",
+        "id": "65cdae5e2a42f0e6cb3360f0583651b346e4c598cef0161758d64911df27413a",
+        "info_url": "https://en.wikipedia.org/wiki/Ouvrage_M%C3%A9trich",
+        "name": "condescending-bat",
+        "tm_pub_key": "YcwU6i51dJlegcgDAIlDfUYVd0zu4pmgPTZljxbpf2Q=",
+        "vega_pub_key": "7adfbd32492ea0323a3db485272ec603b46a5eb106fc53d49ff96fe3cfbc84f8",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310101427",
+  "chain_id": "vega-devnet1-202310101458",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-10T14:27:10.681555897Z",
+  "genesis_time": "2023-10-10T14:58:29.078373455Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "6E7A307BEDCDA8C7DCDB03D96A2DE18BDCC7DDE9",
-      "name": "helpless-day",
+      "address": "056731F989A0D291197B02F352AEA5918D84C85D",
+      "name": "condescending-bat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "mM43wZknUvLJsfgungC6xlRMoUK3qxw/ZyIweJof0uQ="
+        "value": "YcwU6i51dJlegcgDAIlDfUYVd0zu4pmgPTZljxbpf2Q="
       }
     }
   ]
