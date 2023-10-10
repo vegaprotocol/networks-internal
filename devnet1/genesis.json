@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "AsLf1nmaBCwUtXcQlMy95hKuf3qhhmECon4gCKcjXNQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/0z1jsa9ixvxbqzqdpt7bbxn2a6cwgcvh?d=identicon",
-        "country": "OZ",
-        "ethereum_address": "0xA85065812f3a57F452C6ED5230d9eD04C9767422",
-        "id": "fa783e5cbf97d53813ea84b245a9279e7f58191b551c02281854f27bcdae0514",
-        "info_url": "https://en.wikipedia.org/wiki/One_Big_Day",
-        "name": "graceful-apple",
-        "tm_pub_key": "AsLf1nmaBCwUtXcQlMy95hKuf3qhhmECon4gCKcjXNQ=",
-        "vega_pub_key": "8dc9177b0bd7d45c93dc99aebd31f1e043e6c100eb2113dd7dacc7913e58ccb8",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "mM43wZknUvLJsfgungC6xlRMoUK3qxw/ZyIweJof0uQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/fhpr7ujb3mt8pwfps6at62q5zty04n2f?d=identicon",
+        "country": "HR",
+        "ethereum_address": "0xC5636f74df3ce49775A494Bb799e3C3B4447F2E0",
+        "id": "db245e0e0e6c81b4acf35582d7f7aa10732f3071fe34165c554983cf8f98b74b",
+        "info_url": "https://en.wikipedia.org/wiki/Ted_Solotaroff",
+        "name": "helpless-day",
+        "tm_pub_key": "mM43wZknUvLJsfgungC6xlRMoUK3qxw/ZyIweJof0uQ=",
+        "vega_pub_key": "bf8954f241e6485b38456dd90b47682d9614ea055b6edc74fad7da6e3e9cbfdf",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310101105",
+  "chain_id": "vega-devnet1-202310101427",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-10T11:05:39.392702882Z",
+  "genesis_time": "2023-10-10T14:27:10.681555897Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "830C9424DAD8113BEC0BD60427F4C02F607936F2",
-      "name": "graceful-apple",
+      "address": "6E7A307BEDCDA8C7DCDB03D96A2DE18BDCC7DDE9",
+      "name": "helpless-day",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "AsLf1nmaBCwUtXcQlMy95hKuf3qhhmECon4gCKcjXNQ="
+        "value": "mM43wZknUvLJsfgungC6xlRMoUK3qxw/ZyIweJof0uQ="
       }
     }
   ]
