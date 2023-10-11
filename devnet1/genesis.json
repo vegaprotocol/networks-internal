@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "Mp7fsTI/gOcKQoGHUU3QoGHN9auunknCkYzokoqj6aQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/1wy78nftc15jgpzs0oope9cmh3nu9pgs?d=identicon",
-        "country": "PA",
-        "ethereum_address": "0x80B612F992dC82Ba33bD6c1c0591D74632229354",
-        "id": "bf66c0e76571b2a996d5143c2594e75ec0c44c0a6fcfb150ddcdfad655494d77",
-        "info_url": "https://en.wikipedia.org/wiki/Lorien_Pratt",
-        "name": "loose-man",
-        "tm_pub_key": "Mp7fsTI/gOcKQoGHUU3QoGHN9auunknCkYzokoqj6aQ=",
-        "vega_pub_key": "34638859fdaa92ba2d0e9f295e2d7eee1a03b97cffd5a5de39506104675ed445",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -324,10 +313,21 @@
         "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
+      },
+      "zgObilv6EYAFrM3SnV2Ze8gpZXnkUF26xGq4fKZ10AE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/p8vrjh8pj0uj46w2h21xnf2bts9h8kr2?d=identicon",
+        "country": "GV",
+        "ethereum_address": "0xE1A58Da5a6b9A8bC6C94Af66cb1B13e7cc70190D",
+        "id": "962e61c32b6573b4cf581f4a59b75524dc355bb5b9d364c2ad0db5c2a0bc348c",
+        "info_url": "https://en.wikipedia.org/wiki/French_Lick_Open",
+        "name": "oppulent-lake",
+        "tm_pub_key": "zgObilv6EYAFrM3SnV2Ze8gpZXnkUF26xGq4fKZ10AE=",
+        "vega_pub_key": "0429c99c2e242e7cc8761ab82dd56ac12d4c2aae0abfc90b3226d8000e6b8dc6",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202310111436",
+  "chain_id": "vega-devnet1-202310111546",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-11T14:36:58.991937856Z",
+  "genesis_time": "2023-10-11T15:46:00.333899495Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "E03A2E8EE53F4054E1B04C7D7B2D8CAF4E86D83E",
-      "name": "loose-man",
+      "address": "2640C9A7C390BD4CDEE2A0D5561BB1697A0EC0B2",
+      "name": "oppulent-lake",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Mp7fsTI/gOcKQoGHUU3QoGHN9auunknCkYzokoqj6aQ="
+        "value": "zgObilv6EYAFrM3SnV2Ze8gpZXnkUF26xGq4fKZ10AE="
       }
     }
   ]
