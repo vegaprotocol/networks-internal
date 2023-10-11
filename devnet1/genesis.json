@@ -292,6 +292,17 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
+      "WMtDM1GgnsAD0lsYbWev83DS3PQj/GAtvdK1vHBLGMA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/1ob84jp76ia19uxmzrd8tq4bm8xc5vnr?d=identicon",
+        "country": "LS",
+        "ethereum_address": "0xB4988929F97751128bBF463d0695C52310fd5436",
+        "id": "58905b65e3742b555fedc7a8b47d46e6c2a1a4bcced21b5ee6a4aaa520784077",
+        "info_url": "https://en.wikipedia.org/wiki/Genech",
+        "name": "melodic-policeman",
+        "tm_pub_key": "WMtDM1GgnsAD0lsYbWev83DS3PQj/GAtvdK1vHBLGMA=",
+        "vega_pub_key": "8f3008de09be912eb28a37ac6a041c21b921807aa4db437a19902765ea98f6b4",
+        "vega_pub_key_index": 1
+      },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
         "avatar_url": "https://www.gravatar.com/avatar/14wh06jhnafyxu5ea1p41y8972c1flw0?d=identicon",
         "country": "QX",
@@ -313,21 +324,10 @@
         "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
-      },
-      "zgObilv6EYAFrM3SnV2Ze8gpZXnkUF26xGq4fKZ10AE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/p8vrjh8pj0uj46w2h21xnf2bts9h8kr2?d=identicon",
-        "country": "GV",
-        "ethereum_address": "0xE1A58Da5a6b9A8bC6C94Af66cb1B13e7cc70190D",
-        "id": "962e61c32b6573b4cf581f4a59b75524dc355bb5b9d364c2ad0db5c2a0bc348c",
-        "info_url": "https://en.wikipedia.org/wiki/French_Lick_Open",
-        "name": "oppulent-lake",
-        "tm_pub_key": "zgObilv6EYAFrM3SnV2Ze8gpZXnkUF26xGq4fKZ10AE=",
-        "vega_pub_key": "0429c99c2e242e7cc8761ab82dd56ac12d4c2aae0abfc90b3226d8000e6b8dc6",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202310111546",
+  "chain_id": "vega-devnet1-202310111632",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-11T15:46:00.333899495Z",
+  "genesis_time": "2023-10-11T16:32:55.910974598Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "2640C9A7C390BD4CDEE2A0D5561BB1697A0EC0B2",
-      "name": "oppulent-lake",
+      "address": "E378663178DE724AD3B860F4D734F17F08462691",
+      "name": "melodic-policeman",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "zgObilv6EYAFrM3SnV2Ze8gpZXnkUF26xGq4fKZ10AE="
+        "value": "WMtDM1GgnsAD0lsYbWev83DS3PQj/GAtvdK1vHBLGMA="
       }
     }
   ]
