@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "1ToGOVNYgMq8PqJU4ifvyAc7qFmKko4TBqo3UQnW7ig=": {
+        "avatar_url": "https://www.gravatar.com/avatar/jupj9bfcqxrrjlr719cbs5ax6duqfg6m?d=identicon",
+        "country": "BJ",
+        "ethereum_address": "0x5Fe3C1671f7f5EcA7c5c9409E61bf7012814fAf9",
+        "id": "6c20b4e6c4c9243fdd56c300cc37d111e6a19373a46ad73c0b42e9c94a84d69d",
+        "info_url": "https://en.wikipedia.org/wiki/Golden_Kamuy_(season_3)",
+        "name": "adorable-shirt",
+        "tm_pub_key": "1ToGOVNYgMq8PqJU4ifvyAc7qFmKko4TBqo3UQnW7ig=",
+        "vega_pub_key": "77e940f754da62923938d9a398722e0d6f4a6c14bec20997b0c4cdffcb001c9d",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "gWCssV12PRSKXlhE7NbqA17gRXaLFaiyx3kHhx7NM4c=": {
-        "avatar_url": "https://www.gravatar.com/avatar/xi085pbjbky06mh2rb62u0negoq5gt45?d=identicon",
-        "country": "PJ",
-        "ethereum_address": "0x5d227B8683b507229bA79D9FC68eb2d7B671eD3A",
-        "id": "ee9656b8296b83055b56136e4d79920a3c50ae90e3d494ba4d3b222d6995a9ad",
-        "info_url": "https://en.wikipedia.org/wiki/Video_games_in_the_United_Kingdom",
-        "name": "exuberant-bird",
-        "tm_pub_key": "gWCssV12PRSKXlhE7NbqA17gRXaLFaiyx3kHhx7NM4c=",
-        "vega_pub_key": "20ac685e691b3da920643faebd247f41ed5a3a4c754600ec96494210823cbc7a",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310101658",
+  "chain_id": "vega-devnet1-202310110500",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-10T16:58:14.57482983Z",
+  "genesis_time": "2023-10-11T05:00:34.575522192Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "B8643D62BDCD78D234FA5A3B92F74B7F3AF70799",
-      "name": "exuberant-bird",
+      "address": "B0E588BF17BA1A2C7DCB40FF48E1C52C5AFB4D4A",
+      "name": "adorable-shirt",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "gWCssV12PRSKXlhE7NbqA17gRXaLFaiyx3kHhx7NM4c="
+        "value": "1ToGOVNYgMq8PqJU4ifvyAc7qFmKko4TBqo3UQnW7ig="
       }
     }
   ]
