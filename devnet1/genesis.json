@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "Hs8kYYiMPrs7v3cMZyPUGWtaQnEw+PKurPB2pV0ASkk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/2z4nphc89qvzpl3t3vycupkkltpquz3h?d=identicon",
-        "country": "FI",
-        "ethereum_address": "0x707f59762a0FbEe9d5B1E95d665Eb41116De9788",
-        "id": "df8c5def3da8f1512907a780e8e6ceeb5110533812e17a7e6e50c18525a17700",
-        "info_url": "https://en.wikipedia.org/wiki/Ronney_Pettersson",
-        "name": "fluky-horse",
-        "tm_pub_key": "Hs8kYYiMPrs7v3cMZyPUGWtaQnEw+PKurPB2pV0ASkk=",
-        "vega_pub_key": "a0d7b1200f99e30dfb0889efbebd3b2a14790ac7d1a50fb66f997ff1cb4df409",
+      "RSUAraw/FDSzuurw1uJjJi6jgGZmrs6Xhm7O93oko98=": {
+        "avatar_url": "https://www.gravatar.com/avatar/tn1adjileogotkykolxzzyg2i88xpuue?d=identicon",
+        "country": "HL",
+        "ethereum_address": "0x4ae935A7Fb9e700c844F70E5E8d231cB8EF5268E",
+        "id": "5a0921782cbb5245221fb806d932b66e377f163967387d60263588db9d6ef948",
+        "info_url": "https://en.wikipedia.org/wiki/Yitong_Manchu_Autonomous_County",
+        "name": "blue-table",
+        "tm_pub_key": "RSUAraw/FDSzuurw1uJjJi6jgGZmrs6Xhm7O93oko98=",
+        "vega_pub_key": "39c7eca974c8ca5cca7db0a2df808e5ad64090029b50ac4812eb8947c8ecc040",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310111838",
+  "chain_id": "vega-devnet1-202310112039",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-11T18:38:50.131540664Z",
+  "genesis_time": "2023-10-11T20:39:17.44474495Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "1C0C2E34B5A2EBAD900B97042978FB9D3018E83B",
-      "name": "fluky-horse",
+      "address": "091F147EBA4EB6FF9C7FE37F368C15ADB109E233",
+      "name": "blue-table",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Hs8kYYiMPrs7v3cMZyPUGWtaQnEw+PKurPB2pV0ASkk="
+        "value": "RSUAraw/FDSzuurw1uJjJi6jgGZmrs6Xhm7O93oko98="
       }
     }
   ]
