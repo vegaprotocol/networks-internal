@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "RSUAraw/FDSzuurw1uJjJi6jgGZmrs6Xhm7O93oko98=": {
-        "avatar_url": "https://www.gravatar.com/avatar/tn1adjileogotkykolxzzyg2i88xpuue?d=identicon",
-        "country": "HL",
-        "ethereum_address": "0x4ae935A7Fb9e700c844F70E5E8d231cB8EF5268E",
-        "id": "5a0921782cbb5245221fb806d932b66e377f163967387d60263588db9d6ef948",
-        "info_url": "https://en.wikipedia.org/wiki/Yitong_Manchu_Autonomous_County",
-        "name": "blue-table",
-        "tm_pub_key": "RSUAraw/FDSzuurw1uJjJi6jgGZmrs6Xhm7O93oko98=",
-        "vega_pub_key": "39c7eca974c8ca5cca7db0a2df808e5ad64090029b50ac4812eb8947c8ecc040",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "gwhssSisy+OiWGkDnn8DifxlxP8DPlfkIdZanxLlbq8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/rj1xcuajg4q1xr194r5rl6e4cwxsgxb1?d=identicon",
+        "country": "BX",
+        "ethereum_address": "0xC60acB646a66AA6dbc41aE5E83Ae7531ee5d639b",
+        "id": "1868dfb9292a8195abdbfb4c7643981f271a4ee3af70bfa0b11ef8efaa35b98b",
+        "info_url": "https://en.wikipedia.org/wiki/The_New_Czars",
+        "name": "orange-brother",
+        "tm_pub_key": "gwhssSisy+OiWGkDnn8DifxlxP8DPlfkIdZanxLlbq8=",
+        "vega_pub_key": "677a64ca8eab3c6b4238a0f903d923a015638b0c28ecb15312b232067b550fa0",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310112039",
+  "chain_id": "vega-devnet1-202310112124",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-11T20:39:17.44474495Z",
+  "genesis_time": "2023-10-11T21:24:34.911954716Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "091F147EBA4EB6FF9C7FE37F368C15ADB109E233",
-      "name": "blue-table",
+      "address": "063936441797339818EB2BAB0BA97738956221E9",
+      "name": "orange-brother",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "RSUAraw/FDSzuurw1uJjJi6jgGZmrs6Xhm7O93oko98="
+        "value": "gwhssSisy+OiWGkDnn8DifxlxP8DPlfkIdZanxLlbq8="
       }
     }
   ]
