@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "QQ4GngYTs4Yu3eNy3xu5g4LOmFMSjksRPNFfS5YSjrc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/evbe9ckancqtis4cgk82cfz8ixtr4xk9?d=identicon",
-        "country": "KN",
-        "ethereum_address": "0x9853496f1b172be4622aa13a233aAa938634dEDA",
-        "id": "2e366e574a95c1e9bb6955bc5343f9223823a438dd920f1d6acab13ee3027c1d",
-        "info_url": "https://en.wikipedia.org/wiki/America_Reports",
-        "name": "foolish-table",
-        "tm_pub_key": "QQ4GngYTs4Yu3eNy3xu5g4LOmFMSjksRPNFfS5YSjrc=",
-        "vega_pub_key": "3ede64ab5d8c9be9da03699ef4b5dbe3ffd5acaf9401b4053dd139d38fd23984",
+      "Mp7fsTI/gOcKQoGHUU3QoGHN9auunknCkYzokoqj6aQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/1wy78nftc15jgpzs0oope9cmh3nu9pgs?d=identicon",
+        "country": "PA",
+        "ethereum_address": "0x80B612F992dC82Ba33bD6c1c0591D74632229354",
+        "id": "bf66c0e76571b2a996d5143c2594e75ec0c44c0a6fcfb150ddcdfad655494d77",
+        "info_url": "https://en.wikipedia.org/wiki/Lorien_Pratt",
+        "name": "loose-man",
+        "tm_pub_key": "Mp7fsTI/gOcKQoGHUU3QoGHN9auunknCkYzokoqj6aQ=",
+        "vega_pub_key": "34638859fdaa92ba2d0e9f295e2d7eee1a03b97cffd5a5de39506104675ed445",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310111346",
+  "chain_id": "vega-devnet1-202310111436",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-11T13:46:48.971230779Z",
+  "genesis_time": "2023-10-11T14:36:58.991937856Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "9528883143ED64B445D520C4A56C00E98B7DDE96",
-      "name": "foolish-table",
+      "address": "E03A2E8EE53F4054E1B04C7D7B2D8CAF4E86D83E",
+      "name": "loose-man",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "QQ4GngYTs4Yu3eNy3xu5g4LOmFMSjksRPNFfS5YSjrc="
+        "value": "Mp7fsTI/gOcKQoGHUU3QoGHN9auunknCkYzokoqj6aQ="
       }
     }
   ]
