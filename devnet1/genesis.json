@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "TfXLt7hhTiWIzueMsVGChGxNa6yZQOYOVYAkOsmmCCQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/pvk5acx80g531tielbm9xr6k0liv4iyv?d=identicon",
-        "country": "SY",
-        "ethereum_address": "0xD7A1112eeA1A5D49F62628D52580F9a7896C0e83",
-        "id": "a8f2c714f84e876b8004db6774ca596a3f8b1a57753b60f2120c3d7bdf6283e0",
-        "info_url": "https://en.wikipedia.org/wiki/Phlox_hirsuta",
-        "name": "intrigued-month",
-        "tm_pub_key": "TfXLt7hhTiWIzueMsVGChGxNa6yZQOYOVYAkOsmmCCQ=",
-        "vega_pub_key": "582932ddb0a60d6c93c33943f2ece6b8d42287477f04497315154958c12a3e5f",
+      "Hs8kYYiMPrs7v3cMZyPUGWtaQnEw+PKurPB2pV0ASkk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/2z4nphc89qvzpl3t3vycupkkltpquz3h?d=identicon",
+        "country": "FI",
+        "ethereum_address": "0x707f59762a0FbEe9d5B1E95d665Eb41116De9788",
+        "id": "df8c5def3da8f1512907a780e8e6ceeb5110533812e17a7e6e50c18525a17700",
+        "info_url": "https://en.wikipedia.org/wiki/Ronney_Pettersson",
+        "name": "fluky-horse",
+        "tm_pub_key": "Hs8kYYiMPrs7v3cMZyPUGWtaQnEw+PKurPB2pV0ASkk=",
+        "vega_pub_key": "a0d7b1200f99e30dfb0889efbebd3b2a14790ac7d1a50fb66f997ff1cb4df409",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310111712",
+  "chain_id": "vega-devnet1-202310111807",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-11T17:12:57.875336459Z",
+  "genesis_time": "2023-10-11T18:07:31.972852037Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "BD77ACA485444CDE249744D17F28FDCD756A7A08",
-      "name": "intrigued-month",
+      "address": "1C0C2E34B5A2EBAD900B97042978FB9D3018E83B",
+      "name": "fluky-horse",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "TfXLt7hhTiWIzueMsVGChGxNa6yZQOYOVYAkOsmmCCQ="
+        "value": "Hs8kYYiMPrs7v3cMZyPUGWtaQnEw+PKurPB2pV0ASkk="
       }
     }
   ]
