@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "01Q0SdildHWUCfSIQHLMbD6x/71CwpKnsNQdes8QeFo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/f6tikvxhvu99azykfvsvkzrzgw58cglr?d=identicon",
+        "country": "AN",
+        "ethereum_address": "0x40daD339ab35efB7bDE27551762FCe61368191a2",
+        "id": "2487e95cfa2b54aea913d79baa1486c23164ab9bc39ebc64913e6e0bd3fa5db4",
+        "info_url": "https://en.wikipedia.org/wiki/Jared_Freid",
+        "name": "inexpensive-pond",
+        "tm_pub_key": "01Q0SdildHWUCfSIQHLMbD6x/71CwpKnsNQdes8QeFo=",
+        "vega_pub_key": "0192bac227714845b610ebc7880b3564bafd508276034369a9b66c8b19ccb716",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "YWyYo4cmZRLsxIwY2eFJaoZKwUu1N+CteWj50z2a00k=": {
-        "avatar_url": "https://www.gravatar.com/avatar/nxr2wklm4zn3hipf6pailew2fda58u2g?d=identicon",
-        "country": "HW",
-        "ethereum_address": "0x5b2bdBBE1c9D3c2f26F509A490C563c69044e172",
-        "id": "64f5be76fd99f39dd736ae9405b5a36fa0b51f45c22622544637964a5f7f7fb3",
-        "info_url": "https://en.wikipedia.org/wiki/El_Makina",
-        "name": "echoing-tree",
-        "tm_pub_key": "YWyYo4cmZRLsxIwY2eFJaoZKwUu1N+CteWj50z2a00k=",
-        "vega_pub_key": "8225680f32820efd6db28918e5785fc7eb73f0025788772e95c933eb07600112",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310110714",
+  "chain_id": "vega-devnet1-202310110947",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-11T07:14:33.036294532Z",
+  "genesis_time": "2023-10-11T09:47:36.539566501Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "6D690E7062CE216680D213AC302C39AD83794B04",
-      "name": "echoing-tree",
+      "address": "CDEF871DCD63BB7919B27D6E841745BE48B08F92",
+      "name": "inexpensive-pond",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "YWyYo4cmZRLsxIwY2eFJaoZKwUu1N+CteWj50z2a00k="
+        "value": "01Q0SdildHWUCfSIQHLMbD6x/71CwpKnsNQdes8QeFo="
       }
     }
   ]
