@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "dTJRsogrNjr/WyQOZi8gu2IzV7D+dPw5PGOD/k4Ctl8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/57rdjs4704do1othugd4ol7j8hgu5cba?d=identicon",
-        "country": "YR",
-        "ethereum_address": "0xeE6Fa15875ACc3fC5f06204CAEE374E23626575A",
-        "id": "d8f0a57d12908357715354413b4465c87a87375a046708b5ff0f40cf9c2fe6ce",
-        "info_url": "https://en.wikipedia.org/wiki/Jay_McAuley",
-        "name": "faint-man",
-        "tm_pub_key": "dTJRsogrNjr/WyQOZi8gu2IzV7D+dPw5PGOD/k4Ctl8=",
-        "vega_pub_key": "aa7580ce7c064c4c5f1058878878618ae57dcc0ef4dc322866d6b0b08ee20731",
+      "kcksp25IvtAPIuTz5odt7yJmR82SPJs/CPpKByObI7I=": {
+        "avatar_url": "https://www.gravatar.com/avatar/bfk9wg80buz93pst9vonkvkj20ql1005?d=identicon",
+        "country": "TX",
+        "ethereum_address": "0xa2FE572d951c2051F6a467f81A3BC6Bd18E989DA",
+        "id": "6b5ddacf7b1e80a1f167be9f8cb2e32b205c24c97881b5a54a20fcabb80433b2",
+        "info_url": "https://en.wikipedia.org/wiki/Trombley,_Ohio",
+        "name": "red-pizza",
+        "tm_pub_key": "kcksp25IvtAPIuTz5odt7yJmR82SPJs/CPpKByObI7I=",
+        "vega_pub_key": "7fe50f60f765b93b872df1ff161df689a150c013cea4f776588f9df0c1df548e",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310111102",
+  "chain_id": "vega-devnet1-202310111215",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-11T11:02:31.52608016Z",
+  "genesis_time": "2023-10-11T12:15:36.59799852Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "AC80505FE2C74D6C362AFB841FE1CF7CC3C23504",
-      "name": "faint-man",
+      "address": "51C8829FCBD3C4397CE34A4E19C78CA7E93A71FE",
+      "name": "red-pizza",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "dTJRsogrNjr/WyQOZi8gu2IzV7D+dPw5PGOD/k4Ctl8="
+        "value": "kcksp25IvtAPIuTz5odt7yJmR82SPJs/CPpKByObI7I="
       }
     }
   ]
