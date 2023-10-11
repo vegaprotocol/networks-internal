@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "01Q0SdildHWUCfSIQHLMbD6x/71CwpKnsNQdes8QeFo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/f6tikvxhvu99azykfvsvkzrzgw58cglr?d=identicon",
-        "country": "AN",
-        "ethereum_address": "0x40daD339ab35efB7bDE27551762FCe61368191a2",
-        "id": "2487e95cfa2b54aea913d79baa1486c23164ab9bc39ebc64913e6e0bd3fa5db4",
-        "info_url": "https://en.wikipedia.org/wiki/Jared_Freid",
-        "name": "inexpensive-pond",
-        "tm_pub_key": "01Q0SdildHWUCfSIQHLMbD6x/71CwpKnsNQdes8QeFo=",
-        "vega_pub_key": "0192bac227714845b610ebc7880b3564bafd508276034369a9b66c8b19ccb716",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "dTJRsogrNjr/WyQOZi8gu2IzV7D+dPw5PGOD/k4Ctl8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/57rdjs4704do1othugd4ol7j8hgu5cba?d=identicon",
+        "country": "YR",
+        "ethereum_address": "0xeE6Fa15875ACc3fC5f06204CAEE374E23626575A",
+        "id": "d8f0a57d12908357715354413b4465c87a87375a046708b5ff0f40cf9c2fe6ce",
+        "info_url": "https://en.wikipedia.org/wiki/Jay_McAuley",
+        "name": "faint-man",
+        "tm_pub_key": "dTJRsogrNjr/WyQOZi8gu2IzV7D+dPw5PGOD/k4Ctl8=",
+        "vega_pub_key": "aa7580ce7c064c4c5f1058878878618ae57dcc0ef4dc322866d6b0b08ee20731",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310110947",
+  "chain_id": "vega-devnet1-202310111102",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-11T09:47:36.539566501Z",
+  "genesis_time": "2023-10-11T11:02:31.52608016Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "CDEF871DCD63BB7919B27D6E841745BE48B08F92",
-      "name": "inexpensive-pond",
+      "address": "AC80505FE2C74D6C362AFB841FE1CF7CC3C23504",
+      "name": "faint-man",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "01Q0SdildHWUCfSIQHLMbD6x/71CwpKnsNQdes8QeFo="
+        "value": "dTJRsogrNjr/WyQOZi8gu2IzV7D+dPw5PGOD/k4Ctl8="
       }
     }
   ]
