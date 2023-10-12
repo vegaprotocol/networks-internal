@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "UXFSDvKs5rAQYt9SbgJHNZpPp2JnWJideuQPRvkLBmI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/pkoiibzk2pk1thmsxg9gxa9typjw4u5j?d=identicon",
+        "country": "RQ",
+        "ethereum_address": "0xD0EeA9c3E3Fe1d5aB8cBfc96f1A92d3eB62ce8cE",
+        "id": "723fd943de938af436cab0f995e96d3753aabedcb775a2b9aa9a4ba64ca4b067",
+        "info_url": "https://en.wikipedia.org/wiki/Rodney_Evans_(filmmaker)",
+        "name": "frustrating-toy",
+        "tm_pub_key": "UXFSDvKs5rAQYt9SbgJHNZpPp2JnWJideuQPRvkLBmI=",
+        "vega_pub_key": "a8b3ed6b28c3f40494b88ba0971c6e55cf5742d1b5d59eedebae8bb6701171e6",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "ezR8CiiQWocDi3P5+MAXPhAPPUrV2noeldPPEG+7Mkg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/tinf0xqc1151qspw3bx3rowj8327jjzs?d=identicon",
-        "country": "VD",
-        "ethereum_address": "0xC033b92e79f1108A73Fb46A1d8C3C89c80d2dd6F",
-        "id": "a94fa9952f06031c549ca9c67ae2aaa59c006ad2124a2df169e06c6af3e4791b",
-        "info_url": "https://en.wikipedia.org/wiki/Reni,_Ukraine",
-        "name": "magnificent-butterfly",
-        "tm_pub_key": "ezR8CiiQWocDi3P5+MAXPhAPPUrV2noeldPPEG+7Mkg=",
-        "vega_pub_key": "8706c2ae9bf8e77072e0bdc5fd16182004da151a94751d22a8725e7513d9216d",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310121639",
+  "chain_id": "vega-devnet1-202310121710",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-12T16:39:02.325381714Z",
+  "genesis_time": "2023-10-12T17:10:52.475602954Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "F53E97FF39934F1F4B3FFF01E7BE8345CD61632A",
-      "name": "magnificent-butterfly",
+      "address": "85F0D535469E0203A01E45F8EFE2C13DF669504B",
+      "name": "frustrating-toy",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ezR8CiiQWocDi3P5+MAXPhAPPUrV2noeldPPEG+7Mkg="
+        "value": "UXFSDvKs5rAQYt9SbgJHNZpPp2JnWJideuQPRvkLBmI="
       }
     }
   ]
