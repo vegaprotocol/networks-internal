@@ -292,6 +292,17 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
+      "ezR8CiiQWocDi3P5+MAXPhAPPUrV2noeldPPEG+7Mkg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/tinf0xqc1151qspw3bx3rowj8327jjzs?d=identicon",
+        "country": "VD",
+        "ethereum_address": "0xC033b92e79f1108A73Fb46A1d8C3C89c80d2dd6F",
+        "id": "a94fa9952f06031c549ca9c67ae2aaa59c006ad2124a2df169e06c6af3e4791b",
+        "info_url": "https://en.wikipedia.org/wiki/Reni,_Ukraine",
+        "name": "magnificent-butterfly",
+        "tm_pub_key": "ezR8CiiQWocDi3P5+MAXPhAPPUrV2noeldPPEG+7Mkg=",
+        "vega_pub_key": "8706c2ae9bf8e77072e0bdc5fd16182004da151a94751d22a8725e7513d9216d",
+        "vega_pub_key_index": 1
+      },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
         "avatar_url": "https://www.gravatar.com/avatar/14wh06jhnafyxu5ea1p41y8972c1flw0?d=identicon",
         "country": "QX",
@@ -313,21 +324,10 @@
         "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
-      },
-      "wecbz1tdnByQNrz1uZPnKPw5rFDmlJGd4ECxnR7bj1M=": {
-        "avatar_url": "https://www.gravatar.com/avatar/8e4bn16q4bmbrg2pscphpmsdbad2icfo?d=identicon",
-        "country": "FH",
-        "ethereum_address": "0x5Da18AC02dB02936575B91025dEE4C5eD8E01Ef6",
-        "id": "52baac36bb63aa27e3321c8f990691eca8463023c1a23f52e3a12692c81db3d1",
-        "info_url": "https://en.wikipedia.org/wiki/Kripke_structure_(model_checking)",
-        "name": "narrow-mouse",
-        "tm_pub_key": "wecbz1tdnByQNrz1uZPnKPw5rFDmlJGd4ECxnR7bj1M=",
-        "vega_pub_key": "cad277353fbe88904cbbca8111e5dbbf5d643f0da97a63f79bab4690bc5ffc0b",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202310121513",
+  "chain_id": "vega-devnet1-202310121639",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-12T15:13:45.59673766Z",
+  "genesis_time": "2023-10-12T16:39:02.325381714Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "1B7BDEFC744275C787A8E64A7322B8ED0E73D92C",
-      "name": "narrow-mouse",
+      "address": "F53E97FF39934F1F4B3FFF01E7BE8345CD61632A",
+      "name": "magnificent-butterfly",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "wecbz1tdnByQNrz1uZPnKPw5rFDmlJGd4ECxnR7bj1M="
+        "value": "ezR8CiiQWocDi3P5+MAXPhAPPUrV2noeldPPEG+7Mkg="
       }
     }
   ]
