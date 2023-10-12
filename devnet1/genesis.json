@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "J9fIlg3medhE0sKM+OeuB5iNWpf2mwOq1F7evMpQa2c=": {
-        "avatar_url": "https://www.gravatar.com/avatar/vxyijiclteqofusor34gae3yinmsa7q4?d=identicon",
-        "country": "NQ",
-        "ethereum_address": "0xb19da8D9835Cb843269382619C110629AB0F51f3",
-        "id": "295414feba254c43a938188b313340e42f6b54e9d2e76a01b701807ce6823b7d",
-        "info_url": "https://en.wikipedia.org/wiki/%C9%81akisq%CC%93nuk_First_Nation",
-        "name": "brave-roof",
-        "tm_pub_key": "J9fIlg3medhE0sKM+OeuB5iNWpf2mwOq1F7evMpQa2c=",
-        "vega_pub_key": "1c946b197eda16aaf0f1ec07550f857f6fcddf8568dbbd4df353e46ad346452d",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -324,10 +313,21 @@
         "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
+      },
+      "wecbz1tdnByQNrz1uZPnKPw5rFDmlJGd4ECxnR7bj1M=": {
+        "avatar_url": "https://www.gravatar.com/avatar/8e4bn16q4bmbrg2pscphpmsdbad2icfo?d=identicon",
+        "country": "FH",
+        "ethereum_address": "0x5Da18AC02dB02936575B91025dEE4C5eD8E01Ef6",
+        "id": "52baac36bb63aa27e3321c8f990691eca8463023c1a23f52e3a12692c81db3d1",
+        "info_url": "https://en.wikipedia.org/wiki/Kripke_structure_(model_checking)",
+        "name": "narrow-mouse",
+        "tm_pub_key": "wecbz1tdnByQNrz1uZPnKPw5rFDmlJGd4ECxnR7bj1M=",
+        "vega_pub_key": "cad277353fbe88904cbbca8111e5dbbf5d643f0da97a63f79bab4690bc5ffc0b",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202310121137",
+  "chain_id": "vega-devnet1-202310121513",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-12T11:37:13.206414965Z",
+  "genesis_time": "2023-10-12T15:13:45.59673766Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "A4E3B65805CAD1E533EDD3CF1801BEDDA5BFE1FE",
-      "name": "brave-roof",
+      "address": "1B7BDEFC744275C787A8E64A7322B8ED0E73D92C",
+      "name": "narrow-mouse",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "J9fIlg3medhE0sKM+OeuB5iNWpf2mwOq1F7evMpQa2c="
+        "value": "wecbz1tdnByQNrz1uZPnKPw5rFDmlJGd4ECxnR7bj1M="
       }
     }
   ]
