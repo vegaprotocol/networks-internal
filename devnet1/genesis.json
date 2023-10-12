@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "UXFSDvKs5rAQYt9SbgJHNZpPp2JnWJideuQPRvkLBmI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/pkoiibzk2pk1thmsxg9gxa9typjw4u5j?d=identicon",
-        "country": "RQ",
-        "ethereum_address": "0xD0EeA9c3E3Fe1d5aB8cBfc96f1A92d3eB62ce8cE",
-        "id": "723fd943de938af436cab0f995e96d3753aabedcb775a2b9aa9a4ba64ca4b067",
-        "info_url": "https://en.wikipedia.org/wiki/Rodney_Evans_(filmmaker)",
-        "name": "frustrating-toy",
-        "tm_pub_key": "UXFSDvKs5rAQYt9SbgJHNZpPp2JnWJideuQPRvkLBmI=",
-        "vega_pub_key": "a8b3ed6b28c3f40494b88ba0971c6e55cf5742d1b5d59eedebae8bb6701171e6",
+      "2jU8dO0mhNewR48rRQGYlaCSGdRR/0pm0vObfaNYzyw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xg417j51wphrzc4kuv27fs8uc4e7bvej?d=identicon",
+        "country": "XA",
+        "ethereum_address": "0x5a3329236F132a7d8740ddd369A13f880FE06d45",
+        "id": "6bc6993fa5653eb31acc69dfc96e754b25942ac8a41e0a522a59fb95de256cfc",
+        "info_url": "https://en.wikipedia.org/wiki/Trina_Saha",
+        "name": "excited-town",
+        "tm_pub_key": "2jU8dO0mhNewR48rRQGYlaCSGdRR/0pm0vObfaNYzyw=",
+        "vega_pub_key": "b7c6dc6406d985fd1b1aef85edb98bf5dec8d2784a1aedbed6171f4071a15198",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310121710",
+  "chain_id": "vega-devnet1-202310121842",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-12T17:10:52.475602954Z",
+  "genesis_time": "2023-10-12T18:42:58.572298489Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "85F0D535469E0203A01E45F8EFE2C13DF669504B",
-      "name": "frustrating-toy",
+      "address": "091770C45890BBCE6B79C4E2B7D1E224B386EE74",
+      "name": "excited-town",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "UXFSDvKs5rAQYt9SbgJHNZpPp2JnWJideuQPRvkLBmI="
+        "value": "2jU8dO0mhNewR48rRQGYlaCSGdRR/0pm0vObfaNYzyw="
       }
     }
   ]
