@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "J9fIlg3medhE0sKM+OeuB5iNWpf2mwOq1F7evMpQa2c=": {
+        "avatar_url": "https://www.gravatar.com/avatar/vxyijiclteqofusor34gae3yinmsa7q4?d=identicon",
+        "country": "NQ",
+        "ethereum_address": "0xb19da8D9835Cb843269382619C110629AB0F51f3",
+        "id": "295414feba254c43a938188b313340e42f6b54e9d2e76a01b701807ce6823b7d",
+        "info_url": "https://en.wikipedia.org/wiki/%C9%81akisq%CC%93nuk_First_Nation",
+        "name": "brave-roof",
+        "tm_pub_key": "J9fIlg3medhE0sKM+OeuB5iNWpf2mwOq1F7evMpQa2c=",
+        "vega_pub_key": "1c946b197eda16aaf0f1ec07550f857f6fcddf8568dbbd4df353e46ad346452d",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "pZAh/WgV1n2qwrjBlLCtsm7LVX9USjzRzMle+2JujYc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/u6lme3dqkiyt64p9h41sfqkg4v3eg6om?d=identicon",
-        "country": "TM",
-        "ethereum_address": "0x1eD268A66916Ea51c011665b7fC6541695FDE9A2",
-        "id": "21c58302a22393fccb05d79eda7f76a8e484d0c3cbca7524cb45cde7b20b2ac3",
-        "info_url": "https://en.wikipedia.org/wiki/J._Fred_Helf",
-        "name": "costly-pool",
-        "tm_pub_key": "pZAh/WgV1n2qwrjBlLCtsm7LVX9USjzRzMle+2JujYc=",
-        "vega_pub_key": "2ca27e1f7c24bfe6c0616e53edd118df96e212fbbf1d7f72889cfa7f84c94e13",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310120959",
+  "chain_id": "vega-devnet1-202310121137",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-12T09:59:15.257765454Z",
+  "genesis_time": "2023-10-12T11:37:13.206414965Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "8711EA9290BADA6A3B65BBC3E2EB89F2C859F50A",
-      "name": "costly-pool",
+      "address": "A4E3B65805CAD1E533EDD3CF1801BEDDA5BFE1FE",
+      "name": "brave-roof",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "pZAh/WgV1n2qwrjBlLCtsm7LVX9USjzRzMle+2JujYc="
+        "value": "J9fIlg3medhE0sKM+OeuB5iNWpf2mwOq1F7evMpQa2c="
       }
     }
   ]
