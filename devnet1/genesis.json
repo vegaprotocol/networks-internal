@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "1/Hbql9kCoOaDXGqu+vJX4lO9Uca7nFA8W2aOEl7pVw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/7cl0d5lqzmnookztq81jia1hbxhfrz2e?d=identicon",
-        "country": "AV",
-        "ethereum_address": "0xBB80784502C53a6F154Ba34f1D360A6672ccBB37",
-        "id": "5664e382f25ecfd55f61dbd182f3c438a7732cb8ed16d172c825d75cdf62085d",
-        "info_url": "https://en.wikipedia.org/wiki/Florence_Quentin",
-        "name": "timely-barber",
-        "tm_pub_key": "1/Hbql9kCoOaDXGqu+vJX4lO9Uca7nFA8W2aOEl7pVw=",
-        "vega_pub_key": "38d501651bb586a70dfe63111ed48f7b8d3ba41058542b77530f0c37906ff943",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "bc7smN2dmeT03btjxvFBSF+77/i3YJG8kY7c/cMJzCw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/507wpepuvf5ucquf63z8e4j66ipgs2zc?d=identicon",
+        "country": "QG",
+        "ethereum_address": "0xFF741533d811817896979944F83481C3AA545B93",
+        "id": "c67a2c5b08fd788241fd5d67f4f337333e32c1013dbb97b076b38563b00857aa",
+        "info_url": "https://en.wikipedia.org/wiki/Calamagrostis_aurea",
+        "name": "harebrained-pool",
+        "tm_pub_key": "bc7smN2dmeT03btjxvFBSF+77/i3YJG8kY7c/cMJzCw=",
+        "vega_pub_key": "c8736db30d554681369bd426b0ed7c505879d06ec8c8dcfce117b737023afd96",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310131245",
+  "chain_id": "vega-devnet1-202310131319",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-13T12:45:01.765183057Z",
+  "genesis_time": "2023-10-13T13:19:09.163908692Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "96CBA3760B6C87698B24478304E3420B28ECE863",
-      "name": "timely-barber",
+      "address": "A3CCC272CE2EC6D46FD9BCF6051BBB82CE613295",
+      "name": "harebrained-pool",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "1/Hbql9kCoOaDXGqu+vJX4lO9Uca7nFA8W2aOEl7pVw="
+        "value": "bc7smN2dmeT03btjxvFBSF+77/i3YJG8kY7c/cMJzCw="
       }
     }
   ]
