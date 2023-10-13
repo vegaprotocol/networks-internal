@@ -314,20 +314,20 @@
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
       },
-      "yf7aiVX6XOI5v1wVUF10UCbjt0r7PD9wpBS3tPTttz8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/b0jclfhcr5e6eg61irpba9k4p1mieg55?d=identicon",
-        "country": "TK",
-        "ethereum_address": "0x863f19f4B48824e16450F4c7BF03144b51935BFB",
-        "id": "fb6e2adcfb63e8cb49267135389924a78b3ebd1972e0c848dd5b007239e4aea4",
-        "info_url": "https://en.wikipedia.org/wiki/Ernest_Alexander_(politician)",
-        "name": "irate-teacher",
-        "tm_pub_key": "yf7aiVX6XOI5v1wVUF10UCbjt0r7PD9wpBS3tPTttz8=",
-        "vega_pub_key": "6a27a1410d976ac935d7f536e6c447f960841b070c2796074fb69e694dcb8ce0",
+      "wlYSbnpe4igeqeR30PZn+BWnCVGOae0g0olMRRjYP+4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/g4qd329hsyh6wf8byq5vcp200u9z9pya?d=identicon",
+        "country": "WV",
+        "ethereum_address": "0xCC49beCF1D9Ed0b388811420179C5d7205c6D43b",
+        "id": "72fc44b2110c403234ba0290cea534af94c0bea38565f8a8e7d455d659fd61b0",
+        "info_url": "https://en.wikipedia.org/wiki/Salm,_Germany",
+        "name": "zippy-butterfly",
+        "tm_pub_key": "wlYSbnpe4igeqeR30PZn+BWnCVGOae0g0olMRRjYP+4=",
+        "vega_pub_key": "a6b5b8490dc7bbe9af5258b00d652bb4ce92df0f228f8f34f141110c1b18ce52",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202310130840",
+  "chain_id": "vega-devnet1-202310130913",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-13T08:40:28.234070442Z",
+  "genesis_time": "2023-10-13T09:13:58.401625364Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "8A368534F1C7E4A5D69E6FDB7CCE395DB738FDB4",
-      "name": "irate-teacher",
+      "address": "346AA46C0D2FD18C31CF065505268E67EBC47B22",
+      "name": "zippy-butterfly",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "yf7aiVX6XOI5v1wVUF10UCbjt0r7PD9wpBS3tPTttz8="
+        "value": "wlYSbnpe4igeqeR30PZn+BWnCVGOae0g0olMRRjYP+4="
       }
     }
   ]
