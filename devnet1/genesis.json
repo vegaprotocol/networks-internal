@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "EVikGTSQOGLwMKsluf9uUSyO5t8Zn7xJue+k5XYx2Xc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/nexbn7ie8qirycov2lc59il9fn8il6o7?d=identicon",
+        "country": "QE",
+        "ethereum_address": "0x633Aaf0a133163f9B8465bb82C8729D7AeC6593f",
+        "id": "3631e040a8730ebfd0b150c2d2a5b56b8c49afd0b4277485c59c63fa775f7309",
+        "info_url": "https://en.wikipedia.org/wiki/Reed_Station,_Indiana",
+        "name": "foolish-sister",
+        "tm_pub_key": "EVikGTSQOGLwMKsluf9uUSyO5t8Zn7xJue+k5XYx2Xc=",
+        "vega_pub_key": "9489c5f9d98ab0498b48c65ee0ff597e5fb99b60b04fea3ba77e3883cb88d6b8",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "b9kREjy+QG9T+djBlZ81i7ZCfyNYJCG+m0yCX3IV9Xw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/sc76s31oj9upigbm4uasf5cgjzu3rqbl?d=identicon",
-        "country": "GH",
-        "ethereum_address": "0xcA5E81bF0abFCD9446C18aA45224f4FdD2b0FA47",
-        "id": "e335cd813d8abfdd283674b9073eeab7fbdbbcb8d90c7203b84f5397e1ba3774",
-        "info_url": "https://en.wikipedia.org/wiki/Mir_Lawang_Khan",
-        "name": "immense-building",
-        "tm_pub_key": "b9kREjy+QG9T+djBlZ81i7ZCfyNYJCG+m0yCX3IV9Xw=",
-        "vega_pub_key": "c01cfac0c94d328f1ab488b8e4ba6fc74c668a2bfb40a2ae0741fd9f214a2c23",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310131415",
+  "chain_id": "vega-devnet1-202310131514",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-13T14:15:37.526373032Z",
+  "genesis_time": "2023-10-13T15:14:34.541031627Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "20DE5F5FC1D68955FEF46ABEFEB38F8D8356F57C",
-      "name": "immense-building",
+      "address": "2D9C5E0AF4547E97CE2E66818E983C2E95C6495E",
+      "name": "foolish-sister",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "b9kREjy+QG9T+djBlZ81i7ZCfyNYJCG+m0yCX3IV9Xw="
+        "value": "EVikGTSQOGLwMKsluf9uUSyO5t8Zn7xJue+k5XYx2Xc="
       }
     }
   ]
