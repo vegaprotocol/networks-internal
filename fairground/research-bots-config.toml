@@ -161,11 +161,11 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         
 
 [scenario.xau_dai_perpetual]
-    market_name = "XAU/DAI-G Perpetual"
+    market_name = "XAU/DAI GOLD Perpetual market"
     binance_code = "XAUUSD"
     step_length_seconds = 3
     [scenario.xau_dai_perpetual.market_manager_args]
-        asset_name = "DAI-G"
+        asset_name = "DAI-GOLD"
         adp = 6
         mdp = 8
         pdp = 0
