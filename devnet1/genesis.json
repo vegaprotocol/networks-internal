@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "EVikGTSQOGLwMKsluf9uUSyO5t8Zn7xJue+k5XYx2Xc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/nexbn7ie8qirycov2lc59il9fn8il6o7?d=identicon",
-        "country": "QE",
-        "ethereum_address": "0x633Aaf0a133163f9B8465bb82C8729D7AeC6593f",
-        "id": "3631e040a8730ebfd0b150c2d2a5b56b8c49afd0b4277485c59c63fa775f7309",
-        "info_url": "https://en.wikipedia.org/wiki/Reed_Station,_Indiana",
-        "name": "foolish-sister",
-        "tm_pub_key": "EVikGTSQOGLwMKsluf9uUSyO5t8Zn7xJue+k5XYx2Xc=",
-        "vega_pub_key": "9489c5f9d98ab0498b48c65ee0ff597e5fb99b60b04fea3ba77e3883cb88d6b8",
+      "B9IyaxPnJ/PclvqlG9jQOm3i/AcLv7uUjfyEKpKpIh0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xwpyn9leiqamyjvh5m4isaoz2bs6isxc?d=identicon",
+        "country": "RU",
+        "ethereum_address": "0x924e464B507d3771e3BF3eD73633689986947C29",
+        "id": "756ed9e92022e65888eb1365eb3474f590e135cf1319466fea9b22605f412fc1",
+        "info_url": "https://en.wikipedia.org/wiki/Youp_van_%27t_Hek",
+        "name": "mysterious-table",
+        "tm_pub_key": "B9IyaxPnJ/PclvqlG9jQOm3i/AcLv7uUjfyEKpKpIh0=",
+        "vega_pub_key": "ce70ad060ed1dea29e2115b8f633bde1265a6d7c648fb3c2da4bb226907723eb",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310131514",
+  "chain_id": "vega-devnet1-202310131624",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-13T15:14:34.541031627Z",
+  "genesis_time": "2023-10-13T16:24:02.846681531Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "2D9C5E0AF4547E97CE2E66818E983C2E95C6495E",
-      "name": "foolish-sister",
+      "address": "68545DC66403920DC68AFB330328706E38F0366B",
+      "name": "mysterious-table",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "EVikGTSQOGLwMKsluf9uUSyO5t8Zn7xJue+k5XYx2Xc="
+        "value": "B9IyaxPnJ/PclvqlG9jQOm3i/AcLv7uUjfyEKpKpIh0="
       }
     }
   ]
