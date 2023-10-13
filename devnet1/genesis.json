@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "B9IyaxPnJ/PclvqlG9jQOm3i/AcLv7uUjfyEKpKpIh0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/xwpyn9leiqamyjvh5m4isaoz2bs6isxc?d=identicon",
-        "country": "RU",
-        "ethereum_address": "0x924e464B507d3771e3BF3eD73633689986947C29",
-        "id": "756ed9e92022e65888eb1365eb3474f590e135cf1319466fea9b22605f412fc1",
-        "info_url": "https://en.wikipedia.org/wiki/Youp_van_%27t_Hek",
-        "name": "mysterious-table",
-        "tm_pub_key": "B9IyaxPnJ/PclvqlG9jQOm3i/AcLv7uUjfyEKpKpIh0=",
-        "vega_pub_key": "ce70ad060ed1dea29e2115b8f633bde1265a6d7c648fb3c2da4bb226907723eb",
+      "DVSPNdQ+JXCub1K1NSWgfjMCjxHkMQ7e/N70HBfNWRI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/nmuirhhx5j9tgpv61wh2umh4smb2n4uk?d=identicon",
+        "country": "DQ",
+        "ethereum_address": "0xb30a7CBf1582a2743cb0748F7E210fC88205F3A5",
+        "id": "982f2b626948dd94022515e8dbecf85b1aa73020e0b05043388b38dea9344572",
+        "info_url": "https://en.wikipedia.org/wiki/Vera_Bulatova",
+        "name": "opportune-honey",
+        "tm_pub_key": "DVSPNdQ+JXCub1K1NSWgfjMCjxHkMQ7e/N70HBfNWRI=",
+        "vega_pub_key": "99cb1f0ade6d77af7d4807ddb8ce799ff920abc5bd3ad75523f3c61053d5bf54",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310131624",
+  "chain_id": "vega-devnet1-202310131658",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-13T16:24:02.846681531Z",
+  "genesis_time": "2023-10-13T16:58:30.064523105Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "68545DC66403920DC68AFB330328706E38F0366B",
-      "name": "mysterious-table",
+      "address": "7990E75F13BC17615AA5A5599BFBF74C954E3BC3",
+      "name": "opportune-honey",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "B9IyaxPnJ/PclvqlG9jQOm3i/AcLv7uUjfyEKpKpIh0="
+        "value": "DVSPNdQ+JXCub1K1NSWgfjMCjxHkMQ7e/N70HBfNWRI="
       }
     }
   ]
