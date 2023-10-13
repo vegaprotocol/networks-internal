@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "cHWR90ZUWgYQRuu0kvtGBNVtLfjL5W1uyJa8FT6gaUg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/wexiyp5kg7ruy0r6qgy5o21gp36tu3j2?d=identicon",
-        "country": "MK",
-        "ethereum_address": "0x1A58bd7b89BA8A766F0923d4E759e855538EC768",
-        "id": "8357a03c7f0eb9cf42c8e78d1ba3eace457c4e9509f98916488fb20e029046e9",
-        "info_url": "https://en.wikipedia.org/wiki/Kentucky_Railway_Museum",
-        "name": "salmon-barber",
-        "tm_pub_key": "cHWR90ZUWgYQRuu0kvtGBNVtLfjL5W1uyJa8FT6gaUg=",
-        "vega_pub_key": "56db62de81f6b16a471e444900cf0eddd1d2141ad78757732464df3b462946ff",
+      "XAVTddSw6Lwm2yUe9hA8hQ7oISpkJFYM+D3sTUOyjrE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/p5uvsrgjkwywtxp68sbgywcu46nw3rj5?d=identicon",
+        "country": "HC",
+        "ethereum_address": "0x39290dd5A39Cfa0B658Aea33dd5F2d969F604a2e",
+        "id": "c65ccfc29158d7a4049fd54cb1f8aee0bb8da76827bdfe56937aabf788f473d3",
+        "info_url": "https://en.wikipedia.org/wiki/Transcontinental_Express",
+        "name": "determined-pencil",
+        "tm_pub_key": "XAVTddSw6Lwm2yUe9hA8hQ7oISpkJFYM+D3sTUOyjrE=",
+        "vega_pub_key": "348bd0a058ce13898a0755f6b0d46316f09c333282ac10ed42ddc3ad14b3e9bf",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310131044",
+  "chain_id": "vega-devnet1-202310131117",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-13T10:44:51.882950819Z",
+  "genesis_time": "2023-10-13T11:17:53.140450584Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "1108BB31B99CCE67F3F0EBD1D7087B3D52FA8EC6",
-      "name": "salmon-barber",
+      "address": "EABB6418C0E2D67CC27F34700D928E049F956887",
+      "name": "determined-pencil",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "cHWR90ZUWgYQRuu0kvtGBNVtLfjL5W1uyJa8FT6gaUg="
+        "value": "XAVTddSw6Lwm2yUe9hA8hQ7oISpkJFYM+D3sTUOyjrE="
       }
     }
   ]
