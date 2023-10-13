@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "2jU8dO0mhNewR48rRQGYlaCSGdRR/0pm0vObfaNYzyw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/xg417j51wphrzc4kuv27fs8uc4e7bvej?d=identicon",
-        "country": "XA",
-        "ethereum_address": "0x5a3329236F132a7d8740ddd369A13f880FE06d45",
-        "id": "6bc6993fa5653eb31acc69dfc96e754b25942ac8a41e0a522a59fb95de256cfc",
-        "info_url": "https://en.wikipedia.org/wiki/Trina_Saha",
-        "name": "excited-town",
-        "tm_pub_key": "2jU8dO0mhNewR48rRQGYlaCSGdRR/0pm0vObfaNYzyw=",
-        "vega_pub_key": "b7c6dc6406d985fd1b1aef85edb98bf5dec8d2784a1aedbed6171f4071a15198",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -324,10 +313,21 @@
         "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
+      },
+      "yf7aiVX6XOI5v1wVUF10UCbjt0r7PD9wpBS3tPTttz8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/b0jclfhcr5e6eg61irpba9k4p1mieg55?d=identicon",
+        "country": "TK",
+        "ethereum_address": "0x863f19f4B48824e16450F4c7BF03144b51935BFB",
+        "id": "fb6e2adcfb63e8cb49267135389924a78b3ebd1972e0c848dd5b007239e4aea4",
+        "info_url": "https://en.wikipedia.org/wiki/Ernest_Alexander_(politician)",
+        "name": "irate-teacher",
+        "tm_pub_key": "yf7aiVX6XOI5v1wVUF10UCbjt0r7PD9wpBS3tPTttz8=",
+        "vega_pub_key": "6a27a1410d976ac935d7f536e6c447f960841b070c2796074fb69e694dcb8ce0",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202310121842",
+  "chain_id": "vega-devnet1-202310130801",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-12T18:42:58.572298489Z",
+  "genesis_time": "2023-10-13T08:01:52.966763125Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "091770C45890BBCE6B79C4E2B7D1E224B386EE74",
-      "name": "excited-town",
+      "address": "8A368534F1C7E4A5D69E6FDB7CCE395DB738FDB4",
+      "name": "irate-teacher",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "2jU8dO0mhNewR48rRQGYlaCSGdRR/0pm0vObfaNYzyw="
+        "value": "yf7aiVX6XOI5v1wVUF10UCbjt0r7PD9wpBS3tPTttz8="
       }
     }
   ]
