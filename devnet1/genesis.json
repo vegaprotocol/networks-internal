@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "bc7smN2dmeT03btjxvFBSF+77/i3YJG8kY7c/cMJzCw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/507wpepuvf5ucquf63z8e4j66ipgs2zc?d=identicon",
-        "country": "QG",
-        "ethereum_address": "0xFF741533d811817896979944F83481C3AA545B93",
-        "id": "c67a2c5b08fd788241fd5d67f4f337333e32c1013dbb97b076b38563b00857aa",
-        "info_url": "https://en.wikipedia.org/wiki/Calamagrostis_aurea",
-        "name": "harebrained-pool",
-        "tm_pub_key": "bc7smN2dmeT03btjxvFBSF+77/i3YJG8kY7c/cMJzCw=",
-        "vega_pub_key": "c8736db30d554681369bd426b0ed7c505879d06ec8c8dcfce117b737023afd96",
+      "b9kREjy+QG9T+djBlZ81i7ZCfyNYJCG+m0yCX3IV9Xw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/sc76s31oj9upigbm4uasf5cgjzu3rqbl?d=identicon",
+        "country": "GH",
+        "ethereum_address": "0xcA5E81bF0abFCD9446C18aA45224f4FdD2b0FA47",
+        "id": "e335cd813d8abfdd283674b9073eeab7fbdbbcb8d90c7203b84f5397e1ba3774",
+        "info_url": "https://en.wikipedia.org/wiki/Mir_Lawang_Khan",
+        "name": "immense-building",
+        "tm_pub_key": "b9kREjy+QG9T+djBlZ81i7ZCfyNYJCG+m0yCX3IV9Xw=",
+        "vega_pub_key": "c01cfac0c94d328f1ab488b8e4ba6fc74c668a2bfb40a2ae0741fd9f214a2c23",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310131319",
+  "chain_id": "vega-devnet1-202310131415",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-13T13:19:09.163908692Z",
+  "genesis_time": "2023-10-13T14:15:37.526373032Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "A3CCC272CE2EC6D46FD9BCF6051BBB82CE613295",
-      "name": "harebrained-pool",
+      "address": "20DE5F5FC1D68955FEF46ABEFEB38F8D8356F57C",
+      "name": "immense-building",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "bc7smN2dmeT03btjxvFBSF+77/i3YJG8kY7c/cMJzCw="
+        "value": "b9kREjy+QG9T+djBlZ81i7ZCfyNYJCG+m0yCX3IV9Xw="
       }
     }
   ]
