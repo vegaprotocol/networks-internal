@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "DVSPNdQ+JXCub1K1NSWgfjMCjxHkMQ7e/N70HBfNWRI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/nmuirhhx5j9tgpv61wh2umh4smb2n4uk?d=identicon",
+        "country": "DQ",
+        "ethereum_address": "0xb30a7CBf1582a2743cb0748F7E210fC88205F3A5",
+        "id": "982f2b626948dd94022515e8dbecf85b1aa73020e0b05043388b38dea9344572",
+        "info_url": "https://en.wikipedia.org/wiki/Vera_Bulatova",
+        "name": "opportune-honey",
+        "tm_pub_key": "DVSPNdQ+JXCub1K1NSWgfjMCjxHkMQ7e/N70HBfNWRI=",
+        "vega_pub_key": "99cb1f0ade6d77af7d4807ddb8ce799ff920abc5bd3ad75523f3c61053d5bf54",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "gwhssSisy+OiWGkDnn8DifxlxP8DPlfkIdZanxLlbq8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/rj1xcuajg4q1xr194r5rl6e4cwxsgxb1?d=identicon",
-        "country": "BX",
-        "ethereum_address": "0xC60acB646a66AA6dbc41aE5E83Ae7531ee5d639b",
-        "id": "1868dfb9292a8195abdbfb4c7643981f271a4ee3af70bfa0b11ef8efaa35b98b",
-        "info_url": "https://en.wikipedia.org/wiki/The_New_Czars",
-        "name": "orange-brother",
-        "tm_pub_key": "gwhssSisy+OiWGkDnn8DifxlxP8DPlfkIdZanxLlbq8=",
-        "vega_pub_key": "677a64ca8eab3c6b4238a0f903d923a015638b0c28ecb15312b232067b550fa0",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310112124",
+  "chain_id": "vega-devnet1-202310131658",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-11T21:24:34.911954716Z",
+  "genesis_time": "2023-10-13T16:58:30.064523105Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "063936441797339818EB2BAB0BA97738956221E9",
-      "name": "orange-brother",
+      "address": "7990E75F13BC17615AA5A5599BFBF74C954E3BC3",
+      "name": "opportune-honey",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "gwhssSisy+OiWGkDnn8DifxlxP8DPlfkIdZanxLlbq8="
+        "value": "DVSPNdQ+JXCub1K1NSWgfjMCjxHkMQ7e/N70HBfNWRI="
       }
     }
   ]
