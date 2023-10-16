@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "4vesACCBUW9UuJ8g5BwISVnpiVDlEFjOlIe3SXcQ7qg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/hi4nu4bgr0x8v5xfp644jtff50q1cvie?d=identicon",
+        "country": "TF",
+        "ethereum_address": "0xB5a02D432F91762DbfC7E79AA2b39D11D07d04A8",
+        "id": "dc61a3d846ef6fad63add4e72c66f98b6cfef49714d1cb60da6aacb55fa28260",
+        "info_url": "https://en.wikipedia.org/wiki/Oligostigma_semimarginale",
+        "name": "famous-cookie",
+        "tm_pub_key": "4vesACCBUW9UuJ8g5BwISVnpiVDlEFjOlIe3SXcQ7qg=",
+        "vega_pub_key": "07f7194afecb213b7040896d21ec7c45ae9a04ca6d518fd5c8e0989e5ea2212b",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "c6l3G/7wAn8ltTychZd018bvPMK4aIIRGyN1XdjNkM4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/7t2zn0de9xjdqafqzqf6q6elj0ztbdft?d=identicon",
-        "country": "EH",
-        "ethereum_address": "0x82C3064048314bba034499f858bF372f87D9A421",
-        "id": "7a7b144f0898e96992d385a3ba9407dfb2fa91926c829f72226f307b2625345f",
-        "info_url": "https://en.wikipedia.org/wiki/NRJ_Group",
-        "name": "tender-cloud",
-        "tm_pub_key": "c6l3G/7wAn8ltTychZd018bvPMK4aIIRGyN1XdjNkM4=",
-        "vega_pub_key": "0dbbd57887569d9e2e6fda95150dcb8b62acafd95c97f9dc536c745c0d6d968d",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310161748",
+  "chain_id": "vega-devnet1-202310161904",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-16T17:48:18.69091538Z",
+  "genesis_time": "2023-10-16T19:04:04.020818267Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "3F7803751606760D4DE175ED3D2E18D0557557F1",
-      "name": "tender-cloud",
+      "address": "63B258450CB17AC54910121D8214AA8CD57F2D7D",
+      "name": "famous-cookie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "c6l3G/7wAn8ltTychZd018bvPMK4aIIRGyN1XdjNkM4="
+        "value": "4vesACCBUW9UuJ8g5BwISVnpiVDlEFjOlIe3SXcQ7qg="
       }
     }
   ]
