@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "+XlFNAvRFYqwP7+HKDB9w+Ks86l0twIMP9Qpr5hQoBg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/3pjsj9xv4m7ok72ytipovfm1bhc2q5fe?d=identicon",
-        "country": "UP",
-        "ethereum_address": "0xd8aC9793E5B2A8Ba5D869a24A7AEb1A05A6ea45e",
-        "id": "fea56eb790dfdc4e66db8bd81fca242a0234e62913216aa965a85f5f6d37cb1b",
-        "info_url": "https://en.wikipedia.org/wiki/2018_Ladies_Championship_Gstaad_%E2%80%93_Singles",
-        "name": "tense-milk",
-        "tm_pub_key": "+XlFNAvRFYqwP7+HKDB9w+Ks86l0twIMP9Qpr5hQoBg=",
-        "vega_pub_key": "999b9529f1839fcace6891e3d0835912d11fe1e13a66fb174f7331df5ff61e5d",
+      "U9bopGxMpf5b+WTDsmqWnAj5ryoKxxRVBVlUUsx8NZE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ep7aknl9q9ha3pnytd42q3mjyj7o2pev?d=identicon",
+        "country": "KG",
+        "ethereum_address": "0x9a2fFb5299C63a79a4a1671D89eF41c23dc7976f",
+        "id": "7b832274284c805966ab7b561f4d6a329697090115eaeef8ac85c877e1ab7e09",
+        "info_url": "https://en.wikipedia.org/wiki/Lambda_Phi_Xi",
+        "name": "clever-monkey",
+        "tm_pub_key": "U9bopGxMpf5b+WTDsmqWnAj5ryoKxxRVBVlUUsx8NZE=",
+        "vega_pub_key": "cf9acf3ff73e821e1165ed20bb8d425814834b01372a4d84745fded8d56d138a",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310161127",
+  "chain_id": "vega-devnet1-202310161205",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-16T11:27:15.781355742Z",
+  "genesis_time": "2023-10-16T12:05:20.570428534Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "56F68E41C96F77D08AD5A16F70268E9B8866C8B0",
-      "name": "tense-milk",
+      "address": "5C777516D177821648498A33BA23162A1417CDF7",
+      "name": "clever-monkey",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "+XlFNAvRFYqwP7+HKDB9w+Ks86l0twIMP9Qpr5hQoBg="
+        "value": "U9bopGxMpf5b+WTDsmqWnAj5ryoKxxRVBVlUUsx8NZE="
       }
     }
   ]
