@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "DVSPNdQ+JXCub1K1NSWgfjMCjxHkMQ7e/N70HBfNWRI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/nmuirhhx5j9tgpv61wh2umh4smb2n4uk?d=identicon",
-        "country": "DQ",
-        "ethereum_address": "0xb30a7CBf1582a2743cb0748F7E210fC88205F3A5",
-        "id": "982f2b626948dd94022515e8dbecf85b1aa73020e0b05043388b38dea9344572",
-        "info_url": "https://en.wikipedia.org/wiki/Vera_Bulatova",
-        "name": "opportune-honey",
-        "tm_pub_key": "DVSPNdQ+JXCub1K1NSWgfjMCjxHkMQ7e/N70HBfNWRI=",
-        "vega_pub_key": "99cb1f0ade6d77af7d4807ddb8ce799ff920abc5bd3ad75523f3c61053d5bf54",
+      "+XlFNAvRFYqwP7+HKDB9w+Ks86l0twIMP9Qpr5hQoBg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/3pjsj9xv4m7ok72ytipovfm1bhc2q5fe?d=identicon",
+        "country": "UP",
+        "ethereum_address": "0xd8aC9793E5B2A8Ba5D869a24A7AEb1A05A6ea45e",
+        "id": "fea56eb790dfdc4e66db8bd81fca242a0234e62913216aa965a85f5f6d37cb1b",
+        "info_url": "https://en.wikipedia.org/wiki/2018_Ladies_Championship_Gstaad_%E2%80%93_Singles",
+        "name": "tense-milk",
+        "tm_pub_key": "+XlFNAvRFYqwP7+HKDB9w+Ks86l0twIMP9Qpr5hQoBg=",
+        "vega_pub_key": "999b9529f1839fcace6891e3d0835912d11fe1e13a66fb174f7331df5ff61e5d",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310131658",
+  "chain_id": "vega-devnet1-202310161127",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-13T16:58:30.064523105Z",
+  "genesis_time": "2023-10-16T11:27:15.781355742Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "7990E75F13BC17615AA5A5599BFBF74C954E3BC3",
-      "name": "opportune-honey",
+      "address": "56F68E41C96F77D08AD5A16F70268E9B8866C8B0",
+      "name": "tense-milk",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "DVSPNdQ+JXCub1K1NSWgfjMCjxHkMQ7e/N70HBfNWRI="
+        "value": "+XlFNAvRFYqwP7+HKDB9w+Ks86l0twIMP9Qpr5hQoBg="
       }
     }
   ]
