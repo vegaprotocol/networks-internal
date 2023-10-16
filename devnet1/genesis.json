@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "flM3/6kL45Zf8giM0/szqs4Gudw38jQETsp7dFxsoOI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/juidlqztbccqsyvdrb22va12qh9cfidh?d=identicon",
-        "country": "AH",
-        "ethereum_address": "0x4c8f514463c90Ed3035BA9E15AD29b5579e4c2A0",
-        "id": "a12b5aa68bf20c4a85db53e2148e67f03300e475f867278dd569f4dc86bf54d4",
-        "info_url": "https://en.wikipedia.org/wiki/Enchocrates_habroschema",
-        "name": "intrigued-brother",
-        "tm_pub_key": "flM3/6kL45Zf8giM0/szqs4Gudw38jQETsp7dFxsoOI=",
-        "vega_pub_key": "7eccae5cde54cc315b9c9e4a4d1899cae18c42fc478958308eca30f049608607",
+      "c6l3G/7wAn8ltTychZd018bvPMK4aIIRGyN1XdjNkM4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/7t2zn0de9xjdqafqzqf6q6elj0ztbdft?d=identicon",
+        "country": "EH",
+        "ethereum_address": "0x82C3064048314bba034499f858bF372f87D9A421",
+        "id": "7a7b144f0898e96992d385a3ba9407dfb2fa91926c829f72226f307b2625345f",
+        "info_url": "https://en.wikipedia.org/wiki/NRJ_Group",
+        "name": "tender-cloud",
+        "tm_pub_key": "c6l3G/7wAn8ltTychZd018bvPMK4aIIRGyN1XdjNkM4=",
+        "vega_pub_key": "0dbbd57887569d9e2e6fda95150dcb8b62acafd95c97f9dc536c745c0d6d968d",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310161640",
+  "chain_id": "vega-devnet1-202310161718",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-16T16:40:34.516450348Z",
+  "genesis_time": "2023-10-16T17:18:00.126153593Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "40774B1512BFA0CD8CEED4353778983B3E20AD55",
-      "name": "intrigued-brother",
+      "address": "3F7803751606760D4DE175ED3D2E18D0557557F1",
+      "name": "tender-cloud",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "flM3/6kL45Zf8giM0/szqs4Gudw38jQETsp7dFxsoOI="
+        "value": "c6l3G/7wAn8ltTychZd018bvPMK4aIIRGyN1XdjNkM4="
       }
     }
   ]
