@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "KWBdL3G/xI9PNAAHLN4K0t7BB/KOv1Hn9YhhCzTR01c=": {
-        "avatar_url": "https://www.gravatar.com/avatar/y0ludiy7jdl94itkli23y4j5foj4l3b3?d=identicon",
-        "country": "UP",
-        "ethereum_address": "0x23318b91509c33Dc3d5F5f440461902B055E235D",
-        "id": "e4c4ccc3e5b12be2f04c0658bcd9d4d5d483d4e225c853a9e876671d95025384",
-        "info_url": "https://en.wikipedia.org/wiki/Neotenogyniidae",
-        "name": "colossal-cookie",
-        "tm_pub_key": "KWBdL3G/xI9PNAAHLN4K0t7BB/KOv1Hn9YhhCzTR01c=",
-        "vega_pub_key": "69762256d5c76bcb93d8b7431f05ca03bdfe3177ec255ce3e7d123bb3de690b8",
+      "CHY06nUlKQdC5FYnRbF14zGnHVVaTW1BgCbe7Md5i0w=": {
+        "avatar_url": "https://www.gravatar.com/avatar/zuronwn3iy28t20de4mn48x0jctflx2l?d=identicon",
+        "country": "WD",
+        "ethereum_address": "0x083053a78a366c4C44Ec72a9AE016A38f71c1C42",
+        "id": "44e635ebb761b5a71e444901fa279f2b662a7036fe28a19a68aa955a00ec087b",
+        "info_url": "https://en.wikipedia.org/wiki/CKX-TV",
+        "name": "promising-pool",
+        "tm_pub_key": "CHY06nUlKQdC5FYnRbF14zGnHVVaTW1BgCbe7Md5i0w=",
+        "vega_pub_key": "68ef61c7c1e7d4a71b5b57fec81577774fc3a22b7040382473883b02af4629ce",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310171425",
+  "chain_id": "vega-devnet1-202310171618",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-17T14:25:59.169876223Z",
+  "genesis_time": "2023-10-17T16:18:46.727873592Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "22D923A29148973176F27411C38C8C5F0E12E6C6",
-      "name": "colossal-cookie",
+      "address": "F47C40B4ECE80247E737B8625684307F784E366C",
+      "name": "promising-pool",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "KWBdL3G/xI9PNAAHLN4K0t7BB/KOv1Hn9YhhCzTR01c="
+        "value": "CHY06nUlKQdC5FYnRbF14zGnHVVaTW1BgCbe7Md5i0w="
       }
     }
   ]
