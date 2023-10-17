@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "CHY06nUlKQdC5FYnRbF14zGnHVVaTW1BgCbe7Md5i0w=": {
-        "avatar_url": "https://www.gravatar.com/avatar/zuronwn3iy28t20de4mn48x0jctflx2l?d=identicon",
-        "country": "WD",
-        "ethereum_address": "0x083053a78a366c4C44Ec72a9AE016A38f71c1C42",
-        "id": "44e635ebb761b5a71e444901fa279f2b662a7036fe28a19a68aa955a00ec087b",
-        "info_url": "https://en.wikipedia.org/wiki/CKX-TV",
-        "name": "promising-pool",
-        "tm_pub_key": "CHY06nUlKQdC5FYnRbF14zGnHVVaTW1BgCbe7Md5i0w=",
-        "vega_pub_key": "68ef61c7c1e7d4a71b5b57fec81577774fc3a22b7040382473883b02af4629ce",
+      "5u25SE6aRHRGlwhWDHlX6gNm+Ky0EvbcYtuYwia+UnI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/41agq8pqums40wwgkn26n3elfp6lq5ev?d=identicon",
+        "country": "RF",
+        "ethereum_address": "0x67675cCA0f936613fC83e1D2C1389Ccbf407A298",
+        "id": "7f1bfc172d26ac088012249b11a4a23ff0a0b875316b38544d3d1452a9cc3dce",
+        "info_url": "https://en.wikipedia.org/wiki/East_Village,_San_Diego",
+        "name": "easy-vacuum",
+        "tm_pub_key": "5u25SE6aRHRGlwhWDHlX6gNm+Ky0EvbcYtuYwia+UnI=",
+        "vega_pub_key": "3fb573c2f5638fe691e6603d9abdbe1e1eefa9fdf6444d48d3b2d66107b04886",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310171618",
+  "chain_id": "vega-devnet1-202310171658",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-17T16:18:46.727873592Z",
+  "genesis_time": "2023-10-17T16:58:33.834141267Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "F47C40B4ECE80247E737B8625684307F784E366C",
-      "name": "promising-pool",
+      "address": "6BAFED63683C7D47BA2B31200DBB08021B1400E7",
+      "name": "easy-vacuum",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "CHY06nUlKQdC5FYnRbF14zGnHVVaTW1BgCbe7Md5i0w="
+        "value": "5u25SE6aRHRGlwhWDHlX6gNm+Ky0EvbcYtuYwia+UnI="
       }
     }
   ]
