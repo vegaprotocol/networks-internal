@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "TeCoWE1Uyg8n7ZfPlnbGgK9ipuqqLLLFhTdEDO/R6lo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/z2cj0o1jmv5fe7osohdhso13aoscsglz?d=identicon",
-        "country": "GV",
-        "ethereum_address": "0x4d9680362C5494527BD1B3100C588890f0367397",
-        "id": "89d6a1d17d59157569171150fdff6278c669c2a7c37f4b4690696895cb68f368",
-        "info_url": "https://en.wikipedia.org/wiki/List_of_unsuccessful_terrorist_plots_in_the_United_States_post-9/11",
-        "name": "oppulent-town",
-        "tm_pub_key": "TeCoWE1Uyg8n7ZfPlnbGgK9ipuqqLLLFhTdEDO/R6lo=",
-        "vega_pub_key": "6e251aa10f646095f19f8bd2272114d0cea1295a6aaae0fff20206719b61663a",
+      "44BiEHdn8EwM5UgGxBpuEx8vKpveepcdocT2zp9kstQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/agc0f8as751ujt89z36k7o9lm9jknh7j?d=identicon",
+        "country": "KS",
+        "ethereum_address": "0x7a13CA7F6f7AD3462039F659BDcD38de25f2dAA9",
+        "id": "d6ba32ddcb485fd95e8d92ca925f056c6ce19362eb4b61171f41834cd9a908cc",
+        "info_url": "https://en.wikipedia.org/wiki/The_Code_Conspiracy",
+        "name": "quiet-mouse",
+        "tm_pub_key": "44BiEHdn8EwM5UgGxBpuEx8vKpveepcdocT2zp9kstQ=",
+        "vega_pub_key": "b4baa1f6bc781bb02512ef4e791f77a0b6bc2677315ee4406402ff3cef6b8658",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310171043",
+  "chain_id": "vega-devnet1-202310171206",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-17T10:43:56.066926333Z",
+  "genesis_time": "2023-10-17T12:06:17.955241682Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "FD86E4297B51AB100EC75BDA725223C2B5D57511",
-      "name": "oppulent-town",
+      "address": "ABC4F830FEF001E5C6DBF610350DBE461C34AB70",
+      "name": "quiet-mouse",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "TeCoWE1Uyg8n7ZfPlnbGgK9ipuqqLLLFhTdEDO/R6lo="
+        "value": "44BiEHdn8EwM5UgGxBpuEx8vKpveepcdocT2zp9kstQ="
       }
     }
   ]
