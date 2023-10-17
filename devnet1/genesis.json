@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "GLHIJURJ9bUuzWXAL09uiQ1AAnEZDq0TtlkAgreYcUA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/5j94e5p2p1xhcaggtb4xt8gwp8fcpeb4?d=identicon",
-        "country": "UA",
-        "ethereum_address": "0xa903c7542B748a41AB7c4dc7A29ACc6b1e7658A0",
-        "id": "21d0289c945fc2b1880697f0414aa91d6839f5187a63a374a13b27a200458097",
-        "info_url": "https://en.wikipedia.org/wiki/Cone_Nebula",
-        "name": "intrigued-cloud",
-        "tm_pub_key": "GLHIJURJ9bUuzWXAL09uiQ1AAnEZDq0TtlkAgreYcUA=",
-        "vega_pub_key": "a0a4a19dda9a2f0f84e2f462703e88a2fc87820afb37fef3fc46aafb848fa96f",
+      "TeCoWE1Uyg8n7ZfPlnbGgK9ipuqqLLLFhTdEDO/R6lo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/z2cj0o1jmv5fe7osohdhso13aoscsglz?d=identicon",
+        "country": "GV",
+        "ethereum_address": "0x4d9680362C5494527BD1B3100C588890f0367397",
+        "id": "89d6a1d17d59157569171150fdff6278c669c2a7c37f4b4690696895cb68f368",
+        "info_url": "https://en.wikipedia.org/wiki/List_of_unsuccessful_terrorist_plots_in_the_United_States_post-9/11",
+        "name": "oppulent-town",
+        "tm_pub_key": "TeCoWE1Uyg8n7ZfPlnbGgK9ipuqqLLLFhTdEDO/R6lo=",
+        "vega_pub_key": "6e251aa10f646095f19f8bd2272114d0cea1295a6aaae0fff20206719b61663a",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310170748",
+  "chain_id": "vega-devnet1-202310171043",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-17T07:48:45.674277505Z",
+  "genesis_time": "2023-10-17T10:43:56.066926333Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "5CC508FDDF406FF06A2AF1DD29E119EC0CBFA235",
-      "name": "intrigued-cloud",
+      "address": "FD86E4297B51AB100EC75BDA725223C2B5D57511",
+      "name": "oppulent-town",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "GLHIJURJ9bUuzWXAL09uiQ1AAnEZDq0TtlkAgreYcUA="
+        "value": "TeCoWE1Uyg8n7ZfPlnbGgK9ipuqqLLLFhTdEDO/R6lo="
       }
     }
   ]
