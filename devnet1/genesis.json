@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "GLHIJURJ9bUuzWXAL09uiQ1AAnEZDq0TtlkAgreYcUA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/5j94e5p2p1xhcaggtb4xt8gwp8fcpeb4?d=identicon",
+        "country": "UA",
+        "ethereum_address": "0xa903c7542B748a41AB7c4dc7A29ACc6b1e7658A0",
+        "id": "21d0289c945fc2b1880697f0414aa91d6839f5187a63a374a13b27a200458097",
+        "info_url": "https://en.wikipedia.org/wiki/Cone_Nebula",
+        "name": "intrigued-cloud",
+        "tm_pub_key": "GLHIJURJ9bUuzWXAL09uiQ1AAnEZDq0TtlkAgreYcUA=",
+        "vega_pub_key": "a0a4a19dda9a2f0f84e2f462703e88a2fc87820afb37fef3fc46aafb848fa96f",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "ek50HJvYHBtyWyzuUyGvt39ULiSzAhENrHmVGhhe2jA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ydjlgg0gdanbiln49p6wb7wixyjr753p?d=identicon",
-        "country": "NZ",
-        "ethereum_address": "0x2fA7ee65461cC341C413C2Bc338469a0F4f89720",
-        "id": "4a4bfdb5d394989beaab6bc38c9598af4efda6841171d471245718ec65eb2b15",
-        "info_url": "https://en.wikipedia.org/wiki/Minnie_(album)",
-        "name": "skinny-television",
-        "tm_pub_key": "ek50HJvYHBtyWyzuUyGvt39ULiSzAhENrHmVGhhe2jA=",
-        "vega_pub_key": "b9267def2bbf6bb33ba660314ec3bd408f2e1df027e1bda51b61ad29679074f2",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310162001",
+  "chain_id": "vega-devnet1-202310170748",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-16T20:01:20.2222172Z",
+  "genesis_time": "2023-10-17T07:48:45.674277505Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "4EB6DEE08E5BAA6FF4CA0E061A8B387129305B20",
-      "name": "skinny-television",
+      "address": "5CC508FDDF406FF06A2AF1DD29E119EC0CBFA235",
+      "name": "intrigued-cloud",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ek50HJvYHBtyWyzuUyGvt39ULiSzAhENrHmVGhhe2jA="
+        "value": "GLHIJURJ9bUuzWXAL09uiQ1AAnEZDq0TtlkAgreYcUA="
       }
     }
   ]
