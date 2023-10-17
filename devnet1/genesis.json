@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "KWBdL3G/xI9PNAAHLN4K0t7BB/KOv1Hn9YhhCzTR01c=": {
+        "avatar_url": "https://www.gravatar.com/avatar/y0ludiy7jdl94itkli23y4j5foj4l3b3?d=identicon",
+        "country": "UP",
+        "ethereum_address": "0x23318b91509c33Dc3d5F5f440461902B055E235D",
+        "id": "e4c4ccc3e5b12be2f04c0658bcd9d4d5d483d4e225c853a9e876671d95025384",
+        "info_url": "https://en.wikipedia.org/wiki/Neotenogyniidae",
+        "name": "colossal-cookie",
+        "tm_pub_key": "KWBdL3G/xI9PNAAHLN4K0t7BB/KOv1Hn9YhhCzTR01c=",
+        "vega_pub_key": "69762256d5c76bcb93d8b7431f05ca03bdfe3177ec255ce3e7d123bb3de690b8",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "nLgRq/hPwo6t5+M44uNcSJHOON6CPrHY65wBvbaErg0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/67pmglib555n0cco3ve2kj97aqwa9ngs?d=identicon",
-        "country": "KG",
-        "ethereum_address": "0x3d54CA4074AC346b7dFc850F185547f4eeBaB3e9",
-        "id": "1a9beafb0a1dc1627f5e350e0f26cd27ee54f3f21bb2b6995b4631967c5b7661",
-        "info_url": "https://en.wikipedia.org/wiki/Tony_Beaver",
-        "name": "clever-baby",
-        "tm_pub_key": "nLgRq/hPwo6t5+M44uNcSJHOON6CPrHY65wBvbaErg0=",
-        "vega_pub_key": "58883e64a1f3a3a128a5295af89e311e56e118bd0febee36c9d625709ba8d925",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310171348",
+  "chain_id": "vega-devnet1-202310171425",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-17T13:48:41.072576898Z",
+  "genesis_time": "2023-10-17T14:25:59.169876223Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "97E4601E320EE25F33AE1FA314C8101DD40476C3",
-      "name": "clever-baby",
+      "address": "22D923A29148973176F27411C38C8C5F0E12E6C6",
+      "name": "colossal-cookie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "nLgRq/hPwo6t5+M44uNcSJHOON6CPrHY65wBvbaErg0="
+        "value": "KWBdL3G/xI9PNAAHLN4K0t7BB/KOv1Hn9YhhCzTR01c="
       }
     }
   ]
