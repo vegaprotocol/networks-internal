@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "5u25SE6aRHRGlwhWDHlX6gNm+Ky0EvbcYtuYwia+UnI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/41agq8pqums40wwgkn26n3elfp6lq5ev?d=identicon",
-        "country": "RF",
-        "ethereum_address": "0x67675cCA0f936613fC83e1D2C1389Ccbf407A298",
-        "id": "7f1bfc172d26ac088012249b11a4a23ff0a0b875316b38544d3d1452a9cc3dce",
-        "info_url": "https://en.wikipedia.org/wiki/East_Village,_San_Diego",
-        "name": "easy-vacuum",
-        "tm_pub_key": "5u25SE6aRHRGlwhWDHlX6gNm+Ky0EvbcYtuYwia+UnI=",
-        "vega_pub_key": "3fb573c2f5638fe691e6603d9abdbe1e1eefa9fdf6444d48d3b2d66107b04886",
+      "B40skbQO9QZd17lBRVNAgOagj5c3Fk0Xa3ZlGuTPcGY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/sv4om61ezi66awmda5xb3zxemksuw9kj?d=identicon",
+        "country": "ZO",
+        "ethereum_address": "0x38ffCA7045e40CFd105372d630424E2a413019AA",
+        "id": "27879a846c07339ce08113336d059248d459612a9b6a6b65cb22badc5440f11e",
+        "info_url": "https://en.wikipedia.org/wiki/Festivali_i_K%C3%ABng%C3%ABs_61",
+        "name": "frantic-chimney",
+        "tm_pub_key": "B40skbQO9QZd17lBRVNAgOagj5c3Fk0Xa3ZlGuTPcGY=",
+        "vega_pub_key": "b759168e71b40347eefb63b1552fa1f6a47a1e35e90e2a724038f5da41b385d4",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310171746",
+  "chain_id": "vega-devnet1-202310181016",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-17T17:46:29.25199786Z",
+  "genesis_time": "2023-10-18T10:16:53.265758536Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "6BAFED63683C7D47BA2B31200DBB08021B1400E7",
-      "name": "easy-vacuum",
+      "address": "4CC29E9471011391E51C91F06FD72A5B825E8D53",
+      "name": "frantic-chimney",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "5u25SE6aRHRGlwhWDHlX6gNm+Ky0EvbcYtuYwia+UnI="
+        "value": "B40skbQO9QZd17lBRVNAgOagj5c3Fk0Xa3ZlGuTPcGY="
       }
     }
   ]
