@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "Freisf7Iwg2vbXSMdOngj88rjhqTvLlRE5VEy2LxstU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ja7rz7zoouwarkbty5wyft2irn5bbz5i?d=identicon",
+        "country": "GS",
+        "ethereum_address": "0x12730dE14d9BF0CCC4b1896B0C7906887872453C",
+        "id": "916aa284a1b63ffcb49874bb7aa1950cd0ac8e782e1a99fa5811dfaa8f9f0be7",
+        "info_url": "https://en.wikipedia.org/wiki/Rebecca_Budig",
+        "name": "orange-wind",
+        "tm_pub_key": "Freisf7Iwg2vbXSMdOngj88rjhqTvLlRE5VEy2LxstU=",
+        "vega_pub_key": "74fa613e2d9bd740982fbb633ae476a425807294540ec25e1ac55afc347715f1",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "m55leSvZXFRSfNz69KRHcWiM3hJbCSKEgUrrrsLkCU4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/tejqzf7rmdzg3jfwezznlxop1k3khn04?d=identicon",
-        "country": "EP",
-        "ethereum_address": "0x68cE08d4374A7C8bfb861fe611D8632A5Ba8116E",
-        "id": "e0ff0d572c9dc9a5434dd9985b54d965b7f9c4d320729884809baa00932e6b34",
-        "info_url": "https://en.wikipedia.org/wiki/Abu_Sel_Bikhat-e_Bozorg",
-        "name": "adventurous-chair",
-        "tm_pub_key": "m55leSvZXFRSfNz69KRHcWiM3hJbCSKEgUrrrsLkCU4=",
-        "vega_pub_key": "1d6c16a963e00e03658e63af3b7dd891151a85360ed87f10051e218c84377450",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310181611",
+  "chain_id": "vega-devnet1-202310181718",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-18T16:11:55.229937512Z",
+  "genesis_time": "2023-10-18T17:18:49.266048669Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "2E25BD78A6BCBA0C9706B979618AD78DEB5C6818",
-      "name": "adventurous-chair",
+      "address": "10872D25BE3D152CA7DD4E1218BE8150C628C33C",
+      "name": "orange-wind",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "m55leSvZXFRSfNz69KRHcWiM3hJbCSKEgUrrrsLkCU4="
+        "value": "Freisf7Iwg2vbXSMdOngj88rjhqTvLlRE5VEy2LxstU="
       }
     }
   ]
