@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "EwqU13fn6HBEsuIFkUC43mEGHSOQppvSxO8rm3xV2lc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/wzug1svmb6i4psuooaq36xi579kc01ti?d=identicon",
-        "country": "YD",
-        "ethereum_address": "0xD93a152D815F0b938d172ac055ad487C636d0A93",
-        "id": "1a9a9f10c79e8d5003ac6e3adbfd869f009209afdb555eb94ffa547c5b0f8bd7",
-        "info_url": "https://en.wikipedia.org/wiki/Kamobe_Station",
-        "name": "opportune-town",
-        "tm_pub_key": "EwqU13fn6HBEsuIFkUC43mEGHSOQppvSxO8rm3xV2lc=",
-        "vega_pub_key": "1b7872e0f1c0d74b8dc639c37d8a69213592bbc8ef4e5a172eeb497ca278e60d",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "m55leSvZXFRSfNz69KRHcWiM3hJbCSKEgUrrrsLkCU4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/tejqzf7rmdzg3jfwezznlxop1k3khn04?d=identicon",
+        "country": "EP",
+        "ethereum_address": "0x68cE08d4374A7C8bfb861fe611D8632A5Ba8116E",
+        "id": "e0ff0d572c9dc9a5434dd9985b54d965b7f9c4d320729884809baa00932e6b34",
+        "info_url": "https://en.wikipedia.org/wiki/Abu_Sel_Bikhat-e_Bozorg",
+        "name": "adventurous-chair",
+        "tm_pub_key": "m55leSvZXFRSfNz69KRHcWiM3hJbCSKEgUrrrsLkCU4=",
+        "vega_pub_key": "1d6c16a963e00e03658e63af3b7dd891151a85360ed87f10051e218c84377450",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310181536",
+  "chain_id": "vega-devnet1-202310181611",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-18T15:36:27.327659205Z",
+  "genesis_time": "2023-10-18T16:11:55.229937512Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "60B8D7F52D3120B905875A1D6AA6F4B1ACB5FE7B",
-      "name": "opportune-town",
+      "address": "2E25BD78A6BCBA0C9706B979618AD78DEB5C6818",
+      "name": "adventurous-chair",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "EwqU13fn6HBEsuIFkUC43mEGHSOQppvSxO8rm3xV2lc="
+        "value": "m55leSvZXFRSfNz69KRHcWiM3hJbCSKEgUrrrsLkCU4="
       }
     }
   ]
