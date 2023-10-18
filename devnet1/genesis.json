@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "B40skbQO9QZd17lBRVNAgOagj5c3Fk0Xa3ZlGuTPcGY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/sv4om61ezi66awmda5xb3zxemksuw9kj?d=identicon",
-        "country": "ZO",
-        "ethereum_address": "0x38ffCA7045e40CFd105372d630424E2a413019AA",
-        "id": "27879a846c07339ce08113336d059248d459612a9b6a6b65cb22badc5440f11e",
-        "info_url": "https://en.wikipedia.org/wiki/Festivali_i_K%C3%ABng%C3%ABs_61",
-        "name": "frantic-chimney",
-        "tm_pub_key": "B40skbQO9QZd17lBRVNAgOagj5c3Fk0Xa3ZlGuTPcGY=",
-        "vega_pub_key": "b759168e71b40347eefb63b1552fa1f6a47a1e35e90e2a724038f5da41b385d4",
+      "EwqU13fn6HBEsuIFkUC43mEGHSOQppvSxO8rm3xV2lc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/wzug1svmb6i4psuooaq36xi579kc01ti?d=identicon",
+        "country": "YD",
+        "ethereum_address": "0xD93a152D815F0b938d172ac055ad487C636d0A93",
+        "id": "1a9a9f10c79e8d5003ac6e3adbfd869f009209afdb555eb94ffa547c5b0f8bd7",
+        "info_url": "https://en.wikipedia.org/wiki/Kamobe_Station",
+        "name": "opportune-town",
+        "tm_pub_key": "EwqU13fn6HBEsuIFkUC43mEGHSOQppvSxO8rm3xV2lc=",
+        "vega_pub_key": "1b7872e0f1c0d74b8dc639c37d8a69213592bbc8ef4e5a172eeb497ca278e60d",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310181016",
+  "chain_id": "vega-devnet1-202310181536",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-18T10:16:53.265758536Z",
+  "genesis_time": "2023-10-18T15:36:27.327659205Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "4CC29E9471011391E51C91F06FD72A5B825E8D53",
-      "name": "frantic-chimney",
+      "address": "60B8D7F52D3120B905875A1D6AA6F4B1ACB5FE7B",
+      "name": "opportune-town",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "B40skbQO9QZd17lBRVNAgOagj5c3Fk0Xa3ZlGuTPcGY="
+        "value": "EwqU13fn6HBEsuIFkUC43mEGHSOQppvSxO8rm3xV2lc="
       }
     }
   ]
