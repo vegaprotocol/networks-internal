@@ -292,6 +292,17 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
+      "nw39FzVcg62Et0iKpDWWM9ssMaBG6WApjRPIbiPbuE4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/1kitd7hmxg9jvpafrgtcg28azvy09myo?d=identicon",
+        "country": "BN",
+        "ethereum_address": "0x635160903809B6009577EC6a79DB203F493A502e",
+        "id": "922ca3f30a2b7d2f5da10184bd3b1a39542d9973dcfbc27956553c4fc8cd7956",
+        "info_url": "https://en.wikipedia.org/wiki/Waterbury_station",
+        "name": "happy-cat",
+        "tm_pub_key": "nw39FzVcg62Et0iKpDWWM9ssMaBG6WApjRPIbiPbuE4=",
+        "vega_pub_key": "9bbf83d7be00683c8e9185dc861990e07a71c9f2c03952b094aaa3a27ddbb823",
+        "vega_pub_key_index": 1
+      },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
         "avatar_url": "https://www.gravatar.com/avatar/14wh06jhnafyxu5ea1p41y8972c1flw0?d=identicon",
         "country": "QX",
@@ -301,17 +312,6 @@
         "name": "helpless-biscuit",
         "tm_pub_key": "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=",
         "vega_pub_key": "ec52a0909053e61531925dbf38ef3419265d41375fc82c967b429ab17548f254",
-        "vega_pub_key_index": 1
-      },
-      "tajHCw/WxixtBZ09gfH23UVbe+7WTjhcRGK3tbrCCUA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/w4jee6y51sm5kj02gcoc9vubntdrs3bv?d=identicon",
-        "country": "VJ",
-        "ethereum_address": "0x3Fa48f008A7C976b9c918cffCd27b52525A93632",
-        "id": "d787bb7f0177685d4ff31babd4c4bc7a88978ff2c25580059cf6891293f81530",
-        "info_url": "https://en.wikipedia.org/wiki/The_Renegade_(wrestler)",
-        "name": "gritty-book",
-        "tm_pub_key": "tajHCw/WxixtBZ09gfH23UVbe+7WTjhcRGK3tbrCCUA=",
-        "vega_pub_key": "3f2cf44bd24d754e4ac7a4bf2dc05d1d5178b12e8c8b8be51859fa0d7da58288",
         "vega_pub_key_index": 1
       },
       "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310191149",
+  "chain_id": "vega-devnet1-202310191340",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-19T11:49:14.031393046Z",
+  "genesis_time": "2023-10-19T13:40:04.300039418Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "324305DA7F077F67A6C1C1D5F9A97C446E6A6BB0",
-      "name": "gritty-book",
+      "address": "BB9BDCE93C3F1E25B6C1CC7E1E00D6AF04598095",
+      "name": "happy-cat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "tajHCw/WxixtBZ09gfH23UVbe+7WTjhcRGK3tbrCCUA="
+        "value": "nw39FzVcg62Et0iKpDWWM9ssMaBG6WApjRPIbiPbuE4="
       }
     }
   ]
