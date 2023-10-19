@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "nw39FzVcg62Et0iKpDWWM9ssMaBG6WApjRPIbiPbuE4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/1kitd7hmxg9jvpafrgtcg28azvy09myo?d=identicon",
-        "country": "BN",
-        "ethereum_address": "0x635160903809B6009577EC6a79DB203F493A502e",
-        "id": "922ca3f30a2b7d2f5da10184bd3b1a39542d9973dcfbc27956553c4fc8cd7956",
-        "info_url": "https://en.wikipedia.org/wiki/Waterbury_station",
-        "name": "happy-cat",
-        "tm_pub_key": "nw39FzVcg62Et0iKpDWWM9ssMaBG6WApjRPIbiPbuE4=",
-        "vega_pub_key": "9bbf83d7be00683c8e9185dc861990e07a71c9f2c03952b094aaa3a27ddbb823",
+      "YTQjAOainSl0yh162nmpkGkqFPjQvUQcNVznLoHgANs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/vgryv5gnteukjysn1jy16lvfhvsg2bv7?d=identicon",
+        "country": "QF",
+        "ethereum_address": "0xc873f39b54e2B9C3552ad647cBe012C00b309487",
+        "id": "92d813cfc26a0d9b4366fd376955b19fd8e5e681516111d3664217ea69b2c2a0",
+        "info_url": "https://en.wikipedia.org/wiki/Sensory_trap_hypothesis",
+        "name": "glorious-phone",
+        "tm_pub_key": "YTQjAOainSl0yh162nmpkGkqFPjQvUQcNVznLoHgANs=",
+        "vega_pub_key": "03d4b67f52a3c6b1d86d0d40dea1518c900f67adfed1bc27c084f91833ba32f1",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310191340",
+  "chain_id": "vega-devnet1-202310191833",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-19T13:40:04.300039418Z",
+  "genesis_time": "2023-10-19T18:33:09.897169441Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "BB9BDCE93C3F1E25B6C1CC7E1E00D6AF04598095",
-      "name": "happy-cat",
+      "address": "D2EDBCF8041E5F5FCEA48B5A088530F56C23CEE9",
+      "name": "glorious-phone",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "nw39FzVcg62Et0iKpDWWM9ssMaBG6WApjRPIbiPbuE4="
+        "value": "YTQjAOainSl0yh162nmpkGkqFPjQvUQcNVznLoHgANs="
       }
     }
   ]
