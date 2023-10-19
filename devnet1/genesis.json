@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "Freisf7Iwg2vbXSMdOngj88rjhqTvLlRE5VEy2LxstU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ja7rz7zoouwarkbty5wyft2irn5bbz5i?d=identicon",
-        "country": "GS",
-        "ethereum_address": "0x12730dE14d9BF0CCC4b1896B0C7906887872453C",
-        "id": "916aa284a1b63ffcb49874bb7aa1950cd0ac8e782e1a99fa5811dfaa8f9f0be7",
-        "info_url": "https://en.wikipedia.org/wiki/Rebecca_Budig",
-        "name": "orange-wind",
-        "tm_pub_key": "Freisf7Iwg2vbXSMdOngj88rjhqTvLlRE5VEy2LxstU=",
-        "vega_pub_key": "74fa613e2d9bd740982fbb633ae476a425807294540ec25e1ac55afc347715f1",
+      "3DOvrLRgDZOPJ3Moa2x2jQn9hBqBFo4BYhJWHeDY7QU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/y3vbvdbt9ugrono3jrm8drjz34jpyy9k?d=identicon",
+        "country": "KH",
+        "ethereum_address": "0xe8325Ea25a7597E845f362c89E3ED3E9d5F437E3",
+        "id": "21526364ef0bd34921bfbe098375fad7c6a40ef558192437187305c68fc79cf4",
+        "info_url": "https://en.wikipedia.org/wiki/Internet_censorship_in_Iran",
+        "name": "graceful-train",
+        "tm_pub_key": "3DOvrLRgDZOPJ3Moa2x2jQn9hBqBFo4BYhJWHeDY7QU=",
+        "vega_pub_key": "d11f72eb285b9c8c648ad55f2de0e2c040a09cbc0f1796711a9ab948b4a8b293",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310181747",
+  "chain_id": "vega-devnet1-202310190830",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-18T17:47:28.087066039Z",
+  "genesis_time": "2023-10-19T08:30:01.230399113Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "10872D25BE3D152CA7DD4E1218BE8150C628C33C",
-      "name": "orange-wind",
+      "address": "8BAA52B1B8F7675BCC34194FCFD571828D9F1DE5",
+      "name": "graceful-train",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Freisf7Iwg2vbXSMdOngj88rjhqTvLlRE5VEy2LxstU="
+        "value": "3DOvrLRgDZOPJ3Moa2x2jQn9hBqBFo4BYhJWHeDY7QU="
       }
     }
   ]
