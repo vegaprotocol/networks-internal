@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "5Xj5eVyM38r3MlTL27mJ/uMrjSmCoiDPenuA+r7x3+g=": {
-        "avatar_url": "https://www.gravatar.com/avatar/pbf0jgz8ejnravf3rtxbuj3gpza883yr?d=identicon",
-        "country": "IC",
-        "ethereum_address": "0xB7F8Fd95c9710Aa938d7457306190cca253D931a",
-        "id": "a0389bb7afd5ef477fbe4be41902000a386ea4607cdfb90c1a4b234585b06bce",
-        "info_url": "https://en.wikipedia.org/wiki/Joe_Keyes_(musician)",
-        "name": "immense-coffee",
-        "tm_pub_key": "5Xj5eVyM38r3MlTL27mJ/uMrjSmCoiDPenuA+r7x3+g=",
-        "vega_pub_key": "1a795e19b8182bf193327075cbf8d45ba2dced9daecbbd7de1ae7d596cacb9f1",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -314,6 +303,17 @@
         "vega_pub_key": "ec52a0909053e61531925dbf38ef3419265d41375fc82c967b429ab17548f254",
         "vega_pub_key_index": 1
       },
+      "tajHCw/WxixtBZ09gfH23UVbe+7WTjhcRGK3tbrCCUA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/w4jee6y51sm5kj02gcoc9vubntdrs3bv?d=identicon",
+        "country": "VJ",
+        "ethereum_address": "0x3Fa48f008A7C976b9c918cffCd27b52525A93632",
+        "id": "d787bb7f0177685d4ff31babd4c4bc7a88978ff2c25580059cf6891293f81530",
+        "info_url": "https://en.wikipedia.org/wiki/The_Renegade_(wrestler)",
+        "name": "gritty-book",
+        "tm_pub_key": "tajHCw/WxixtBZ09gfH23UVbe+7WTjhcRGK3tbrCCUA=",
+        "vega_pub_key": "3f2cf44bd24d754e4ac7a4bf2dc05d1d5178b12e8c8b8be51859fa0d7da58288",
+        "vega_pub_key_index": 1
+      },
       "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=": {
         "avatar_url": "https://www.gravatar.com/avatar/a1ae15bucug2qortml2n4rifwznx19tv?d=identicon",
         "country": "WO",
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310191027",
+  "chain_id": "vega-devnet1-202310191149",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-19T10:27:07.192649069Z",
+  "genesis_time": "2023-10-19T11:49:14.031393046Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "8C9DE59858D1E5118A0646980749172701AA60F5",
-      "name": "immense-coffee",
+      "address": "324305DA7F077F67A6C1C1D5F9A97C446E6A6BB0",
+      "name": "gritty-book",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "5Xj5eVyM38r3MlTL27mJ/uMrjSmCoiDPenuA+r7x3+g="
+        "value": "tajHCw/WxixtBZ09gfH23UVbe+7WTjhcRGK3tbrCCUA="
       }
     }
   ]
