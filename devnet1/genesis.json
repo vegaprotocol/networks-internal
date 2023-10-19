@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "3DOvrLRgDZOPJ3Moa2x2jQn9hBqBFo4BYhJWHeDY7QU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/y3vbvdbt9ugrono3jrm8drjz34jpyy9k?d=identicon",
-        "country": "KH",
-        "ethereum_address": "0xe8325Ea25a7597E845f362c89E3ED3E9d5F437E3",
-        "id": "21526364ef0bd34921bfbe098375fad7c6a40ef558192437187305c68fc79cf4",
-        "info_url": "https://en.wikipedia.org/wiki/Internet_censorship_in_Iran",
-        "name": "graceful-train",
-        "tm_pub_key": "3DOvrLRgDZOPJ3Moa2x2jQn9hBqBFo4BYhJWHeDY7QU=",
-        "vega_pub_key": "d11f72eb285b9c8c648ad55f2de0e2c040a09cbc0f1796711a9ab948b4a8b293",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "anD2IsdLbmhYW6asYHRrhsBm/pzo39wjC7DyemgZoME=": {
+        "avatar_url": "https://www.gravatar.com/avatar/wei9rf2hbqqy9npe590sh0gpzeqymuy7?d=identicon",
+        "country": "NU",
+        "ethereum_address": "0x91aeD492Be5FA8112620ED02A73eb91A205a9334",
+        "id": "b025ac19adda1d065c3ae49b073aa85c6071a12900be1f4f1741cee6e4a61b06",
+        "info_url": "https://en.wikipedia.org/wiki/Brian_Temba",
+        "name": "opportune-barber",
+        "tm_pub_key": "anD2IsdLbmhYW6asYHRrhsBm/pzo39wjC7DyemgZoME=",
+        "vega_pub_key": "f2c7d6575459aca7b595c11e238a7180f045bc156ee81ad0240b83844614f22b",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310190830",
+  "chain_id": "vega-devnet1-202310190904",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-19T08:30:01.230399113Z",
+  "genesis_time": "2023-10-19T09:04:09.003877949Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "8BAA52B1B8F7675BCC34194FCFD571828D9F1DE5",
-      "name": "graceful-train",
+      "address": "C4121EBE6F6C0D4783FAD985E9D1AC60F72362EA",
+      "name": "opportune-barber",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "3DOvrLRgDZOPJ3Moa2x2jQn9hBqBFo4BYhJWHeDY7QU="
+        "value": "anD2IsdLbmhYW6asYHRrhsBm/pzo39wjC7DyemgZoME="
       }
     }
   ]
