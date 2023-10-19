@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "YTQjAOainSl0yh162nmpkGkqFPjQvUQcNVznLoHgANs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/vgryv5gnteukjysn1jy16lvfhvsg2bv7?d=identicon",
-        "country": "QF",
-        "ethereum_address": "0xc873f39b54e2B9C3552ad647cBe012C00b309487",
-        "id": "92d813cfc26a0d9b4366fd376955b19fd8e5e681516111d3664217ea69b2c2a0",
-        "info_url": "https://en.wikipedia.org/wiki/Sensory_trap_hypothesis",
-        "name": "glorious-phone",
-        "tm_pub_key": "YTQjAOainSl0yh162nmpkGkqFPjQvUQcNVznLoHgANs=",
-        "vega_pub_key": "03d4b67f52a3c6b1d86d0d40dea1518c900f67adfed1bc27c084f91833ba32f1",
+      "cFAsKso+ZHfLYPMgO17HfSyb74dFYXKgdchXIdmhjR4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/2p3hsfkb9mo33ggzxr29ptxqoqfdnl2m?d=identicon",
+        "country": "MU",
+        "ethereum_address": "0x56f287f8573FaA9b55D4Fd1eEe464577bAb2132c",
+        "id": "d9f9eb46529fdafe730db77f4762ea594d139d229b66ddf282d35b5c9e62e54e",
+        "info_url": "https://en.wikipedia.org/wiki/Liberty_Clock",
+        "name": "costly-pickle",
+        "tm_pub_key": "cFAsKso+ZHfLYPMgO17HfSyb74dFYXKgdchXIdmhjR4=",
+        "vega_pub_key": "3359e48e4b7d368c847968efc682f0bcca5bac90569b5290ce9d9e6b962b17de",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310191833",
+  "chain_id": "vega-devnet1-202310192104",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-19T18:33:09.897169441Z",
+  "genesis_time": "2023-10-19T21:04:21.434434247Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "D2EDBCF8041E5F5FCEA48B5A088530F56C23CEE9",
-      "name": "glorious-phone",
+      "address": "F6E5DD0C5B6ABEE7F185968010C90AC33352F7BA",
+      "name": "costly-pickle",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "YTQjAOainSl0yh162nmpkGkqFPjQvUQcNVznLoHgANs="
+        "value": "cFAsKso+ZHfLYPMgO17HfSyb74dFYXKgdchXIdmhjR4="
       }
     }
   ]
