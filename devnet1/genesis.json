@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "iLaUNvqZahi22RtGya7GpievgHpL3IZ4nH4ugCAUCBA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/90d39w4og7zlq69n5eh0c9gbyeyhpnbr?d=identicon",
-        "country": "EI",
-        "ethereum_address": "0x6346F008451e8069f05043a539AfAac0b000503e",
-        "id": "a7bea452e186e7437581caf52f3ded111b6c3e4b5625c8251e922b24de9c3ddd",
-        "info_url": "https://en.wikipedia.org/wiki/3_Reconnaissance_Commando_(South_Africa)",
-        "name": "dead-window",
-        "tm_pub_key": "iLaUNvqZahi22RtGya7GpievgHpL3IZ4nH4ugCAUCBA=",
-        "vega_pub_key": "952d3d3e37bede0958fc2a51e4e8cdc78fe9f5dd8eca925e4804ab2e39d75f18",
+      "aNk0iZ6SRS4e9KYc/URQUy4meTaDgy0Lk+SdF3qK3lA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/16x09ibqyautj3yg2886u9xuaguo94oj?d=identicon",
+        "country": "GJ",
+        "ethereum_address": "0xFB88c47d36C6247D69cF46626b0CD990C5b6f7B8",
+        "id": "309f5fcf80f468553f7c93f17cfd8f83dffbcdd95300f35a2da92dd66441103f",
+        "info_url": "https://en.wikipedia.org/wiki/AD_35",
+        "name": "tricky-television",
+        "tm_pub_key": "aNk0iZ6SRS4e9KYc/URQUy4meTaDgy0Lk+SdF3qK3lA=",
+        "vega_pub_key": "c4f269184bc0b68e2ff5cd99a4991eaf540011c10a0f431c1c2bf1b8460296d7",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310201633",
+  "chain_id": "vega-devnet1-202310201658",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-20T16:33:50.285706483Z",
+  "genesis_time": "2023-10-20T16:58:33.63393241Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "3E8FEA5B7302F5B2ADF5C4ED9282F2B601F024E2",
-      "name": "dead-window",
+      "address": "D113864069F5A3305655C93B2C65AD4B5C7004E5",
+      "name": "tricky-television",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "iLaUNvqZahi22RtGya7GpievgHpL3IZ4nH4ugCAUCBA="
+        "value": "aNk0iZ6SRS4e9KYc/URQUy4meTaDgy0Lk+SdF3qK3lA="
       }
     }
   ]
