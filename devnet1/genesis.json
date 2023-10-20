@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "bcIaakV3U4AT7167F8DM/HaoefaA3LBgWEK7sGnXsTA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/h9vpo2zgihu7m28ruot0a1mq16w4oqxe?d=identicon",
-        "country": "NX",
-        "ethereum_address": "0xa6c3a82a5b1599aA5463Ec410BeA306AdfD0966e",
-        "id": "2ba26d14a7dea76fba6e2ad98130108a095e8ba3ae92cb08b771ee6aa6e8acaf",
-        "info_url": "https://en.wikipedia.org/wiki/Donald_Malcolm_McRae",
-        "name": "ideal-beach",
-        "tm_pub_key": "bcIaakV3U4AT7167F8DM/HaoefaA3LBgWEK7sGnXsTA=",
-        "vega_pub_key": "8dea2df8b0465905acb8043ee5a8d3a21f7d8744383c0c097da0c1d2376f50ba",
+      "e8gS/BQc/fogVA/Lb+ukV4gCTCjpmcX2QDIZaPatDRM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/sgqy0ig8kp3z7twzu6wqt6b6n3st7o52?d=identicon",
+        "country": "HV",
+        "ethereum_address": "0x9Ac7139A0FEc4b28655d97e69129A224E6dC3085",
+        "id": "49bb2209b9362c388aa3a064bbbd79caff73c4a0160ec023bc21ac7111716426",
+        "info_url": "https://en.wikipedia.org/wiki/Daniil_Barchenkov",
+        "name": "alive-roof",
+        "tm_pub_key": "e8gS/BQc/fogVA/Lb+ukV4gCTCjpmcX2QDIZaPatDRM=",
+        "vega_pub_key": "f950cb67d6aa95a6a82ded4f646004f873f830faace8f5f097fc434e03bbc4c1",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310200913",
+  "chain_id": "vega-devnet1-202310201016",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-20T09:13:41.174105221Z",
+  "genesis_time": "2023-10-20T10:16:40.208098476Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "3BDE9972C1A165A76D77318FD8FE41972874213D",
-      "name": "ideal-beach",
+      "address": "96BB00D051D6812E4C525B159A247D1355E2D220",
+      "name": "alive-roof",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "bcIaakV3U4AT7167F8DM/HaoefaA3LBgWEK7sGnXsTA="
+        "value": "e8gS/BQc/fogVA/Lb+ukV4gCTCjpmcX2QDIZaPatDRM="
       }
     }
   ]
