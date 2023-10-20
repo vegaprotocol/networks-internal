@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "Fx4xi6NvxY+h88Jkw4+sPq11Gz+/cbukgyjbdq9MABw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/7nk0xs895irnk1x0xhfww8b0hqx75rom?d=identicon",
+        "country": "NS",
+        "ethereum_address": "0xdC5d297f8Ffd96FdAB60a7b14a2AeAfcf1e9B6cc",
+        "id": "2e15262398a3cec910d7b16618d2c300913a532127a867bab18e5528bdd4737b",
+        "info_url": "https://en.wikipedia.org/wiki/Thimmapuram,_Visakhapatnam",
+        "name": "immense-teacher",
+        "tm_pub_key": "Fx4xi6NvxY+h88Jkw4+sPq11Gz+/cbukgyjbdq9MABw=",
+        "vega_pub_key": "3d90684b137b08c4a52626064589d2c13a996911d37efd9d6524466a34fabb18",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "e8gS/BQc/fogVA/Lb+ukV4gCTCjpmcX2QDIZaPatDRM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/sgqy0ig8kp3z7twzu6wqt6b6n3st7o52?d=identicon",
-        "country": "HV",
-        "ethereum_address": "0x9Ac7139A0FEc4b28655d97e69129A224E6dC3085",
-        "id": "49bb2209b9362c388aa3a064bbbd79caff73c4a0160ec023bc21ac7111716426",
-        "info_url": "https://en.wikipedia.org/wiki/Daniil_Barchenkov",
-        "name": "alive-roof",
-        "tm_pub_key": "e8gS/BQc/fogVA/Lb+ukV4gCTCjpmcX2QDIZaPatDRM=",
-        "vega_pub_key": "f950cb67d6aa95a6a82ded4f646004f873f830faace8f5f097fc434e03bbc4c1",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310201016",
+  "chain_id": "vega-devnet1-202310201158",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-20T10:16:40.208098476Z",
+  "genesis_time": "2023-10-20T11:58:44.363301453Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "96BB00D051D6812E4C525B159A247D1355E2D220",
-      "name": "alive-roof",
+      "address": "28A0A96D327D79AB3677DCCE34AEAF8FA7EE065C",
+      "name": "immense-teacher",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "e8gS/BQc/fogVA/Lb+ukV4gCTCjpmcX2QDIZaPatDRM="
+        "value": "Fx4xi6NvxY+h88Jkw4+sPq11Gz+/cbukgyjbdq9MABw="
       }
     }
   ]
