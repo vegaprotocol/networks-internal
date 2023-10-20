@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "+4KsVTVAVBAE+SF1kuqLIWgLj9OsPfHothHpFW02Whw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/410lqdeczejjobqs4bi5nuqdot4epcsu?d=identicon",
+        "country": "XK",
+        "ethereum_address": "0x33Ec5B21B3d5a63B285F556B33d3E4eFe46ec6C5",
+        "id": "542584406baa5af7c9e4858c247c90d29be1e3dac2ee00a4fe2daaf86f1e3b6e",
+        "info_url": "https://en.wikipedia.org/wiki/Charles_Gill_(artist)",
+        "name": "better-vacuum",
+        "tm_pub_key": "+4KsVTVAVBAE+SF1kuqLIWgLj9OsPfHothHpFW02Whw=",
+        "vega_pub_key": "103c504986ba80c56b63178f4d037b88aabc43ce890a671fa60cfd128d5994a7",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -313,21 +324,10 @@
         "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
-      },
-      "z19cr9nFxq06iX3Xc4fcjbcZE5EFRL/7vWugnE08Cmw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/5kfuuv9g8wo19xhhhbijkziam21bddrf?d=identicon",
-        "country": "HE",
-        "ethereum_address": "0xF94669B0f2f804A8a8573D044b17FFAb8C98f580",
-        "id": "b4e67f624a3f5fbb8cd1e8c01d5cc6964729cf07322ceb7bca542e203f22f749",
-        "info_url": "https://en.wikipedia.org/wiki/Dimitri_Bakradze",
-        "name": "funny-coffee",
-        "tm_pub_key": "z19cr9nFxq06iX3Xc4fcjbcZE5EFRL/7vWugnE08Cmw=",
-        "vega_pub_key": "b285504d59173f1183c3771f3942b24d22a71396811b4c23d3b2b0c516452c4b",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202310201454",
+  "chain_id": "vega-devnet1-202310201535",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-20T14:54:31.344905139Z",
+  "genesis_time": "2023-10-20T15:35:34.729246377Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "BB04A190F297F2FF01187247D328762D3F697A9D",
-      "name": "funny-coffee",
+      "address": "F848503AE6EA568C5959104E8E2A47CCB874CA92",
+      "name": "better-vacuum",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "z19cr9nFxq06iX3Xc4fcjbcZE5EFRL/7vWugnE08Cmw="
+        "value": "+4KsVTVAVBAE+SF1kuqLIWgLj9OsPfHothHpFW02Whw="
       }
     }
   ]
