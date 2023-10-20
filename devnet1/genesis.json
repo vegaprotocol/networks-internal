@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "Fx4xi6NvxY+h88Jkw4+sPq11Gz+/cbukgyjbdq9MABw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/7nk0xs895irnk1x0xhfww8b0hqx75rom?d=identicon",
-        "country": "NS",
-        "ethereum_address": "0xdC5d297f8Ffd96FdAB60a7b14a2AeAfcf1e9B6cc",
-        "id": "2e15262398a3cec910d7b16618d2c300913a532127a867bab18e5528bdd4737b",
-        "info_url": "https://en.wikipedia.org/wiki/Thimmapuram,_Visakhapatnam",
-        "name": "immense-teacher",
-        "tm_pub_key": "Fx4xi6NvxY+h88Jkw4+sPq11Gz+/cbukgyjbdq9MABw=",
-        "vega_pub_key": "3d90684b137b08c4a52626064589d2c13a996911d37efd9d6524466a34fabb18",
+      "KBlQohmyS+WyAs8zdgCQ3M1aXDpg/tNrFXmTpy4ovPc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/udxvuzqer4sazqgq2zeiwnz3xf0upmnl?d=identicon",
+        "country": "QC",
+        "ethereum_address": "0x86906C3Ff20E82eDE6769d3c768D205a19F42FCb",
+        "id": "5b6bd8d20c8ff2250c2f990b6cd4f6cb714338ce91fd0528ea1d1d62d1f7efd9",
+        "info_url": "https://en.wikipedia.org/wiki/Hugh_Ennor",
+        "name": "scruffy-book",
+        "tm_pub_key": "KBlQohmyS+WyAs8zdgCQ3M1aXDpg/tNrFXmTpy4ovPc=",
+        "vega_pub_key": "7e41b34f925138df9c9ee3caeae6abe3e36068326626b1e751cb29e345041bbe",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310201235",
+  "chain_id": "vega-devnet1-202310201310",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-20T12:35:45.848654218Z",
+  "genesis_time": "2023-10-20T13:10:32.094273451Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "28A0A96D327D79AB3677DCCE34AEAF8FA7EE065C",
-      "name": "immense-teacher",
+      "address": "083BBF8472E27EE2F67EFB141D503D1245277D69",
+      "name": "scruffy-book",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Fx4xi6NvxY+h88Jkw4+sPq11Gz+/cbukgyjbdq9MABw="
+        "value": "KBlQohmyS+WyAs8zdgCQ3M1aXDpg/tNrFXmTpy4ovPc="
       }
     }
   ]
