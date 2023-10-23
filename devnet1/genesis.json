@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "h9JMjBo+UVZNLvRK4B5IqImJO46I8el+GyOoOAfzNjs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/3m3jnw40olah8h4q61hn0jjey7riq2wr?d=identicon",
-        "country": "YY",
-        "ethereum_address": "0xc8c5Fa5bE1a4eA7dd64f0D1BdB0F52dAAE9bb85A",
-        "id": "f88eb5060243185c6d5147f05e7c8287af5f0ed92fb11a7f11a87f47b0498d61",
-        "info_url": "https://en.wikipedia.org/wiki/Rainer_B%C3%B6hm",
-        "name": "thundering-ball",
-        "tm_pub_key": "h9JMjBo+UVZNLvRK4B5IqImJO46I8el+GyOoOAfzNjs=",
-        "vega_pub_key": "910906e847ca04fff514e7d322d769024961adef2828c9371ed16ae936a0233e",
+      "Zkfeg9+n0cG08FNY4QemLph9r5wrRXpexNnfHt0Z8Ak=": {
+        "avatar_url": "https://www.gravatar.com/avatar/9gwmxfphfaqgq8a25gmfaxtou7bhhpra?d=identicon",
+        "country": "JC",
+        "ethereum_address": "0x9fB8E41D6d3013D725ca14DD5d3247934d2A419A",
+        "id": "de4b41218ad5408e9972bd649797bb60b9ba6e072deab30fd4ca3d42f6d7de36",
+        "info_url": "https://en.wikipedia.org/wiki/Harry_Carpenter_(bishop)",
+        "name": "foolish-monkey",
+        "tm_pub_key": "Zkfeg9+n0cG08FNY4QemLph9r5wrRXpexNnfHt0Z8Ak=",
+        "vega_pub_key": "c818554f5b8dcabf3637b8da0505e3e1ff034626e7331230438a755b0475bf0e",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310231225",
+  "chain_id": "vega-devnet1-202310231609",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-23T12:25:26.736252385Z",
+  "genesis_time": "2023-10-23T16:09:52.995178038Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "5E1D75FD7EEB13625905B83613C1DC8F2D3710FB",
-      "name": "thundering-ball",
+      "address": "CAD429C581D809DDA393724976F928B53AC87937",
+      "name": "foolish-monkey",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "h9JMjBo+UVZNLvRK4B5IqImJO46I8el+GyOoOAfzNjs="
+        "value": "Zkfeg9+n0cG08FNY4QemLph9r5wrRXpexNnfHt0Z8Ak="
       }
     }
   ]
