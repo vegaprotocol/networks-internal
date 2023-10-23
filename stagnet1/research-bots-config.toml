@@ -114,7 +114,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 [scenario.applemontly]
     traders_per_thread = 5
-    market_name = "Apple Monthly (Jul 2023)"
+    market_name = "Apple Monthly (Nov 2023)"
     binance_code = "EOSUSDT"
     step_length_seconds = 3
     [scenario.applemontly.market_manager_args]
@@ -248,7 +248,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 
 [scenario.tsla_quarterly]
-    market_name = "Tesla Quarterly (Sep 2023)"
+    market_name = "Tesla Quarterly (Jan 2024)"
     binance_code = "BNBEUR"
     step_length_seconds = 3
     [scenario.tsla_quarterly.market_manager_args]
@@ -650,7 +650,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 
 [scenario.btcusdt_monthly]
-    market_name = "BTCUSD Monthly (Jul 2023)"
+    market_name = "BTCUSD Monthly (Nov 2023)"
     binance_code = "BTCDAI"
     step_length_seconds = 3
     [scenario.btcusdt_monthly.market_manager_args]
@@ -918,7 +918,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 
 [scenario.aavedai]
-    market_name = "AAVEDAI Monthly (Jul 2023)"
+    market_name = "AAVEDAI Monthly (Nov 2023)"
     binance_code = "AAVEUSDT"
     step_length_seconds = 3
     [scenario.aavedai.market_manager_args]
@@ -1051,7 +1051,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         randomise_history = false
 
 [scenario.ethbtc_quarterly]
-    market_name = "ETHBTC Quarterly (Sep 2023)"
+    market_name = "ETHBTC Quarterly (Jan 2024)"
     binance_code = "ETHBTC"
     step_length_seconds = 3
     [scenario.ethbtc_quarterly.market_manager_args]
@@ -1319,7 +1319,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 
 [scenario.ehtdai_monthly]
-    market_name = "ETHDAI Monthly (Jul 2023)"
+    market_name = "ETHDAI Monthly (Nov 2023)"
     binance_code = "ETHDAI"
     step_length_seconds = 3
     [scenario.ehtdai_monthly.market_manager_args]
