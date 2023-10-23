@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "Amn02J8qbww3+p2x1jM1v5ClpCokuOIp/TxRSwxCl7Q=": {
-        "avatar_url": "https://www.gravatar.com/avatar/xtxpik44gya4nblc6ry4adagodb8pyh4?d=identicon",
-        "country": "CA",
-        "ethereum_address": "0x87405D4f86c2a7A669D187bF2A35CBCbBa40b443",
-        "id": "38ceff2b7ff4f8523abe82612f7cb6d08de73ef702008af6057ebadbfcee9458",
-        "info_url": "https://en.wikipedia.org/wiki/Protapanteles",
-        "name": "noisy-bat",
-        "tm_pub_key": "Amn02J8qbww3+p2x1jM1v5ClpCokuOIp/TxRSwxCl7Q=",
-        "vega_pub_key": "99bf3f790d0449a8ea4e26f4e4729c18386e8e96469e0d7cf562e8ebf70c0683",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "h9JMjBo+UVZNLvRK4B5IqImJO46I8el+GyOoOAfzNjs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/3m3jnw40olah8h4q61hn0jjey7riq2wr?d=identicon",
+        "country": "YY",
+        "ethereum_address": "0xc8c5Fa5bE1a4eA7dd64f0D1BdB0F52dAAE9bb85A",
+        "id": "f88eb5060243185c6d5147f05e7c8287af5f0ed92fb11a7f11a87f47b0498d61",
+        "info_url": "https://en.wikipedia.org/wiki/Rainer_B%C3%B6hm",
+        "name": "thundering-ball",
+        "tm_pub_key": "h9JMjBo+UVZNLvRK4B5IqImJO46I8el+GyOoOAfzNjs=",
+        "vega_pub_key": "910906e847ca04fff514e7d322d769024961adef2828c9371ed16ae936a0233e",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310230906",
+  "chain_id": "vega-devnet1-202310231225",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-23T09:06:36.266684131Z",
+  "genesis_time": "2023-10-23T12:25:26.736252385Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "E928ECDD737CC5C577AD346E15362080A7B94870",
-      "name": "noisy-bat",
+      "address": "5E1D75FD7EEB13625905B83613C1DC8F2D3710FB",
+      "name": "thundering-ball",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Amn02J8qbww3+p2x1jM1v5ClpCokuOIp/TxRSwxCl7Q="
+        "value": "h9JMjBo+UVZNLvRK4B5IqImJO46I8el+GyOoOAfzNjs="
       }
     }
   ]
