@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "RBNQ9Tfyb9ySPujgOsX/4OwGMzXP03DDokHvzvrEBac=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ms7ombb947y8fxmfz8uxqo1kaclc2dd2?d=identicon",
-        "country": "WC",
-        "ethereum_address": "0x0A722D24Eb63372456352c5922D87a21c76e3796",
-        "id": "6ec315340aa2abf3d91aebd705b535f222dc66ef49845049285cde18daabac83",
-        "info_url": "https://en.wikipedia.org/wiki/Simpson_Kalisher",
-        "name": "inexpensive-wind",
-        "tm_pub_key": "RBNQ9Tfyb9ySPujgOsX/4OwGMzXP03DDokHvzvrEBac=",
-        "vega_pub_key": "2ee46fe38626865e1af646092d8cdc6f1ad8d047dcc04278c0b0b275345aa955",
+      "+FiKPNPkwL8l3XZ036A4t3WTzoRv8ULl70SLQnyjV0M=": {
+        "avatar_url": "https://www.gravatar.com/avatar/l12qjfjzenu33yqub2mhotdlbw4h88up?d=identicon",
+        "country": "BK",
+        "ethereum_address": "0x1Cc8BBD48718F8D6BD551d5E6D3fcA04073A5755",
+        "id": "10267330ee6561ef78e4bd8c20d2b366c8a07e3aa1f16bc8eaa2b9467cf4aab9",
+        "info_url": "https://en.wikipedia.org/wiki/Tr%C3%AAs_Pontas",
+        "name": "rhythmic-river",
+        "tm_pub_key": "+FiKPNPkwL8l3XZ036A4t3WTzoRv8ULl70SLQnyjV0M=",
+        "vega_pub_key": "2ad1e168a1dc433e53c904fcf39f4e2f87e394f8d2e91f7751ad2583023a4386",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310240825",
+  "chain_id": "vega-devnet1-202310241031",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-24T08:25:26.52390108Z",
+  "genesis_time": "2023-10-24T10:31:20.028308315Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "9BFBDE8401682812A92FE470FAEF082B5E6EF58E",
-      "name": "inexpensive-wind",
+      "address": "5B129B6DAE44BD4815DFA35C26B513C3EDDC3A30",
+      "name": "rhythmic-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "RBNQ9Tfyb9ySPujgOsX/4OwGMzXP03DDokHvzvrEBac="
+        "value": "+FiKPNPkwL8l3XZ036A4t3WTzoRv8ULl70SLQnyjV0M="
       }
     }
   ]
