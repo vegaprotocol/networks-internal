@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "RBNQ9Tfyb9ySPujgOsX/4OwGMzXP03DDokHvzvrEBac=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ms7ombb947y8fxmfz8uxqo1kaclc2dd2?d=identicon",
+        "country": "WC",
+        "ethereum_address": "0x0A722D24Eb63372456352c5922D87a21c76e3796",
+        "id": "6ec315340aa2abf3d91aebd705b535f222dc66ef49845049285cde18daabac83",
+        "info_url": "https://en.wikipedia.org/wiki/Simpson_Kalisher",
+        "name": "inexpensive-wind",
+        "tm_pub_key": "RBNQ9Tfyb9ySPujgOsX/4OwGMzXP03DDokHvzvrEBac=",
+        "vega_pub_key": "2ee46fe38626865e1af646092d8cdc6f1ad8d047dcc04278c0b0b275345aa955",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "Zkfeg9+n0cG08FNY4QemLph9r5wrRXpexNnfHt0Z8Ak=": {
-        "avatar_url": "https://www.gravatar.com/avatar/9gwmxfphfaqgq8a25gmfaxtou7bhhpra?d=identicon",
-        "country": "JC",
-        "ethereum_address": "0x9fB8E41D6d3013D725ca14DD5d3247934d2A419A",
-        "id": "de4b41218ad5408e9972bd649797bb60b9ba6e072deab30fd4ca3d42f6d7de36",
-        "info_url": "https://en.wikipedia.org/wiki/Harry_Carpenter_(bishop)",
-        "name": "foolish-monkey",
-        "tm_pub_key": "Zkfeg9+n0cG08FNY4QemLph9r5wrRXpexNnfHt0Z8Ak=",
-        "vega_pub_key": "c818554f5b8dcabf3637b8da0505e3e1ff034626e7331230438a755b0475bf0e",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310231649",
+  "chain_id": "vega-devnet1-202310240825",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-23T16:49:00.28133757Z",
+  "genesis_time": "2023-10-24T08:25:26.52390108Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "CAD429C581D809DDA393724976F928B53AC87937",
-      "name": "foolish-monkey",
+      "address": "9BFBDE8401682812A92FE470FAEF082B5E6EF58E",
+      "name": "inexpensive-wind",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Zkfeg9+n0cG08FNY4QemLph9r5wrRXpexNnfHt0Z8Ak="
+        "value": "RBNQ9Tfyb9ySPujgOsX/4OwGMzXP03DDokHvzvrEBac="
       }
     }
   ]
