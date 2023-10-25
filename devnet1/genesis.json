@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "+p2GsTG5JcHRlQs8oaHP6unPSZR36s2MoGQ1er0KIAQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/orcb1tktezqvjzeq8oqod3u3loldxc87?d=identicon",
-        "country": "BS",
-        "ethereum_address": "0x7Dc59aF3AfE06FB8ECbF563E3259A9913b2d77bD",
-        "id": "bbee8798a064ec302b75094dad7b44d30e889e1360b39edd39d7717a3b86f606",
-        "info_url": "https://en.wikipedia.org/wiki/Platypezoidea",
-        "name": "easy-fisherman",
-        "tm_pub_key": "+p2GsTG5JcHRlQs8oaHP6unPSZR36s2MoGQ1er0KIAQ=",
-        "vega_pub_key": "f6f4101ace608ef61659acd9d27bf8ff98d0c6d964a2517426adc71f2bb38f19",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "k4FYRNLWPynilOSX5BTub6MRBxZ2hHfE3PyHc1b7AIQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/q2k50hq22vgjqsm3vlvkkhqmubxn03n4?d=identicon",
+        "country": "IA",
+        "ethereum_address": "0x8883674ACc8F4a00AaDCbA932759cA7195BACd53",
+        "id": "7a5dee8697c1d998d56b64e93289e9e5ff34fca4bb2a5ddf6ad3c186f1e245f6",
+        "info_url": "https://en.wikipedia.org/wiki/Hou_Yunde",
+        "name": "green-phone",
+        "tm_pub_key": "k4FYRNLWPynilOSX5BTub6MRBxZ2hHfE3PyHc1b7AIQ=",
+        "vega_pub_key": "2cc383a635f384d170619314cc3ee72ff6eacbc89e6c2a1e31b9028b5ac59d9a",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310251744",
+  "chain_id": "vega-devnet1-202310251834",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-25T17:44:08.506586054Z",
+  "genesis_time": "2023-10-25T18:34:07.761533538Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "4223A6006E2A971A33E255B677346F3582D2C248",
-      "name": "easy-fisherman",
+      "address": "A06A174DF6A803C9C37C6808FD3FC2A4D18C2D14",
+      "name": "green-phone",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "+p2GsTG5JcHRlQs8oaHP6unPSZR36s2MoGQ1er0KIAQ="
+        "value": "k4FYRNLWPynilOSX5BTub6MRBxZ2hHfE3PyHc1b7AIQ="
       }
     }
   ]
