@@ -281,17 +281,6 @@
         "vega_pub_key": "88537d06d0a10dcb71d0b0b370d7c188936bb3417b0105bb6b61340745141194",
         "vega_pub_key_index": 1
       },
-      "VS8Ldfe+DGrQ8jFwu3U9ap9emdJ0iL/vY5sWaU/5j3E=": {
-        "avatar_url": "https://www.gravatar.com/avatar/qp93ffv9wg6ge4mevd8bvl2f71avwsnz?d=identicon",
-        "country": "DK",
-        "ethereum_address": "0x8DeD0A07f8439E4586c04C2592454F7925a57fcd",
-        "id": "bd23d2e3fbbe821e57e0b511c8292124d1283c27a200471e34e7176f6079a8a1",
-        "info_url": "https://en.wikipedia.org/wiki/Mark_Leier",
-        "name": "easy-candle",
-        "tm_pub_key": "VS8Ldfe+DGrQ8jFwu3U9ap9emdJ0iL/vY5sWaU/5j3E=",
-        "vega_pub_key": "82b9365fad1069c41d20517a087cfb889a17a3218d03fe6cdd90db9979fb2adc",
-        "vega_pub_key_index": 1
-      },
       "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=": {
         "avatar_url": "https://www.gravatar.com/avatar/5lclj8qe2cqcg9minvnflj0ivxr97v3f?d=identicon",
         "country": "JQ",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "YwxIxe8bwqrFR5rXqjhVoBMzJNCqmB28eCNfRHtcavQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/1t9zvj8mlepb2e4ley3bcy4jvcgojzx1?d=identicon",
+        "country": "WM",
+        "ethereum_address": "0x75c68D5A1F388b4a2d01c5228a3333555a9a7793",
+        "id": "28db441c03842aa4831ebb1ea4d7138140b6599ac3556b82ad27ec866addec07",
+        "info_url": "https://en.wikipedia.org/wiki/WMTR-FM",
+        "name": "healthy-pond",
+        "tm_pub_key": "YwxIxe8bwqrFR5rXqjhVoBMzJNCqmB28eCNfRHtcavQ=",
+        "vega_pub_key": "f090c4ba99be14710f8b6f28c2792475b0f8c39d946634c39f59b5954a4025d3",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310251550",
+  "chain_id": "vega-devnet1-202310251634",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-25T15:50:33.535340715Z",
+  "genesis_time": "2023-10-25T16:34:51.837342112Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "28B75BA08C9BA842D8F92958B0052787F9F36D66",
-      "name": "easy-candle",
+      "address": "6E063D83154941D94BE3171F7A4D99B83264FA3A",
+      "name": "healthy-pond",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "VS8Ldfe+DGrQ8jFwu3U9ap9emdJ0iL/vY5sWaU/5j3E="
+        "value": "YwxIxe8bwqrFR5rXqjhVoBMzJNCqmB28eCNfRHtcavQ="
       }
     }
   ]
