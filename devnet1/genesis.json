@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "+FiKPNPkwL8l3XZ036A4t3WTzoRv8ULl70SLQnyjV0M=": {
-        "avatar_url": "https://www.gravatar.com/avatar/l12qjfjzenu33yqub2mhotdlbw4h88up?d=identicon",
-        "country": "BK",
-        "ethereum_address": "0x1Cc8BBD48718F8D6BD551d5E6D3fcA04073A5755",
-        "id": "10267330ee6561ef78e4bd8c20d2b366c8a07e3aa1f16bc8eaa2b9467cf4aab9",
-        "info_url": "https://en.wikipedia.org/wiki/Tr%C3%AAs_Pontas",
-        "name": "rhythmic-river",
-        "tm_pub_key": "+FiKPNPkwL8l3XZ036A4t3WTzoRv8ULl70SLQnyjV0M=",
-        "vega_pub_key": "2ad1e168a1dc433e53c904fcf39f4e2f87e394f8d2e91f7751ad2583023a4386",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "dMxc7cxqGjaBPTyniuqax6+pVzMA9JcBXkFTKQse8JE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/3yxjl5glj93a59wj6syzal6doc8m5i8n?d=identicon",
+        "country": "PI",
+        "ethereum_address": "0x102b4927e49fA2AbE7B8673E1c08f8c8e839722c",
+        "id": "7f00bf889439d51c5a42e1779a18b24b278fc3fb13a6ccc7c0d0559327483ec2",
+        "info_url": "https://en.wikipedia.org/wiki/Rajambal_(1951_film)",
+        "name": "disturbed-mango",
+        "tm_pub_key": "dMxc7cxqGjaBPTyniuqax6+pVzMA9JcBXkFTKQse8JE=",
+        "vega_pub_key": "796a69057155fecd14acbff981ae5d55874999b731285234adfeaecba427e261",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310241031",
+  "chain_id": "vega-devnet1-202310251010",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-24T10:31:20.028308315Z",
+  "genesis_time": "2023-10-25T10:10:00.85738938Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "5B129B6DAE44BD4815DFA35C26B513C3EDDC3A30",
-      "name": "rhythmic-river",
+      "address": "465A5BDBC7BCB1C6EBDE22238CB14E7787D4EA7F",
+      "name": "disturbed-mango",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "+FiKPNPkwL8l3XZ036A4t3WTzoRv8ULl70SLQnyjV0M="
+        "value": "dMxc7cxqGjaBPTyniuqax6+pVzMA9JcBXkFTKQse8JE="
       }
     }
   ]
