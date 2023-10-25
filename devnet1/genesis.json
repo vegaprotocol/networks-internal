@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "EU1/G6h/4uInyHwsThYzrG54Y2FqoSh7oJ2MTTDQeuw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/3hblzqdgfkz6zk2ztkun0zgrw1bh820v?d=identicon",
+        "country": "WA",
+        "ethereum_address": "0xEfC73a3E1bC298e536C5D053c198d8Dd3C3e9a25",
+        "id": "68948ade308b3cb35ddc847d1c3bf0801fc7ffc8f7276c7889c0e9f8580a5c62",
+        "info_url": "https://en.wikipedia.org/wiki/Rosie_Sings_Bing",
+        "name": "perplexed-book",
+        "tm_pub_key": "EU1/G6h/4uInyHwsThYzrG54Y2FqoSh7oJ2MTTDQeuw=",
+        "vega_pub_key": "645a6e3497494fa86ad2f3cb2a8077cb12678d8dbe699ab7bf753453f49875b7",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -313,21 +324,10 @@
         "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
-      },
-      "y7Zu0d9XJOc8Cq6gx31ZNZZAh2exHC7eqv5QCoXlL0Y=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ujzpjk93zlrsso5uoxoacactyu0qvisx?d=identicon",
-        "country": "KU",
-        "ethereum_address": "0x911FF7fEA093fc862dbbe33a548c908d6fA706C0",
-        "id": "5f675efcd512fb2d2ea09608c7feede42c50bff4815ab8a60fa0616d120b1e8c",
-        "info_url": "https://en.wikipedia.org/wiki/Imperial_Seal_of_the_Mongols",
-        "name": "opportune-flowers",
-        "tm_pub_key": "y7Zu0d9XJOc8Cq6gx31ZNZZAh2exHC7eqv5QCoXlL0Y=",
-        "vega_pub_key": "afe049da71d1635319cbd84dd197c28af6897254d8d4cf98547016c555d82c7a",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202310251200",
+  "chain_id": "vega-devnet1-202310251327",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-25T12:00:43.778569175Z",
+  "genesis_time": "2023-10-25T13:27:10.351364456Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "CB2231F8A0CF4FEA1350FC0E14EDF292F97E20FB",
-      "name": "opportune-flowers",
+      "address": "E7206408868BDFE5837D1B26A54AFD777F132576",
+      "name": "perplexed-book",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "y7Zu0d9XJOc8Cq6gx31ZNZZAh2exHC7eqv5QCoXlL0Y="
+        "value": "EU1/G6h/4uInyHwsThYzrG54Y2FqoSh7oJ2MTTDQeuw="
       }
     }
   ]
