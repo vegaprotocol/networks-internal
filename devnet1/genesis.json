@@ -292,17 +292,6 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "dMxc7cxqGjaBPTyniuqax6+pVzMA9JcBXkFTKQse8JE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/3yxjl5glj93a59wj6syzal6doc8m5i8n?d=identicon",
-        "country": "PI",
-        "ethereum_address": "0x102b4927e49fA2AbE7B8673E1c08f8c8e839722c",
-        "id": "7f00bf889439d51c5a42e1779a18b24b278fc3fb13a6ccc7c0d0559327483ec2",
-        "info_url": "https://en.wikipedia.org/wiki/Rajambal_(1951_film)",
-        "name": "disturbed-mango",
-        "tm_pub_key": "dMxc7cxqGjaBPTyniuqax6+pVzMA9JcBXkFTKQse8JE=",
-        "vega_pub_key": "796a69057155fecd14acbff981ae5d55874999b731285234adfeaecba427e261",
-        "vega_pub_key_index": 1
-      },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
         "avatar_url": "https://www.gravatar.com/avatar/14wh06jhnafyxu5ea1p41y8972c1flw0?d=identicon",
         "country": "QX",
@@ -324,10 +313,21 @@
         "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
+      },
+      "y7Zu0d9XJOc8Cq6gx31ZNZZAh2exHC7eqv5QCoXlL0Y=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ujzpjk93zlrsso5uoxoacactyu0qvisx?d=identicon",
+        "country": "KU",
+        "ethereum_address": "0x911FF7fEA093fc862dbbe33a548c908d6fA706C0",
+        "id": "5f675efcd512fb2d2ea09608c7feede42c50bff4815ab8a60fa0616d120b1e8c",
+        "info_url": "https://en.wikipedia.org/wiki/Imperial_Seal_of_the_Mongols",
+        "name": "opportune-flowers",
+        "tm_pub_key": "y7Zu0d9XJOc8Cq6gx31ZNZZAh2exHC7eqv5QCoXlL0Y=",
+        "vega_pub_key": "afe049da71d1635319cbd84dd197c28af6897254d8d4cf98547016c555d82c7a",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202310251010",
+  "chain_id": "vega-devnet1-202310251200",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-25T10:10:00.85738938Z",
+  "genesis_time": "2023-10-25T12:00:43.778569175Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "465A5BDBC7BCB1C6EBDE22238CB14E7787D4EA7F",
-      "name": "disturbed-mango",
+      "address": "CB2231F8A0CF4FEA1350FC0E14EDF292F97E20FB",
+      "name": "opportune-flowers",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "dMxc7cxqGjaBPTyniuqax6+pVzMA9JcBXkFTKQse8JE="
+        "value": "y7Zu0d9XJOc8Cq6gx31ZNZZAh2exHC7eqv5QCoXlL0Y="
       }
     }
   ]
