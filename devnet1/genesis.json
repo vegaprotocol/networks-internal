@@ -281,6 +281,17 @@
         "vega_pub_key": "88537d06d0a10dcb71d0b0b370d7c188936bb3417b0105bb6b61340745141194",
         "vega_pub_key_index": 1
       },
+      "VS8Ldfe+DGrQ8jFwu3U9ap9emdJ0iL/vY5sWaU/5j3E=": {
+        "avatar_url": "https://www.gravatar.com/avatar/qp93ffv9wg6ge4mevd8bvl2f71avwsnz?d=identicon",
+        "country": "DK",
+        "ethereum_address": "0x8DeD0A07f8439E4586c04C2592454F7925a57fcd",
+        "id": "bd23d2e3fbbe821e57e0b511c8292124d1283c27a200471e34e7176f6079a8a1",
+        "info_url": "https://en.wikipedia.org/wiki/Mark_Leier",
+        "name": "easy-candle",
+        "tm_pub_key": "VS8Ldfe+DGrQ8jFwu3U9ap9emdJ0iL/vY5sWaU/5j3E=",
+        "vega_pub_key": "82b9365fad1069c41d20517a087cfb889a17a3218d03fe6cdd90db9979fb2adc",
+        "vega_pub_key_index": 1
+      },
       "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=": {
         "avatar_url": "https://www.gravatar.com/avatar/5lclj8qe2cqcg9minvnflj0ivxr97v3f?d=identicon",
         "country": "JQ",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "aOwtcDaWUGaFPbtLIkqgjgyJFQ4P0Bk2BHB9nW3CI9s=": {
-        "avatar_url": "https://www.gravatar.com/avatar/floecmy9pxeugb4ippct18mw3ylaa9la?d=identicon",
-        "country": "GL",
-        "ethereum_address": "0x69bf3619AF0488F0852F77C1e4A91fE76F78607f",
-        "id": "a5101633f3fb030087be5fb855978782eb286d8f590e625091331c8b10c7f804",
-        "info_url": "https://en.wikipedia.org/wiki/Kosta_Novakovi%C4%87",
-        "name": "important-music",
-        "tm_pub_key": "aOwtcDaWUGaFPbtLIkqgjgyJFQ4P0Bk2BHB9nW3CI9s=",
-        "vega_pub_key": "c6b5f88830f5ef94baec8abc6979649aa114ddf3c9224fabfb6d1354f0d2b426",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310251453",
+  "chain_id": "vega-devnet1-202310251526",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-25T14:53:08.607269471Z",
+  "genesis_time": "2023-10-25T15:26:57.235670583Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "B83C2824942A3E47C40BB36357F1A56F9B3BC0AF",
-      "name": "important-music",
+      "address": "28B75BA08C9BA842D8F92958B0052787F9F36D66",
+      "name": "easy-candle",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "aOwtcDaWUGaFPbtLIkqgjgyJFQ4P0Bk2BHB9nW3CI9s="
+        "value": "VS8Ldfe+DGrQ8jFwu3U9ap9emdJ0iL/vY5sWaU/5j3E="
       }
     }
   ]
