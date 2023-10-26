@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "OPBdpIC7jQFb0Spg6xsmbO5AFW6vxEYG9yfXq+lzpYk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/bqzq4c25xe4b091vwc209jh4g6fxwf44?d=identicon",
+        "country": "ZF",
+        "ethereum_address": "0xE1e702D90f8F31dFD4486f0A9c7eD1CD37DB972c",
+        "id": "ffc2d3867f9aa987d98edaee8bf2dc17251a0d8816ce55e6667513fb1db9bc59",
+        "info_url": "https://en.wikipedia.org/wiki/Education_in_Tacloban",
+        "name": "perplexed-bed",
+        "tm_pub_key": "OPBdpIC7jQFb0Spg6xsmbO5AFW6vxEYG9yfXq+lzpYk=",
+        "vega_pub_key": "d3262ad6fe8525b6227d81fc121c4ebd3f8f99c96843dccca7652a4e630836a0",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -303,17 +314,6 @@
         "vega_pub_key": "ec52a0909053e61531925dbf38ef3419265d41375fc82c967b429ab17548f254",
         "vega_pub_key_index": 1
       },
-      "tzZJR1pTvlzPgXUSIPrwNfibJsYW5MpWmBlKKhf20w4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/reoigj6jhtjl4mlreymq8cg04fv0ljw2?d=identicon",
-        "country": "HB",
-        "ethereum_address": "0x21EfF8C5aAD5E48DAAB9e27689c1B413aBAf0cf3",
-        "id": "acb316f93191d3d41b97130b6528113536ffcdd950a40460fba6e486551a4797",
-        "info_url": "https://en.wikipedia.org/wiki/Sina_Frei",
-        "name": "tender-brother",
-        "tm_pub_key": "tzZJR1pTvlzPgXUSIPrwNfibJsYW5MpWmBlKKhf20w4=",
-        "vega_pub_key": "91957f866d4177c24015e91e96513fda731e88a4f77f3df9f907b988317a866f",
-        "vega_pub_key_index": 1
-      },
       "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=": {
         "avatar_url": "https://www.gravatar.com/avatar/a1ae15bucug2qortml2n4rifwznx19tv?d=identicon",
         "country": "WO",
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310261502",
+  "chain_id": "vega-devnet1-202310261631",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-26T15:02:00.213494756Z",
+  "genesis_time": "2023-10-26T16:31:03.928625791Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "E1AFCA9DB1476E17780A66607774AD73887A1A23",
-      "name": "tender-brother",
+      "address": "924F77AAC96604BA87C9AB1BBD32906433B2FC08",
+      "name": "perplexed-bed",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "tzZJR1pTvlzPgXUSIPrwNfibJsYW5MpWmBlKKhf20w4="
+        "value": "OPBdpIC7jQFb0Spg6xsmbO5AFW6vxEYG9yfXq+lzpYk="
       }
     }
   ]
