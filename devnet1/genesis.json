@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "btClkcxTchAuqXL2zmB4Kbi1tBQ7Z565XBlIbME/At4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/jyjco1d9yrpmon0topgi8n5jfk2slgp6?d=identicon",
-        "country": "GR",
-        "ethereum_address": "0x8D46dD97942080e12a4fC4154bDf603B256F2358",
-        "id": "91b1a6545f5195558ce7ddd34f42a371d3e15ece13ac96b036ce6da63d15c64f",
-        "info_url": "https://en.wikipedia.org/wiki/H%C3%A2jd%C4%83u",
-        "name": "perplexed-shoe",
-        "tm_pub_key": "btClkcxTchAuqXL2zmB4Kbi1tBQ7Z565XBlIbME/At4=",
-        "vega_pub_key": "83c23c31f8dfe83324c4c39b27ba3730c2a4e91c16eced0c0c3154a85cf3bb9c",
+      "ZfSYc+8InuvaAPOUyKSjj0BQgwdVEgxS1sXHixVmk2A=": {
+        "avatar_url": "https://www.gravatar.com/avatar/pte4unyp0gx4qmhtc5igtkxz3i4ixtre?d=identicon",
+        "country": "BR",
+        "ethereum_address": "0x58c1E4b669E16E605FBA9F7DCD7a129485b9e7cc",
+        "id": "0df0a5741074dc725566722255cf0ed050adc611eda248e8eed683f60b518bdd",
+        "info_url": "https://en.wikipedia.org/wiki/Vusi_Mahlasela",
+        "name": "magnificent-day",
+        "tm_pub_key": "ZfSYc+8InuvaAPOUyKSjj0BQgwdVEgxS1sXHixVmk2A=",
+        "vega_pub_key": "2aa409075ad78c7137e5b1c251868085651aacbfa786e1f9ec285e92beb1dce7",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310252035",
+  "chain_id": "vega-devnet1-202310261327",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-25T20:35:44.306529416Z",
+  "genesis_time": "2023-10-26T13:27:54.620045227Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "F27057C05D46F52B6C16DE3AEBB53BA33EAB7A4E",
-      "name": "perplexed-shoe",
+      "address": "C598F4BE847CEB9436C7666087831D3F9CE29ED4",
+      "name": "magnificent-day",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "btClkcxTchAuqXL2zmB4Kbi1tBQ7Z565XBlIbME/At4="
+        "value": "ZfSYc+8InuvaAPOUyKSjj0BQgwdVEgxS1sXHixVmk2A="
       }
     }
   ]
