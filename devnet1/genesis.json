@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "D4mV3C3sfgxf6Nur6M6ZoIJXeOXNLkK/V093Vf5w8yM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/wvwmsspu52z7p4e57r3kczjej1ktjzbk?d=identicon",
+        "country": "JV",
+        "ethereum_address": "0x6213FACBA552AB1898E48093aB0D197250339F4c",
+        "id": "53050fe8cfe6264d12392a9abc9c8be0518c58c4868422b2f2236bf3720582d7",
+        "info_url": "https://en.wikipedia.org/wiki/Carabus_pedemontanus_vesubianus",
+        "name": "mango-dog",
+        "tm_pub_key": "D4mV3C3sfgxf6Nur6M6ZoIJXeOXNLkK/V093Vf5w8yM=",
+        "vega_pub_key": "ab43c3cbf21d0af826e3149f3bd1371b9038aa826a6196dde6b80261e739ca39",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "ZfSYc+8InuvaAPOUyKSjj0BQgwdVEgxS1sXHixVmk2A=": {
-        "avatar_url": "https://www.gravatar.com/avatar/pte4unyp0gx4qmhtc5igtkxz3i4ixtre?d=identicon",
-        "country": "BR",
-        "ethereum_address": "0x58c1E4b669E16E605FBA9F7DCD7a129485b9e7cc",
-        "id": "0df0a5741074dc725566722255cf0ed050adc611eda248e8eed683f60b518bdd",
-        "info_url": "https://en.wikipedia.org/wiki/Vusi_Mahlasela",
-        "name": "magnificent-day",
-        "tm_pub_key": "ZfSYc+8InuvaAPOUyKSjj0BQgwdVEgxS1sXHixVmk2A=",
-        "vega_pub_key": "2aa409075ad78c7137e5b1c251868085651aacbfa786e1f9ec285e92beb1dce7",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310261327",
+  "chain_id": "vega-devnet1-202310261431",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-26T13:27:54.620045227Z",
+  "genesis_time": "2023-10-26T14:31:22.495792308Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "C598F4BE847CEB9436C7666087831D3F9CE29ED4",
-      "name": "magnificent-day",
+      "address": "5294DCF9F989721A0D7023DA4D6A4C2DE08E94B9",
+      "name": "mango-dog",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ZfSYc+8InuvaAPOUyKSjj0BQgwdVEgxS1sXHixVmk2A="
+        "value": "D4mV3C3sfgxf6Nur6M6ZoIJXeOXNLkK/V093Vf5w8yM="
       }
     }
   ]
