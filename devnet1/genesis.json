@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "OPBdpIC7jQFb0Spg6xsmbO5AFW6vxEYG9yfXq+lzpYk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/bqzq4c25xe4b091vwc209jh4g6fxwf44?d=identicon",
-        "country": "ZF",
-        "ethereum_address": "0xE1e702D90f8F31dFD4486f0A9c7eD1CD37DB972c",
-        "id": "ffc2d3867f9aa987d98edaee8bf2dc17251a0d8816ce55e6667513fb1db9bc59",
-        "info_url": "https://en.wikipedia.org/wiki/Education_in_Tacloban",
-        "name": "perplexed-bed",
-        "tm_pub_key": "OPBdpIC7jQFb0Spg6xsmbO5AFW6vxEYG9yfXq+lzpYk=",
-        "vega_pub_key": "d3262ad6fe8525b6227d81fc121c4ebd3f8f99c96843dccca7652a4e630836a0",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -324,10 +313,21 @@
         "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
+      },
+      "xmxZMlQdyRR5bgqB2VWaaUDD85X0jQAqotXGjGKttmA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/5oxa8h0bmsjlbg29tqdlx0xvzwpsxmtm?d=identicon",
+        "country": "WT",
+        "ethereum_address": "0xf49783Cb09d1d3Aa0063046D6d35BA55Fe315949",
+        "id": "06ce6db5a7d6f0d1a0a5b093dbf9f9f502d599f35f3ffcfc632dd2944318c930",
+        "info_url": "https://en.wikipedia.org/wiki/Ministry_of_Public_Works_and_Transport_(Algeria)",
+        "name": "vast-coffee",
+        "tm_pub_key": "xmxZMlQdyRR5bgqB2VWaaUDD85X0jQAqotXGjGKttmA=",
+        "vega_pub_key": "013f6404799ee63f80049d01ee15c6ad885e1785aa445f68795bc8ee0036563d",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202310261631",
+  "chain_id": "vega-devnet1-202310271103",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-26T16:31:03.928625791Z",
+  "genesis_time": "2023-10-27T11:03:35.237782681Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "924F77AAC96604BA87C9AB1BBD32906433B2FC08",
-      "name": "perplexed-bed",
+      "address": "81D349851E91498188E556BAF6F9EA4F613C5C16",
+      "name": "vast-coffee",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "OPBdpIC7jQFb0Spg6xsmbO5AFW6vxEYG9yfXq+lzpYk="
+        "value": "xmxZMlQdyRR5bgqB2VWaaUDD85X0jQAqotXGjGKttmA="
       }
     }
   ]
