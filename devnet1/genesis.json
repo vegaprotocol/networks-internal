@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "P86wzex8E+vBi6QgUzZjPGGDfy8VvmcSnpPjFqG9iBE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/rlawoazhz3fq4sdouefqnd3j2vxvv51j?d=identicon",
+        "country": "PD",
+        "ethereum_address": "0xC6fD0b770E8618aeDE42D48C9CA412f00d0C00ed",
+        "id": "69b0609f0c2507bfaa7674623d87400be419d65c387336effafe1ea432e65364",
+        "info_url": "https://en.wikipedia.org/wiki/%C8%98omcuta_Mare",
+        "name": "wrong-ball",
+        "tm_pub_key": "P86wzex8E+vBi6QgUzZjPGGDfy8VvmcSnpPjFqG9iBE=",
+        "vega_pub_key": "a1e2c29ae83f02242a6c5567f1f15dd533ab281c479378ee96a8803093b1bb9d",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "e+kOTP80CSNQ/oIqKEG09bfCWpeFrQf2O4EqQYbIB0s=": {
-        "avatar_url": "https://www.gravatar.com/avatar/6j2m1cydphdcrjuw2br2duqjyql9vc2k?d=identicon",
-        "country": "SU",
-        "ethereum_address": "0x4Aa89f173592aF348edFCC30575999Af402890De",
-        "id": "780e642151fdbd1dbe262bef753434057036e7333c1876055dc1dd47b852f205",
-        "info_url": "https://en.wikipedia.org/wiki/Nahuel_Huapi_National_Park",
-        "name": "important-school",
-        "tm_pub_key": "e+kOTP80CSNQ/oIqKEG09bfCWpeFrQf2O4EqQYbIB0s=",
-        "vega_pub_key": "749417de7ea1a3826830ad72e53d74224fa1fa31b42e2408bfa1dd482fa51599",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310271430",
+  "chain_id": "vega-devnet1-202310271608",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-27T14:30:32.998492571Z",
+  "genesis_time": "2023-10-27T16:08:49.095892838Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "7BDE0972E3FD309D859A3D3CA3E5A7ED0EB3B457",
-      "name": "important-school",
+      "address": "878825C672CBDA1241D8D6CD9D1A30665E82845B",
+      "name": "wrong-ball",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "e+kOTP80CSNQ/oIqKEG09bfCWpeFrQf2O4EqQYbIB0s="
+        "value": "P86wzex8E+vBi6QgUzZjPGGDfy8VvmcSnpPjFqG9iBE="
       }
     }
   ]
