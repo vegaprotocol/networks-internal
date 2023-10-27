@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "GembagtrjA25fR7VkRsE87aqvmAv6GlEJuderLfAbv0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/cdw8xenv6evr7vjex8lo8xzj21ai6gyb?d=identicon",
+        "country": "IW",
+        "ethereum_address": "0xEC50D1cBEB7d3C63D358D03354E66D3C282Cc732",
+        "id": "b1affd2cd04fd184612200c483d4c877a0383508b2760200719a4eb27e58907d",
+        "info_url": "https://en.wikipedia.org/wiki/1570_in_Norway",
+        "name": "easy-butterfly",
+        "tm_pub_key": "GembagtrjA25fR7VkRsE87aqvmAv6GlEJuderLfAbv0=",
+        "vega_pub_key": "00198d60d63de644f91e26e800b0bd6ffa1d8909cc8ca4560effffcfc9f06725",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -313,21 +324,10 @@
         "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
-      },
-      "xmxZMlQdyRR5bgqB2VWaaUDD85X0jQAqotXGjGKttmA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/5oxa8h0bmsjlbg29tqdlx0xvzwpsxmtm?d=identicon",
-        "country": "WT",
-        "ethereum_address": "0xf49783Cb09d1d3Aa0063046D6d35BA55Fe315949",
-        "id": "06ce6db5a7d6f0d1a0a5b093dbf9f9f502d599f35f3ffcfc632dd2944318c930",
-        "info_url": "https://en.wikipedia.org/wiki/Ministry_of_Public_Works_and_Transport_(Algeria)",
-        "name": "vast-coffee",
-        "tm_pub_key": "xmxZMlQdyRR5bgqB2VWaaUDD85X0jQAqotXGjGKttmA=",
-        "vega_pub_key": "013f6404799ee63f80049d01ee15c6ad885e1785aa445f68795bc8ee0036563d",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202310271152",
+  "chain_id": "vega-devnet1-202310271306",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-27T11:52:37.309574927Z",
+  "genesis_time": "2023-10-27T13:06:22.927609538Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "81D349851E91498188E556BAF6F9EA4F613C5C16",
-      "name": "vast-coffee",
+      "address": "1EC7CB644C75EFE22117306C81E6EE259B553695",
+      "name": "easy-butterfly",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "xmxZMlQdyRR5bgqB2VWaaUDD85X0jQAqotXGjGKttmA="
+        "value": "GembagtrjA25fR7VkRsE87aqvmAv6GlEJuderLfAbv0="
       }
     }
   ]
