@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "GembagtrjA25fR7VkRsE87aqvmAv6GlEJuderLfAbv0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/cdw8xenv6evr7vjex8lo8xzj21ai6gyb?d=identicon",
-        "country": "IW",
-        "ethereum_address": "0xEC50D1cBEB7d3C63D358D03354E66D3C282Cc732",
-        "id": "b1affd2cd04fd184612200c483d4c877a0383508b2760200719a4eb27e58907d",
-        "info_url": "https://en.wikipedia.org/wiki/1570_in_Norway",
-        "name": "easy-butterfly",
-        "tm_pub_key": "GembagtrjA25fR7VkRsE87aqvmAv6GlEJuderLfAbv0=",
-        "vega_pub_key": "00198d60d63de644f91e26e800b0bd6ffa1d8909cc8ca4560effffcfc9f06725",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "e+kOTP80CSNQ/oIqKEG09bfCWpeFrQf2O4EqQYbIB0s=": {
+        "avatar_url": "https://www.gravatar.com/avatar/6j2m1cydphdcrjuw2br2duqjyql9vc2k?d=identicon",
+        "country": "SU",
+        "ethereum_address": "0x4Aa89f173592aF348edFCC30575999Af402890De",
+        "id": "780e642151fdbd1dbe262bef753434057036e7333c1876055dc1dd47b852f205",
+        "info_url": "https://en.wikipedia.org/wiki/Nahuel_Huapi_National_Park",
+        "name": "important-school",
+        "tm_pub_key": "e+kOTP80CSNQ/oIqKEG09bfCWpeFrQf2O4EqQYbIB0s=",
+        "vega_pub_key": "749417de7ea1a3826830ad72e53d74224fa1fa31b42e2408bfa1dd482fa51599",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310271306",
+  "chain_id": "vega-devnet1-202310271430",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-27T13:06:22.927609538Z",
+  "genesis_time": "2023-10-27T14:30:32.998492571Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "1EC7CB644C75EFE22117306C81E6EE259B553695",
-      "name": "easy-butterfly",
+      "address": "7BDE0972E3FD309D859A3D3CA3E5A7ED0EB3B457",
+      "name": "important-school",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "GembagtrjA25fR7VkRsE87aqvmAv6GlEJuderLfAbv0="
+        "value": "e+kOTP80CSNQ/oIqKEG09bfCWpeFrQf2O4EqQYbIB0s="
       }
     }
   ]
