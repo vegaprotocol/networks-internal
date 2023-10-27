@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "P86wzex8E+vBi6QgUzZjPGGDfy8VvmcSnpPjFqG9iBE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/rlawoazhz3fq4sdouefqnd3j2vxvv51j?d=identicon",
-        "country": "PD",
-        "ethereum_address": "0xC6fD0b770E8618aeDE42D48C9CA412f00d0C00ed",
-        "id": "69b0609f0c2507bfaa7674623d87400be419d65c387336effafe1ea432e65364",
-        "info_url": "https://en.wikipedia.org/wiki/%C8%98omcuta_Mare",
-        "name": "wrong-ball",
-        "tm_pub_key": "P86wzex8E+vBi6QgUzZjPGGDfy8VvmcSnpPjFqG9iBE=",
-        "vega_pub_key": "a1e2c29ae83f02242a6c5567f1f15dd533ab281c479378ee96a8803093b1bb9d",
+      "J9/Le9mELJhFV4iDDF2xA90CMZltmG7OjTJ9Ehnj73w=": {
+        "avatar_url": "https://www.gravatar.com/avatar/d76c2vkpk6yvht7lqdlsm0320p5hijcc?d=identicon",
+        "country": "VV",
+        "ethereum_address": "0x51Da17a81CeEa7ad4EBf8e9172e8c3aDa06C8edb",
+        "id": "3494f33455d1f3de4c13025532aec267409584a5bcad755bd9fb185a0f36c1fa",
+        "info_url": "https://en.wikipedia.org/wiki/Ursa_(spider)",
+        "name": "hollow-book",
+        "tm_pub_key": "J9/Le9mELJhFV4iDDF2xA90CMZltmG7OjTJ9Ehnj73w=",
+        "vega_pub_key": "e1fa49177dfe54f6ce17a9aea0692c9750c603538882d185ab8584f811350069",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310271608",
+  "chain_id": "vega-devnet1-202310271720",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-27T16:08:49.095892838Z",
+  "genesis_time": "2023-10-27T17:20:07.280842164Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "878825C672CBDA1241D8D6CD9D1A30665E82845B",
-      "name": "wrong-ball",
+      "address": "4C84C1B83AC6A35F4C86463E5462A70B16522314",
+      "name": "hollow-book",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "P86wzex8E+vBi6QgUzZjPGGDfy8VvmcSnpPjFqG9iBE="
+        "value": "J9/Le9mELJhFV4iDDF2xA90CMZltmG7OjTJ9Ehnj73w="
       }
     }
   ]
