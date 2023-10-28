@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "J9/Le9mELJhFV4iDDF2xA90CMZltmG7OjTJ9Ehnj73w=": {
-        "avatar_url": "https://www.gravatar.com/avatar/d76c2vkpk6yvht7lqdlsm0320p5hijcc?d=identicon",
-        "country": "VV",
-        "ethereum_address": "0x51Da17a81CeEa7ad4EBf8e9172e8c3aDa06C8edb",
-        "id": "3494f33455d1f3de4c13025532aec267409584a5bcad755bd9fb185a0f36c1fa",
-        "info_url": "https://en.wikipedia.org/wiki/Ursa_(spider)",
-        "name": "hollow-book",
-        "tm_pub_key": "J9/Le9mELJhFV4iDDF2xA90CMZltmG7OjTJ9Ehnj73w=",
-        "vega_pub_key": "e1fa49177dfe54f6ce17a9aea0692c9750c603538882d185ab8584f811350069",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "oaNqVExL45ly1uRNa+2B1m4m3eZT0Abh7blgb+qAvJE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/spe2yyqt6zihjjqbojcgsv0hihhq6ffv?d=identicon",
+        "country": "DA",
+        "ethereum_address": "0x34f6Bb31e4e052CAfa9E6c16322986e760c848D0",
+        "id": "6eae49cdb4be39bfc6fe510ddda348d73481e04802ae2b3868ce674efbad976b",
+        "info_url": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Matval",
+        "name": "tender-car",
+        "tm_pub_key": "oaNqVExL45ly1uRNa+2B1m4m3eZT0Abh7blgb+qAvJE=",
+        "vega_pub_key": "005c7318dd9da644b02fdfc23825d350d5e5205b5b010ba98df1d1acfea8d33d",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310271720",
+  "chain_id": "vega-devnet1-202310281332",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-27T17:20:07.280842164Z",
+  "genesis_time": "2023-10-28T13:32:05.777767175Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "4C84C1B83AC6A35F4C86463E5462A70B16522314",
-      "name": "hollow-book",
+      "address": "8FE038DE0A7EC492296ACD95DE19E8498F14754C",
+      "name": "tender-car",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "J9/Le9mELJhFV4iDDF2xA90CMZltmG7OjTJ9Ehnj73w="
+        "value": "oaNqVExL45ly1uRNa+2B1m4m3eZT0Abh7blgb+qAvJE="
       }
     }
   ]
