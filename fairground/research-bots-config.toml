@@ -225,7 +225,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         inventory_lower_boundary = -3
         inventory_upper_boundary = 3
         fee_amount = 0.0001
-        commitment_amount = 7000000
+        commitment_amount = 15000000
         initial_mint = 38000000
     [scenario.btcusd_incentive.auction_trader_args]
         traders = 2
