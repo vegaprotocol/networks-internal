@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "PpCRB3yHG6BMQ1+QUQqJWtTAUQKQPjk8l8yEpmCNfoI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/6g3fmv2lek39rahata2u38gn13g7gqrt?d=identicon",
-        "country": "HM",
-        "ethereum_address": "0xbb60a51aB06f54959D77de179C97F77C124a0998",
-        "id": "245151a333bb36d0c13e6957d7248fa2e2582417968a68b51cf7b3efe3ffec04",
-        "info_url": "https://en.wikipedia.org/wiki/Anton_de_Pasquale",
-        "name": "perfect-spoon",
-        "tm_pub_key": "PpCRB3yHG6BMQ1+QUQqJWtTAUQKQPjk8l8yEpmCNfoI=",
-        "vega_pub_key": "3139cf1ea8c6192084d938a60e1fc3165a437b60ba387772a4386ca6a6a85b9c",
+      "40OZADCxR9QQ2jgaFkVVmpDzPGNgInT8NI1Bv7k8jDo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ip866xgjg91w08h92aca8ml0jtj99wof?d=identicon",
+        "country": "GZ",
+        "ethereum_address": "0x99dd569FAc3E0eB35DE6850B0ff2840ebcB74E7a",
+        "id": "c1ba7adbe383714dff785580464d693870543463f62aed1575eae361fb272573",
+        "info_url": "https://en.wikipedia.org/wiki/Hersey_(name)",
+        "name": "dizzy-movie",
+        "tm_pub_key": "40OZADCxR9QQ2jgaFkVVmpDzPGNgInT8NI1Bv7k8jDo=",
+        "vega_pub_key": "dc30314dfe3b6d71cebd967c75666fd8302865c8d1ecc06f3b8fe2f536ff6073",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310301338",
+  "chain_id": "vega-devnet1-202310301424",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-30T13:38:16.040702062Z",
+  "genesis_time": "2023-10-30T14:24:52.188807691Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "4FFDBC27E3613BC623E002C045840B57DE7D5E12",
-      "name": "perfect-spoon",
+      "address": "1C41AA1D85C92798AF810A24A5E122D94C6FFA8A",
+      "name": "dizzy-movie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "PpCRB3yHG6BMQ1+QUQqJWtTAUQKQPjk8l8yEpmCNfoI="
+        "value": "40OZADCxR9QQ2jgaFkVVmpDzPGNgInT8NI1Bv7k8jDo="
       }
     }
   ]
