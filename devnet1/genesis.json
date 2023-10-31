@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "kUcfvtl0wtvpko36nb+MsrxE/tkR0K+a44JY/0/DtZk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/bsp4rczteioe8dwmkf5olr4649nnp060?d=identicon",
-        "country": "HP",
-        "ethereum_address": "0x313Ba6338DFBD99A51739e6c5ca024640fA31249",
-        "id": "311cd84815ba207b10a0746733cfabd11147ba09ea620deed127c0ca08648c98",
-        "info_url": "https://en.wikipedia.org/wiki/Papilionanthe_tricuspidata",
-        "name": "lovely-cloud",
-        "tm_pub_key": "kUcfvtl0wtvpko36nb+MsrxE/tkR0K+a44JY/0/DtZk=",
-        "vega_pub_key": "2db21dd0c1d0bff0fe077c98ba29f3c09b937e92a2bf822cf79447fb099234cb",
+      "doZ93KOhssc0lBSP/d6lp0S+ZWXMzxq4xplGyE0e6EI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/b1q01otqf1kyc5w7rntt6l924q1gdjd4?d=identicon",
+        "country": "CR",
+        "ethereum_address": "0xd1fA0F72f583D66075326B68b0E42A967176A88a",
+        "id": "3f47ce76aaa17ab9bc38ca4be47e531f5b839e736aa816a838d2a14e953911ca",
+        "info_url": "https://en.wikipedia.org/wiki/Elachista_angularis",
+        "name": "powerful-cat",
+        "tm_pub_key": "doZ93KOhssc0lBSP/d6lp0S+ZWXMzxq4xplGyE0e6EI=",
+        "vega_pub_key": "06af08ab7fc47dedd21555f570f10f687788c9eb162e3882c8bd959cc80ce1b6",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310301501",
+  "chain_id": "vega-devnet1-202310311406",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-30T15:01:25.029871554Z",
+  "genesis_time": "2023-10-31T14:06:01.529249547Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "94113B2661761C14C47F1C6D4B96523CE1655481",
-      "name": "lovely-cloud",
+      "address": "07B6049B22596D49394A95D4976B3EFB2665B6F4",
+      "name": "powerful-cat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "kUcfvtl0wtvpko36nb+MsrxE/tkR0K+a44JY/0/DtZk="
+        "value": "doZ93KOhssc0lBSP/d6lp0S+ZWXMzxq4xplGyE0e6EI="
       }
     }
   ]
