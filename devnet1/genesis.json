@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "doZ93KOhssc0lBSP/d6lp0S+ZWXMzxq4xplGyE0e6EI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/b1q01otqf1kyc5w7rntt6l924q1gdjd4?d=identicon",
-        "country": "CR",
-        "ethereum_address": "0xd1fA0F72f583D66075326B68b0E42A967176A88a",
-        "id": "3f47ce76aaa17ab9bc38ca4be47e531f5b839e736aa816a838d2a14e953911ca",
-        "info_url": "https://en.wikipedia.org/wiki/Elachista_angularis",
-        "name": "powerful-cat",
-        "tm_pub_key": "doZ93KOhssc0lBSP/d6lp0S+ZWXMzxq4xplGyE0e6EI=",
-        "vega_pub_key": "06af08ab7fc47dedd21555f570f10f687788c9eb162e3882c8bd959cc80ce1b6",
+      "bsSf8WIqR6Sy2s5ujK6CwJ0UB3FRJo9ezb6Oi/aYJ0M=": {
+        "avatar_url": "https://www.gravatar.com/avatar/vmu3jo4jqkzn34x7ul4xnhao6xntgocv?d=identicon",
+        "country": "JJ",
+        "ethereum_address": "0x61acafB5B7a3286Ed61Ef656990801F9118c9E9f",
+        "id": "ffa2f5a2d87ba91fe7eb8aa3d7f4487f392c2df2efc9faaf4e145619961bcdfa",
+        "info_url": "https://en.wikipedia.org/wiki/Transverse_Island",
+        "name": "bored-door",
+        "tm_pub_key": "bsSf8WIqR6Sy2s5ujK6CwJ0UB3FRJo9ezb6Oi/aYJ0M=",
+        "vega_pub_key": "56f926c1815bc88a2d1921c7e18e08849146f1b9b19939ce10c1403882ea039f",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202310311406",
+  "chain_id": "vega-devnet1-202310311602",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-10-31T14:06:01.529249547Z",
+  "genesis_time": "2023-10-31T16:02:06.349619942Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "07B6049B22596D49394A95D4976B3EFB2665B6F4",
-      "name": "powerful-cat",
+      "address": "CB047E2AE93B2E8C9CA34C7232EDC76960D344C0",
+      "name": "bored-door",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "doZ93KOhssc0lBSP/d6lp0S+ZWXMzxq4xplGyE0e6EI="
+        "value": "bsSf8WIqR6Sy2s5ujK6CwJ0UB3FRJo9ezb6Oi/aYJ0M="
       }
     }
   ]
