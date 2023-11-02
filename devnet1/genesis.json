@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "LHWtPS+RXrmgufoIAlBQ11yDmRUDSbHCEt/57aeiL50=": {
+        "avatar_url": "https://www.gravatar.com/avatar/cg69g4bfhi39o3uaoimhpgkxumtv6tm0?d=identicon",
+        "country": "LP",
+        "ethereum_address": "0x63F50FFD047a7a8f85Fc9211e92e60c62F0aD305",
+        "id": "d3acdc56e83ade75edb7b22573bf0d0419f8191d3908241c1448b964aafd7780",
+        "info_url": "https://en.wikipedia.org/wiki/Ab_initio",
+        "name": "adventurous-wall",
+        "tm_pub_key": "LHWtPS+RXrmgufoIAlBQ11yDmRUDSbHCEt/57aeiL50=",
+        "vega_pub_key": "bf46f5fcaa7ed242c0594966bc2da2bddaa36c58626c46628b940a98d0c41a22",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "dRZv5LlQJOkbUrmXiTppZlB2MLrVKH73F+Tq7EUjgMs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/1difkdsfpme725xca8sdz4cjplepc23r?d=identicon",
-        "country": "EF",
-        "ethereum_address": "0xE6e11C51B2aEb6F651c4cb3C7454c513a8A8CDEa",
-        "id": "bafc66ba71e567432750bbe2d1a5c13e1336be163d91d0cab9925a34d51259b8",
-        "info_url": "https://en.wikipedia.org/wiki/FK_Ov%C4%8De_Pole",
-        "name": "thundering-milk",
-        "tm_pub_key": "dRZv5LlQJOkbUrmXiTppZlB2MLrVKH73F+Tq7EUjgMs=",
-        "vega_pub_key": "d28851dbc670fca374360f63e55a45c2479e3056b53a8c2b1b1e3fd9939f58cd",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311021601",
+  "chain_id": "vega-devnet1-202311021803",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-02T16:01:30.286306229Z",
+  "genesis_time": "2023-11-02T18:03:41.737628895Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "AA2A2F77B753BEEF434EF6E2FDBEA4FE004B1A30",
-      "name": "thundering-milk",
+      "address": "D8F4EC58013AF2FE0AFAFBE45FB656F6516CDDFF",
+      "name": "adventurous-wall",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "dRZv5LlQJOkbUrmXiTppZlB2MLrVKH73F+Tq7EUjgMs="
+        "value": "LHWtPS+RXrmgufoIAlBQ11yDmRUDSbHCEt/57aeiL50="
       }
     }
   ]
