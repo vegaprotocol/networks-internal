@@ -318,11 +318,11 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         commitment_amount = 150000
         initial_mint = 300000
     [scenario.mainnet_btcusdt.auction_trader_args]
-        traders = 2
+        traders = 0
         initial_volume = 0.001
         initial_mint = 10000
     [scenario.mainnet_btcusdt.random_trader_args]
-        traders = 10
+        traders = 0
         order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
         order_volume = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.12, 0.14, 0.16, 0.18] # 
         step_bias = [0.111, 0.95, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
@@ -363,11 +363,11 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         commitment_amount = 100000
         initial_mint = 200000
     [scenario.mainnet_btcusdt_2.auction_trader_args]
-        traders = 2
+        traders = 0
         initial_volume = 0.001
         initial_mint = 10000
     [scenario.mainnet_btcusdt_2.random_trader_args]
-        traders = 10
+        traders = 0
         order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
         order_volume = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.12, 0.14, 0.16, 0.18] # 
         step_bias = [0.111, 0.95, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
