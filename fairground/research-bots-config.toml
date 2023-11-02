@@ -297,7 +297,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 [scenario.mainnet_btcusdt]
     market_name = "BTC/USDT Mainnet Copy"
-    binance_code = "BTCDAI"
+    binance_code = "BTCUSDT"
     step_length_seconds = 30
     [scenario.mainnet_btcusdt.market_manager_args]
         asset_name = "USDT"
@@ -342,7 +342,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 [scenario.mainnet_btcusdt_2]
     market_name = "BTC/USDT Mainnet Copy"
-    binance_code = "BTCDAI"
+    binance_code = "BTCUSDT"
     step_length_seconds = 10
     [scenario.mainnet_btcusdt_2.market_manager_args]
         asset_name = "USDT"
