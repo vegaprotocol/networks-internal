@@ -300,7 +300,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
     binance_code = "BTCDAI"
     step_length_seconds = 30
     [scenario.mainnet_btcusdt.market_manager_args]
-        asset_name = "Tether USD"
+        asset_name = "USDT"
         adp = 6
         mdp = 4
         pdp = 0
@@ -345,7 +345,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
     binance_code = "BTCDAI"
     step_length_seconds = 10
     [scenario.mainnet_btcusdt_2.market_manager_args]
-        asset_name = "Tether USD"
+        asset_name = "USDT"
         adp = 6
         mdp = 4
         pdp = 0
