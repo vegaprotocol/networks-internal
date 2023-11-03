@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "LHWtPS+RXrmgufoIAlBQ11yDmRUDSbHCEt/57aeiL50=": {
-        "avatar_url": "https://www.gravatar.com/avatar/cg69g4bfhi39o3uaoimhpgkxumtv6tm0?d=identicon",
-        "country": "LP",
-        "ethereum_address": "0x63F50FFD047a7a8f85Fc9211e92e60c62F0aD305",
-        "id": "d3acdc56e83ade75edb7b22573bf0d0419f8191d3908241c1448b964aafd7780",
-        "info_url": "https://en.wikipedia.org/wiki/Ab_initio",
-        "name": "adventurous-wall",
-        "tm_pub_key": "LHWtPS+RXrmgufoIAlBQ11yDmRUDSbHCEt/57aeiL50=",
-        "vega_pub_key": "bf46f5fcaa7ed242c0594966bc2da2bddaa36c58626c46628b940a98d0c41a22",
+      "90tCKdvnRrP5BOsD69TSTaEIRj9iwaL/Lqod8Pr+1lA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/002ia23tv823kjzjqm57dmxde0827cmc?d=identicon",
+        "country": "IH",
+        "ethereum_address": "0xAd0911d93bfAA28e0EFd0ec27a31EEB34081b5a6",
+        "id": "4ed6bb5c15bf182e3b7671f25074c71fb1d824aae99c9d1fc699297f659441ca",
+        "info_url": "https://en.wikipedia.org/wiki/Dushanbe_International_School",
+        "name": "wrong-chair",
+        "tm_pub_key": "90tCKdvnRrP5BOsD69TSTaEIRj9iwaL/Lqod8Pr+1lA=",
+        "vega_pub_key": "dd53f9b1ebfbe9eb15b32844acbe90171d1fe18e465ed9825ae05f1538ea43b4",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311021803",
+  "chain_id": "vega-devnet1-202311031012",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-02T18:03:41.737628895Z",
+  "genesis_time": "2023-11-03T10:12:27.195495441Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "D8F4EC58013AF2FE0AFAFBE45FB656F6516CDDFF",
-      "name": "adventurous-wall",
+      "address": "C435BFDC1388BE67A7BAB957D3AE65448713BE5A",
+      "name": "wrong-chair",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "LHWtPS+RXrmgufoIAlBQ11yDmRUDSbHCEt/57aeiL50="
+        "value": "90tCKdvnRrP5BOsD69TSTaEIRj9iwaL/Lqod8Pr+1lA="
       }
     }
   ]
