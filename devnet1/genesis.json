@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "JZKVJcfoGess8D4EhYrFUmkRSY9Qjhc88u2A3IYshUU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/9zgbnyu7jes410ks7h93xdyhqfygip94?d=identicon",
-        "country": "IV",
-        "ethereum_address": "0xDeCE852dc6432b1B8f768Df661a94a1A8bf26f7F",
-        "id": "f017832f063ff22c7e914323b37f4d2a84f43f367a0c2969f469474fcb642763",
-        "info_url": "https://en.wikipedia.org/wiki/List_of_Steven_Universe_characters",
-        "name": "frightened-barber",
-        "tm_pub_key": "JZKVJcfoGess8D4EhYrFUmkRSY9Qjhc88u2A3IYshUU=",
-        "vega_pub_key": "5488916e82ece43e87b8d5dedc3c2a4f51690d9faae5e6d1a1d936b6b2d17074",
+      "R2quXfvqPBEDkNIZgzgKG8/XBphlWjlnqw8dHU1cvEk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/c7w8av3g3n68jon135ejiwwea09dwja0?d=identicon",
+        "country": "LO",
+        "ethereum_address": "0x0Ae75e5b5A48D18fa85cD3b7585a5990CE33A875",
+        "id": "d294aa731f4731c9eaa86e0991209474d24f0ce83cb0656fbdc4835b6b5630cd",
+        "info_url": "https://en.wikipedia.org/wiki/Gangster_Lolo",
+        "name": "opportune-road",
+        "tm_pub_key": "R2quXfvqPBEDkNIZgzgKG8/XBphlWjlnqw8dHU1cvEk=",
+        "vega_pub_key": "f6153028d9173636908ca40705a2da975398a79a17f506f6abce7ee89e7502b1",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311031732",
+  "chain_id": "vega-devnet1-202311031806",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-03T17:32:27.369096219Z",
+  "genesis_time": "2023-11-03T18:06:10.088156457Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "CE8973ABF0B4BBA6050C20FE261AD706DF786920",
-      "name": "frightened-barber",
+      "address": "5CA06C4E74970084A8E0B288C53FA18B2B8F29ED",
+      "name": "opportune-road",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "JZKVJcfoGess8D4EhYrFUmkRSY9Qjhc88u2A3IYshUU="
+        "value": "R2quXfvqPBEDkNIZgzgKG8/XBphlWjlnqw8dHU1cvEk="
       }
     }
   ]
