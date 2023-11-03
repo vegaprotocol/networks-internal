@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "V5ghjXWipE7u7aksCfRu8UxPqeQ1jSrPbTHWVFz3I1Y=": {
-        "avatar_url": "https://www.gravatar.com/avatar/y3oqa8zbg5h72vjo9788xluu49kci2ry?d=identicon",
-        "country": "NE",
-        "ethereum_address": "0x2711A495A86DE7EeFE2b099ED7cb90ca4cD66425",
-        "id": "b5e2c017896e5c1ba5ca0b7f44c2e9541f0e0e93c454670188f4dfc5bee7d646",
-        "info_url": "https://en.wikipedia.org/wiki/Andrew_Wilkinson",
-        "name": "immense-hat",
-        "tm_pub_key": "V5ghjXWipE7u7aksCfRu8UxPqeQ1jSrPbTHWVFz3I1Y=",
-        "vega_pub_key": "9cc25905f4775a346e88416dac8a29d467b5565ac1727bde7677fbba4c013af0",
+      "JZKVJcfoGess8D4EhYrFUmkRSY9Qjhc88u2A3IYshUU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/9zgbnyu7jes410ks7h93xdyhqfygip94?d=identicon",
+        "country": "IV",
+        "ethereum_address": "0xDeCE852dc6432b1B8f768Df661a94a1A8bf26f7F",
+        "id": "f017832f063ff22c7e914323b37f4d2a84f43f367a0c2969f469474fcb642763",
+        "info_url": "https://en.wikipedia.org/wiki/List_of_Steven_Universe_characters",
+        "name": "frightened-barber",
+        "tm_pub_key": "JZKVJcfoGess8D4EhYrFUmkRSY9Qjhc88u2A3IYshUU=",
+        "vega_pub_key": "5488916e82ece43e87b8d5dedc3c2a4f51690d9faae5e6d1a1d936b6b2d17074",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311031545",
+  "chain_id": "vega-devnet1-202311031732",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-03T15:45:43.938390189Z",
+  "genesis_time": "2023-11-03T17:32:27.369096219Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "8D2642E719ED86CCEB8049C4D2F160FFFA1B4C02",
-      "name": "immense-hat",
+      "address": "CE8973ABF0B4BBA6050C20FE261AD706DF786920",
+      "name": "frightened-barber",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "V5ghjXWipE7u7aksCfRu8UxPqeQ1jSrPbTHWVFz3I1Y="
+        "value": "JZKVJcfoGess8D4EhYrFUmkRSY9Qjhc88u2A3IYshUU="
       }
     }
   ]
