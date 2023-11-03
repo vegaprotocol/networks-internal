@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "TqzyAN1kUNjMkegGYq0UZRYOFYt9qri8+HtQwxwNWhc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/vrv6eahu0sc4n4m8ghbkrvzpro7wre7u?d=identicon",
-        "country": "KO",
-        "ethereum_address": "0x9F53bac42c01D8C0BD7683EBb10763009F996207",
-        "id": "cd233c93c62d0574d9502a7a48a7160b578e4489cb5a7b5804bf36132b0dddb5",
-        "info_url": "https://en.wikipedia.org/wiki/Deutzianthus_tonkinensis",
-        "name": "fresh-music",
-        "tm_pub_key": "TqzyAN1kUNjMkegGYq0UZRYOFYt9qri8+HtQwxwNWhc=",
-        "vega_pub_key": "9ca8de5b58747d3215b831b812bb5a0db38d92588c0cfef3f690f4e06de8fa00",
+      "V5ghjXWipE7u7aksCfRu8UxPqeQ1jSrPbTHWVFz3I1Y=": {
+        "avatar_url": "https://www.gravatar.com/avatar/y3oqa8zbg5h72vjo9788xluu49kci2ry?d=identicon",
+        "country": "NE",
+        "ethereum_address": "0x2711A495A86DE7EeFE2b099ED7cb90ca4cD66425",
+        "id": "b5e2c017896e5c1ba5ca0b7f44c2e9541f0e0e93c454670188f4dfc5bee7d646",
+        "info_url": "https://en.wikipedia.org/wiki/Andrew_Wilkinson",
+        "name": "immense-hat",
+        "tm_pub_key": "V5ghjXWipE7u7aksCfRu8UxPqeQ1jSrPbTHWVFz3I1Y=",
+        "vega_pub_key": "9cc25905f4775a346e88416dac8a29d467b5565ac1727bde7677fbba4c013af0",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311031352",
+  "chain_id": "vega-devnet1-202311031506",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-03T13:52:33.893783568Z",
+  "genesis_time": "2023-11-03T15:06:15.483618002Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "10F15019950FFC6EF3AE8970ADBF646CE938FADE",
-      "name": "fresh-music",
+      "address": "8D2642E719ED86CCEB8049C4D2F160FFFA1B4C02",
+      "name": "immense-hat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "TqzyAN1kUNjMkegGYq0UZRYOFYt9qri8+HtQwxwNWhc="
+        "value": "V5ghjXWipE7u7aksCfRu8UxPqeQ1jSrPbTHWVFz3I1Y="
       }
     }
   ]
