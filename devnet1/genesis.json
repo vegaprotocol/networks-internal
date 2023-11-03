@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "R2quXfvqPBEDkNIZgzgKG8/XBphlWjlnqw8dHU1cvEk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/c7w8av3g3n68jon135ejiwwea09dwja0?d=identicon",
-        "country": "LO",
-        "ethereum_address": "0x0Ae75e5b5A48D18fa85cD3b7585a5990CE33A875",
-        "id": "d294aa731f4731c9eaa86e0991209474d24f0ce83cb0656fbdc4835b6b5630cd",
-        "info_url": "https://en.wikipedia.org/wiki/Gangster_Lolo",
-        "name": "opportune-road",
-        "tm_pub_key": "R2quXfvqPBEDkNIZgzgKG8/XBphlWjlnqw8dHU1cvEk=",
-        "vega_pub_key": "f6153028d9173636908ca40705a2da975398a79a17f506f6abce7ee89e7502b1",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "a9hHQKQBEoFcL/F96ruXAWPni+xZpa1pSZ8lb8LpwJ4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/3n198drlqtxds03gfnc73qze9rf9poah?d=identicon",
+        "country": "FS",
+        "ethereum_address": "0xBdbFc5956869dDb85CEeCF16fd1A1c78789738D7",
+        "id": "e04629af91341e9d912dcb7aff96f86f1eb2b0907029ab48638376f33f81d49a",
+        "info_url": "https://en.wikipedia.org/wiki/Antony_Sheriff",
+        "name": "harsh-dog",
+        "tm_pub_key": "a9hHQKQBEoFcL/F96ruXAWPni+xZpa1pSZ8lb8LpwJ4=",
+        "vega_pub_key": "f7f0564833c7c744fb0e279e36e4804696799e92b3726d3f1ec5a2a543db357a",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311031806",
+  "chain_id": "vega-devnet1-202311032149",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-03T18:06:10.088156457Z",
+  "genesis_time": "2023-11-03T21:49:55.338851681Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "5CA06C4E74970084A8E0B288C53FA18B2B8F29ED",
-      "name": "opportune-road",
+      "address": "63C9632646DE2733E513F66DC33F0B35A1C70A9C",
+      "name": "harsh-dog",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "R2quXfvqPBEDkNIZgzgKG8/XBphlWjlnqw8dHU1cvEk="
+        "value": "a9hHQKQBEoFcL/F96ruXAWPni+xZpa1pSZ8lb8LpwJ4="
       }
     }
   ]
