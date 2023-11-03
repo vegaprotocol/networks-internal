@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "90tCKdvnRrP5BOsD69TSTaEIRj9iwaL/Lqod8Pr+1lA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/002ia23tv823kjzjqm57dmxde0827cmc?d=identicon",
-        "country": "IH",
-        "ethereum_address": "0xAd0911d93bfAA28e0EFd0ec27a31EEB34081b5a6",
-        "id": "4ed6bb5c15bf182e3b7671f25074c71fb1d824aae99c9d1fc699297f659441ca",
-        "info_url": "https://en.wikipedia.org/wiki/Dushanbe_International_School",
-        "name": "wrong-chair",
-        "tm_pub_key": "90tCKdvnRrP5BOsD69TSTaEIRj9iwaL/Lqod8Pr+1lA=",
-        "vega_pub_key": "dd53f9b1ebfbe9eb15b32844acbe90171d1fe18e465ed9825ae05f1538ea43b4",
+      "TqzyAN1kUNjMkegGYq0UZRYOFYt9qri8+HtQwxwNWhc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/vrv6eahu0sc4n4m8ghbkrvzpro7wre7u?d=identicon",
+        "country": "KO",
+        "ethereum_address": "0x9F53bac42c01D8C0BD7683EBb10763009F996207",
+        "id": "cd233c93c62d0574d9502a7a48a7160b578e4489cb5a7b5804bf36132b0dddb5",
+        "info_url": "https://en.wikipedia.org/wiki/Deutzianthus_tonkinensis",
+        "name": "fresh-music",
+        "tm_pub_key": "TqzyAN1kUNjMkegGYq0UZRYOFYt9qri8+HtQwxwNWhc=",
+        "vega_pub_key": "9ca8de5b58747d3215b831b812bb5a0db38d92588c0cfef3f690f4e06de8fa00",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311031012",
+  "chain_id": "vega-devnet1-202311031352",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-03T10:12:27.195495441Z",
+  "genesis_time": "2023-11-03T13:52:33.893783568Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "C435BFDC1388BE67A7BAB957D3AE65448713BE5A",
-      "name": "wrong-chair",
+      "address": "10F15019950FFC6EF3AE8970ADBF646CE938FADE",
+      "name": "fresh-music",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "90tCKdvnRrP5BOsD69TSTaEIRj9iwaL/Lqod8Pr+1lA="
+        "value": "TqzyAN1kUNjMkegGYq0UZRYOFYt9qri8+HtQwxwNWhc="
       }
     }
   ]
