@@ -551,7 +551,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         traders = 10
         order_intensity = [5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
         order_volume = [0.01, 0.02, 0.05, 0.08, 0.1, 0.15, 0.3, 0.5, 0.8, 1]
-        step_bias = [0.7, 0.6, 0.5, 0.4, 0.3, 0.2, 0.1, 0.01, 0.003]
+        step_bias = [0.7, 0.6, 0.5, 0.4, 0.3, 0.2, 0.1, 0.01, 0.005, 0.003]
         initial_mint = 1200
     [scenario.mainnet_proposal_perps_ethusdt.sensitive_trader_args]
         traders = 0
