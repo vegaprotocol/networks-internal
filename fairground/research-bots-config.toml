@@ -401,7 +401,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         order_kappa = 0.3
         order_size = 1
         order_levels = 25
-        order_spacing = 0.5
+        order_spacing = 0.2
         order_clipping = 10000
         inventory_lower_boundary = -3
         inventory_upper_boundary = 3
@@ -415,8 +415,8 @@ state_file = "/opt/wallets-mount/wallet-state.json"
     [scenario.mainnet_ethusdt.random_trader_args]
         traders = 3
         order_intensity = [5, 5, 5]
-        order_volume = [0.01, 0.02, 0.05]
-        step_bias = [0.7, 0.6, 0.3]
+        order_volume = [0.06, 0.3, 0.4]
+        step_bias = [0.5, 0.05, 0.04]
         initial_mint = 1500
     [scenario.mainnet_ethusdt.sensitive_trader_args]
         traders = 0
@@ -446,7 +446,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         order_kappa = 0.3
         order_size = 1
         order_levels = 25
-        order_spacing = 0.5
+        order_spacing = 0.2
         order_clipping = 10000
         inventory_lower_boundary = -3
         inventory_upper_boundary = 3
@@ -460,8 +460,8 @@ state_file = "/opt/wallets-mount/wallet-state.json"
     [scenario.mainnet_ethusdt_2.random_trader_args]
         traders = 4
         order_intensity = [5, 5, 5, 5]
-        order_volume = [0.08, 0.1, 0.15, 0.3]
-        step_bias = [0.4, 0.3, 0.2, 0.1]
+        order_volume = [0.45, 0.49, 0.5, 0.6]
+        step_bias = [0.02, 0.01, 0.009, 0.004]
         initial_mint = 1500
     [scenario.mainnet_ethusdt_2.sensitive_trader_args]
         traders = 0
@@ -475,11 +475,10 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         start_date = "2022-11-01 00:00:00"
         randomise_history = false
 
-
 [scenario.mainnet_ethusdt_3]
     market_name = "ETH/USDT Mainnet Copy"
     binance_code = "ETHUSDT"
-    step_length_seconds = 10
+    step_length_seconds = 30
     [scenario.mainnet_ethusdt_3.market_manager_args]
         asset_name = "USDT"
         adp = 6
@@ -488,7 +487,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
     [scenario.mainnet_ethusdt_3.market_maker_args]
         market_kappa = 10
         market_order_arrival_rate = 100
-        order_kappa = 0.3
+        order_kappa = 0.2
         order_size = 1
         order_levels = 25
         order_spacing = 0.5
@@ -505,8 +504,8 @@ state_file = "/opt/wallets-mount/wallet-state.json"
     [scenario.mainnet_ethusdt_3.random_trader_args]
         traders = 3
         order_intensity = [5, 5, 5]
-        order_volume = [0.5, 0.8, 1.0]
-        step_bias = [0.1, 0.01, 0.003]
+        order_volume = [0.7, 0.8, 1]
+        step_bias = [0.003, 0.02, 0.01]
         initial_mint = 1500
     [scenario.mainnet_ethusdt_3.sensitive_trader_args]
         traders = 0
@@ -524,7 +523,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 [scenario.mainnet_proposal_perps_ethusdt]
     market_name = "ETH/USDT PERPETUAL"
     binance_code = "ETHUSDT"
-    step_length_seconds = 15
+    step_length_seconds = 30
     [scenario.mainnet_proposal_perps_ethusdt.market_manager_args]
         asset_name = "USDT"
         adp = 6
@@ -536,7 +535,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         order_kappa = 0.3
         order_size = 1
         order_levels = 25
-        order_spacing = 0.5
+        order_spacing = 0.2
         order_clipping = 10000
         inventory_lower_boundary = -3
         inventory_upper_boundary = 3
@@ -550,8 +549,8 @@ state_file = "/opt/wallets-mount/wallet-state.json"
     [scenario.mainnet_proposal_perps_ethusdt.random_trader_args]
         traders = 10
         order_intensity = [5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
-        order_volume = [0.01, 0.02, 0.05, 0.08, 0.1, 0.15, 0.3, 0.5, 0.8, 1]
-        step_bias = [0.7, 0.6, 0.5, 0.4, 0.3, 0.2, 0.1, 0.01, 0.005, 0.003]
+        order_volume = [0.06, 0.3, 0.4, 0.45, 0.49, 0.5, 0.6, 0.7, 0.8, 1]
+        step_bias = [0.5, 0.05, 0.04, 0.02, 0.01, 0.009, 0.004, 0.003, 0.02, 0.01]
         initial_mint = 1200
     [scenario.mainnet_proposal_perps_ethusdt.sensitive_trader_args]
         traders = 0
