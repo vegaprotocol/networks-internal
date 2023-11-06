@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "mWXsjAxOVrJEPSvtY34FK030u3EBmlICM5EwEUTP3DY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/js1rg1q7poruqfr9qq6ibebeh6la06z0?d=identicon",
-        "country": "FO",
-        "ethereum_address": "0xED53D4669cc8b901ae6593ca421a79c9E80bc200",
-        "id": "37d116a4ef2313b8feb75f930c812058d3ccdba175e1bbedae825f4aa82dece3",
-        "info_url": "https://en.wikipedia.org/wiki/Madagascar%E2%80%93Vietnam_relations",
-        "name": "wicked-shirt",
-        "tm_pub_key": "mWXsjAxOVrJEPSvtY34FK030u3EBmlICM5EwEUTP3DY=",
-        "vega_pub_key": "92667b6d631b6687d722a0fbe5dfe8e172c14e530997ea6ed725e0e29a987f55",
+      "iLmKSSx9orsbog+zgKz3cTcrscjs8CZMSA0wZmQRfNI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ut4pj1ms046jfqil955bgu9t5a5fj239?d=identicon",
+        "country": "IB",
+        "ethereum_address": "0x806fd8c540e86f5B682c254Cf35915258913241E",
+        "id": "9dc1f4fc304819fd7edfd158b7652292ec3fdeeca9d9b6938da83020a1f3f581",
+        "info_url": "https://en.wikipedia.org/wiki/Arv%C4%ABds_Brasti%C5%86%C5%A1",
+        "name": "tender-mango",
+        "tm_pub_key": "iLmKSSx9orsbog+zgKz3cTcrscjs8CZMSA0wZmQRfNI=",
+        "vega_pub_key": "4a28d54afd7e2486b88b815dd9f950846e6b6d05a0a8fd427c7cefe46cf20978",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311061139",
+  "chain_id": "vega-devnet1-202311061402",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-06T11:39:02.326186017Z",
+  "genesis_time": "2023-11-06T14:02:01.834784464Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "BD05688C6C563F82747D26D445E5BDEFBAB7E0AE",
-      "name": "wicked-shirt",
+      "address": "1D4C26A9F48A1451A8D7FDCDF577F39AA2A390A9",
+      "name": "tender-mango",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "mWXsjAxOVrJEPSvtY34FK030u3EBmlICM5EwEUTP3DY="
+        "value": "iLmKSSx9orsbog+zgKz3cTcrscjs8CZMSA0wZmQRfNI="
       }
     }
   ]
