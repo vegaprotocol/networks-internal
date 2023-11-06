@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "HERJdEurL8qncSdEWIwxEMtm22U0NC/fVser/TKc7dI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/seqcfmnrqcku7os7tyfgi5zbolsjt81s?d=identicon",
-        "country": "QU",
-        "ethereum_address": "0xd830Fa24512cC7D6AEE85E179aE56caF7B309a2A",
-        "id": "9a3e351a76e9c866741de18bd770f7d0af048783960573cba2f92e43a8ea5779",
-        "info_url": "https://en.wikipedia.org/wiki/D%C3%AAnis_Marinho",
-        "name": "vast-butterfly",
-        "tm_pub_key": "HERJdEurL8qncSdEWIwxEMtm22U0NC/fVser/TKc7dI=",
-        "vega_pub_key": "1aefeac1e4844753207ee562321d9f5a4f0d80f6b3443c205f83877b1a5bb59f",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "mWXsjAxOVrJEPSvtY34FK030u3EBmlICM5EwEUTP3DY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/js1rg1q7poruqfr9qq6ibebeh6la06z0?d=identicon",
+        "country": "FO",
+        "ethereum_address": "0xED53D4669cc8b901ae6593ca421a79c9E80bc200",
+        "id": "37d116a4ef2313b8feb75f930c812058d3ccdba175e1bbedae825f4aa82dece3",
+        "info_url": "https://en.wikipedia.org/wiki/Madagascar%E2%80%93Vietnam_relations",
+        "name": "wicked-shirt",
+        "tm_pub_key": "mWXsjAxOVrJEPSvtY34FK030u3EBmlICM5EwEUTP3DY=",
+        "vega_pub_key": "92667b6d631b6687d722a0fbe5dfe8e172c14e530997ea6ed725e0e29a987f55",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311061003",
+  "chain_id": "vega-devnet1-202311061125",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-06T10:03:15.794724928Z",
+  "genesis_time": "2023-11-06T11:25:15.289129576Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "4B0E363D90FDEB2C7BE28F45B3AF5741EAE1894E",
-      "name": "vast-butterfly",
+      "address": "BD05688C6C563F82747D26D445E5BDEFBAB7E0AE",
+      "name": "wicked-shirt",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "HERJdEurL8qncSdEWIwxEMtm22U0NC/fVser/TKc7dI="
+        "value": "mWXsjAxOVrJEPSvtY34FK030u3EBmlICM5EwEUTP3DY="
       }
     }
   ]
