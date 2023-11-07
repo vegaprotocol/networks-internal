@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "sD3i7mp0xgFi1juRbncBgFo6FEk98/WY9gC5seTCkLE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/87vn5if4yorm36agcs8bjnpqwpm0ev7g?d=identicon",
-        "country": "YR",
-        "ethereum_address": "0xe26714E7aB3fa3303E2228335f20f25E352641B9",
-        "id": "8dafdc238687b5b55f0953532202f15317bc78e0cdf1456e86aa79cb124cbd10",
-        "info_url": "https://en.wikipedia.org/wiki/Iraqis_in_Syria",
-        "name": "purple-taxi",
-        "tm_pub_key": "sD3i7mp0xgFi1juRbncBgFo6FEk98/WY9gC5seTCkLE=",
-        "vega_pub_key": "8a286a777c1551500a0af5729d3278caadfcf29437203526123a1d5352995b4e",
+      "WGdABlX5B3Ht7XDMgjZ1zr7cWN2zgs0c73tfLHwxWjc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/5p331o09jggjny9nexh8e083uha0pfk2?d=identicon",
+        "country": "BQ",
+        "ethereum_address": "0x392242b9C27E7db69E028F9F8A1D733Ea1725d08",
+        "id": "688918a54f673d1df9a51d7f92e5b5bb1559948ce13448597f58fdd66b0e7010",
+        "info_url": "https://en.wikipedia.org/wiki/St._Mary%27s_High_School_(Annapolis,_Maryland)",
+        "name": "funny-movie",
+        "tm_pub_key": "WGdABlX5B3Ht7XDMgjZ1zr7cWN2zgs0c73tfLHwxWjc=",
+        "vega_pub_key": "494bf3349364e22be616a9dfdb000f034df55751502167143dda61785d5e1feb",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311071216",
+  "chain_id": "vega-devnet1-202311071403",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-07T12:16:21.286875996Z",
+  "genesis_time": "2023-11-07T14:03:25.797473497Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "80F7C7980BAF10650F6BBA44FFB3DAF80AF1917C",
-      "name": "purple-taxi",
+      "address": "504B1CFC822348F1F741C2F1346368F1D128F55E",
+      "name": "funny-movie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "sD3i7mp0xgFi1juRbncBgFo6FEk98/WY9gC5seTCkLE="
+        "value": "WGdABlX5B3Ht7XDMgjZ1zr7cWN2zgs0c73tfLHwxWjc="
       }
     }
   ]
