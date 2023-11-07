@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "IL8MokXtTshkuVloRlzrB0ClKJ8ufJZJqoT4w8IYslE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/eh6faaa2gm5slg7lhyhsqbjfogdkzixt?d=identicon",
-        "country": "TH",
-        "ethereum_address": "0xBC9858f64170E708EF02C3E390f3b4bf2c6991F5",
-        "id": "a132d8301b172cddbc49edfd5537c779c03536b36486541a3812d016a2a80a39",
-        "info_url": "https://en.wikipedia.org/wiki/Welcome_Back_Gandhi",
-        "name": "healthy-hat",
-        "tm_pub_key": "IL8MokXtTshkuVloRlzrB0ClKJ8ufJZJqoT4w8IYslE=",
-        "vega_pub_key": "0a5100721989a3ea9334b42ffa640aae3de7a12e9aa6e28d46894b328284c080",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "jI0yz8q9VEf28Cduvm4zDsM5C1Ns6sIshj0RIIQn0iM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/sfibxi07rjtcbzn9y669gs2m7w605cjs?d=identicon",
+        "country": "UP",
+        "ethereum_address": "0xf340E42deDd2971C5451C7C2a529A172aB82713d",
+        "id": "5215fc922271dac9602c35e3fc0e3f1084effd811d601c46d0775467cf292ce2",
+        "info_url": "https://en.wikipedia.org/wiki/Spadoni",
+        "name": "cooperative-chair",
+        "tm_pub_key": "jI0yz8q9VEf28Cduvm4zDsM5C1Ns6sIshj0RIIQn0iM=",
+        "vega_pub_key": "d6daf71a419b76288291d20de9f092038830b07acb80e8974109b8607bf6b08c",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311071831",
+  "chain_id": "vega-devnet1-202311071909",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-07T18:31:47.798770574Z",
+  "genesis_time": "2023-11-07T19:09:29.682933073Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "5DF3B70B8CDDB40901EF755960C15C9BA28295BD",
-      "name": "healthy-hat",
+      "address": "7FFFAAA8D0BF670AEF68F2D920EDC74A0DD9835E",
+      "name": "cooperative-chair",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "IL8MokXtTshkuVloRlzrB0ClKJ8ufJZJqoT4w8IYslE="
+        "value": "jI0yz8q9VEf28Cduvm4zDsM5C1Ns6sIshj0RIIQn0iM="
       }
     }
   ]
