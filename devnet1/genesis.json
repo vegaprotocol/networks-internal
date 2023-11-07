@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "jI0yz8q9VEf28Cduvm4zDsM5C1Ns6sIshj0RIIQn0iM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/sfibxi07rjtcbzn9y669gs2m7w605cjs?d=identicon",
-        "country": "UP",
-        "ethereum_address": "0xf340E42deDd2971C5451C7C2a529A172aB82713d",
-        "id": "5215fc922271dac9602c35e3fc0e3f1084effd811d601c46d0775467cf292ce2",
-        "info_url": "https://en.wikipedia.org/wiki/Spadoni",
-        "name": "cooperative-chair",
-        "tm_pub_key": "jI0yz8q9VEf28Cduvm4zDsM5C1Ns6sIshj0RIIQn0iM=",
-        "vega_pub_key": "d6daf71a419b76288291d20de9f092038830b07acb80e8974109b8607bf6b08c",
+      "lDkLPrAiUB7uxcBvBjMySy9Zx5N9hwTQMTRktiQpsCY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/bi7bbpb9xn2j0y1f43adv2fmp0azr18v?d=identicon",
+        "country": "MA",
+        "ethereum_address": "0x6EA1756F66e80043fFCE0cA74d14c45b4cFDBaE2",
+        "id": "efea36241c9f39ad086be6dd2c203a8e9381e3390f16c06be2f4a4843f42fd81",
+        "info_url": "https://en.wikipedia.org/wiki/Ampelography",
+        "name": "alive-country",
+        "tm_pub_key": "lDkLPrAiUB7uxcBvBjMySy9Zx5N9hwTQMTRktiQpsCY=",
+        "vega_pub_key": "e8868f2be1e15f451e88891bc406a97e1c91df03c64a374d1f925edb135a6227",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311071909",
+  "chain_id": "vega-devnet1-202311072013",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-07T19:09:29.682933073Z",
+  "genesis_time": "2023-11-07T20:13:19.564727709Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "7FFFAAA8D0BF670AEF68F2D920EDC74A0DD9835E",
-      "name": "cooperative-chair",
+      "address": "66E024717F5C1DE87E2DA8BDCB80CC36154453E8",
+      "name": "alive-country",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "jI0yz8q9VEf28Cduvm4zDsM5C1Ns6sIshj0RIIQn0iM="
+        "value": "lDkLPrAiUB7uxcBvBjMySy9Zx5N9hwTQMTRktiQpsCY="
       }
     }
   ]
