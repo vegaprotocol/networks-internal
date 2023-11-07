@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "TKvX9iM2nu2zgJVUWA/H/DTm2Q1L0dEomGM4MQjKKQc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/6090s51k32qyg1hum1q7n8djvruyrrd1?d=identicon",
-        "country": "UO",
-        "ethereum_address": "0x00a119882E7f262a7Ae57008eCD97faD29620c9c",
-        "id": "0200ed1e30398e0506dd0a678239e308d4f346335c100052d619198f24c1d963",
-        "info_url": "https://en.wikipedia.org/wiki/Trivandrum_Rubber_Works",
-        "name": "hollow-farmer",
-        "tm_pub_key": "TKvX9iM2nu2zgJVUWA/H/DTm2Q1L0dEomGM4MQjKKQc=",
-        "vega_pub_key": "2cca4ef35e6b91b54d2190783bebcdceee8e6a457ee21da39b054e9830ee1ff7",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "ggDkKCTus2HIkafS37AixkSrPWPopeiny60AK14mI1c=": {
+        "avatar_url": "https://www.gravatar.com/avatar/l738aqqwrlkj3rx1v6rs2onvgpi7j3u9?d=identicon",
+        "country": "WY",
+        "ethereum_address": "0x98F1E142A4F441a4f096Bf5778159b857D3cDf1E",
+        "id": "f0996db0b6a9f36e61bd3c77c265c7abae4cee629f42341a52e495ce00537188",
+        "info_url": "https://en.wikipedia.org/wiki/Grey_brotula",
+        "name": "adorable-hat",
+        "tm_pub_key": "ggDkKCTus2HIkafS37AixkSrPWPopeiny60AK14mI1c=",
+        "vega_pub_key": "5a0499addb43ea4feb51394b6cca32031c7569c7566812ed59dcda8e7fbe2fb4",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311061750",
+  "chain_id": "vega-devnet1-202311070901",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-06T17:50:18.628660326Z",
+  "genesis_time": "2023-11-07T09:01:02.828705823Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "E5B85912CB9A16F9E56752B4A1F48B7200EA6784",
-      "name": "hollow-farmer",
+      "address": "7FF7C289B495DEBB402B4881967434DCF5B920AA",
+      "name": "adorable-hat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "TKvX9iM2nu2zgJVUWA/H/DTm2Q1L0dEomGM4MQjKKQc="
+        "value": "ggDkKCTus2HIkafS37AixkSrPWPopeiny60AK14mI1c="
       }
     }
   ]
