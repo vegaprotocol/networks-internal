@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "I5KLPj6zzojaXyVJJA4z4quMUXdgI70puZ3NdteFXm8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/1da27ds40o9vrr6oj6g8x6n7i4ppxyre?d=identicon",
-        "country": "XV",
-        "ethereum_address": "0x65174e92e48aF0E477aFa16feb20CC1100B1F962",
-        "id": "d586a44301dd3ea9420cbf5c1108a9424b680fa108fa4dc17f283fdc4dbbcd5b",
-        "info_url": "https://en.wikipedia.org/wiki/Harpalus_mlynari",
-        "name": "tricky-monkey",
-        "tm_pub_key": "I5KLPj6zzojaXyVJJA4z4quMUXdgI70puZ3NdteFXm8=",
-        "vega_pub_key": "2f8e4080400cb30ec655edd3814554ee3902952bf91bfa2878169edea13e7b8e",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "sD3i7mp0xgFi1juRbncBgFo6FEk98/WY9gC5seTCkLE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/87vn5if4yorm36agcs8bjnpqwpm0ev7g?d=identicon",
+        "country": "YR",
+        "ethereum_address": "0xe26714E7aB3fa3303E2228335f20f25E352641B9",
+        "id": "8dafdc238687b5b55f0953532202f15317bc78e0cdf1456e86aa79cb124cbd10",
+        "info_url": "https://en.wikipedia.org/wiki/Iraqis_in_Syria",
+        "name": "purple-taxi",
+        "tm_pub_key": "sD3i7mp0xgFi1juRbncBgFo6FEk98/WY9gC5seTCkLE=",
+        "vega_pub_key": "8a286a777c1551500a0af5729d3278caadfcf29437203526123a1d5352995b4e",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311071051",
+  "chain_id": "vega-devnet1-202311071216",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-07T10:51:36.40112565Z",
+  "genesis_time": "2023-11-07T12:16:21.286875996Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "0BC74EDAE8BF88F14613213705ED8B51F5762A53",
-      "name": "tricky-monkey",
+      "address": "80F7C7980BAF10650F6BBA44FFB3DAF80AF1917C",
+      "name": "purple-taxi",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "I5KLPj6zzojaXyVJJA4z4quMUXdgI70puZ3NdteFXm8="
+        "value": "sD3i7mp0xgFi1juRbncBgFo6FEk98/WY9gC5seTCkLE="
       }
     }
   ]
