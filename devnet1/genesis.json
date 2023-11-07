@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "IL8MokXtTshkuVloRlzrB0ClKJ8ufJZJqoT4w8IYslE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/eh6faaa2gm5slg7lhyhsqbjfogdkzixt?d=identicon",
+        "country": "TH",
+        "ethereum_address": "0xBC9858f64170E708EF02C3E390f3b4bf2c6991F5",
+        "id": "a132d8301b172cddbc49edfd5537c779c03536b36486541a3812d016a2a80a39",
+        "info_url": "https://en.wikipedia.org/wiki/Welcome_Back_Gandhi",
+        "name": "healthy-hat",
+        "tm_pub_key": "IL8MokXtTshkuVloRlzrB0ClKJ8ufJZJqoT4w8IYslE=",
+        "vega_pub_key": "0a5100721989a3ea9334b42ffa640aae3de7a12e9aa6e28d46894b328284c080",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "Ybw1/Ljbo6doX5+CXYCTEAyWV5oSrKnEnJCnP6bdP/8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/qe2ay2sa2gd81bq8wyf65t5z4su38mpm?d=identicon",
-        "country": "MZ",
-        "ethereum_address": "0x9667E96967c512A9DaF709b68703770b56422927",
-        "id": "98ed9dae7f025006d6a2d9576767bf44197cd3f01d01dc477c129c306226e34d",
-        "info_url": "https://en.wikipedia.org/wiki/Grobi%C5%86as_SC",
-        "name": "unsightly-cookie",
-        "tm_pub_key": "Ybw1/Ljbo6doX5+CXYCTEAyWV5oSrKnEnJCnP6bdP/8=",
-        "vega_pub_key": "935b90d3ef279c7e941827c6e0ea2e12b2708e506303498cbe2cc0af0178b12b",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311071649",
+  "chain_id": "vega-devnet1-202311071802",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-07T16:49:42.394640253Z",
+  "genesis_time": "2023-11-07T18:02:22.575750003Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "96AF377C212585CD2899A7639EFD922094834580",
-      "name": "unsightly-cookie",
+      "address": "5DF3B70B8CDDB40901EF755960C15C9BA28295BD",
+      "name": "healthy-hat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Ybw1/Ljbo6doX5+CXYCTEAyWV5oSrKnEnJCnP6bdP/8="
+        "value": "IL8MokXtTshkuVloRlzrB0ClKJ8ufJZJqoT4w8IYslE="
       }
     }
   ]
