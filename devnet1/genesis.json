@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "bGt8Q6wLQspoR6cmxKTPNfUg1ex5WDvJONWO73/RqzI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/9vwp3m7tx552gtwfuqxueepvqa7egem1?d=identicon",
-        "country": "EE",
-        "ethereum_address": "0x30cCe2b569F65a46078ebcA02e5b4BbF3057879c",
-        "id": "2e139018b3e9d4eb46577380c22aa0775ca255fe3168e88fa28bf729ed97d060",
-        "info_url": "https://en.wikipedia.org/wiki/The_Man_Who_Wrote_Frankenstein",
-        "name": "helpful-road",
-        "tm_pub_key": "bGt8Q6wLQspoR6cmxKTPNfUg1ex5WDvJONWO73/RqzI=",
-        "vega_pub_key": "1eff5830b6ee60b48a6eefa6cd25f59e978b8a6ec2fdce95693955d7f998234b",
+      "Ybw1/Ljbo6doX5+CXYCTEAyWV5oSrKnEnJCnP6bdP/8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/qe2ay2sa2gd81bq8wyf65t5z4su38mpm?d=identicon",
+        "country": "MZ",
+        "ethereum_address": "0x9667E96967c512A9DaF709b68703770b56422927",
+        "id": "98ed9dae7f025006d6a2d9576767bf44197cd3f01d01dc477c129c306226e34d",
+        "info_url": "https://en.wikipedia.org/wiki/Grobi%C5%86as_SC",
+        "name": "unsightly-cookie",
+        "tm_pub_key": "Ybw1/Ljbo6doX5+CXYCTEAyWV5oSrKnEnJCnP6bdP/8=",
+        "vega_pub_key": "935b90d3ef279c7e941827c6e0ea2e12b2708e506303498cbe2cc0af0178b12b",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311071510",
+  "chain_id": "vega-devnet1-202311071614",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-07T15:10:17.467617756Z",
+  "genesis_time": "2023-11-07T16:14:43.261065707Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "E5BB48911D7234768CB4B7A77B2393E3AA917F5D",
-      "name": "helpful-road",
+      "address": "96AF377C212585CD2899A7639EFD922094834580",
+      "name": "unsightly-cookie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "bGt8Q6wLQspoR6cmxKTPNfUg1ex5WDvJONWO73/RqzI="
+        "value": "Ybw1/Ljbo6doX5+CXYCTEAyWV5oSrKnEnJCnP6bdP/8="
       }
     }
   ]
