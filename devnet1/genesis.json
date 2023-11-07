@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "WGdABlX5B3Ht7XDMgjZ1zr7cWN2zgs0c73tfLHwxWjc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/5p331o09jggjny9nexh8e083uha0pfk2?d=identicon",
-        "country": "BQ",
-        "ethereum_address": "0x392242b9C27E7db69E028F9F8A1D733Ea1725d08",
-        "id": "688918a54f673d1df9a51d7f92e5b5bb1559948ce13448597f58fdd66b0e7010",
-        "info_url": "https://en.wikipedia.org/wiki/St._Mary%27s_High_School_(Annapolis,_Maryland)",
-        "name": "funny-movie",
-        "tm_pub_key": "WGdABlX5B3Ht7XDMgjZ1zr7cWN2zgs0c73tfLHwxWjc=",
-        "vega_pub_key": "494bf3349364e22be616a9dfdb000f034df55751502167143dda61785d5e1feb",
+      "bGt8Q6wLQspoR6cmxKTPNfUg1ex5WDvJONWO73/RqzI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/9vwp3m7tx552gtwfuqxueepvqa7egem1?d=identicon",
+        "country": "EE",
+        "ethereum_address": "0x30cCe2b569F65a46078ebcA02e5b4BbF3057879c",
+        "id": "2e139018b3e9d4eb46577380c22aa0775ca255fe3168e88fa28bf729ed97d060",
+        "info_url": "https://en.wikipedia.org/wiki/The_Man_Who_Wrote_Frankenstein",
+        "name": "helpful-road",
+        "tm_pub_key": "bGt8Q6wLQspoR6cmxKTPNfUg1ex5WDvJONWO73/RqzI=",
+        "vega_pub_key": "1eff5830b6ee60b48a6eefa6cd25f59e978b8a6ec2fdce95693955d7f998234b",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311071403",
+  "chain_id": "vega-devnet1-202311071510",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-07T14:03:25.797473497Z",
+  "genesis_time": "2023-11-07T15:10:17.467617756Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "504B1CFC822348F1F741C2F1346368F1D128F55E",
-      "name": "funny-movie",
+      "address": "E5BB48911D7234768CB4B7A77B2393E3AA917F5D",
+      "name": "helpful-road",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "WGdABlX5B3Ht7XDMgjZ1zr7cWN2zgs0c73tfLHwxWjc="
+        "value": "bGt8Q6wLQspoR6cmxKTPNfUg1ex5WDvJONWO73/RqzI="
       }
     }
   ]
