@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "TKvX9iM2nu2zgJVUWA/H/DTm2Q1L0dEomGM4MQjKKQc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/6090s51k32qyg1hum1q7n8djvruyrrd1?d=identicon",
+        "country": "UO",
+        "ethereum_address": "0x00a119882E7f262a7Ae57008eCD97faD29620c9c",
+        "id": "0200ed1e30398e0506dd0a678239e308d4f346335c100052d619198f24c1d963",
+        "info_url": "https://en.wikipedia.org/wiki/Trivandrum_Rubber_Works",
+        "name": "hollow-farmer",
+        "tm_pub_key": "TKvX9iM2nu2zgJVUWA/H/DTm2Q1L0dEomGM4MQjKKQc=",
+        "vega_pub_key": "2cca4ef35e6b91b54d2190783bebcdceee8e6a457ee21da39b054e9830ee1ff7",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "iLmKSSx9orsbog+zgKz3cTcrscjs8CZMSA0wZmQRfNI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ut4pj1ms046jfqil955bgu9t5a5fj239?d=identicon",
-        "country": "IB",
-        "ethereum_address": "0x806fd8c540e86f5B682c254Cf35915258913241E",
-        "id": "9dc1f4fc304819fd7edfd158b7652292ec3fdeeca9d9b6938da83020a1f3f581",
-        "info_url": "https://en.wikipedia.org/wiki/Arv%C4%ABds_Brasti%C5%86%C5%A1",
-        "name": "tender-mango",
-        "tm_pub_key": "iLmKSSx9orsbog+zgKz3cTcrscjs8CZMSA0wZmQRfNI=",
-        "vega_pub_key": "4a28d54afd7e2486b88b815dd9f950846e6b6d05a0a8fd427c7cefe46cf20978",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311061437",
+  "chain_id": "vega-devnet1-202311061750",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-06T14:37:47.743483241Z",
+  "genesis_time": "2023-11-06T17:50:18.628660326Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "1D4C26A9F48A1451A8D7FDCDF577F39AA2A390A9",
-      "name": "tender-mango",
+      "address": "E5B85912CB9A16F9E56752B4A1F48B7200EA6784",
+      "name": "hollow-farmer",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "iLmKSSx9orsbog+zgKz3cTcrscjs8CZMSA0wZmQRfNI="
+        "value": "TKvX9iM2nu2zgJVUWA/H/DTm2Q1L0dEomGM4MQjKKQc="
       }
     }
   ]
