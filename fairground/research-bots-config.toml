@@ -523,7 +523,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 [scenario.mainnet_proposal_perps_ethusdt]
     market_name = "ETH/USD Perpetual"
     binance_code = "ETHUSDT"
-    step_length_seconds = 30
+    step_length_seconds = 10
     [scenario.mainnet_proposal_perps_ethusdt.market_manager_args]
         asset_name = "USDT"
         adp = 6
