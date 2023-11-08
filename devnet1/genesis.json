@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "FLqUaZZFLshw04io+u5tJJBIcOkWPZhb173BkWmRxxk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ncazzb58ezgul2s9x7z4xx956h0puk0m?d=identicon",
+        "country": "SZ",
+        "ethereum_address": "0xc446820cfe923DD50c4fcdDc4e5333733f78dA05",
+        "id": "2b174b8beadc9575b8280dafda9e3f66d489089f19c177b6bf32b4d7001dd45e",
+        "info_url": "https://en.wikipedia.org/wiki/1958_Wimbledon_Championships_%E2%80%93_Mixed_doubles",
+        "name": "timely-park",
+        "tm_pub_key": "FLqUaZZFLshw04io+u5tJJBIcOkWPZhb173BkWmRxxk=",
+        "vega_pub_key": "8b2a267564f08925f076faac9cff630816e5905f8aaafc21b2546b06f83fe0ab",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "f0A91m8BQ67IkPp2hBvOikoS8Ob2XjRK2WQKvO8SBHA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/dpt3xz6rt897a9mwseu4rakwsunpky5s?d=identicon",
-        "country": "XV",
-        "ethereum_address": "0xd3341111D4eaD53538C3058f273D6861831338f0",
-        "id": "e82330a3b5eca95be489e001e0aa058d65d7b9dccc398b7159c5ace41ec69c86",
-        "info_url": "https://en.wikipedia.org/wiki/Fathabad,_Boshruyeh",
-        "name": "ideal-honey",
-        "tm_pub_key": "f0A91m8BQ67IkPp2hBvOikoS8Ob2XjRK2WQKvO8SBHA=",
-        "vega_pub_key": "013ce0081b0c65fba7ec1ddb66630900ce2c4cf4d5e59c0801d641fab126bd4c",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311080949",
+  "chain_id": "vega-devnet1-202311082051",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-08T09:49:51.692592123Z",
+  "genesis_time": "2023-11-08T20:51:45.576675875Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "2FA4A9BDCC8E8462EF9A5692032DFB33DCF2F98E",
-      "name": "ideal-honey",
+      "address": "7E6E8D503402497209B2614AEC7CE7340B59C3E2",
+      "name": "timely-park",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "f0A91m8BQ67IkPp2hBvOikoS8Ob2XjRK2WQKvO8SBHA="
+        "value": "FLqUaZZFLshw04io+u5tJJBIcOkWPZhb173BkWmRxxk="
       }
     }
   ]
