@@ -521,7 +521,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 
 [scenario.mainnet_proposal_perps_ethusdt]
-    market_name = "ETH/USDT PERPETUAL"
+    market_name = "ETH/USD Perpetual"
     binance_code = "ETHUSDT"
     step_length_seconds = 30
     [scenario.mainnet_proposal_perps_ethusdt.market_manager_args]
@@ -553,7 +553,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         step_bias = [0.5, 0.05, 0.04, 0.02, 0.01, 0.009, 0.004, 0.003, 0.02, 0.01]
         initial_mint = 1200
     [scenario.mainnet_proposal_perps_ethusdt.sensitive_trader_args]
-        traders = 0
+        traders = 3
         scale = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
         max_order_size = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.10, 0.12, 0.14]
         initial_mint = 0
@@ -598,7 +598,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         step_bias = [0.111, 0.95, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
         initial_mint = 2000
     [scenario.mainnet_proposal_perps_btcusdt.sensitive_trader_args]
-        traders = 0 
+        traders = 3
         scale = [2, 4, 6, 8, 10, 12, 14, 16, 17, 20]
         max_order_size = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.10, 0.12, 0.14]
         initial_mint = 10000
