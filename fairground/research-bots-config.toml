@@ -617,12 +617,12 @@ state_file = "/opt/wallets-mount/wallet-state.json"
     [scenario.mainnet_dogeusdt.market_manager_args]
         asset_name = "USDT"
         adp = 6
-        mdp = 5
+        mdp = 4
         pdp = 0
     [scenario.mainnet_dogeusdt.market_maker_args]
-        market_kappa = 10000
+        market_kappa = 10000.0
         market_order_arrival_rate = 5000
-        order_kappa = 350
+        order_kappa = 350.0
         order_size = 1
         order_levels = 25
         order_spacing = 0.0005
