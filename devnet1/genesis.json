@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "lDkLPrAiUB7uxcBvBjMySy9Zx5N9hwTQMTRktiQpsCY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/bi7bbpb9xn2j0y1f43adv2fmp0azr18v?d=identicon",
-        "country": "MA",
-        "ethereum_address": "0x6EA1756F66e80043fFCE0cA74d14c45b4cFDBaE2",
-        "id": "efea36241c9f39ad086be6dd2c203a8e9381e3390f16c06be2f4a4843f42fd81",
-        "info_url": "https://en.wikipedia.org/wiki/Ampelography",
-        "name": "alive-country",
-        "tm_pub_key": "lDkLPrAiUB7uxcBvBjMySy9Zx5N9hwTQMTRktiQpsCY=",
-        "vega_pub_key": "e8868f2be1e15f451e88891bc406a97e1c91df03c64a374d1f925edb135a6227",
+      "f0A91m8BQ67IkPp2hBvOikoS8Ob2XjRK2WQKvO8SBHA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/dpt3xz6rt897a9mwseu4rakwsunpky5s?d=identicon",
+        "country": "XV",
+        "ethereum_address": "0xd3341111D4eaD53538C3058f273D6861831338f0",
+        "id": "e82330a3b5eca95be489e001e0aa058d65d7b9dccc398b7159c5ace41ec69c86",
+        "info_url": "https://en.wikipedia.org/wiki/Fathabad,_Boshruyeh",
+        "name": "ideal-honey",
+        "tm_pub_key": "f0A91m8BQ67IkPp2hBvOikoS8Ob2XjRK2WQKvO8SBHA=",
+        "vega_pub_key": "013ce0081b0c65fba7ec1ddb66630900ce2c4cf4d5e59c0801d641fab126bd4c",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311072013",
+  "chain_id": "vega-devnet1-202311080949",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-07T20:13:19.564727709Z",
+  "genesis_time": "2023-11-08T09:49:51.692592123Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "66E024717F5C1DE87E2DA8BDCB80CC36154453E8",
-      "name": "alive-country",
+      "address": "2FA4A9BDCC8E8462EF9A5692032DFB33DCF2F98E",
+      "name": "ideal-honey",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "lDkLPrAiUB7uxcBvBjMySy9Zx5N9hwTQMTRktiQpsCY="
+        "value": "f0A91m8BQ67IkPp2hBvOikoS8Ob2XjRK2WQKvO8SBHA="
       }
     }
   ]
