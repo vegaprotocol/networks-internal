@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "FLqUaZZFLshw04io+u5tJJBIcOkWPZhb173BkWmRxxk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ncazzb58ezgul2s9x7z4xx956h0puk0m?d=identicon",
-        "country": "SZ",
-        "ethereum_address": "0xc446820cfe923DD50c4fcdDc4e5333733f78dA05",
-        "id": "2b174b8beadc9575b8280dafda9e3f66d489089f19c177b6bf32b4d7001dd45e",
-        "info_url": "https://en.wikipedia.org/wiki/1958_Wimbledon_Championships_%E2%80%93_Mixed_doubles",
-        "name": "timely-park",
-        "tm_pub_key": "FLqUaZZFLshw04io+u5tJJBIcOkWPZhb173BkWmRxxk=",
-        "vega_pub_key": "8b2a267564f08925f076faac9cff630816e5905f8aaafc21b2546b06f83fe0ab",
+      "Gt4E2syto1HvDsL+YkmMgNt9i/PBNHuUH4oBWqt17Hw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/vg6yg2448yblhq6tbv17154y2v0lryvy?d=identicon",
+        "country": "ZK",
+        "ethereum_address": "0xB270a11Bd2E02a1Be396f63c9594ccd3Fe6f3603",
+        "id": "0252e0e83874f1da33cfba1b65a2d24f5a64fe5cc0252246346a27ee208065a0",
+        "info_url": "https://en.wikipedia.org/wiki/Jay_Tapp",
+        "name": "thundering-pickle",
+        "tm_pub_key": "Gt4E2syto1HvDsL+YkmMgNt9i/PBNHuUH4oBWqt17Hw=",
+        "vega_pub_key": "4266115400242e8c73faeb04232f301e5b3c1607ebec41e86d19014d67a5ad45",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311082051",
+  "chain_id": "vega-devnet1-202311091145",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-08T20:51:45.576675875Z",
+  "genesis_time": "2023-11-09T11:45:06.296226638Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "7E6E8D503402497209B2614AEC7CE7340B59C3E2",
-      "name": "timely-park",
+      "address": "D46C9433F93750854536D60AB8089BFDD8219D1F",
+      "name": "thundering-pickle",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "FLqUaZZFLshw04io+u5tJJBIcOkWPZhb173BkWmRxxk="
+        "value": "Gt4E2syto1HvDsL+YkmMgNt9i/PBNHuUH4oBWqt17Hw="
       }
     }
   ]
