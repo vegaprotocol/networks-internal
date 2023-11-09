@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "Gt4E2syto1HvDsL+YkmMgNt9i/PBNHuUH4oBWqt17Hw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/vg6yg2448yblhq6tbv17154y2v0lryvy?d=identicon",
-        "country": "ZK",
-        "ethereum_address": "0xB270a11Bd2E02a1Be396f63c9594ccd3Fe6f3603",
-        "id": "0252e0e83874f1da33cfba1b65a2d24f5a64fe5cc0252246346a27ee208065a0",
-        "info_url": "https://en.wikipedia.org/wiki/Jay_Tapp",
-        "name": "thundering-pickle",
-        "tm_pub_key": "Gt4E2syto1HvDsL+YkmMgNt9i/PBNHuUH4oBWqt17Hw=",
-        "vega_pub_key": "4266115400242e8c73faeb04232f301e5b3c1607ebec41e86d19014d67a5ad45",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "ojRYdV+xJ2zgVqEVZ5fUCsgekko32mX+kP985YsKvyc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xu505bm02u0wfgcyb5flpol0w794jd3r?d=identicon",
+        "country": "BD",
+        "ethereum_address": "0x9248d369535f5512e9bA19e5E029f01e206dBBFE",
+        "id": "377315643b81f5d2cb7389be578fdb9316dbe27c111831fe2110be358010c1d1",
+        "info_url": "https://en.wikipedia.org/wiki/Marble_Towers",
+        "name": "brave-bed",
+        "tm_pub_key": "ojRYdV+xJ2zgVqEVZ5fUCsgekko32mX+kP985YsKvyc=",
+        "vega_pub_key": "adaffcb578897636a57f2a322c4810fcab281a1d71985117eeb768f88ca4ebf9",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311091145",
+  "chain_id": "vega-devnet1-202311091319",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-09T11:45:06.296226638Z",
+  "genesis_time": "2023-11-09T13:19:43.922268619Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "D46C9433F93750854536D60AB8089BFDD8219D1F",
-      "name": "thundering-pickle",
+      "address": "53A17D7B901F283B4483A1C7569E833FD59D7E35",
+      "name": "brave-bed",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Gt4E2syto1HvDsL+YkmMgNt9i/PBNHuUH4oBWqt17Hw="
+        "value": "ojRYdV+xJ2zgVqEVZ5fUCsgekko32mX+kP985YsKvyc="
       }
     }
   ]
