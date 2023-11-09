@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "EcWxkT+I71Ol1mAplZRfH9Ofv7wS37v4b7GXDf50+Wg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/xuzp0gocmr0vn6z2l725kds39t8lb0s1?d=identicon",
-        "country": "DT",
-        "ethereum_address": "0xf3D3eaF6698834f0E27E5FB4c07a1e174f715a5d",
-        "id": "63e77148b8b6bef9e2ce38620ccac6edbeaeb137ec2b2003c4a8bc3b60ac222c",
-        "info_url": "https://en.wikipedia.org/wiki/All_I_Ever_Wanted_(album)",
-        "name": "narrow-cookie",
-        "tm_pub_key": "EcWxkT+I71Ol1mAplZRfH9Ofv7wS37v4b7GXDf50+Wg=",
-        "vega_pub_key": "ba904c4de2f4ec429aa82edb69194adba3cc7e06c5ac059706b3d5ca7f29f961",
+      "6QLvePN3ZTRDS9NTNyO5D5tD2rZU7Vv78zuy6KpsACM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/pwcqz75h8xmpz046dwc8jzz4sg62x4s2?d=identicon",
+        "country": "PE",
+        "ethereum_address": "0x01F6A871a0A2637ef3BBABE80C38b04D5241EC35",
+        "id": "c582cec4416f39eb453401519a1513ee9aa1d27920ce104268b8871476598b36",
+        "info_url": "https://en.wikipedia.org/wiki/Emil_Dyre",
+        "name": "opportune-chair",
+        "tm_pub_key": "6QLvePN3ZTRDS9NTNyO5D5tD2rZU7Vv78zuy6KpsACM=",
+        "vega_pub_key": "250e2e3eabb943ec6f0118f42df7e20196ab4cb6de3eac490d2c114c35f3bcc1",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311091541",
+  "chain_id": "vega-devnet1-202311091618",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-09T15:41:15.475826331Z",
+  "genesis_time": "2023-11-09T16:18:22.467095703Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "A3231BB495BC07243C8E2FA9F22A09A8646DEF0E",
-      "name": "narrow-cookie",
+      "address": "BEB18487502DB1F9E40489C84BAD0102B7AEB173",
+      "name": "opportune-chair",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "EcWxkT+I71Ol1mAplZRfH9Ofv7wS37v4b7GXDf50+Wg="
+        "value": "6QLvePN3ZTRDS9NTNyO5D5tD2rZU7Vv78zuy6KpsACM="
       }
     }
   ]
