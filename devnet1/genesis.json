@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "+yJZWEjbrQVDhff5hbAz9673E8FQQ8TsSEa3p2MUDb0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/9xko7wgbnpzl9ngp4vangi57axf9thm6?d=identicon",
-        "country": "CI",
-        "ethereum_address": "0x3462F257cE4bd68Aa755b22e9e6AC92a15b8BE52",
-        "id": "46cce5cb9bd95f3841096afc95def3f0602fc4b4433c1c48400a90b48be6b33c",
-        "info_url": "https://en.wikipedia.org/wiki/Barclay,_Illinois",
-        "name": "extensive-butterfly",
-        "tm_pub_key": "+yJZWEjbrQVDhff5hbAz9673E8FQQ8TsSEa3p2MUDb0=",
-        "vega_pub_key": "fed12abde9c1c8f77b720cc71a26f132bf44ca9f26e8c4e0439ad1d7363ea86e",
+      "Ebvb2uyaalyfnA+1gbNMiYM8vvQIqsjeJrbCESutYog=": {
+        "avatar_url": "https://www.gravatar.com/avatar/rekeghjevusvox64nzosr21kvyf1fdp9?d=identicon",
+        "country": "NU",
+        "ethereum_address": "0x6A0212D05eCF2BA5380BEEE96ba93846652aB049",
+        "id": "9e9d66d8e74c7b915dcfe0c670fb9b14ad4279fae4301f48d059a65adfba6bf4",
+        "info_url": "https://en.wikipedia.org/wiki/List_of_Tenchi_Universe_episodes",
+        "name": "thundering-cloud",
+        "tm_pub_key": "Ebvb2uyaalyfnA+1gbNMiYM8vvQIqsjeJrbCESutYog=",
+        "vega_pub_key": "11506a6554af07edc545fa0edf7207c432b70cdb04bb814cd051f799e2000638",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311101327",
+  "chain_id": "vega-devnet1-202311101403",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-10T13:27:46.888323266Z",
+  "genesis_time": "2023-11-10T14:03:09.094165434Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "B6629C086EB15629B5523B35AEE0CC2FD8747C12",
-      "name": "extensive-butterfly",
+      "address": "C9EE2545211A47EB5E4A0FB810FDAEC9475D13B0",
+      "name": "thundering-cloud",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "+yJZWEjbrQVDhff5hbAz9673E8FQQ8TsSEa3p2MUDb0="
+        "value": "Ebvb2uyaalyfnA+1gbNMiYM8vvQIqsjeJrbCESutYog="
       }
     }
   ]
