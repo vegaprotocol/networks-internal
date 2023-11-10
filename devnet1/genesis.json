@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "6QLvePN3ZTRDS9NTNyO5D5tD2rZU7Vv78zuy6KpsACM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/pwcqz75h8xmpz046dwc8jzz4sg62x4s2?d=identicon",
-        "country": "PE",
-        "ethereum_address": "0x01F6A871a0A2637ef3BBABE80C38b04D5241EC35",
-        "id": "c582cec4416f39eb453401519a1513ee9aa1d27920ce104268b8871476598b36",
-        "info_url": "https://en.wikipedia.org/wiki/Emil_Dyre",
-        "name": "opportune-chair",
-        "tm_pub_key": "6QLvePN3ZTRDS9NTNyO5D5tD2rZU7Vv78zuy6KpsACM=",
-        "vega_pub_key": "250e2e3eabb943ec6f0118f42df7e20196ab4cb6de3eac490d2c114c35f3bcc1",
+      "+yJZWEjbrQVDhff5hbAz9673E8FQQ8TsSEa3p2MUDb0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/9xko7wgbnpzl9ngp4vangi57axf9thm6?d=identicon",
+        "country": "CI",
+        "ethereum_address": "0x3462F257cE4bd68Aa755b22e9e6AC92a15b8BE52",
+        "id": "46cce5cb9bd95f3841096afc95def3f0602fc4b4433c1c48400a90b48be6b33c",
+        "info_url": "https://en.wikipedia.org/wiki/Barclay,_Illinois",
+        "name": "extensive-butterfly",
+        "tm_pub_key": "+yJZWEjbrQVDhff5hbAz9673E8FQQ8TsSEa3p2MUDb0=",
+        "vega_pub_key": "fed12abde9c1c8f77b720cc71a26f132bf44ca9f26e8c4e0439ad1d7363ea86e",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311091618",
+  "chain_id": "vega-devnet1-202311101327",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-09T16:18:22.467095703Z",
+  "genesis_time": "2023-11-10T13:27:46.888323266Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "BEB18487502DB1F9E40489C84BAD0102B7AEB173",
-      "name": "opportune-chair",
+      "address": "B6629C086EB15629B5523B35AEE0CC2FD8747C12",
+      "name": "extensive-butterfly",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "6QLvePN3ZTRDS9NTNyO5D5tD2rZU7Vv78zuy6KpsACM="
+        "value": "+yJZWEjbrQVDhff5hbAz9673E8FQQ8TsSEa3p2MUDb0="
       }
     }
   ]
