@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "Ebvb2uyaalyfnA+1gbNMiYM8vvQIqsjeJrbCESutYog=": {
-        "avatar_url": "https://www.gravatar.com/avatar/rekeghjevusvox64nzosr21kvyf1fdp9?d=identicon",
-        "country": "NU",
-        "ethereum_address": "0x6A0212D05eCF2BA5380BEEE96ba93846652aB049",
-        "id": "9e9d66d8e74c7b915dcfe0c670fb9b14ad4279fae4301f48d059a65adfba6bf4",
-        "info_url": "https://en.wikipedia.org/wiki/List_of_Tenchi_Universe_episodes",
-        "name": "thundering-cloud",
-        "tm_pub_key": "Ebvb2uyaalyfnA+1gbNMiYM8vvQIqsjeJrbCESutYog=",
-        "vega_pub_key": "11506a6554af07edc545fa0edf7207c432b70cdb04bb814cd051f799e2000638",
+      "ONJOhEQfWkiNesWqmzjuzfGVALFG32RGEydO/Ci+Vfc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/rf5k8mflvko9x1281hd1ey00ho1qjtgl?d=identicon",
+        "country": "UQ",
+        "ethereum_address": "0xe1953Fe6E64E9a0d50B9cA4E3F17Bc3621E8B396",
+        "id": "f42da3b6a7fa7f3defafea620d0aab2d379139c24481185b84467fe7cdcc9308",
+        "info_url": "https://en.wikipedia.org/wiki/Austin_Davis_(politician)",
+        "name": "easy-farmer",
+        "tm_pub_key": "ONJOhEQfWkiNesWqmzjuzfGVALFG32RGEydO/Ci+Vfc=",
+        "vega_pub_key": "1cdd4592df6e3e15e672797c44067a0c6ca277e3f3323e6a6c773fce3a2553d0",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311101403",
+  "chain_id": "vega-devnet1-202311112200",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-10T14:03:09.094165434Z",
+  "genesis_time": "2023-11-11T22:00:12.167216259Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "C9EE2545211A47EB5E4A0FB810FDAEC9475D13B0",
-      "name": "thundering-cloud",
+      "address": "2227577AB58F6524C224F7524763CDF386D9CA1B",
+      "name": "easy-farmer",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Ebvb2uyaalyfnA+1gbNMiYM8vvQIqsjeJrbCESutYog="
+        "value": "ONJOhEQfWkiNesWqmzjuzfGVALFG32RGEydO/Ci+Vfc="
       }
     }
   ]
