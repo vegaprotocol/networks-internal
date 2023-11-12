@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "ONJOhEQfWkiNesWqmzjuzfGVALFG32RGEydO/Ci+Vfc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/rf5k8mflvko9x1281hd1ey00ho1qjtgl?d=identicon",
-        "country": "UQ",
-        "ethereum_address": "0xe1953Fe6E64E9a0d50B9cA4E3F17Bc3621E8B396",
-        "id": "f42da3b6a7fa7f3defafea620d0aab2d379139c24481185b84467fe7cdcc9308",
-        "info_url": "https://en.wikipedia.org/wiki/Austin_Davis_(politician)",
-        "name": "easy-farmer",
-        "tm_pub_key": "ONJOhEQfWkiNesWqmzjuzfGVALFG32RGEydO/Ci+Vfc=",
-        "vega_pub_key": "1cdd4592df6e3e15e672797c44067a0c6ca277e3f3323e6a6c773fce3a2553d0",
+      "Ekvjnt4jJX4tIXg1qyhiisVshBa4AS0q9mPOBYUJDDY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/m5mq0sj856ckqivtebjfvq4pvvkevn3v?d=identicon",
+        "country": "QG",
+        "ethereum_address": "0xcf9c900520719496529666223B62b49b3f9eace2",
+        "id": "e426bd3869082fd41300e6ada88fe19170685d2fce33a2202c96fc82f5aa3781",
+        "info_url": "https://en.wikipedia.org/wiki/Sven_A._Haugland",
+        "name": "scruffy-table",
+        "tm_pub_key": "Ekvjnt4jJX4tIXg1qyhiisVshBa4AS0q9mPOBYUJDDY=",
+        "vega_pub_key": "0fea1ce7515c8a1422373103cd1e63acd1b1320534d1aa19adb27e62d6a17db5",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311112200",
+  "chain_id": "vega-devnet1-202311120823",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-11T22:00:12.167216259Z",
+  "genesis_time": "2023-11-12T08:23:11.879748411Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "2227577AB58F6524C224F7524763CDF386D9CA1B",
-      "name": "easy-farmer",
+      "address": "55B1251BEE39AF8967F6923E35B61EA3A368EEFF",
+      "name": "scruffy-table",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ONJOhEQfWkiNesWqmzjuzfGVALFG32RGEydO/Ci+Vfc="
+        "value": "Ekvjnt4jJX4tIXg1qyhiisVshBa4AS0q9mPOBYUJDDY="
       }
     }
   ]
