@@ -243,11 +243,11 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         randomise_history = false
 
 [scenario.ethusdt_perpetual]
-    market_name = "ETHUSD Perpetual"
+    market_name = "ETH/USD Perpetual"
     binance_code = "ETHDAI"
     step_length_seconds = 3
     [scenario.ethusdt_perpetual.market_manager_args]
-        market_name = "ETHUSD Perpetual"
+        market_name = "ETH/USD Perpetual"
         market_code = "ETHUSD.MF21"
         asset_name = "tUSDC"
         adp = 6
