@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "Ekvjnt4jJX4tIXg1qyhiisVshBa4AS0q9mPOBYUJDDY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/m5mq0sj856ckqivtebjfvq4pvvkevn3v?d=identicon",
-        "country": "QG",
-        "ethereum_address": "0xcf9c900520719496529666223B62b49b3f9eace2",
-        "id": "e426bd3869082fd41300e6ada88fe19170685d2fce33a2202c96fc82f5aa3781",
-        "info_url": "https://en.wikipedia.org/wiki/Sven_A._Haugland",
-        "name": "scruffy-table",
-        "tm_pub_key": "Ekvjnt4jJX4tIXg1qyhiisVshBa4AS0q9mPOBYUJDDY=",
-        "vega_pub_key": "0fea1ce7515c8a1422373103cd1e63acd1b1320534d1aa19adb27e62d6a17db5",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "gbBe9lhcDnh6o6hq9urWVuVMec8KGnxJMjCCE5utbWc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/fv1960nok4v3ofsrz61oiptmx1cipflv?d=identicon",
+        "country": "GA",
+        "ethereum_address": "0x39D385633C94d58C9076936FFc1F00F001282A67",
+        "id": "ca5511ed486f67c2717392b566a33056f424272810c8f81d906f41d75295f4f1",
+        "info_url": "https://en.wikipedia.org/wiki/Peter_Bostr%C3%B6m",
+        "name": "echoing-policeman",
+        "tm_pub_key": "gbBe9lhcDnh6o6hq9urWVuVMec8KGnxJMjCCE5utbWc=",
+        "vega_pub_key": "45c90a56dddcf839be75d1e230816a8f679dacc97fcc72d49d5d1d30227e929c",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311120823",
+  "chain_id": "vega-devnet1-202311131032",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-12T08:23:11.879748411Z",
+  "genesis_time": "2023-11-13T10:32:21.174544655Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "55B1251BEE39AF8967F6923E35B61EA3A368EEFF",
-      "name": "scruffy-table",
+      "address": "102DA674554C453226D388050AB6744FCD843FEF",
+      "name": "echoing-policeman",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Ekvjnt4jJX4tIXg1qyhiisVshBa4AS0q9mPOBYUJDDY="
+        "value": "gbBe9lhcDnh6o6hq9urWVuVMec8KGnxJMjCCE5utbWc="
       }
     }
   ]
