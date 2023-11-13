@@ -200,11 +200,11 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 
 [scenario.btcusd_perpetual]
-    market_name = "BTCUSD Perpetual Futures"
+    market_name = "BTCUSDT Perp"
     binance_code = "BTCDAI"
     step_length_seconds = 3
     [scenario.btcusd_perpetual.market_manager_args]
-        market_name = "BTCUSD Perpetual Futures"
+        market_name = "BTCUSDT Perp"
         market_code = "BTCUSD.MF21"
         asset_name = "tUSDC"
         adp = 6
