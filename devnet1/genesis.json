@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "gbBe9lhcDnh6o6hq9urWVuVMec8KGnxJMjCCE5utbWc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/fv1960nok4v3ofsrz61oiptmx1cipflv?d=identicon",
-        "country": "GA",
-        "ethereum_address": "0x39D385633C94d58C9076936FFc1F00F001282A67",
-        "id": "ca5511ed486f67c2717392b566a33056f424272810c8f81d906f41d75295f4f1",
-        "info_url": "https://en.wikipedia.org/wiki/Peter_Bostr%C3%B6m",
-        "name": "echoing-policeman",
-        "tm_pub_key": "gbBe9lhcDnh6o6hq9urWVuVMec8KGnxJMjCCE5utbWc=",
-        "vega_pub_key": "45c90a56dddcf839be75d1e230816a8f679dacc97fcc72d49d5d1d30227e929c",
+      "r6pLd/xnpB8ho/Dd0fi6vyj85IdpQ1SGmlfevyIsklM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/1fuadq3ay2vdl7nwgv3nsfpk60pymcyw?d=identicon",
+        "country": "JX",
+        "ethereum_address": "0xDf35a111D7F9622bbE18E5bf2f0d0EC4C49C20f8",
+        "id": "932b10149b4f18858034747a0883fcc875d404201a3b9d097cc69b0e216549c4",
+        "info_url": "https://en.wikipedia.org/wiki/Maryvonne_de_Saint-Pulgent",
+        "name": "friendly-swing",
+        "tm_pub_key": "r6pLd/xnpB8ho/Dd0fi6vyj85IdpQ1SGmlfevyIsklM=",
+        "vega_pub_key": "5506dbd08fc58863de3947d25f73465e68f826f036fee01799e358e22ef6ad75",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311131032",
+  "chain_id": "vega-devnet1-202311141130",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-13T10:32:21.174544655Z",
+  "genesis_time": "2023-11-14T11:30:08.53891115Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "102DA674554C453226D388050AB6744FCD843FEF",
-      "name": "echoing-policeman",
+      "address": "C97FAD0738D92848C84A5FE12C32DC1C375B88EC",
+      "name": "friendly-swing",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "gbBe9lhcDnh6o6hq9urWVuVMec8KGnxJMjCCE5utbWc="
+        "value": "r6pLd/xnpB8ho/Dd0fi6vyj85IdpQ1SGmlfevyIsklM="
       }
     }
   ]
