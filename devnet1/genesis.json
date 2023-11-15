@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "IdjJtoifh4he9O//LEiC6Xwer6/SYR82P4vk6PejKro=": {
-        "avatar_url": "https://www.gravatar.com/avatar/b61mphk81hj37l6o760eet9iyjxf3omk?d=identicon",
-        "country": "LS",
-        "ethereum_address": "0xcE3609f4761f11641358667E43BA921F39C6090e",
-        "id": "c4df6407d5488fb0d687a4b553c3c667a04510d600b0693abe8ee00ac37325a8",
-        "info_url": "https://en.wikipedia.org/wiki/Darwinia_briggsiae",
-        "name": "ugly-fisherman",
-        "tm_pub_key": "IdjJtoifh4he9O//LEiC6Xwer6/SYR82P4vk6PejKro=",
-        "vega_pub_key": "1432f9d84c169090c53e966ea1b465be5e1c0c6885bf104bbb5bec7a14cf2e82",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "jPc8UodKBB+EOXWEWolSlxh0hF4hsElnt+d4zHjzh34=": {
+        "avatar_url": "https://www.gravatar.com/avatar/bhn8cw4mywo65ejb1y0rf3xsfryj0iwu?d=identicon",
+        "country": "LU",
+        "ethereum_address": "0xaD27Adf6A5c626C2ca89dD5e470B1dc3eE3bC0e8",
+        "id": "80610f6edb435be3e9b680b812ae8097a335e73bfef6b9ba3d11c66dd232d53c",
+        "info_url": "https://en.wikipedia.org/wiki/Wyndham_Harding",
+        "name": "vast-train",
+        "tm_pub_key": "jPc8UodKBB+EOXWEWolSlxh0hF4hsElnt+d4zHjzh34=",
+        "vega_pub_key": "2fe4f76b6e117ce4a5e6ea6f9d6441247e6352547a8104cd532cda2c72f5a48a",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311151242",
+  "chain_id": "vega-devnet1-202311151617",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-15T12:42:46.903457399Z",
+  "genesis_time": "2023-11-15T16:17:35.752547749Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "15761B901E388F6F8021EC5E68C97EEBFD141310",
-      "name": "ugly-fisherman",
+      "address": "8A4D2C928121E0CCE7E292C54DB28341AC86A55A",
+      "name": "vast-train",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "IdjJtoifh4he9O//LEiC6Xwer6/SYR82P4vk6PejKro="
+        "value": "jPc8UodKBB+EOXWEWolSlxh0hF4hsElnt+d4zHjzh34="
       }
     }
   ]
