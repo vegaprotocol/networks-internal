@@ -680,7 +680,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         initial_mint = 40000
     [scenario.mainnet_dogeusdt.auction_trader_args]
         traders = 2
-        initial_volume = 0.001
+        initial_volume = 1000
         initial_mint = 10000
     [scenario.mainnet_dogeusdt.random_trader_args]
         traders = 3
