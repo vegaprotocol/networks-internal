@@ -292,17 +292,6 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "r6pLd/xnpB8ho/Dd0fi6vyj85IdpQ1SGmlfevyIsklM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/1fuadq3ay2vdl7nwgv3nsfpk60pymcyw?d=identicon",
-        "country": "JX",
-        "ethereum_address": "0xDf35a111D7F9622bbE18E5bf2f0d0EC4C49C20f8",
-        "id": "932b10149b4f18858034747a0883fcc875d404201a3b9d097cc69b0e216549c4",
-        "info_url": "https://en.wikipedia.org/wiki/Maryvonne_de_Saint-Pulgent",
-        "name": "friendly-swing",
-        "tm_pub_key": "r6pLd/xnpB8ho/Dd0fi6vyj85IdpQ1SGmlfevyIsklM=",
-        "vega_pub_key": "5506dbd08fc58863de3947d25f73465e68f826f036fee01799e358e22ef6ad75",
-        "vega_pub_key_index": 1
-      },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
         "avatar_url": "https://www.gravatar.com/avatar/14wh06jhnafyxu5ea1p41y8972c1flw0?d=identicon",
         "country": "QX",
@@ -324,10 +313,21 @@
         "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
+      },
+      "ubr2PTY/axBHFwGG1/tjKM4Hvio9O8hmPl+4W0FCD/E=": {
+        "avatar_url": "https://www.gravatar.com/avatar/vr5brrtwrs507n298jjroieogsv7tp48?d=identicon",
+        "country": "XT",
+        "ethereum_address": "0x059C6F81F13b4d95c613EA9549cDc78dC0A64b3C",
+        "id": "936661f7f854109325f01f48e689eb6216e2ddc7e5e73bc40984da74297e9d8b",
+        "info_url": "https://en.wikipedia.org/wiki/Water_polo_at_the_1965_Summer_Universiade",
+        "name": "helpful-roof",
+        "tm_pub_key": "ubr2PTY/axBHFwGG1/tjKM4Hvio9O8hmPl+4W0FCD/E=",
+        "vega_pub_key": "4e5b8655d3a5c9922e2c0a8e6199294dd07c1534d931624601bd0aa07eae81c9",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202311141130",
+  "chain_id": "vega-devnet1-202311150914",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-14T11:30:08.53891115Z",
+  "genesis_time": "2023-11-15T09:14:50.823236231Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "C97FAD0738D92848C84A5FE12C32DC1C375B88EC",
-      "name": "friendly-swing",
+      "address": "D89EA9850DBE1031B7CC39B8AB284C89369062AE",
+      "name": "helpful-roof",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "r6pLd/xnpB8ho/Dd0fi6vyj85IdpQ1SGmlfevyIsklM="
+        "value": "ubr2PTY/axBHFwGG1/tjKM4Hvio9O8hmPl+4W0FCD/E="
       }
     }
   ]
