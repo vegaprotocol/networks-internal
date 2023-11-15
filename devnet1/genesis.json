@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "IdjJtoifh4he9O//LEiC6Xwer6/SYR82P4vk6PejKro=": {
+        "avatar_url": "https://www.gravatar.com/avatar/b61mphk81hj37l6o760eet9iyjxf3omk?d=identicon",
+        "country": "LS",
+        "ethereum_address": "0xcE3609f4761f11641358667E43BA921F39C6090e",
+        "id": "c4df6407d5488fb0d687a4b553c3c667a04510d600b0693abe8ee00ac37325a8",
+        "info_url": "https://en.wikipedia.org/wiki/Darwinia_briggsiae",
+        "name": "ugly-fisherman",
+        "tm_pub_key": "IdjJtoifh4he9O//LEiC6Xwer6/SYR82P4vk6PejKro=",
+        "vega_pub_key": "1432f9d84c169090c53e966ea1b465be5e1c0c6885bf104bbb5bec7a14cf2e82",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -313,21 +324,10 @@
         "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
-      },
-      "ubr2PTY/axBHFwGG1/tjKM4Hvio9O8hmPl+4W0FCD/E=": {
-        "avatar_url": "https://www.gravatar.com/avatar/vr5brrtwrs507n298jjroieogsv7tp48?d=identicon",
-        "country": "XT",
-        "ethereum_address": "0x059C6F81F13b4d95c613EA9549cDc78dC0A64b3C",
-        "id": "936661f7f854109325f01f48e689eb6216e2ddc7e5e73bc40984da74297e9d8b",
-        "info_url": "https://en.wikipedia.org/wiki/Water_polo_at_the_1965_Summer_Universiade",
-        "name": "helpful-roof",
-        "tm_pub_key": "ubr2PTY/axBHFwGG1/tjKM4Hvio9O8hmPl+4W0FCD/E=",
-        "vega_pub_key": "4e5b8655d3a5c9922e2c0a8e6199294dd07c1534d931624601bd0aa07eae81c9",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202311150914",
+  "chain_id": "vega-devnet1-202311151242",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-15T09:14:50.823236231Z",
+  "genesis_time": "2023-11-15T12:42:46.903457399Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "D89EA9850DBE1031B7CC39B8AB284C89369062AE",
-      "name": "helpful-roof",
+      "address": "15761B901E388F6F8021EC5E68C97EEBFD141310",
+      "name": "ugly-fisherman",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ubr2PTY/axBHFwGG1/tjKM4Hvio9O8hmPl+4W0FCD/E="
+        "value": "IdjJtoifh4he9O//LEiC6Xwer6/SYR82P4vk6PejKro="
       }
     }
   ]
