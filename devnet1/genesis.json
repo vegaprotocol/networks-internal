@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "1LKUaalZtbP47Zhfp1DPPi+rZBpuzU3kk1NcVBYwJH8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/qvdec0ijuaafe6pfhu70u5qds7hbk5b1?d=identicon",
-        "country": "CY",
-        "ethereum_address": "0xbAe104C1dBfd6d91ee7F65fE64357fCc1D9b2189",
-        "id": "c914dbb59d971db508e860e14f2ac1c4a896a8b93a95dd1ff5de02c8f872a9f9",
-        "info_url": "https://en.wikipedia.org/wiki/55th_Delaware_General_Assembly",
-        "name": "famous-clouds",
-        "tm_pub_key": "1LKUaalZtbP47Zhfp1DPPi+rZBpuzU3kk1NcVBYwJH8=",
-        "vega_pub_key": "b79a078d31c79f65d7c683b642404578c6e878cb7faeeb4e4aa8222a3dc85734",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -314,6 +303,17 @@
         "vega_pub_key": "ec52a0909053e61531925dbf38ef3419265d41375fc82c967b429ab17548f254",
         "vega_pub_key_index": 1
       },
+      "uAPUpJVkizPRewCT1oOBXq+bN5gMoKHEh4l6eYaRoqk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/3486ocyw9xdplxgc1kpgf138p390m9r2?d=identicon",
+        "country": "CE",
+        "ethereum_address": "0xF950a999E25d0be99cE71eb95dc32bC18582296d",
+        "id": "739a2258fdc4122459cdd61e4f9c35e076650a4dc9d73e4bb8ffce7b6cc47b03",
+        "info_url": "https://en.wikipedia.org/wiki/Elinore_Sch%C3%B6pp",
+        "name": "magnificent-bed",
+        "tm_pub_key": "uAPUpJVkizPRewCT1oOBXq+bN5gMoKHEh4l6eYaRoqk=",
+        "vega_pub_key": "b906dcf61d1163ccfb4841c135307e5d31fce94d9b1d6b3b8114350b6efdbacf",
+        "vega_pub_key_index": 1
+      },
       "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=": {
         "avatar_url": "https://www.gravatar.com/avatar/a1ae15bucug2qortml2n4rifwznx19tv?d=identicon",
         "country": "WO",
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311151744",
+  "chain_id": "vega-devnet1-202311161501",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-15T17:44:12.305996374Z",
+  "genesis_time": "2023-11-16T15:01:05.064333842Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "4CF3DBA687F51D4402DE114ECA65C47E492F2487",
-      "name": "famous-clouds",
+      "address": "43AB3FE386D157597300E68666354019E1579F88",
+      "name": "magnificent-bed",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "1LKUaalZtbP47Zhfp1DPPi+rZBpuzU3kk1NcVBYwJH8="
+        "value": "uAPUpJVkizPRewCT1oOBXq+bN5gMoKHEh4l6eYaRoqk="
       }
     }
   ]
