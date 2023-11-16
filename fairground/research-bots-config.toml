@@ -748,7 +748,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 
 [scenario.incentive_btcusdt_perp_150x]
-    market_name = "BTCUSDT.PERP 150x"
+    market_name = "BTCUSDT Perp 150x"
     binance_code = "BTCUSDT"
     step_length_seconds = 10
     [scenario.incentive_btcusdt_perp_150x.market_manager_args]
