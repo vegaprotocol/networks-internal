@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "H4r/U0cV8wd/HmBntyM2URP1zag8rggibI4kaCsV+VI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/6kmbz08vl8969o3cyx37l4yjuj98nggw?d=identicon",
-        "country": "ZG",
-        "ethereum_address": "0x4E852813592c02bBA91845CD0eD043a9e6085408",
-        "id": "441080e92c7246da9480228aefb0fb9f7e6dc1cc5b45a997381108442871d6b6",
-        "info_url": "https://en.wikipedia.org/wiki/Gary_Evans_(psychologist)",
-        "name": "hollow-pool",
-        "tm_pub_key": "H4r/U0cV8wd/HmBntyM2URP1zag8rggibI4kaCsV+VI=",
-        "vega_pub_key": "137735fd4175e3e442d382509f2f9933d71be94a3d96be9a496d7565f40cd4a9",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "ktX8Qkv6Rx4J+6MT2vGI6QK8yKjSxKMUI58AXc1gFpM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/5n68bjgah3re1meq221mw7iefxtw8isf?d=identicon",
+        "country": "HB",
+        "ethereum_address": "0x484CA48ce5C47FA82A96365459817751044e5bdA",
+        "id": "50d8092d4da0c59141cafda405948ea28df436b2b1147bfb7dbe764f44e14f13",
+        "info_url": "https://en.wikipedia.org/wiki/Deua_River_Valley",
+        "name": "icy-park",
+        "tm_pub_key": "ktX8Qkv6Rx4J+6MT2vGI6QK8yKjSxKMUI58AXc1gFpM=",
+        "vega_pub_key": "0df3658b9c7dc9a952dc6bc7205c5f0c325fe875f07b9c6d43725fa2032765e2",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311171314",
+  "chain_id": "vega-devnet1-202311171408",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-17T13:14:17.42607621Z",
+  "genesis_time": "2023-11-17T14:08:06.341707436Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "B8F302090C869785D473401D88F86003E797D295",
-      "name": "hollow-pool",
+      "address": "729238C87E089EE21D6E758E8CD119164FA17C2D",
+      "name": "icy-park",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "H4r/U0cV8wd/HmBntyM2URP1zag8rggibI4kaCsV+VI="
+        "value": "ktX8Qkv6Rx4J+6MT2vGI6QK8yKjSxKMUI58AXc1gFpM="
       }
     }
   ]
