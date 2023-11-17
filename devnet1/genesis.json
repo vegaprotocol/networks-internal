@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "H4r/U0cV8wd/HmBntyM2URP1zag8rggibI4kaCsV+VI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/6kmbz08vl8969o3cyx37l4yjuj98nggw?d=identicon",
+        "country": "ZG",
+        "ethereum_address": "0x4E852813592c02bBA91845CD0eD043a9e6085408",
+        "id": "441080e92c7246da9480228aefb0fb9f7e6dc1cc5b45a997381108442871d6b6",
+        "info_url": "https://en.wikipedia.org/wiki/Gary_Evans_(psychologist)",
+        "name": "hollow-pool",
+        "tm_pub_key": "H4r/U0cV8wd/HmBntyM2URP1zag8rggibI4kaCsV+VI=",
+        "vega_pub_key": "137735fd4175e3e442d382509f2f9933d71be94a3d96be9a496d7565f40cd4a9",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "a4mtXU2MgqK4pdirtjgcfdAqaWJbhKXUdQ51tUeztu4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/rrxm418miva43nh575z14qvkhnvd63j0?d=identicon",
-        "country": "LM",
-        "ethereum_address": "0xA1C67188633174AE81b1891ba133c0C59aBc02bc",
-        "id": "c1eacf4f24d3db93eb0f1491625f51f13164e4148099c1abd74eda8b50769aa1",
-        "info_url": "https://en.wikipedia.org/wiki/William_Henry_Williams",
-        "name": "dizzy-pond",
-        "tm_pub_key": "a4mtXU2MgqK4pdirtjgcfdAqaWJbhKXUdQ51tUeztu4=",
-        "vega_pub_key": "152ce675c5ae9f0d04b747da422c3b51c77e5874d388663faa790a264087df9e",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311171119",
+  "chain_id": "vega-devnet1-202311171314",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-17T11:19:19.509653577Z",
+  "genesis_time": "2023-11-17T13:14:17.42607621Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "530831214434DD00A532E5355A34C0A8A1B5A02C",
-      "name": "dizzy-pond",
+      "address": "B8F302090C869785D473401D88F86003E797D295",
+      "name": "hollow-pool",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "a4mtXU2MgqK4pdirtjgcfdAqaWJbhKXUdQ51tUeztu4="
+        "value": "H4r/U0cV8wd/HmBntyM2URP1zag8rggibI4kaCsV+VI="
       }
     }
   ]
