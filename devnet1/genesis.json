@@ -292,6 +292,17 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
+      "a4mtXU2MgqK4pdirtjgcfdAqaWJbhKXUdQ51tUeztu4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/rrxm418miva43nh575z14qvkhnvd63j0?d=identicon",
+        "country": "LM",
+        "ethereum_address": "0xA1C67188633174AE81b1891ba133c0C59aBc02bc",
+        "id": "c1eacf4f24d3db93eb0f1491625f51f13164e4148099c1abd74eda8b50769aa1",
+        "info_url": "https://en.wikipedia.org/wiki/William_Henry_Williams",
+        "name": "dizzy-pond",
+        "tm_pub_key": "a4mtXU2MgqK4pdirtjgcfdAqaWJbhKXUdQ51tUeztu4=",
+        "vega_pub_key": "152ce675c5ae9f0d04b747da422c3b51c77e5874d388663faa790a264087df9e",
+        "vega_pub_key_index": 1
+      },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
         "avatar_url": "https://www.gravatar.com/avatar/14wh06jhnafyxu5ea1p41y8972c1flw0?d=identicon",
         "country": "QX",
@@ -301,17 +312,6 @@
         "name": "helpless-biscuit",
         "tm_pub_key": "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=",
         "vega_pub_key": "ec52a0909053e61531925dbf38ef3419265d41375fc82c967b429ab17548f254",
-        "vega_pub_key_index": 1
-      },
-      "uAPUpJVkizPRewCT1oOBXq+bN5gMoKHEh4l6eYaRoqk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/3486ocyw9xdplxgc1kpgf138p390m9r2?d=identicon",
-        "country": "CE",
-        "ethereum_address": "0xF950a999E25d0be99cE71eb95dc32bC18582296d",
-        "id": "739a2258fdc4122459cdd61e4f9c35e076650a4dc9d73e4bb8ffce7b6cc47b03",
-        "info_url": "https://en.wikipedia.org/wiki/Elinore_Sch%C3%B6pp",
-        "name": "magnificent-bed",
-        "tm_pub_key": "uAPUpJVkizPRewCT1oOBXq+bN5gMoKHEh4l6eYaRoqk=",
-        "vega_pub_key": "b906dcf61d1163ccfb4841c135307e5d31fce94d9b1d6b3b8114350b6efdbacf",
         "vega_pub_key_index": 1
       },
       "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311161634",
+  "chain_id": "vega-devnet1-202311171119",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-16T16:34:58.410214441Z",
+  "genesis_time": "2023-11-17T11:19:19.509653577Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "43AB3FE386D157597300E68666354019E1579F88",
-      "name": "magnificent-bed",
+      "address": "530831214434DD00A532E5355A34C0A8A1B5A02C",
+      "name": "dizzy-pond",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "uAPUpJVkizPRewCT1oOBXq+bN5gMoKHEh4l6eYaRoqk="
+        "value": "a4mtXU2MgqK4pdirtjgcfdAqaWJbhKXUdQ51tUeztu4="
       }
     }
   ]
