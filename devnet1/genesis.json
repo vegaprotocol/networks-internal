@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "MDs5JCiQszdGjPJ9/XKyOBDqdW2tL+1zmVMA3GncTo8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/g66fl78y666l1e13mkez7e6c6hjkbpy9?d=identicon",
-        "country": "JX",
-        "ethereum_address": "0x582E7EE3eB16e57A90DD59D82bC46FcEa254FB61",
-        "id": "f5763bd4a58fd1e684ace1e05e51e9086f9012abea9e34c301aaf782e9a1c016",
-        "info_url": "https://en.wikipedia.org/wiki/Marjorie_Graves",
-        "name": "lemon-ball",
-        "tm_pub_key": "MDs5JCiQszdGjPJ9/XKyOBDqdW2tL+1zmVMA3GncTo8=",
-        "vega_pub_key": "b736a980d883b71f5448f2cbf66d49f591358eb65a6e4b6a690c18cc7af713ed",
+      "Hcl8n3Kx+CUlCj5bb/crAbQ+ocgOLVNfemW/XZxAEn4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/x0n2ao2cjo9q89jwv2y9x6v2xgp9tdqz?d=identicon",
+        "country": "IT",
+        "ethereum_address": "0x544847A638474606724Fa553916eafE5b46079Fd",
+        "id": "f27e87e6f62981863c07dd4574444aa16d8a50cd25173276e79efa2331460745",
+        "info_url": "https://en.wikipedia.org/wiki/Lillian_Ngoyi_(patrol_vessel)",
+        "name": "wicked-sister",
+        "tm_pub_key": "Hcl8n3Kx+CUlCj5bb/crAbQ+ocgOLVNfemW/XZxAEn4=",
+        "vega_pub_key": "ccbffc2d661bd985c88b05ce4ecd7f7356229730decba6da2d8fbfdf32bd5961",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311171540",
+  "chain_id": "vega-devnet1-202311171710",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-17T15:40:08.718515491Z",
+  "genesis_time": "2023-11-17T17:10:52.465961208Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "678AB43F6ADCC611E28CD883B357CC284155A9A8",
-      "name": "lemon-ball",
+      "address": "0FDC20D41D4763D791A8721E42E04612C3498D8D",
+      "name": "wicked-sister",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "MDs5JCiQszdGjPJ9/XKyOBDqdW2tL+1zmVMA3GncTo8="
+        "value": "Hcl8n3Kx+CUlCj5bb/crAbQ+ocgOLVNfemW/XZxAEn4="
       }
     }
   ]
