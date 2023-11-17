@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "MDs5JCiQszdGjPJ9/XKyOBDqdW2tL+1zmVMA3GncTo8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/g66fl78y666l1e13mkez7e6c6hjkbpy9?d=identicon",
+        "country": "JX",
+        "ethereum_address": "0x582E7EE3eB16e57A90DD59D82bC46FcEa254FB61",
+        "id": "f5763bd4a58fd1e684ace1e05e51e9086f9012abea9e34c301aaf782e9a1c016",
+        "info_url": "https://en.wikipedia.org/wiki/Marjorie_Graves",
+        "name": "lemon-ball",
+        "tm_pub_key": "MDs5JCiQszdGjPJ9/XKyOBDqdW2tL+1zmVMA3GncTo8=",
+        "vega_pub_key": "b736a980d883b71f5448f2cbf66d49f591358eb65a6e4b6a690c18cc7af713ed",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "ktX8Qkv6Rx4J+6MT2vGI6QK8yKjSxKMUI58AXc1gFpM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/5n68bjgah3re1meq221mw7iefxtw8isf?d=identicon",
-        "country": "HB",
-        "ethereum_address": "0x484CA48ce5C47FA82A96365459817751044e5bdA",
-        "id": "50d8092d4da0c59141cafda405948ea28df436b2b1147bfb7dbe764f44e14f13",
-        "info_url": "https://en.wikipedia.org/wiki/Deua_River_Valley",
-        "name": "icy-park",
-        "tm_pub_key": "ktX8Qkv6Rx4J+6MT2vGI6QK8yKjSxKMUI58AXc1gFpM=",
-        "vega_pub_key": "0df3658b9c7dc9a952dc6bc7205c5f0c325fe875f07b9c6d43725fa2032765e2",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311171440",
+  "chain_id": "vega-devnet1-202311171513",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-17T14:40:14.649134127Z",
+  "genesis_time": "2023-11-17T15:13:57.8213927Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "729238C87E089EE21D6E758E8CD119164FA17C2D",
-      "name": "icy-park",
+      "address": "678AB43F6ADCC611E28CD883B357CC284155A9A8",
+      "name": "lemon-ball",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ktX8Qkv6Rx4J+6MT2vGI6QK8yKjSxKMUI58AXc1gFpM="
+        "value": "MDs5JCiQszdGjPJ9/XKyOBDqdW2tL+1zmVMA3GncTo8="
       }
     }
   ]
