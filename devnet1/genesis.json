@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "Hcl8n3Kx+CUlCj5bb/crAbQ+ocgOLVNfemW/XZxAEn4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/x0n2ao2cjo9q89jwv2y9x6v2xgp9tdqz?d=identicon",
-        "country": "IT",
-        "ethereum_address": "0x544847A638474606724Fa553916eafE5b46079Fd",
-        "id": "f27e87e6f62981863c07dd4574444aa16d8a50cd25173276e79efa2331460745",
-        "info_url": "https://en.wikipedia.org/wiki/Lillian_Ngoyi_(patrol_vessel)",
-        "name": "wicked-sister",
-        "tm_pub_key": "Hcl8n3Kx+CUlCj5bb/crAbQ+ocgOLVNfemW/XZxAEn4=",
-        "vega_pub_key": "ccbffc2d661bd985c88b05ce4ecd7f7356229730decba6da2d8fbfdf32bd5961",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "fHcGIeYQNoHmWjsdIL1Ml9RmgGAFrt8S1HGMnn6SZ9c=": {
+        "avatar_url": "https://www.gravatar.com/avatar/hmc9zwnf0fpvmwsm0gekyb26e2ijagjt?d=identicon",
+        "country": "TG",
+        "ethereum_address": "0x032aFc748337bF61741BB865A4fd2A3969cB011e",
+        "id": "f2fd970e80b3982c4833bb73b9580783714fb9540bf17290b95aa4f0c03cfae5",
+        "info_url": "https://en.wikipedia.org/wiki/Acta_Entomologica_Serbica",
+        "name": "adorable-country",
+        "tm_pub_key": "fHcGIeYQNoHmWjsdIL1Ml9RmgGAFrt8S1HGMnn6SZ9c=",
+        "vega_pub_key": "90f9a50d06a3706091e373f953def87d1b0491c70e90bf9f9443d78c2ffe553d",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311171710",
+  "chain_id": "vega-devnet1-202311191111",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-17T17:10:52.465961208Z",
+  "genesis_time": "2023-11-19T11:11:53.67912783Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "0FDC20D41D4763D791A8721E42E04612C3498D8D",
-      "name": "wicked-sister",
+      "address": "508E9BA27AD56785E117AA9192F6263A11166969",
+      "name": "adorable-country",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Hcl8n3Kx+CUlCj5bb/crAbQ+ocgOLVNfemW/XZxAEn4="
+        "value": "fHcGIeYQNoHmWjsdIL1Ml9RmgGAFrt8S1HGMnn6SZ9c="
       }
     }
   ]
