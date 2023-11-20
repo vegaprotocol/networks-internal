@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "FpIHUbqDHiVz7O82Cd3rrbcPsr8bw7sYuJGTIM6D7+8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/2gt7cd0khzq2tgt249sw3wtannensy0h?d=identicon",
-        "country": "SA",
-        "ethereum_address": "0x8D01143104c73AbEFA4BE266B20Cde04FFB20cFB",
-        "id": "5180dfbcd6ae607ab8847a5504e16460f0b871e72e06919614a2bae8c668d201",
-        "info_url": "https://en.wikipedia.org/wiki/Jim_%22Bad_News%22_Barnes",
-        "name": "scruffy-mouse",
-        "tm_pub_key": "FpIHUbqDHiVz7O82Cd3rrbcPsr8bw7sYuJGTIM6D7+8=",
-        "vega_pub_key": "1a1967bddfbfcfb794e8b4988d254a1e2ef7dc230399ae7d44393c224e4c0b70",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "ptF7DmnhwH/G9nJC0obNhThhyVh68s4iUs+cqdv7eiY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/2m35e35y8grror8cq6774qmtzm7whda1?d=identicon",
+        "country": "NX",
+        "ethereum_address": "0xf72920604F1477072B116F33C4eb6Dd7c6bC06a7",
+        "id": "e93c884b98290777832683d8be605788c703cb36402c43b57cd6f4b86c8a1a9d",
+        "info_url": "https://en.wikipedia.org/wiki/Horizontal_line_test",
+        "name": "terrible-stove",
+        "tm_pub_key": "ptF7DmnhwH/G9nJC0obNhThhyVh68s4iUs+cqdv7eiY=",
+        "vega_pub_key": "8dd89a1b055b686287a8265d4721570327c0d235a6e18e7ddae913fb59300fa2",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311201513",
+  "chain_id": "vega-devnet1-202311201807",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-20T15:13:54.671415197Z",
+  "genesis_time": "2023-11-20T18:07:42.806403738Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "AC4D490D0A2281E1CF56EF78BA2C33D3F803B723",
-      "name": "scruffy-mouse",
+      "address": "466C491E24582B320A9B493FABE164024A5491EF",
+      "name": "terrible-stove",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "FpIHUbqDHiVz7O82Cd3rrbcPsr8bw7sYuJGTIM6D7+8="
+        "value": "ptF7DmnhwH/G9nJC0obNhThhyVh68s4iUs+cqdv7eiY="
       }
     }
   ]
