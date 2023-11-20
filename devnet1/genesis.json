@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "fHcGIeYQNoHmWjsdIL1Ml9RmgGAFrt8S1HGMnn6SZ9c=": {
-        "avatar_url": "https://www.gravatar.com/avatar/hmc9zwnf0fpvmwsm0gekyb26e2ijagjt?d=identicon",
-        "country": "TG",
-        "ethereum_address": "0x032aFc748337bF61741BB865A4fd2A3969cB011e",
-        "id": "f2fd970e80b3982c4833bb73b9580783714fb9540bf17290b95aa4f0c03cfae5",
-        "info_url": "https://en.wikipedia.org/wiki/Acta_Entomologica_Serbica",
-        "name": "adorable-country",
-        "tm_pub_key": "fHcGIeYQNoHmWjsdIL1Ml9RmgGAFrt8S1HGMnn6SZ9c=",
-        "vega_pub_key": "90f9a50d06a3706091e373f953def87d1b0491c70e90bf9f9443d78c2ffe553d",
+      "e8XIgDSDL5Bx2je4NEA/DCas9uLyDBNpyaTaGBmgxy8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/f1z1iis4fh2jrrda3lm3hdw5mwjzauwm?d=identicon",
+        "country": "NM",
+        "ethereum_address": "0x3CA99ba2cD6f866c969833BC350D09A556886b71",
+        "id": "9c237758137366e643a6e73286d1a50fdc44cc2554e69b4bc25f735e68bf9db8",
+        "info_url": "https://en.wikipedia.org/wiki/New_Orleans%E2%80%93Metairie%E2%80%93Hammond_combined_statistical_area",
+        "name": "green-cloud",
+        "tm_pub_key": "e8XIgDSDL5Bx2je4NEA/DCas9uLyDBNpyaTaGBmgxy8=",
+        "vega_pub_key": "3fe249593ff51fb27554c3e422043998ea1faf37b86c0b757a8ea022aba58fcc",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311191111",
+  "chain_id": "vega-devnet1-202311201421",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-19T11:11:53.67912783Z",
+  "genesis_time": "2023-11-20T14:21:39.209083962Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "508E9BA27AD56785E117AA9192F6263A11166969",
-      "name": "adorable-country",
+      "address": "E2EE70D02CB08DD87BA14D3774B12A1A1FAF0EBA",
+      "name": "green-cloud",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "fHcGIeYQNoHmWjsdIL1Ml9RmgGAFrt8S1HGMnn6SZ9c="
+        "value": "e8XIgDSDL5Bx2je4NEA/DCas9uLyDBNpyaTaGBmgxy8="
       }
     }
   ]
