@@ -757,12 +757,12 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         mdp = 4
         pdp = 0
     [scenario.incentive_btcusdt_perp_150x.market_maker_args]
-        market_kappa = 0.3
+        market_kappa = 450
         market_order_arrival_rate = 150
         order_kappa = 0.15
         order_size = 1
         order_levels = 25
-        order_spacing = 1
+        order_spacing = 0.05
         order_clipping = 10000
         inventory_lower_boundary = -3
         inventory_upper_boundary = 3
