@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "2C8OfaC9amT6wZEOt6AiwDWJiccBy1SpxagvMzp46Y4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/fvbyl9865i1oorusedsepgs2t9o21my5?d=identicon",
+        "country": "WX",
+        "ethereum_address": "0xAbc75f3bdE751cF6af65b7B937C9cA5886d8FbCB",
+        "id": "16a85a29e60299948a1fb65b9f0cbd34851a8a62d7bec76d6651045226b888bb",
+        "info_url": "https://en.wikipedia.org/wiki/Sulawesi_broad-eared_horseshoe_bat",
+        "name": "gritty-farmer",
+        "tm_pub_key": "2C8OfaC9amT6wZEOt6AiwDWJiccBy1SpxagvMzp46Y4=",
+        "vega_pub_key": "8a2e7c022d1cb7a4f9582089b277f9c2af46cc9d2782464797f6daca24b6ff89",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "sr7bw61/3UVBs3M+dcIzr3H1Tt+l/fCopyrpeaFUUKI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/xl6bn9lnv5cbhq0fuiwiip1chcvkxo4r?d=identicon",
-        "country": "CP",
-        "ethereum_address": "0x46fD4f2242A2Dab9D6c7ece40a1018D1879B8B75",
-        "id": "0f840725555b548a1e2a0f7617dba9c7e45ae8d8a756be33ffb32a1ac2297061",
-        "info_url": "https://en.wikipedia.org/wiki/1912_Svenska_M%C3%A4sterskapet",
-        "name": "noisy-dog",
-        "tm_pub_key": "sr7bw61/3UVBs3M+dcIzr3H1Tt+l/fCopyrpeaFUUKI=",
-        "vega_pub_key": "1575dd0bf90fa345c29ac73debaccba0cfcaed1141cb520c341d5bc1b3d7d9cc",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311211530",
+  "chain_id": "vega-devnet1-202311211659",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-21T15:30:41.247846173Z",
+  "genesis_time": "2023-11-21T16:59:47.588441897Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "1296C21BDC4CAB62EAF4A96C161181362A6F7D97",
-      "name": "noisy-dog",
+      "address": "59C511227588965D3984F81F84B3541F462D7FB6",
+      "name": "gritty-farmer",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "sr7bw61/3UVBs3M+dcIzr3H1Tt+l/fCopyrpeaFUUKI="
+        "value": "2C8OfaC9amT6wZEOt6AiwDWJiccBy1SpxagvMzp46Y4="
       }
     }
   ]
