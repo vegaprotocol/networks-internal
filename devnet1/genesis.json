@@ -281,17 +281,6 @@
         "vega_pub_key": "88537d06d0a10dcb71d0b0b370d7c188936bb3417b0105bb6b61340745141194",
         "vega_pub_key_index": 1
       },
-      "VR9Cptyfje6Kws03KaWwnFLrr/5ewTLQ0zGqTaIxjRA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/au735m38ttv350b1riunvyi2ixdsloao?d=identicon",
-        "country": "HC",
-        "ethereum_address": "0xcFa0A27B97C483C8B86C08301362D798278564f5",
-        "id": "8f2828fdcea9f706241e042a7deca6fa0c9f4e55daf1f39abf281315c9e57f9a",
-        "info_url": "https://en.wikipedia.org/wiki/Vintage_Books",
-        "name": "high-horse",
-        "tm_pub_key": "VR9Cptyfje6Kws03KaWwnFLrr/5ewTLQ0zGqTaIxjRA=",
-        "vega_pub_key": "dc9dcb57221c5c410408453a9dcfb44ab4c5d78040fc0783640c668a975895d8",
-        "vega_pub_key_index": 1
-      },
       "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=": {
         "avatar_url": "https://www.gravatar.com/avatar/5lclj8qe2cqcg9minvnflj0ivxr97v3f?d=identicon",
         "country": "JQ",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "mO3HJAKTle20tgQUbHDKl+hGlpYvZn+NUjsF1lzCkOY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/k2h5d04rrfjelng0yc0fvk4r4t2jd6de?d=identicon",
+        "country": "VR",
+        "ethereum_address": "0x56F8A3ccc3Ed425D214835891c9a382e4B8963D3",
+        "id": "b2bcea64fe9c74068deb3ace056e0fda46cf60e0e7247e03abc22251e3d8ea9f",
+        "info_url": "https://en.wikipedia.org/wiki/Acanthomyrmex_ferox",
+        "name": "immense-school",
+        "tm_pub_key": "mO3HJAKTle20tgQUbHDKl+hGlpYvZn+NUjsF1lzCkOY=",
+        "vega_pub_key": "12555427cb0d0c825ba56ba12750eaa3357c6d03fb3d4a7ac9fb73eba93b0919",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311201912",
+  "chain_id": "vega-devnet1-202311211127",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-20T19:12:02.308562565Z",
+  "genesis_time": "2023-11-21T11:27:13.699607671Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "81AF8D66635332FC30FA5246EF17083F84AA05A9",
-      "name": "high-horse",
+      "address": "091FB88C9BF0909A0E68BB9DA21E62EE858324D0",
+      "name": "immense-school",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "VR9Cptyfje6Kws03KaWwnFLrr/5ewTLQ0zGqTaIxjRA="
+        "value": "mO3HJAKTle20tgQUbHDKl+hGlpYvZn+NUjsF1lzCkOY="
       }
     }
   ]
