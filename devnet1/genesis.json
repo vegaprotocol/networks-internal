@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "CzYyZHOCU+XqW7ZpDBUE2uQse9A3QUp30R+Qf/d4gsE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/qqivnh584sjh45ph90simidggbvkau2k?d=identicon",
+        "country": "GK",
+        "ethereum_address": "0x291EF95E61AB18A2876e1EDf6913dD29C1E3Be4d",
+        "id": "439b0be85df35e1a08b5ec493b26be24d0a8069197cbf4abd642483c211fdfd4",
+        "info_url": "https://en.wikipedia.org/wiki/Concerto_Grosso_No._1_(Schnittke)",
+        "name": "exuberant-door",
+        "tm_pub_key": "CzYyZHOCU+XqW7ZpDBUE2uQse9A3QUp30R+Qf/d4gsE=",
+        "vega_pub_key": "f17459d88d0d3fd6cae9122b8737fecbe498edd54e96ec6428a308f8b3437cbe",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "mO3HJAKTle20tgQUbHDKl+hGlpYvZn+NUjsF1lzCkOY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/k2h5d04rrfjelng0yc0fvk4r4t2jd6de?d=identicon",
-        "country": "VR",
-        "ethereum_address": "0x56F8A3ccc3Ed425D214835891c9a382e4B8963D3",
-        "id": "b2bcea64fe9c74068deb3ace056e0fda46cf60e0e7247e03abc22251e3d8ea9f",
-        "info_url": "https://en.wikipedia.org/wiki/Acanthomyrmex_ferox",
-        "name": "immense-school",
-        "tm_pub_key": "mO3HJAKTle20tgQUbHDKl+hGlpYvZn+NUjsF1lzCkOY=",
-        "vega_pub_key": "12555427cb0d0c825ba56ba12750eaa3357c6d03fb3d4a7ac9fb73eba93b0919",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311211127",
+  "chain_id": "vega-devnet1-202311211412",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-21T11:27:13.699607671Z",
+  "genesis_time": "2023-11-21T14:12:37.020023975Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "091FB88C9BF0909A0E68BB9DA21E62EE858324D0",
-      "name": "immense-school",
+      "address": "1BEEA0BB9D2A6C9D257A76BF52B1A602107FC17B",
+      "name": "exuberant-door",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "mO3HJAKTle20tgQUbHDKl+hGlpYvZn+NUjsF1lzCkOY="
+        "value": "CzYyZHOCU+XqW7ZpDBUE2uQse9A3QUp30R+Qf/d4gsE="
       }
     }
   ]
