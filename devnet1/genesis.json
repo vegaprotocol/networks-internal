@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "5c++oYAO/HVIgaIIfmczHAyGeF6i+wt6es1FGygPJiY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/0cfhay2wap7ubc9csw4da2nk6dpji1k1?d=identicon",
+        "country": "GD",
+        "ethereum_address": "0x63c4ce8A141BB82d6caF0e3b28e69478A4848ffa",
+        "id": "d7177918e12ddd5636a827538736591fb53cd1f7e6a6e5da3671ca2a42b7c2c1",
+        "info_url": "https://en.wikipedia.org/wiki/Al_Ta%27awon_SC",
+        "name": "funny-sheep",
+        "tm_pub_key": "5c++oYAO/HVIgaIIfmczHAyGeF6i+wt6es1FGygPJiY=",
+        "vega_pub_key": "9fa68b5e32b59081a6b762c57948549e1c92527c2d04b56bc507e94b0d37ac83",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "fEHE8ysdzkOB/yIJ0FZxVPOoVB/RcUMfvJsjtwLdZz4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/mvgpx4jeb6e0fb4ilorq6olc9wvkdnss?d=identicon",
-        "country": "PG",
-        "ethereum_address": "0xeD3bD766e3544D3fFcE692D6eBa337bF29D79299",
-        "id": "559a279d901d4eb4afc4e34edbd50afff905ec0e3370fc316ba1402405fb6a30",
-        "info_url": "https://en.wikipedia.org/wiki/Queen_Alliquippa",
-        "name": "fluky-movie",
-        "tm_pub_key": "fEHE8ysdzkOB/yIJ0FZxVPOoVB/RcUMfvJsjtwLdZz4=",
-        "vega_pub_key": "6360d10056cdf45712e6aec25f75d406502a4911769ffe1ef44255e4722d29a0",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311212331",
+  "chain_id": "vega-devnet1-202311221140",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-21T23:31:22.129254766Z",
+  "genesis_time": "2023-11-22T11:40:16.80494188Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "3CF3FECA66F1970B422E6541CA7DEAEE37DE5151",
-      "name": "fluky-movie",
+      "address": "006CEF4CED4C5E2B1A99CE8505A5F304075662A2",
+      "name": "funny-sheep",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "fEHE8ysdzkOB/yIJ0FZxVPOoVB/RcUMfvJsjtwLdZz4="
+        "value": "5c++oYAO/HVIgaIIfmczHAyGeF6i+wt6es1FGygPJiY="
       }
     }
   ]
