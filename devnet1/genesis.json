@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "43+XoyJybklWI8TtC1hE4Rw2rlzcN9H9qr1uNM63RAU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/sbewu3wxienxwrofwdxqwcdwcqwl3n82?d=identicon",
-        "country": "ZO",
-        "ethereum_address": "0xC9FFD49B13e61a548Fbe68Ab39492F8c820cd263",
-        "id": "ba46905b251924f18733e57f69d7b9cecaa724e12d6c8a9efe26dbd543ce3d1e",
-        "info_url": "https://en.wikipedia.org/wiki/Saint-Honor%C3%A9-les-Bains",
-        "name": "loud-party",
-        "tm_pub_key": "43+XoyJybklWI8TtC1hE4Rw2rlzcN9H9qr1uNM63RAU=",
-        "vega_pub_key": "0fcbe64aeab032189b177ae5f26a0f8e2b156b9b7918189fa62917fd3207566e",
+      "ErA8ZQtNRsN/nNsxDXqKXKCGdpXvBrFYxa/U6V8NGIU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/edh942w5l4vdo4kxp7yfaqilnraj2cf8?d=identicon",
+        "country": "AE",
+        "ethereum_address": "0x7eE953551a0cfEe59F5C700Ec3C6E770d79C1D95",
+        "id": "e038a28ce6d32690e2af4ec5b2661385c5e45faecb53fef90c204ad1aaea0c31",
+        "info_url": "https://en.wikipedia.org/wiki/Mirzet_Krupinac",
+        "name": "unsightly-chimney",
+        "tm_pub_key": "ErA8ZQtNRsN/nNsxDXqKXKCGdpXvBrFYxa/U6V8NGIU=",
+        "vega_pub_key": "278da53ad4b4b9e8514e2e32aa64658a8f9cd9547aa6c1632c7977a9fc9ba5e0",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311231401",
+  "chain_id": "vega-devnet1-202311231801",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-23T14:01:59.816752156Z",
+  "genesis_time": "2023-11-23T18:01:48.78960317Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "F56C8D77E50259AD7D781A3B0EC3C373C990B3B7",
-      "name": "loud-party",
+      "address": "FD4E45D673EE767DE85AFDCB5346020188474375",
+      "name": "unsightly-chimney",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "43+XoyJybklWI8TtC1hE4Rw2rlzcN9H9qr1uNM63RAU="
+        "value": "ErA8ZQtNRsN/nNsxDXqKXKCGdpXvBrFYxa/U6V8NGIU="
       }
     }
   ]
