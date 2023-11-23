@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "WP5TleKjE5JzHg7D0FAaStkTJTaAEMTNZtvjY4XVGdQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/mgwnddh7lus4v60e2puaeggaislkfyqv?d=identicon",
-        "country": "CL",
-        "ethereum_address": "0x1cE1BF98c8cfF5eEd12CfFA625f34BcF7f07Ac85",
-        "id": "9455a49fdb13c0895c815ec3becac1b10df8e8f4cecdee313ad805216081fde5",
-        "info_url": "https://en.wikipedia.org/wiki/Yobes_Ondieki",
-        "name": "gritty-biscuit",
-        "tm_pub_key": "WP5TleKjE5JzHg7D0FAaStkTJTaAEMTNZtvjY4XVGdQ=",
-        "vega_pub_key": "35b2919ae6b5474efe2589026e795a152347050270988ab6f5abfe22e581cf18",
+      "j+tpnlRwpVPHqrYjfAEEfeAcSeu0h2lplCr7+fxkDbs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ke33yugx4thrzofnynydvpvjmoj1dt4l?d=identicon",
+        "country": "EW",
+        "ethereum_address": "0xeB71fbad9f46AeE396719158B82182427Eab7cc0",
+        "id": "2695096448172f81bbad827b0933379e0dd8fe989b10483d2eed701a8963c357",
+        "info_url": "https://en.wikipedia.org/wiki/Munipoese_Muli%CA%BBaka%CA%BBaka",
+        "name": "alert-dog",
+        "tm_pub_key": "j+tpnlRwpVPHqrYjfAEEfeAcSeu0h2lplCr7+fxkDbs=",
+        "vega_pub_key": "03ef897c1d142c04036f7a385ef12638026542ef49f84c7f62f4421b77df0ec2",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311221759",
+  "chain_id": "vega-devnet1-202311231206",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-22T17:59:50.937031576Z",
+  "genesis_time": "2023-11-23T12:06:53.137994639Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "AFF3EEBF730413852CB6088A0888F7D9458276FA",
-      "name": "gritty-biscuit",
+      "address": "588E7FAA44A6692462E989532D3BFA95292EEE79",
+      "name": "alert-dog",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "WP5TleKjE5JzHg7D0FAaStkTJTaAEMTNZtvjY4XVGdQ="
+        "value": "j+tpnlRwpVPHqrYjfAEEfeAcSeu0h2lplCr7+fxkDbs="
       }
     }
   ]
