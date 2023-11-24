@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "ErA8ZQtNRsN/nNsxDXqKXKCGdpXvBrFYxa/U6V8NGIU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/edh942w5l4vdo4kxp7yfaqilnraj2cf8?d=identicon",
-        "country": "AE",
-        "ethereum_address": "0x7eE953551a0cfEe59F5C700Ec3C6E770d79C1D95",
-        "id": "e038a28ce6d32690e2af4ec5b2661385c5e45faecb53fef90c204ad1aaea0c31",
-        "info_url": "https://en.wikipedia.org/wiki/Mirzet_Krupinac",
-        "name": "unsightly-chimney",
-        "tm_pub_key": "ErA8ZQtNRsN/nNsxDXqKXKCGdpXvBrFYxa/U6V8NGIU=",
-        "vega_pub_key": "278da53ad4b4b9e8514e2e32aa64658a8f9cd9547aa6c1632c7977a9fc9ba5e0",
+      "5pwGX1ztkgyYVCTceR2VH8pxZwT4+/fhK5YO34YSWA8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/q6skatwufcsvs6fqd8dsz3bcdik1letc?d=identicon",
+        "country": "GE",
+        "ethereum_address": "0x9B1068ce5d6d2FDEdF47Aa3866Ba778ffF05ae0E",
+        "id": "7e5296fee979181596bdf5f9cf56023b977fe61f534f972bff5d1af3d4265526",
+        "info_url": "https://en.wikipedia.org/wiki/Mansur_Shah_II_of_Pahang",
+        "name": "important-flowers",
+        "tm_pub_key": "5pwGX1ztkgyYVCTceR2VH8pxZwT4+/fhK5YO34YSWA8=",
+        "vega_pub_key": "d8214818c037bac570bd82d1e345b2a38208fab95051fe6363c473e53dcbafbe",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311231801",
+  "chain_id": "vega-devnet1-202311241144",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-23T18:01:48.78960317Z",
+  "genesis_time": "2023-11-24T11:44:58.160542356Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "FD4E45D673EE767DE85AFDCB5346020188474375",
-      "name": "unsightly-chimney",
+      "address": "AF7342BC3879A6A3D388BBF8A7EE755F635F91ED",
+      "name": "important-flowers",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ErA8ZQtNRsN/nNsxDXqKXKCGdpXvBrFYxa/U6V8NGIU="
+        "value": "5pwGX1ztkgyYVCTceR2VH8pxZwT4+/fhK5YO34YSWA8="
       }
     }
   ]
