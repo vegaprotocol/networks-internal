@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "6LyrQ0XXW+O/K8fXKQUAGm+/98Hbvh+b4iqwWGpYHIM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/a3hn9s0gytw5e46vw5fly7klecsy4638?d=identicon",
-        "country": "RS",
-        "ethereum_address": "0x868e66cDA2cc7c7a510585904a9A0FF050085607",
-        "id": "b00c3efcac6caf32aa9f0a9781bbd4652940b4aa55d877f912985969a61deff0",
-        "info_url": "https://en.wikipedia.org/wiki/Charles_R._Knight",
-        "name": "odd-bed",
-        "tm_pub_key": "6LyrQ0XXW+O/K8fXKQUAGm+/98Hbvh+b4iqwWGpYHIM=",
-        "vega_pub_key": "5fce66d92866db0f8c7bcb070f1d9e1d122d90347578037a7249bd3b3cca1642",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "nsc1MUdo5sFu+1fEA4em7vuuFKJ3lok269K4hyjZAoQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ju15kl29gm4bz7wdck3lhiggv73480ch?d=identicon",
+        "country": "WM",
+        "ethereum_address": "0xF04bAbA22f224b059a94Ee1BD10fEBCA17BfD4a8",
+        "id": "e6e768aba1da5f324693fc5611a2da583a5965471eaaef60d3f9eb8c2a3714ed",
+        "info_url": "https://en.wikipedia.org/wiki/Svetlana_Klyuchnikova",
+        "name": "cooperative-month",
+        "tm_pub_key": "nsc1MUdo5sFu+1fEA4em7vuuFKJ3lok269K4hyjZAoQ=",
+        "vega_pub_key": "c9dcd28499052d370415a988f43297a1e97c6e5c84e9f45f8e0b652965d957d0",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311271203",
+  "chain_id": "vega-devnet1-202311271630",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-27T12:03:03.38844799Z",
+  "genesis_time": "2023-11-27T16:30:31.465175352Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "EAD59D428EB6A3CCD8C023040FDBA1FA167D39B0",
-      "name": "odd-bed",
+      "address": "D3D6A9A611E9118628CF346FACC3F7B6F0689142",
+      "name": "cooperative-month",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "6LyrQ0XXW+O/K8fXKQUAGm+/98Hbvh+b4iqwWGpYHIM="
+        "value": "nsc1MUdo5sFu+1fEA4em7vuuFKJ3lok269K4hyjZAoQ="
       }
     }
   ]
