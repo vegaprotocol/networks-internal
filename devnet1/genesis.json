@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "GIiBiBzNkTyxszPFg5vCCuZhben1HmGv+6pzv6Fw+vQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ijhfgiql4o4q5sbaskt5a8a4esvzmz4q?d=identicon",
+        "country": "YH",
+        "ethereum_address": "0x5A68a6e1dcc2d04f766C7a1E5bE87FfE5B1ADDf5",
+        "id": "cf2ebb7b88c2bb1a535f456782b469b6dd2a578eaab092cf685d1c73aadef3dd",
+        "info_url": "https://en.wikipedia.org/wiki/Pembridge_Square",
+        "name": "shapely-flowers",
+        "tm_pub_key": "GIiBiBzNkTyxszPFg5vCCuZhben1HmGv+6pzv6Fw+vQ=",
+        "vega_pub_key": "abb5c19c120ca5e188c6b72cf04782964b263e41c4f88f50959af155ac1c52dd",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "nsc1MUdo5sFu+1fEA4em7vuuFKJ3lok269K4hyjZAoQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ju15kl29gm4bz7wdck3lhiggv73480ch?d=identicon",
-        "country": "WM",
-        "ethereum_address": "0xF04bAbA22f224b059a94Ee1BD10fEBCA17BfD4a8",
-        "id": "e6e768aba1da5f324693fc5611a2da583a5965471eaaef60d3f9eb8c2a3714ed",
-        "info_url": "https://en.wikipedia.org/wiki/Svetlana_Klyuchnikova",
-        "name": "cooperative-month",
-        "tm_pub_key": "nsc1MUdo5sFu+1fEA4em7vuuFKJ3lok269K4hyjZAoQ=",
-        "vega_pub_key": "c9dcd28499052d370415a988f43297a1e97c6e5c84e9f45f8e0b652965d957d0",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311271630",
+  "chain_id": "vega-devnet1-202311271726",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-27T16:30:31.465175352Z",
+  "genesis_time": "2023-11-27T17:26:09.735811538Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "D3D6A9A611E9118628CF346FACC3F7B6F0689142",
-      "name": "cooperative-month",
+      "address": "4CC64AC4DBD6940A1613A7BD1E2F2BB4B13D1517",
+      "name": "shapely-flowers",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "nsc1MUdo5sFu+1fEA4em7vuuFKJ3lok269K4hyjZAoQ="
+        "value": "GIiBiBzNkTyxszPFg5vCCuZhben1HmGv+6pzv6Fw+vQ="
       }
     }
   ]
