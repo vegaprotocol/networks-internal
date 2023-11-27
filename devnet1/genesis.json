@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "5pwGX1ztkgyYVCTceR2VH8pxZwT4+/fhK5YO34YSWA8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/q6skatwufcsvs6fqd8dsz3bcdik1letc?d=identicon",
-        "country": "GE",
-        "ethereum_address": "0x9B1068ce5d6d2FDEdF47Aa3866Ba778ffF05ae0E",
-        "id": "7e5296fee979181596bdf5f9cf56023b977fe61f534f972bff5d1af3d4265526",
-        "info_url": "https://en.wikipedia.org/wiki/Mansur_Shah_II_of_Pahang",
-        "name": "important-flowers",
-        "tm_pub_key": "5pwGX1ztkgyYVCTceR2VH8pxZwT4+/fhK5YO34YSWA8=",
-        "vega_pub_key": "d8214818c037bac570bd82d1e345b2a38208fab95051fe6363c473e53dcbafbe",
+      "6LyrQ0XXW+O/K8fXKQUAGm+/98Hbvh+b4iqwWGpYHIM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/a3hn9s0gytw5e46vw5fly7klecsy4638?d=identicon",
+        "country": "RS",
+        "ethereum_address": "0x868e66cDA2cc7c7a510585904a9A0FF050085607",
+        "id": "b00c3efcac6caf32aa9f0a9781bbd4652940b4aa55d877f912985969a61deff0",
+        "info_url": "https://en.wikipedia.org/wiki/Charles_R._Knight",
+        "name": "odd-bed",
+        "tm_pub_key": "6LyrQ0XXW+O/K8fXKQUAGm+/98Hbvh+b4iqwWGpYHIM=",
+        "vega_pub_key": "5fce66d92866db0f8c7bcb070f1d9e1d122d90347578037a7249bd3b3cca1642",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311241144",
+  "chain_id": "vega-devnet1-202311271203",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-24T11:44:58.160542356Z",
+  "genesis_time": "2023-11-27T12:03:03.38844799Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "AF7342BC3879A6A3D388BBF8A7EE755F635F91ED",
-      "name": "important-flowers",
+      "address": "EAD59D428EB6A3CCD8C023040FDBA1FA167D39B0",
+      "name": "odd-bed",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "5pwGX1ztkgyYVCTceR2VH8pxZwT4+/fhK5YO34YSWA8="
+        "value": "6LyrQ0XXW+O/K8fXKQUAGm+/98Hbvh+b4iqwWGpYHIM="
       }
     }
   ]
