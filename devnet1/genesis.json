@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "GIiBiBzNkTyxszPFg5vCCuZhben1HmGv+6pzv6Fw+vQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ijhfgiql4o4q5sbaskt5a8a4esvzmz4q?d=identicon",
-        "country": "YH",
-        "ethereum_address": "0x5A68a6e1dcc2d04f766C7a1E5bE87FfE5B1ADDf5",
-        "id": "cf2ebb7b88c2bb1a535f456782b469b6dd2a578eaab092cf685d1c73aadef3dd",
-        "info_url": "https://en.wikipedia.org/wiki/Pembridge_Square",
-        "name": "shapely-flowers",
-        "tm_pub_key": "GIiBiBzNkTyxszPFg5vCCuZhben1HmGv+6pzv6Fw+vQ=",
-        "vega_pub_key": "abb5c19c120ca5e188c6b72cf04782964b263e41c4f88f50959af155ac1c52dd",
+      "UvrTi94v0/vX4YRjNuZGbCPXr8bEuVj+fyRicITG3f8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/y97dzs0i5sbx36huiqbak8f3ojdrq200?d=identicon",
+        "country": "SR",
+        "ethereum_address": "0xA0BEd4CB3e6613eD5EAb04eD2E0caa19d2AE6222",
+        "id": "32a1e11c2ac16dc99f0c7eb92dac78fb3ff41baf13824be48c6e432ac6e4e952",
+        "info_url": "https://en.wikipedia.org/wiki/Newton%E2%80%93Allaire_House",
+        "name": "vast-hill",
+        "tm_pub_key": "UvrTi94v0/vX4YRjNuZGbCPXr8bEuVj+fyRicITG3f8=",
+        "vega_pub_key": "40356d55eb70cc0e7f763dad7889c36df21d03bd5a432e5a63c62b117241ff18",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311271726",
+  "chain_id": "vega-devnet1-202311281631",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-27T17:26:09.735811538Z",
+  "genesis_time": "2023-11-28T16:31:08.77578263Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "4CC64AC4DBD6940A1613A7BD1E2F2BB4B13D1517",
-      "name": "shapely-flowers",
+      "address": "21D0735B9381B680BB6F264F7F2A38A37CAC7EB3",
+      "name": "vast-hill",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "GIiBiBzNkTyxszPFg5vCCuZhben1HmGv+6pzv6Fw+vQ="
+        "value": "UvrTi94v0/vX4YRjNuZGbCPXr8bEuVj+fyRicITG3f8="
       }
     }
   ]
