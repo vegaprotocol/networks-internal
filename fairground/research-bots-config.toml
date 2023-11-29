@@ -793,7 +793,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 
 [scenario.incentive_korea]
-    market_name = "BTCUSD.PERP High Lev"
+    market_name = "BTCUSD Perp High Lev"
     binance_code = "BTCUSDT"
     step_length_seconds = 10
     [scenario.incentive_korea.market_manager_args]
