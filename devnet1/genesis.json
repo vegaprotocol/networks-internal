@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "9S1KDzf086r5+m0SO9VDqAnCFafkZZXEIjP26pa/X/A=": {
-        "avatar_url": "https://www.gravatar.com/avatar/0kwo6e6yjy1bj7x7zmpup9913kq36zcc?d=identicon",
-        "country": "DQ",
-        "ethereum_address": "0x07604575C469feF0912267bdAbc94a093b61b282",
-        "id": "992a14ccf3e76c79ccc2e323645471311a5a22306480931db487e68aef5638c9",
-        "info_url": "https://en.wikipedia.org/wiki/M%C3%A9tallurgique",
-        "name": "intrigued-pencil",
-        "tm_pub_key": "9S1KDzf086r5+m0SO9VDqAnCFafkZZXEIjP26pa/X/A=",
-        "vega_pub_key": "946852bbc98c82d7156c30fb414c32dbce72b5b5c6753d72a2552b3cb3febc1a",
+      "0BPRMdnz9h8lsaoAat7/dRml3zxF9FdtwtXDJuHkcdQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/4xo5vgnhi5w6c2zbc9p5ppxp0h9xuw55?d=identicon",
+        "country": "PU",
+        "ethereum_address": "0xc3AB9cFf953D2e7217E4c9e77BF2101D760Db30A",
+        "id": "d258234c3e0b24bfd37c34068f219009aac4e5bfb80bded6bacf17c7eeca1d7d",
+        "info_url": "https://en.wikipedia.org/wiki/Little_Stretton_Halt_railway_station",
+        "name": "brave-mango",
+        "tm_pub_key": "0BPRMdnz9h8lsaoAat7/dRml3zxF9FdtwtXDJuHkcdQ=",
+        "vega_pub_key": "702e46098f896efd5ae0a2cce3ad3af04d2ad1f55768a86ad19531a9fae16fc0",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202312010930",
+  "chain_id": "vega-devnet1-202312011019",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-01T09:30:10.346553718Z",
+  "genesis_time": "2023-12-01T10:19:55.938395832Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "4C6532758F1A3C0636C7746C720693353758195E",
-      "name": "intrigued-pencil",
+      "address": "A1AC54AB23924235D4415CC205D40F40B203006E",
+      "name": "brave-mango",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "9S1KDzf086r5+m0SO9VDqAnCFafkZZXEIjP26pa/X/A="
+        "value": "0BPRMdnz9h8lsaoAat7/dRml3zxF9FdtwtXDJuHkcdQ="
       }
     }
   ]
