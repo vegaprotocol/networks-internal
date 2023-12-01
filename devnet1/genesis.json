@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "/sH2mDa3ZAC0dB+LJ7yJuYsu38zzEwx62NpknbcTneY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/qemrkypw79ao8hv135r3f1pcbbqwr296?d=identicon",
+        "country": "YI",
+        "ethereum_address": "0x3df10195962CDfEeDdD8270eA1eD47c0f6d7BA38",
+        "id": "f0741626c10ecea1b8ecd0dbec7f4ddb26c81c85712c54a9deb5b11c0114d203",
+        "info_url": "https://en.wikipedia.org/wiki/Poranki",
+        "name": "green-cloud",
+        "tm_pub_key": "/sH2mDa3ZAC0dB+LJ7yJuYsu38zzEwx62NpknbcTneY=",
+        "vega_pub_key": "875a1826f8a3d3b68ac157debc64f323aacd6bd99f914702ff1fe9af47fcab80",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "ls+r3RUuazVRTunR+pzX22/XnN2ibHzVCYUxiIscg4U=": {
-        "avatar_url": "https://www.gravatar.com/avatar/9cvl9x5gtz66kqj61tac52vp7fqku736?d=identicon",
-        "country": "XJ",
-        "ethereum_address": "0x75b7f289747BB3c308421535DebD316feEEbA742",
-        "id": "0d4e924b93a57d33254c23ca8f9d1f4e5d9ea5f17e0c5c33dc65245456cb7407",
-        "info_url": "https://en.wikipedia.org/wiki/Berlenga_Lighthouse",
-        "name": "clever-bat",
-        "tm_pub_key": "ls+r3RUuazVRTunR+pzX22/XnN2ibHzVCYUxiIscg4U=",
-        "vega_pub_key": "682a2a8c221c9f815a3543419305dc8da79074976ec8b223dbdf914ec28951f3",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202312011314",
+  "chain_id": "vega-devnet1-202312011412",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-01T13:14:22.185252011Z",
+  "genesis_time": "2023-12-01T14:12:05.885402139Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "9761E0F450E54928C39930DD595B714D030A4B26",
-      "name": "clever-bat",
+      "address": "D27BB666B8D9EC980744E9EBC8D1731C4CB601BB",
+      "name": "green-cloud",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ls+r3RUuazVRTunR+pzX22/XnN2ibHzVCYUxiIscg4U="
+        "value": "/sH2mDa3ZAC0dB+LJ7yJuYsu38zzEwx62NpknbcTneY="
       }
     }
   ]
