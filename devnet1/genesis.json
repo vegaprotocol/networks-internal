@@ -292,17 +292,6 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "bkWPr1sx63EVmEfHjXsGIdokCqT3kN7j05Er0JGxfaY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/dugqyhkw9wlxyo9gzf5j8fmp48yyw74k?d=identicon",
-        "country": "YR",
-        "ethereum_address": "0x6807dC65E06099f36F990b942E1EDF9Cfd0a01b8",
-        "id": "f8c4aa1971b2f78d8f8cf9c04a1759bd1afae21f2c7ab005d5bf7f03809cae47",
-        "info_url": "https://en.wikipedia.org/wiki/ATA_(Israeli_company)",
-        "name": "courageous-plant",
-        "tm_pub_key": "bkWPr1sx63EVmEfHjXsGIdokCqT3kN7j05Er0JGxfaY=",
-        "vega_pub_key": "0cb26a5d3747886e6b41b5f8ae21578c4aa05344a213d0d5269cc908fd37c1ab",
-        "vega_pub_key_index": 1
-      },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
         "avatar_url": "https://www.gravatar.com/avatar/14wh06jhnafyxu5ea1p41y8972c1flw0?d=identicon",
         "country": "QX",
@@ -312,6 +301,17 @@
         "name": "helpless-biscuit",
         "tm_pub_key": "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=",
         "vega_pub_key": "ec52a0909053e61531925dbf38ef3419265d41375fc82c967b429ab17548f254",
+        "vega_pub_key_index": 1
+      },
+      "tjgHBURxmYv7A2GQ0Dgty3nVl22hAVcA6+AmFZ+AdRo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/mejibg72jrws02j1hazxfrvk2vm7glnx?d=identicon",
+        "country": "SS",
+        "ethereum_address": "0x69adf50C237E52a694AdC59710618ebf7DA2DEDc",
+        "id": "345190b4a8db1d5bdb3ed718feaea3a6b159d853261306f29973061a88ab5751",
+        "info_url": "https://en.wikipedia.org/wiki/Wiley-VCH",
+        "name": "whining-door",
+        "tm_pub_key": "tjgHBURxmYv7A2GQ0Dgty3nVl22hAVcA6+AmFZ+AdRo=",
+        "vega_pub_key": "ab934d548a8eabda73807636362b61b5d6be0741dd566f75807418684ecf8db6",
         "vega_pub_key_index": 1
       },
       "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202312011526",
+  "chain_id": "vega-devnet1-202312011602",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-01T15:26:18.401325962Z",
+  "genesis_time": "2023-12-01T16:02:59.494298594Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "4BDA0DEEB65F4734A0784F0C708B0697A488CD5F",
-      "name": "courageous-plant",
+      "address": "FA45CED158E145FB9AFDA6F177E788B1D6F7F376",
+      "name": "whining-door",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "bkWPr1sx63EVmEfHjXsGIdokCqT3kN7j05Er0JGxfaY="
+        "value": "tjgHBURxmYv7A2GQ0Dgty3nVl22hAVcA6+AmFZ+AdRo="
       }
     }
   ]
