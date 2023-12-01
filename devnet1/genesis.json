@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "UvrTi94v0/vX4YRjNuZGbCPXr8bEuVj+fyRicITG3f8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/y97dzs0i5sbx36huiqbak8f3ojdrq200?d=identicon",
-        "country": "SR",
-        "ethereum_address": "0xA0BEd4CB3e6613eD5EAb04eD2E0caa19d2AE6222",
-        "id": "32a1e11c2ac16dc99f0c7eb92dac78fb3ff41baf13824be48c6e432ac6e4e952",
-        "info_url": "https://en.wikipedia.org/wiki/Newton%E2%80%93Allaire_House",
-        "name": "vast-hill",
-        "tm_pub_key": "UvrTi94v0/vX4YRjNuZGbCPXr8bEuVj+fyRicITG3f8=",
-        "vega_pub_key": "40356d55eb70cc0e7f763dad7889c36df21d03bd5a432e5a63c62b117241ff18",
+      "9S1KDzf086r5+m0SO9VDqAnCFafkZZXEIjP26pa/X/A=": {
+        "avatar_url": "https://www.gravatar.com/avatar/0kwo6e6yjy1bj7x7zmpup9913kq36zcc?d=identicon",
+        "country": "DQ",
+        "ethereum_address": "0x07604575C469feF0912267bdAbc94a093b61b282",
+        "id": "992a14ccf3e76c79ccc2e323645471311a5a22306480931db487e68aef5638c9",
+        "info_url": "https://en.wikipedia.org/wiki/M%C3%A9tallurgique",
+        "name": "intrigued-pencil",
+        "tm_pub_key": "9S1KDzf086r5+m0SO9VDqAnCFafkZZXEIjP26pa/X/A=",
+        "vega_pub_key": "946852bbc98c82d7156c30fb414c32dbce72b5b5c6753d72a2552b3cb3febc1a",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202311281631",
+  "chain_id": "vega-devnet1-202312010930",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-11-28T16:31:08.77578263Z",
+  "genesis_time": "2023-12-01T09:30:10.346553718Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "21D0735B9381B680BB6F264F7F2A38A37CAC7EB3",
-      "name": "vast-hill",
+      "address": "4C6532758F1A3C0636C7746C720693353758195E",
+      "name": "intrigued-pencil",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "UvrTi94v0/vX4YRjNuZGbCPXr8bEuVj+fyRicITG3f8="
+        "value": "9S1KDzf086r5+m0SO9VDqAnCFafkZZXEIjP26pa/X/A="
       }
     }
   ]
