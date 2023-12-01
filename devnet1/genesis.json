@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "8Uk2QWk8kP6+uO/WyDqN7x4W6Eh7POEf9+hBRzczMsM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/28t3uju2chmp0hvfztqnmdww8qjc958r?d=identicon",
-        "country": "ZW",
-        "ethereum_address": "0xfB7AEb6d7e7dcA04130979C2644B01A4fAb20730",
-        "id": "e577f5fa7a51ceb37234a82a50b5c0fdb2401de50fcc98ebe4e420e0ec778de8",
-        "info_url": "https://en.wikipedia.org/wiki/Tunia_language",
-        "name": "echoing-train",
-        "tm_pub_key": "8Uk2QWk8kP6+uO/WyDqN7x4W6Eh7POEf9+hBRzczMsM=",
-        "vega_pub_key": "676bde73a2994ff99a107a7945f482faf8aabd33bc5bd0801deae894f6979e74",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "ls+r3RUuazVRTunR+pzX22/XnN2ibHzVCYUxiIscg4U=": {
+        "avatar_url": "https://www.gravatar.com/avatar/9cvl9x5gtz66kqj61tac52vp7fqku736?d=identicon",
+        "country": "XJ",
+        "ethereum_address": "0x75b7f289747BB3c308421535DebD316feEEbA742",
+        "id": "0d4e924b93a57d33254c23ca8f9d1f4e5d9ea5f17e0c5c33dc65245456cb7407",
+        "info_url": "https://en.wikipedia.org/wiki/Berlenga_Lighthouse",
+        "name": "clever-bat",
+        "tm_pub_key": "ls+r3RUuazVRTunR+pzX22/XnN2ibHzVCYUxiIscg4U=",
+        "vega_pub_key": "682a2a8c221c9f815a3543419305dc8da79074976ec8b223dbdf914ec28951f3",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202312011227",
+  "chain_id": "vega-devnet1-202312011314",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-01T12:27:44.076729045Z",
+  "genesis_time": "2023-12-01T13:14:22.185252011Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "C962B8A683F6079E6E0C39566EC940A84A06F72D",
-      "name": "echoing-train",
+      "address": "9761E0F450E54928C39930DD595B714D030A4B26",
+      "name": "clever-bat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "8Uk2QWk8kP6+uO/WyDqN7x4W6Eh7POEf9+hBRzczMsM="
+        "value": "ls+r3RUuazVRTunR+pzX22/XnN2ibHzVCYUxiIscg4U="
       }
     }
   ]
