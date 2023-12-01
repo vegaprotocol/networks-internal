@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "G8WFvn+ZfYmQ0k4J5TShQ1SME84srSNungbilk1eu08=": {
-        "avatar_url": "https://www.gravatar.com/avatar/hszden2zy0dbrswt18r5qagq5mvtzlso?d=identicon",
-        "country": "BJ",
-        "ethereum_address": "0x31dc56FA369Db35eae2A93fdcB66898324feFe69",
-        "id": "778a8c4a1f01b66cc104d81caa05f460005d14cf0cd4c8887c8994dc6ae0fc07",
-        "info_url": "https://en.wikipedia.org/wiki/Inderjit_Bhogal",
-        "name": "green-town",
-        "tm_pub_key": "G8WFvn+ZfYmQ0k4J5TShQ1SME84srSNungbilk1eu08=",
-        "vega_pub_key": "c8b213ee2cc21a4fe3fc28b93b559286a810eff9f96f2df166585c0299b9b1d8",
+      "8Uk2QWk8kP6+uO/WyDqN7x4W6Eh7POEf9+hBRzczMsM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/28t3uju2chmp0hvfztqnmdww8qjc958r?d=identicon",
+        "country": "ZW",
+        "ethereum_address": "0xfB7AEb6d7e7dcA04130979C2644B01A4fAb20730",
+        "id": "e577f5fa7a51ceb37234a82a50b5c0fdb2401de50fcc98ebe4e420e0ec778de8",
+        "info_url": "https://en.wikipedia.org/wiki/Tunia_language",
+        "name": "echoing-train",
+        "tm_pub_key": "8Uk2QWk8kP6+uO/WyDqN7x4W6Eh7POEf9+hBRzczMsM=",
+        "vega_pub_key": "676bde73a2994ff99a107a7945f482faf8aabd33bc5bd0801deae894f6979e74",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202312011100",
+  "chain_id": "vega-devnet1-202312011227",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-01T11:00:16.66350368Z",
+  "genesis_time": "2023-12-01T12:27:44.076729045Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "F9E3AD0C0B517DC2816763BC029E62140A5E3C9B",
-      "name": "green-town",
+      "address": "C962B8A683F6079E6E0C39566EC940A84A06F72D",
+      "name": "echoing-train",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "G8WFvn+ZfYmQ0k4J5TShQ1SME84srSNungbilk1eu08="
+        "value": "8Uk2QWk8kP6+uO/WyDqN7x4W6Eh7POEf9+hBRzczMsM="
       }
     }
   ]
