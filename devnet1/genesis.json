@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "/sH2mDa3ZAC0dB+LJ7yJuYsu38zzEwx62NpknbcTneY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/qemrkypw79ao8hv135r3f1pcbbqwr296?d=identicon",
-        "country": "YI",
-        "ethereum_address": "0x3df10195962CDfEeDdD8270eA1eD47c0f6d7BA38",
-        "id": "f0741626c10ecea1b8ecd0dbec7f4ddb26c81c85712c54a9deb5b11c0114d203",
-        "info_url": "https://en.wikipedia.org/wiki/Poranki",
-        "name": "green-cloud",
-        "tm_pub_key": "/sH2mDa3ZAC0dB+LJ7yJuYsu38zzEwx62NpknbcTneY=",
-        "vega_pub_key": "875a1826f8a3d3b68ac157debc64f323aacd6bd99f914702ff1fe9af47fcab80",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "bkWPr1sx63EVmEfHjXsGIdokCqT3kN7j05Er0JGxfaY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/dugqyhkw9wlxyo9gzf5j8fmp48yyw74k?d=identicon",
+        "country": "YR",
+        "ethereum_address": "0x6807dC65E06099f36F990b942E1EDF9Cfd0a01b8",
+        "id": "f8c4aa1971b2f78d8f8cf9c04a1759bd1afae21f2c7ab005d5bf7f03809cae47",
+        "info_url": "https://en.wikipedia.org/wiki/ATA_(Israeli_company)",
+        "name": "courageous-plant",
+        "tm_pub_key": "bkWPr1sx63EVmEfHjXsGIdokCqT3kN7j05Er0JGxfaY=",
+        "vega_pub_key": "0cb26a5d3747886e6b41b5f8ae21578c4aa05344a213d0d5269cc908fd37c1ab",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202312011412",
+  "chain_id": "vega-devnet1-202312011526",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-01T14:12:05.885402139Z",
+  "genesis_time": "2023-12-01T15:26:18.401325962Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "D27BB666B8D9EC980744E9EBC8D1731C4CB601BB",
-      "name": "green-cloud",
+      "address": "4BDA0DEEB65F4734A0784F0C708B0697A488CD5F",
+      "name": "courageous-plant",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "/sH2mDa3ZAC0dB+LJ7yJuYsu38zzEwx62NpknbcTneY="
+        "value": "bkWPr1sx63EVmEfHjXsGIdokCqT3kN7j05Er0JGxfaY="
       }
     }
   ]
