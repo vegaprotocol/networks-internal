@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "TGaVHADApOEKPt4oBFT47TPrF7xStEryIavFW/5W5oI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/e83f5rc4xo8v8bi9pzovfdrr2ph06lxo?d=identicon",
-        "country": "CT",
-        "ethereum_address": "0x59bcC2A4c7EAdcC8111F91047d97B690d0d677e0",
-        "id": "7f7f8d2f49b0c3571de1fa88291901e639b975238a021f25376f54a02ad66f08",
-        "info_url": "https://en.wikipedia.org/wiki/New_Jersey_Route_66",
-        "name": "odd-computer",
-        "tm_pub_key": "TGaVHADApOEKPt4oBFT47TPrF7xStEryIavFW/5W5oI=",
-        "vega_pub_key": "17a594eef3318679f168dadd8161900a635b90e79b5442b52b3ea3cfe7e7055c",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "hvqauTAT5ZAXk1w2juFSYP+9Y/GQPLy22Mv0xyTuodg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/hxmbne2astz52ts2dsh4vms9r7aqev8i?d=identicon",
+        "country": "IL",
+        "ethereum_address": "0xFefF36594a5e6669b057CC0c60D6Dd7e67F48feB",
+        "id": "ce13cc46de97a7c7ecc0c8cc10cf3077d727017d18e0b7e131130debdf195fba",
+        "info_url": "https://en.wikipedia.org/wiki/Currying",
+        "name": "foolish-man",
+        "tm_pub_key": "hvqauTAT5ZAXk1w2juFSYP+9Y/GQPLy22Mv0xyTuodg=",
+        "vega_pub_key": "c3a48f91b2448cc6f0f38caf6f7b45f893f66308d4bcf8cb28b9f7554489e042",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202312041133",
+  "chain_id": "vega-devnet1-202312041300",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-04T11:33:21.441414473Z",
+  "genesis_time": "2023-12-04T13:00:33.15484687Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "44E679BF8EAA124EB9244CBB1469F786C374C2FA",
-      "name": "odd-computer",
+      "address": "4DE24D6B08C61E7AA1A20DD06A5BEC9B874564DB",
+      "name": "foolish-man",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "TGaVHADApOEKPt4oBFT47TPrF7xStEryIavFW/5W5oI="
+        "value": "hvqauTAT5ZAXk1w2juFSYP+9Y/GQPLy22Mv0xyTuodg="
       }
     }
   ]
