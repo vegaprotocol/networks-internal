@@ -292,17 +292,6 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "hvqauTAT5ZAXk1w2juFSYP+9Y/GQPLy22Mv0xyTuodg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/hxmbne2astz52ts2dsh4vms9r7aqev8i?d=identicon",
-        "country": "IL",
-        "ethereum_address": "0xFefF36594a5e6669b057CC0c60D6Dd7e67F48feB",
-        "id": "ce13cc46de97a7c7ecc0c8cc10cf3077d727017d18e0b7e131130debdf195fba",
-        "info_url": "https://en.wikipedia.org/wiki/Currying",
-        "name": "foolish-man",
-        "tm_pub_key": "hvqauTAT5ZAXk1w2juFSYP+9Y/GQPLy22Mv0xyTuodg=",
-        "vega_pub_key": "c3a48f91b2448cc6f0f38caf6f7b45f893f66308d4bcf8cb28b9f7554489e042",
-        "vega_pub_key_index": 1
-      },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
         "avatar_url": "https://www.gravatar.com/avatar/14wh06jhnafyxu5ea1p41y8972c1flw0?d=identicon",
         "country": "QX",
@@ -324,10 +313,21 @@
         "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
+      },
+      "xBGmXiammvUTgYxJ4Mlg9eXtnYuGDlhtV5K+hMWV2qE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/oi0xz0xkfzk76cqkpao13fagu1a0ara3?d=identicon",
+        "country": "ZU",
+        "ethereum_address": "0xd34c3DbAd0b4ce6196BA1d4A4B61dA913af73F86",
+        "id": "04bf63effa8045f8213ea9cdb986a4cdc891ecda80bf301a250f7ea55ae613fa",
+        "info_url": "https://en.wikipedia.org/wiki/Ababda_people",
+        "name": "immense-duck",
+        "tm_pub_key": "xBGmXiammvUTgYxJ4Mlg9eXtnYuGDlhtV5K+hMWV2qE=",
+        "vega_pub_key": "9fbd610975990a757be97a94435986f6f0a7ee8ed40bf34ec959d892939c723a",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202312041348",
+  "chain_id": "vega-devnet1-202312041431",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-04T13:48:54.921666902Z",
+  "genesis_time": "2023-12-04T14:31:26.897429075Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "4DE24D6B08C61E7AA1A20DD06A5BEC9B874564DB",
-      "name": "foolish-man",
+      "address": "B9468BD872E8C050DBADE37F084FB9D7C1EDEA0A",
+      "name": "immense-duck",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "hvqauTAT5ZAXk1w2juFSYP+9Y/GQPLy22Mv0xyTuodg="
+        "value": "xBGmXiammvUTgYxJ4Mlg9eXtnYuGDlhtV5K+hMWV2qE="
       }
     }
   ]
