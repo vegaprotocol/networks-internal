@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "TQUxtkmvYysW1vJu27J27vad2VDO3sKV0JhMVDLXr0s=": {
-        "avatar_url": "https://www.gravatar.com/avatar/yk9gmy7jdbpnbw7m19qxhklustk93hpp?d=identicon",
-        "country": "SI",
-        "ethereum_address": "0x8778063d2D6a4fe6B485206A1a8a9d239cc7081b",
-        "id": "a544efaa79d08671bb6ec6e9362f5c64a95260640748f501ee00149cee05e309",
-        "info_url": "https://en.wikipedia.org/wiki/Laser_4000",
-        "name": "purple-tile",
-        "tm_pub_key": "TQUxtkmvYysW1vJu27J27vad2VDO3sKV0JhMVDLXr0s=",
-        "vega_pub_key": "18421f3ad80674afeeda294b7a17df58d425a27ae420a0922722ded925a3b406",
+      "TGaVHADApOEKPt4oBFT47TPrF7xStEryIavFW/5W5oI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/e83f5rc4xo8v8bi9pzovfdrr2ph06lxo?d=identicon",
+        "country": "CT",
+        "ethereum_address": "0x59bcC2A4c7EAdcC8111F91047d97B690d0d677e0",
+        "id": "7f7f8d2f49b0c3571de1fa88291901e639b975238a021f25376f54a02ad66f08",
+        "info_url": "https://en.wikipedia.org/wiki/New_Jersey_Route_66",
+        "name": "odd-computer",
+        "tm_pub_key": "TGaVHADApOEKPt4oBFT47TPrF7xStEryIavFW/5W5oI=",
+        "vega_pub_key": "17a594eef3318679f168dadd8161900a635b90e79b5442b52b3ea3cfe7e7055c",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202312041035",
+  "chain_id": "vega-devnet1-202312041133",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-04T10:35:26.778036172Z",
+  "genesis_time": "2023-12-04T11:33:21.441414473Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "E1D1FB47AC572DE617EA812F5911678DE6E1FB83",
-      "name": "purple-tile",
+      "address": "44E679BF8EAA124EB9244CBB1469F786C374C2FA",
+      "name": "odd-computer",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "TQUxtkmvYysW1vJu27J27vad2VDO3sKV0JhMVDLXr0s="
+        "value": "TGaVHADApOEKPt4oBFT47TPrF7xStEryIavFW/5W5oI="
       }
     }
   ]
