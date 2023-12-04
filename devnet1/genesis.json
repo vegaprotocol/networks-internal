@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "kHj4KVoyCecxBJbY+7g19Q5E6EEFPYQvzogkulkvflU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/x1h2iijelytjelta4vpztxbiq8y8f6x9?d=identicon",
-        "country": "AA",
-        "ethereum_address": "0xF47a35cB9087fF58b0442b0741AaE0945804c33C",
-        "id": "509067fb1ff0d9579f099438d4c999b3a1f9460f242e5be5f9c18f0417d3c62b",
-        "info_url": "https://en.wikipedia.org/wiki/Command-line_argument_parsing",
-        "name": "quiet-candle",
-        "tm_pub_key": "kHj4KVoyCecxBJbY+7g19Q5E6EEFPYQvzogkulkvflU=",
-        "vega_pub_key": "e771827e5c68e61cb7c814c946961c68fde8915746f4249ed8bf4749134d8708",
+      "Y/oQJFkM3KMX/liaQSAYoznHMAdkHLqdUFzhO9ZBuHA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ikdenhx8mpyjbwhcs1m7896ywgszyj9l?d=identicon",
+        "country": "HE",
+        "ethereum_address": "0xAaF0847027C7A4528a1e3Bc16458fAE67726C203",
+        "id": "0d5eb3be8ff65815b25107d60f27f09f127185dff69dd9bd5baf6b4796bacbc7",
+        "info_url": "https://en.wikipedia.org/wiki/1939%E2%80%9340_Arsenal_F.C._season",
+        "name": "mango-farmer",
+        "tm_pub_key": "Y/oQJFkM3KMX/liaQSAYoznHMAdkHLqdUFzhO9ZBuHA=",
+        "vega_pub_key": "b4e4c282d8ecfcd5ac9aa8a1eb1ed8306582f7ea66814bebec4265689a670782",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202312041512",
+  "chain_id": "vega-devnet1-202312041607",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-04T15:12:51.736482392Z",
+  "genesis_time": "2023-12-04T16:07:30.653826091Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "F8AE1B24FEAA893A1BD519272DE55890AADCC81D",
-      "name": "quiet-candle",
+      "address": "497DC8DDA949A2304CCF072F6EDB70C68EF814D3",
+      "name": "mango-farmer",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "kHj4KVoyCecxBJbY+7g19Q5E6EEFPYQvzogkulkvflU="
+        "value": "Y/oQJFkM3KMX/liaQSAYoznHMAdkHLqdUFzhO9ZBuHA="
       }
     }
   ]
