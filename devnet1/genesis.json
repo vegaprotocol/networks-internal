@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "TQUxtkmvYysW1vJu27J27vad2VDO3sKV0JhMVDLXr0s=": {
+        "avatar_url": "https://www.gravatar.com/avatar/yk9gmy7jdbpnbw7m19qxhklustk93hpp?d=identicon",
+        "country": "SI",
+        "ethereum_address": "0x8778063d2D6a4fe6B485206A1a8a9d239cc7081b",
+        "id": "a544efaa79d08671bb6ec6e9362f5c64a95260640748f501ee00149cee05e309",
+        "info_url": "https://en.wikipedia.org/wiki/Laser_4000",
+        "name": "purple-tile",
+        "tm_pub_key": "TQUxtkmvYysW1vJu27J27vad2VDO3sKV0JhMVDLXr0s=",
+        "vega_pub_key": "18421f3ad80674afeeda294b7a17df58d425a27ae420a0922722ded925a3b406",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -303,17 +314,6 @@
         "vega_pub_key": "ec52a0909053e61531925dbf38ef3419265d41375fc82c967b429ab17548f254",
         "vega_pub_key_index": 1
       },
-      "tjgHBURxmYv7A2GQ0Dgty3nVl22hAVcA6+AmFZ+AdRo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/mejibg72jrws02j1hazxfrvk2vm7glnx?d=identicon",
-        "country": "SS",
-        "ethereum_address": "0x69adf50C237E52a694AdC59710618ebf7DA2DEDc",
-        "id": "345190b4a8db1d5bdb3ed718feaea3a6b159d853261306f29973061a88ab5751",
-        "info_url": "https://en.wikipedia.org/wiki/Wiley-VCH",
-        "name": "whining-door",
-        "tm_pub_key": "tjgHBURxmYv7A2GQ0Dgty3nVl22hAVcA6+AmFZ+AdRo=",
-        "vega_pub_key": "ab934d548a8eabda73807636362b61b5d6be0741dd566f75807418684ecf8db6",
-        "vega_pub_key_index": 1
-      },
       "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=": {
         "avatar_url": "https://www.gravatar.com/avatar/a1ae15bucug2qortml2n4rifwznx19tv?d=identicon",
         "country": "WO",
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202312011602",
+  "chain_id": "vega-devnet1-202312040959",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-01T16:02:59.494298594Z",
+  "genesis_time": "2023-12-04T09:59:14.472204206Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "FA45CED158E145FB9AFDA6F177E788B1D6F7F376",
-      "name": "whining-door",
+      "address": "E1D1FB47AC572DE617EA812F5911678DE6E1FB83",
+      "name": "purple-tile",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "tjgHBURxmYv7A2GQ0Dgty3nVl22hAVcA6+AmFZ+AdRo="
+        "value": "TQUxtkmvYysW1vJu27J27vad2VDO3sKV0JhMVDLXr0s="
       }
     }
   ]
