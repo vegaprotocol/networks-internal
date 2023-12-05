@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "+MKRV08TWjuC8Es99843SUFiH/LO68Po9Hqlz+DIU2U=": {
-        "avatar_url": "https://www.gravatar.com/avatar/bqd1dgn50qrl485cpqc5qenjnhpqo2sw?d=identicon",
-        "country": "YK",
-        "ethereum_address": "0x23dB13b8fb0a5004a91B6FCe0C4852f2EEf29CF1",
-        "id": "1e02e6ec8700d334e8c39a0465ccd290e50085a5f20d20024ab09f77142519b3",
-        "info_url": "https://en.wikipedia.org/wiki/Slice_(TV_channel)",
-        "name": "short-hat",
-        "tm_pub_key": "+MKRV08TWjuC8Es99843SUFiH/LO68Po9Hqlz+DIU2U=",
-        "vega_pub_key": "fc675e1ccc1285f58514834097979e0c67e50ed953421bcb2d2a908e218b4261",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "nNBIXorO9LYKaDYxmZXo3uspJZo95sbJEyViRZNFRUM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/nuakvebx2522oqdqrkyi5mzhdz010t7c?d=identicon",
+        "country": "PS",
+        "ethereum_address": "0x5e16E5e84584662630E3427eca00b7B4d4554CcB",
+        "id": "db8d60f39b7e7801b7a8162176ada810b5c2f1300b3c723e170aba57b56be161",
+        "info_url": "https://en.wikipedia.org/wiki/Glow_(The_Innocence_Mission_album)",
+        "name": "quiet-train",
+        "tm_pub_key": "nNBIXorO9LYKaDYxmZXo3uspJZo95sbJEyViRZNFRUM=",
+        "vega_pub_key": "d755fff44969f8f659ad433132d747d2dadc2da3b8888b00338a638d20c5b918",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202312051625",
+  "chain_id": "vega-devnet1-202312051824",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-05T16:25:21.174896682Z",
+  "genesis_time": "2023-12-05T18:24:28.387747785Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "06D8FC5BD12E53F4556D87C5EE276A9A6E7C8137",
-      "name": "short-hat",
+      "address": "2EF31F15619FB7F6538659F4DDD2C9C0A3E6A72B",
+      "name": "quiet-train",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "+MKRV08TWjuC8Es99843SUFiH/LO68Po9Hqlz+DIU2U="
+        "value": "nNBIXorO9LYKaDYxmZXo3uspJZo95sbJEyViRZNFRUM="
       }
     }
   ]
