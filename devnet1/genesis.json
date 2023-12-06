@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "LxwD1QNyDo5PiwhlnBZmSX08E4zI/UQlN098imwo0k0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/sh0lb8axud6h46k9seszjremua7empkb?d=identicon",
-        "country": "EM",
-        "ethereum_address": "0x0fFD760e689a61dfc334593aEB2996289179c9dC",
-        "id": "3166f87efe43cec3c8334d3d5b798ffc6c9aa5237c167e546a76d9e6b9505f9c",
-        "info_url": "https://en.wikipedia.org/wiki/Roser_Aguilar",
-        "name": "melodic-school",
-        "tm_pub_key": "LxwD1QNyDo5PiwhlnBZmSX08E4zI/UQlN098imwo0k0=",
-        "vega_pub_key": "312da2c445ae22daefe49d6ddab6f0dac0a9afcccf96867e32ef63c0f8605a97",
+      "QntT8neb8Z1m1Is6dKXGolZAraa7zsOJo3pokdsq6xw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/l72fcyh5nzh68our2exkvqzf359risuo?d=identicon",
+        "country": "BW",
+        "ethereum_address": "0x8051b54fbFFA2f95487e4007C6b3FF392b5acb3B",
+        "id": "16859e0474a982b3b7d36c97353ecec0caea03b3c6598fdf29e7757584715681",
+        "info_url": "https://en.wikipedia.org/wiki/Leigh_Hackspace",
+        "name": "vast-barber",
+        "tm_pub_key": "QntT8neb8Z1m1Is6dKXGolZAraa7zsOJo3pokdsq6xw=",
+        "vega_pub_key": "1da4242cb32682dfb825007af18d8bff48f8d07ea2d88c353a7cc25eea8943ee",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202312061640",
+  "chain_id": "vega-devnet1-202312061726",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-06T16:40:48.193596029Z",
+  "genesis_time": "2023-12-06T17:26:06.851688638Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "C603E9CF3968399464182CC6FE2FD295E99B3B82",
-      "name": "melodic-school",
+      "address": "6292BD78608A4C46EB317C4F18A244BC65F66903",
+      "name": "vast-barber",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "LxwD1QNyDo5PiwhlnBZmSX08E4zI/UQlN098imwo0k0="
+        "value": "QntT8neb8Z1m1Is6dKXGolZAraa7zsOJo3pokdsq6xw="
       }
     }
   ]
