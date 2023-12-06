@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "t56yGUva1dli5PKhaFCSr/Xtg2WTMbwdWufpczsSbKA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/x7z5u73fmy4sydl4j1emrr0p91xtva7e?d=identicon",
-        "country": "AE",
-        "ethereum_address": "0x140D03D4f4dF5C23C2086a92C34F93d7eB0573da",
-        "id": "0d28b37db183fa779c83ffc1ce794083fc6e86ac9dbc107bdf480b16d9d48517",
-        "info_url": "https://en.wikipedia.org/wiki/Tony_McLoughlin",
-        "name": "red-coffee",
-        "tm_pub_key": "t56yGUva1dli5PKhaFCSr/Xtg2WTMbwdWufpczsSbKA=",
-        "vega_pub_key": "da00191ea381f3095d1bb502fafc53ed777abceef54843872ff0d8641b025261",
+      "mxhY4LKuUualdpf0xOj028YLT+xih/I/1vnFgJpXhck=": {
+        "avatar_url": "https://www.gravatar.com/avatar/yqfdneb33txd7qz4h1kv5rtpjwrowkgs?d=identicon",
+        "country": "FI",
+        "ethereum_address": "0xFf73E49f99bbe34875A22dC4d0debe64e9579a64",
+        "id": "862e5c7c3b53dd9aec09a081be99d01c826ced4eccb2b04845751438e8840613",
+        "info_url": "https://en.wikipedia.org/wiki/James_Murray,_Lord_Philiphaugh",
+        "name": "extensive-stove",
+        "tm_pub_key": "mxhY4LKuUualdpf0xOj028YLT+xih/I/1vnFgJpXhck=",
+        "vega_pub_key": "0a09550b12901eb7dbdf3873fedcb48619ddf951bd62e081a4aa952f78d04005",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202312061133",
+  "chain_id": "vega-devnet1-202312061400",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-06T11:33:25.158827187Z",
+  "genesis_time": "2023-12-06T14:00:29.548758767Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "EBE499AD7BCCAD52DB43F849956F4FFD49A8CD61",
-      "name": "red-coffee",
+      "address": "0470EBDAB68525C932DE04C1C34350DFE3B08F41",
+      "name": "extensive-stove",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "t56yGUva1dli5PKhaFCSr/Xtg2WTMbwdWufpczsSbKA="
+        "value": "mxhY4LKuUualdpf0xOj028YLT+xih/I/1vnFgJpXhck="
       }
     }
   ]
