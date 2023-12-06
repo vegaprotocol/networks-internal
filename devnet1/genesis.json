@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "mxhY4LKuUualdpf0xOj028YLT+xih/I/1vnFgJpXhck=": {
-        "avatar_url": "https://www.gravatar.com/avatar/yqfdneb33txd7qz4h1kv5rtpjwrowkgs?d=identicon",
-        "country": "FI",
-        "ethereum_address": "0xFf73E49f99bbe34875A22dC4d0debe64e9579a64",
-        "id": "862e5c7c3b53dd9aec09a081be99d01c826ced4eccb2b04845751438e8840613",
-        "info_url": "https://en.wikipedia.org/wiki/James_Murray,_Lord_Philiphaugh",
-        "name": "extensive-stove",
-        "tm_pub_key": "mxhY4LKuUualdpf0xOj028YLT+xih/I/1vnFgJpXhck=",
-        "vega_pub_key": "0a09550b12901eb7dbdf3873fedcb48619ddf951bd62e081a4aa952f78d04005",
+      "kiyq3NSF1y/smZP4ZI2TTSyHoC4y3f4QIaq5GBqv1tA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xcyijfp33px3zi0qz59jucd6lrc9vrdk?d=identicon",
+        "country": "VA",
+        "ethereum_address": "0xA8F1E0Bb824432d05FBf5b458CAb33F1E5703995",
+        "id": "64b5deb39ecf5047629d7231ab90afebdd5594d11cc23df5af8bd0d7d41c0423",
+        "info_url": "https://en.wikipedia.org/wiki/2019%E2%80%9320_Gabala_FC_season",
+        "name": "salmon-pond",
+        "tm_pub_key": "kiyq3NSF1y/smZP4ZI2TTSyHoC4y3f4QIaq5GBqv1tA=",
+        "vega_pub_key": "25da9d16f3cd0dd2bbe75c44dd5c9609c3874201bc69a4ed106dbf297e6507c4",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202312061430",
+  "chain_id": "vega-devnet1-202312061537",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-06T14:30:03.757426468Z",
+  "genesis_time": "2023-12-06T15:37:23.124452852Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "0470EBDAB68525C932DE04C1C34350DFE3B08F41",
-      "name": "extensive-stove",
+      "address": "90FFB55D058956C0411E9498FE92130E2DDCDB8C",
+      "name": "salmon-pond",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "mxhY4LKuUualdpf0xOj028YLT+xih/I/1vnFgJpXhck="
+        "value": "kiyq3NSF1y/smZP4ZI2TTSyHoC4y3f4QIaq5GBqv1tA="
       }
     }
   ]
