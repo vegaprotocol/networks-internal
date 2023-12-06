@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "LxwD1QNyDo5PiwhlnBZmSX08E4zI/UQlN098imwo0k0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/sh0lb8axud6h46k9seszjremua7empkb?d=identicon",
+        "country": "EM",
+        "ethereum_address": "0x0fFD760e689a61dfc334593aEB2996289179c9dC",
+        "id": "3166f87efe43cec3c8334d3d5b798ffc6c9aa5237c167e546a76d9e6b9505f9c",
+        "info_url": "https://en.wikipedia.org/wiki/Roser_Aguilar",
+        "name": "melodic-school",
+        "tm_pub_key": "LxwD1QNyDo5PiwhlnBZmSX08E4zI/UQlN098imwo0k0=",
+        "vega_pub_key": "312da2c445ae22daefe49d6ddab6f0dac0a9afcccf96867e32ef63c0f8605a97",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "kiyq3NSF1y/smZP4ZI2TTSyHoC4y3f4QIaq5GBqv1tA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/xcyijfp33px3zi0qz59jucd6lrc9vrdk?d=identicon",
-        "country": "VA",
-        "ethereum_address": "0xA8F1E0Bb824432d05FBf5b458CAb33F1E5703995",
-        "id": "64b5deb39ecf5047629d7231ab90afebdd5594d11cc23df5af8bd0d7d41c0423",
-        "info_url": "https://en.wikipedia.org/wiki/2019%E2%80%9320_Gabala_FC_season",
-        "name": "salmon-pond",
-        "tm_pub_key": "kiyq3NSF1y/smZP4ZI2TTSyHoC4y3f4QIaq5GBqv1tA=",
-        "vega_pub_key": "25da9d16f3cd0dd2bbe75c44dd5c9609c3874201bc69a4ed106dbf297e6507c4",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202312061537",
+  "chain_id": "vega-devnet1-202312061640",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-06T15:37:23.124452852Z",
+  "genesis_time": "2023-12-06T16:40:48.193596029Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "90FFB55D058956C0411E9498FE92130E2DDCDB8C",
-      "name": "salmon-pond",
+      "address": "C603E9CF3968399464182CC6FE2FD295E99B3B82",
+      "name": "melodic-school",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "kiyq3NSF1y/smZP4ZI2TTSyHoC4y3f4QIaq5GBqv1tA="
+        "value": "LxwD1QNyDo5PiwhlnBZmSX08E4zI/UQlN098imwo0k0="
       }
     }
   ]
