@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "QntT8neb8Z1m1Is6dKXGolZAraa7zsOJo3pokdsq6xw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/l72fcyh5nzh68our2exkvqzf359risuo?d=identicon",
-        "country": "BW",
-        "ethereum_address": "0x8051b54fbFFA2f95487e4007C6b3FF392b5acb3B",
-        "id": "16859e0474a982b3b7d36c97353ecec0caea03b3c6598fdf29e7757584715681",
-        "info_url": "https://en.wikipedia.org/wiki/Leigh_Hackspace",
-        "name": "vast-barber",
-        "tm_pub_key": "QntT8neb8Z1m1Is6dKXGolZAraa7zsOJo3pokdsq6xw=",
-        "vega_pub_key": "1da4242cb32682dfb825007af18d8bff48f8d07ea2d88c353a7cc25eea8943ee",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "ZCCcEspOLCM8qCKF1jeibhBMqw/4ihsT1snbZIud/d0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ds4pd0hpsybmt631g1b8r1aglqxmwjo3?d=identicon",
+        "country": "HD",
+        "ethereum_address": "0xb85683192323e0d12a00B98Af69829F5bD814F65",
+        "id": "4a83959c2fa31f0ac85d25ff407633d7267ded74fed51440a4f1c96dae3d4f6b",
+        "info_url": "https://en.wikipedia.org/wiki/National_Assembly_(Tanzania)",
+        "name": "quizzical-burger",
+        "tm_pub_key": "ZCCcEspOLCM8qCKF1jeibhBMqw/4ihsT1snbZIud/d0=",
+        "vega_pub_key": "f1572e6958a0cbe2d96795848fbfe6d39039d5ceb4be58e60fb53985ffbba087",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202312061726",
+  "chain_id": "vega-devnet1-202312062004",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-06T17:26:06.851688638Z",
+  "genesis_time": "2023-12-06T20:04:24.204775074Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "6292BD78608A4C46EB317C4F18A244BC65F66903",
-      "name": "vast-barber",
+      "address": "33471BF32C0F484502C448205CA0403594E7CB77",
+      "name": "quizzical-burger",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "QntT8neb8Z1m1Is6dKXGolZAraa7zsOJo3pokdsq6xw="
+        "value": "ZCCcEspOLCM8qCKF1jeibhBMqw/4ihsT1snbZIud/d0="
       }
     }
   ]
