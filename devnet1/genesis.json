@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "nNBIXorO9LYKaDYxmZXo3uspJZo95sbJEyViRZNFRUM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/nuakvebx2522oqdqrkyi5mzhdz010t7c?d=identicon",
-        "country": "PS",
-        "ethereum_address": "0x5e16E5e84584662630E3427eca00b7B4d4554CcB",
-        "id": "db8d60f39b7e7801b7a8162176ada810b5c2f1300b3c723e170aba57b56be161",
-        "info_url": "https://en.wikipedia.org/wiki/Glow_(The_Innocence_Mission_album)",
-        "name": "quiet-train",
-        "tm_pub_key": "nNBIXorO9LYKaDYxmZXo3uspJZo95sbJEyViRZNFRUM=",
-        "vega_pub_key": "d755fff44969f8f659ad433132d747d2dadc2da3b8888b00338a638d20c5b918",
+      "t56yGUva1dli5PKhaFCSr/Xtg2WTMbwdWufpczsSbKA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/x7z5u73fmy4sydl4j1emrr0p91xtva7e?d=identicon",
+        "country": "AE",
+        "ethereum_address": "0x140D03D4f4dF5C23C2086a92C34F93d7eB0573da",
+        "id": "0d28b37db183fa779c83ffc1ce794083fc6e86ac9dbc107bdf480b16d9d48517",
+        "info_url": "https://en.wikipedia.org/wiki/Tony_McLoughlin",
+        "name": "red-coffee",
+        "tm_pub_key": "t56yGUva1dli5PKhaFCSr/Xtg2WTMbwdWufpczsSbKA=",
+        "vega_pub_key": "da00191ea381f3095d1bb502fafc53ed777abceef54843872ff0d8641b025261",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202312051824",
+  "chain_id": "vega-devnet1-202312061133",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-05T18:24:28.387747785Z",
+  "genesis_time": "2023-12-06T11:33:25.158827187Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "2EF31F15619FB7F6538659F4DDD2C9C0A3E6A72B",
-      "name": "quiet-train",
+      "address": "EBE499AD7BCCAD52DB43F849956F4FFD49A8CD61",
+      "name": "red-coffee",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "nNBIXorO9LYKaDYxmZXo3uspJZo95sbJEyViRZNFRUM="
+        "value": "t56yGUva1dli5PKhaFCSr/Xtg2WTMbwdWufpczsSbKA="
       }
     }
   ]
