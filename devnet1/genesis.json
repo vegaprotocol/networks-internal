@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "ZCCcEspOLCM8qCKF1jeibhBMqw/4ihsT1snbZIud/d0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ds4pd0hpsybmt631g1b8r1aglqxmwjo3?d=identicon",
-        "country": "HD",
-        "ethereum_address": "0xb85683192323e0d12a00B98Af69829F5bD814F65",
-        "id": "4a83959c2fa31f0ac85d25ff407633d7267ded74fed51440a4f1c96dae3d4f6b",
-        "info_url": "https://en.wikipedia.org/wiki/National_Assembly_(Tanzania)",
-        "name": "quizzical-burger",
-        "tm_pub_key": "ZCCcEspOLCM8qCKF1jeibhBMqw/4ihsT1snbZIud/d0=",
-        "vega_pub_key": "f1572e6958a0cbe2d96795848fbfe6d39039d5ceb4be58e60fb53985ffbba087",
+      "clCV5ICzZtOjfamV2ytnZ6QtOJDVX6LL4r9GTPgTFvc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/kfni09rmdwjmix1mpdge4xmbze2f9j6a?d=identicon",
+        "country": "KZ",
+        "ethereum_address": "0x9D65eAb5A69dB64e4A8b96fD4A780A0A3341D92D",
+        "id": "2251e029f77d6990e556bd96f1d7987d7b4b8121ab568d481d781e7c9d7a191c",
+        "info_url": "https://en.wikipedia.org/wiki/Contemporary_ethics",
+        "name": "orange-pickle",
+        "tm_pub_key": "clCV5ICzZtOjfamV2ytnZ6QtOJDVX6LL4r9GTPgTFvc=",
+        "vega_pub_key": "5af6c4d0fb2e736d9cca3aa9f709525b28355cd5519e7d740fd113c3d50bd3a4",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202312062032",
+  "chain_id": "vega-devnet1-202312071830",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-06T20:32:17.521339745Z",
+  "genesis_time": "2023-12-07T18:30:15.669594616Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "33471BF32C0F484502C448205CA0403594E7CB77",
-      "name": "quizzical-burger",
+      "address": "F9C1E54F29B76EAF8F0C7103EF652F186421B4BE",
+      "name": "orange-pickle",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ZCCcEspOLCM8qCKF1jeibhBMqw/4ihsT1snbZIud/d0="
+        "value": "clCV5ICzZtOjfamV2ytnZ6QtOJDVX6LL4r9GTPgTFvc="
       }
     }
   ]
