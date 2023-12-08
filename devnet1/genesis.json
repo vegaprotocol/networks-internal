@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "DV8xpeF0C4yZTOWeHi/exqv4jctJwb7Xa7/rZQFVz9E=": {
+        "avatar_url": "https://www.gravatar.com/avatar/1aygsoorzmfqqwmx7ilv3huhi7249hgh?d=identicon",
+        "country": "DQ",
+        "ethereum_address": "0x534D5cF02b201114A368d8cB6De0A5613DD4059e",
+        "id": "12f864e2b28fbb037408ad997571fe4bf220ba1711fb6b685798f1dbd30920ce",
+        "info_url": "https://en.wikipedia.org/wiki/2021_Southeast_Missouri_State_Redhawks_football_team",
+        "name": "dizzy-barber",
+        "tm_pub_key": "DV8xpeF0C4yZTOWeHi/exqv4jctJwb7Xa7/rZQFVz9E=",
+        "vega_pub_key": "befed82eedc4f34f13dfdff6b804085b18475e6731ae223db4ba2ffe7ea84c23",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "clCV5ICzZtOjfamV2ytnZ6QtOJDVX6LL4r9GTPgTFvc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/kfni09rmdwjmix1mpdge4xmbze2f9j6a?d=identicon",
-        "country": "KZ",
-        "ethereum_address": "0x9D65eAb5A69dB64e4A8b96fD4A780A0A3341D92D",
-        "id": "2251e029f77d6990e556bd96f1d7987d7b4b8121ab568d481d781e7c9d7a191c",
-        "info_url": "https://en.wikipedia.org/wiki/Contemporary_ethics",
-        "name": "orange-pickle",
-        "tm_pub_key": "clCV5ICzZtOjfamV2ytnZ6QtOJDVX6LL4r9GTPgTFvc=",
-        "vega_pub_key": "5af6c4d0fb2e736d9cca3aa9f709525b28355cd5519e7d740fd113c3d50bd3a4",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202312071830",
+  "chain_id": "vega-devnet1-202312081100",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-07T18:30:15.669594616Z",
+  "genesis_time": "2023-12-08T11:00:00.418000301Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "F9C1E54F29B76EAF8F0C7103EF652F186421B4BE",
-      "name": "orange-pickle",
+      "address": "B7348E43A092C37434C10E711FBA19D97A122F1D",
+      "name": "dizzy-barber",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "clCV5ICzZtOjfamV2ytnZ6QtOJDVX6LL4r9GTPgTFvc="
+        "value": "DV8xpeF0C4yZTOWeHi/exqv4jctJwb7Xa7/rZQFVz9E="
       }
     }
   ]
