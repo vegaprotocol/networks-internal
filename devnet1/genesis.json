@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "DV8xpeF0C4yZTOWeHi/exqv4jctJwb7Xa7/rZQFVz9E=": {
-        "avatar_url": "https://www.gravatar.com/avatar/1aygsoorzmfqqwmx7ilv3huhi7249hgh?d=identicon",
-        "country": "DQ",
-        "ethereum_address": "0x534D5cF02b201114A368d8cB6De0A5613DD4059e",
-        "id": "12f864e2b28fbb037408ad997571fe4bf220ba1711fb6b685798f1dbd30920ce",
-        "info_url": "https://en.wikipedia.org/wiki/2021_Southeast_Missouri_State_Redhawks_football_team",
-        "name": "dizzy-barber",
-        "tm_pub_key": "DV8xpeF0C4yZTOWeHi/exqv4jctJwb7Xa7/rZQFVz9E=",
-        "vega_pub_key": "befed82eedc4f34f13dfdff6b804085b18475e6731ae223db4ba2ffe7ea84c23",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "n3lqajBJ+K0wleAPB8v9CGvv9H2CM/8y+DINT1bSu1w=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ia5493wxa6z105vr6kcq2hlkyc63lpnu?d=identicon",
+        "country": "CG",
+        "ethereum_address": "0x4C411c3072b267162276aC814e5D07f365c5Cf1a",
+        "id": "70b722190b2765fbabb1b1bc146e86aa59e92ed6fb287b97f0c306feea863cb7",
+        "info_url": "https://en.wikipedia.org/wiki/List_of_The_New_York_Times_number-one_books_of_1963",
+        "name": "alert-dog",
+        "tm_pub_key": "n3lqajBJ+K0wleAPB8v9CGvv9H2CM/8y+DINT1bSu1w=",
+        "vega_pub_key": "952bd898ccad7e3e514b0845efd5997c8e00532f8482a215a6a26c1043d519d0",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202312081100",
+  "chain_id": "vega-devnet1-202312081431",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-08T11:00:00.418000301Z",
+  "genesis_time": "2023-12-08T14:31:46.985717606Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "B7348E43A092C37434C10E711FBA19D97A122F1D",
-      "name": "dizzy-barber",
+      "address": "B482B937E5DEACEA75D8D716A1635AEAE82EE6A0",
+      "name": "alert-dog",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "DV8xpeF0C4yZTOWeHi/exqv4jctJwb7Xa7/rZQFVz9E="
+        "value": "n3lqajBJ+K0wleAPB8v9CGvv9H2CM/8y+DINT1bSu1w="
       }
     }
   ]
