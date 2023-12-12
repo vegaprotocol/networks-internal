@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "DiLmNSasacBNbsCR0lIFTLNfyWPZ405hMY1yH18TYu0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/jnhsy44npqlca3u6fknj3gdognjqajns?d=identicon",
-        "country": "GQ",
-        "ethereum_address": "0xF24016929150B98Cece7a6506a8b1C3354AD5602",
-        "id": "8297e7efed9558ced39951fcb761791dbf66a5f162e0f00f906e36c22022839f",
-        "info_url": "https://en.wikipedia.org/wiki/Mkuze",
-        "name": "impressionable-table",
-        "tm_pub_key": "DiLmNSasacBNbsCR0lIFTLNfyWPZ405hMY1yH18TYu0=",
-        "vega_pub_key": "70f9020ffb1681d2ba4d28f613c57b3257f53328b0c7a80886929a5b1ea0c593",
+      "TlIbrfo0Hr+oIteC0nw8UoO5zJGc9mvblONY/LKo4Cs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/6my7imbxalywsl1lcgijrr6nagamtsrp?d=identicon",
+        "country": "ZK",
+        "ethereum_address": "0x541418DcE4bf85DEEbBd840e06a26758e3437546",
+        "id": "9bfac3b31458085690b0988151806fd7c71eb0575af5cfefba77db573b0a4f9b",
+        "info_url": "https://en.wikipedia.org/wiki/Shemini_Atzeret",
+        "name": "unsightly-dress",
+        "tm_pub_key": "TlIbrfo0Hr+oIteC0nw8UoO5zJGc9mvblONY/LKo4Cs=",
+        "vega_pub_key": "76ed8943ce3b481d794d1045b338e90ad8248984ecef91583a3af7365519baca",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202312111613",
+  "chain_id": "vega-devnet1-202312121401",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-11T16:13:12.873658464Z",
+  "genesis_time": "2023-12-12T14:01:57.567901849Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "ADAB6D6B52E289FCCF3F0BF8A9D9000556EB3429",
-      "name": "impressionable-table",
+      "address": "37BAF8A35A62FBC309063D178F452DFC003A0013",
+      "name": "unsightly-dress",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "DiLmNSasacBNbsCR0lIFTLNfyWPZ405hMY1yH18TYu0="
+        "value": "TlIbrfo0Hr+oIteC0nw8UoO5zJGc9mvblONY/LKo4Cs="
       }
     }
   ]
