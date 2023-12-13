@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "TlIbrfo0Hr+oIteC0nw8UoO5zJGc9mvblONY/LKo4Cs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/6my7imbxalywsl1lcgijrr6nagamtsrp?d=identicon",
-        "country": "ZK",
-        "ethereum_address": "0x541418DcE4bf85DEEbBd840e06a26758e3437546",
-        "id": "9bfac3b31458085690b0988151806fd7c71eb0575af5cfefba77db573b0a4f9b",
-        "info_url": "https://en.wikipedia.org/wiki/Shemini_Atzeret",
-        "name": "unsightly-dress",
-        "tm_pub_key": "TlIbrfo0Hr+oIteC0nw8UoO5zJGc9mvblONY/LKo4Cs=",
-        "vega_pub_key": "76ed8943ce3b481d794d1045b338e90ad8248984ecef91583a3af7365519baca",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "gF92n/y1RDEj/e2LPZoqf6jSyQ9Hfg52abLafLfwRs8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/i75571u7hu0tnnenbrvn7mnzhm97c6oh?d=identicon",
+        "country": "VB",
+        "ethereum_address": "0x6f3427aE7C8A5Bf6A4Fc12c7Fa9F5f540965b7A2",
+        "id": "0bdb70539c497f4a8f855e41c38cc76f88503727fb1dd95c7fb46784e00d6662",
+        "info_url": "https://en.wikipedia.org/wiki/CBI_(AM)",
+        "name": "lovely-chimney",
+        "tm_pub_key": "gF92n/y1RDEj/e2LPZoqf6jSyQ9Hfg52abLafLfwRs8=",
+        "vega_pub_key": "d2e27aa6b7d0b2951d1da83c9b44512724745ace8a6f4ee5a8264468b622b5ce",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202312121401",
+  "chain_id": "vega-devnet1-202312131213",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-12T14:01:57.567901849Z",
+  "genesis_time": "2023-12-13T12:13:34.839181365Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "37BAF8A35A62FBC309063D178F452DFC003A0013",
-      "name": "unsightly-dress",
+      "address": "0AA84A6090907556A54A1080D824AD8283CF04C2",
+      "name": "lovely-chimney",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "TlIbrfo0Hr+oIteC0nw8UoO5zJGc9mvblONY/LKo4Cs="
+        "value": "gF92n/y1RDEj/e2LPZoqf6jSyQ9Hfg52abLafLfwRs8="
       }
     }
   ]
