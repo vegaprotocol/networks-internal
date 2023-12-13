@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "gF92n/y1RDEj/e2LPZoqf6jSyQ9Hfg52abLafLfwRs8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/i75571u7hu0tnnenbrvn7mnzhm97c6oh?d=identicon",
-        "country": "VB",
-        "ethereum_address": "0x6f3427aE7C8A5Bf6A4Fc12c7Fa9F5f540965b7A2",
-        "id": "0bdb70539c497f4a8f855e41c38cc76f88503727fb1dd95c7fb46784e00d6662",
-        "info_url": "https://en.wikipedia.org/wiki/CBI_(AM)",
-        "name": "lovely-chimney",
-        "tm_pub_key": "gF92n/y1RDEj/e2LPZoqf6jSyQ9Hfg52abLafLfwRs8=",
-        "vega_pub_key": "d2e27aa6b7d0b2951d1da83c9b44512724745ace8a6f4ee5a8264468b622b5ce",
+      "VzqhmemuwtDlYxZKerCGMxyy/Z6f7D1Z83gIjQVHXXo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/90clpdkj5p6az8rqeqy1rl7yj54c8hpo?d=identicon",
+        "country": "XP",
+        "ethereum_address": "0x2ebF206c948a95fDdd8530dE8cfdB82Af28D2882",
+        "id": "8b5538beda28e43a0e0626c9b23bb82fd8d259a07fc830c2f44a3bb387a7ff03",
+        "info_url": "https://en.wikipedia.org/wiki/Ernst_Diehl",
+        "name": "perfect-butterfly",
+        "tm_pub_key": "VzqhmemuwtDlYxZKerCGMxyy/Z6f7D1Z83gIjQVHXXo=",
+        "vega_pub_key": "3c1bf66897de3ba441745c3b6096ee5eb48962055e1b9ef4b3af76710e5d2db9",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202312131213",
+  "chain_id": "vega-devnet1-202312131715",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-13T12:13:34.839181365Z",
+  "genesis_time": "2023-12-13T17:15:06.957530225Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "0AA84A6090907556A54A1080D824AD8283CF04C2",
-      "name": "lovely-chimney",
+      "address": "45ACFD1C97B167213FA9B79B78D4D0D4BF223602",
+      "name": "perfect-butterfly",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "gF92n/y1RDEj/e2LPZoqf6jSyQ9Hfg52abLafLfwRs8="
+        "value": "VzqhmemuwtDlYxZKerCGMxyy/Z6f7D1Z83gIjQVHXXo="
       }
     }
   ]
