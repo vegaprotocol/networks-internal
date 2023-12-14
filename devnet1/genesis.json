@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "HM9A2lUoBAl4mAq36kDlWSYpT5PE96QvKGPzXKxzOhg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/f47klkdv5ft7qlksd194sb7r2ri7qgfo?d=identicon",
+        "country": "YQ",
+        "ethereum_address": "0x199383922f42B567876d051230782aC617B0897d",
+        "id": "6f61b117c1d72791d495667f7262a906f4d5121cc8cfe753d4120b9e5887aad2",
+        "info_url": "https://en.wikipedia.org/wiki/Carbonear-Trinity-Bay_de_Verde",
+        "name": "happy-window",
+        "tm_pub_key": "HM9A2lUoBAl4mAq36kDlWSYpT5PE96QvKGPzXKxzOhg=",
+        "vega_pub_key": "c122fd930d49d38471fc576f18d3a00b997757d7a97c73693b7db0b030616126",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -313,21 +324,10 @@
         "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
-      },
-      "wJyFvaRKu0gzppX0RgQr7d+7Xdui2v1yR8hc3w/7Sdk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/firlclb8eeuvorphk2dllkfbsvomwncy?d=identicon",
-        "country": "AD",
-        "ethereum_address": "0x436a70BeA0d605461ce4a0f2cbfd391ab0b09681",
-        "id": "9831e691fe75cf9c673de11a932e7dc08ecda94f98c1c6d8ade33bcbae25adab",
-        "info_url": "https://en.wikipedia.org/wiki/Music_of_Auvergne",
-        "name": "brave-road",
-        "tm_pub_key": "wJyFvaRKu0gzppX0RgQr7d+7Xdui2v1yR8hc3w/7Sdk=",
-        "vega_pub_key": "080d205d94e071a8752d3d1c4346e85b8d87fda55040241207a0b15bb0e2fe1b",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202312141507",
+  "chain_id": "vega-devnet1-202312141658",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-14T15:07:37.327436833Z",
+  "genesis_time": "2023-12-14T16:58:50.007967912Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "35793B82064B3AD1D5140E826CC2E35726C89D1D",
-      "name": "brave-road",
+      "address": "A335C1ED416A0082B343E0B4703FF6896E68CE67",
+      "name": "happy-window",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "wJyFvaRKu0gzppX0RgQr7d+7Xdui2v1yR8hc3w/7Sdk="
+        "value": "HM9A2lUoBAl4mAq36kDlWSYpT5PE96QvKGPzXKxzOhg="
       }
     }
   ]
