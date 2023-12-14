@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "VzqhmemuwtDlYxZKerCGMxyy/Z6f7D1Z83gIjQVHXXo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/90clpdkj5p6az8rqeqy1rl7yj54c8hpo?d=identicon",
-        "country": "XP",
-        "ethereum_address": "0x2ebF206c948a95fDdd8530dE8cfdB82Af28D2882",
-        "id": "8b5538beda28e43a0e0626c9b23bb82fd8d259a07fc830c2f44a3bb387a7ff03",
-        "info_url": "https://en.wikipedia.org/wiki/Ernst_Diehl",
-        "name": "perfect-butterfly",
-        "tm_pub_key": "VzqhmemuwtDlYxZKerCGMxyy/Z6f7D1Z83gIjQVHXXo=",
-        "vega_pub_key": "3c1bf66897de3ba441745c3b6096ee5eb48962055e1b9ef4b3af76710e5d2db9",
+      "a/ShMRCMz3+6fezzQbk9Z+RqzdwZqWbpAwki5EgLci0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ucgujemvqpvyer7af6uipokuq6q01jk4?d=identicon",
+        "country": "XY",
+        "ethereum_address": "0x3BE31f1b6Fac5bF8c9beFD5120489A0F0f2df7E8",
+        "id": "2b84720fb69a4a011800603a87704ab0796f568c4fbf944e21946c3982720a53",
+        "info_url": "https://en.wikipedia.org/wiki/2021%E2%80%9322_Brooklyn_Nets_season",
+        "name": "better-river",
+        "tm_pub_key": "a/ShMRCMz3+6fezzQbk9Z+RqzdwZqWbpAwki5EgLci0=",
+        "vega_pub_key": "8f9c3682bc6915c77a904b4e97391ae8a3f8f417c5e312d5f19c41423fd9ecc0",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202312131715",
+  "chain_id": "vega-devnet1-202312141127",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-13T17:15:06.957530225Z",
+  "genesis_time": "2023-12-14T11:27:59.335376707Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "45ACFD1C97B167213FA9B79B78D4D0D4BF223602",
-      "name": "perfect-butterfly",
+      "address": "AF196E9E177F8195F97311F69E2C6596A98FD19F",
+      "name": "better-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "VzqhmemuwtDlYxZKerCGMxyy/Z6f7D1Z83gIjQVHXXo="
+        "value": "a/ShMRCMz3+6fezzQbk9Z+RqzdwZqWbpAwki5EgLci0="
       }
     }
   ]
