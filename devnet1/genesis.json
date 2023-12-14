@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "HM9A2lUoBAl4mAq36kDlWSYpT5PE96QvKGPzXKxzOhg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/f47klkdv5ft7qlksd194sb7r2ri7qgfo?d=identicon",
-        "country": "YQ",
-        "ethereum_address": "0x199383922f42B567876d051230782aC617B0897d",
-        "id": "6f61b117c1d72791d495667f7262a906f4d5121cc8cfe753d4120b9e5887aad2",
-        "info_url": "https://en.wikipedia.org/wiki/Carbonear-Trinity-Bay_de_Verde",
-        "name": "happy-window",
-        "tm_pub_key": "HM9A2lUoBAl4mAq36kDlWSYpT5PE96QvKGPzXKxzOhg=",
-        "vega_pub_key": "c122fd930d49d38471fc576f18d3a00b997757d7a97c73693b7db0b030616126",
+      "HmP9rIEzMskAHzY3/EzbXzDnVkgkmJ3/GnhGIcWFVZE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/wkstaz3qz3dzs9uea3pxb4c91i783pqy?d=identicon",
+        "country": "NL",
+        "ethereum_address": "0x67b4a110c85D8770C508A669a0Ac2Fd9d58A6e7c",
+        "id": "9c325ef32674317365e4aa107cdf88c4289aa6b0e73c15f87689cb8da9f29d8e",
+        "info_url": "https://en.wikipedia.org/wiki/1999%E2%80%932000_Ipswich_Town_F.C._season",
+        "name": "irate-tree",
+        "tm_pub_key": "HmP9rIEzMskAHzY3/EzbXzDnVkgkmJ3/GnhGIcWFVZE=",
+        "vega_pub_key": "6956c1029c3bd455dd0ee693d0277c5967efc3e00bf37925afc9d20bbe00471e",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202312141658",
+  "chain_id": "vega-devnet1-202312141835",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-14T16:58:50.007967912Z",
+  "genesis_time": "2023-12-14T18:35:46.622568615Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "A335C1ED416A0082B343E0B4703FF6896E68CE67",
-      "name": "happy-window",
+      "address": "2E9B98B22720DB8C44DECA1399C76F9B92267DF8",
+      "name": "irate-tree",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "HM9A2lUoBAl4mAq36kDlWSYpT5PE96QvKGPzXKxzOhg="
+        "value": "HmP9rIEzMskAHzY3/EzbXzDnVkgkmJ3/GnhGIcWFVZE="
       }
     }
   ]
