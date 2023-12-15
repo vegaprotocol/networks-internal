@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "HmP9rIEzMskAHzY3/EzbXzDnVkgkmJ3/GnhGIcWFVZE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/wkstaz3qz3dzs9uea3pxb4c91i783pqy?d=identicon",
-        "country": "NL",
-        "ethereum_address": "0x67b4a110c85D8770C508A669a0Ac2Fd9d58A6e7c",
-        "id": "9c325ef32674317365e4aa107cdf88c4289aa6b0e73c15f87689cb8da9f29d8e",
-        "info_url": "https://en.wikipedia.org/wiki/1999%E2%80%932000_Ipswich_Town_F.C._season",
-        "name": "irate-tree",
-        "tm_pub_key": "HmP9rIEzMskAHzY3/EzbXzDnVkgkmJ3/GnhGIcWFVZE=",
-        "vega_pub_key": "6956c1029c3bd455dd0ee693d0277c5967efc3e00bf37925afc9d20bbe00471e",
+      "BVcNgCoW94M7SGBLCVyp4y6wIAMX8sjnldxKF4aax8A=": {
+        "avatar_url": "https://www.gravatar.com/avatar/8qlqmozye6izdrj9d2s0nskisfu2k64t?d=identicon",
+        "country": "QD",
+        "ethereum_address": "0x7D9080f734A68AF12eBEd830D2704CfFD71fB2D3",
+        "id": "016b431a523104fb4cea3355fff049d552d42f1548f66dcce0ac9219e6eb2930",
+        "info_url": "https://en.wikipedia.org/wiki/1636:_Commander_Cantrell_in_the_West_Indies",
+        "name": "costly-week",
+        "tm_pub_key": "BVcNgCoW94M7SGBLCVyp4y6wIAMX8sjnldxKF4aax8A=",
+        "vega_pub_key": "095855363ab45f2c97e0d5b51aac9d7f525ca51f5cedf35ef6923332e5450d3e",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202312141835",
+  "chain_id": "vega-devnet1-202312151055",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-14T18:35:46.622568615Z",
+  "genesis_time": "2023-12-15T10:55:06.831686871Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "2E9B98B22720DB8C44DECA1399C76F9B92267DF8",
-      "name": "irate-tree",
+      "address": "BC73B8B4F1B30C246ABFBE3830E62E3A0C0C00A8",
+      "name": "costly-week",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "HmP9rIEzMskAHzY3/EzbXzDnVkgkmJ3/GnhGIcWFVZE="
+        "value": "BVcNgCoW94M7SGBLCVyp4y6wIAMX8sjnldxKF4aax8A="
       }
     }
   ]
