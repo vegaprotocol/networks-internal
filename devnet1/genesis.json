@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "Py6nux4TzK6Ho8gXa7Z/M2APVL5hZejRZihnFaQAOsE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/7x2u1rotgbz35wsfzy5lvocozx5a1gs7?d=identicon",
+        "country": "VB",
+        "ethereum_address": "0xA3F40bCa192852869E72e46915C425915293f45f",
+        "id": "f5a6d9b5b0158b5113d890c6ac5bb379dad9376af0f7792b5069f528ab5279cc",
+        "info_url": "https://en.wikipedia.org/wiki/Taekwondo_at_the_2014_Asian_Games_%E2%80%93_Men%27s_80_kg",
+        "name": "rich-doctor",
+        "tm_pub_key": "Py6nux4TzK6Ho8gXa7Z/M2APVL5hZejRZihnFaQAOsE=",
+        "vega_pub_key": "08ab328415d8ce24ed7a6a4715461b2082408a6d7f7d19aab87ded257402de2b",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "ZqE8qHoOsdhHJICVCDFFBUhaPPf0iroar9Ph7p96bWo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/1eg6vj657ykrscrkqszo1uv8kjpkfada?d=identicon",
-        "country": "QF",
-        "ethereum_address": "0x12D8dD2A09E73Ca0765385D0B6007075B21F2A2a",
-        "id": "8640e307b9e99c86a3643fb0ceb26953c868129232fbe924cb72f978b27580b4",
-        "info_url": "https://en.wikipedia.org/wiki/Granthi",
-        "name": "courageous-day",
-        "tm_pub_key": "ZqE8qHoOsdhHJICVCDFFBUhaPPf0iroar9Ph7p96bWo=",
-        "vega_pub_key": "7160956ed8b27dfd174b1373a5ab51df5ea1fb9ae83b1c404b88de8afae8f067",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202312171543",
+  "chain_id": "vega-devnet1-202312171816",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-17T15:43:54.383947773Z",
+  "genesis_time": "2023-12-17T18:16:59.542669981Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "56E5A47FD8D74047B5EF7299D7012CE6239ECF1A",
-      "name": "courageous-day",
+      "address": "72143F1055E9FD8DF0075D2B939B9F7DFB6DF1AC",
+      "name": "rich-doctor",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ZqE8qHoOsdhHJICVCDFFBUhaPPf0iroar9Ph7p96bWo="
+        "value": "Py6nux4TzK6Ho8gXa7Z/M2APVL5hZejRZihnFaQAOsE="
       }
     }
   ]
