@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "BVcNgCoW94M7SGBLCVyp4y6wIAMX8sjnldxKF4aax8A=": {
-        "avatar_url": "https://www.gravatar.com/avatar/8qlqmozye6izdrj9d2s0nskisfu2k64t?d=identicon",
-        "country": "QD",
-        "ethereum_address": "0x7D9080f734A68AF12eBEd830D2704CfFD71fB2D3",
-        "id": "016b431a523104fb4cea3355fff049d552d42f1548f66dcce0ac9219e6eb2930",
-        "info_url": "https://en.wikipedia.org/wiki/1636:_Commander_Cantrell_in_the_West_Indies",
-        "name": "costly-week",
-        "tm_pub_key": "BVcNgCoW94M7SGBLCVyp4y6wIAMX8sjnldxKF4aax8A=",
-        "vega_pub_key": "095855363ab45f2c97e0d5b51aac9d7f525ca51f5cedf35ef6923332e5450d3e",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "ZqE8qHoOsdhHJICVCDFFBUhaPPf0iroar9Ph7p96bWo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/1eg6vj657ykrscrkqszo1uv8kjpkfada?d=identicon",
+        "country": "QF",
+        "ethereum_address": "0x12D8dD2A09E73Ca0765385D0B6007075B21F2A2a",
+        "id": "8640e307b9e99c86a3643fb0ceb26953c868129232fbe924cb72f978b27580b4",
+        "info_url": "https://en.wikipedia.org/wiki/Granthi",
+        "name": "courageous-day",
+        "tm_pub_key": "ZqE8qHoOsdhHJICVCDFFBUhaPPf0iroar9Ph7p96bWo=",
+        "vega_pub_key": "7160956ed8b27dfd174b1373a5ab51df5ea1fb9ae83b1c404b88de8afae8f067",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202312151131",
+  "chain_id": "vega-devnet1-202312171543",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-15T11:31:44.611776913Z",
+  "genesis_time": "2023-12-17T15:43:54.383947773Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "BC73B8B4F1B30C246ABFBE3830E62E3A0C0C00A8",
-      "name": "costly-week",
+      "address": "56E5A47FD8D74047B5EF7299D7012CE6239ECF1A",
+      "name": "courageous-day",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "BVcNgCoW94M7SGBLCVyp4y6wIAMX8sjnldxKF4aax8A="
+        "value": "ZqE8qHoOsdhHJICVCDFFBUhaPPf0iroar9Ph7p96bWo="
       }
     }
   ]
