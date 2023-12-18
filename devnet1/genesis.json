@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "BU93cS+4IlZPplvwT7TzNuEOi05dwdZ8A1a4m/FtP8Y=": {
+        "avatar_url": "https://www.gravatar.com/avatar/i3ad6d3tkchhy5bzczsva60sj8gdzpkz?d=identicon",
+        "country": "IV",
+        "ethereum_address": "0x69d5a3d0647786cd06584a5395A4874f28ff6E2b",
+        "id": "ea7d4b5117356088f8a398abf5b46608b72db243c88eac63d7792a085f225474",
+        "info_url": "https://en.wikipedia.org/wiki/Brachylia_nussi",
+        "name": "bright-dress",
+        "tm_pub_key": "BU93cS+4IlZPplvwT7TzNuEOi05dwdZ8A1a4m/FtP8Y=",
+        "vega_pub_key": "deda9e052dc79f39f4fa86f31ffe313c56d9597344310d51023ca5a4d1489e60",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "t0Uq9H3lbYhKYMCiWrqB2FmYOtVR7Y0mk3yGDpI17FM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/qnvkix1lpmq2oydggfh5q57jpv0ozhgz?d=identicon",
-        "country": "MS",
-        "ethereum_address": "0x121Ae722824D1D2b3ede9E9d16eCFaC5126A5195",
-        "id": "244ae91bbf4d9d3d29450969155eef85d4554796e290cb954feb0078f66f858a",
-        "info_url": "https://en.wikipedia.org/wiki/David_Ramsay_Steele",
-        "name": "immense-farmer",
-        "tm_pub_key": "t0Uq9H3lbYhKYMCiWrqB2FmYOtVR7Y0mk3yGDpI17FM=",
-        "vega_pub_key": "f644e135db4939e2c815775c67f430c268ff9d13da4f284b9f8b017dd4acad54",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202312180919",
+  "chain_id": "vega-devnet1-202312181207",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-18T09:19:16.3988788Z",
+  "genesis_time": "2023-12-18T12:07:29.242705874Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "C3344FDDC6D62EAFC3F246B59F38F083EA92FD73",
-      "name": "immense-farmer",
+      "address": "91E48EC1AFAB85406E9EAED9BBE380E872BDA86A",
+      "name": "bright-dress",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "t0Uq9H3lbYhKYMCiWrqB2FmYOtVR7Y0mk3yGDpI17FM="
+        "value": "BU93cS+4IlZPplvwT7TzNuEOi05dwdZ8A1a4m/FtP8Y="
       }
     }
   ]
