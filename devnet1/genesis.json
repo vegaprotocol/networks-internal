@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "ExjuWYPGcClwRSxYdKkIzWGZTjMlgLqRW9ngH/8N7AA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/wnlu75u2u7eg1o1yqowojq8whbo62y3b?d=identicon",
-        "country": "DG",
-        "ethereum_address": "0x1f00Ee827681C5B1D4559afbe70A7F960D531978",
-        "id": "412a54bea6f0006f239cbe60c7556bd5f0696d35a5de4eba4d7bfca0a84b585b",
-        "info_url": "https://en.wikipedia.org/wiki/Michael_Noonan_(filmmaker)",
-        "name": "adorable-country",
-        "tm_pub_key": "ExjuWYPGcClwRSxYdKkIzWGZTjMlgLqRW9ngH/8N7AA=",
-        "vega_pub_key": "2f34fa825d24712865b25cc334a8ddda6764060e8cd9d53862fd91c87d103074",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "qjtTXyu+dW1RscLoMZF6JyTqCkTVZz0BTbIuVfdu26g=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ofy3k5wlj3ihcl3z2iasl7j9popzydeg?d=identicon",
+        "country": "KL",
+        "ethereum_address": "0x29eB83b4eBAFcb85a122b930C99FA5258701dbC2",
+        "id": "c93d5d8c02a11d64aef58fbd124b964ba32077023e4f1f71d26884c268b9b9ab",
+        "info_url": "https://en.wikipedia.org/wiki/WLBW",
+        "name": "distressed-monkey",
+        "tm_pub_key": "qjtTXyu+dW1RscLoMZF6JyTqCkTVZz0BTbIuVfdu26g=",
+        "vega_pub_key": "c25743a992943485dfd21d9952122f6b7a97c623b988633af3a46e1e6b80e46e",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202312201432",
+  "chain_id": "vega-devnet1-202312201520",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-20T14:32:05.595422844Z",
+  "genesis_time": "2023-12-20T15:20:38.315911836Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "631EAAA83BA154D9CE0715B0AB97426B6F2C44C9",
-      "name": "adorable-country",
+      "address": "0884357BAF70F7893A5C68D56E5F64EA6D95D568",
+      "name": "distressed-monkey",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ExjuWYPGcClwRSxYdKkIzWGZTjMlgLqRW9ngH/8N7AA="
+        "value": "qjtTXyu+dW1RscLoMZF6JyTqCkTVZz0BTbIuVfdu26g="
       }
     }
   ]
