@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "BU93cS+4IlZPplvwT7TzNuEOi05dwdZ8A1a4m/FtP8Y=": {
-        "avatar_url": "https://www.gravatar.com/avatar/i3ad6d3tkchhy5bzczsva60sj8gdzpkz?d=identicon",
-        "country": "IV",
-        "ethereum_address": "0x69d5a3d0647786cd06584a5395A4874f28ff6E2b",
-        "id": "ea7d4b5117356088f8a398abf5b46608b72db243c88eac63d7792a085f225474",
-        "info_url": "https://en.wikipedia.org/wiki/Brachylia_nussi",
-        "name": "bright-dress",
-        "tm_pub_key": "BU93cS+4IlZPplvwT7TzNuEOi05dwdZ8A1a4m/FtP8Y=",
-        "vega_pub_key": "deda9e052dc79f39f4fa86f31ffe313c56d9597344310d51023ca5a4d1489e60",
+      "ExjuWYPGcClwRSxYdKkIzWGZTjMlgLqRW9ngH/8N7AA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/wnlu75u2u7eg1o1yqowojq8whbo62y3b?d=identicon",
+        "country": "DG",
+        "ethereum_address": "0x1f00Ee827681C5B1D4559afbe70A7F960D531978",
+        "id": "412a54bea6f0006f239cbe60c7556bd5f0696d35a5de4eba4d7bfca0a84b585b",
+        "info_url": "https://en.wikipedia.org/wiki/Michael_Noonan_(filmmaker)",
+        "name": "adorable-country",
+        "tm_pub_key": "ExjuWYPGcClwRSxYdKkIzWGZTjMlgLqRW9ngH/8N7AA=",
+        "vega_pub_key": "2f34fa825d24712865b25cc334a8ddda6764060e8cd9d53862fd91c87d103074",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202312201324",
+  "chain_id": "vega-devnet1-202312201432",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-20T13:24:10.053955378Z",
+  "genesis_time": "2023-12-20T14:32:05.595422844Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "91E48EC1AFAB85406E9EAED9BBE380E872BDA86A",
-      "name": "bright-dress",
+      "address": "631EAAA83BA154D9CE0715B0AB97426B6F2C44C9",
+      "name": "adorable-country",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "BU93cS+4IlZPplvwT7TzNuEOi05dwdZ8A1a4m/FtP8Y="
+        "value": "ExjuWYPGcClwRSxYdKkIzWGZTjMlgLqRW9ngH/8N7AA="
       }
     }
   ]
