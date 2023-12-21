@@ -292,17 +292,6 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "ZnL0pXjiu9iy1LgP/1YjBdBx98ygNG88Gg53iJOCmMM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/6jfgdw15db88wmkp83cxvale4qhwes83?d=identicon",
-        "country": "MA",
-        "ethereum_address": "0xD6677Ab11933F804829dE5Fdb880c66D0A29B5e3",
-        "id": "f47642ed8cc87deb8ca3c24703d3c79ffdca709d9a34474804431ddfeb3c0127",
-        "info_url": "https://en.wikipedia.org/wiki/Kirpichnogo_zavoda_1",
-        "name": "adorable-hill",
-        "tm_pub_key": "ZnL0pXjiu9iy1LgP/1YjBdBx98ygNG88Gg53iJOCmMM=",
-        "vega_pub_key": "5719a686a339c2d285c15ffa0283cd2d2b5a527a7d224b4b1719edc147158bcb",
-        "vega_pub_key_index": 1
-      },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
         "avatar_url": "https://www.gravatar.com/avatar/14wh06jhnafyxu5ea1p41y8972c1flw0?d=identicon",
         "country": "QX",
@@ -324,10 +313,21 @@
         "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
+      },
+      "wh5EgI0/8OmnfXu5XDK+y85LAI/jnNxfp8Py0GM5DLM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/65mdr2z7kpvfjgl0sdaese5soupcirsq?d=identicon",
+        "country": "BF",
+        "ethereum_address": "0x2a9581247a3E7705625002b32f2aa9aB95Ee190F",
+        "id": "7ff6225de7dc7c6c356dc657969a241e03b5631259c015fa35c5cf095a39d5b0",
+        "info_url": "https://en.wikipedia.org/wiki/Hypogeal_germination",
+        "name": "unkempt-beach",
+        "tm_pub_key": "wh5EgI0/8OmnfXu5XDK+y85LAI/jnNxfp8Py0GM5DLM=",
+        "vega_pub_key": "16466ee17e969a07250b36af8b46568e5c374ade9daf72c4c04f7e5437b1dcc2",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202312211046",
+  "chain_id": "vega-devnet1-202312211359",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-21T10:46:13.969559827Z",
+  "genesis_time": "2023-12-21T13:59:13.026787637Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "26E4FF40BEF3FDE698ED82BD1022FC8BC6C61E64",
-      "name": "adorable-hill",
+      "address": "A810ABAF3041BF3BE3136E22CBFBC18590181161",
+      "name": "unkempt-beach",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ZnL0pXjiu9iy1LgP/1YjBdBx98ygNG88Gg53iJOCmMM="
+        "value": "wh5EgI0/8OmnfXu5XDK+y85LAI/jnNxfp8Py0GM5DLM="
       }
     }
   ]
