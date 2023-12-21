@@ -314,20 +314,20 @@
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
       },
-      "wh5EgI0/8OmnfXu5XDK+y85LAI/jnNxfp8Py0GM5DLM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/65mdr2z7kpvfjgl0sdaese5soupcirsq?d=identicon",
-        "country": "BF",
-        "ethereum_address": "0x2a9581247a3E7705625002b32f2aa9aB95Ee190F",
-        "id": "7ff6225de7dc7c6c356dc657969a241e03b5631259c015fa35c5cf095a39d5b0",
-        "info_url": "https://en.wikipedia.org/wiki/Hypogeal_germination",
-        "name": "unkempt-beach",
-        "tm_pub_key": "wh5EgI0/8OmnfXu5XDK+y85LAI/jnNxfp8Py0GM5DLM=",
-        "vega_pub_key": "16466ee17e969a07250b36af8b46568e5c374ade9daf72c4c04f7e5437b1dcc2",
+      "vJbAiJ6OhaevLI+l0jCMJ9VEWIQKeUiwgPOtzg/xVNw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/rhuq3vzp0bh3jq9m0haz6gf4zv7w0xlf?d=identicon",
+        "country": "MU",
+        "ethereum_address": "0x1A3e604984d42b1D6b37B85e7c533571462a66Ef",
+        "id": "132381228aa13d46ecaac56196fce0980b205f955dbda8eec997b1e41c9a1cdb",
+        "info_url": "https://en.wikipedia.org/wiki/Vujak",
+        "name": "narrow-computer",
+        "tm_pub_key": "vJbAiJ6OhaevLI+l0jCMJ9VEWIQKeUiwgPOtzg/xVNw=",
+        "vega_pub_key": "66c979e5f849c32d27352002d28e5b426a160366b8c97ea01a407ed641f1b0c5",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202312211359",
+  "chain_id": "vega-devnet1-202312211617",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-21T13:59:13.026787637Z",
+  "genesis_time": "2023-12-21T16:17:56.258045309Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "A810ABAF3041BF3BE3136E22CBFBC18590181161",
-      "name": "unkempt-beach",
+      "address": "201686D3AB34CBC7305D61CCDBA29BBF1CEA7690",
+      "name": "narrow-computer",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "wh5EgI0/8OmnfXu5XDK+y85LAI/jnNxfp8Py0GM5DLM="
+        "value": "vJbAiJ6OhaevLI+l0jCMJ9VEWIQKeUiwgPOtzg/xVNw="
       }
     }
   ]
