@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "iI3KS9+MGzlh8Yv9UYx7FFWG+ja7f0eufapEzpLGR5Q=": {
-        "avatar_url": "https://www.gravatar.com/avatar/y10c0gnlebdlgqatn4ypmadl0kyjckno?d=identicon",
-        "country": "VQ",
-        "ethereum_address": "0x54A8d50826ad97b8752C52f9398cf3ece60bE9c4",
-        "id": "36573f172789517ee6e7e859fdcfad2a17ad3d799ef555631e911207f909f7d6",
-        "info_url": "https://en.wikipedia.org/wiki/Savar_DOHS",
-        "name": "fuzzy-bed",
-        "tm_pub_key": "iI3KS9+MGzlh8Yv9UYx7FFWG+ja7f0eufapEzpLGR5Q=",
-        "vega_pub_key": "067c3328ed9fe1ad8070f3b3636d30c69d0685d14f92fbb2d947dd6966706c84",
+      "ZnL0pXjiu9iy1LgP/1YjBdBx98ygNG88Gg53iJOCmMM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/6jfgdw15db88wmkp83cxvale4qhwes83?d=identicon",
+        "country": "MA",
+        "ethereum_address": "0xD6677Ab11933F804829dE5Fdb880c66D0A29B5e3",
+        "id": "f47642ed8cc87deb8ca3c24703d3c79ffdca709d9a34474804431ddfeb3c0127",
+        "info_url": "https://en.wikipedia.org/wiki/Kirpichnogo_zavoda_1",
+        "name": "adorable-hill",
+        "tm_pub_key": "ZnL0pXjiu9iy1LgP/1YjBdBx98ygNG88Gg53iJOCmMM=",
+        "vega_pub_key": "5719a686a339c2d285c15ffa0283cd2d2b5a527a7d224b4b1719edc147158bcb",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202312201849",
+  "chain_id": "vega-devnet1-202312211003",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-20T18:49:35.761996467Z",
+  "genesis_time": "2023-12-21T10:03:55.32105516Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "CC043096F46A50FE7D93033D73FBFF697A6B9874",
-      "name": "fuzzy-bed",
+      "address": "26E4FF40BEF3FDE698ED82BD1022FC8BC6C61E64",
+      "name": "adorable-hill",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "iI3KS9+MGzlh8Yv9UYx7FFWG+ja7f0eufapEzpLGR5Q="
+        "value": "ZnL0pXjiu9iy1LgP/1YjBdBx98ygNG88Gg53iJOCmMM="
       }
     }
   ]
