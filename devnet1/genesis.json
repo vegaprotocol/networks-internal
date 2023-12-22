@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "MwAotLy8N3dDiGcfuBw8D76Hz/KEv1qjkzmyNLJ8f90=": {
+        "avatar_url": "https://www.gravatar.com/avatar/8vpd0di3pr9va5ehikyaazcp3j8puvw0?d=identicon",
+        "country": "JG",
+        "ethereum_address": "0x578a95B8B31A49E0Aebc6204ba82722E5c63FeBd",
+        "id": "3726c99a16a0ae5dbf87c40b3b8f2521f0a5712350b12b8627eaa63796e08fad",
+        "info_url": "https://en.wikipedia.org/wiki/2019_Macha_Lake_Open_%E2%80%93_Singles",
+        "name": "immense-tree",
+        "tm_pub_key": "MwAotLy8N3dDiGcfuBw8D76Hz/KEv1qjkzmyNLJ8f90=",
+        "vega_pub_key": "76ba1d92ed58341c28a9444141405d9c776a695d2bc698d39bccf4c853873954",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "rxAVKdQHM+8E+sb07hyenuD+9ThGYJ9o/g/GsjV52tU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/rma12eygdmj6ix4zys3b125asujo0t8i?d=identicon",
-        "country": "PW",
-        "ethereum_address": "0x148909A8564Fe73fC028D0c838F3099260772Bb2",
-        "id": "6631ca6af44ac6891e7ee05f342048f1c62be07e4958924ae3f04cc809ce2e5e",
-        "info_url": "https://en.wikipedia.org/wiki/EciRGB",
-        "name": "rich-roof",
-        "tm_pub_key": "rxAVKdQHM+8E+sb07hyenuD+9ThGYJ9o/g/GsjV52tU=",
-        "vega_pub_key": "a247039a6382ac651458c0d3091fd8791df3a70f6278da1d861ea57cbd9cb885",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202312222246",
+  "chain_id": "vega-devnet1-202312222322",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-22T22:46:18.724725788Z",
+  "genesis_time": "2023-12-22T23:22:14.131528829Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "6220260BE570172515C25FFA74E9B49EC319AF2A",
-      "name": "rich-roof",
+      "address": "B49BE54DF138578290B77E8FA1996D84170A33E5",
+      "name": "immense-tree",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "rxAVKdQHM+8E+sb07hyenuD+9ThGYJ9o/g/GsjV52tU="
+        "value": "MwAotLy8N3dDiGcfuBw8D76Hz/KEv1qjkzmyNLJ8f90="
       }
     }
   ]
