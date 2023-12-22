@@ -314,20 +314,20 @@
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
       },
-      "vJbAiJ6OhaevLI+l0jCMJ9VEWIQKeUiwgPOtzg/xVNw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/rhuq3vzp0bh3jq9m0haz6gf4zv7w0xlf?d=identicon",
-        "country": "MU",
-        "ethereum_address": "0x1A3e604984d42b1D6b37B85e7c533571462a66Ef",
-        "id": "132381228aa13d46ecaac56196fce0980b205f955dbda8eec997b1e41c9a1cdb",
-        "info_url": "https://en.wikipedia.org/wiki/Vujak",
-        "name": "narrow-computer",
-        "tm_pub_key": "vJbAiJ6OhaevLI+l0jCMJ9VEWIQKeUiwgPOtzg/xVNw=",
-        "vega_pub_key": "66c979e5f849c32d27352002d28e5b426a160366b8c97ea01a407ed641f1b0c5",
+      "vv+EGlLHBTeHDcKwsXUttbpWbC4rmj/66I5KPO5b+GM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/atwagm4gz3oymp7iwt4pogw3xu7llml7?d=identicon",
+        "country": "MR",
+        "ethereum_address": "0x43474fFDaF0FFC9d7Bb692209474BAd14B252AC3",
+        "id": "1ea81552a1e997684f5bf2e1949acbe3dfd260f686a619ec32860ea7e9ca39db",
+        "info_url": "https://en.wikipedia.org/wiki/Ch%C3%A2teau-Chinon_(Ville)",
+        "name": "glorious-stove",
+        "tm_pub_key": "vv+EGlLHBTeHDcKwsXUttbpWbC4rmj/66I5KPO5b+GM=",
+        "vega_pub_key": "cd3091669599d4b170771e506d442760e8dcddc0db633346ba308f42e37475db",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202312211617",
+  "chain_id": "vega-devnet1-202312221129",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-21T16:17:56.258045309Z",
+  "genesis_time": "2023-12-22T11:29:04.955768588Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "201686D3AB34CBC7305D61CCDBA29BBF1CEA7690",
-      "name": "narrow-computer",
+      "address": "2319EA28E980D7B4A035AE46D114E61B9E94ED3D",
+      "name": "glorious-stove",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "vJbAiJ6OhaevLI+l0jCMJ9VEWIQKeUiwgPOtzg/xVNw="
+        "value": "vv+EGlLHBTeHDcKwsXUttbpWbC4rmj/66I5KPO5b+GM="
       }
     }
   ]
