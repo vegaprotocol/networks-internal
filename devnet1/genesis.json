@@ -292,6 +292,17 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
+      "rxAVKdQHM+8E+sb07hyenuD+9ThGYJ9o/g/GsjV52tU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/rma12eygdmj6ix4zys3b125asujo0t8i?d=identicon",
+        "country": "PW",
+        "ethereum_address": "0x148909A8564Fe73fC028D0c838F3099260772Bb2",
+        "id": "6631ca6af44ac6891e7ee05f342048f1c62be07e4958924ae3f04cc809ce2e5e",
+        "info_url": "https://en.wikipedia.org/wiki/EciRGB",
+        "name": "rich-roof",
+        "tm_pub_key": "rxAVKdQHM+8E+sb07hyenuD+9ThGYJ9o/g/GsjV52tU=",
+        "vega_pub_key": "a247039a6382ac651458c0d3091fd8791df3a70f6278da1d861ea57cbd9cb885",
+        "vega_pub_key_index": 1
+      },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
         "avatar_url": "https://www.gravatar.com/avatar/14wh06jhnafyxu5ea1p41y8972c1flw0?d=identicon",
         "country": "QX",
@@ -313,21 +324,10 @@
         "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
-      },
-      "vv+EGlLHBTeHDcKwsXUttbpWbC4rmj/66I5KPO5b+GM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/atwagm4gz3oymp7iwt4pogw3xu7llml7?d=identicon",
-        "country": "MR",
-        "ethereum_address": "0x43474fFDaF0FFC9d7Bb692209474BAd14B252AC3",
-        "id": "1ea81552a1e997684f5bf2e1949acbe3dfd260f686a619ec32860ea7e9ca39db",
-        "info_url": "https://en.wikipedia.org/wiki/Ch%C3%A2teau-Chinon_(Ville)",
-        "name": "glorious-stove",
-        "tm_pub_key": "vv+EGlLHBTeHDcKwsXUttbpWbC4rmj/66I5KPO5b+GM=",
-        "vega_pub_key": "cd3091669599d4b170771e506d442760e8dcddc0db633346ba308f42e37475db",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202312222150",
+  "chain_id": "vega-devnet1-202312222246",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-22T21:50:38.27510223Z",
+  "genesis_time": "2023-12-22T22:46:18.724725788Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "2319EA28E980D7B4A035AE46D114E61B9E94ED3D",
-      "name": "glorious-stove",
+      "address": "6220260BE570172515C25FFA74E9B49EC319AF2A",
+      "name": "rich-roof",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "vv+EGlLHBTeHDcKwsXUttbpWbC4rmj/66I5KPO5b+GM="
+        "value": "rxAVKdQHM+8E+sb07hyenuD+9ThGYJ9o/g/GsjV52tU="
       }
     }
   ]
