@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "MwAotLy8N3dDiGcfuBw8D76Hz/KEv1qjkzmyNLJ8f90=": {
-        "avatar_url": "https://www.gravatar.com/avatar/8vpd0di3pr9va5ehikyaazcp3j8puvw0?d=identicon",
-        "country": "JG",
-        "ethereum_address": "0x578a95B8B31A49E0Aebc6204ba82722E5c63FeBd",
-        "id": "3726c99a16a0ae5dbf87c40b3b8f2521f0a5712350b12b8627eaa63796e08fad",
-        "info_url": "https://en.wikipedia.org/wiki/2019_Macha_Lake_Open_%E2%80%93_Singles",
-        "name": "immense-tree",
-        "tm_pub_key": "MwAotLy8N3dDiGcfuBw8D76Hz/KEv1qjkzmyNLJ8f90=",
-        "vega_pub_key": "76ba1d92ed58341c28a9444141405d9c776a695d2bc698d39bccf4c853873954",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "jMzM6rAWx9O7GCMRD3VHzYpFbT94XF+wBRaUkR/UdMU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/kboovbnm6mjjoy21ncccd4g77k7vucef?d=identicon",
+        "country": "QP",
+        "ethereum_address": "0x56e58259a3D867D2EFC26fBe6940939944bfEb62",
+        "id": "bf76a125b3acd74aa7d8cef3d0f6f39b75f536bf59b8fcb1792f7c0f2195c574",
+        "info_url": "https://en.wikipedia.org/wiki/Calyciphora_marashella",
+        "name": "excited-tree",
+        "tm_pub_key": "jMzM6rAWx9O7GCMRD3VHzYpFbT94XF+wBRaUkR/UdMU=",
+        "vega_pub_key": "c50dc64ef0e319296b2b55a8f566e45ddc1e813e09ab926bdcda5d5b1e821fd8",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202312222344",
+  "chain_id": "vega-devnet1-202401021447",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2023-12-22T23:44:57.888123934Z",
+  "genesis_time": "2024-01-02T14:47:56.496814281Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "B49BE54DF138578290B77E8FA1996D84170A33E5",
-      "name": "immense-tree",
+      "address": "817FF8D167DF4CC408E978470B17003B81A7A5D6",
+      "name": "excited-tree",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "MwAotLy8N3dDiGcfuBw8D76Hz/KEv1qjkzmyNLJ8f90="
+        "value": "jMzM6rAWx9O7GCMRD3VHzYpFbT94XF+wBRaUkR/UdMU="
       }
     }
   ]
