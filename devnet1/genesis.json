@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "6Oa8Sh4GIbPCca0Q2VmftbSv5aNoyrAu4F5VUn9OIRc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/z6vn6niauy7r9csid9baxxggq0qspm16?d=identicon",
-        "country": "WZ",
-        "ethereum_address": "0x0857af521B1afFa93235127bFED68D5A77E3609f",
-        "id": "feabc09913c18f492d51d31d68bc76756d8458d76884dc199806c7d9cbf923f1",
-        "info_url": "https://en.wikipedia.org/wiki/Evynne_Hollens",
-        "name": "zippy-sister",
-        "tm_pub_key": "6Oa8Sh4GIbPCca0Q2VmftbSv5aNoyrAu4F5VUn9OIRc=",
-        "vega_pub_key": "1cb7333965b232cd905c6673dcb3de16f68613296a1ec6cb930bfda295f48097",
+      "UQTyEhBg6iXmqpZxBUwJTh02t58kCKbA4OBgJvZOUbQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/3wuyeavjyzdsqtb98ldmdr7w0gyechsb?d=identicon",
+        "country": "IR",
+        "ethereum_address": "0xE4247a91B195f5B75Ad52ddcc61E5d5196574F38",
+        "id": "c4f10fb5322914ab7f7625db99f4ed85a40fad66f64591249e073aa7cb5e397a",
+        "info_url": "https://en.wikipedia.org/wiki/NBA_G_League_Basketball_Executive_of_the_Year_Award",
+        "name": "timely-country",
+        "tm_pub_key": "UQTyEhBg6iXmqpZxBUwJTh02t58kCKbA4OBgJvZOUbQ=",
+        "vega_pub_key": "7c4e519555d6045fea85b2677f16c7d37eaff1b1efd804e684c35446d4da9f5d",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401021843",
+  "chain_id": "vega-devnet1-202401022125",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-02T18:43:37.593170291Z",
+  "genesis_time": "2024-01-02T21:25:04.588345368Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "D9C48107674484261B6830F2EC48907C2F817568",
-      "name": "zippy-sister",
+      "address": "8CA370CF7DB266343704B614CF23FE5C35515D98",
+      "name": "timely-country",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "6Oa8Sh4GIbPCca0Q2VmftbSv5aNoyrAu4F5VUn9OIRc="
+        "value": "UQTyEhBg6iXmqpZxBUwJTh02t58kCKbA4OBgJvZOUbQ="
       }
     }
   ]
