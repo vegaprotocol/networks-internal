@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "6Oa8Sh4GIbPCca0Q2VmftbSv5aNoyrAu4F5VUn9OIRc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/z6vn6niauy7r9csid9baxxggq0qspm16?d=identicon",
+        "country": "WZ",
+        "ethereum_address": "0x0857af521B1afFa93235127bFED68D5A77E3609f",
+        "id": "feabc09913c18f492d51d31d68bc76756d8458d76884dc199806c7d9cbf923f1",
+        "info_url": "https://en.wikipedia.org/wiki/Evynne_Hollens",
+        "name": "zippy-sister",
+        "tm_pub_key": "6Oa8Sh4GIbPCca0Q2VmftbSv5aNoyrAu4F5VUn9OIRc=",
+        "vega_pub_key": "1cb7333965b232cd905c6673dcb3de16f68613296a1ec6cb930bfda295f48097",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "phaOmkjeEUpiRju6WIpdHmTAMQSWRaANb8j40LWB3BQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/q5gyvbtcxrznl090i7zct3y6pd5vb2hm?d=identicon",
-        "country": "AY",
-        "ethereum_address": "0xE4f65019590Db772696DC6Cb5f29caba197AB6d2",
-        "id": "87f15122c3643492fe536951b5652d9f23acab5e9a0e968f5f8f1ebb376124d6",
-        "info_url": "https://en.wikipedia.org/wiki/Keijin_Okuda",
-        "name": "melodic-pool",
-        "tm_pub_key": "phaOmkjeEUpiRju6WIpdHmTAMQSWRaANb8j40LWB3BQ=",
-        "vega_pub_key": "63d21fa35d6a496d100d5e7df0cc2c6b529e917a654f1bf1e9c99c68a31b6d9b",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401021749",
+  "chain_id": "vega-devnet1-202401021843",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-02T17:49:36.942427184Z",
+  "genesis_time": "2024-01-02T18:43:37.593170291Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "F28D115F2DC31F9EFE960106A38C3C87F7014B39",
-      "name": "melodic-pool",
+      "address": "D9C48107674484261B6830F2EC48907C2F817568",
+      "name": "zippy-sister",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "phaOmkjeEUpiRju6WIpdHmTAMQSWRaANb8j40LWB3BQ="
+        "value": "6Oa8Sh4GIbPCca0Q2VmftbSv5aNoyrAu4F5VUn9OIRc="
       }
     }
   ]
