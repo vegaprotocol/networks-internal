@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "UQTyEhBg6iXmqpZxBUwJTh02t58kCKbA4OBgJvZOUbQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/3wuyeavjyzdsqtb98ldmdr7w0gyechsb?d=identicon",
-        "country": "IR",
-        "ethereum_address": "0xE4247a91B195f5B75Ad52ddcc61E5d5196574F38",
-        "id": "c4f10fb5322914ab7f7625db99f4ed85a40fad66f64591249e073aa7cb5e397a",
-        "info_url": "https://en.wikipedia.org/wiki/NBA_G_League_Basketball_Executive_of_the_Year_Award",
-        "name": "timely-country",
-        "tm_pub_key": "UQTyEhBg6iXmqpZxBUwJTh02t58kCKbA4OBgJvZOUbQ=",
-        "vega_pub_key": "7c4e519555d6045fea85b2677f16c7d37eaff1b1efd804e684c35446d4da9f5d",
+      "1FwDZ3+JX21rhA8k/UW5N6oh4vDk7B8nbkwc4lyKBAY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/zpzoxq1bk7et55p5usmmd158ht1ux284?d=identicon",
+        "country": "PZ",
+        "ethereum_address": "0x0895258eA0Ea9A4fDD7E8Fe9286831a609641d16",
+        "id": "b83e23d0050b7d391492cbdfab8e2e9d48e386175913216c48c4b64260857856",
+        "info_url": "https://en.wikipedia.org/wiki/Whitby_Township,_Bottineau_County,_North_Dakota",
+        "name": "excited-pizza",
+        "tm_pub_key": "1FwDZ3+JX21rhA8k/UW5N6oh4vDk7B8nbkwc4lyKBAY=",
+        "vega_pub_key": "0138198b464ea1e354d80603e9bc622937d3f22460ec7a5fd7eeed5f76366074",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401022125",
+  "chain_id": "vega-devnet1-202401031419",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-02T21:25:04.588345368Z",
+  "genesis_time": "2024-01-03T14:19:18.024433824Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "8CA370CF7DB266343704B614CF23FE5C35515D98",
-      "name": "timely-country",
+      "address": "7EB51F88CB26A1FC0ECAA9713FB12D8613EF54D4",
+      "name": "excited-pizza",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "UQTyEhBg6iXmqpZxBUwJTh02t58kCKbA4OBgJvZOUbQ="
+        "value": "1FwDZ3+JX21rhA8k/UW5N6oh4vDk7B8nbkwc4lyKBAY="
       }
     }
   ]
