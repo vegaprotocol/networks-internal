@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "1FwDZ3+JX21rhA8k/UW5N6oh4vDk7B8nbkwc4lyKBAY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/zpzoxq1bk7et55p5usmmd158ht1ux284?d=identicon",
-        "country": "PZ",
-        "ethereum_address": "0x0895258eA0Ea9A4fDD7E8Fe9286831a609641d16",
-        "id": "b83e23d0050b7d391492cbdfab8e2e9d48e386175913216c48c4b64260857856",
-        "info_url": "https://en.wikipedia.org/wiki/Whitby_Township,_Bottineau_County,_North_Dakota",
-        "name": "excited-pizza",
-        "tm_pub_key": "1FwDZ3+JX21rhA8k/UW5N6oh4vDk7B8nbkwc4lyKBAY=",
-        "vega_pub_key": "0138198b464ea1e354d80603e9bc622937d3f22460ec7a5fd7eeed5f76366074",
+      "86QrRCw9UuAmRyCnLhzAghVANgEdYC1H7r5Czvfu+0o=": {
+        "avatar_url": "https://www.gravatar.com/avatar/2yw2by2b9gzu6ujk8v2rzeqsheikkro9?d=identicon",
+        "country": "GC",
+        "ethereum_address": "0x6824b6599B6E9CF24375fd1D1bb8fD002fCdE91F",
+        "id": "af9027921177f796e21bf0debfea55310938c9ed2043690383555e3cf2f8ab58",
+        "info_url": "https://en.wikipedia.org/wiki/Diplodactylus_furcosus",
+        "name": "alive-milk",
+        "tm_pub_key": "86QrRCw9UuAmRyCnLhzAghVANgEdYC1H7r5Czvfu+0o=",
+        "vega_pub_key": "90b2823e5aed5a1037baa955d09145232fc4f03844254135a37928c8fa99a53a",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401031419",
+  "chain_id": "vega-devnet1-202401031809",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-03T14:19:18.024433824Z",
+  "genesis_time": "2024-01-03T18:09:49.459816789Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "7EB51F88CB26A1FC0ECAA9713FB12D8613EF54D4",
-      "name": "excited-pizza",
+      "address": "67E68CA08879491ECA0C58DBCD40B881CE143EA8",
+      "name": "alive-milk",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "1FwDZ3+JX21rhA8k/UW5N6oh4vDk7B8nbkwc4lyKBAY="
+        "value": "86QrRCw9UuAmRyCnLhzAghVANgEdYC1H7r5Czvfu+0o="
       }
     }
   ]
