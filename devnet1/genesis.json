@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "86QrRCw9UuAmRyCnLhzAghVANgEdYC1H7r5Czvfu+0o=": {
-        "avatar_url": "https://www.gravatar.com/avatar/2yw2by2b9gzu6ujk8v2rzeqsheikkro9?d=identicon",
-        "country": "GC",
-        "ethereum_address": "0x6824b6599B6E9CF24375fd1D1bb8fD002fCdE91F",
-        "id": "af9027921177f796e21bf0debfea55310938c9ed2043690383555e3cf2f8ab58",
-        "info_url": "https://en.wikipedia.org/wiki/Diplodactylus_furcosus",
-        "name": "alive-milk",
-        "tm_pub_key": "86QrRCw9UuAmRyCnLhzAghVANgEdYC1H7r5Czvfu+0o=",
-        "vega_pub_key": "90b2823e5aed5a1037baa955d09145232fc4f03844254135a37928c8fa99a53a",
+      "HRmjL2JGuAF9GfC1z30Sqa/abKVJRJsf0jTT8l05kfY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xm59gel1ldy499m7miy4slaa1tr3jfb2?d=identicon",
+        "country": "PX",
+        "ethereum_address": "0x0e29226E4bdCbc117348C27Cf05eec69d0A43643",
+        "id": "902c4fe354153b877d70597ba246614483e0f02110110d8122b55cc51b1ce6bd",
+        "info_url": "https://en.wikipedia.org/wiki/Black_Dwarf_(personage)",
+        "name": "gritty-chimney",
+        "tm_pub_key": "HRmjL2JGuAF9GfC1z30Sqa/abKVJRJsf0jTT8l05kfY=",
+        "vega_pub_key": "a3a92f1c0f7a3d4e2c34c627bb953cb4f7d1bbe0d2357d246d740df64723349b",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401031809",
+  "chain_id": "vega-devnet1-202401040818",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-03T18:09:49.459816789Z",
+  "genesis_time": "2024-01-04T08:18:31.634147885Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "67E68CA08879491ECA0C58DBCD40B881CE143EA8",
-      "name": "alive-milk",
+      "address": "9128BC7A6F5A14179BD8F7B801CB36918D38BE69",
+      "name": "gritty-chimney",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "86QrRCw9UuAmRyCnLhzAghVANgEdYC1H7r5Czvfu+0o="
+        "value": "HRmjL2JGuAF9GfC1z30Sqa/abKVJRJsf0jTT8l05kfY="
       }
     }
   ]
