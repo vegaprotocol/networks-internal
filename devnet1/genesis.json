@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "HRmjL2JGuAF9GfC1z30Sqa/abKVJRJsf0jTT8l05kfY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/xm59gel1ldy499m7miy4slaa1tr3jfb2?d=identicon",
-        "country": "PX",
-        "ethereum_address": "0x0e29226E4bdCbc117348C27Cf05eec69d0A43643",
-        "id": "902c4fe354153b877d70597ba246614483e0f02110110d8122b55cc51b1ce6bd",
-        "info_url": "https://en.wikipedia.org/wiki/Black_Dwarf_(personage)",
-        "name": "gritty-chimney",
-        "tm_pub_key": "HRmjL2JGuAF9GfC1z30Sqa/abKVJRJsf0jTT8l05kfY=",
-        "vega_pub_key": "a3a92f1c0f7a3d4e2c34c627bb953cb4f7d1bbe0d2357d246d740df64723349b",
+      "I98t29lH8+pdZ4YtXtSyZzOQglL/9fG7HThlw9CndMA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/r5ms7nnygq3l8wsm4jlcp7ubmys86h63?d=identicon",
+        "country": "JG",
+        "ethereum_address": "0x628C5a126ac967bB21c4aC96E77A082d65Bcb8E5",
+        "id": "9d0f1ae6d326b16ebc3b0f19b63b610381969db59c694e92eae59769021dd620",
+        "info_url": "https://en.wikipedia.org/wiki/Rohan_Sajdeh",
+        "name": "quizzical-pen",
+        "tm_pub_key": "I98t29lH8+pdZ4YtXtSyZzOQglL/9fG7HThlw9CndMA=",
+        "vega_pub_key": "2f8816f360ed6e70534e05029a930c45b6a839a053a8238aee05a035069013e4",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401040818",
+  "chain_id": "vega-devnet1-202401041052",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-04T08:18:31.634147885Z",
+  "genesis_time": "2024-01-04T10:52:14.963851739Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "9128BC7A6F5A14179BD8F7B801CB36918D38BE69",
-      "name": "gritty-chimney",
+      "address": "4EDCE0F92BFFFEE70347BC56D8BF40F139E0DFFA",
+      "name": "quizzical-pen",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "HRmjL2JGuAF9GfC1z30Sqa/abKVJRJsf0jTT8l05kfY="
+        "value": "I98t29lH8+pdZ4YtXtSyZzOQglL/9fG7HThlw9CndMA="
       }
     }
   ]
