@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "JUvvp7OzSrQGXdo/IwLyqS/+RX6Gc107Gsq9Uut5EvM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/9uz7elh48jp402zqd6wdi1bdrtduztba?d=identicon",
+        "country": "AC",
+        "ethereum_address": "0xC4Dc6cD384B253075c47D737cD9FCe6792ba4d47",
+        "id": "0cb3eadc77494e2e0ea34eefcfa2662b517aab6662fbe3353b2ecda75f9064be",
+        "info_url": "https://en.wikipedia.org/wiki/Amosovo",
+        "name": "skinny-river",
+        "tm_pub_key": "JUvvp7OzSrQGXdo/IwLyqS/+RX6Gc107Gsq9Uut5EvM=",
+        "vega_pub_key": "f280ead9bc05d32e31b815a1a9f4e36e46f479077d583794932b567b9baabba0",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "sMwjF9MOsoihHERToiQhL5OQ6WC4aO09jOHVHt4ZIAE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/jftjmmqceh1bndt1dp6l6xcdj8v8zax9?d=identicon",
-        "country": "WA",
-        "ethereum_address": "0x27954F74c7b0ce90cA2CDD7d66ec83cD4172B49A",
-        "id": "7fbdfc131f805a0eefc984852b28a233220128d88f815ff45051749b1bbf3567",
-        "info_url": "https://en.wikipedia.org/wiki/Steve_Hendrickson",
-        "name": "promising-vacuum",
-        "tm_pub_key": "sMwjF9MOsoihHERToiQhL5OQ6WC4aO09jOHVHt4ZIAE=",
-        "vega_pub_key": "c2645e5cc8ecc481fa88cbe0fb04bb019053586adc354abe96743da4672322fe",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401041654",
+  "chain_id": "vega-devnet1-202401042037",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-04T16:54:04.992568588Z",
+  "genesis_time": "2024-01-04T20:37:19.30987608Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "75DDEC8BCCAE244E6276B3214ADBE54A967E164A",
-      "name": "promising-vacuum",
+      "address": "B9E9CC3B7C719D12CCAE234FB8A2D86EA408A026",
+      "name": "skinny-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "sMwjF9MOsoihHERToiQhL5OQ6WC4aO09jOHVHt4ZIAE="
+        "value": "JUvvp7OzSrQGXdo/IwLyqS/+RX6Gc107Gsq9Uut5EvM="
       }
     }
   ]
