@@ -112,11 +112,11 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 
 [scenario.applemontly]
-    market_name = "Apple Monthly (Jan 2024)"
+    market_name = "Apple Monthly (Feb 2024)"
     binance_code = "EOSUSDT"
     step_length_seconds = 3
     [scenario.applemontly.market_manager_args]
-        market_name = "Apple Monthly (Jan 2024)"
+        market_name = "Apple Monthly (Feb 2024)"
         market_code = "AAPL.MF21"
         asset_name = "tUSDC"
         adp = 6
@@ -156,11 +156,11 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 
 [scenario.tsla_quarterly]
-    market_name = "Tesla Quarterly (Mar 2024)"
+    market_name = "Tesla Quarterly (Apr 2024)"
     binance_code = "BNBEUR"
     step_length_seconds = 3
     [scenario.tsla_quarterly.market_manager_args]
-        market_name = "Tesla Quarterly (Mar 2024)"
+        market_name = "Tesla Quarterly (Apr 2024)"
         market_code = "TSLA.QM21"
         asset_name = "tEURO"
         adp = 5
@@ -329,11 +329,11 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         randomise_history = false
 
 [scenario.btcusdt_monthly]
-    market_name = "BTCUSD Monthly (Jan 2024)"
+    market_name = "BTCUSD Monthly (Feb 2024)"
     binance_code = "BTCDAI"
     step_length_seconds = 3
     [scenario.btcusdt_monthly.market_manager_args]
-        market_name = "BTCUSD Monthly (Jan 2024)"
+        market_name = "BTCUSD Monthly (Feb 2024)"
         market_code = "BTCUSD.MF21"
         asset_name = "tDAI"
         adp = 18
@@ -415,11 +415,11 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         randomise_history = false
 
 [scenario.aavedai]
-    market_name = "AAVEDAI Monthly (Jan 2024)"
+    market_name = "AAVEDAI Monthly (Feb 2024)"
     binance_code = "AAVEUSDT"
     step_length_seconds = 3
     [scenario.aavedai.market_manager_args]
-        market_name = "AAVEDAI Monthly (Jan 2024)"
+        market_name = "AAVEDAI Monthly (Feb 2024)"
         market_code = "AAVEDAI.MF21"
         asset_name = "tDAI"
         adp = 18
@@ -458,11 +458,11 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         randomise_history = false
 
 [scenario.ethbtc_quarterly]
-    market_name = "ETHBTC Quarterly (Mar 2024)"
+    market_name = "ETHBTC Quarterly (Apr 2024)"
     binance_code = "ETHBTC"
     step_length_seconds = 3
     [scenario.ethbtc_quarterly.market_manager_args]
-        market_name = "ETHBTC Quarterly (Mar 2024)"
+        market_name = "ETHBTC Quarterly (Apr 2024)"
         market_code = "ETHBTC.QM21"
         asset_name = "tUSDC"
         adp = 8
@@ -544,11 +544,11 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         randomise_history = false
 
 [scenario.ehtdai_monthly]
-    market_name = "ETHDAI Monthly (Jan 2024)"
+    market_name = "ETHDAI Monthly (Feb 2024)"
     binance_code = "ETHDAI"
     step_length_seconds = 3
     [scenario.ehtdai_monthly.market_manager_args]
-        market_name = "ETHDAI Monthly (Jan 2024)"
+        market_name = "ETHDAI Monthly (Feb 2024)"
         market_code = "ETHDAI.MF21"
         asset_name = "tDAI"
         adp = 18
