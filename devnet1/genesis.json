@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "5EXS99y3G4rlSmHlWUuEMGYY29x/Kk+vAHxyOzHeu2M=": {
-        "avatar_url": "https://www.gravatar.com/avatar/acosc4dqiejtqnmyfp1ymbpz7ctsc3ya?d=identicon",
-        "country": "TR",
-        "ethereum_address": "0x5656eFD7Fa25Cb8ceEF5aE24B06c69f6c6418cd4",
-        "id": "6bcb0e766c7282394bccfafd9db6f7fa9e84793703491e7bf771b3a5fc1dc563",
-        "info_url": "https://en.wikipedia.org/wiki/Anta_Mbow",
-        "name": "blue-coffee",
-        "tm_pub_key": "5EXS99y3G4rlSmHlWUuEMGYY29x/Kk+vAHxyOzHeu2M=",
-        "vega_pub_key": "621315d13b05fb039799a8697d4ade5ba9a7aa392de6ebff302bee514118db3b",
+      "NlBiAs3d9G2ciRPgXtL5+svi9t0fADr20cl9NJzC9Ag=": {
+        "avatar_url": "https://www.gravatar.com/avatar/scdl456rhfu8jz0danjku1fv5k8zkg0e?d=identicon",
+        "country": "NT",
+        "ethereum_address": "0x027bEC9C2591Ae2E8c8b52cBcE29b8909A0e1D46",
+        "id": "de98faf837b7e088060c29fb91e26d79a1204162bfabe288f6ca8e9f4a15a39e",
+        "info_url": "https://en.wikipedia.org/wiki/Novosibirsk-Vostochny_railway_station",
+        "name": "famous-music",
+        "tm_pub_key": "NlBiAs3d9G2ciRPgXtL5+svi9t0fADr20cl9NJzC9Ag=",
+        "vega_pub_key": "7937767cf5967b70f584efc114b6968a8a04b96f9c429432e4d54da390730207",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401051415",
+  "chain_id": "vega-devnet1-202401051642",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-05T14:15:09.866424691Z",
+  "genesis_time": "2024-01-05T16:42:54.737061046Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "D7420BAA81C128894AC7B41D105814168F6D276D",
-      "name": "blue-coffee",
+      "address": "73475846CF26842D097C0CA060F1DDAA0BA51C70",
+      "name": "famous-music",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "5EXS99y3G4rlSmHlWUuEMGYY29x/Kk+vAHxyOzHeu2M="
+        "value": "NlBiAs3d9G2ciRPgXtL5+svi9t0fADr20cl9NJzC9Ag="
       }
     }
   ]
