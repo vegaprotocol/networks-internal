@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "NlBiAs3d9G2ciRPgXtL5+svi9t0fADr20cl9NJzC9Ag=": {
-        "avatar_url": "https://www.gravatar.com/avatar/scdl456rhfu8jz0danjku1fv5k8zkg0e?d=identicon",
-        "country": "NT",
-        "ethereum_address": "0x027bEC9C2591Ae2E8c8b52cBcE29b8909A0e1D46",
-        "id": "de98faf837b7e088060c29fb91e26d79a1204162bfabe288f6ca8e9f4a15a39e",
-        "info_url": "https://en.wikipedia.org/wiki/Novosibirsk-Vostochny_railway_station",
-        "name": "famous-music",
-        "tm_pub_key": "NlBiAs3d9G2ciRPgXtL5+svi9t0fADr20cl9NJzC9Ag=",
-        "vega_pub_key": "7937767cf5967b70f584efc114b6968a8a04b96f9c429432e4d54da390730207",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -324,10 +313,21 @@
         "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
+      },
+      "x25PW5N3S3y39cc5Uoog1bW8TkKN6yxTcmgT7rFav7M=": {
+        "avatar_url": "https://www.gravatar.com/avatar/cy42shd7m5q8fttjrqjy4zy4kp7jozjv?d=identicon",
+        "country": "VN",
+        "ethereum_address": "0xbA9aEFD28aa3D37c84cE46Ef568D4A659b0b0573",
+        "id": "6153a4dc3e1b67b3b794be244991d77b712917f6ce31d7d8286c0a7c7aa96a2e",
+        "info_url": "https://en.wikipedia.org/wiki/Ira_B._Harkey_Jr.",
+        "name": "perplexed-pickle",
+        "tm_pub_key": "x25PW5N3S3y39cc5Uoog1bW8TkKN6yxTcmgT7rFav7M=",
+        "vega_pub_key": "5cb57431a4cd9a62d00a8fa04a3e32267f321a074a6f49a8d7e7e6e1d49546c7",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202401051642",
+  "chain_id": "vega-devnet1-202401051836",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-05T16:42:54.737061046Z",
+  "genesis_time": "2024-01-05T18:36:20.981358068Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "73475846CF26842D097C0CA060F1DDAA0BA51C70",
-      "name": "famous-music",
+      "address": "F6819A40DED977E687A8E06FB4DA215327482045",
+      "name": "perplexed-pickle",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "NlBiAs3d9G2ciRPgXtL5+svi9t0fADr20cl9NJzC9Ag="
+        "value": "x25PW5N3S3y39cc5Uoog1bW8TkKN6yxTcmgT7rFav7M="
       }
     }
   ]
