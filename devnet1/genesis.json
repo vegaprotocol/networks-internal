@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "JUvvp7OzSrQGXdo/IwLyqS/+RX6Gc107Gsq9Uut5EvM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/9uz7elh48jp402zqd6wdi1bdrtduztba?d=identicon",
-        "country": "AC",
-        "ethereum_address": "0xC4Dc6cD384B253075c47D737cD9FCe6792ba4d47",
-        "id": "0cb3eadc77494e2e0ea34eefcfa2662b517aab6662fbe3353b2ecda75f9064be",
-        "info_url": "https://en.wikipedia.org/wiki/Amosovo",
-        "name": "skinny-river",
-        "tm_pub_key": "JUvvp7OzSrQGXdo/IwLyqS/+RX6Gc107Gsq9Uut5EvM=",
-        "vega_pub_key": "f280ead9bc05d32e31b815a1a9f4e36e46f479077d583794932b567b9baabba0",
+      "2MZvqF4jzidtxC8ycuiaO9O3fvNA9ySs6ozdCSsP1bI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/laj78m7edus8561nku25j5wm35k7zbqe?d=identicon",
+        "country": "ZH",
+        "ethereum_address": "0x98c75D03CCC98F9488abF00b095ac16A41deBff1",
+        "id": "428ec5484ef67a6864839c1f0a580ef6115a0ceb72b4507d6a169cfc6a7a5a10",
+        "info_url": "https://en.wikipedia.org/wiki/R210_road_(Ireland)",
+        "name": "fuzzy-television",
+        "tm_pub_key": "2MZvqF4jzidtxC8ycuiaO9O3fvNA9ySs6ozdCSsP1bI=",
+        "vega_pub_key": "4df447177fc7c98fb56a0af235fd0ade9e498313c6e496294c7c3813b3be1eec",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401042037",
+  "chain_id": "vega-devnet1-202401051005",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-04T20:37:19.30987608Z",
+  "genesis_time": "2024-01-05T10:05:42.311523512Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "B9E9CC3B7C719D12CCAE234FB8A2D86EA408A026",
-      "name": "skinny-river",
+      "address": "FA75ADCA9F4D4D1BB0A739E69BF79FB428BCE969",
+      "name": "fuzzy-television",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "JUvvp7OzSrQGXdo/IwLyqS/+RX6Gc107Gsq9Uut5EvM="
+        "value": "2MZvqF4jzidtxC8ycuiaO9O3fvNA9ySs6ozdCSsP1bI="
       }
     }
   ]
