@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "fPsOzhLM4xDLWg1m50Gz01KM2a96SbxXHUnee/O+0HE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/7tjeufcc9yhcxtbluzm1t85vmne8nwtw?d=identicon",
-        "country": "XL",
-        "ethereum_address": "0xb63664097848C9F578e291905059E63E73888C09",
-        "id": "aea70f20dc48e5b4406339b15d87dbdfee0e951874f04ffe5d1f42c01c8f55e9",
-        "info_url": "https://en.wikipedia.org/wiki/Night_in_Manhattan",
-        "name": "wailing-river",
-        "tm_pub_key": "fPsOzhLM4xDLWg1m50Gz01KM2a96SbxXHUnee/O+0HE=",
-        "vega_pub_key": "ce9ca1f6839dda5c1b18b4f2e3044b57f5821e3bbb989799ddf0458abedafaf2",
+      "avGRwXyXBmC0ICPheglI6wP0BTD2C+aw60vcjwR6PPE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/twhj3czn33i0h339bmekf28z8xu9fo5c?d=identicon",
+        "country": "WK",
+        "ethereum_address": "0x7e434f19DC0E684C5fF51A8c6d6295C1D4241fB9",
+        "id": "57398d1a16345767a401ec721590d3eac793a1309622801cf528403606290759",
+        "info_url": "https://en.wikipedia.org/wiki/Champahati",
+        "name": "wrong-clouds",
+        "tm_pub_key": "avGRwXyXBmC0ICPheglI6wP0BTD2C+aw60vcjwR6PPE=",
+        "vega_pub_key": "915724afe4c0fe7e4beb60ae3c42ac27edcf786c2d0101f019592427f91f429c",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401081605",
+  "chain_id": "vega-devnet1-202401081707",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-08T16:05:34.940337976Z",
+  "genesis_time": "2024-01-08T17:07:25.181577652Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "A4838FBB7666443D806709D773D8603676BA5947",
-      "name": "wailing-river",
+      "address": "AE5851DFAAAC1299DC65CAD745614939C0CC8609",
+      "name": "wrong-clouds",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "fPsOzhLM4xDLWg1m50Gz01KM2a96SbxXHUnee/O+0HE="
+        "value": "avGRwXyXBmC0ICPheglI6wP0BTD2C+aw60vcjwR6PPE="
       }
     }
   ]
