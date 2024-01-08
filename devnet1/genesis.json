@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "CPDvHHSpHf9R86BdkuARowXmpMjdu1Uslh5T07iMsQY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/n9abvao4xuzqxfla8itrmn8484ifhrlw?d=identicon",
-        "country": "JT",
-        "ethereum_address": "0xf1364A4f85719273c436b025a86aC2aBCc4ede9e",
-        "id": "6ace571b5cbfee8a083acb378872009f4e17e3f4a9699b1927a1dd1119bec36b",
-        "info_url": "https://en.wikipedia.org/wiki/Sundsvalls_DFF",
-        "name": "short-roof",
-        "tm_pub_key": "CPDvHHSpHf9R86BdkuARowXmpMjdu1Uslh5T07iMsQY=",
-        "vega_pub_key": "5abb77288c83c7fb3096ee5cec212c3f8c2285c038008510068d82159628d1f2",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "WwiwVZM3acJ/Ex/f4jAd7BbhXz0/maKvfosMsI/Xgrk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/fq9c4poikfc9ces2ipebmbc9h731we0x?d=identicon",
+        "country": "FE",
+        "ethereum_address": "0x8ABb667c44a744bFb6ED16Bd53704357F89a0C35",
+        "id": "8c029616cf1240166273277ee7f467cf81dab595bdd3df8c896b953555f385d3",
+        "info_url": "https://en.wikipedia.org/wiki/Brian_Alderson_(children%27s_book_critic)",
+        "name": "odd-brother",
+        "tm_pub_key": "WwiwVZM3acJ/Ex/f4jAd7BbhXz0/maKvfosMsI/Xgrk=",
+        "vega_pub_key": "1147a177a77c034c8b2a7ff084df79cbdb1aa362d43decd5fa677c5da30213c0",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401081351",
+  "chain_id": "vega-devnet1-202401081528",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-08T13:51:38.735441025Z",
+  "genesis_time": "2024-01-08T15:28:27.731292495Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "3EA9770F1ADA92815A3902634EA32FC0BE466564",
-      "name": "short-roof",
+      "address": "70C0FACA37AFCF577CA39848B001F062147B384D",
+      "name": "odd-brother",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "CPDvHHSpHf9R86BdkuARowXmpMjdu1Uslh5T07iMsQY="
+        "value": "WwiwVZM3acJ/Ex/f4jAd7BbhXz0/maKvfosMsI/Xgrk="
       }
     }
   ]
