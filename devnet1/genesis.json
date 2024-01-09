@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "4zIqQMN0MPWSSubSOKdME6x1EFGhawGGkwhkJS/87bg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/gj6f7sk9wkcybq92e3it8q30dkan9qgl?d=identicon",
-        "country": "VM",
-        "ethereum_address": "0xdAA96f69fB8273e90Fa1e82F45D5444406785AE8",
-        "id": "def927b4dbbe9f8ea15a989901bed1091b5a558470a019616eb2da196f326cbe",
-        "info_url": "https://en.wikipedia.org/wiki/Axylus",
-        "name": "mysterious-pen",
-        "tm_pub_key": "4zIqQMN0MPWSSubSOKdME6x1EFGhawGGkwhkJS/87bg=",
-        "vega_pub_key": "44ce617ba67d1a1dbfc3e4e9f60f9368f4bed137f20667d1c8b13b0bf03a2dcd",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "ffVQ3rZ388fvJvZn9P+iMRHw0eHnyrMtwDx141b+XXs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/so56n6ux103s8zlq7k11491vihedx6co?d=identicon",
+        "country": "SI",
+        "ethereum_address": "0x3Fc7aD12C1EA8589359C2C4e35BE96420899914e",
+        "id": "a94939d3548151770e56c7ef37835e6704e75093798c1864f6b2bd3df313fc76",
+        "info_url": "https://en.wikipedia.org/wiki/Railway_accidents_in_Queensland",
+        "name": "determined-dog",
+        "tm_pub_key": "ffVQ3rZ388fvJvZn9P+iMRHw0eHnyrMtwDx141b+XXs=",
+        "vega_pub_key": "fb38d57baa28411772d1a4425501b6a2752e2cec163277cc4eaa7be319bae92c",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401091039",
+  "chain_id": "vega-devnet1-202401091551",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-09T10:39:58.714804751Z",
+  "genesis_time": "2024-01-09T15:51:35.861422607Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "6CE181FD0B80105E0285E868D70DB146B9F6ADF5",
-      "name": "mysterious-pen",
+      "address": "0378F9EEDED2AF167D1B5F90D81EF4DDE38A2D3A",
+      "name": "determined-dog",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "4zIqQMN0MPWSSubSOKdME6x1EFGhawGGkwhkJS/87bg="
+        "value": "ffVQ3rZ388fvJvZn9P+iMRHw0eHnyrMtwDx141b+XXs="
       }
     }
   ]
