@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "9iubfJeH1CBL5qy6fg9oQi9g2MINPazQq3aH0LxmWfY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/2web8mub67n8f7dbik9acipz6qvmsr2l?d=identicon",
-        "country": "IP",
-        "ethereum_address": "0xe3e261797d04fde3dCE0BC16CABe836CF083C127",
-        "id": "27025575054cf53ce05ae01298e11d343e580b659552f2719ab1b921fb42c279",
-        "info_url": "https://en.wikipedia.org/wiki/Dorelia_McNeill",
-        "name": "lucky-vacuum",
-        "tm_pub_key": "9iubfJeH1CBL5qy6fg9oQi9g2MINPazQq3aH0LxmWfY=",
-        "vega_pub_key": "a3f1dcfe4701a0e755f224ddadc6b4be3c2db67b0a7b3256af3e6ac603bc23be",
+      "4zIqQMN0MPWSSubSOKdME6x1EFGhawGGkwhkJS/87bg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/gj6f7sk9wkcybq92e3it8q30dkan9qgl?d=identicon",
+        "country": "VM",
+        "ethereum_address": "0xdAA96f69fB8273e90Fa1e82F45D5444406785AE8",
+        "id": "def927b4dbbe9f8ea15a989901bed1091b5a558470a019616eb2da196f326cbe",
+        "info_url": "https://en.wikipedia.org/wiki/Axylus",
+        "name": "mysterious-pen",
+        "tm_pub_key": "4zIqQMN0MPWSSubSOKdME6x1EFGhawGGkwhkJS/87bg=",
+        "vega_pub_key": "44ce617ba67d1a1dbfc3e4e9f60f9368f4bed137f20667d1c8b13b0bf03a2dcd",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401090849",
+  "chain_id": "vega-devnet1-202401091039",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-09T08:49:14.692930596Z",
+  "genesis_time": "2024-01-09T10:39:58.714804751Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "EEEE03640B2EDDE9376808B4A2C032D6FFA7E345",
-      "name": "lucky-vacuum",
+      "address": "6CE181FD0B80105E0285E868D70DB146B9F6ADF5",
+      "name": "mysterious-pen",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "9iubfJeH1CBL5qy6fg9oQi9g2MINPazQq3aH0LxmWfY="
+        "value": "4zIqQMN0MPWSSubSOKdME6x1EFGhawGGkwhkJS/87bg="
       }
     }
   ]
