@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "9iubfJeH1CBL5qy6fg9oQi9g2MINPazQq3aH0LxmWfY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/2web8mub67n8f7dbik9acipz6qvmsr2l?d=identicon",
+        "country": "IP",
+        "ethereum_address": "0xe3e261797d04fde3dCE0BC16CABe836CF083C127",
+        "id": "27025575054cf53ce05ae01298e11d343e580b659552f2719ab1b921fb42c279",
+        "info_url": "https://en.wikipedia.org/wiki/Dorelia_McNeill",
+        "name": "lucky-vacuum",
+        "tm_pub_key": "9iubfJeH1CBL5qy6fg9oQi9g2MINPazQq3aH0LxmWfY=",
+        "vega_pub_key": "a3f1dcfe4701a0e755f224ddadc6b4be3c2db67b0a7b3256af3e6ac603bc23be",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "avGRwXyXBmC0ICPheglI6wP0BTD2C+aw60vcjwR6PPE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/twhj3czn33i0h339bmekf28z8xu9fo5c?d=identicon",
-        "country": "WK",
-        "ethereum_address": "0x7e434f19DC0E684C5fF51A8c6d6295C1D4241fB9",
-        "id": "57398d1a16345767a401ec721590d3eac793a1309622801cf528403606290759",
-        "info_url": "https://en.wikipedia.org/wiki/Champahati",
-        "name": "wrong-clouds",
-        "tm_pub_key": "avGRwXyXBmC0ICPheglI6wP0BTD2C+aw60vcjwR6PPE=",
-        "vega_pub_key": "915724afe4c0fe7e4beb60ae3c42ac27edcf786c2d0101f019592427f91f429c",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401081707",
+  "chain_id": "vega-devnet1-202401090849",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-08T17:07:25.181577652Z",
+  "genesis_time": "2024-01-09T08:49:14.692930596Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "AE5851DFAAAC1299DC65CAD745614939C0CC8609",
-      "name": "wrong-clouds",
+      "address": "EEEE03640B2EDDE9376808B4A2C032D6FFA7E345",
+      "name": "lucky-vacuum",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "avGRwXyXBmC0ICPheglI6wP0BTD2C+aw60vcjwR6PPE="
+        "value": "9iubfJeH1CBL5qy6fg9oQi9g2MINPazQq3aH0LxmWfY="
       }
     }
   ]
