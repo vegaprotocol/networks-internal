@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "8kCSOweRSPGgfBFxjpRIQJYFhjNJVhFDwrbnv0/8KXE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/jhr8r8c3csg3tlme745a6zrn5fgqmooy?d=identicon",
-        "country": "VJ",
-        "ethereum_address": "0x74f07913Da493E132724d8933C40A7C80aED03e1",
-        "id": "65157fd39f78e295e8ef769b90a0efc515a3ac1fcb8333508c9642de4d1feb2e",
-        "info_url": "https://en.wikipedia.org/wiki/Punishment_in_Laos",
-        "name": "rhythmic-hill",
-        "tm_pub_key": "8kCSOweRSPGgfBFxjpRIQJYFhjNJVhFDwrbnv0/8KXE=",
-        "vega_pub_key": "e818030a60bd597e1d9f892c0cd17a7b91c0cfd364fc735790479773a47bbda8",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "eEX3lDiBLZSjCbTj5buRHxrZsVGFqiqnZtDW/tjG0P0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/f7kqyymt7rbygucaeo36ya7oluutk5gt?d=identicon",
+        "country": "EU",
+        "ethereum_address": "0xa6523aeC806c98ca24f4Dc40095B5Cc287d6f8Ba",
+        "id": "cc520cc96ef4e2390297f94e0f2d16ac2546f5fdcb64db2588b9755742224867",
+        "info_url": "https://en.wikipedia.org/wiki/List_of_world_table_football_champions",
+        "name": "stocky-river",
+        "tm_pub_key": "eEX3lDiBLZSjCbTj5buRHxrZsVGFqiqnZtDW/tjG0P0=",
+        "vega_pub_key": "dde5ee81ffe302408ba7488d3599cefb6aabeaa0f83c2be36320d1cde9857807",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401101214",
+  "chain_id": "vega-devnet1-202401101347",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-10T12:14:26.027850734Z",
+  "genesis_time": "2024-01-10T13:47:23.545136901Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "7A4175DB49F40D8F39D0143B6BED9FAEF24E5E16",
-      "name": "rhythmic-hill",
+      "address": "16B33495222E82842F1B36B7057D0CFDE1DBB637",
+      "name": "stocky-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "8kCSOweRSPGgfBFxjpRIQJYFhjNJVhFDwrbnv0/8KXE="
+        "value": "eEX3lDiBLZSjCbTj5buRHxrZsVGFqiqnZtDW/tjG0P0="
       }
     }
   ]
