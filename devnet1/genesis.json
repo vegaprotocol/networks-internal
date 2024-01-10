@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "JkuuldsbarVDUmruTbSpl+DLuNrMpJc6M+9tdXnz6ew=": {
-        "avatar_url": "https://www.gravatar.com/avatar/yscglll37w2mhj028ezxbn0v3qia5do5?d=identicon",
-        "country": "RJ",
-        "ethereum_address": "0x60140452cb932947a417419782dc8051E0F867e9",
-        "id": "0e2861f0b1092c41d177fc3bf5c35aa6e7488759ae2d6365de06057ab76519cb",
-        "info_url": "https://en.wikipedia.org/wiki/Soheila_Mansourian",
-        "name": "tricky-monkey",
-        "tm_pub_key": "JkuuldsbarVDUmruTbSpl+DLuNrMpJc6M+9tdXnz6ew=",
-        "vega_pub_key": "996b3763eba1aac8325d3e4acc32a2195a1d74a4887ba9958ccf33f43311ebf7",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -314,6 +303,17 @@
         "vega_pub_key": "ec52a0909053e61531925dbf38ef3419265d41375fc82c967b429ab17548f254",
         "vega_pub_key_index": 1
       },
+      "tX6IriJ13EdrE2mXa1RWY684tF+FQ16XgKDwZjiuIKU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xzf2w99g5q0hz62x9jynbirhhl542tmt?d=identicon",
+        "country": "NM",
+        "ethereum_address": "0xE8a998B8F9731a8cC9bd88DD5a59bF5E234bc2C9",
+        "id": "1736125b2b59cea100774d1597a64be6fcf72ea9dddfda4c6328d8c3246b87ec",
+        "info_url": "https://en.wikipedia.org/wiki/Clara_Maniu",
+        "name": "vast-vacuum",
+        "tm_pub_key": "tX6IriJ13EdrE2mXa1RWY684tF+FQ16XgKDwZjiuIKU=",
+        "vega_pub_key": "dd19f542070fb28b39b3aca6890f1d7e42a3d84f68fd4755a6998ee3d1bbe268",
+        "vega_pub_key_index": 1
+      },
       "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=": {
         "avatar_url": "https://www.gravatar.com/avatar/a1ae15bucug2qortml2n4rifwznx19tv?d=identicon",
         "country": "WO",
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401101910",
+  "chain_id": "vega-devnet1-202401102059",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-10T19:10:52.534068627Z",
+  "genesis_time": "2024-01-10T20:59:49.051872649Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "0BC24DE267D8E9509F253F38B160235EE778F5E1",
-      "name": "tricky-monkey",
+      "address": "719FB347463AB27334EB9A98C738E450CA36A2E3",
+      "name": "vast-vacuum",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "JkuuldsbarVDUmruTbSpl+DLuNrMpJc6M+9tdXnz6ew="
+        "value": "tX6IriJ13EdrE2mXa1RWY684tF+FQ16XgKDwZjiuIKU="
       }
     }
   ]
