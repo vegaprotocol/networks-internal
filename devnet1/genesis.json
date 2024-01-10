@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "SxMFecOH5srwZXenVBp3s09xvvZhIV2sxQPTpHm3GF0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/co76kqfqmqu2smk80gi3gyk8oamcpobx?d=identicon",
-        "country": "KM",
-        "ethereum_address": "0xB604790A90600384D27371e3f4E382BCb1F80059",
-        "id": "6892c92ff4fda31fbf35ab63bc9cc3d960aeb9905a4f20551f4950ac76e9c67d",
-        "info_url": "https://en.wikipedia.org/wiki/Melanie_McFadyean",
-        "name": "cooperative-milk",
-        "tm_pub_key": "SxMFecOH5srwZXenVBp3s09xvvZhIV2sxQPTpHm3GF0=",
-        "vega_pub_key": "ac82f004843de116a3ccc9e789aa6d488a80224ee8003cc30be6a1e92127fb22",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -324,10 +313,21 @@
         "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
+      },
+      "wn6VSHB7DslP3mBkOaZogMr2s/t096E1DvUlES1I1zs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/tpch5e96wvcvu3pm0s7mlsn8jjdmdbf2?d=identicon",
+        "country": "JL",
+        "ethereum_address": "0x87BF7e60FBC195B76D0D6254850e69076a92674f",
+        "id": "fd005bf2cfe2b298f46f04d1a4a7162ed36c45997501c48869e98ab90993ea64",
+        "info_url": "https://en.wikipedia.org/wiki/Curcuma_petiolata",
+        "name": "ugly-ball",
+        "tm_pub_key": "wn6VSHB7DslP3mBkOaZogMr2s/t096E1DvUlES1I1zs=",
+        "vega_pub_key": "87188ea1a1855c8897c0508ecb16326a4382eae226b387be1480f5ea1df72003",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202401092109",
+  "chain_id": "vega-devnet1-202401101129",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-09T21:09:44.475898681Z",
+  "genesis_time": "2024-01-10T11:29:33.58334187Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "355B349960CA49596732440A1CCA7659552BE3B9",
-      "name": "cooperative-milk",
+      "address": "BA5AB455823AD6BE32A0184AADC6D258F35107DB",
+      "name": "ugly-ball",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "SxMFecOH5srwZXenVBp3s09xvvZhIV2sxQPTpHm3GF0="
+        "value": "wn6VSHB7DslP3mBkOaZogMr2s/t096E1DvUlES1I1zs="
       }
     }
   ]
