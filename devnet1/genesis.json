@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "7vdcOHvCx/D8CVTcCNFwkct4lZkvPu5ba5FrgMS1Kh4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/pqc7tat8b5jh624fs6mn4wy67mwveozk?d=identicon",
+        "country": "UB",
+        "ethereum_address": "0xA5e5D405A0AfB272447EB4BaAc6466A3e04D08cF",
+        "id": "34ac404d848484e085ac15afe2d0c13bb82a31eb63e079b047975d5b2d40e2fc",
+        "info_url": "https://en.wikipedia.org/wiki/Monohansett_(steamboat)",
+        "name": "lemon-pizza",
+        "tm_pub_key": "7vdcOHvCx/D8CVTcCNFwkct4lZkvPu5ba5FrgMS1Kh4=",
+        "vega_pub_key": "4771e25ae02d42e47d4e867a8fd8729e5bf6ce62ccb492e659caa96a3ed82cb3",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -303,17 +314,6 @@
         "vega_pub_key": "ec52a0909053e61531925dbf38ef3419265d41375fc82c967b429ab17548f254",
         "vega_pub_key_index": 1
       },
-      "tX6IriJ13EdrE2mXa1RWY684tF+FQ16XgKDwZjiuIKU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/xzf2w99g5q0hz62x9jynbirhhl542tmt?d=identicon",
-        "country": "NM",
-        "ethereum_address": "0xE8a998B8F9731a8cC9bd88DD5a59bF5E234bc2C9",
-        "id": "1736125b2b59cea100774d1597a64be6fcf72ea9dddfda4c6328d8c3246b87ec",
-        "info_url": "https://en.wikipedia.org/wiki/Clara_Maniu",
-        "name": "vast-vacuum",
-        "tm_pub_key": "tX6IriJ13EdrE2mXa1RWY684tF+FQ16XgKDwZjiuIKU=",
-        "vega_pub_key": "dd19f542070fb28b39b3aca6890f1d7e42a3d84f68fd4755a6998ee3d1bbe268",
-        "vega_pub_key_index": 1
-      },
       "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=": {
         "avatar_url": "https://www.gravatar.com/avatar/a1ae15bucug2qortml2n4rifwznx19tv?d=identicon",
         "country": "WO",
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401102059",
+  "chain_id": "vega-devnet1-202401102203",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-10T20:59:49.051872649Z",
+  "genesis_time": "2024-01-10T22:03:35.295636012Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "719FB347463AB27334EB9A98C738E450CA36A2E3",
-      "name": "vast-vacuum",
+      "address": "C895ED1E9FBB4573920953672988D6206555BF62",
+      "name": "lemon-pizza",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "tX6IriJ13EdrE2mXa1RWY684tF+FQ16XgKDwZjiuIKU="
+        "value": "7vdcOHvCx/D8CVTcCNFwkct4lZkvPu5ba5FrgMS1Kh4="
       }
     }
   ]
