@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "8kCSOweRSPGgfBFxjpRIQJYFhjNJVhFDwrbnv0/8KXE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/jhr8r8c3csg3tlme745a6zrn5fgqmooy?d=identicon",
+        "country": "VJ",
+        "ethereum_address": "0x74f07913Da493E132724d8933C40A7C80aED03e1",
+        "id": "65157fd39f78e295e8ef769b90a0efc515a3ac1fcb8333508c9642de4d1feb2e",
+        "info_url": "https://en.wikipedia.org/wiki/Punishment_in_Laos",
+        "name": "rhythmic-hill",
+        "tm_pub_key": "8kCSOweRSPGgfBFxjpRIQJYFhjNJVhFDwrbnv0/8KXE=",
+        "vega_pub_key": "e818030a60bd597e1d9f892c0cd17a7b91c0cfd364fc735790479773a47bbda8",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -313,21 +324,10 @@
         "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
-      },
-      "wn6VSHB7DslP3mBkOaZogMr2s/t096E1DvUlES1I1zs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/tpch5e96wvcvu3pm0s7mlsn8jjdmdbf2?d=identicon",
-        "country": "JL",
-        "ethereum_address": "0x87BF7e60FBC195B76D0D6254850e69076a92674f",
-        "id": "fd005bf2cfe2b298f46f04d1a4a7162ed36c45997501c48869e98ab90993ea64",
-        "info_url": "https://en.wikipedia.org/wiki/Curcuma_petiolata",
-        "name": "ugly-ball",
-        "tm_pub_key": "wn6VSHB7DslP3mBkOaZogMr2s/t096E1DvUlES1I1zs=",
-        "vega_pub_key": "87188ea1a1855c8897c0508ecb16326a4382eae226b387be1480f5ea1df72003",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202401101129",
+  "chain_id": "vega-devnet1-202401101214",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-10T11:29:33.58334187Z",
+  "genesis_time": "2024-01-10T12:14:26.027850734Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "BA5AB455823AD6BE32A0184AADC6D258F35107DB",
-      "name": "ugly-ball",
+      "address": "7A4175DB49F40D8F39D0143B6BED9FAEF24E5E16",
+      "name": "rhythmic-hill",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "wn6VSHB7DslP3mBkOaZogMr2s/t096E1DvUlES1I1zs="
+        "value": "8kCSOweRSPGgfBFxjpRIQJYFhjNJVhFDwrbnv0/8KXE="
       }
     }
   ]
