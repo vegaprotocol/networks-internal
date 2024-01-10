@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "JkuuldsbarVDUmruTbSpl+DLuNrMpJc6M+9tdXnz6ew=": {
+        "avatar_url": "https://www.gravatar.com/avatar/yscglll37w2mhj028ezxbn0v3qia5do5?d=identicon",
+        "country": "RJ",
+        "ethereum_address": "0x60140452cb932947a417419782dc8051E0F867e9",
+        "id": "0e2861f0b1092c41d177fc3bf5c35aa6e7488759ae2d6365de06057ab76519cb",
+        "info_url": "https://en.wikipedia.org/wiki/Soheila_Mansourian",
+        "name": "tricky-monkey",
+        "tm_pub_key": "JkuuldsbarVDUmruTbSpl+DLuNrMpJc6M+9tdXnz6ew=",
+        "vega_pub_key": "996b3763eba1aac8325d3e4acc32a2195a1d74a4887ba9958ccf33f43311ebf7",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "hYscxNWVZuYOWYVPy+IBPLm3vqlcYbUvDtKCgGXU+l8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/5seg5vfvl3xg2ywn7nic2gnf87sba018?d=identicon",
-        "country": "ZD",
-        "ethereum_address": "0x7D99C3Df94eb387Bc0dc96fa54Ba2a4de67C1106",
-        "id": "4ad11d609e7e8f1d1d7febaa5b8543cfaf393bab58ddfe1b5f7be61e02191946",
-        "info_url": "https://en.wikipedia.org/wiki/Hsin_Chong",
-        "name": "hollow-plant",
-        "tm_pub_key": "hYscxNWVZuYOWYVPy+IBPLm3vqlcYbUvDtKCgGXU+l8=",
-        "vega_pub_key": "ae648c2677c9cd6231009e77b3828dec5862f02d2ecfe0dc98af8f25c0b4a7c1",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401101610",
+  "chain_id": "vega-devnet1-202401101910",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-10T16:10:54.195769366Z",
+  "genesis_time": "2024-01-10T19:10:52.534068627Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "559613705BC3DE12C8F87EBF59043509903C1352",
-      "name": "hollow-plant",
+      "address": "0BC24DE267D8E9509F253F38B160235EE778F5E1",
+      "name": "tricky-monkey",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "hYscxNWVZuYOWYVPy+IBPLm3vqlcYbUvDtKCgGXU+l8="
+        "value": "JkuuldsbarVDUmruTbSpl+DLuNrMpJc6M+9tdXnz6ew="
       }
     }
   ]
