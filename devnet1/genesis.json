@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "1CslS30h333GdgkPcPjAhJkPjcykRWoTnQDLaREzgEg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/3v7svk5cw4tf10c1smazo7ravxnqk9lq?d=identicon",
+        "country": "QD",
+        "ethereum_address": "0xc20fD418d35376946A5d9036DC323729CA3F4807",
+        "id": "27d1cf1e9443acc9b44cd8ec5c29b105c06a1e65715cf5755399977c0d0f4056",
+        "info_url": "https://en.wikipedia.org/wiki/Air_Bud:_Golden_Receiver",
+        "name": "inexpensive-bee",
+        "tm_pub_key": "1CslS30h333GdgkPcPjAhJkPjcykRWoTnQDLaREzgEg=",
+        "vega_pub_key": "ccc467bd142ee20f811375dcace1c4374965a1df906072eb91921efdcd706785",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "eEX3lDiBLZSjCbTj5buRHxrZsVGFqiqnZtDW/tjG0P0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/f7kqyymt7rbygucaeo36ya7oluutk5gt?d=identicon",
-        "country": "EU",
-        "ethereum_address": "0xa6523aeC806c98ca24f4Dc40095B5Cc287d6f8Ba",
-        "id": "cc520cc96ef4e2390297f94e0f2d16ac2546f5fdcb64db2588b9755742224867",
-        "info_url": "https://en.wikipedia.org/wiki/List_of_world_table_football_champions",
-        "name": "stocky-river",
-        "tm_pub_key": "eEX3lDiBLZSjCbTj5buRHxrZsVGFqiqnZtDW/tjG0P0=",
-        "vega_pub_key": "dde5ee81ffe302408ba7488d3599cefb6aabeaa0f83c2be36320d1cde9857807",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401101347",
+  "chain_id": "vega-devnet1-202401101425",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-10T13:47:23.545136901Z",
+  "genesis_time": "2024-01-10T14:25:08.500153968Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "16B33495222E82842F1B36B7057D0CFDE1DBB637",
-      "name": "stocky-river",
+      "address": "6ACAF66E122586EFC2CAA74836157ED5CC18A989",
+      "name": "inexpensive-bee",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "eEX3lDiBLZSjCbTj5buRHxrZsVGFqiqnZtDW/tjG0P0="
+        "value": "1CslS30h333GdgkPcPjAhJkPjcykRWoTnQDLaREzgEg="
       }
     }
   ]
