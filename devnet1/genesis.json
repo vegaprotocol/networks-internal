@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "QL8sp0PJfcnd3Mm945d0VEu27Hijac333pUWn6hIBMg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/odjm5ij26k4rdlo0usvftwf3fygjwg68?d=identicon",
-        "country": "GU",
-        "ethereum_address": "0xe63cb89f1aa6d9e04bB4abdB912526508fd20E75",
-        "id": "ca13e31d99de70f8bd5bc8db68e410e21b23c2180058437045cdb057f121bd3c",
-        "info_url": "https://en.wikipedia.org/wiki/Ilkka_Vaarasuo",
-        "name": "lucky-river",
-        "tm_pub_key": "QL8sp0PJfcnd3Mm945d0VEu27Hijac333pUWn6hIBMg=",
-        "vega_pub_key": "6e24d6e74d7809008c8815f8abeaf90cf239d4224654dd11da15c80a8126e710",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "iVP4HMZt31CR+w2h4dzaiYdz0L1WIwAXfQGGTH8ENTc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/zv34fjirjqlfymrpwvkni72zh4rvnqlz?d=identicon",
+        "country": "IS",
+        "ethereum_address": "0x47f29576396596F7A98b840Cb9A485Dd2e3C2231",
+        "id": "6c28b9947660ca4f83b81f6d94285ceb066bf9454886c5217afb6dbafba1ebc9",
+        "info_url": "https://en.wikipedia.org/wiki/Siege_of_Pueblo_de_Taos",
+        "name": "melodic-park",
+        "tm_pub_key": "iVP4HMZt31CR+w2h4dzaiYdz0L1WIwAXfQGGTH8ENTc=",
+        "vega_pub_key": "1024b84bb1678ace41ec2199249ecf6d9f42b3fe54744c91f905787b6883eace",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401111401",
+  "chain_id": "vega-devnet1-202401111516",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-11T14:01:17.929797488Z",
+  "genesis_time": "2024-01-11T15:16:37.441629898Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "AD205B383A2E0A4C0FF9835132039437E5D2C696",
-      "name": "lucky-river",
+      "address": "87FFD2C4910512F50406259A0DCB730A9429D8ED",
+      "name": "melodic-park",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "QL8sp0PJfcnd3Mm945d0VEu27Hijac333pUWn6hIBMg="
+        "value": "iVP4HMZt31CR+w2h4dzaiYdz0L1WIwAXfQGGTH8ENTc="
       }
     }
   ]
