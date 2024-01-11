@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "RtLvbo+8HaYWpOwrpoaSNo0jqTGgRDmB57KFQY8Qib0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/2m75ofnh5jmlkxbw1wm9uq182owf87ri?d=identicon",
-        "country": "CT",
-        "ethereum_address": "0xD30310174e3be2CDC0148d3Bb2404947EBEfe35F",
-        "id": "e8eb2d9cb2519c9b4c8b66a90b620e5847674977cb6846fa8c6e42b573219069",
-        "info_url": "https://en.wikipedia.org/wiki/Lebanon_at_the_2009_Asian_Indoor_Games",
-        "name": "melodic-bed",
-        "tm_pub_key": "RtLvbo+8HaYWpOwrpoaSNo0jqTGgRDmB57KFQY8Qib0=",
-        "vega_pub_key": "9131f3fed0fe0b841440a83a7d4e62250b8e784ecfc07248ebc6ca52bbaabf0c",
+      "QL8sp0PJfcnd3Mm945d0VEu27Hijac333pUWn6hIBMg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/odjm5ij26k4rdlo0usvftwf3fygjwg68?d=identicon",
+        "country": "GU",
+        "ethereum_address": "0xe63cb89f1aa6d9e04bB4abdB912526508fd20E75",
+        "id": "ca13e31d99de70f8bd5bc8db68e410e21b23c2180058437045cdb057f121bd3c",
+        "info_url": "https://en.wikipedia.org/wiki/Ilkka_Vaarasuo",
+        "name": "lucky-river",
+        "tm_pub_key": "QL8sp0PJfcnd3Mm945d0VEu27Hijac333pUWn6hIBMg=",
+        "vega_pub_key": "6e24d6e74d7809008c8815f8abeaf90cf239d4224654dd11da15c80a8126e710",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401111249",
+  "chain_id": "vega-devnet1-202401111401",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-11T12:49:57.002306632Z",
+  "genesis_time": "2024-01-11T14:01:17.929797488Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "C5ADE0AD223125BA6AB5A3A2F23A721A29C1E48C",
-      "name": "melodic-bed",
+      "address": "AD205B383A2E0A4C0FF9835132039437E5D2C696",
+      "name": "lucky-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "RtLvbo+8HaYWpOwrpoaSNo0jqTGgRDmB57KFQY8Qib0="
+        "value": "QL8sp0PJfcnd3Mm945d0VEu27Hijac333pUWn6hIBMg="
       }
     }
   ]
