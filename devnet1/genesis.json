@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "RtLvbo+8HaYWpOwrpoaSNo0jqTGgRDmB57KFQY8Qib0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/2m75ofnh5jmlkxbw1wm9uq182owf87ri?d=identicon",
+        "country": "CT",
+        "ethereum_address": "0xD30310174e3be2CDC0148d3Bb2404947EBEfe35F",
+        "id": "e8eb2d9cb2519c9b4c8b66a90b620e5847674977cb6846fa8c6e42b573219069",
+        "info_url": "https://en.wikipedia.org/wiki/Lebanon_at_the_2009_Asian_Indoor_Games",
+        "name": "melodic-bed",
+        "tm_pub_key": "RtLvbo+8HaYWpOwrpoaSNo0jqTGgRDmB57KFQY8Qib0=",
+        "vega_pub_key": "9131f3fed0fe0b841440a83a7d4e62250b8e784ecfc07248ebc6ca52bbaabf0c",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "rKY8i/VDvbrxsf0uniop3IQb4YaDXbQmOpJXVGzWH4M=": {
-        "avatar_url": "https://www.gravatar.com/avatar/91ye7n9q52y43wbgl5pk4thcg52dw2zb?d=identicon",
-        "country": "XQ",
-        "ethereum_address": "0x5606245150dfEaD18f0bd2b80893E029Aed240F7",
-        "id": "31cce016b3509467541a3bf291452a4f4af07371e87b5bd7c2d1ca085c123d3b",
-        "info_url": "https://en.wikipedia.org/wiki/Bitpanda",
-        "name": "adorable-roof",
-        "tm_pub_key": "rKY8i/VDvbrxsf0uniop3IQb4YaDXbQmOpJXVGzWH4M=",
-        "vega_pub_key": "22d53122d7d39c8402347667419189dd1994fdb87849c8ce8335ffc570e66482",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401110933",
+  "chain_id": "vega-devnet1-202401111205",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-11T09:33:11.993870301Z",
+  "genesis_time": "2024-01-11T12:05:55.874942344Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "15D500F4EA4681EAFF38546C364D9E01BC5FC98C",
-      "name": "adorable-roof",
+      "address": "C5ADE0AD223125BA6AB5A3A2F23A721A29C1E48C",
+      "name": "melodic-bed",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "rKY8i/VDvbrxsf0uniop3IQb4YaDXbQmOpJXVGzWH4M="
+        "value": "RtLvbo+8HaYWpOwrpoaSNo0jqTGgRDmB57KFQY8Qib0="
       }
     }
   ]
