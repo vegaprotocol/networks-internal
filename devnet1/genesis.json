@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "7vdcOHvCx/D8CVTcCNFwkct4lZkvPu5ba5FrgMS1Kh4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/pqc7tat8b5jh624fs6mn4wy67mwveozk?d=identicon",
-        "country": "UB",
-        "ethereum_address": "0xA5e5D405A0AfB272447EB4BaAc6466A3e04D08cF",
-        "id": "34ac404d848484e085ac15afe2d0c13bb82a31eb63e079b047975d5b2d40e2fc",
-        "info_url": "https://en.wikipedia.org/wiki/Monohansett_(steamboat)",
-        "name": "lemon-pizza",
-        "tm_pub_key": "7vdcOHvCx/D8CVTcCNFwkct4lZkvPu5ba5FrgMS1Kh4=",
-        "vega_pub_key": "4771e25ae02d42e47d4e867a8fd8729e5bf6ce62ccb492e659caa96a3ed82cb3",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "rKY8i/VDvbrxsf0uniop3IQb4YaDXbQmOpJXVGzWH4M=": {
+        "avatar_url": "https://www.gravatar.com/avatar/91ye7n9q52y43wbgl5pk4thcg52dw2zb?d=identicon",
+        "country": "XQ",
+        "ethereum_address": "0x5606245150dfEaD18f0bd2b80893E029Aed240F7",
+        "id": "31cce016b3509467541a3bf291452a4f4af07371e87b5bd7c2d1ca085c123d3b",
+        "info_url": "https://en.wikipedia.org/wiki/Bitpanda",
+        "name": "adorable-roof",
+        "tm_pub_key": "rKY8i/VDvbrxsf0uniop3IQb4YaDXbQmOpJXVGzWH4M=",
+        "vega_pub_key": "22d53122d7d39c8402347667419189dd1994fdb87849c8ce8335ffc570e66482",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401102203",
+  "chain_id": "vega-devnet1-202401110933",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-10T22:03:35.295636012Z",
+  "genesis_time": "2024-01-11T09:33:11.993870301Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "C895ED1E9FBB4573920953672988D6206555BF62",
-      "name": "lemon-pizza",
+      "address": "15D500F4EA4681EAFF38546C364D9E01BC5FC98C",
+      "name": "adorable-roof",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "7vdcOHvCx/D8CVTcCNFwkct4lZkvPu5ba5FrgMS1Kh4="
+        "value": "rKY8i/VDvbrxsf0uniop3IQb4YaDXbQmOpJXVGzWH4M="
       }
     }
   ]
