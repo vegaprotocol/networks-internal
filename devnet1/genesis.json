@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "610/z7V5GEPA5v01WcDHGXXg6Q6GAcrzKS/DqNU7lA0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/eioqeodund4gf3kmpvcnkalu2uphjpx0?d=identicon",
+        "country": "ER",
+        "ethereum_address": "0x6F79d2D07e3B7c44a1CE803d6411A105b55482c0",
+        "id": "21d87b6bf86b9a8a99fd6d9b20ee841a47a462491aa66d551990d038204051bc",
+        "info_url": "https://en.wikipedia.org/wiki/Cassano_Irpino",
+        "name": "perfect-horse",
+        "tm_pub_key": "610/z7V5GEPA5v01WcDHGXXg6Q6GAcrzKS/DqNU7lA0=",
+        "vega_pub_key": "d3548d03d1ebc52d9bc23c6a5a19552bf8680a99124e5ba505b92eb6b1b04813",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "q8IRKW0mkGnNra4oRdofxTm9lIVsQkkBZJJz5ineHt0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/kkhhh7893z7lfoxy54tu0jcf8q0ir0co?d=identicon",
-        "country": "FM",
-        "ethereum_address": "0xF7CC57938e69FE79DE81C68cB66088E57Eef5208",
-        "id": "8bf1959df3d943bec78e90b8e1a2819046eadb4ba2a15e4c03d49692210235c4",
-        "info_url": "https://en.wikipedia.org/wiki/Anderson_Kingfisher",
-        "name": "condescending-pen",
-        "tm_pub_key": "q8IRKW0mkGnNra4oRdofxTm9lIVsQkkBZJJz5ineHt0=",
-        "vega_pub_key": "6098f3c4ac599fb1ad3af9c4d7324aa163b24fc793d779866b4e72f57f3e7c71",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401121343",
+  "chain_id": "vega-devnet1-202401121506",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-12T13:43:28.366340486Z",
+  "genesis_time": "2024-01-12T15:06:08.683239439Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "D6A194D61FE59D26773E75249CBC53BE442BA934",
-      "name": "condescending-pen",
+      "address": "3081850674F4A7FF8151A9DE57A57CBD191BCD2B",
+      "name": "perfect-horse",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "q8IRKW0mkGnNra4oRdofxTm9lIVsQkkBZJJz5ineHt0="
+        "value": "610/z7V5GEPA5v01WcDHGXXg6Q6GAcrzKS/DqNU7lA0="
       }
     }
   ]
