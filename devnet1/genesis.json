@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "iVP4HMZt31CR+w2h4dzaiYdz0L1WIwAXfQGGTH8ENTc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/zv34fjirjqlfymrpwvkni72zh4rvnqlz?d=identicon",
-        "country": "IS",
-        "ethereum_address": "0x47f29576396596F7A98b840Cb9A485Dd2e3C2231",
-        "id": "6c28b9947660ca4f83b81f6d94285ceb066bf9454886c5217afb6dbafba1ebc9",
-        "info_url": "https://en.wikipedia.org/wiki/Siege_of_Pueblo_de_Taos",
-        "name": "melodic-park",
-        "tm_pub_key": "iVP4HMZt31CR+w2h4dzaiYdz0L1WIwAXfQGGTH8ENTc=",
-        "vega_pub_key": "1024b84bb1678ace41ec2199249ecf6d9f42b3fe54744c91f905787b6883eace",
+      "grscFGK5rktw6c0i2Xzh/zZNZuJzHj0K5mMF8uCJBE8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/d1hx8yviga1m8dn7xth7mfezspl4z7at?d=identicon",
+        "country": "AO",
+        "ethereum_address": "0xB64aFbA671Ae0613Ce0b12A5B709807e4685128c",
+        "id": "1bd650af6044d1af59f2db7f6a8520d74b909a0ae103fbdfae2857f3c024f2b4",
+        "info_url": "https://en.wikipedia.org/wiki/John_T._Dingle",
+        "name": "confused-bat",
+        "tm_pub_key": "grscFGK5rktw6c0i2Xzh/zZNZuJzHj0K5mMF8uCJBE8=",
+        "vega_pub_key": "ab1cba30ca52e3691f38f453ba10ddab6df7c3399fec28cc11dc2a95bf46a059",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401111516",
+  "chain_id": "vega-devnet1-202401121213",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-11T15:16:37.441629898Z",
+  "genesis_time": "2024-01-12T12:13:37.780155536Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "87FFD2C4910512F50406259A0DCB730A9429D8ED",
-      "name": "melodic-park",
+      "address": "5674150265BDA10E2CFE8858E3E2DFDA4EE6F1C4",
+      "name": "confused-bat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "iVP4HMZt31CR+w2h4dzaiYdz0L1WIwAXfQGGTH8ENTc="
+        "value": "grscFGK5rktw6c0i2Xzh/zZNZuJzHj0K5mMF8uCJBE8="
       }
     }
   ]
