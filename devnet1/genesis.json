@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "610/z7V5GEPA5v01WcDHGXXg6Q6GAcrzKS/DqNU7lA0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/eioqeodund4gf3kmpvcnkalu2uphjpx0?d=identicon",
-        "country": "ER",
-        "ethereum_address": "0x6F79d2D07e3B7c44a1CE803d6411A105b55482c0",
-        "id": "21d87b6bf86b9a8a99fd6d9b20ee841a47a462491aa66d551990d038204051bc",
-        "info_url": "https://en.wikipedia.org/wiki/Cassano_Irpino",
-        "name": "perfect-horse",
-        "tm_pub_key": "610/z7V5GEPA5v01WcDHGXXg6Q6GAcrzKS/DqNU7lA0=",
-        "vega_pub_key": "d3548d03d1ebc52d9bc23c6a5a19552bf8680a99124e5ba505b92eb6b1b04813",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,6 +279,17 @@
         "name": "terrible-fan",
         "tm_pub_key": "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=",
         "vega_pub_key": "88537d06d0a10dcb71d0b0b370d7c188936bb3417b0105bb6b61340745141194",
+        "vega_pub_key_index": 1
+      },
+      "VVdEv1cPKWdOM1JI8+V4z/uRNdk9E+XtzOxFNMt9Bpc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/4pr5rzv8mb1mcwt40oun8khlx0waimks?d=identicon",
+        "country": "VN",
+        "ethereum_address": "0xAcEb14056fea2fA16a6A9642A267fB4606C72BA4",
+        "id": "47a18b1ebc646242d8fa79a2f92b72ea4014a92026d34211fdd19c6c239b57a6",
+        "info_url": "https://en.wikipedia.org/wiki/Delavan%27s_Vitrified_Brick_Street",
+        "name": "easy-television",
+        "tm_pub_key": "VVdEv1cPKWdOM1JI8+V4z/uRNdk9E+XtzOxFNMt9Bpc=",
+        "vega_pub_key": "26193989f4766e6cfbe8d0d39515b0888c092b385a7ec76985ebc7d97771e11d",
         "vega_pub_key_index": 1
       },
       "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401121506",
+  "chain_id": "vega-devnet1-202401121716",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-12T15:06:08.683239439Z",
+  "genesis_time": "2024-01-12T17:16:16.158676395Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "3081850674F4A7FF8151A9DE57A57CBD191BCD2B",
-      "name": "perfect-horse",
+      "address": "C3066EC5EF2A1FE02EB82C4B8744B4EC2ADEAE4C",
+      "name": "easy-television",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "610/z7V5GEPA5v01WcDHGXXg6Q6GAcrzKS/DqNU7lA0="
+        "value": "VVdEv1cPKWdOM1JI8+V4z/uRNdk9E+XtzOxFNMt9Bpc="
       }
     }
   ]
