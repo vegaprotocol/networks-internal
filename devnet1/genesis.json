@@ -281,17 +281,6 @@
         "vega_pub_key": "88537d06d0a10dcb71d0b0b370d7c188936bb3417b0105bb6b61340745141194",
         "vega_pub_key_index": 1
       },
-      "VVdEv1cPKWdOM1JI8+V4z/uRNdk9E+XtzOxFNMt9Bpc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/4pr5rzv8mb1mcwt40oun8khlx0waimks?d=identicon",
-        "country": "VN",
-        "ethereum_address": "0xAcEb14056fea2fA16a6A9642A267fB4606C72BA4",
-        "id": "47a18b1ebc646242d8fa79a2f92b72ea4014a92026d34211fdd19c6c239b57a6",
-        "info_url": "https://en.wikipedia.org/wiki/Delavan%27s_Vitrified_Brick_Street",
-        "name": "easy-television",
-        "tm_pub_key": "VVdEv1cPKWdOM1JI8+V4z/uRNdk9E+XtzOxFNMt9Bpc=",
-        "vega_pub_key": "26193989f4766e6cfbe8d0d39515b0888c092b385a7ec76985ebc7d97771e11d",
-        "vega_pub_key_index": 1
-      },
       "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=": {
         "avatar_url": "https://www.gravatar.com/avatar/5lclj8qe2cqcg9minvnflj0ivxr97v3f?d=identicon",
         "country": "JQ",
@@ -324,10 +313,21 @@
         "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
+      },
+      "xaRmaJ6UHbOKx+VuJa/8xpv8ZrBsOKlxJLj7QZVAs9o=": {
+        "avatar_url": "https://www.gravatar.com/avatar/n5thkvayly8i5asu3v7gqau46dsj85az?d=identicon",
+        "country": "VR",
+        "ethereum_address": "0x773226771E39725b398B6D039E6E3D9086F6a7Ed",
+        "id": "c62c83532a84371e4fe38150f71b77c73aa235568beb518adb6d311530b39714",
+        "info_url": "https://en.wikipedia.org/wiki/San_Jer%C3%B3nimo_Nejapa",
+        "name": "loose-bus",
+        "tm_pub_key": "xaRmaJ6UHbOKx+VuJa/8xpv8ZrBsOKlxJLj7QZVAs9o=",
+        "vega_pub_key": "9101b7fcda4e5bee79add86bfafd449edfe939a1ee731e63fbfaf4a2ecccbb0a",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202401151037",
+  "chain_id": "vega-devnet1-202401151106",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-15T10:37:42.077365297Z",
+  "genesis_time": "2024-01-15T11:06:00.851196683Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "C3066EC5EF2A1FE02EB82C4B8744B4EC2ADEAE4C",
-      "name": "easy-television",
+      "address": "A90D482A63B5A30D09BB5AFBD438934B7374608C",
+      "name": "loose-bus",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "VVdEv1cPKWdOM1JI8+V4z/uRNdk9E+XtzOxFNMt9Bpc="
+        "value": "xaRmaJ6UHbOKx+VuJa/8xpv8ZrBsOKlxJLj7QZVAs9o="
       }
     }
   ]
