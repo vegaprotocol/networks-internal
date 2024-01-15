@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "DZ943vq17NiuzWWgWUSxjjE7dV0yb/b5g5a8xHtJ3uY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/qh5fkvybrvsljw605ydq45nu6gv4g0ve?d=identicon",
-        "country": "XC",
-        "ethereum_address": "0xf9C23D4E7Fb2f95b8e9bE8C64B836e9117CBF9E8",
-        "id": "ff2c7243624336235094d0316c0168ad53ee7d50cd8fa44d26a76534533584f4",
-        "info_url": "https://en.wikipedia.org/wiki/Thomas_Swords",
-        "name": "costly-brother",
-        "tm_pub_key": "DZ943vq17NiuzWWgWUSxjjE7dV0yb/b5g5a8xHtJ3uY=",
-        "vega_pub_key": "50d82dbef9db2aa667f416cf8d48025d565066e53472ea494d9885ae5313b3aa",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "coD+3TbcsbcBYDaDqG4ff/oZq+V68Ln6aP4wu1kn3bw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/3eamoj5mm1l8mq2aofqpk2io83mtffon?d=identicon",
+        "country": "QD",
+        "ethereum_address": "0x82cCc33ad8c9Db919c1761B13CF921554377DDA8",
+        "id": "e632d0f54aedb853cf524bd09b1ef84b2a79e256bef54c96db76a0136fa199bd",
+        "info_url": "https://en.wikipedia.org/wiki/Ixos",
+        "name": "bored-bee",
+        "tm_pub_key": "coD+3TbcsbcBYDaDqG4ff/oZq+V68Ln6aP4wu1kn3bw=",
+        "vega_pub_key": "a69d3b510fbd3bcec012b400b0f2c53c2b516742a877b9916dc8073974c1ec07",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401151540",
+  "chain_id": "vega-devnet1-202401151735",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-15T15:40:58.356674081Z",
+  "genesis_time": "2024-01-15T17:35:29.14605323Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "A14B8AEB92543FCAA5FDE73CD1E51C36F918E20C",
-      "name": "costly-brother",
+      "address": "98208A1B578F56287FA4CC3580164E01B484E8E8",
+      "name": "bored-bee",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "DZ943vq17NiuzWWgWUSxjjE7dV0yb/b5g5a8xHtJ3uY="
+        "value": "coD+3TbcsbcBYDaDqG4ff/oZq+V68Ln6aP4wu1kn3bw="
       }
     }
   ]
