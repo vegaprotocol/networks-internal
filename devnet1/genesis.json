@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "DZ943vq17NiuzWWgWUSxjjE7dV0yb/b5g5a8xHtJ3uY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/qh5fkvybrvsljw605ydq45nu6gv4g0ve?d=identicon",
+        "country": "XC",
+        "ethereum_address": "0xf9C23D4E7Fb2f95b8e9bE8C64B836e9117CBF9E8",
+        "id": "ff2c7243624336235094d0316c0168ad53ee7d50cd8fa44d26a76534533584f4",
+        "info_url": "https://en.wikipedia.org/wiki/Thomas_Swords",
+        "name": "costly-brother",
+        "tm_pub_key": "DZ943vq17NiuzWWgWUSxjjE7dV0yb/b5g5a8xHtJ3uY=",
+        "vega_pub_key": "50d82dbef9db2aa667f416cf8d48025d565066e53472ea494d9885ae5313b3aa",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -313,21 +324,10 @@
         "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
-      },
-      "z0GqH40as3QHuN/YRZ9ZjzIDbmOjTUAAcHonYwD0poE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/hc4i68a4oddey7gsqt4szow09smru6rw?d=identicon",
-        "country": "NB",
-        "ethereum_address": "0x82ef0b1754aBfdc871DeF27e7626fD41C3D3dBE9",
-        "id": "e78b8c0d596f3f37e172d4693dd2b57055edfc62b08033b957fa21bc546de482",
-        "info_url": "https://en.wikipedia.org/wiki/Sadazane",
-        "name": "opportune-country",
-        "tm_pub_key": "z0GqH40as3QHuN/YRZ9ZjzIDbmOjTUAAcHonYwD0poE=",
-        "vega_pub_key": "4ce57ddd77862a27ec6a98f0f320ead6869d8f6cee035acd99bb91c27628a092",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202401151440",
+  "chain_id": "vega-devnet1-202401151540",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-15T14:40:01.2351383Z",
+  "genesis_time": "2024-01-15T15:40:58.356674081Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "9A42BFCB839F33663F4072AB3E674A52E6DB8427",
-      "name": "opportune-country",
+      "address": "A14B8AEB92543FCAA5FDE73CD1E51C36F918E20C",
+      "name": "costly-brother",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "z0GqH40as3QHuN/YRZ9ZjzIDbmOjTUAAcHonYwD0poE="
+        "value": "DZ943vq17NiuzWWgWUSxjjE7dV0yb/b5g5a8xHtJ3uY="
       }
     }
   ]
