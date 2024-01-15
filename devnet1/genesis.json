@@ -314,20 +314,20 @@
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
       },
-      "xaRmaJ6UHbOKx+VuJa/8xpv8ZrBsOKlxJLj7QZVAs9o=": {
-        "avatar_url": "https://www.gravatar.com/avatar/n5thkvayly8i5asu3v7gqau46dsj85az?d=identicon",
-        "country": "VR",
-        "ethereum_address": "0x773226771E39725b398B6D039E6E3D9086F6a7Ed",
-        "id": "c62c83532a84371e4fe38150f71b77c73aa235568beb518adb6d311530b39714",
-        "info_url": "https://en.wikipedia.org/wiki/San_Jer%C3%B3nimo_Nejapa",
-        "name": "loose-bus",
-        "tm_pub_key": "xaRmaJ6UHbOKx+VuJa/8xpv8ZrBsOKlxJLj7QZVAs9o=",
-        "vega_pub_key": "9101b7fcda4e5bee79add86bfafd449edfe939a1ee731e63fbfaf4a2ecccbb0a",
+      "z0GqH40as3QHuN/YRZ9ZjzIDbmOjTUAAcHonYwD0poE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/hc4i68a4oddey7gsqt4szow09smru6rw?d=identicon",
+        "country": "NB",
+        "ethereum_address": "0x82ef0b1754aBfdc871DeF27e7626fD41C3D3dBE9",
+        "id": "e78b8c0d596f3f37e172d4693dd2b57055edfc62b08033b957fa21bc546de482",
+        "info_url": "https://en.wikipedia.org/wiki/Sadazane",
+        "name": "opportune-country",
+        "tm_pub_key": "z0GqH40as3QHuN/YRZ9ZjzIDbmOjTUAAcHonYwD0poE=",
+        "vega_pub_key": "4ce57ddd77862a27ec6a98f0f320ead6869d8f6cee035acd99bb91c27628a092",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202401151143",
+  "chain_id": "vega-devnet1-202401151440",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-15T11:43:14.420542691Z",
+  "genesis_time": "2024-01-15T14:40:01.2351383Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "A90D482A63B5A30D09BB5AFBD438934B7374608C",
-      "name": "loose-bus",
+      "address": "9A42BFCB839F33663F4072AB3E674A52E6DB8427",
+      "name": "opportune-country",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "xaRmaJ6UHbOKx+VuJa/8xpv8ZrBsOKlxJLj7QZVAs9o="
+        "value": "z0GqH40as3QHuN/YRZ9ZjzIDbmOjTUAAcHonYwD0poE="
       }
     }
   ]
