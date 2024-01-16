@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "/GbleeTJRPziHm58fkfhTwV3RmfJga8oKBKGXptMeD0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/25d6559pggo0qs3w1o4zqjn8hfp6jsfj?d=identicon",
-        "country": "HO",
-        "ethereum_address": "0x072682Dfc4a8a6F14b3bcdb7F13EA4EFe9F14235",
-        "id": "4a73dd507b7806326be4de8dda060aa369dd24f9a45a2582143d69c9e2636bb2",
-        "info_url": "https://en.wikipedia.org/wiki/Belgian_refugees_in_Britain_during_the_First_World_War",
-        "name": "unsightly-candle",
-        "tm_pub_key": "/GbleeTJRPziHm58fkfhTwV3RmfJga8oKBKGXptMeD0=",
-        "vega_pub_key": "0e5afdef0208222a358ff728f52e42fc98d27f1f7eba8e91a63d601fe34fbd36",
+      "9Cw7RmBkdkPjvM7Cd4BcIHv3eFrvtCr2/rJ0fzjKmTY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/wkoy2two6a10c2ou3pzw9xbvhuv1c9w3?d=identicon",
+        "country": "LF",
+        "ethereum_address": "0x423c40A32B32136820C34d60492A114AB8255210",
+        "id": "543cdc49c0c889273a2bfa61e904b5e697bf564adf99eceb469c45df14e7b2b2",
+        "info_url": "https://en.wikipedia.org/wiki/1997_Supercopa_Libertadores",
+        "name": "blue-ball",
+        "tm_pub_key": "9Cw7RmBkdkPjvM7Cd4BcIHv3eFrvtCr2/rJ0fzjKmTY=",
+        "vega_pub_key": "7e3f6e6bc10add83e077c2165821299f44a5e315fecbc086dc9e26bcb191d696",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401161621",
+  "chain_id": "vega-devnet1-202401161727",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-16T16:21:42.733666957Z",
+  "genesis_time": "2024-01-16T17:27:28.036938586Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "7D4831A5CAA2F5281BECCF48E7CFE699B1F6FB27",
-      "name": "unsightly-candle",
+      "address": "855B50ADEAF625061339F69861E8515A7E34FCCA",
+      "name": "blue-ball",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "/GbleeTJRPziHm58fkfhTwV3RmfJga8oKBKGXptMeD0="
+        "value": "9Cw7RmBkdkPjvM7Cd4BcIHv3eFrvtCr2/rJ0fzjKmTY="
       }
     }
   ]
