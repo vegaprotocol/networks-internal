@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "61tr6FgRC8PG7b4j3GCSmDXnDLxVkWNV+EsJXGpDSC8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/qcghc1a2z73qvmtexz70v2ny30bao5yv?d=identicon",
+        "country": "BM",
+        "ethereum_address": "0xC7b3C6473dCf3FC6694eBee21ec9b6eaf3375781",
+        "id": "122295ba67576bb7ca7f0c4fd1d4e3ffe033e8b868afbcb46511a6e9d5bb4603",
+        "info_url": "https://en.wikipedia.org/wiki/Monument_to_the_March_Dead",
+        "name": "loud-computer",
+        "tm_pub_key": "61tr6FgRC8PG7b4j3GCSmDXnDLxVkWNV+EsJXGpDSC8=",
+        "vega_pub_key": "16b42fb6592a98fa3971bacd6f79a0d0f9537fffa0d3a2ce295441e3f49a4e32",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "qpX7gw3VykRusEcNiAH4MpRRZ0bs4aj7JpGzQNaOLb8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/pyn6orbuqrkxhsyglowrojdv1xn9ksju?d=identicon",
-        "country": "KY",
-        "ethereum_address": "0x75DB3E0480078f2FCfb853ed6f3848211019C20b",
-        "id": "a111272f3559d7b9b5abdeb9fced2231e5619eacbdf38cf46287eb8b93b3b813",
-        "info_url": "https://en.wikipedia.org/wiki/Visvanathar_Temple,_Kunniyur",
-        "name": "quaint-pickle",
-        "tm_pub_key": "qpX7gw3VykRusEcNiAH4MpRRZ0bs4aj7JpGzQNaOLb8=",
-        "vega_pub_key": "b1cc9877680accbeabfb4502d4319c6013fdc606a0a67d2d0740c20e244176da",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401161413",
+  "chain_id": "vega-devnet1-202401161504",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-16T14:13:12.390113106Z",
+  "genesis_time": "2024-01-16T15:04:48.015882796Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "2AA4581F2AB1D5188A2A80B056549A975B5E3487",
-      "name": "quaint-pickle",
+      "address": "AAA1689C8426E130DB9B1B84E98D57718AF8EC83",
+      "name": "loud-computer",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "qpX7gw3VykRusEcNiAH4MpRRZ0bs4aj7JpGzQNaOLb8="
+        "value": "61tr6FgRC8PG7b4j3GCSmDXnDLxVkWNV+EsJXGpDSC8="
       }
     }
   ]
