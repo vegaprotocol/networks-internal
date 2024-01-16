@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "61tr6FgRC8PG7b4j3GCSmDXnDLxVkWNV+EsJXGpDSC8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/qcghc1a2z73qvmtexz70v2ny30bao5yv?d=identicon",
-        "country": "BM",
-        "ethereum_address": "0xC7b3C6473dCf3FC6694eBee21ec9b6eaf3375781",
-        "id": "122295ba67576bb7ca7f0c4fd1d4e3ffe033e8b868afbcb46511a6e9d5bb4603",
-        "info_url": "https://en.wikipedia.org/wiki/Monument_to_the_March_Dead",
-        "name": "loud-computer",
-        "tm_pub_key": "61tr6FgRC8PG7b4j3GCSmDXnDLxVkWNV+EsJXGpDSC8=",
-        "vega_pub_key": "16b42fb6592a98fa3971bacd6f79a0d0f9537fffa0d3a2ce295441e3f49a4e32",
+      "/GbleeTJRPziHm58fkfhTwV3RmfJga8oKBKGXptMeD0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/25d6559pggo0qs3w1o4zqjn8hfp6jsfj?d=identicon",
+        "country": "HO",
+        "ethereum_address": "0x072682Dfc4a8a6F14b3bcdb7F13EA4EFe9F14235",
+        "id": "4a73dd507b7806326be4de8dda060aa369dd24f9a45a2582143d69c9e2636bb2",
+        "info_url": "https://en.wikipedia.org/wiki/Belgian_refugees_in_Britain_during_the_First_World_War",
+        "name": "unsightly-candle",
+        "tm_pub_key": "/GbleeTJRPziHm58fkfhTwV3RmfJga8oKBKGXptMeD0=",
+        "vega_pub_key": "0e5afdef0208222a358ff728f52e42fc98d27f1f7eba8e91a63d601fe34fbd36",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401161504",
+  "chain_id": "vega-devnet1-202401161621",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-16T15:04:48.015882796Z",
+  "genesis_time": "2024-01-16T16:21:42.733666957Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "AAA1689C8426E130DB9B1B84E98D57718AF8EC83",
-      "name": "loud-computer",
+      "address": "7D4831A5CAA2F5281BECCF48E7CFE699B1F6FB27",
+      "name": "unsightly-candle",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "61tr6FgRC8PG7b4j3GCSmDXnDLxVkWNV+EsJXGpDSC8="
+        "value": "/GbleeTJRPziHm58fkfhTwV3RmfJga8oKBKGXptMeD0="
       }
     }
   ]
