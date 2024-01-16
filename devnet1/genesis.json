@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "9Cw7RmBkdkPjvM7Cd4BcIHv3eFrvtCr2/rJ0fzjKmTY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/wkoy2two6a10c2ou3pzw9xbvhuv1c9w3?d=identicon",
-        "country": "LF",
-        "ethereum_address": "0x423c40A32B32136820C34d60492A114AB8255210",
-        "id": "543cdc49c0c889273a2bfa61e904b5e697bf564adf99eceb469c45df14e7b2b2",
-        "info_url": "https://en.wikipedia.org/wiki/1997_Supercopa_Libertadores",
-        "name": "blue-ball",
-        "tm_pub_key": "9Cw7RmBkdkPjvM7Cd4BcIHv3eFrvtCr2/rJ0fzjKmTY=",
-        "vega_pub_key": "7e3f6e6bc10add83e077c2165821299f44a5e315fecbc086dc9e26bcb191d696",
+      "/2gZ41k8yVfayI4ek7AmwoKJ01v/+w8kReNDJD4yRGY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/aqw2rkkilmntxp7mt24fjh5w419ibn8w?d=identicon",
+        "country": "RV",
+        "ethereum_address": "0x4645afc4863a545c2243307c13DAc30c6CDA9507",
+        "id": "31c03aafeb3147179a260ce989857f8bf96399af742623f69487c346c63dd948",
+        "info_url": "https://en.wikipedia.org/wiki/Vintage_and_Classic_Car_Museum",
+        "name": "rich-duck",
+        "tm_pub_key": "/2gZ41k8yVfayI4ek7AmwoKJ01v/+w8kReNDJD4yRGY=",
+        "vega_pub_key": "bb8eddb2d0388f2eaa61a0501cdf04be99137cd870fa5d8aafe7cfacc3e22169",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401161727",
+  "chain_id": "vega-devnet1-202401161925",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-16T17:27:28.036938586Z",
+  "genesis_time": "2024-01-16T19:25:21.9102644Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "855B50ADEAF625061339F69861E8515A7E34FCCA",
-      "name": "blue-ball",
+      "address": "561A673666B1A7F9837BA2692601BEA916CA77A8",
+      "name": "rich-duck",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "9Cw7RmBkdkPjvM7Cd4BcIHv3eFrvtCr2/rJ0fzjKmTY="
+        "value": "/2gZ41k8yVfayI4ek7AmwoKJ01v/+w8kReNDJD4yRGY="
       }
     }
   ]
