@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "coD+3TbcsbcBYDaDqG4ff/oZq+V68Ln6aP4wu1kn3bw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/3eamoj5mm1l8mq2aofqpk2io83mtffon?d=identicon",
-        "country": "QD",
-        "ethereum_address": "0x82cCc33ad8c9Db919c1761B13CF921554377DDA8",
-        "id": "e632d0f54aedb853cf524bd09b1ef84b2a79e256bef54c96db76a0136fa199bd",
-        "info_url": "https://en.wikipedia.org/wiki/Ixos",
-        "name": "bored-bee",
-        "tm_pub_key": "coD+3TbcsbcBYDaDqG4ff/oZq+V68Ln6aP4wu1kn3bw=",
-        "vega_pub_key": "a69d3b510fbd3bcec012b400b0f2c53c2b516742a877b9916dc8073974c1ec07",
+      "jgVX0MaxnXLgJtFVDZazzn6UfGBMXF2+URYASuWAsMs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/er4cdd7zwwmt75xhcz7mjw1cq50yftz3?d=identicon",
+        "country": "OF",
+        "ethereum_address": "0x33dB97E960D8e760C2cB5c3CEf969F567eE1B25d",
+        "id": "e62f12faa60c7a109e57701e05bf9eb5d3f602c663b59c7edcfbe1c1839b4b87",
+        "info_url": "https://en.wikipedia.org/wiki/Pan_Jiluan",
+        "name": "condescending-man",
+        "tm_pub_key": "jgVX0MaxnXLgJtFVDZazzn6UfGBMXF2+URYASuWAsMs=",
+        "vega_pub_key": "302e9319124d92154361e13dc3ddaf75628f8ec8b41b8d4665ed36389bbee362",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401151735",
+  "chain_id": "vega-devnet1-202401161102",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-15T17:35:29.14605323Z",
+  "genesis_time": "2024-01-16T11:02:14.79906446Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "98208A1B578F56287FA4CC3580164E01B484E8E8",
-      "name": "bored-bee",
+      "address": "12CCBFAA1857086C0AEE2C84227A722630EA0C66",
+      "name": "condescending-man",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "coD+3TbcsbcBYDaDqG4ff/oZq+V68Ln6aP4wu1kn3bw="
+        "value": "jgVX0MaxnXLgJtFVDZazzn6UfGBMXF2+URYASuWAsMs="
       }
     }
   ]
