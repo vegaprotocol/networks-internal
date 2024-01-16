@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "jgVX0MaxnXLgJtFVDZazzn6UfGBMXF2+URYASuWAsMs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/er4cdd7zwwmt75xhcz7mjw1cq50yftz3?d=identicon",
-        "country": "OF",
-        "ethereum_address": "0x33dB97E960D8e760C2cB5c3CEf969F567eE1B25d",
-        "id": "e62f12faa60c7a109e57701e05bf9eb5d3f602c663b59c7edcfbe1c1839b4b87",
-        "info_url": "https://en.wikipedia.org/wiki/Pan_Jiluan",
-        "name": "condescending-man",
-        "tm_pub_key": "jgVX0MaxnXLgJtFVDZazzn6UfGBMXF2+URYASuWAsMs=",
-        "vega_pub_key": "302e9319124d92154361e13dc3ddaf75628f8ec8b41b8d4665ed36389bbee362",
+      "jQOnKQXTtD9H6mJCOGOqACbdzJJ/evzS4WikGqoPqOs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/bsajkhb71z32ektpkrtdiiu7jboa4gqo?d=identicon",
+        "country": "BU",
+        "ethereum_address": "0x92e0Da8A83c9bAf8DfFd103FAc45E37098FA20dF",
+        "id": "631963b6ce7f205f49b8a0e9e410baa602cfaf6ecf65789d652defd756695a0f",
+        "info_url": "https://en.wikipedia.org/wiki/Clara_Sch%C3%B8nfeld",
+        "name": "harsh-chimney",
+        "tm_pub_key": "jQOnKQXTtD9H6mJCOGOqACbdzJJ/evzS4WikGqoPqOs=",
+        "vega_pub_key": "3444d59be1c158f60f684b6fb90baa1c7f5ce54c0561832109b9ecf0294f5e4d",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401161102",
+  "chain_id": "vega-devnet1-202401161241",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-16T11:02:14.79906446Z",
+  "genesis_time": "2024-01-16T12:41:33.742048097Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "12CCBFAA1857086C0AEE2C84227A722630EA0C66",
-      "name": "condescending-man",
+      "address": "326E68C5837201425ACDFABA0DBD47137B14893A",
+      "name": "harsh-chimney",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "jgVX0MaxnXLgJtFVDZazzn6UfGBMXF2+URYASuWAsMs="
+        "value": "jQOnKQXTtD9H6mJCOGOqACbdzJJ/evzS4WikGqoPqOs="
       }
     }
   ]
