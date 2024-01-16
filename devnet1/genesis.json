@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "QmxfU7KO6c0f0/M260HpvBARClVrpJ/h7Ic7nxKd9gM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/mh8aki1ea06jcu35eku5iu1zbh2d4iiv?d=identicon",
-        "country": "QT",
-        "ethereum_address": "0x6569DD4555127BB061A726e4f98a40Fd3CB0415c",
-        "id": "0e8609bc26af3a95c20b4607e74af700e748a72d20e7e813a916d88949a77088",
-        "info_url": "https://en.wikipedia.org/wiki/Donbas-Don_operation",
-        "name": "inexpensive-barber",
-        "tm_pub_key": "QmxfU7KO6c0f0/M260HpvBARClVrpJ/h7Ic7nxKd9gM=",
-        "vega_pub_key": "a8531dc0514358f03d072fdaa4524b2fcdae360172a68e65c8e0b07332a3a867",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "qpX7gw3VykRusEcNiAH4MpRRZ0bs4aj7JpGzQNaOLb8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/pyn6orbuqrkxhsyglowrojdv1xn9ksju?d=identicon",
+        "country": "KY",
+        "ethereum_address": "0x75DB3E0480078f2FCfb853ed6f3848211019C20b",
+        "id": "a111272f3559d7b9b5abdeb9fced2231e5619eacbdf38cf46287eb8b93b3b813",
+        "info_url": "https://en.wikipedia.org/wiki/Visvanathar_Temple,_Kunniyur",
+        "name": "quaint-pickle",
+        "tm_pub_key": "qpX7gw3VykRusEcNiAH4MpRRZ0bs4aj7JpGzQNaOLb8=",
+        "vega_pub_key": "b1cc9877680accbeabfb4502d4319c6013fdc606a0a67d2d0740c20e244176da",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401161332",
+  "chain_id": "vega-devnet1-202401161413",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-16T13:32:05.868659534Z",
+  "genesis_time": "2024-01-16T14:13:12.390113106Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "187F15C05BE722D32162DB6F10DB45788A8A4C56",
-      "name": "inexpensive-barber",
+      "address": "2AA4581F2AB1D5188A2A80B056549A975B5E3487",
+      "name": "quaint-pickle",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "QmxfU7KO6c0f0/M260HpvBARClVrpJ/h7Ic7nxKd9gM="
+        "value": "qpX7gw3VykRusEcNiAH4MpRRZ0bs4aj7JpGzQNaOLb8="
       }
     }
   ]
