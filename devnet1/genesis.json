@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "QmxfU7KO6c0f0/M260HpvBARClVrpJ/h7Ic7nxKd9gM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/mh8aki1ea06jcu35eku5iu1zbh2d4iiv?d=identicon",
+        "country": "QT",
+        "ethereum_address": "0x6569DD4555127BB061A726e4f98a40Fd3CB0415c",
+        "id": "0e8609bc26af3a95c20b4607e74af700e748a72d20e7e813a916d88949a77088",
+        "info_url": "https://en.wikipedia.org/wiki/Donbas-Don_operation",
+        "name": "inexpensive-barber",
+        "tm_pub_key": "QmxfU7KO6c0f0/M260HpvBARClVrpJ/h7Ic7nxKd9gM=",
+        "vega_pub_key": "a8531dc0514358f03d072fdaa4524b2fcdae360172a68e65c8e0b07332a3a867",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "jQOnKQXTtD9H6mJCOGOqACbdzJJ/evzS4WikGqoPqOs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/bsajkhb71z32ektpkrtdiiu7jboa4gqo?d=identicon",
-        "country": "BU",
-        "ethereum_address": "0x92e0Da8A83c9bAf8DfFd103FAc45E37098FA20dF",
-        "id": "631963b6ce7f205f49b8a0e9e410baa602cfaf6ecf65789d652defd756695a0f",
-        "info_url": "https://en.wikipedia.org/wiki/Clara_Sch%C3%B8nfeld",
-        "name": "harsh-chimney",
-        "tm_pub_key": "jQOnKQXTtD9H6mJCOGOqACbdzJJ/evzS4WikGqoPqOs=",
-        "vega_pub_key": "3444d59be1c158f60f684b6fb90baa1c7f5ce54c0561832109b9ecf0294f5e4d",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401161241",
+  "chain_id": "vega-devnet1-202401161332",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-16T12:41:33.742048097Z",
+  "genesis_time": "2024-01-16T13:32:05.868659534Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "326E68C5837201425ACDFABA0DBD47137B14893A",
-      "name": "harsh-chimney",
+      "address": "187F15C05BE722D32162DB6F10DB45788A8A4C56",
+      "name": "inexpensive-barber",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "jQOnKQXTtD9H6mJCOGOqACbdzJJ/evzS4WikGqoPqOs="
+        "value": "QmxfU7KO6c0f0/M260HpvBARClVrpJ/h7Ic7nxKd9gM="
       }
     }
   ]
