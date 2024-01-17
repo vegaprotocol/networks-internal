@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "YbuyNawydfq/RVoShGNZSuoBygkbqZTkvdgHC9fEWfk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/q09sm32keun0jf67j0db0x6i6htz7ei8?d=identicon",
-        "country": "HO",
-        "ethereum_address": "0x62Bb494a53651262E60Ba08E0c1eDb8E52e85333",
-        "id": "8fdba08054c9f9f6a4607c0666624018c7b9d9343050978a38fe5e8adaa07e36",
-        "info_url": "https://en.wikipedia.org/wiki/Kadcza",
-        "name": "lucky-shirt",
-        "tm_pub_key": "YbuyNawydfq/RVoShGNZSuoBygkbqZTkvdgHC9fEWfk=",
-        "vega_pub_key": "70373b611145078dfbbb3c71edec4e0b54c7a4dcfee00ac491aba4926f9515e1",
+      "pgMANC2tzz3tTigqvn1IqfIkHC/CASjrtDkQiSgx3Zk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/dofroam2q41akqx8qggioaf45vejpwp2?d=identicon",
+        "country": "RB",
+        "ethereum_address": "0x72232F660323F8eD00cFDA6b417d02Ae8C2DCC87",
+        "id": "4ab186e559d245227a43334dc851f3ec391c2ffe4f23707f5c59e90fb02c0f64",
+        "info_url": "https://en.wikipedia.org/wiki/Moritz_Cantor",
+        "name": "confused-mango",
+        "tm_pub_key": "pgMANC2tzz3tTigqvn1IqfIkHC/CASjrtDkQiSgx3Zk=",
+        "vega_pub_key": "7f1aa621f90b0926c499b2fa5bf1d51fcf1dfd25a4012ef2faa1041b3fcfb4c5",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401171702",
+  "chain_id": "vega-devnet1-202401171805",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-17T17:02:34.599310858Z",
+  "genesis_time": "2024-01-17T18:05:29.153533311Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "A285D034B001F84D8D27F0B613505A7434686627",
-      "name": "lucky-shirt",
+      "address": "978DA4A4D5E54366FC16816CA3B07630243CF915",
+      "name": "confused-mango",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "YbuyNawydfq/RVoShGNZSuoBygkbqZTkvdgHC9fEWfk="
+        "value": "pgMANC2tzz3tTigqvn1IqfIkHC/CASjrtDkQiSgx3Zk="
       }
     }
   ]
