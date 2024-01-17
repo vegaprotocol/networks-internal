@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "KHLvv+U/iqjf6dUR6LNFxgfT/FIMB7+cdQIrjOyFjqg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ojtzzga1ormlximnx4c8nu6et8q8ww9h?d=identicon",
-        "country": "LP",
-        "ethereum_address": "0x089f75B9Bcd281280Fa6d55bF378Ea09633390f9",
-        "id": "2440c59a6117f6e2086c45ee698a3df5386ac2c5fe15f5423bd4c87249210c30",
-        "info_url": "https://en.wikipedia.org/wiki/Pukchang_concentration_camp",
-        "name": "tense-shirt",
-        "tm_pub_key": "KHLvv+U/iqjf6dUR6LNFxgfT/FIMB7+cdQIrjOyFjqg=",
-        "vega_pub_key": "240549eb0ea92a5cfff74f8676c452719f65dd55959ef25e97c5b2e3f2491170",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "YbuyNawydfq/RVoShGNZSuoBygkbqZTkvdgHC9fEWfk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/q09sm32keun0jf67j0db0x6i6htz7ei8?d=identicon",
+        "country": "HO",
+        "ethereum_address": "0x62Bb494a53651262E60Ba08E0c1eDb8E52e85333",
+        "id": "8fdba08054c9f9f6a4607c0666624018c7b9d9343050978a38fe5e8adaa07e36",
+        "info_url": "https://en.wikipedia.org/wiki/Kadcza",
+        "name": "lucky-shirt",
+        "tm_pub_key": "YbuyNawydfq/RVoShGNZSuoBygkbqZTkvdgHC9fEWfk=",
+        "vega_pub_key": "70373b611145078dfbbb3c71edec4e0b54c7a4dcfee00ac491aba4926f9515e1",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401171603",
+  "chain_id": "vega-devnet1-202401171702",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-17T16:03:00.623622059Z",
+  "genesis_time": "2024-01-17T17:02:34.599310858Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "BFDF76C9D2CA32EDACC06937955F102442D0B540",
-      "name": "tense-shirt",
+      "address": "A285D034B001F84D8D27F0B613505A7434686627",
+      "name": "lucky-shirt",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "KHLvv+U/iqjf6dUR6LNFxgfT/FIMB7+cdQIrjOyFjqg="
+        "value": "YbuyNawydfq/RVoShGNZSuoBygkbqZTkvdgHC9fEWfk="
       }
     }
   ]
