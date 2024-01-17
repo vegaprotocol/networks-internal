@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "3bYXNEqnjXC4CLQYTALiOOuk91fEAgi6R1wIaEElMUE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/9j0fufq6w06q9gef7lzh1ejufpccnc97?d=identicon",
-        "country": "EQ",
-        "ethereum_address": "0xD6ED507fC886e2e3A9a8bFC6CEF0B2603066DC55",
-        "id": "376a9102e77b3cb5e60cfdf6ccacc5818c64486e6b3ff749388d1ed3938a2d8f",
-        "info_url": "https://en.wikipedia.org/wiki/Jacques_Babinet",
-        "name": "orange-bird",
-        "tm_pub_key": "3bYXNEqnjXC4CLQYTALiOOuk91fEAgi6R1wIaEElMUE=",
-        "vega_pub_key": "7f8d64f106f615c0d282f95858c6f1c1ade31329fd27fce61e469cfcbfcb8441",
+      "Ur+bZcFgqrlNYXQmi3QrSOVII/fxSXipo8HolGOXjS0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ekzy2a77nhjfhr01qc20fabioetpzjsk?d=identicon",
+        "country": "OU",
+        "ethereum_address": "0x72a29B8C6134DD3a2D6E35511cdE5cd9F355CC60",
+        "id": "8389aef48facb8eebbeba0d8c92ba1305b23d180a7b80d81adc83f6a8432b0cd",
+        "info_url": "https://en.wikipedia.org/wiki/List_of_colleges_and_universities_in_West_Virginia",
+        "name": "echoing-road",
+        "tm_pub_key": "Ur+bZcFgqrlNYXQmi3QrSOVII/fxSXipo8HolGOXjS0=",
+        "vega_pub_key": "72232ccb57c405ef0275847b076506a01a8cff3e2df99782a5416dbeb45b0681",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401170943",
+  "chain_id": "vega-devnet1-202401171042",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-17T09:43:06.390855595Z",
+  "genesis_time": "2024-01-17T10:42:24.900835948Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "70E7A96555BD57B07132D6C75A6AE669407DE896",
-      "name": "orange-bird",
+      "address": "E2C3985CAF7185C9DFFE57EF71C2FD5712252989",
+      "name": "echoing-road",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "3bYXNEqnjXC4CLQYTALiOOuk91fEAgi6R1wIaEElMUE="
+        "value": "Ur+bZcFgqrlNYXQmi3QrSOVII/fxSXipo8HolGOXjS0="
       }
     }
   ]
