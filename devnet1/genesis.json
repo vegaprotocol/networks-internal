@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "Rsz3sS7sw7giMAGzx9KKdbMRCKdW9DZwtF0YlnuWI6s=": {
+        "avatar_url": "https://www.gravatar.com/avatar/l2sxt0mcbv7z8f2mplh588hfared8x6y?d=identicon",
+        "country": "YQ",
+        "ethereum_address": "0x24181e75E8C975404604cEc5AaAbfBaAF39868e8",
+        "id": "4e73d3ba72e8ae712da3c7d3e1cf580f78afd193f53f76ab5e12cc75e22c389f",
+        "info_url": "https://en.wikipedia.org/wiki/Vans_Kennedy",
+        "name": "blue-day",
+        "tm_pub_key": "Rsz3sS7sw7giMAGzx9KKdbMRCKdW9DZwtF0YlnuWI6s=",
+        "vega_pub_key": "cd9291c0b2679eef9a4fc6c487c86d37d649a9a5a6948f3db11d1f961c04d1aa",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "X7w7Uhc90jnJXUo+d2V+ndWGJrgGA4vCzP5rB6egBiI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/rnve8ghts94x6ifiqywfq8hh11kn8jkw?d=identicon",
-        "country": "DA",
-        "ethereum_address": "0x430985B7D41f806975fC1F396137D2b764F68AD6",
-        "id": "85dcd8213a5460a5fce9d60d7a7580a7c7fb7adf47f33b551827b5bab3ee5dca",
-        "info_url": "https://en.wikipedia.org/wiki/Galbibacter_mesophilus",
-        "name": "wailing-wind",
-        "tm_pub_key": "X7w7Uhc90jnJXUo+d2V+ndWGJrgGA4vCzP5rB6egBiI=",
-        "vega_pub_key": "6ef8240f5c3542d407adbef8b6452d4dcc871a0c1b522707253e7e4e37e90788",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401171240",
+  "chain_id": "vega-devnet1-202401171501",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-17T12:40:12.42208309Z",
+  "genesis_time": "2024-01-17T15:01:10.770556243Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "672288A5BF7281B5AEDE5AEF5906DEF62D5AE700",
-      "name": "wailing-wind",
+      "address": "2054DA6C3B70B6D3F7CB7749DF07D60E484228AA",
+      "name": "blue-day",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "X7w7Uhc90jnJXUo+d2V+ndWGJrgGA4vCzP5rB6egBiI="
+        "value": "Rsz3sS7sw7giMAGzx9KKdbMRCKdW9DZwtF0YlnuWI6s="
       }
     }
   ]
