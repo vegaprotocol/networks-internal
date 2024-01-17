@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "Rsz3sS7sw7giMAGzx9KKdbMRCKdW9DZwtF0YlnuWI6s=": {
-        "avatar_url": "https://www.gravatar.com/avatar/l2sxt0mcbv7z8f2mplh588hfared8x6y?d=identicon",
-        "country": "YQ",
-        "ethereum_address": "0x24181e75E8C975404604cEc5AaAbfBaAF39868e8",
-        "id": "4e73d3ba72e8ae712da3c7d3e1cf580f78afd193f53f76ab5e12cc75e22c389f",
-        "info_url": "https://en.wikipedia.org/wiki/Vans_Kennedy",
-        "name": "blue-day",
-        "tm_pub_key": "Rsz3sS7sw7giMAGzx9KKdbMRCKdW9DZwtF0YlnuWI6s=",
-        "vega_pub_key": "cd9291c0b2679eef9a4fc6c487c86d37d649a9a5a6948f3db11d1f961c04d1aa",
+      "KHLvv+U/iqjf6dUR6LNFxgfT/FIMB7+cdQIrjOyFjqg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ojtzzga1ormlximnx4c8nu6et8q8ww9h?d=identicon",
+        "country": "LP",
+        "ethereum_address": "0x089f75B9Bcd281280Fa6d55bF378Ea09633390f9",
+        "id": "2440c59a6117f6e2086c45ee698a3df5386ac2c5fe15f5423bd4c87249210c30",
+        "info_url": "https://en.wikipedia.org/wiki/Pukchang_concentration_camp",
+        "name": "tense-shirt",
+        "tm_pub_key": "KHLvv+U/iqjf6dUR6LNFxgfT/FIMB7+cdQIrjOyFjqg=",
+        "vega_pub_key": "240549eb0ea92a5cfff74f8676c452719f65dd55959ef25e97c5b2e3f2491170",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401171501",
+  "chain_id": "vega-devnet1-202401171603",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-17T15:01:10.770556243Z",
+  "genesis_time": "2024-01-17T16:03:00.623622059Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "2054DA6C3B70B6D3F7CB7749DF07D60E484228AA",
-      "name": "blue-day",
+      "address": "BFDF76C9D2CA32EDACC06937955F102442D0B540",
+      "name": "tense-shirt",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Rsz3sS7sw7giMAGzx9KKdbMRCKdW9DZwtF0YlnuWI6s="
+        "value": "KHLvv+U/iqjf6dUR6LNFxgfT/FIMB7+cdQIrjOyFjqg="
       }
     }
   ]
