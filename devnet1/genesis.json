@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "Ur+bZcFgqrlNYXQmi3QrSOVII/fxSXipo8HolGOXjS0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ekzy2a77nhjfhr01qc20fabioetpzjsk?d=identicon",
-        "country": "OU",
-        "ethereum_address": "0x72a29B8C6134DD3a2D6E35511cdE5cd9F355CC60",
-        "id": "8389aef48facb8eebbeba0d8c92ba1305b23d180a7b80d81adc83f6a8432b0cd",
-        "info_url": "https://en.wikipedia.org/wiki/List_of_colleges_and_universities_in_West_Virginia",
-        "name": "echoing-road",
-        "tm_pub_key": "Ur+bZcFgqrlNYXQmi3QrSOVII/fxSXipo8HolGOXjS0=",
-        "vega_pub_key": "72232ccb57c405ef0275847b076506a01a8cff3e2df99782a5416dbeb45b0681",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "X7w7Uhc90jnJXUo+d2V+ndWGJrgGA4vCzP5rB6egBiI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/rnve8ghts94x6ifiqywfq8hh11kn8jkw?d=identicon",
+        "country": "DA",
+        "ethereum_address": "0x430985B7D41f806975fC1F396137D2b764F68AD6",
+        "id": "85dcd8213a5460a5fce9d60d7a7580a7c7fb7adf47f33b551827b5bab3ee5dca",
+        "info_url": "https://en.wikipedia.org/wiki/Galbibacter_mesophilus",
+        "name": "wailing-wind",
+        "tm_pub_key": "X7w7Uhc90jnJXUo+d2V+ndWGJrgGA4vCzP5rB6egBiI=",
+        "vega_pub_key": "6ef8240f5c3542d407adbef8b6452d4dcc871a0c1b522707253e7e4e37e90788",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401171042",
+  "chain_id": "vega-devnet1-202401171119",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-17T10:42:24.900835948Z",
+  "genesis_time": "2024-01-17T11:19:52.057044382Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "E2C3985CAF7185C9DFFE57EF71C2FD5712252989",
-      "name": "echoing-road",
+      "address": "672288A5BF7281B5AEDE5AEF5906DEF62D5AE700",
+      "name": "wailing-wind",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Ur+bZcFgqrlNYXQmi3QrSOVII/fxSXipo8HolGOXjS0="
+        "value": "X7w7Uhc90jnJXUo+d2V+ndWGJrgGA4vCzP5rB6egBiI="
       }
     }
   ]
