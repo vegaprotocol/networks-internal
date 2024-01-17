@@ -292,17 +292,6 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "pgMANC2tzz3tTigqvn1IqfIkHC/CASjrtDkQiSgx3Zk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/dofroam2q41akqx8qggioaf45vejpwp2?d=identicon",
-        "country": "RB",
-        "ethereum_address": "0x72232F660323F8eD00cFDA6b417d02Ae8C2DCC87",
-        "id": "4ab186e559d245227a43334dc851f3ec391c2ffe4f23707f5c59e90fb02c0f64",
-        "info_url": "https://en.wikipedia.org/wiki/Moritz_Cantor",
-        "name": "confused-mango",
-        "tm_pub_key": "pgMANC2tzz3tTigqvn1IqfIkHC/CASjrtDkQiSgx3Zk=",
-        "vega_pub_key": "7f1aa621f90b0926c499b2fa5bf1d51fcf1dfd25a4012ef2faa1041b3fcfb4c5",
-        "vega_pub_key_index": 1
-      },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
         "avatar_url": "https://www.gravatar.com/avatar/14wh06jhnafyxu5ea1p41y8972c1flw0?d=identicon",
         "country": "QX",
@@ -324,10 +313,21 @@
         "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
+      },
+      "y2btIieIOAxB7Mpo6r7OBjOkKCn1F64yzOhkrBoneL0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/nxffavgmtejelm4rz7f60bfbj0sjzlzi?d=identicon",
+        "country": "RO",
+        "ethereum_address": "0x782Dcb7BCE66A86f7f0699F01a37952a806612eb",
+        "id": "81a77da751ed6a8250f65aaa4af2edc7d731016027d1dbc560b38eeb31e135e5",
+        "info_url": "https://en.wikipedia.org/wiki/FreeProxy",
+        "name": "condescending-dress",
+        "tm_pub_key": "y2btIieIOAxB7Mpo6r7OBjOkKCn1F64yzOhkrBoneL0=",
+        "vega_pub_key": "74a7c5f2f0001a42d4fb4570dcd1d7b9651b8b0e0a73bb138222cf211155d73a",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202401171805",
+  "chain_id": "vega-devnet1-202401171925",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-17T18:05:29.153533311Z",
+  "genesis_time": "2024-01-17T19:25:24.900075168Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "978DA4A4D5E54366FC16816CA3B07630243CF915",
-      "name": "confused-mango",
+      "address": "45FB85BA38FAF04921C7FC01447E98C4FDFEB856",
+      "name": "condescending-dress",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "pgMANC2tzz3tTigqvn1IqfIkHC/CASjrtDkQiSgx3Zk="
+        "value": "y2btIieIOAxB7Mpo6r7OBjOkKCn1F64yzOhkrBoneL0="
       }
     }
   ]
