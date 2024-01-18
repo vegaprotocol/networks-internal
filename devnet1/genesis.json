@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "3e5Xqe4KtRlEhuuez7p7HEhI/YhL/jOrYelEc1xhbBM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/4u358az5muub1k627d74hyac7sv8w3yd?d=identicon",
-        "country": "XQ",
-        "ethereum_address": "0xeDFd9984A1d3d454EAAcFc1e7Ea634cC904E7272",
-        "id": "49d1560ef581fb03b2347046661be1fcb12b45a1bdb0a64e44b3346e11dbb0d0",
-        "info_url": "https://en.wikipedia.org/wiki/Alternanthera",
-        "name": "melodic-music",
-        "tm_pub_key": "3e5Xqe4KtRlEhuuez7p7HEhI/YhL/jOrYelEc1xhbBM=",
-        "vega_pub_key": "7f28dbd75a2428099de530df182ee614ea098fdf5565ad6617a96ab77a6bd0bb",
+      "8sv+3WmlGlchJ3RY6EubLoaACy7O375sGuVr8hN7m1o=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xpcdfgarblpuf9j1cnpig1kb7rej4t36?d=identicon",
+        "country": "YF",
+        "ethereum_address": "0x683Ee287DCA717796Ae5AC4abeb12f716db8Ab3a",
+        "id": "a7f5d68829006e602b3e913762330ebb8db7811a2debd5a00ff0c05c12f3c0e1",
+        "info_url": "https://en.wikipedia.org/wiki/George_Cowan_(politician)",
+        "name": "harsh-month",
+        "tm_pub_key": "8sv+3WmlGlchJ3RY6EubLoaACy7O375sGuVr8hN7m1o=",
+        "vega_pub_key": "4651b6f0ca96d3a2faf335dd6edf14618a6fef107739a267e3d0252b4f04b300",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401181513",
+  "chain_id": "vega-devnet1-202401181714",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-18T15:13:10.02580298Z",
+  "genesis_time": "2024-01-18T17:14:18.004355985Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "B0EA3C029786543B7464949B16F384076FD86BDA",
-      "name": "melodic-music",
+      "address": "F2B0ECDBCE6A0223EDD5B4716C404804CD3DFAC9",
+      "name": "harsh-month",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "3e5Xqe4KtRlEhuuez7p7HEhI/YhL/jOrYelEc1xhbBM="
+        "value": "8sv+3WmlGlchJ3RY6EubLoaACy7O375sGuVr8hN7m1o="
       }
     }
   ]
