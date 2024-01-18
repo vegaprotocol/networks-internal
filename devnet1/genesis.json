@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "Th3EMAH8WuWeaA5FqjXPSe2mFHCrMkkOo8k0rpKEwPM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/z044u1cgzm6xx6u4snvf9z33wuwmjl47?d=identicon",
+        "country": "QL",
+        "ethereum_address": "0x45248E74634dAc7868a78886e0015e5e3D80b94D",
+        "id": "ebca538b2b94acf45fe6de39914e43ec702e55bec5852b76b17b369fbd7e5608",
+        "info_url": "https://en.wikipedia.org/wiki/Naila_Al_Atrash",
+        "name": "quiet-roof",
+        "tm_pub_key": "Th3EMAH8WuWeaA5FqjXPSe2mFHCrMkkOo8k0rpKEwPM=",
+        "vega_pub_key": "9f5f441d403686fff455b3abdad63a6b6ccba6f1a115ceae307328607e7530cd",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -313,21 +324,10 @@
         "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
-      },
-      "y2btIieIOAxB7Mpo6r7OBjOkKCn1F64yzOhkrBoneL0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/nxffavgmtejelm4rz7f60bfbj0sjzlzi?d=identicon",
-        "country": "RO",
-        "ethereum_address": "0x782Dcb7BCE66A86f7f0699F01a37952a806612eb",
-        "id": "81a77da751ed6a8250f65aaa4af2edc7d731016027d1dbc560b38eeb31e135e5",
-        "info_url": "https://en.wikipedia.org/wiki/FreeProxy",
-        "name": "condescending-dress",
-        "tm_pub_key": "y2btIieIOAxB7Mpo6r7OBjOkKCn1F64yzOhkrBoneL0=",
-        "vega_pub_key": "74a7c5f2f0001a42d4fb4570dcd1d7b9651b8b0e0a73bb138222cf211155d73a",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202401171925",
+  "chain_id": "vega-devnet1-202401180952",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-17T19:25:24.900075168Z",
+  "genesis_time": "2024-01-18T09:52:40.210339269Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "45FB85BA38FAF04921C7FC01447E98C4FDFEB856",
-      "name": "condescending-dress",
+      "address": "986B868F55D93AD68BF497C6177624EB7CEA2B59",
+      "name": "quiet-roof",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "y2btIieIOAxB7Mpo6r7OBjOkKCn1F64yzOhkrBoneL0="
+        "value": "Th3EMAH8WuWeaA5FqjXPSe2mFHCrMkkOo8k0rpKEwPM="
       }
     }
   ]
