@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "8sv+3WmlGlchJ3RY6EubLoaACy7O375sGuVr8hN7m1o=": {
-        "avatar_url": "https://www.gravatar.com/avatar/xpcdfgarblpuf9j1cnpig1kb7rej4t36?d=identicon",
-        "country": "YF",
-        "ethereum_address": "0x683Ee287DCA717796Ae5AC4abeb12f716db8Ab3a",
-        "id": "a7f5d68829006e602b3e913762330ebb8db7811a2debd5a00ff0c05c12f3c0e1",
-        "info_url": "https://en.wikipedia.org/wiki/George_Cowan_(politician)",
-        "name": "harsh-month",
-        "tm_pub_key": "8sv+3WmlGlchJ3RY6EubLoaACy7O375sGuVr8hN7m1o=",
-        "vega_pub_key": "4651b6f0ca96d3a2faf335dd6edf14618a6fef107739a267e3d0252b4f04b300",
+      "DrbUaPKAhvCKY44TJMwy4izWbE3wJYe9AtSyRJkDshc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/2jd17tfpaisidsb925xi534alhxvbb2p?d=identicon",
+        "country": "DU",
+        "ethereum_address": "0xEd9e0C74c33Dc0CC85DDF2A0B1FC68ae6C12910a",
+        "id": "739ea438f8da9759535291db93e6e66a549143d472b2684201688272a2b2945f",
+        "info_url": "https://en.wikipedia.org/wiki/Shelley_Mayer",
+        "name": "howling-fan",
+        "tm_pub_key": "DrbUaPKAhvCKY44TJMwy4izWbE3wJYe9AtSyRJkDshc=",
+        "vega_pub_key": "f92532ec47dbc4cfb547d1125b2ca8ed278d8d47e519d7555f3a6769246fced0",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401181714",
+  "chain_id": "vega-devnet1-202401181759",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-18T17:14:18.004355985Z",
+  "genesis_time": "2024-01-18T17:59:30.114523363Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "F2B0ECDBCE6A0223EDD5B4716C404804CD3DFAC9",
-      "name": "harsh-month",
+      "address": "FED1255A03D0F7C292DAA9D708FB933F39047279",
+      "name": "howling-fan",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "8sv+3WmlGlchJ3RY6EubLoaACy7O375sGuVr8hN7m1o="
+        "value": "DrbUaPKAhvCKY44TJMwy4izWbE3wJYe9AtSyRJkDshc="
       }
     }
   ]
