@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "3e5Xqe4KtRlEhuuez7p7HEhI/YhL/jOrYelEc1xhbBM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/4u358az5muub1k627d74hyac7sv8w3yd?d=identicon",
+        "country": "XQ",
+        "ethereum_address": "0xeDFd9984A1d3d454EAAcFc1e7Ea634cC904E7272",
+        "id": "49d1560ef581fb03b2347046661be1fcb12b45a1bdb0a64e44b3346e11dbb0d0",
+        "info_url": "https://en.wikipedia.org/wiki/Alternanthera",
+        "name": "melodic-music",
+        "tm_pub_key": "3e5Xqe4KtRlEhuuez7p7HEhI/YhL/jOrYelEc1xhbBM=",
+        "vega_pub_key": "7f28dbd75a2428099de530df182ee614ea098fdf5565ad6617a96ab77a6bd0bb",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -290,17 +301,6 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
-        "vega_pub_key_index": 1
-      },
-      "gkJwrLcgNeydUYQ5m9HDcxzlO/3zWKNG3ir/brKtOPA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/zumnwk1ku5l5coyis2njg0om4irc51v2?d=identicon",
-        "country": "KL",
-        "ethereum_address": "0x42b9Bd366b859Db8689ee69bD4a0DC0bE621e744",
-        "id": "62ba56697487f86922ae8acfc4944d3ee34220957367b1da8df5522a12947b2e",
-        "info_url": "https://en.wikipedia.org/wiki/C._Edward_Middlebrooks",
-        "name": "important-plant",
-        "tm_pub_key": "gkJwrLcgNeydUYQ5m9HDcxzlO/3zWKNG3ir/brKtOPA=",
-        "vega_pub_key": "d8c633732b43f957cb71bb661047771902eeeb39af16125351d1e96ca4048a6e",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401181443",
+  "chain_id": "vega-devnet1-202401181513",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-18T14:43:55.959390841Z",
+  "genesis_time": "2024-01-18T15:13:10.02580298Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "2C704EDEC84C1A84DB5A995CCCDCF8B4DEFFCBC8",
-      "name": "important-plant",
+      "address": "B0EA3C029786543B7464949B16F384076FD86BDA",
+      "name": "melodic-music",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "gkJwrLcgNeydUYQ5m9HDcxzlO/3zWKNG3ir/brKtOPA="
+        "value": "3e5Xqe4KtRlEhuuez7p7HEhI/YhL/jOrYelEc1xhbBM="
       }
     }
   ]
