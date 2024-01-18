@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "Nr7jTfBkRSGgqqmfBxs56MYXGJ5E0dlVpjszsDBhcRU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/om9kcyvpi4llses5oj5y2sd4wao2aez6?d=identicon",
-        "country": "DL",
-        "ethereum_address": "0xb367c8F202866B64C903C2c2A705A1B89ABaf256",
-        "id": "a8b4d9087dd22ec374532d161c8c00cb220e4b73e10129dbfbe6c24fd278ea0c",
-        "info_url": "https://en.wikipedia.org/wiki/Juan_Fern%C3%A1ndez_de_Rojas",
-        "name": "helpful-candle",
-        "tm_pub_key": "Nr7jTfBkRSGgqqmfBxs56MYXGJ5E0dlVpjszsDBhcRU=",
-        "vega_pub_key": "3fe827eb1e1db52b96198936c33e7553ed2a669e9b6ce615cec91ead9c515c99",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "gkJwrLcgNeydUYQ5m9HDcxzlO/3zWKNG3ir/brKtOPA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/zumnwk1ku5l5coyis2njg0om4irc51v2?d=identicon",
+        "country": "KL",
+        "ethereum_address": "0x42b9Bd366b859Db8689ee69bD4a0DC0bE621e744",
+        "id": "62ba56697487f86922ae8acfc4944d3ee34220957367b1da8df5522a12947b2e",
+        "info_url": "https://en.wikipedia.org/wiki/C._Edward_Middlebrooks",
+        "name": "important-plant",
+        "tm_pub_key": "gkJwrLcgNeydUYQ5m9HDcxzlO/3zWKNG3ir/brKtOPA=",
+        "vega_pub_key": "d8c633732b43f957cb71bb661047771902eeeb39af16125351d1e96ca4048a6e",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401181048",
+  "chain_id": "vega-devnet1-202401181410",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-18T10:48:12.967770703Z",
+  "genesis_time": "2024-01-18T14:10:28.750744015Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "0B034C4B2CD743BCCDC6A1D231AEA338C0BF9E71",
-      "name": "helpful-candle",
+      "address": "2C704EDEC84C1A84DB5A995CCCDCF8B4DEFFCBC8",
+      "name": "important-plant",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Nr7jTfBkRSGgqqmfBxs56MYXGJ5E0dlVpjszsDBhcRU="
+        "value": "gkJwrLcgNeydUYQ5m9HDcxzlO/3zWKNG3ir/brKtOPA="
       }
     }
   ]
