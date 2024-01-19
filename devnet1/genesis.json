@@ -292,15 +292,15 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "dPXJzi8mjbZVOT18yKJg8Y5yvrhTtdyT1avh04ItyB8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/bv74h3pd1cw44y7qe7um7fzbes7givtl?d=identicon",
-        "country": "VH",
-        "ethereum_address": "0x8b3E8444A37B1F5f454e79e8B28E5267Fe167Ad4",
-        "id": "89a9a46f349dcc1788f6d9f8d37789cf4c2f1ce15919b25cf704e311d2d3d8d0",
-        "info_url": "https://en.wikipedia.org/wiki/Pittsburgh_Panthers_softball",
-        "name": "echoing-duck",
-        "tm_pub_key": "dPXJzi8mjbZVOT18yKJg8Y5yvrhTtdyT1avh04ItyB8=",
-        "vega_pub_key": "bd33f54417ce5b50c62f29555548994dc8a95b50f40e00711a48d071c5f360c4",
+      "lIXZGL6BR7RJElKHXe1ET/j0+rzssmT8VTGBJIzm2G4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/20vuptyg77b0cm1jdb1u7lu52poa7eys?d=identicon",
+        "country": "LN",
+        "ethereum_address": "0x295eA5134400933EaD977cB658ceb6e463Ca8ff2",
+        "id": "b71e5e10cba69ec87f34f668235c20dd401e0b85ac89efe8ffb43ce98f24ebae",
+        "info_url": "https://en.wikipedia.org/wiki/Mark_Wallace_(community_leader)",
+        "name": "friendly-country",
+        "tm_pub_key": "lIXZGL6BR7RJElKHXe1ET/j0+rzssmT8VTGBJIzm2G4=",
+        "vega_pub_key": "b9177f523014a8d2887278787872bdd32b7f8368f749a63189daad8393a798db",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401190920",
+  "chain_id": "vega-devnet1-202401191206",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-19T09:20:42.970599841Z",
+  "genesis_time": "2024-01-19T12:06:35.088283407Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "1B64CE408F1D1E8D7816716A1A6DC2934AB02216",
-      "name": "echoing-duck",
+      "address": "3E14B673E38AAEF6E0806B8CEA621201D26CFA43",
+      "name": "friendly-country",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "dPXJzi8mjbZVOT18yKJg8Y5yvrhTtdyT1avh04ItyB8="
+        "value": "lIXZGL6BR7RJElKHXe1ET/j0+rzssmT8VTGBJIzm2G4="
       }
     }
   ]
