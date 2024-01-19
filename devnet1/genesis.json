@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "3vdBIsCLsiEnMI/Q6PhT86aAsXStA8mSVc/tz+HCxgY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/hhdskqu0iy8p4vggd16dytqaadyq3gl7?d=identicon",
+        "country": "YU",
+        "ethereum_address": "0x0F27C21CC27A36526D4b361b54c178d0b64F77F8",
+        "id": "46de46ca922b0bde1bbba5069305c9c16ae9b4ed0028fdb9f9c260a7f2aee4ea",
+        "info_url": "https://en.wikipedia.org/wiki/Deformers",
+        "name": "powerful-chair",
+        "tm_pub_key": "3vdBIsCLsiEnMI/Q6PhT86aAsXStA8mSVc/tz+HCxgY=",
+        "vega_pub_key": "19ad9ca24d458c50b51e30516e07db46fbad8be833384c526c5cc49fe65b54bf",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -313,21 +324,10 @@
         "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
-      },
-      "ufaBtxCVxzPmkjfXI62UrwpHiry6FufsQyDRw2DEFe0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/vo80lb9mazr4bgy6eye9jbwy4wmtj45c?d=identicon",
-        "country": "WN",
-        "ethereum_address": "0xEdaEf79CcB04978ad0ff5B31a734296BF9d54A7F",
-        "id": "a60dd8056c3f72e1ee4448c3fa632655ae80f367d8d45077050fb1c9bf56a066",
-        "info_url": "https://en.wikipedia.org/wiki/Caroline_Truong",
-        "name": "oppulent-movie",
-        "tm_pub_key": "ufaBtxCVxzPmkjfXI62UrwpHiry6FufsQyDRw2DEFe0=",
-        "vega_pub_key": "f258641d60d16a2a1ff1bb12c84a8527ff68a22511a3921d9d1000ae0d405947",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202401191305",
+  "chain_id": "vega-devnet1-202401191517",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-19T13:05:18.617052056Z",
+  "genesis_time": "2024-01-19T15:17:54.902685366Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "37CC96F790E8F419D0ACCF5359123A5DFDD71C42",
-      "name": "oppulent-movie",
+      "address": "B9BEF995BBE690169BAA04F5C937FFA93D43E10C",
+      "name": "powerful-chair",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ufaBtxCVxzPmkjfXI62UrwpHiry6FufsQyDRw2DEFe0="
+        "value": "3vdBIsCLsiEnMI/Q6PhT86aAsXStA8mSVc/tz+HCxgY="
       }
     }
   ]
