@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "5UpWGcNx8eEbFkTrIdVeOVA8cmZmT6zAeUSkz5ganjM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/wtkob4idvu6yktdyxghqrehsu54nu1x7?d=identicon",
-        "country": "PB",
-        "ethereum_address": "0xc9d7A9759619a6cEB23e6504B932623947b5CB59",
-        "id": "dfa47d46b0a87749afb979ca1f304086ad4261dd69e51c750b213ea1508464be",
-        "info_url": "https://en.wikipedia.org/wiki/African_Human_Rights_Moot_Court_Competition",
-        "name": "icy-pond",
-        "tm_pub_key": "5UpWGcNx8eEbFkTrIdVeOVA8cmZmT6zAeUSkz5ganjM=",
-        "vega_pub_key": "608922da42fe63fe64cab5a662196144c65d8f45dba3a741958317f09e8c5172",
+      "ENn0BawXGHGoionyoR38gSZ7sEwCiG9bwwfiYKgGRBk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/rxnro9nh73eo4q5ud8y5to2267ahkxzq?d=identicon",
+        "country": "UQ",
+        "ethereum_address": "0x8885EdeD00Fcb567DB38A7C69242F2E30b7F1560",
+        "id": "93d50997e3b06c9c0e6372a920508c2df5bfc537d377219820d98c5efe9af6e9",
+        "info_url": "https://en.wikipedia.org/wiki/Flyovers_(play)",
+        "name": "thundering-pond",
+        "tm_pub_key": "ENn0BawXGHGoionyoR38gSZ7sEwCiG9bwwfiYKgGRBk=",
+        "vega_pub_key": "a9cd4e7db1598628635682623c9ea85afdd53a014e635ba7fc6073531834b2db",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401192010",
+  "chain_id": "vega-devnet1-202401192109",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-19T20:10:58.046192722Z",
+  "genesis_time": "2024-01-19T21:09:29.453703134Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "0B3A4EE42B073B154B818BFFC13939909ABECEC2",
-      "name": "icy-pond",
+      "address": "378C9CE9FE64B347CE509A241A8F89C83096C2E4",
+      "name": "thundering-pond",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "5UpWGcNx8eEbFkTrIdVeOVA8cmZmT6zAeUSkz5ganjM="
+        "value": "ENn0BawXGHGoionyoR38gSZ7sEwCiG9bwwfiYKgGRBk="
       }
     }
   ]
