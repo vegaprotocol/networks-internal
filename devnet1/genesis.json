@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "5UpWGcNx8eEbFkTrIdVeOVA8cmZmT6zAeUSkz5ganjM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/wtkob4idvu6yktdyxghqrehsu54nu1x7?d=identicon",
+        "country": "PB",
+        "ethereum_address": "0xc9d7A9759619a6cEB23e6504B932623947b5CB59",
+        "id": "dfa47d46b0a87749afb979ca1f304086ad4261dd69e51c750b213ea1508464be",
+        "info_url": "https://en.wikipedia.org/wiki/African_Human_Rights_Moot_Court_Competition",
+        "name": "icy-pond",
+        "tm_pub_key": "5UpWGcNx8eEbFkTrIdVeOVA8cmZmT6zAeUSkz5ganjM=",
+        "vega_pub_key": "608922da42fe63fe64cab5a662196144c65d8f45dba3a741958317f09e8c5172",
+        "vega_pub_key_index": 1
+      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -313,21 +324,10 @@
         "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
-      },
-      "wzyLETqp42AIQ6LicO5Ou/eehZx7SzvP5MFQX0qTNVo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/bl7ke9d86n0ev0cc3qf7hk2wmjbdfe5p?d=identicon",
-        "country": "LZ",
-        "ethereum_address": "0x8a5727689288dfd8b816C5F8ACcf945F5eE9d3D3",
-        "id": "d29f0e6ec0dbf1c1363383049c2316c95facbb05b8294292e03c063e8377ee2e",
-        "info_url": "https://en.wikipedia.org/wiki/Coleophora_asperginella",
-        "name": "howling-table",
-        "tm_pub_key": "wzyLETqp42AIQ6LicO5Ou/eehZx7SzvP5MFQX0qTNVo=",
-        "vega_pub_key": "65a8ffad357e7426240de701c4779eef236d86df8c7a3a335a882d34d2321ff8",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202401191626",
+  "chain_id": "vega-devnet1-202401192010",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-19T16:26:47.903559175Z",
+  "genesis_time": "2024-01-19T20:10:58.046192722Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "EEDCA60A8E5E85B0841CA3E4D6A7980BD60C63E4",
-      "name": "howling-table",
+      "address": "0B3A4EE42B073B154B818BFFC13939909ABECEC2",
+      "name": "icy-pond",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "wzyLETqp42AIQ6LicO5Ou/eehZx7SzvP5MFQX0qTNVo="
+        "value": "5UpWGcNx8eEbFkTrIdVeOVA8cmZmT6zAeUSkz5ganjM="
       }
     }
   ]
