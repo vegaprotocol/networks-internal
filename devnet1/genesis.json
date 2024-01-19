@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "DrbUaPKAhvCKY44TJMwy4izWbE3wJYe9AtSyRJkDshc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/2jd17tfpaisidsb925xi534alhxvbb2p?d=identicon",
-        "country": "DU",
-        "ethereum_address": "0xEd9e0C74c33Dc0CC85DDF2A0B1FC68ae6C12910a",
-        "id": "739ea438f8da9759535291db93e6e66a549143d472b2684201688272a2b2945f",
-        "info_url": "https://en.wikipedia.org/wiki/Shelley_Mayer",
-        "name": "howling-fan",
-        "tm_pub_key": "DrbUaPKAhvCKY44TJMwy4izWbE3wJYe9AtSyRJkDshc=",
-        "vega_pub_key": "f92532ec47dbc4cfb547d1125b2ca8ed278d8d47e519d7555f3a6769246fced0",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -324,10 +313,21 @@
         "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
+      },
+      "xH6QVlKG9+eewoAmTB/9mSUoH4+ACdrGb03jcH/mfAI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/4h0ielx80ntdxdxdivw66ld0ss8lqffd?d=identicon",
+        "country": "ES",
+        "ethereum_address": "0xd4d8C4016A527901209264E3d72283147cE6bd22",
+        "id": "9d0b95f740b964be9d55a157a32d84e02dac21a604483ad0ab20b17f7e7c7b07",
+        "info_url": "https://en.wikipedia.org/wiki/Sean_Farrell_(American_football)",
+        "name": "short-hat",
+        "tm_pub_key": "xH6QVlKG9+eewoAmTB/9mSUoH4+ACdrGb03jcH/mfAI=",
+        "vega_pub_key": "bc4902702c0e7b778031fcb075e03f2359ff0ea1a07941a976567c3bddacf127",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202401181828",
+  "chain_id": "vega-devnet1-202401190844",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-18T18:28:14.205046906Z",
+  "genesis_time": "2024-01-19T08:44:32.72149313Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "FED1255A03D0F7C292DAA9D708FB933F39047279",
-      "name": "howling-fan",
+      "address": "35AE3ADDD73AD885AD20566AE0CB5D4875E6D0D6",
+      "name": "short-hat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "DrbUaPKAhvCKY44TJMwy4izWbE3wJYe9AtSyRJkDshc="
+        "value": "xH6QVlKG9+eewoAmTB/9mSUoH4+ACdrGb03jcH/mfAI="
       }
     }
   ]
