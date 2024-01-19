@@ -270,15 +270,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "ENn0BawXGHGoionyoR38gSZ7sEwCiG9bwwfiYKgGRBk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/rxnro9nh73eo4q5ud8y5to2267ahkxzq?d=identicon",
-        "country": "UQ",
-        "ethereum_address": "0x8885EdeD00Fcb567DB38A7C69242F2E30b7F1560",
-        "id": "93d50997e3b06c9c0e6372a920508c2df5bfc537d377219820d98c5efe9af6e9",
-        "info_url": "https://en.wikipedia.org/wiki/Flyovers_(play)",
-        "name": "thundering-pond",
-        "tm_pub_key": "ENn0BawXGHGoionyoR38gSZ7sEwCiG9bwwfiYKgGRBk=",
-        "vega_pub_key": "a9cd4e7db1598628635682623c9ea85afdd53a014e635ba7fc6073531834b2db",
+      "/DTk3I2xyFMbyF9x9mwSBuEFN11YzYdtA8prQ5Op9Uo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/6rsl3v4c2u7jeapxgnhdrt1fgvt39fk4?d=identicon",
+        "country": "PI",
+        "ethereum_address": "0xeC0C134928359978AD0bAE57afE759Ffcc8aCcf4",
+        "id": "c14f36cf2dab6dc4ef2f0a2c605c7abefa28828e725e5027e0928df750cb9e08",
+        "info_url": "https://en.wikipedia.org/wiki/Paleosurface",
+        "name": "happy-wall",
+        "tm_pub_key": "/DTk3I2xyFMbyF9x9mwSBuEFN11YzYdtA8prQ5Op9Uo=",
+        "vega_pub_key": "1e239173bf5048d7eee28d95bc29d1068d63c78726057f34fc24049ed98adfa2",
         "vega_pub_key_index": 1
       },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401192109",
+  "chain_id": "vega-devnet1-202401192309",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-19T21:09:29.453703134Z",
+  "genesis_time": "2024-01-19T23:09:57.164023676Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "378C9CE9FE64B347CE509A241A8F89C83096C2E4",
-      "name": "thundering-pond",
+      "address": "50C5AE6BA99918109E0AC5CAE8B9BFC33AC347B9",
+      "name": "happy-wall",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ENn0BawXGHGoionyoR38gSZ7sEwCiG9bwwfiYKgGRBk="
+        "value": "/DTk3I2xyFMbyF9x9mwSBuEFN11YzYdtA8prQ5Op9Uo="
       }
     }
   ]
