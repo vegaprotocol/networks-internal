@@ -292,6 +292,17 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
+      "dPXJzi8mjbZVOT18yKJg8Y5yvrhTtdyT1avh04ItyB8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/bv74h3pd1cw44y7qe7um7fzbes7givtl?d=identicon",
+        "country": "VH",
+        "ethereum_address": "0x8b3E8444A37B1F5f454e79e8B28E5267Fe167Ad4",
+        "id": "89a9a46f349dcc1788f6d9f8d37789cf4c2f1ce15919b25cf704e311d2d3d8d0",
+        "info_url": "https://en.wikipedia.org/wiki/Pittsburgh_Panthers_softball",
+        "name": "echoing-duck",
+        "tm_pub_key": "dPXJzi8mjbZVOT18yKJg8Y5yvrhTtdyT1avh04ItyB8=",
+        "vega_pub_key": "bd33f54417ce5b50c62f29555548994dc8a95b50f40e00711a48d071c5f360c4",
+        "vega_pub_key_index": 1
+      },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
         "avatar_url": "https://www.gravatar.com/avatar/14wh06jhnafyxu5ea1p41y8972c1flw0?d=identicon",
         "country": "QX",
@@ -313,21 +324,10 @@
         "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
-      },
-      "xH6QVlKG9+eewoAmTB/9mSUoH4+ACdrGb03jcH/mfAI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/4h0ielx80ntdxdxdivw66ld0ss8lqffd?d=identicon",
-        "country": "ES",
-        "ethereum_address": "0xd4d8C4016A527901209264E3d72283147cE6bd22",
-        "id": "9d0b95f740b964be9d55a157a32d84e02dac21a604483ad0ab20b17f7e7c7b07",
-        "info_url": "https://en.wikipedia.org/wiki/Sean_Farrell_(American_football)",
-        "name": "short-hat",
-        "tm_pub_key": "xH6QVlKG9+eewoAmTB/9mSUoH4+ACdrGb03jcH/mfAI=",
-        "vega_pub_key": "bc4902702c0e7b778031fcb075e03f2359ff0ea1a07941a976567c3bddacf127",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202401190844",
+  "chain_id": "vega-devnet1-202401190920",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-19T08:44:32.72149313Z",
+  "genesis_time": "2024-01-19T09:20:42.970599841Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "35AE3ADDD73AD885AD20566AE0CB5D4875E6D0D6",
-      "name": "short-hat",
+      "address": "1B64CE408F1D1E8D7816716A1A6DC2934AB02216",
+      "name": "echoing-duck",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "xH6QVlKG9+eewoAmTB/9mSUoH4+ACdrGb03jcH/mfAI="
+        "value": "dPXJzi8mjbZVOT18yKJg8Y5yvrhTtdyT1avh04ItyB8="
       }
     }
   ]
