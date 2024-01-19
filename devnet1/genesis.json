@@ -292,17 +292,6 @@
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
         "vega_pub_key_index": 1
       },
-      "lIXZGL6BR7RJElKHXe1ET/j0+rzssmT8VTGBJIzm2G4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/20vuptyg77b0cm1jdb1u7lu52poa7eys?d=identicon",
-        "country": "LN",
-        "ethereum_address": "0x295eA5134400933EaD977cB658ceb6e463Ca8ff2",
-        "id": "b71e5e10cba69ec87f34f668235c20dd401e0b85ac89efe8ffb43ce98f24ebae",
-        "info_url": "https://en.wikipedia.org/wiki/Mark_Wallace_(community_leader)",
-        "name": "friendly-country",
-        "tm_pub_key": "lIXZGL6BR7RJElKHXe1ET/j0+rzssmT8VTGBJIzm2G4=",
-        "vega_pub_key": "b9177f523014a8d2887278787872bdd32b7f8368f749a63189daad8393a798db",
-        "vega_pub_key_index": 1
-      },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
         "avatar_url": "https://www.gravatar.com/avatar/14wh06jhnafyxu5ea1p41y8972c1flw0?d=identicon",
         "country": "QX",
@@ -324,10 +313,21 @@
         "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
+      },
+      "ufaBtxCVxzPmkjfXI62UrwpHiry6FufsQyDRw2DEFe0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/vo80lb9mazr4bgy6eye9jbwy4wmtj45c?d=identicon",
+        "country": "WN",
+        "ethereum_address": "0xEdaEf79CcB04978ad0ff5B31a734296BF9d54A7F",
+        "id": "a60dd8056c3f72e1ee4448c3fa632655ae80f367d8d45077050fb1c9bf56a066",
+        "info_url": "https://en.wikipedia.org/wiki/Caroline_Truong",
+        "name": "oppulent-movie",
+        "tm_pub_key": "ufaBtxCVxzPmkjfXI62UrwpHiry6FufsQyDRw2DEFe0=",
+        "vega_pub_key": "f258641d60d16a2a1ff1bb12c84a8527ff68a22511a3921d9d1000ae0d405947",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202401191206",
+  "chain_id": "vega-devnet1-202401191305",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-19T12:06:35.088283407Z",
+  "genesis_time": "2024-01-19T13:05:18.617052056Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "3E14B673E38AAEF6E0806B8CEA621201D26CFA43",
-      "name": "friendly-country",
+      "address": "37CC96F790E8F419D0ACCF5359123A5DFDD71C42",
+      "name": "oppulent-movie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "lIXZGL6BR7RJElKHXe1ET/j0+rzssmT8VTGBJIzm2G4="
+        "value": "ufaBtxCVxzPmkjfXI62UrwpHiry6FufsQyDRw2DEFe0="
       }
     }
   ]
