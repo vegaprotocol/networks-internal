@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "3vdBIsCLsiEnMI/Q6PhT86aAsXStA8mSVc/tz+HCxgY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/hhdskqu0iy8p4vggd16dytqaadyq3gl7?d=identicon",
-        "country": "YU",
-        "ethereum_address": "0x0F27C21CC27A36526D4b361b54c178d0b64F77F8",
-        "id": "46de46ca922b0bde1bbba5069305c9c16ae9b4ed0028fdb9f9c260a7f2aee4ea",
-        "info_url": "https://en.wikipedia.org/wiki/Deformers",
-        "name": "powerful-chair",
-        "tm_pub_key": "3vdBIsCLsiEnMI/Q6PhT86aAsXStA8mSVc/tz+HCxgY=",
-        "vega_pub_key": "19ad9ca24d458c50b51e30516e07db46fbad8be833384c526c5cc49fe65b54bf",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -324,10 +313,21 @@
         "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
         "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
         "vega_pub_key_index": 1
+      },
+      "wzyLETqp42AIQ6LicO5Ou/eehZx7SzvP5MFQX0qTNVo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/bl7ke9d86n0ev0cc3qf7hk2wmjbdfe5p?d=identicon",
+        "country": "LZ",
+        "ethereum_address": "0x8a5727689288dfd8b816C5F8ACcf945F5eE9d3D3",
+        "id": "d29f0e6ec0dbf1c1363383049c2316c95facbb05b8294292e03c063e8377ee2e",
+        "info_url": "https://en.wikipedia.org/wiki/Coleophora_asperginella",
+        "name": "howling-table",
+        "tm_pub_key": "wzyLETqp42AIQ6LicO5Ou/eehZx7SzvP5MFQX0qTNVo=",
+        "vega_pub_key": "65a8ffad357e7426240de701c4779eef236d86df8c7a3a335a882d34d2321ff8",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202401191517",
+  "chain_id": "vega-devnet1-202401191626",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-19T15:17:54.902685366Z",
+  "genesis_time": "2024-01-19T16:26:47.903559175Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "B9BEF995BBE690169BAA04F5C937FFA93D43E10C",
-      "name": "powerful-chair",
+      "address": "EEDCA60A8E5E85B0841CA3E4D6A7980BD60C63E4",
+      "name": "howling-table",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "3vdBIsCLsiEnMI/Q6PhT86aAsXStA8mSVc/tz+HCxgY="
+        "value": "wzyLETqp42AIQ6LicO5Ou/eehZx7SzvP5MFQX0qTNVo="
       }
     }
   ]
