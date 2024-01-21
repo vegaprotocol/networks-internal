@@ -270,64 +270,64 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
-        "country": "LO",
-        "ethereum_address": "0x8eCCb3B0D246854a64d2BF3489B2e145Bf93Af26",
-        "id": "da201630aa9daf94153b9330eeaacc31defa17e0b7d0ca73254bcce7038b6c62",
-        "info_url": "https://en.wikipedia.org/wiki/Ensoniq_ASR-10",
-        "name": "terrible-fan",
-        "tm_pub_key": "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=",
-        "vega_pub_key": "88537d06d0a10dcb71d0b0b370d7c188936bb3417b0105bb6b61340745141194",
+      "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
+        "country": "AA",
+        "ethereum_address": "0x657de6FDa6A7b94b790506cF67De7Ed928634FE5",
+        "id": "366bffa1259c9b827ccfc83af14b3071f412be3ac932042b98561a6ef66072e9",
+        "info_url": "https://en.wikipedia.org/wiki/Dr._Richard_Calvin_Bromley_House",
+        "name": "important-mango",
+        "tm_pub_key": "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=",
+        "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
-      "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=": {
-        "avatar_url": "https://www.gravatar.com/avatar/5lclj8qe2cqcg9minvnflj0ivxr97v3f?d=identicon",
-        "country": "JQ",
-        "ethereum_address": "0x75e66a8EE37ce6494c4ca5d635368A87555c27dA",
-        "id": "f7e77491c75b2d3412ca45b85fd587b583ba087b566644514b79c0861b975ba0",
-        "info_url": "https://en.wikipedia.org/wiki/Mannosyl-oligosaccharide_1,2-alpha-mannosidase",
-        "name": "adventurous-television",
-        "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
-        "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+      "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
+        "country": "QV",
+        "ethereum_address": "0x73aa9974b90BfB7f3361465402894B7416D6e145",
+        "id": "cbbb9526d8d69b3462c6b27188bdf59da481e7af5b6e0dcfc88698780a393f40",
+        "info_url": "https://en.wikipedia.org/wiki/Rustai-ye_Deh_Reza",
+        "name": "crashing-wall",
+        "tm_pub_key": "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=",
+        "vega_pub_key": "cb152821443248b20a217abee89c1c8e595e07d47c537255d480761c88bc86d1",
         "vega_pub_key_index": 1
       },
-      "dgrTdWMdjgZkWrge4JARbU4vBA2NzahKr1JLozkhaCs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/gsqpcsfl8yn9k2vzagjfpvksquqlvt3u?d=identicon",
-        "country": "AF",
-        "ethereum_address": "0x1C7a3caBC5D23C84985C2668c3261381b472f99d",
-        "id": "801379f15dd00a9a968a31b2457da9908df231715aa44d5b3dc60ce67ceb2253",
-        "info_url": "https://en.wikipedia.org/wiki/1928%E2%80%9329_Gold_Cup",
-        "name": "icy-shoe",
-        "tm_pub_key": "dgrTdWMdjgZkWrge4JARbU4vBA2NzahKr1JLozkhaCs=",
-        "vega_pub_key": "1a23a8a044efbd694bca311281277c85ef7533d15992076d7c48f4471eb6ac31",
+      "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/6x0s5jsbbeeihso9yyhnh6hcop4fkxa1?d=identicon",
+        "country": "ON",
+        "ethereum_address": "0x946084c657E691aaC233Cac65e70741E8bb361A9",
+        "id": "5b563035a3ccbd3479d042e374d5ef3edb2b4937e3b88953e456fca0640bbed5",
+        "info_url": "https://en.wikipedia.org/wiki/Chief_Minister_of_Gibraltar",
+        "name": "clever-doctor",
+        "tm_pub_key": "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ=",
+        "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/14wh06jhnafyxu5ea1p41y8972c1flw0?d=identicon",
-        "country": "QX",
-        "ethereum_address": "0x7D09006aE1a21143725D1Ae0fB504f5cB78a533A",
-        "id": "73cd4098b607ae250b4436f0d1127f9e05d84609612c0aefbd0e3edfcd182d34",
-        "info_url": "https://en.wikipedia.org/wiki/September_1992_South_Lebanon_clashes",
-        "name": "helpless-biscuit",
-        "tm_pub_key": "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=",
-        "vega_pub_key": "ec52a0909053e61531925dbf38ef3419265d41375fc82c967b429ab17548f254",
+      "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
+        "country": "LA",
+        "ethereum_address": "0x4559A1ACE030e82d5b4bA2806fb6F50eb72349F6",
+        "id": "d79ddf7f2c462e023f310f627e58c9ae19201844c5948d4b987dee653e1bb6d0",
+        "info_url": "https://en.wikipedia.org/wiki/House_of_LeMay",
+        "name": "agitated-stove",
+        "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
+        "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/a1ae15bucug2qortml2n4rifwznx19tv?d=identicon",
-        "country": "WO",
-        "ethereum_address": "0x21dC9aBaC782c224A407A1C5CC39601035f01Fb7",
-        "id": "3cda5344199a6c6772d17fa83917402ae013095a2edeaffd5b7ed6e756d76904",
-        "info_url": "https://en.wikipedia.org/wiki/Right_Livelihood_Award",
-        "name": "tricky-wall",
-        "tm_pub_key": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc=",
-        "vega_pub_key": "5da61fa66bbc9cc9c8485391ba0a5e82ccd0b6eacf75b3901bbf08124ccc9627",
+      "m6E2kW7lLMM+A35hGBqOpDKAEpPqQBG9eU6q38/HT7A=": {
+        "avatar_url": "https://www.gravatar.com/avatar/0esvs0hyctfm5jp1poi2ko2km3cno7ii?d=identicon",
+        "country": "AM",
+        "ethereum_address": "0x4a31cE6C9eFDea049eBEFC19423e4AdE5659830f",
+        "id": "2971331a065c46f94d5d6e387d157259764bf1efb5b2ae083b3eabe0ab23367b",
+        "info_url": "https://en.wikipedia.org/wiki/2000_PBA_season",
+        "name": "gifted-cat",
+        "tm_pub_key": "m6E2kW7lLMM+A35hGBqOpDKAEpPqQBG9eU6q38/HT7A=",
+        "vega_pub_key": "517aacc23049661fb0284ff92f5c828c1d2a881a3161bb65bed389818244e395",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202401210027",
+  "chain_id": "vega-devnet1-202401211101",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,52 +346,52 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-21T00:27:24.818533459Z",
+  "genesis_time": "2024-01-21T11:01:20.55381018Z",
   "initial_height": "0",
   "validators": [
     {
-      "address": "5120D58A09DFBC3548CFEE07F90475EDAF60FCE4",
-      "name": "adventurous-television",
+      "address": "8749B965A64F060204406EC5C0C113683A6D1FA3",
+      "name": "important-mango",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U="
+        "value": "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0="
       }
     },
     {
-      "address": "59A06EAF8BFB6900DE489A04F2A6136E92F19BF0",
-      "name": "terrible-fan",
+      "address": "58D5FD8AF8B78162B810DAF5EC49D1DE0574F7B0",
+      "name": "crashing-wall",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo="
+        "value": "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo="
       }
     },
     {
-      "address": "7BB7D6248AB177FE1F8308440E629B3363F363BC",
-      "name": "tricky-wall",
+      "address": "55C41B8596E6E0D4CBE001587D447E84ECF06C51",
+      "name": "clever-doctor",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "uPV/rCewXY3zhKiM5GePlb3OZF9L3zWjlKFmIXKUazc="
+        "value": "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ="
       }
     },
     {
-      "address": "D103DE67EE6E31D5EF8A087BD9BDAE03DF1AA3E2",
-      "name": "helpless-biscuit",
+      "address": "6016C537F790A4095D26BD7B55126C8A7150EC11",
+      "name": "agitated-stove",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8="
+        "value": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0="
       }
     },
     {
-      "address": "7ACCAAFA1D483DFEFA220E2632C06E52EF0B9AC8",
-      "name": "icy-shoe",
+      "address": "C9DE55667F9D767F04389EC0F5085474F1A7665C",
+      "name": "gifted-cat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "dgrTdWMdjgZkWrge4JARbU4vBA2NzahKr1JLozkhaCs="
+        "value": "m6E2kW7lLMM+A35hGBqOpDKAEpPqQBG9eU6q38/HT7A="
       }
     }
   ]
