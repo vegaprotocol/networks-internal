@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "/DTk3I2xyFMbyF9x9mwSBuEFN11YzYdtA8prQ5Op9Uo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/6rsl3v4c2u7jeapxgnhdrt1fgvt39fk4?d=identicon",
-        "country": "PI",
-        "ethereum_address": "0xeC0C134928359978AD0bAE57afE759Ffcc8aCcf4",
-        "id": "c14f36cf2dab6dc4ef2f0a2c605c7abefa28828e725e5027e0928df750cb9e08",
-        "info_url": "https://en.wikipedia.org/wiki/Paleosurface",
-        "name": "happy-wall",
-        "tm_pub_key": "/DTk3I2xyFMbyF9x9mwSBuEFN11YzYdtA8prQ5Op9Uo=",
-        "vega_pub_key": "1e239173bf5048d7eee28d95bc29d1068d63c78726057f34fc24049ed98adfa2",
-        "vega_pub_key_index": 1
-      },
       "VMb1In1E8jhIul0umiRIsoUPSMnHIgBKP9N0ZzyKGQo=": {
         "avatar_url": "https://www.gravatar.com/avatar/qrj3qwdf7w1jckl6uyuy1m5pw0d1ea86?d=identicon",
         "country": "LO",
@@ -301,6 +290,17 @@
         "name": "adventurous-television",
         "tm_pub_key": "VsvWdU2u/kDQDUZcdhEr8PNrf540X1IfLxSOlusMJ+U=",
         "vega_pub_key": "db82afab97e77c6aa75821634426670459ad985e035c81c2e3169e6ae26cd3f8",
+        "vega_pub_key_index": 1
+      },
+      "dgrTdWMdjgZkWrge4JARbU4vBA2NzahKr1JLozkhaCs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/gsqpcsfl8yn9k2vzagjfpvksquqlvt3u?d=identicon",
+        "country": "AF",
+        "ethereum_address": "0x1C7a3caBC5D23C84985C2668c3261381b472f99d",
+        "id": "801379f15dd00a9a968a31b2457da9908df231715aa44d5b3dc60ce67ceb2253",
+        "info_url": "https://en.wikipedia.org/wiki/1928%E2%80%9329_Gold_Cup",
+        "name": "icy-shoe",
+        "tm_pub_key": "dgrTdWMdjgZkWrge4JARbU4vBA2NzahKr1JLozkhaCs=",
+        "vega_pub_key": "1a23a8a044efbd694bca311281277c85ef7533d15992076d7c48f4471eb6ac31",
         "vega_pub_key_index": 1
       },
       "tWNe3nc2kU+n/5vz6k87iD6FmdrfNCZGw7NHiQ9jxi8=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401192309",
+  "chain_id": "vega-devnet1-202401210027",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-19T23:09:57.164023676Z",
+  "genesis_time": "2024-01-21T00:27:24.818533459Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "50C5AE6BA99918109E0AC5CAE8B9BFC33AC347B9",
-      "name": "happy-wall",
+      "address": "7ACCAAFA1D483DFEFA220E2632C06E52EF0B9AC8",
+      "name": "icy-shoe",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "/DTk3I2xyFMbyF9x9mwSBuEFN11YzYdtA8prQ5Op9Uo="
+        "value": "dgrTdWMdjgZkWrge4JARbU4vBA2NzahKr1JLozkhaCs="
       }
     }
   ]
