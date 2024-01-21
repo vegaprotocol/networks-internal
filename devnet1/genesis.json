@@ -314,20 +314,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "m6E2kW7lLMM+A35hGBqOpDKAEpPqQBG9eU6q38/HT7A=": {
-        "avatar_url": "https://www.gravatar.com/avatar/0esvs0hyctfm5jp1poi2ko2km3cno7ii?d=identicon",
-        "country": "AM",
-        "ethereum_address": "0x4a31cE6C9eFDea049eBEFC19423e4AdE5659830f",
-        "id": "2971331a065c46f94d5d6e387d157259764bf1efb5b2ae083b3eabe0ab23367b",
-        "info_url": "https://en.wikipedia.org/wiki/2000_PBA_season",
-        "name": "gifted-cat",
-        "tm_pub_key": "m6E2kW7lLMM+A35hGBqOpDKAEpPqQBG9eU6q38/HT7A=",
-        "vega_pub_key": "517aacc23049661fb0284ff92f5c828c1d2a881a3161bb65bed389818244e395",
+      "PPNBPRXNLXv14IWozmUglG7idrdEa+ePP6L+2qGqExg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/enxnwzqeeq3dx6ksvvgrf3t09htswc35?d=identicon",
+        "country": "RQ",
+        "ethereum_address": "0x8Ad82845378e19D1FC05b69b7942DEe1534F456E",
+        "id": "4481af57677d1f3f22495ba1b1dcee391828e35b8a86945928a5de196736b88a",
+        "info_url": "https://en.wikipedia.org/wiki/French_cruiser_Du_Chayla",
+        "name": "careful-taxi",
+        "tm_pub_key": "PPNBPRXNLXv14IWozmUglG7idrdEa+ePP6L+2qGqExg=",
+        "vega_pub_key": "353301098219e943414b9c80c5a3b14d9712db653f9b891905bbeb9e7139baf1",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202401211101",
+  "chain_id": "vega-devnet1-202401211406",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-21T11:01:20.55381018Z",
+  "genesis_time": "2024-01-21T14:06:50.15043195Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "C9DE55667F9D767F04389EC0F5085474F1A7665C",
-      "name": "gifted-cat",
+      "address": "4A6417E2FCB7ADA15C9421B1A374BF0BE6CFAAF1",
+      "name": "careful-taxi",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "m6E2kW7lLMM+A35hGBqOpDKAEpPqQBG9eU6q38/HT7A="
+        "value": "PPNBPRXNLXv14IWozmUglG7idrdEa+ePP6L+2qGqExg="
       }
     }
   ]
