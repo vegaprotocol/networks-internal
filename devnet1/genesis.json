@@ -314,20 +314,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "PPNBPRXNLXv14IWozmUglG7idrdEa+ePP6L+2qGqExg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/enxnwzqeeq3dx6ksvvgrf3t09htswc35?d=identicon",
-        "country": "RQ",
-        "ethereum_address": "0x8Ad82845378e19D1FC05b69b7942DEe1534F456E",
-        "id": "4481af57677d1f3f22495ba1b1dcee391828e35b8a86945928a5de196736b88a",
-        "info_url": "https://en.wikipedia.org/wiki/French_cruiser_Du_Chayla",
-        "name": "careful-taxi",
-        "tm_pub_key": "PPNBPRXNLXv14IWozmUglG7idrdEa+ePP6L+2qGqExg=",
-        "vega_pub_key": "353301098219e943414b9c80c5a3b14d9712db653f9b891905bbeb9e7139baf1",
+      "WA4Zg16UnUsroRO2Q2H+HuUXoGdzJWXVzJuJZTWvneM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/asbd6gqack4bglv3ydp23wik5vskw14s?d=identicon",
+        "country": "PW",
+        "ethereum_address": "0xa499040cbD3fC1B70bD22Fb52529DDEa0B9aB67E",
+        "id": "052409d35eeb45b1058dc73f7f9d19063ad3aaca81f9afd6b251bdff28be35b4",
+        "info_url": "https://en.wikipedia.org/wiki/Nasir_Adhama",
+        "name": "dizzy-tree",
+        "tm_pub_key": "WA4Zg16UnUsroRO2Q2H+HuUXoGdzJWXVzJuJZTWvneM=",
+        "vega_pub_key": "a2887a3266af752f8b0d890439f725ca2378c1159aae9e30b6eea35adb31742b",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202401211406",
+  "chain_id": "vega-devnet1-202401221010",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-21T14:06:50.15043195Z",
+  "genesis_time": "2024-01-22T10:10:08.701986214Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "4A6417E2FCB7ADA15C9421B1A374BF0BE6CFAAF1",
-      "name": "careful-taxi",
+      "address": "2A4A51D0C0AB8D4E25DD8E9D36C4C05BC24E8292",
+      "name": "dizzy-tree",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "PPNBPRXNLXv14IWozmUglG7idrdEa+ePP6L+2qGqExg="
+        "value": "WA4Zg16UnUsroRO2Q2H+HuUXoGdzJWXVzJuJZTWvneM="
       }
     }
   ]
