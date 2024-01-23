@@ -303,6 +303,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "GFt2Cb+yUzLyH258J/GPEFw21bU2dsHHNyHlDfmLLoA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/46q6d88gdoob9zdif7hbn8a9iyydfbta?d=identicon",
+        "country": "WR",
+        "ethereum_address": "0x2E963f8B33A57cEa3d5Bb074dAdc3286f142f90f",
+        "id": "050ce33a0f2b29c49ba716a798adc572c9b2da6d29e19a6e95a2f8381c93bc93",
+        "info_url": "https://en.wikipedia.org/wiki/USS_Catalpa",
+        "name": "hungry-music",
+        "tm_pub_key": "GFt2Cb+yUzLyH258J/GPEFw21bU2dsHHNyHlDfmLLoA=",
+        "vega_pub_key": "eb92685cf9d4d22a9f653b2f1c17301d138ee2a498bead5d6122e9154be322fa",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -313,21 +324,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "R1foO8BtAop2V2G5SDEBwOAlK60qEm7mLUp1pWFE8GE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/kwn5byyty3cwcdhxxb1hwnfom88eu7n7?d=identicon",
-        "country": "LI",
-        "ethereum_address": "0x829ab62B62a6Bf7Dc81A946eA66Fc5aD4d28d5Ed",
-        "id": "ace448de69d95db07eda6d8b176f7ee7d719c7dfeeb6b3dbbcb5120e9b840542",
-        "info_url": "https://en.wikipedia.org/wiki/Malesherbia_weberbaueri",
-        "name": "faint-duck",
-        "tm_pub_key": "R1foO8BtAop2V2G5SDEBwOAlK60qEm7mLUp1pWFE8GE=",
-        "vega_pub_key": "678be0e0a777b5179206a9d9a3171ad7f9e680139d2f0d924fdd676687db3a23",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202401230823",
+  "chain_id": "vega-devnet1-202401230927",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-23T08:23:51.673634041Z",
+  "genesis_time": "2024-01-23T09:27:33.775329214Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "C278EB3D50B6CBB7A36F2687B5148E060B6AE259",
-      "name": "faint-duck",
+      "address": "6084578118F25580D05153EFF8DF40F85EF84273",
+      "name": "hungry-music",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "R1foO8BtAop2V2G5SDEBwOAlK60qEm7mLUp1pWFE8GE="
+        "value": "GFt2Cb+yUzLyH258J/GPEFw21bU2dsHHNyHlDfmLLoA="
       }
     }
   ]
