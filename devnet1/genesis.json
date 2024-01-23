@@ -314,20 +314,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "Xpsa1NGRqX40KVUK1JDGq/VV65WGedfyX35vLgoZicQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/4v2zjnpcajyv0uurenxbjgdo2o6ognn2?d=identicon",
-        "country": "CK",
-        "ethereum_address": "0x96ed9aB0CF49174ad14CE9a1A8f37c41f8f078c6",
-        "id": "42367364d02e249123f7352ebed059b0aa3382e3a7a4f35409c7b1ab3575ba33",
-        "info_url": "https://en.wikipedia.org/wiki/Tour_du_Marbor%C3%A9",
-        "name": "helpful-duck",
-        "tm_pub_key": "Xpsa1NGRqX40KVUK1JDGq/VV65WGedfyX35vLgoZicQ=",
-        "vega_pub_key": "d228433fd21ee4b355a5f0b9783dacab7bc556ee5aaa806277e864830eff24c1",
+      "SzT1O75dAFF35XCp6nkvVTCo4r8MSEbGPrxhY1cFpDU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/9xwlpmk9tn69go3ysomfm0smrgjd1313?d=identicon",
+        "country": "SN",
+        "ethereum_address": "0xDC1b7A0560C6e182Ffb788F05695b19C1CBB8e9b",
+        "id": "59411849f3f281b5461292e2e22635f6ee06e42bfbc46f026140de658e3522c2",
+        "info_url": "https://en.wikipedia.org/wiki/Miss_Myanmar_World",
+        "name": "intrigued-car",
+        "tm_pub_key": "SzT1O75dAFF35XCp6nkvVTCo4r8MSEbGPrxhY1cFpDU=",
+        "vega_pub_key": "f793dd03bd835d3836bd01deb43ac29b48a25fb8d426b0733c4e95df9c3484a5",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202401231328",
+  "chain_id": "vega-devnet1-202401231730",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-23T13:28:25.397226507Z",
+  "genesis_time": "2024-01-23T17:30:18.420351542Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "18195CEB07A651498BB21D47CEA2666EED63A955",
-      "name": "helpful-duck",
+      "address": "913C56CBE32ACC172133480409FA9C5AEDFE6549",
+      "name": "intrigued-car",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Xpsa1NGRqX40KVUK1JDGq/VV65WGedfyX35vLgoZicQ="
+        "value": "SzT1O75dAFF35XCp6nkvVTCo4r8MSEbGPrxhY1cFpDU="
       }
     }
   ]
