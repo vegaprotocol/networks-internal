@@ -303,15 +303,15 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "GFt2Cb+yUzLyH258J/GPEFw21bU2dsHHNyHlDfmLLoA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/46q6d88gdoob9zdif7hbn8a9iyydfbta?d=identicon",
-        "country": "WR",
-        "ethereum_address": "0x2E963f8B33A57cEa3d5Bb074dAdc3286f142f90f",
-        "id": "050ce33a0f2b29c49ba716a798adc572c9b2da6d29e19a6e95a2f8381c93bc93",
-        "info_url": "https://en.wikipedia.org/wiki/USS_Catalpa",
-        "name": "hungry-music",
-        "tm_pub_key": "GFt2Cb+yUzLyH258J/GPEFw21bU2dsHHNyHlDfmLLoA=",
-        "vega_pub_key": "eb92685cf9d4d22a9f653b2f1c17301d138ee2a498bead5d6122e9154be322fa",
+      "Kk+rha1bS4XVaFM3VVKc2FaAoc6jmwBRyJ9JGfOz8xk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/lxsjyrchan6yolf2cxk7vrh6clx55p9x?d=identicon",
+        "country": "PX",
+        "ethereum_address": "0xfB69118cC33a251b50004403c85474b2359B74e5",
+        "id": "e67c7ad663e99b888e81eb545c5a892e2333934bc07edfacfb9b54fdd6ebf065",
+        "info_url": "https://en.wikipedia.org/wiki/June_17th,_1994",
+        "name": "thundering-ball",
+        "tm_pub_key": "Kk+rha1bS4XVaFM3VVKc2FaAoc6jmwBRyJ9JGfOz8xk=",
+        "vega_pub_key": "b078ef43b5bbe491226d4fde0766d28e26fa6c2be171d7fa5dd969a274fc3455",
         "vega_pub_key_index": 1
       },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401230927",
+  "chain_id": "vega-devnet1-202401231032",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-23T09:27:33.775329214Z",
+  "genesis_time": "2024-01-23T10:32:50.604739352Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "6084578118F25580D05153EFF8DF40F85EF84273",
-      "name": "hungry-music",
+      "address": "A99E895FFC6BD60C68FAD790249F92CA35B1DFDE",
+      "name": "thundering-ball",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "GFt2Cb+yUzLyH258J/GPEFw21bU2dsHHNyHlDfmLLoA="
+        "value": "Kk+rha1bS4XVaFM3VVKc2FaAoc6jmwBRyJ9JGfOz8xk="
       }
     }
   ]
