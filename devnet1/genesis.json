@@ -314,20 +314,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "WA4Zg16UnUsroRO2Q2H+HuUXoGdzJWXVzJuJZTWvneM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/asbd6gqack4bglv3ydp23wik5vskw14s?d=identicon",
-        "country": "PW",
-        "ethereum_address": "0xa499040cbD3fC1B70bD22Fb52529DDEa0B9aB67E",
-        "id": "052409d35eeb45b1058dc73f7f9d19063ad3aaca81f9afd6b251bdff28be35b4",
-        "info_url": "https://en.wikipedia.org/wiki/Nasir_Adhama",
-        "name": "dizzy-tree",
-        "tm_pub_key": "WA4Zg16UnUsroRO2Q2H+HuUXoGdzJWXVzJuJZTWvneM=",
-        "vega_pub_key": "a2887a3266af752f8b0d890439f725ca2378c1159aae9e30b6eea35adb31742b",
+      "R1foO8BtAop2V2G5SDEBwOAlK60qEm7mLUp1pWFE8GE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/kwn5byyty3cwcdhxxb1hwnfom88eu7n7?d=identicon",
+        "country": "LI",
+        "ethereum_address": "0x829ab62B62a6Bf7Dc81A946eA66Fc5aD4d28d5Ed",
+        "id": "ace448de69d95db07eda6d8b176f7ee7d719c7dfeeb6b3dbbcb5120e9b840542",
+        "info_url": "https://en.wikipedia.org/wiki/Malesherbia_weberbaueri",
+        "name": "faint-duck",
+        "tm_pub_key": "R1foO8BtAop2V2G5SDEBwOAlK60qEm7mLUp1pWFE8GE=",
+        "vega_pub_key": "678be0e0a777b5179206a9d9a3171ad7f9e680139d2f0d924fdd676687db3a23",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202401221913",
+  "chain_id": "vega-devnet1-202401230823",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-22T19:13:41.536141911Z",
+  "genesis_time": "2024-01-23T08:23:51.673634041Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "2A4A51D0C0AB8D4E25DD8E9D36C4C05BC24E8292",
-      "name": "dizzy-tree",
+      "address": "C278EB3D50B6CBB7A36F2687B5148E060B6AE259",
+      "name": "faint-duck",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "WA4Zg16UnUsroRO2Q2H+HuUXoGdzJWXVzJuJZTWvneM="
+        "value": "R1foO8BtAop2V2G5SDEBwOAlK60qEm7mLUp1pWFE8GE="
       }
     }
   ]
