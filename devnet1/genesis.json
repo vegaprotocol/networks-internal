@@ -314,20 +314,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "SzT1O75dAFF35XCp6nkvVTCo4r8MSEbGPrxhY1cFpDU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/9xwlpmk9tn69go3ysomfm0smrgjd1313?d=identicon",
-        "country": "SN",
-        "ethereum_address": "0xDC1b7A0560C6e182Ffb788F05695b19C1CBB8e9b",
-        "id": "59411849f3f281b5461292e2e22635f6ee06e42bfbc46f026140de658e3522c2",
-        "info_url": "https://en.wikipedia.org/wiki/Miss_Myanmar_World",
-        "name": "intrigued-car",
-        "tm_pub_key": "SzT1O75dAFF35XCp6nkvVTCo4r8MSEbGPrxhY1cFpDU=",
-        "vega_pub_key": "f793dd03bd835d3836bd01deb43ac29b48a25fb8d426b0733c4e95df9c3484a5",
+      "d13zqbua+ysPGiEYbj8mKRGCCOXRqz6pkp6bja6EQ48=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ssx218d0hig4fx9jl95qwdzxq8csnjom?d=identicon",
+        "country": "VK",
+        "ethereum_address": "0x6622FDab32038d4d3E12C476b3A8788c62d071e9",
+        "id": "240e0a3d4644e6e0e171deff2477e385f4901d292e7c56dbe36ccc9d5be7d9a5",
+        "info_url": "https://en.wikipedia.org/wiki/Sitting_volleyball_classification",
+        "name": "terrible-school",
+        "tm_pub_key": "d13zqbua+ysPGiEYbj8mKRGCCOXRqz6pkp6bja6EQ48=",
+        "vega_pub_key": "dbd794a006628d63b64e4e75faeb914d268f593bc4c925c3000648470bf3eecd",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202401231730",
+  "chain_id": "vega-devnet1-202401231929",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-23T17:30:18.420351542Z",
+  "genesis_time": "2024-01-23T19:29:55.542276282Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "913C56CBE32ACC172133480409FA9C5AEDFE6549",
-      "name": "intrigued-car",
+      "address": "526696F47C33451F7D1A089FBB8D324342F27110",
+      "name": "terrible-school",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "SzT1O75dAFF35XCp6nkvVTCo4r8MSEbGPrxhY1cFpDU="
+        "value": "d13zqbua+ysPGiEYbj8mKRGCCOXRqz6pkp6bja6EQ48="
       }
     }
   ]
