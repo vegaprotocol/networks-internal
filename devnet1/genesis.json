@@ -314,20 +314,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "PfSq1+n5J/TFFmLBEKHakXhPI73FJOnZysAqVcPnzSs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/mcphf65we7jkgttlwdq8j8kxqcgbzrsr?d=identicon",
-        "country": "RX",
-        "ethereum_address": "0x38E2eccA120AEcD7775fD88a57FeACc52761C946",
-        "id": "a2fcb3b0fe0f4f7a6fae091e721cf01d5f511fe6c7335bb76b5db87b504ace11",
-        "info_url": "https://en.wikipedia.org/wiki/Anarchism_in_France",
-        "name": "wrong-week",
-        "tm_pub_key": "PfSq1+n5J/TFFmLBEKHakXhPI73FJOnZysAqVcPnzSs=",
-        "vega_pub_key": "2a38db99db9419e884f03b5ffcd9d6c6171f362b48ea0f683a02822864b71370",
+      "eNn4aVmTRVNiOww310vQnQAUIB39uGEEH1PvbmlKNWs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/yyb6cpvft5xj64v3uedwothnn81it2sg?d=identicon",
+        "country": "ZI",
+        "ethereum_address": "0xC8726e86949D5650B2D3C67430a489A3Cce2695a",
+        "id": "d0b3bd259337618f7af5ab69438ba76dd172c907c6fb25379625b135916dd84d",
+        "info_url": "https://en.wikipedia.org/wiki/Bundesautobahn_5",
+        "name": "irate-wall",
+        "tm_pub_key": "eNn4aVmTRVNiOww310vQnQAUIB39uGEEH1PvbmlKNWs=",
+        "vega_pub_key": "c0112c694323f4baf9acd5254dcf53ee76944c051828f1d5aceea60cea02cdbe",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202401241230",
+  "chain_id": "vega-devnet1-202401241652",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-24T12:30:28.153105558Z",
+  "genesis_time": "2024-01-24T16:52:21.306600969Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "80EB2F994B7402198A7D362EF1B88723DDFB35E7",
-      "name": "wrong-week",
+      "address": "37CD7707BB978B14F21742C77C08D4EE8FC5EE4D",
+      "name": "irate-wall",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "PfSq1+n5J/TFFmLBEKHakXhPI73FJOnZysAqVcPnzSs="
+        "value": "eNn4aVmTRVNiOww310vQnQAUIB39uGEEH1PvbmlKNWs="
       }
     }
   ]
