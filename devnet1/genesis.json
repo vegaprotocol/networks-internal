@@ -281,17 +281,6 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
-      "3zWbPaBXRYk4KHZaTHgYkrqI8zBZb98vXrfj/FATPrI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/0m0ol0mtcy7i91rrfhbfh7lkzhfqz3is?d=identicon",
-        "country": "XV",
-        "ethereum_address": "0x9151159D05401EbEF5397D91CB2E783361CF0b37",
-        "id": "d72b83c8e718c03d6d99cd471aafdc51aafc3f2d8832fd71d50f890a21f4c962",
-        "info_url": "https://en.wikipedia.org/wiki/Get_More_Down",
-        "name": "graceful-apple",
-        "tm_pub_key": "3zWbPaBXRYk4KHZaTHgYkrqI8zBZb98vXrfj/FATPrI=",
-        "vega_pub_key": "9cb96a7b2ec43c4750155921fb57a9e84ac5dbacb0265dfe17c09a455eaaa6db",
-        "vega_pub_key_index": 1
-      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -324,10 +313,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "PfSq1+n5J/TFFmLBEKHakXhPI73FJOnZysAqVcPnzSs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/mcphf65we7jkgttlwdq8j8kxqcgbzrsr?d=identicon",
+        "country": "RX",
+        "ethereum_address": "0x38E2eccA120AEcD7775fD88a57FeACc52761C946",
+        "id": "a2fcb3b0fe0f4f7a6fae091e721cf01d5f511fe6c7335bb76b5db87b504ace11",
+        "info_url": "https://en.wikipedia.org/wiki/Anarchism_in_France",
+        "name": "wrong-week",
+        "tm_pub_key": "PfSq1+n5J/TFFmLBEKHakXhPI73FJOnZysAqVcPnzSs=",
+        "vega_pub_key": "2a38db99db9419e884f03b5ffcd9d6c6171f362b48ea0f683a02822864b71370",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202401241151",
+  "chain_id": "vega-devnet1-202401241230",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-24T11:51:19.021793556Z",
+  "genesis_time": "2024-01-24T12:30:28.153105558Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "B449BD2CF575357216B284BB81E7246806E10B4E",
-      "name": "graceful-apple",
+      "address": "80EB2F994B7402198A7D362EF1B88723DDFB35E7",
+      "name": "wrong-week",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "3zWbPaBXRYk4KHZaTHgYkrqI8zBZb98vXrfj/FATPrI="
+        "value": "PfSq1+n5J/TFFmLBEKHakXhPI73FJOnZysAqVcPnzSs="
       }
     }
   ]
