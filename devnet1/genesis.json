@@ -281,6 +281,17 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
+      "3zWbPaBXRYk4KHZaTHgYkrqI8zBZb98vXrfj/FATPrI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/0m0ol0mtcy7i91rrfhbfh7lkzhfqz3is?d=identicon",
+        "country": "XV",
+        "ethereum_address": "0x9151159D05401EbEF5397D91CB2E783361CF0b37",
+        "id": "d72b83c8e718c03d6d99cd471aafdc51aafc3f2d8832fd71d50f890a21f4c962",
+        "info_url": "https://en.wikipedia.org/wiki/Get_More_Down",
+        "name": "graceful-apple",
+        "tm_pub_key": "3zWbPaBXRYk4KHZaTHgYkrqI8zBZb98vXrfj/FATPrI=",
+        "vega_pub_key": "9cb96a7b2ec43c4750155921fb57a9e84ac5dbacb0265dfe17c09a455eaaa6db",
+        "vega_pub_key_index": 1
+      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -313,21 +324,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "d13zqbua+ysPGiEYbj8mKRGCCOXRqz6pkp6bja6EQ48=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ssx218d0hig4fx9jl95qwdzxq8csnjom?d=identicon",
-        "country": "VK",
-        "ethereum_address": "0x6622FDab32038d4d3E12C476b3A8788c62d071e9",
-        "id": "240e0a3d4644e6e0e171deff2477e385f4901d292e7c56dbe36ccc9d5be7d9a5",
-        "info_url": "https://en.wikipedia.org/wiki/Sitting_volleyball_classification",
-        "name": "terrible-school",
-        "tm_pub_key": "d13zqbua+ysPGiEYbj8mKRGCCOXRqz6pkp6bja6EQ48=",
-        "vega_pub_key": "dbd794a006628d63b64e4e75faeb914d268f593bc4c925c3000648470bf3eecd",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202401231929",
+  "chain_id": "vega-devnet1-202401241151",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-23T19:29:55.542276282Z",
+  "genesis_time": "2024-01-24T11:51:19.021793556Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "526696F47C33451F7D1A089FBB8D324342F27110",
-      "name": "terrible-school",
+      "address": "B449BD2CF575357216B284BB81E7246806E10B4E",
+      "name": "graceful-apple",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "d13zqbua+ysPGiEYbj8mKRGCCOXRqz6pkp6bja6EQ48="
+        "value": "3zWbPaBXRYk4KHZaTHgYkrqI8zBZb98vXrfj/FATPrI="
       }
     }
   ]
