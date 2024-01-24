@@ -314,20 +314,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "eNn4aVmTRVNiOww310vQnQAUIB39uGEEH1PvbmlKNWs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/yyb6cpvft5xj64v3uedwothnn81it2sg?d=identicon",
-        "country": "ZI",
-        "ethereum_address": "0xC8726e86949D5650B2D3C67430a489A3Cce2695a",
-        "id": "d0b3bd259337618f7af5ab69438ba76dd172c907c6fb25379625b135916dd84d",
-        "info_url": "https://en.wikipedia.org/wiki/Bundesautobahn_5",
-        "name": "irate-wall",
-        "tm_pub_key": "eNn4aVmTRVNiOww310vQnQAUIB39uGEEH1PvbmlKNWs=",
-        "vega_pub_key": "c0112c694323f4baf9acd5254dcf53ee76944c051828f1d5aceea60cea02cdbe",
+      "l1q5kEuXhX++I7EgnoE1TFlt50nIKoDa1S2/m79ovEI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/gkvf4yvxaze57hgvz8n3czz6dm4oxulk?d=identicon",
+        "country": "NE",
+        "ethereum_address": "0xA5b14Bfd818C5CC039c7c8387702Ec75C1C860d1",
+        "id": "79d214535d6fb8001bc03fd20fcf5ee847f8077de39ce0eabdde7bf762db82ad",
+        "info_url": "https://en.wikipedia.org/wiki/Direct_Rail_Services",
+        "name": "orange-lake",
+        "tm_pub_key": "l1q5kEuXhX++I7EgnoE1TFlt50nIKoDa1S2/m79ovEI=",
+        "vega_pub_key": "2962c72cbb5ee9bd8fdd8d891e14ec6509ba0e02cc0b79a4e6e58a37701aa111",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202401241652",
+  "chain_id": "vega-devnet1-202401241730",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-24T16:52:21.306600969Z",
+  "genesis_time": "2024-01-24T17:30:11.014897286Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "37CD7707BB978B14F21742C77C08D4EE8FC5EE4D",
-      "name": "irate-wall",
+      "address": "F6D9777DEBA406A300612CA3343CB21F93380F00",
+      "name": "orange-lake",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "eNn4aVmTRVNiOww310vQnQAUIB39uGEEH1PvbmlKNWs="
+        "value": "l1q5kEuXhX++I7EgnoE1TFlt50nIKoDa1S2/m79ovEI="
       }
     }
   ]
