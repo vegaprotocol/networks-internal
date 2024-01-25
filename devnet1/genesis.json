@@ -303,17 +303,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "CT2Ra4u7WQzPWzYRRFh4JREOOaHVVtilkinaaC3IUbo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/xsogg5f0hryvwomps777enhjjewijudk?d=identicon",
-        "country": "KT",
-        "ethereum_address": "0x279C5881970f0910836Dd040Ce7851fe3FDC373C",
-        "id": "8c425bbd28c0a70a6c819097203405a1c9c97f9c901a0de22e3bf9a45294ec36",
-        "info_url": "https://en.wikipedia.org/wiki/Hesham_Shaban",
-        "name": "gifted-bee",
-        "tm_pub_key": "CT2Ra4u7WQzPWzYRRFh4JREOOaHVVtilkinaaC3IUbo=",
-        "vega_pub_key": "e3ef0120d2348d4726abb26b6cd2b7bc36a799ad6d3f659367eac83887d8b466",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -324,10 +313,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "Y2k5DXPbJQY7ywZRsET7puduJGUq4jlFMLZQ13eBeNY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/kpa5lsorj7ukmuc86yvzgd6jh5x3wvg5?d=identicon",
+        "country": "DI",
+        "ethereum_address": "0x00be3e7100704e962DbB15522A9eeA514E9457ed",
+        "id": "c908a195f47ddf729f99d8f18b5212d8792408249b3a91b144adb6e88d170e9b",
+        "info_url": "https://en.wikipedia.org/wiki/Merboltice",
+        "name": "loose-milk",
+        "tm_pub_key": "Y2k5DXPbJQY7ywZRsET7puduJGUq4jlFMLZQ13eBeNY=",
+        "vega_pub_key": "fcbd26146ed657fdd486e9f02be185d970ddc67ad1fdf64b473f37654be5ba32",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202401241851",
+  "chain_id": "vega-devnet1-202401251038",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-24T18:51:51.785816121Z",
+  "genesis_time": "2024-01-25T10:38:38.046250796Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "048ED10813B5787D7E1DC09F61A5E02213DE399E",
-      "name": "gifted-bee",
+      "address": "2254AF9BBFE66A098B68A8A9042DD73B7DB5450C",
+      "name": "loose-milk",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "CT2Ra4u7WQzPWzYRRFh4JREOOaHVVtilkinaaC3IUbo="
+        "value": "Y2k5DXPbJQY7ywZRsET7puduJGUq4jlFMLZQ13eBeNY="
       }
     }
   ]
