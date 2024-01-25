@@ -314,20 +314,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "Y2k5DXPbJQY7ywZRsET7puduJGUq4jlFMLZQ13eBeNY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/kpa5lsorj7ukmuc86yvzgd6jh5x3wvg5?d=identicon",
-        "country": "DI",
-        "ethereum_address": "0x00be3e7100704e962DbB15522A9eeA514E9457ed",
-        "id": "c908a195f47ddf729f99d8f18b5212d8792408249b3a91b144adb6e88d170e9b",
-        "info_url": "https://en.wikipedia.org/wiki/Merboltice",
-        "name": "loose-milk",
-        "tm_pub_key": "Y2k5DXPbJQY7ywZRsET7puduJGUq4jlFMLZQ13eBeNY=",
-        "vega_pub_key": "fcbd26146ed657fdd486e9f02be185d970ddc67ad1fdf64b473f37654be5ba32",
+      "ddDk6B2d0hHh4SVXdYJGRiDksfj6Hhy7kCbsyDn3WpY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xvbn32f4z18jyr907mooakhkwnyrwgza?d=identicon",
+        "country": "KL",
+        "ethereum_address": "0x06Ed01751dC030BeEad7466e995eceAeA9189B43",
+        "id": "966a5f9b2bd30a0d8b3efa3a7ae11dff79814f9be5ed2605631ad0d815f4f4df",
+        "info_url": "https://en.wikipedia.org/wiki/Rototuna",
+        "name": "oppulent-train",
+        "tm_pub_key": "ddDk6B2d0hHh4SVXdYJGRiDksfj6Hhy7kCbsyDn3WpY=",
+        "vega_pub_key": "d2ac6caa3b6f0d1ba2cc22036db9131ddd071c3b036754c50d134c3da855e7c6",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202401251038",
+  "chain_id": "vega-devnet1-202401252012",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-25T10:38:38.046250796Z",
+  "genesis_time": "2024-01-25T20:12:54.594420009Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "2254AF9BBFE66A098B68A8A9042DD73B7DB5450C",
-      "name": "loose-milk",
+      "address": "05CCCA73269DA1C9D6134C753A20C536D8D6AD30",
+      "name": "oppulent-train",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Y2k5DXPbJQY7ywZRsET7puduJGUq4jlFMLZQ13eBeNY="
+        "value": "ddDk6B2d0hHh4SVXdYJGRiDksfj6Hhy7kCbsyDn3WpY="
       }
     }
   ]
