@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "0YSBLdgnk76fMIxKONnNDBnzomeplSO3gTJUNjcuNAc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/0sy80ftfexrteazpymoq5emckhk6u3v1?d=identicon",
+        "country": "JM",
+        "ethereum_address": "0xDaFe7c57F7191Fa7fF8eB583329f6B5ca83B1C44",
+        "id": "5b7146c77ab49943338c9ede17203cbc0f18630f2b597e220ba673a7253fff08",
+        "info_url": "https://en.wikipedia.org/wiki/Ready_for_the_House",
+        "name": "better-month",
+        "tm_pub_key": "0YSBLdgnk76fMIxKONnNDBnzomeplSO3gTJUNjcuNAc=",
+        "vega_pub_key": "e9bdf7e7c8c9ef3fd24d7e702e1c8114f0d4869178825957b3c39779d8fdcaa1",
+        "vega_pub_key_index": 1
+      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -313,21 +324,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "ddDk6B2d0hHh4SVXdYJGRiDksfj6Hhy7kCbsyDn3WpY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/xvbn32f4z18jyr907mooakhkwnyrwgza?d=identicon",
-        "country": "KL",
-        "ethereum_address": "0x06Ed01751dC030BeEad7466e995eceAeA9189B43",
-        "id": "966a5f9b2bd30a0d8b3efa3a7ae11dff79814f9be5ed2605631ad0d815f4f4df",
-        "info_url": "https://en.wikipedia.org/wiki/Rototuna",
-        "name": "oppulent-train",
-        "tm_pub_key": "ddDk6B2d0hHh4SVXdYJGRiDksfj6Hhy7kCbsyDn3WpY=",
-        "vega_pub_key": "d2ac6caa3b6f0d1ba2cc22036db9131ddd071c3b036754c50d134c3da855e7c6",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202401252012",
+  "chain_id": "vega-devnet1-202401261113",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-25T20:12:54.594420009Z",
+  "genesis_time": "2024-01-26T11:13:33.031568036Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "05CCCA73269DA1C9D6134C753A20C536D8D6AD30",
-      "name": "oppulent-train",
+      "address": "7A5F50F2DE3CAB4D7966553848FEA8FFE7B5C3BD",
+      "name": "better-month",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ddDk6B2d0hHh4SVXdYJGRiDksfj6Hhy7kCbsyDn3WpY="
+        "value": "0YSBLdgnk76fMIxKONnNDBnzomeplSO3gTJUNjcuNAc="
       }
     }
   ]
