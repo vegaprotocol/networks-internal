@@ -110,7 +110,49 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 #         start_date = "2022-11-01 00:00:00"
 #         randomise_history = false
 
-
+[scenario.mainnet_proposal_perps_btcusdt_lp]
+    market_name = "BTCUSDT Gnosis Perp"
+    binance_code = "BTCUSDT"
+    step_length_seconds = 5
+    [scenario.mainnet_proposal_perps_btcusdt_lp.market_manager_args]
+        asset_name = "USDT"
+        adp = 6
+        mdp = 4
+        pdp = 0
+    [scenario.mainnet_proposal_perps_btcusdt_lp.market_maker_args]
+        market_kappa = 0.3
+        market_order_arrival_rate = 150
+        order_kappa = 0.15
+        order_size = 1
+        order_levels = 25
+        order_spacing = 1
+        order_clipping = 10000
+        inventory_lower_boundary = -3
+        inventory_upper_boundary = 3
+        fee_amount = 0.0001
+        commitment_amount = 150000
+        initial_mint = 200000
+    [scenario.mainnet_proposal_perps_btcusdt_lp.auction_trader_args]
+        traders = 0
+        initial_volume = 0.001
+        initial_mint = 10000
+    [scenario.mainnet_proposal_perps_btcusdt_lp.random_trader_args]
+        traders = 0
+        order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+        order_volume = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.12, 0.14, 0.16, 0.18] # 
+        step_bias = [0.111, 0.95, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
+        initial_mint = 2000
+    [scenario.mainnet_proposal_perps_btcusdt_lp.sensitive_trader_args]
+        traders = 0
+        scale = [2, 4, 6, 8, 10, 12, 14, 16, 17, 20]
+        max_order_size = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.10, 0.12, 0.14]
+        initial_mint = 10000
+    [scenario.mainnet_proposal_perps_btcusdt_lp.simulation_args]
+        n_steps = 99999999
+        granularity = "MINUTE"
+        coinbase_code = "BTC-USDT"
+        start_date = "2022-11-01 00:00:00"
+        randomise_history = false
 
 [scenario.applemontly]
     traders_per_thread = 5
