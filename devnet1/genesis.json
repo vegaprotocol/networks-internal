@@ -270,17 +270,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "0YSBLdgnk76fMIxKONnNDBnzomeplSO3gTJUNjcuNAc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/0sy80ftfexrteazpymoq5emckhk6u3v1?d=identicon",
-        "country": "JM",
-        "ethereum_address": "0xDaFe7c57F7191Fa7fF8eB583329f6B5ca83B1C44",
-        "id": "5b7146c77ab49943338c9ede17203cbc0f18630f2b597e220ba673a7253fff08",
-        "info_url": "https://en.wikipedia.org/wiki/Ready_for_the_House",
-        "name": "better-month",
-        "tm_pub_key": "0YSBLdgnk76fMIxKONnNDBnzomeplSO3gTJUNjcuNAc=",
-        "vega_pub_key": "e9bdf7e7c8c9ef3fd24d7e702e1c8114f0d4869178825957b3c39779d8fdcaa1",
-        "vega_pub_key_index": 1
-      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -324,10 +313,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "V7Ch7IWbFc6zyNxJXHugzZM5OJ0pHVxVra5oEbTVZos=": {
+        "avatar_url": "https://www.gravatar.com/avatar/w0ntbzfbdg4fwr07xeatpv6qu8qlkzvx?d=identicon",
+        "country": "NT",
+        "ethereum_address": "0xF4f0d99973E174e9A0F15230944d82f03cba8F8C",
+        "id": "0d28a967993868456f32a9d0e6bc144936e0630e21e72d45259af56c1538dff7",
+        "info_url": "https://en.wikipedia.org/wiki/Tsuneo_G%C5%8Dda",
+        "name": "helpful-book",
+        "tm_pub_key": "V7Ch7IWbFc6zyNxJXHugzZM5OJ0pHVxVra5oEbTVZos=",
+        "vega_pub_key": "49298422cdcdcd92efead84006a27f1e957e1476079d575991f6842fd72a4b31",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202401261151",
+  "chain_id": "vega-devnet1-202401291109",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-26T11:51:20.757934792Z",
+  "genesis_time": "2024-01-29T11:09:14.61717857Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "7A5F50F2DE3CAB4D7966553848FEA8FFE7B5C3BD",
-      "name": "better-month",
+      "address": "1306E30810D1D486A6BC98A3EE3339D5A3D17603",
+      "name": "helpful-book",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "0YSBLdgnk76fMIxKONnNDBnzomeplSO3gTJUNjcuNAc="
+        "value": "V7Ch7IWbFc6zyNxJXHugzZM5OJ0pHVxVra5oEbTVZos="
       }
     }
   ]
