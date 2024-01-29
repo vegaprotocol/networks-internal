@@ -115,7 +115,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
     binance_code = "BTCUSDT"
     step_length_seconds = 5
     [scenario.mainnet_proposal_perps_btcusdt_gnosis.market_manager_args]
-        asset_name = "USDT"
+        asset_name = "tUSDC"
         adp = 6
         mdp = 4
         pdp = 0
