@@ -314,20 +314,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "V7Ch7IWbFc6zyNxJXHugzZM5OJ0pHVxVra5oEbTVZos=": {
-        "avatar_url": "https://www.gravatar.com/avatar/w0ntbzfbdg4fwr07xeatpv6qu8qlkzvx?d=identicon",
-        "country": "NT",
-        "ethereum_address": "0xF4f0d99973E174e9A0F15230944d82f03cba8F8C",
-        "id": "0d28a967993868456f32a9d0e6bc144936e0630e21e72d45259af56c1538dff7",
-        "info_url": "https://en.wikipedia.org/wiki/Tsuneo_G%C5%8Dda",
-        "name": "helpful-book",
-        "tm_pub_key": "V7Ch7IWbFc6zyNxJXHugzZM5OJ0pHVxVra5oEbTVZos=",
-        "vega_pub_key": "49298422cdcdcd92efead84006a27f1e957e1476079d575991f6842fd72a4b31",
+      "WgRXuL/OTKuS3ZbItWusI2SugoIA2ImTFAqCDktui6s=": {
+        "avatar_url": "https://www.gravatar.com/avatar/puens3y82ludppdl5cm53wa9sab31cdw?d=identicon",
+        "country": "RE",
+        "ethereum_address": "0xa24396129fDc47f763A137dEcA9da6df29CDB1B1",
+        "id": "76bdb6eab6327c87f71f82daab0d770b11fa9e610255d85313c2045a7191baf5",
+        "info_url": "https://en.wikipedia.org/wiki/Frank_Hayes_(unionist)",
+        "name": "narrow-duck",
+        "tm_pub_key": "WgRXuL/OTKuS3ZbItWusI2SugoIA2ImTFAqCDktui6s=",
+        "vega_pub_key": "42a681b2aaf898f6e71f63b9eff50527ab50d14f34acd716d1282f88bc2e6510",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202401291109",
+  "chain_id": "vega-devnet1-202401300932",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-29T11:09:14.61717857Z",
+  "genesis_time": "2024-01-30T09:32:08.450246981Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "1306E30810D1D486A6BC98A3EE3339D5A3D17603",
-      "name": "helpful-book",
+      "address": "8A6806C25D5E9C9E7027288A1BF7F4836AB32797",
+      "name": "narrow-duck",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "V7Ch7IWbFc6zyNxJXHugzZM5OJ0pHVxVra5oEbTVZos="
+        "value": "WgRXuL/OTKuS3ZbItWusI2SugoIA2ImTFAqCDktui6s="
       }
     }
   ]
