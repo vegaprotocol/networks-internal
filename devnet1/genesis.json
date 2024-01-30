@@ -314,20 +314,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "WgRXuL/OTKuS3ZbItWusI2SugoIA2ImTFAqCDktui6s=": {
-        "avatar_url": "https://www.gravatar.com/avatar/puens3y82ludppdl5cm53wa9sab31cdw?d=identicon",
-        "country": "RE",
-        "ethereum_address": "0xa24396129fDc47f763A137dEcA9da6df29CDB1B1",
-        "id": "76bdb6eab6327c87f71f82daab0d770b11fa9e610255d85313c2045a7191baf5",
-        "info_url": "https://en.wikipedia.org/wiki/Frank_Hayes_(unionist)",
-        "name": "narrow-duck",
-        "tm_pub_key": "WgRXuL/OTKuS3ZbItWusI2SugoIA2ImTFAqCDktui6s=",
-        "vega_pub_key": "42a681b2aaf898f6e71f63b9eff50527ab50d14f34acd716d1282f88bc2e6510",
+      "zoCYeitLyHjrHxyj3VL0FMKhJWeN4g7fgmLrRKiBjEY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/5b7nrtl36eeix4hn3oyu2x19qbmbnvi4?d=identicon",
+        "country": "DA",
+        "ethereum_address": "0x94D4e8CF993Ba6a0E6666bc88F9A3EcA8a330800",
+        "id": "ebefad98df9a282bb9d31568d75dd265253c00e616dad0f36f69bb5b7cbd8c60",
+        "info_url": "https://en.wikipedia.org/wiki/Black_Bottom_Buford",
+        "name": "quizzical-fan",
+        "tm_pub_key": "zoCYeitLyHjrHxyj3VL0FMKhJWeN4g7fgmLrRKiBjEY=",
+        "vega_pub_key": "db9895a5370ed0f6ba8cc409c32cade7105639086cdc24000494f2f181c48a99",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202401300932",
+  "chain_id": "vega-devnet1-202401301026",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-30T09:32:08.450246981Z",
+  "genesis_time": "2024-01-30T10:26:14.590625102Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "8A6806C25D5E9C9E7027288A1BF7F4836AB32797",
-      "name": "narrow-duck",
+      "address": "5CC3BB2158859A5C9B838EBAB45B11933DED3555",
+      "name": "quizzical-fan",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "WgRXuL/OTKuS3ZbItWusI2SugoIA2ImTFAqCDktui6s="
+        "value": "zoCYeitLyHjrHxyj3VL0FMKhJWeN4g7fgmLrRKiBjEY="
       }
     }
   ]
