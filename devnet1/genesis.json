@@ -270,6 +270,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "+SWlduP4gBydpvw4EFSOt1rs8XkRN/PrOKhrPlezno8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/e2tzkf7dva9opt6k4l1eh59b3clcai34?d=identicon",
+        "country": "CG",
+        "ethereum_address": "0xFa99038f64800624Dd75Ef0205586928B0A01994",
+        "id": "41e2f480d0bb9b8661706eb01b9ca12b8248f7d5b7ef628e8887059131599627",
+        "info_url": "https://en.wikipedia.org/wiki/2020%E2%80%9321_Thai_League_3_National_Championship",
+        "name": "extensive-chair",
+        "tm_pub_key": "+SWlduP4gBydpvw4EFSOt1rs8XkRN/PrOKhrPlezno8=",
+        "vega_pub_key": "104fd2b6993caf7f23004aa203e5a47a420fa8e9cf9ccdaedd2447259eab0265",
+        "vega_pub_key_index": 1
+      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -279,17 +290,6 @@
         "name": "important-mango",
         "tm_pub_key": "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=",
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
-        "vega_pub_key_index": 1
-      },
-      "6TRGe0B2AIbAsmp66ad1yDRKe9vKy6Hf7d+EdAnTk8A=": {
-        "avatar_url": "https://www.gravatar.com/avatar/mvn2zqyvr3lpqt952n2579b0w3xasyrs?d=identicon",
-        "country": "JI",
-        "ethereum_address": "0xDDc995D248e8a9Ce7a794dA7747dF7e1FE64063D",
-        "id": "f5550fc5bb85bb2eb07571e994bda9578198a6748e0f163e73166d47f0e027bc",
-        "info_url": "https://en.wikipedia.org/wiki/W_(British_TV_channel)",
-        "name": "adventurous-policeman",
-        "tm_pub_key": "6TRGe0B2AIbAsmp66ad1yDRKe9vKy6Hf7d+EdAnTk8A=",
-        "vega_pub_key": "c309c76cc40e2b732dae884119bf40101a9ffe67dbbd7bd828374436d72c7d52",
         "vega_pub_key_index": 1
       },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401301306",
+  "chain_id": "vega-devnet1-202401301517",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-30T13:06:39.743776838Z",
+  "genesis_time": "2024-01-30T15:17:51.081385666Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "EC2FA81F1CCF1C1458DED799796C2CFA051CD78D",
-      "name": "adventurous-policeman",
+      "address": "19864B2598CFFECF849E347E479C05897940D908",
+      "name": "extensive-chair",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "6TRGe0B2AIbAsmp66ad1yDRKe9vKy6Hf7d+EdAnTk8A="
+        "value": "+SWlduP4gBydpvw4EFSOt1rs8XkRN/PrOKhrPlezno8="
       }
     }
   ]
