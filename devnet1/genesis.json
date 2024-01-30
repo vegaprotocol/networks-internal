@@ -281,6 +281,17 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
+      "6TRGe0B2AIbAsmp66ad1yDRKe9vKy6Hf7d+EdAnTk8A=": {
+        "avatar_url": "https://www.gravatar.com/avatar/mvn2zqyvr3lpqt952n2579b0w3xasyrs?d=identicon",
+        "country": "JI",
+        "ethereum_address": "0xDDc995D248e8a9Ce7a794dA7747dF7e1FE64063D",
+        "id": "f5550fc5bb85bb2eb07571e994bda9578198a6748e0f163e73166d47f0e027bc",
+        "info_url": "https://en.wikipedia.org/wiki/W_(British_TV_channel)",
+        "name": "adventurous-policeman",
+        "tm_pub_key": "6TRGe0B2AIbAsmp66ad1yDRKe9vKy6Hf7d+EdAnTk8A=",
+        "vega_pub_key": "c309c76cc40e2b732dae884119bf40101a9ffe67dbbd7bd828374436d72c7d52",
+        "vega_pub_key_index": 1
+      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -313,21 +324,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "ZbORzk5pKun89LtBc07WjCnPeUAy6OC8F5/U7vGmhT8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/dmh5rhr9gsk7w1935svcbrhft60cmerb?d=identicon",
-        "country": "SN",
-        "ethereum_address": "0x102Ece27475Edb5127cEd236fd6d32919caE9413",
-        "id": "6b7efe05349d39d52a9f8b9de87e009162c8aa607145cb36ab983100265ecb4b",
-        "info_url": "https://en.wikipedia.org/wiki/Gordon_(given_name)",
-        "name": "helpful-party",
-        "tm_pub_key": "ZbORzk5pKun89LtBc07WjCnPeUAy6OC8F5/U7vGmhT8=",
-        "vega_pub_key": "5a2f23ef2db50120f9d7eb9474b07863bf184a7e33d7cdc23ae7d8fed0cc3b23",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202401301134",
+  "chain_id": "vega-devnet1-202401301306",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-30T11:34:18.096051689Z",
+  "genesis_time": "2024-01-30T13:06:39.743776838Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "BE5BA606D9FB0D719F7364CE112F4297B3472E6A",
-      "name": "helpful-party",
+      "address": "EC2FA81F1CCF1C1458DED799796C2CFA051CD78D",
+      "name": "adventurous-policeman",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ZbORzk5pKun89LtBc07WjCnPeUAy6OC8F5/U7vGmhT8="
+        "value": "6TRGe0B2AIbAsmp66ad1yDRKe9vKy6Hf7d+EdAnTk8A="
       }
     }
   ]
