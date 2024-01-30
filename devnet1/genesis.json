@@ -281,17 +281,6 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
-      "7+M7U0n6LumCjNfLETC+y0FFm32+E0uWTbyZ2v3jydU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/fi4pd3zumxco6kfkb6vm0g8sxfxv18mr?d=identicon",
-        "country": "FI",
-        "ethereum_address": "0x7899f2C39948cc9577cc21E74DF85555801568bA",
-        "id": "580c59f8189587e240433ec323fff01f59abf2682ba48dfa1ed3d826b80b9f2d",
-        "info_url": "https://en.wikipedia.org/wiki/John_Grayson_House",
-        "name": "fresh-month",
-        "tm_pub_key": "7+M7U0n6LumCjNfLETC+y0FFm32+E0uWTbyZ2v3jydU=",
-        "vega_pub_key": "e95d903f15cd98a5c478960267612ff5f71fc562c26ee8626227c1c8b5591ee7",
-        "vega_pub_key_index": 1
-      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -314,6 +303,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "GGmkaLuGeouUgr1HRT4ysOb9RQvXqKq5fIGB1yU3evw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/8g4zmc0ppfyu2wklmuz25e5wjjmyhf4s?d=identicon",
+        "country": "AZ",
+        "ethereum_address": "0x910cecb708D34F9e591c28FF77CC80B0adc09785",
+        "id": "e1ddb0b9b7920ac821416954e69ebd493218e3f1f8fdf246bee7a8640b93842a",
+        "info_url": "https://en.wikipedia.org/wiki/L.627",
+        "name": "whispering-pizza",
+        "tm_pub_key": "GGmkaLuGeouUgr1HRT4ysOb9RQvXqKq5fIGB1yU3evw=",
+        "vega_pub_key": "4cf96dc59453fad0f05e1cb6239cb3b9c65a51bd613a80c6bdb80780167de2c6",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202401301644",
+  "chain_id": "vega-devnet1-202401301706",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-30T16:44:27.052793315Z",
+  "genesis_time": "2024-01-30T17:06:41.816120817Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "2BB09AB132999FFC607323F60431D05F0AEA2401",
-      "name": "fresh-month",
+      "address": "971BA16188D4C312F2CD57CC0FDB57415D2A98C9",
+      "name": "whispering-pizza",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "7+M7U0n6LumCjNfLETC+y0FFm32+E0uWTbyZ2v3jydU="
+        "value": "GGmkaLuGeouUgr1HRT4ysOb9RQvXqKq5fIGB1yU3evw="
       }
     }
   ]
