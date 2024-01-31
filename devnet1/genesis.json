@@ -303,17 +303,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "GGmkaLuGeouUgr1HRT4ysOb9RQvXqKq5fIGB1yU3evw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/8g4zmc0ppfyu2wklmuz25e5wjjmyhf4s?d=identicon",
-        "country": "AZ",
-        "ethereum_address": "0x910cecb708D34F9e591c28FF77CC80B0adc09785",
-        "id": "e1ddb0b9b7920ac821416954e69ebd493218e3f1f8fdf246bee7a8640b93842a",
-        "info_url": "https://en.wikipedia.org/wiki/L.627",
-        "name": "whispering-pizza",
-        "tm_pub_key": "GGmkaLuGeouUgr1HRT4ysOb9RQvXqKq5fIGB1yU3evw=",
-        "vega_pub_key": "4cf96dc59453fad0f05e1cb6239cb3b9c65a51bd613a80c6bdb80780167de2c6",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -324,10 +313,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "pFO5So8FPPRjoQl5cUZhu3csM/ccLrJfG9T1ZzzTQSI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/419d0c58voccoyonyoom6yc34pmcliht?d=identicon",
+        "country": "IB",
+        "ethereum_address": "0xe53e0Bd97b9D488638008317B6BD612f6cfc9CCA",
+        "id": "3a38bc710852ee79194917bdb2a70690e07c198bc0c659ad12e1663ad20ae091",
+        "info_url": "https://en.wikipedia.org/wiki/Ryan_Gosling",
+        "name": "colossal-bee",
+        "tm_pub_key": "pFO5So8FPPRjoQl5cUZhu3csM/ccLrJfG9T1ZzzTQSI=",
+        "vega_pub_key": "47cd419f1a6812de7fdb65f38e4be7575c51321a7057f142320bb913d25e31b6",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202401301727",
+  "chain_id": "vega-devnet1-202401311112",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-30T17:27:49.490409683Z",
+  "genesis_time": "2024-01-31T11:12:53.15640322Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "971BA16188D4C312F2CD57CC0FDB57415D2A98C9",
-      "name": "whispering-pizza",
+      "address": "E5C7B6FC1D8BEBBAF04B8F21596072E32F4F3376",
+      "name": "colossal-bee",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "GGmkaLuGeouUgr1HRT4ysOb9RQvXqKq5fIGB1yU3evw="
+        "value": "pFO5So8FPPRjoQl5cUZhu3csM/ccLrJfG9T1ZzzTQSI="
       }
     }
   ]
