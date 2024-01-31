@@ -314,20 +314,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "pFO5So8FPPRjoQl5cUZhu3csM/ccLrJfG9T1ZzzTQSI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/419d0c58voccoyonyoom6yc34pmcliht?d=identicon",
-        "country": "IB",
-        "ethereum_address": "0xe53e0Bd97b9D488638008317B6BD612f6cfc9CCA",
-        "id": "3a38bc710852ee79194917bdb2a70690e07c198bc0c659ad12e1663ad20ae091",
-        "info_url": "https://en.wikipedia.org/wiki/Ryan_Gosling",
-        "name": "colossal-bee",
-        "tm_pub_key": "pFO5So8FPPRjoQl5cUZhu3csM/ccLrJfG9T1ZzzTQSI=",
-        "vega_pub_key": "47cd419f1a6812de7fdb65f38e4be7575c51321a7057f142320bb913d25e31b6",
+      "UNJtG62VO0mWV/6FaNHIOjG2MruYrCH43hSmI+Nt2xQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/94pblrff318jf0kpmrqro7xcl1524fcs?d=identicon",
+        "country": "QH",
+        "ethereum_address": "0xc264f6B92bfDd18Ef5609d4BAA673032c9Be4b0E",
+        "id": "2223774ed23559a9e6e77812df67bbdcacb5ec7e78dc751df48c72780cd9bd11",
+        "info_url": "https://en.wikipedia.org/wiki/Arbuckle,_California",
+        "name": "salmon-music",
+        "tm_pub_key": "UNJtG62VO0mWV/6FaNHIOjG2MruYrCH43hSmI+Nt2xQ=",
+        "vega_pub_key": "3fd9d43f624319a12aa802c6327908392b91f8b5611d79609904ef333348ef07",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202401311112",
+  "chain_id": "vega-devnet1-202401311610",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-31T11:12:53.15640322Z",
+  "genesis_time": "2024-01-31T16:10:05.313928819Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "E5C7B6FC1D8BEBBAF04B8F21596072E32F4F3376",
-      "name": "colossal-bee",
+      "address": "C4CD62D4F22584507306EB6EE7FBEEE9D7BD152F",
+      "name": "salmon-music",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "pFO5So8FPPRjoQl5cUZhu3csM/ccLrJfG9T1ZzzTQSI="
+        "value": "UNJtG62VO0mWV/6FaNHIOjG2MruYrCH43hSmI+Nt2xQ="
       }
     }
   ]
