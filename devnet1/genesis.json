@@ -303,6 +303,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "HyplYrwr0PKdABen2/G+XV7tzIR/syGMiXdo92egG5g=": {
+        "avatar_url": "https://www.gravatar.com/avatar/fthcjx52r9208nx9zs88qlju460iodns?d=identicon",
+        "country": "HL",
+        "ethereum_address": "0xe6dc343EFCF49b0518F1aAE715e2A096C6fa0aAF",
+        "id": "ea04f65e864e602f6d30b3be36a6700b3df48d677f07b7e900f4224eff677f21",
+        "info_url": "https://en.wikipedia.org/wiki/Neasura_nigroanalis",
+        "name": "dead-hill",
+        "tm_pub_key": "HyplYrwr0PKdABen2/G+XV7tzIR/syGMiXdo92egG5g=",
+        "vega_pub_key": "8bbabb3e37edd4f2d253db7446569a5ab58d8c09ce56052a455cfd27f4a546ae",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -313,21 +324,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "UNJtG62VO0mWV/6FaNHIOjG2MruYrCH43hSmI+Nt2xQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/94pblrff318jf0kpmrqro7xcl1524fcs?d=identicon",
-        "country": "QH",
-        "ethereum_address": "0xc264f6B92bfDd18Ef5609d4BAA673032c9Be4b0E",
-        "id": "2223774ed23559a9e6e77812df67bbdcacb5ec7e78dc751df48c72780cd9bd11",
-        "info_url": "https://en.wikipedia.org/wiki/Arbuckle,_California",
-        "name": "salmon-music",
-        "tm_pub_key": "UNJtG62VO0mWV/6FaNHIOjG2MruYrCH43hSmI+Nt2xQ=",
-        "vega_pub_key": "3fd9d43f624319a12aa802c6327908392b91f8b5611d79609904ef333348ef07",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202401311610",
+  "chain_id": "vega-devnet1-202402011451",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-01-31T16:10:05.313928819Z",
+  "genesis_time": "2024-02-01T14:51:35.216579725Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "C4CD62D4F22584507306EB6EE7FBEEE9D7BD152F",
-      "name": "salmon-music",
+      "address": "3A7EC89D81584C95344DA58E96408FC77FC61F71",
+      "name": "dead-hill",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "UNJtG62VO0mWV/6FaNHIOjG2MruYrCH43hSmI+Nt2xQ="
+        "value": "HyplYrwr0PKdABen2/G+XV7tzIR/syGMiXdo92egG5g="
       }
     }
   ]
