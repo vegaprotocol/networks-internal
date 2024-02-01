@@ -1584,8 +1584,8 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 
 [scenario.pepe_1000_perpetual_uniswap]
-    market_name = "SNXUSD Perpetual"
-    binance_code = "SNXUSDT"
+    market_name = "1000PEPEUSDT Perpetual"
+    binance_code = "PEPEUSDT"
     feed_price_multiplier = 1000
     step_length_seconds = 5
     [scenario.pepe_1000_perpetual_uniswap.market_manager_args]
