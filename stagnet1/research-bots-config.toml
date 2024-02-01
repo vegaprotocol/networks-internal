@@ -1500,15 +1500,15 @@ state_file = "/opt/wallets-mount/wallet-state.json"
     [scenario.snxusdt_perpetual_uniswap.market_manager_args]
         asset_name = "tUSDC"
         adp = 6
-        mdp = 4
-        pdp = 0
+        mdp = 3
+        pdp = 1
     [scenario.snxusdt_perpetual_uniswap.market_maker_args]
-        market_kappa = 0.3
+        market_kappa = 30000
         market_order_arrival_rate = 150
         order_kappa = 0.15
         order_size = 1
         order_levels = 25
-        order_spacing = 1
+        order_spacing = 0.001
         order_clipping = 10000
         inventory_lower_boundary = -3
         inventory_upper_boundary = 3
