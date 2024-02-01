@@ -281,6 +281,17 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
+      "6G7o2PbIB437xZ3Cw+uPqCWs/fYP2EKojxn500hINms=": {
+        "avatar_url": "https://www.gravatar.com/avatar/eu5cmopk8glioovcxa4sxl3otbedvnyg?d=identicon",
+        "country": "SY",
+        "ethereum_address": "0xb94378D3D5DF757037d63d756Fe1ccb195b2486F",
+        "id": "0b9999be8250dce7d8c389f435498cdb4eb29af4c0e6bf7e50b0b4e6f7334cb3",
+        "info_url": "https://en.wikipedia.org/wiki/Woodward_News",
+        "name": "wrong-sister",
+        "tm_pub_key": "6G7o2PbIB437xZ3Cw+uPqCWs/fYP2EKojxn500hINms=",
+        "vega_pub_key": "49ee391dad7b7afc7a27e4561d88425c8e5ae37442273dec904abad5d8b5ab5b",
+        "vega_pub_key_index": 1
+      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -313,21 +324,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "S1fmW0lTg5gf7mdHi0lmQD3b4sbOHWk2k3XuAWKuZrE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/woxed49jcuy0sax14cb2535okp9yn4mo?d=identicon",
-        "country": "UX",
-        "ethereum_address": "0xe3507CC879a66538473fae55c2e85ab2FD57B489",
-        "id": "67a718fbae6130d7a522aecc8031b8d51302d2e71343df89ba9c9bf4e19cc483",
-        "info_url": "https://en.wikipedia.org/wiki/Basketry_Museum_of_the_Roma",
-        "name": "vast-school",
-        "tm_pub_key": "S1fmW0lTg5gf7mdHi0lmQD3b4sbOHWk2k3XuAWKuZrE=",
-        "vega_pub_key": "a6a4c9bbf0e3c32ba1669a75b1dc5374d669dde2111d6e409c582eb762752cd0",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402011713",
+  "chain_id": "vega-devnet1-202402011915",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-01T17:13:31.15690469Z",
+  "genesis_time": "2024-02-01T19:15:11.187154253Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "620D30E00626CEC8D8D8DF8BEA16C41D8E50C245",
-      "name": "vast-school",
+      "address": "EE90CB85BF75D13EBD91FD97B6B7A56311FD5438",
+      "name": "wrong-sister",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "S1fmW0lTg5gf7mdHi0lmQD3b4sbOHWk2k3XuAWKuZrE="
+        "value": "6G7o2PbIB437xZ3Cw+uPqCWs/fYP2EKojxn500hINms="
       }
     }
   ]
