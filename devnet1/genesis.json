@@ -281,17 +281,6 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
-      "6G7o2PbIB437xZ3Cw+uPqCWs/fYP2EKojxn500hINms=": {
-        "avatar_url": "https://www.gravatar.com/avatar/eu5cmopk8glioovcxa4sxl3otbedvnyg?d=identicon",
-        "country": "SY",
-        "ethereum_address": "0xb94378D3D5DF757037d63d756Fe1ccb195b2486F",
-        "id": "0b9999be8250dce7d8c389f435498cdb4eb29af4c0e6bf7e50b0b4e6f7334cb3",
-        "info_url": "https://en.wikipedia.org/wiki/Woodward_News",
-        "name": "wrong-sister",
-        "tm_pub_key": "6G7o2PbIB437xZ3Cw+uPqCWs/fYP2EKojxn500hINms=",
-        "vega_pub_key": "49ee391dad7b7afc7a27e4561d88425c8e5ae37442273dec904abad5d8b5ab5b",
-        "vega_pub_key_index": 1
-      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -314,6 +303,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "G1zo3xC30m4QamoqhVpCRULo//Q9pXO7wVSvBV9NcwI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/49lx2jcbmnx4lgieqglhlpnfygdp5kb0?d=identicon",
+        "country": "VR",
+        "ethereum_address": "0xF5a0A41BD2bcc615532Fd17D96CCdf8f412c7DAa",
+        "id": "5fd8c2858968827a3acd1fe570d6bc8677fa41c32455c6632eb6645f7edf7f71",
+        "info_url": "https://en.wikipedia.org/wiki/B%C3%A9ez",
+        "name": "melodic-farmer",
+        "tm_pub_key": "G1zo3xC30m4QamoqhVpCRULo//Q9pXO7wVSvBV9NcwI=",
+        "vega_pub_key": "57f52f7bc13c02a28016a8f76d47004e97efddb7ba7d912e4839005136b6ac20",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202402011915",
+  "chain_id": "vega-devnet1-202402012014",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-01T19:15:11.187154253Z",
+  "genesis_time": "2024-02-01T20:14:26.907050935Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "EE90CB85BF75D13EBD91FD97B6B7A56311FD5438",
-      "name": "wrong-sister",
+      "address": "71575611C12B899FC3904E76A9DE4F4AE514FDE5",
+      "name": "melodic-farmer",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "6G7o2PbIB437xZ3Cw+uPqCWs/fYP2EKojxn500hINms="
+        "value": "G1zo3xC30m4QamoqhVpCRULo//Q9pXO7wVSvBV9NcwI="
       }
     }
   ]
