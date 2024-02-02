@@ -314,20 +314,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "TaFeJe1iJkL90hPi5k9Qe+CIAWDP7BvN7l2Qe4dX5X4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/hmnoa79phflppp9qy7h55u2o2t6zcl7h?d=identicon",
-        "country": "FC",
-        "ethereum_address": "0x2697C0e0199FFd4f03B2C6278e811050829E66F1",
-        "id": "f3aadbd136f6ad799a922a73e849cb334160c90411cdd9dec98dbcb7a41274b0",
-        "info_url": "https://en.wikipedia.org/wiki/Hasnuryadi_Sulaiman",
-        "name": "disturbed-honey",
-        "tm_pub_key": "TaFeJe1iJkL90hPi5k9Qe+CIAWDP7BvN7l2Qe4dX5X4=",
-        "vega_pub_key": "2e1eb0730591cfe1cfb1202e52e219cca3c0d058b8255c269056c1e276f963e6",
+      "pxboZElok30KF+NOgAWCfoiXXBGziS/hT9JAdC5BxNc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/43u5xks5dxdh8n21x1utnv8a3j7ogk8t?d=identicon",
+        "country": "BN",
+        "ethereum_address": "0xe6dEaE2DFDB4E64e0C08E5C6C90697E233483B6a",
+        "id": "1526ec76788d8efb937f3fe2d12e3a90cd1d511da337efaf8b1585cad9173e6c",
+        "info_url": "https://en.wikipedia.org/wiki/Max_Fernekes",
+        "name": "agitated-taxi",
+        "tm_pub_key": "pxboZElok30KF+NOgAWCfoiXXBGziS/hT9JAdC5BxNc=",
+        "vega_pub_key": "2bc5f23c2551c473d4836b6ef561ae412458d5a76020c3177cf2cb8fb904cb77",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402021253",
+  "chain_id": "vega-devnet1-202402021505",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-02T12:53:07.007005461Z",
+  "genesis_time": "2024-02-02T15:05:48.981089407Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "9C5EF1487E0B590C83C2E45267410BA20E59B40D",
-      "name": "disturbed-honey",
+      "address": "871FC6BB71EBC7FAF582E6E3DB10ABE9AA38604E",
+      "name": "agitated-taxi",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "TaFeJe1iJkL90hPi5k9Qe+CIAWDP7BvN7l2Qe4dX5X4="
+        "value": "pxboZElok30KF+NOgAWCfoiXXBGziS/hT9JAdC5BxNc="
       }
     }
   ]
