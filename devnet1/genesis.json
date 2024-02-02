@@ -314,20 +314,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "vLuJEvfU9vwvsXvn0n7aEJqB2750mymvEnUUh/ZyFfA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/qlnz0nnor30jviy8oym3lvl0rs2ojq80?d=identicon",
-        "country": "CK",
-        "ethereum_address": "0x7611cAbFCe90bF64dF96001b183cE78F3f9B8C4A",
-        "id": "248da53693db7a933f3e71358a9d3a369286cfef9a1992642d3da59f2731e6e7",
-        "info_url": "https://en.wikipedia.org/wiki/Esophagitis",
-        "name": "gritty-burger",
-        "tm_pub_key": "vLuJEvfU9vwvsXvn0n7aEJqB2750mymvEnUUh/ZyFfA=",
-        "vega_pub_key": "8b2ddc2f211cc6cb46481fb3c23a384cfb236894de8e0307c480425030fc7a8f",
+      "fcBKXd9rsj3xrfkXQPXe9NXyJSuUdICADi5wq8vRFyw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xig09ylk7eh0f5ygixh15848rdxf6vg3?d=identicon",
+        "country": "AC",
+        "ethereum_address": "0x188063b25f761a7Aa0A60d940A056014DC402303",
+        "id": "53bad99eb6cbc9def3c9fcc60979ff0885b724516188a4720b1653b36a3a1055",
+        "info_url": "https://en.wikipedia.org/wiki/Asadabad,_Qazvin",
+        "name": "crashing-bat",
+        "tm_pub_key": "fcBKXd9rsj3xrfkXQPXe9NXyJSuUdICADi5wq8vRFyw=",
+        "vega_pub_key": "fa4d0c47ba70a377f6626d2f627caeab266def1e48c7f13b49072ff5bfad2f5f",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402021636",
+  "chain_id": "vega-devnet1-202402021718",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-02T16:36:10.908025264Z",
+  "genesis_time": "2024-02-02T17:18:42.532388135Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "4E1DDD52A8D20D647EA905963F01CBE37FB04392",
-      "name": "gritty-burger",
+      "address": "5473506B488753EEFA6603F148E5C5AEE25E197A",
+      "name": "crashing-bat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "vLuJEvfU9vwvsXvn0n7aEJqB2750mymvEnUUh/ZyFfA="
+        "value": "fcBKXd9rsj3xrfkXQPXe9NXyJSuUdICADi5wq8vRFyw="
       }
     }
   ]
