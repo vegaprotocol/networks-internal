@@ -303,6 +303,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "CNEXHhy7IBCh/FeXIw5kNGOHtKeiUBb56ot/dvSeoHw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/0ifbb4msjjv6w8l6cuh2mz8q28acqetb?d=identicon",
+        "country": "TT",
+        "ethereum_address": "0x8F50536e4426f75a6743cEa282F55028C6B6A01f",
+        "id": "7c817f54fef515c2bcc6733dbc7797b7fd694eaf96c684d2043495ec93a530cd",
+        "info_url": "https://en.wikipedia.org/wiki/Carex_cilicica",
+        "name": "excited-television",
+        "tm_pub_key": "CNEXHhy7IBCh/FeXIw5kNGOHtKeiUBb56ot/dvSeoHw=",
+        "vega_pub_key": "ceae36ec2e627f889247b38dc30d08441a299349ab6671e3f64a1b5f1c1dbf43",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -313,21 +324,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "fcBKXd9rsj3xrfkXQPXe9NXyJSuUdICADi5wq8vRFyw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/xig09ylk7eh0f5ygixh15848rdxf6vg3?d=identicon",
-        "country": "AC",
-        "ethereum_address": "0x188063b25f761a7Aa0A60d940A056014DC402303",
-        "id": "53bad99eb6cbc9def3c9fcc60979ff0885b724516188a4720b1653b36a3a1055",
-        "info_url": "https://en.wikipedia.org/wiki/Asadabad,_Qazvin",
-        "name": "crashing-bat",
-        "tm_pub_key": "fcBKXd9rsj3xrfkXQPXe9NXyJSuUdICADi5wq8vRFyw=",
-        "vega_pub_key": "fa4d0c47ba70a377f6626d2f627caeab266def1e48c7f13b49072ff5bfad2f5f",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402021718",
+  "chain_id": "vega-devnet1-202402021811",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-02T17:18:42.532388135Z",
+  "genesis_time": "2024-02-02T18:11:23.14940415Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "5473506B488753EEFA6603F148E5C5AEE25E197A",
-      "name": "crashing-bat",
+      "address": "FD52480CBF51B54E36A40EFF259723D01A19C6EE",
+      "name": "excited-television",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "fcBKXd9rsj3xrfkXQPXe9NXyJSuUdICADi5wq8vRFyw="
+        "value": "CNEXHhy7IBCh/FeXIw5kNGOHtKeiUBb56ot/dvSeoHw="
       }
     }
   ]
