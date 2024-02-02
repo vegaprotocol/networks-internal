@@ -314,20 +314,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "fwX5PpDF6Lt5daa5j2j78wlNDaimFQ7Vxmi5UD3y4Hs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ni9mr2x23z3t2wmwe7r2d2gietvt43vk?d=identicon",
-        "country": "MH",
-        "ethereum_address": "0x052C313c2529e9b7c7333ad576c46Fc5eDFD2dD4",
-        "id": "01ef5cb0b2463abb654b34ff5c237608c47a5251e525f517cac2e196fb44e4b6",
-        "info_url": "https://en.wikipedia.org/wiki/Mons_(name)",
-        "name": "noisy-bed",
-        "tm_pub_key": "fwX5PpDF6Lt5daa5j2j78wlNDaimFQ7Vxmi5UD3y4Hs=",
-        "vega_pub_key": "3044413ecbdeadc0f610234053fabcbb46017fc4afadf3bc2abb2ab5a2732617",
+      "ZCnfuXrXQBUIiu4ruAjSbb8BvSxcmhZdkClqkxTIer0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/7a24l9meu73v3hebp7y1yl7ov0al1nok?d=identicon",
+        "country": "BX",
+        "ethereum_address": "0xA4559519FcB111C98eAAAe32772B81eB1A9Ef277",
+        "id": "07f0a6029244412885f203edd4f9b970933c9d78644b2c0960de8c3e17d7f5ca",
+        "info_url": "https://en.wikipedia.org/wiki/Le_Larderet",
+        "name": "friendly-dog",
+        "tm_pub_key": "ZCnfuXrXQBUIiu4ruAjSbb8BvSxcmhZdkClqkxTIer0=",
+        "vega_pub_key": "87a55f2039d251e0804f1257ccdfac9bf1ddcd2c9fa66175c961cc7d239bc862",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402020902",
+  "chain_id": "vega-devnet1-202402021016",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-02T09:02:39.639606057Z",
+  "genesis_time": "2024-02-02T10:16:49.476430752Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "8C8B64BA88794B2657143B55B97BD90EAB458F27",
-      "name": "noisy-bed",
+      "address": "33316CDA6D517A8EDD99888A96FF419F588B7FA4",
+      "name": "friendly-dog",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "fwX5PpDF6Lt5daa5j2j78wlNDaimFQ7Vxmi5UD3y4Hs="
+        "value": "ZCnfuXrXQBUIiu4ruAjSbb8BvSxcmhZdkClqkxTIer0="
       }
     }
   ]
