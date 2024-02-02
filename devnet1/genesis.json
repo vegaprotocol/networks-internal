@@ -314,20 +314,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "ZCnfuXrXQBUIiu4ruAjSbb8BvSxcmhZdkClqkxTIer0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/7a24l9meu73v3hebp7y1yl7ov0al1nok?d=identicon",
-        "country": "BX",
-        "ethereum_address": "0xA4559519FcB111C98eAAAe32772B81eB1A9Ef277",
-        "id": "07f0a6029244412885f203edd4f9b970933c9d78644b2c0960de8c3e17d7f5ca",
-        "info_url": "https://en.wikipedia.org/wiki/Le_Larderet",
-        "name": "friendly-dog",
-        "tm_pub_key": "ZCnfuXrXQBUIiu4ruAjSbb8BvSxcmhZdkClqkxTIer0=",
-        "vega_pub_key": "87a55f2039d251e0804f1257ccdfac9bf1ddcd2c9fa66175c961cc7d239bc862",
+      "TaFeJe1iJkL90hPi5k9Qe+CIAWDP7BvN7l2Qe4dX5X4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/hmnoa79phflppp9qy7h55u2o2t6zcl7h?d=identicon",
+        "country": "FC",
+        "ethereum_address": "0x2697C0e0199FFd4f03B2C6278e811050829E66F1",
+        "id": "f3aadbd136f6ad799a922a73e849cb334160c90411cdd9dec98dbcb7a41274b0",
+        "info_url": "https://en.wikipedia.org/wiki/Hasnuryadi_Sulaiman",
+        "name": "disturbed-honey",
+        "tm_pub_key": "TaFeJe1iJkL90hPi5k9Qe+CIAWDP7BvN7l2Qe4dX5X4=",
+        "vega_pub_key": "2e1eb0730591cfe1cfb1202e52e219cca3c0d058b8255c269056c1e276f963e6",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402021016",
+  "chain_id": "vega-devnet1-202402021211",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-02T10:16:49.476430752Z",
+  "genesis_time": "2024-02-02T12:11:32.677356946Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "33316CDA6D517A8EDD99888A96FF419F588B7FA4",
-      "name": "friendly-dog",
+      "address": "9C5EF1487E0B590C83C2E45267410BA20E59B40D",
+      "name": "disturbed-honey",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ZCnfuXrXQBUIiu4ruAjSbb8BvSxcmhZdkClqkxTIer0="
+        "value": "TaFeJe1iJkL90hPi5k9Qe+CIAWDP7BvN7l2Qe4dX5X4="
       }
     }
   ]
