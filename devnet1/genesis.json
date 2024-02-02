@@ -303,17 +303,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "G1zo3xC30m4QamoqhVpCRULo//Q9pXO7wVSvBV9NcwI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/49lx2jcbmnx4lgieqglhlpnfygdp5kb0?d=identicon",
-        "country": "VR",
-        "ethereum_address": "0xF5a0A41BD2bcc615532Fd17D96CCdf8f412c7DAa",
-        "id": "5fd8c2858968827a3acd1fe570d6bc8677fa41c32455c6632eb6645f7edf7f71",
-        "info_url": "https://en.wikipedia.org/wiki/B%C3%A9ez",
-        "name": "melodic-farmer",
-        "tm_pub_key": "G1zo3xC30m4QamoqhVpCRULo//Q9pXO7wVSvBV9NcwI=",
-        "vega_pub_key": "57f52f7bc13c02a28016a8f76d47004e97efddb7ba7d912e4839005136b6ac20",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -324,10 +313,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "fwX5PpDF6Lt5daa5j2j78wlNDaimFQ7Vxmi5UD3y4Hs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ni9mr2x23z3t2wmwe7r2d2gietvt43vk?d=identicon",
+        "country": "MH",
+        "ethereum_address": "0x052C313c2529e9b7c7333ad576c46Fc5eDFD2dD4",
+        "id": "01ef5cb0b2463abb654b34ff5c237608c47a5251e525f517cac2e196fb44e4b6",
+        "info_url": "https://en.wikipedia.org/wiki/Mons_(name)",
+        "name": "noisy-bed",
+        "tm_pub_key": "fwX5PpDF6Lt5daa5j2j78wlNDaimFQ7Vxmi5UD3y4Hs=",
+        "vega_pub_key": "3044413ecbdeadc0f610234053fabcbb46017fc4afadf3bc2abb2ab5a2732617",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402012014",
+  "chain_id": "vega-devnet1-202402020902",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-01T20:14:26.907050935Z",
+  "genesis_time": "2024-02-02T09:02:39.639606057Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "71575611C12B899FC3904E76A9DE4F4AE514FDE5",
-      "name": "melodic-farmer",
+      "address": "8C8B64BA88794B2657143B55B97BD90EAB458F27",
+      "name": "noisy-bed",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "G1zo3xC30m4QamoqhVpCRULo//Q9pXO7wVSvBV9NcwI="
+        "value": "fwX5PpDF6Lt5daa5j2j78wlNDaimFQ7Vxmi5UD3y4Hs="
       }
     }
   ]
