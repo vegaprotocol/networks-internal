@@ -1240,7 +1240,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 
 [scenario.btcusdt_pyth]
-    market_name = "BTCUSDT Pyth Per"
+    market_name = "BTCUSDT Pyth Perp"
     binance_code = "BTCUSDT"
     step_length_seconds = 5
     [scenario.btcusdt_pyth.market_manager_args]
