@@ -314,20 +314,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "hkgFNs0SWZ8+Aslg3MPfJUeUBMi6RLWydVqOuJWXcJ4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/rusf09esc40cin4dps7pc0ux3ydbe8sp?d=identicon",
-        "country": "HL",
-        "ethereum_address": "0x9F4F9b2Fe5bD5FEccf32d9A48798328bAB8992B2",
-        "id": "55d2c593d35a9e8631a20c8cdd81bf88b1bbde4807947772b963bbd8e710454a",
-        "info_url": "https://en.wikipedia.org/wiki/Already_Dead_(song)",
-        "name": "bored-mouse",
-        "tm_pub_key": "hkgFNs0SWZ8+Aslg3MPfJUeUBMi6RLWydVqOuJWXcJ4=",
-        "vega_pub_key": "ff228951776a1f464ebf281753d1c2599b7f880d2e770a2598f913d229d9e346",
+      "R/GqMM/HhcenFgiJJ0VUkZAG50jp5Ns2wD1x8YIAscQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/bgcy3y36jhyimm320et55ybs7isp8qaz?d=identicon",
+        "country": "ZH",
+        "ethereum_address": "0xC6017816109f85E3D37DaC1a83A8bd8C0C084015",
+        "id": "11d04cca1004b536ef985016e843c3fb202acc134e9915a1dbcabc588836a269",
+        "info_url": "https://en.wikipedia.org/wiki/Mick_Box",
+        "name": "hungry-pizza",
+        "tm_pub_key": "R/GqMM/HhcenFgiJJ0VUkZAG50jp5Ns2wD1x8YIAscQ=",
+        "vega_pub_key": "5846b0773e789e1e08ed32314673e0dc8320bcce791b8940fc4de2c96b5814d2",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402051037",
+  "chain_id": "vega-devnet1-202402051350",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-05T10:37:17.927242572Z",
+  "genesis_time": "2024-02-05T13:50:08.444448543Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "41CEC9113BDCF6F938EABC976482E56B23E748E6",
-      "name": "bored-mouse",
+      "address": "30C1CCE5DE0D8D62919530BBE5CBEB8F53D0F5EA",
+      "name": "hungry-pizza",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "hkgFNs0SWZ8+Aslg3MPfJUeUBMi6RLWydVqOuJWXcJ4="
+        "value": "R/GqMM/HhcenFgiJJ0VUkZAG50jp5Ns2wD1x8YIAscQ="
       }
     }
   ]
