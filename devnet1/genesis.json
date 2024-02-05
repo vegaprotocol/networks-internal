@@ -303,17 +303,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "CNEXHhy7IBCh/FeXIw5kNGOHtKeiUBb56ot/dvSeoHw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/0ifbb4msjjv6w8l6cuh2mz8q28acqetb?d=identicon",
-        "country": "TT",
-        "ethereum_address": "0x8F50536e4426f75a6743cEa282F55028C6B6A01f",
-        "id": "7c817f54fef515c2bcc6733dbc7797b7fd694eaf96c684d2043495ec93a530cd",
-        "info_url": "https://en.wikipedia.org/wiki/Carex_cilicica",
-        "name": "excited-television",
-        "tm_pub_key": "CNEXHhy7IBCh/FeXIw5kNGOHtKeiUBb56ot/dvSeoHw=",
-        "vega_pub_key": "ceae36ec2e627f889247b38dc30d08441a299349ab6671e3f64a1b5f1c1dbf43",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -324,10 +313,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "hkgFNs0SWZ8+Aslg3MPfJUeUBMi6RLWydVqOuJWXcJ4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/rusf09esc40cin4dps7pc0ux3ydbe8sp?d=identicon",
+        "country": "HL",
+        "ethereum_address": "0x9F4F9b2Fe5bD5FEccf32d9A48798328bAB8992B2",
+        "id": "55d2c593d35a9e8631a20c8cdd81bf88b1bbde4807947772b963bbd8e710454a",
+        "info_url": "https://en.wikipedia.org/wiki/Already_Dead_(song)",
+        "name": "bored-mouse",
+        "tm_pub_key": "hkgFNs0SWZ8+Aslg3MPfJUeUBMi6RLWydVqOuJWXcJ4=",
+        "vega_pub_key": "ff228951776a1f464ebf281753d1c2599b7f880d2e770a2598f913d229d9e346",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402021811",
+  "chain_id": "vega-devnet1-202402051037",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-02T18:11:23.14940415Z",
+  "genesis_time": "2024-02-05T10:37:17.927242572Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "FD52480CBF51B54E36A40EFF259723D01A19C6EE",
-      "name": "excited-television",
+      "address": "41CEC9113BDCF6F938EABC976482E56B23E748E6",
+      "name": "bored-mouse",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "CNEXHhy7IBCh/FeXIw5kNGOHtKeiUBb56ot/dvSeoHw="
+        "value": "hkgFNs0SWZ8+Aslg3MPfJUeUBMi6RLWydVqOuJWXcJ4="
       }
     }
   ]
