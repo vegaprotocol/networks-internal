@@ -314,20 +314,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "R/GqMM/HhcenFgiJJ0VUkZAG50jp5Ns2wD1x8YIAscQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/bgcy3y36jhyimm320et55ybs7isp8qaz?d=identicon",
-        "country": "ZH",
-        "ethereum_address": "0xC6017816109f85E3D37DaC1a83A8bd8C0C084015",
-        "id": "11d04cca1004b536ef985016e843c3fb202acc134e9915a1dbcabc588836a269",
-        "info_url": "https://en.wikipedia.org/wiki/Mick_Box",
-        "name": "hungry-pizza",
-        "tm_pub_key": "R/GqMM/HhcenFgiJJ0VUkZAG50jp5Ns2wD1x8YIAscQ=",
-        "vega_pub_key": "5846b0773e789e1e08ed32314673e0dc8320bcce791b8940fc4de2c96b5814d2",
+      "xVRnag4xujEFwVx4rr83cdZkAtqWAIr9gkvPA9xleqY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/h5lb7nk8mk3w3ou46r13z9nfz6bj6yg8?d=identicon",
+        "country": "PC",
+        "ethereum_address": "0x79899aCbE14bA3a8D5aa6d1B0507B2051fB995A6",
+        "id": "3c1bfafb618705f966a6528f7bb02c41dfafb2885cbd67eca8939868bf640ba5",
+        "info_url": "https://en.wikipedia.org/wiki/Hermandad_de_las_Cuatro_Villas",
+        "name": "determined-bird",
+        "tm_pub_key": "xVRnag4xujEFwVx4rr83cdZkAtqWAIr9gkvPA9xleqY=",
+        "vega_pub_key": "4b6b83df6f0284619d5b89ab488c282368303890b3829c4ba3a986636e646081",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402051350",
+  "chain_id": "vega-devnet1-202402061328",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-05T13:50:08.444448543Z",
+  "genesis_time": "2024-02-06T13:28:30.578094685Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "30C1CCE5DE0D8D62919530BBE5CBEB8F53D0F5EA",
-      "name": "hungry-pizza",
+      "address": "8EF4F6F7A09AFB43EB3FE5264142962FCB0E6533",
+      "name": "determined-bird",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "R/GqMM/HhcenFgiJJ0VUkZAG50jp5Ns2wD1x8YIAscQ="
+        "value": "xVRnag4xujEFwVx4rr83cdZkAtqWAIr9gkvPA9xleqY="
       }
     }
   ]
