@@ -1149,14 +1149,12 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         start_date = "2022-11-01 00:00:00"
         randomise_history = false
 
-
-
 [scenario.jupusdt_pyth_perp]
     market_name = "JUPUSDT Pyth Perp"
     binance_code = "JUPUSDT"
     step_length_seconds = 5
     [scenario.jupusdt_pyth_perp.market_manager_args]
-        asset_name = "USD-BT"
+        asset_name = "tUSDC"
         adp = 6
         mdp = 3
         pdp = 1
