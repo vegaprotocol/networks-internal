@@ -303,6 +303,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "DPatMnclLESjSgmhoqe5/sxafrf2geZvWQOoYj7tmMM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/am6j256rpcyorpvel7vl3mibjh4enill?d=identicon",
+        "country": "UW",
+        "ethereum_address": "0xC84a3A93Ca117f50F606E47A760EF1d2e1dD7Bd6",
+        "id": "0dbf76cfa7f6f512f49b3e4d13f5cd7bb555d753da04d9276b6d8d6e53518e4c",
+        "info_url": "https://en.wikipedia.org/wiki/Argiles_de_Ch%C3%A2tillon",
+        "name": "rhythmic-week",
+        "tm_pub_key": "DPatMnclLESjSgmhoqe5/sxafrf2geZvWQOoYj7tmMM=",
+        "vega_pub_key": "547a1c37bbd553da9364ddf93c39c9c4a6ac51da8d91f69d2f51874c459e6119",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -313,21 +324,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "xVRnag4xujEFwVx4rr83cdZkAtqWAIr9gkvPA9xleqY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/h5lb7nk8mk3w3ou46r13z9nfz6bj6yg8?d=identicon",
-        "country": "PC",
-        "ethereum_address": "0x79899aCbE14bA3a8D5aa6d1B0507B2051fB995A6",
-        "id": "3c1bfafb618705f966a6528f7bb02c41dfafb2885cbd67eca8939868bf640ba5",
-        "info_url": "https://en.wikipedia.org/wiki/Hermandad_de_las_Cuatro_Villas",
-        "name": "determined-bird",
-        "tm_pub_key": "xVRnag4xujEFwVx4rr83cdZkAtqWAIr9gkvPA9xleqY=",
-        "vega_pub_key": "4b6b83df6f0284619d5b89ab488c282368303890b3829c4ba3a986636e646081",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402061328",
+  "chain_id": "vega-devnet1-202402061727",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-06T13:28:30.578094685Z",
+  "genesis_time": "2024-02-06T17:27:01.76885301Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "8EF4F6F7A09AFB43EB3FE5264142962FCB0E6533",
-      "name": "determined-bird",
+      "address": "BB8C3298EF8B2B03FC3F02D0C14043D4932DF744",
+      "name": "rhythmic-week",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "xVRnag4xujEFwVx4rr83cdZkAtqWAIr9gkvPA9xleqY="
+        "value": "DPatMnclLESjSgmhoqe5/sxafrf2geZvWQOoYj7tmMM="
       }
     }
   ]
