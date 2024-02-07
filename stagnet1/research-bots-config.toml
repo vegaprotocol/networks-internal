@@ -1652,7 +1652,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         initial_mint = 200000
     [scenario.btcusdt_pyth_perp.auction_trader_args]
         traders = 2
-        initial_volume = 0.001
+        initial_volume = 0.1
         initial_mint = 10000
     [scenario.btcusdt_pyth_perp.random_trader_args]
         traders = 10
@@ -1724,7 +1724,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         asset_name = "tUSDC"
         adp = 6
         mdp = 4
-        pdp = 0
+        pdp = 1
     [scenario.btcusdt_pyth_mainnet2.market_maker_args]
         market_kappa = 0.3
         market_order_arrival_rate = 150
@@ -1740,7 +1740,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         initial_mint = 200000
     [scenario.btcusdt_pyth_mainnet2.auction_trader_args]
         traders = 2
-        initial_volume = 0.001
+        initial_volume = 0.1
         initial_mint = 10000
     [scenario.btcusdt_pyth_mainnet2.random_trader_args]
         traders = 10
@@ -1768,7 +1768,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         asset_name = "tUSDC"
         adp = 6
         mdp = 4
-        pdp = 0
+        pdp = 1
     [scenario.btcusdt_pyth_mainnet.market_maker_args]
         market_kappa = 0.3
         market_order_arrival_rate = 150
@@ -1784,7 +1784,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         initial_mint = 200000
     [scenario.btcusdt_pyth_mainnet.auction_trader_args]
         traders = 2
-        initial_volume = 0.001
+        initial_volume = 0.1
         initial_mint = 10000
     [scenario.btcusdt_pyth_mainnet.random_trader_args]
         traders = 10
