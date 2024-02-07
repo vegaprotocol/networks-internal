@@ -1636,7 +1636,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         asset_name = "tUSDC"
         adp = 6
         mdp = 4
-        pdp = 1
+        pdp = 0
     [scenario.btcusdt_pyth_perp.market_maker_args]
         market_kappa = 0.3
         market_order_arrival_rate = 150
@@ -1724,7 +1724,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         asset_name = "tUSDC"
         adp = 6
         mdp = 4
-        pdp = 1
+        pdp = 0
     [scenario.btcusdt_pyth_mainnet2.market_maker_args]
         market_kappa = 0.3
         market_order_arrival_rate = 150
@@ -1768,7 +1768,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         asset_name = "tUSDC"
         adp = 6
         mdp = 4
-        pdp = 1
+        pdp = 0
     [scenario.btcusdt_pyth_mainnet.market_maker_args]
         market_kappa = 0.3
         market_order_arrival_rate = 150
