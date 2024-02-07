@@ -1761,7 +1761,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         randomise_history = false
 
 [scenario.btcusdt_pyth_mainnet]
-    market_name = "BTC/USD(USDT)-Perp Mainnet"
+    market_name = "BTC/USD(USDT)-Perp-Mainnet"
     binance_code = "BTCUSDT"
     step_length_seconds = 5
     [scenario.btcusdt_pyth_mainnet.market_manager_args]
