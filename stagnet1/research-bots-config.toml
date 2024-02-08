@@ -1850,7 +1850,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         randomise_history = false
 
 [scenario.mainnet_simulation_injustd]
-    market_name = "INJ/USDT-Perpl"
+    market_name = "INJ/USDT-Perp"
     binance_code = "INJUSDT"
     step_length_seconds = 19
     [scenario.mainnet_simulation_injustd.market_manager_args]
