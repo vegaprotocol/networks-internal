@@ -1940,7 +1940,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 [scenario.mainnet_simulation_ldoustd]
     market_name = "LDO/USDT-Perp"
-    binance_code = "SNXUSDT"
+    binance_code = "LDOUSDT"
     step_length_seconds = 16
     [scenario.mainnet_simulation_ldoustd.market_manager_args]
         asset_name = "tUSDC"
