@@ -1897,7 +1897,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 [scenario.mainnet_simulation_snxustd]
     market_name = "SNX/USDT-Perp"
     binance_code = "SNXUSDT"
-    step_length_seconds = 5
+    step_length_seconds = 9
     [scenario.mainnet_simulation_snxustd.market_manager_args]
         asset_name = "tUSDC"
         adp = 6
@@ -1941,7 +1941,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 [scenario.mainnet_simulation_ldoustd]
     market_name = "LDO/USDT-Perp"
     binance_code = "SNXUSDT"
-    step_length_seconds = 5
+    step_length_seconds = 16
     [scenario.mainnet_simulation_ldoustd.market_manager_args]
         asset_name = "tUSDC"
         adp = 6
