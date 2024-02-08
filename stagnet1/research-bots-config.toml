@@ -1628,16 +1628,193 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 #         start_date = "2022-11-01 00:00:00"
 #         randomise_history = false
 
-[scenario.btcusdt_pyth_perp]
-    market_name = "BTCUSDT Pyth Perp"
+# [scenario.btcusdt_pyth_perp]
+#     market_name = "BTCUSDT Pyth Perp"
+#     binance_code = "BTCUSDT"
+#     step_length_seconds = 5
+#     [scenario.btcusdt_pyth_perp.market_manager_args]
+#         asset_name = "tUSDC"
+#         adp = 6
+#         mdp = 4
+#         pdp = 0
+#     [scenario.btcusdt_pyth_perp.market_maker_args]
+#         market_kappa = 0.3
+#         market_order_arrival_rate = 150
+#         order_kappa = 0.15
+#         order_size = 1
+#         order_levels = 25
+#         order_spacing = 1
+#         order_clipping = 10000
+#         inventory_lower_boundary = -3
+#         inventory_upper_boundary = 3
+#         fee_amount = 0.0001
+#         commitment_amount = 150000
+#         initial_mint = 200000
+#     [scenario.btcusdt_pyth_perp.auction_trader_args]
+#         traders = 2
+#         initial_volume = 0.1
+#         initial_mint = 10000
+#     [scenario.btcusdt_pyth_perp.random_trader_args]
+#         traders = 10
+#         order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+#         order_volume = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.12, 0.14, 0.16, 0.18] # 
+#         step_bias = [0.111, 0.95, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
+#         initial_mint = 2000
+#     [scenario.btcusdt_pyth_perp.sensitive_trader_args]
+#         traders = 10
+#         scale = [2, 4, 6, 8, 10, 12, 14, 16, 17, 20]
+#         max_order_size = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.10, 0.12, 0.14]
+#         initial_mint = 10000
+#     [scenario.btcusdt_pyth_perp.simulation_args]
+#         n_steps = 99999999
+#         granularity = "MINUTE"
+#         coinbase_code = "BTC-USDT"
+#         start_date = "2022-11-01 00:00:00"
+#         randomise_history = false# 
+
+# [scenario.jupusdt_pyth_perp]
+#     market_name = "JUPUSDT Pyth Perp"
+#     binance_code = "JUPUSDT"
+#     step_length_seconds = 5
+#     [scenario.jupusdt_pyth_perp.market_manager_args]
+#         asset_name = "tUSDC"
+#         adp = 6
+#         mdp = 3
+#         pdp = 1
+#     [scenario.jupusdt_pyth_perp.market_maker_args]
+#         market_kappa = 60000
+#         market_order_arrival_rate = 150
+#         order_kappa = 0.15
+#         order_size = 1
+#         order_levels = 25
+#         order_spacing = 0.001
+#         order_clipping = 10001
+#         inventory_lower_boundary = -3
+#         inventory_upper_boundary = 3
+#         fee_amount = 0.0001
+#         commitment_amount = 1500000
+#         initial_mint = 2000000
+#     [scenario.jupusdt_pyth_perp.auction_trader_args]
+#         traders = 2
+#         initial_volume = 35
+#         initial_mint = 100000
+#     [scenario.jupusdt_pyth_perp.random_trader_args]
+#         traders = 10
+#         order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+#         order_volume = [20, 25, 35, 40, 45, 60, 80, 120, 140, 160, 180] # 
+#         step_bias = [0.111, 0.095, 0.050, 0.048, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
+#         initial_mint = 20000
+#     [scenario.jupusdt_pyth_perp.sensitive_trader_args]
+#         traders = 10
+#         scale = [2, 4, 6, 8, 10, 12, 14, 16, 17, 20]
+#         max_order_size = [10, 20, 40, 60, 80, 100, 120, 150, 180, 200]
+#         initial_mint = 100000
+#     [scenario.jupusdt_pyth_perp.simulation_args]
+#         n_steps = 99999999
+#         granularity = "MINUTE"
+#         coinbase_code = "BTC-USDT"
+#         start_date = "2022-11-01 00:00:00"
+#         randomise_history = false# 
+
+# [scenario.btcusdt_pyth_mainnet2]
+#     market_name = "BTC/USD(USDT)-Perp Mainnet2"
+#     binance_code = "BTCUSDT"
+#     step_length_seconds = 5
+#     [scenario.btcusdt_pyth_mainnet2.market_manager_args]
+#         asset_name = "tUSDC"
+#         adp = 6
+#         mdp = 4
+#         pdp = 1
+#     [scenario.btcusdt_pyth_mainnet2.market_maker_args]
+#         market_kappa = 0.3
+#         market_order_arrival_rate = 150
+#         order_kappa = 0.15
+#         order_size = 1
+#         order_levels = 25
+#         order_spacing = 1
+#         order_clipping = 10000
+#         inventory_lower_boundary = -3
+#         inventory_upper_boundary = 3
+#         fee_amount = 0.0001
+#         commitment_amount = 150000
+#         initial_mint = 200000
+#     [scenario.btcusdt_pyth_mainnet2.auction_trader_args]
+#         traders = 2
+#         initial_volume = 0.1
+#         initial_mint = 10000
+#     [scenario.btcusdt_pyth_mainnet2.random_trader_args]
+#         traders = 10
+#         order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+#         order_volume = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.12, 0.14, 0.16, 0.18] # 
+#         step_bias = [0.111, 0.95, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
+#         initial_mint = 2000
+#     [scenario.btcusdt_pyth_mainnet2.sensitive_trader_args]
+#         traders = 10
+#         scale = [2, 4, 6, 8, 10, 12, 14, 16, 17, 20]
+#         max_order_size = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.10, 0.12, 0.14]
+#         initial_mint = 10000
+#     [scenario.btcusdt_pyth_mainnet2.simulation_args]
+#         n_steps = 99999999
+#         granularity = "MINUTE"
+#         coinbase_code = "BTC-USDT"
+#         start_date = "2022-11-01 00:00:00"
+#         randomise_history = false
+
+# [scenario.btcusdt_pyth_mainnet]
+#     market_name = "BTC/USD(USDT)-Perp-Mainnet"
+#     binance_code = "BTCUSDT"
+#     step_length_seconds = 5
+#     [scenario.btcusdt_pyth_mainnet.market_manager_args]
+#         asset_name = "tUSDC"
+#         adp = 6
+#         mdp = 4
+#         pdp = 1
+#     [scenario.btcusdt_pyth_mainnet.market_maker_args]
+#         market_kappa = 0.3
+#         market_order_arrival_rate = 150
+#         order_kappa = 0.15
+#         order_size = 1
+#         order_levels = 25
+#         order_spacing = 1
+#         order_clipping = 10000
+#         inventory_lower_boundary = -3
+#         inventory_upper_boundary = 3
+#         fee_amount = 0.0001
+#         commitment_amount = 150000
+#         initial_mint = 200000
+#     [scenario.btcusdt_pyth_mainnet.auction_trader_args]
+#         traders = 2
+#         initial_volume = 0.1
+#         initial_mint = 10000
+#     [scenario.btcusdt_pyth_mainnet.random_trader_args]
+#         traders = 10
+#         order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+#         order_volume = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.12, 0.14, 0.16, 0.18] # 
+#         step_bias = [0.111, 0.95, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
+#         initial_mint = 2000
+#     [scenario.btcusdt_pyth_mainnet.sensitive_trader_args]
+#         traders = 10
+#         scale = [2, 4, 6, 8, 10, 12, 14, 16, 17, 20]
+#         max_order_size = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.10, 0.12, 0.14]
+#         initial_mint = 10000
+#     [scenario.btcusdt_pyth_mainnet.simulation_args]
+#         n_steps = 99999999
+#         granularity = "MINUTE"
+#         coinbase_code = "BTC-USDT"
+#         start_date = "2022-11-01 00:00:00"
+#         randomise_history = false
+
+
+[scenario.mainnet_simulation_btcusdt]
+    market_name = "BTC/USD(USDT)-Perp"
     binance_code = "BTCUSDT"
-    step_length_seconds = 5
-    [scenario.btcusdt_pyth_perp.market_manager_args]
+    step_length_seconds = 30
+    [scenario.mainnet_simulation_btcusdt.market_manager_args]
         asset_name = "tUSDC"
         adp = 6
-        mdp = 4
-        pdp = 0
-    [scenario.btcusdt_pyth_perp.market_maker_args]
+        mdp = 1
+        pdp = 4
+    [scenario.mainnet_simulation_btcusdt.market_maker_args]
         market_kappa = 0.3
         market_order_arrival_rate = 150
         order_kappa = 0.15
@@ -1650,154 +1827,22 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         fee_amount = 0.0001
         commitment_amount = 150000
         initial_mint = 200000
-    [scenario.btcusdt_pyth_perp.auction_trader_args]
+    [scenario.mainnet_simulation_btcusdt.auction_trader_args]
         traders = 2
         initial_volume = 0.1
         initial_mint = 10000
-    [scenario.btcusdt_pyth_perp.random_trader_args]
+    [scenario.mainnet_simulation_btcusdt.random_trader_args]
         traders = 10
         order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
         order_volume = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.12, 0.14, 0.16, 0.18] # 
         step_bias = [0.111, 0.95, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
         initial_mint = 2000
-    [scenario.btcusdt_pyth_perp.sensitive_trader_args]
+    [scenario.mainnet_simulation_btcusdt.sensitive_trader_args]
         traders = 10
         scale = [2, 4, 6, 8, 10, 12, 14, 16, 17, 20]
         max_order_size = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.10, 0.12, 0.14]
         initial_mint = 10000
-    [scenario.btcusdt_pyth_perp.simulation_args]
-        n_steps = 99999999
-        granularity = "MINUTE"
-        coinbase_code = "BTC-USDT"
-        start_date = "2022-11-01 00:00:00"
-        randomise_history = false
-
-[scenario.jupusdt_pyth_perp]
-    market_name = "JUPUSDT Pyth Perp"
-    binance_code = "JUPUSDT"
-    step_length_seconds = 5
-    [scenario.jupusdt_pyth_perp.market_manager_args]
-        asset_name = "tUSDC"
-        adp = 6
-        mdp = 3
-        pdp = 1
-    [scenario.jupusdt_pyth_perp.market_maker_args]
-        market_kappa = 60000
-        market_order_arrival_rate = 150
-        order_kappa = 0.15
-        order_size = 1
-        order_levels = 25
-        order_spacing = 0.001
-        order_clipping = 10001
-        inventory_lower_boundary = -3
-        inventory_upper_boundary = 3
-        fee_amount = 0.0001
-        commitment_amount = 1500000
-        initial_mint = 2000000
-    [scenario.jupusdt_pyth_perp.auction_trader_args]
-        traders = 2
-        initial_volume = 35
-        initial_mint = 100000
-    [scenario.jupusdt_pyth_perp.random_trader_args]
-        traders = 10
-        order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-        order_volume = [20, 25, 35, 40, 45, 60, 80, 120, 140, 160, 180] # 
-        step_bias = [0.111, 0.095, 0.050, 0.048, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
-        initial_mint = 20000
-    [scenario.jupusdt_pyth_perp.sensitive_trader_args]
-        traders = 10
-        scale = [2, 4, 6, 8, 10, 12, 14, 16, 17, 20]
-        max_order_size = [10, 20, 40, 60, 80, 100, 120, 150, 180, 200]
-        initial_mint = 100000
-    [scenario.jupusdt_pyth_perp.simulation_args]
-        n_steps = 99999999
-        granularity = "MINUTE"
-        coinbase_code = "BTC-USDT"
-        start_date = "2022-11-01 00:00:00"
-        randomise_history = false
-
-[scenario.btcusdt_pyth_mainnet2]
-    market_name = "BTC/USD(USDT)-Perp Mainnet2"
-    binance_code = "BTCUSDT"
-    step_length_seconds = 5
-    [scenario.btcusdt_pyth_mainnet2.market_manager_args]
-        asset_name = "tUSDC"
-        adp = 6
-        mdp = 4
-        pdp = 1
-    [scenario.btcusdt_pyth_mainnet2.market_maker_args]
-        market_kappa = 0.3
-        market_order_arrival_rate = 150
-        order_kappa = 0.15
-        order_size = 1
-        order_levels = 25
-        order_spacing = 1
-        order_clipping = 10000
-        inventory_lower_boundary = -3
-        inventory_upper_boundary = 3
-        fee_amount = 0.0001
-        commitment_amount = 150000
-        initial_mint = 200000
-    [scenario.btcusdt_pyth_mainnet2.auction_trader_args]
-        traders = 2
-        initial_volume = 0.1
-        initial_mint = 10000
-    [scenario.btcusdt_pyth_mainnet2.random_trader_args]
-        traders = 10
-        order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-        order_volume = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.12, 0.14, 0.16, 0.18] # 
-        step_bias = [0.111, 0.95, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
-        initial_mint = 2000
-    [scenario.btcusdt_pyth_mainnet2.sensitive_trader_args]
-        traders = 10
-        scale = [2, 4, 6, 8, 10, 12, 14, 16, 17, 20]
-        max_order_size = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.10, 0.12, 0.14]
-        initial_mint = 10000
-    [scenario.btcusdt_pyth_mainnet2.simulation_args]
-        n_steps = 99999999
-        granularity = "MINUTE"
-        coinbase_code = "BTC-USDT"
-        start_date = "2022-11-01 00:00:00"
-        randomise_history = false
-
-[scenario.btcusdt_pyth_mainnet]
-    market_name = "BTC/USD(USDT)-Perp-Mainnet"
-    binance_code = "BTCUSDT"
-    step_length_seconds = 5
-    [scenario.btcusdt_pyth_mainnet.market_manager_args]
-        asset_name = "tUSDC"
-        adp = 6
-        mdp = 4
-        pdp = 1
-    [scenario.btcusdt_pyth_mainnet.market_maker_args]
-        market_kappa = 0.3
-        market_order_arrival_rate = 150
-        order_kappa = 0.15
-        order_size = 1
-        order_levels = 25
-        order_spacing = 1
-        order_clipping = 10000
-        inventory_lower_boundary = -3
-        inventory_upper_boundary = 3
-        fee_amount = 0.0001
-        commitment_amount = 150000
-        initial_mint = 200000
-    [scenario.btcusdt_pyth_mainnet.auction_trader_args]
-        traders = 2
-        initial_volume = 0.1
-        initial_mint = 10000
-    [scenario.btcusdt_pyth_mainnet.random_trader_args]
-        traders = 10
-        order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-        order_volume = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.12, 0.14, 0.16, 0.18] # 
-        step_bias = [0.111, 0.95, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
-        initial_mint = 2000
-    [scenario.btcusdt_pyth_mainnet.sensitive_trader_args]
-        traders = 10
-        scale = [2, 4, 6, 8, 10, 12, 14, 16, 17, 20]
-        max_order_size = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.10, 0.12, 0.14]
-        initial_mint = 10000
-    [scenario.btcusdt_pyth_mainnet.simulation_args]
+    [scenario.mainnet_simulation_btcusdt.simulation_args]
         n_steps = 99999999
         granularity = "MINUTE"
         coinbase_code = "BTC-USDT"
