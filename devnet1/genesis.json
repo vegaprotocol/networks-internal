@@ -303,6 +303,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "NIxGNoK7tj0nvOwj5BozDCsBIWzr0uK0wbW5hd6Dhao=": {
+        "avatar_url": "https://www.gravatar.com/avatar/pztcvff82ux2rcwpav5ll5fqanlg54fs?d=identicon",
+        "country": "JG",
+        "ethereum_address": "0x31b0aa8e69FB9664155ccd863D57259c7f44536A",
+        "id": "a7aa269cbe4e5f1a22b901cfd1ca5d1ccdf5822dbc6d530c606042dcfb7c2940",
+        "info_url": "https://en.wikipedia.org/wiki/Kamov_Ka-31",
+        "name": "happy-toy",
+        "tm_pub_key": "NIxGNoK7tj0nvOwj5BozDCsBIWzr0uK0wbW5hd6Dhao=",
+        "vega_pub_key": "e51daf9118398a366d00e778aa46a5906344ff19a44d01170d18bccbd4e293b8",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -313,21 +324,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "n2Wr027XThquLy4c65IzKgQrDI2IIO2MKTYwDm43KgA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/0ayvq48tz5xw9yh6v1hhm49ebyycjvpc?d=identicon",
-        "country": "PK",
-        "ethereum_address": "0x9733d15cfD64A54f4bD7Ce00C65e9b357a0d34ad",
-        "id": "a41d8e6468448351eb15c6c5d76db4032c95e99c315c9aa6119a3baa2402b9c3",
-        "info_url": "https://en.wikipedia.org/wiki/Waiting_for_Godot",
-        "name": "bright-policeman",
-        "tm_pub_key": "n2Wr027XThquLy4c65IzKgQrDI2IIO2MKTYwDm43KgA=",
-        "vega_pub_key": "74eea168440f679ad199e7645a3f5192d68fb2bf545e55212b059c221ec2e0e1",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402081046",
+  "chain_id": "vega-devnet1-202402081150",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-08T10:46:44.154894971Z",
+  "genesis_time": "2024-02-08T11:50:54.419335483Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "42AD0D22CA91AD9412B4F873A52E411DE6BEA295",
-      "name": "bright-policeman",
+      "address": "9C180BB3BDBF877F1889B2A79EEEFF8B18807F93",
+      "name": "happy-toy",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "n2Wr027XThquLy4c65IzKgQrDI2IIO2MKTYwDm43KgA="
+        "value": "NIxGNoK7tj0nvOwj5BozDCsBIWzr0uK0wbW5hd6Dhao="
       }
     }
   ]
