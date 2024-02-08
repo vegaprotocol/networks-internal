@@ -314,20 +314,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "zmygxsO52cFllmeQ72FFLkJQLzLbYeFXv5AH4DnsHQk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/p49qepx1zqnppw9vhvexbtibh3oqalb9?d=identicon",
-        "country": "LC",
-        "ethereum_address": "0x312774e754c0259c036c6800fd089Ce7617Dd474",
-        "id": "1fe7f33e1d02ed53f241b2774ad06e29defa9c030d4f6278b3ae44e8b596a963",
-        "info_url": "https://en.wikipedia.org/wiki/RP_113-class_tugboat",
-        "name": "hungry-vacuum",
-        "tm_pub_key": "zmygxsO52cFllmeQ72FFLkJQLzLbYeFXv5AH4DnsHQk=",
-        "vega_pub_key": "e04b8076c0fa265eca662bae2877725bb2443940050c640578178e342807ff20",
+      "n2Wr027XThquLy4c65IzKgQrDI2IIO2MKTYwDm43KgA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/0ayvq48tz5xw9yh6v1hhm49ebyycjvpc?d=identicon",
+        "country": "PK",
+        "ethereum_address": "0x9733d15cfD64A54f4bD7Ce00C65e9b357a0d34ad",
+        "id": "a41d8e6468448351eb15c6c5d76db4032c95e99c315c9aa6119a3baa2402b9c3",
+        "info_url": "https://en.wikipedia.org/wiki/Waiting_for_Godot",
+        "name": "bright-policeman",
+        "tm_pub_key": "n2Wr027XThquLy4c65IzKgQrDI2IIO2MKTYwDm43KgA=",
+        "vega_pub_key": "74eea168440f679ad199e7645a3f5192d68fb2bf545e55212b059c221ec2e0e1",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402071808",
+  "chain_id": "vega-devnet1-202402081046",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-07T18:08:40.795106526Z",
+  "genesis_time": "2024-02-08T10:46:44.154894971Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "8F69F47A7D71B002A1D372E00D0041D70CDD5A0B",
-      "name": "hungry-vacuum",
+      "address": "42AD0D22CA91AD9412B4F873A52E411DE6BEA295",
+      "name": "bright-policeman",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "zmygxsO52cFllmeQ72FFLkJQLzLbYeFXv5AH4DnsHQk="
+        "value": "n2Wr027XThquLy4c65IzKgQrDI2IIO2MKTYwDm43KgA="
       }
     }
   ]
