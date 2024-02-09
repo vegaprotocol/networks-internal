@@ -281,6 +281,17 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
+      "6YRroFxTRoFmAaOhb5f8y7FMUSpUR8e5Byab3/oJJEA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/vsrr0k5j42917wv9esriuws1314s3uhb?d=identicon",
+        "country": "FP",
+        "ethereum_address": "0x660684d4c75bC64B5022313431Fd5F345b38921c",
+        "id": "e62029fc3cba476348944e8ceae0ad9a421f52e7037448621a5a2fb804446df9",
+        "info_url": "https://en.wikipedia.org/wiki/%C3%86bbe_of_Oxford",
+        "name": "exuberant-fan",
+        "tm_pub_key": "6YRroFxTRoFmAaOhb5f8y7FMUSpUR8e5Byab3/oJJEA=",
+        "vega_pub_key": "e385593aed51b864cc79628e143e84cd783a55fd3f60896cf6f30a47267b7e06",
+        "vega_pub_key_index": 1
+      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -313,21 +324,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "oDG6HDUIKEiARDVswOTf3W2EpI0Ah6brGVTuSHSrR2Q=": {
-        "avatar_url": "https://www.gravatar.com/avatar/1ddb04d05cnfq7kdrh6z6c2bgy5j0qn9?d=identicon",
-        "country": "RE",
-        "ethereum_address": "0x73F6EFeeB420C6c683E2aFab281887291B311A92",
-        "id": "0cd95a02d03ca0eac2373ab373571fa1e43901589629e665cf770fc7f491e3f6",
-        "info_url": "https://en.wikipedia.org/wiki/1961_TCU_Horned_Frogs_football_team",
-        "name": "odd-building",
-        "tm_pub_key": "oDG6HDUIKEiARDVswOTf3W2EpI0Ah6brGVTuSHSrR2Q=",
-        "vega_pub_key": "0962b35f0071e7f270b1260f876079553e131f66a2608117218bf3765fee3431",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402091039",
+  "chain_id": "vega-devnet1-202402091207",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-09T10:39:43.320555801Z",
+  "genesis_time": "2024-02-09T12:07:46.617915733Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "261F0529651FD1D36F84A07E48E52194DE3DB791",
-      "name": "odd-building",
+      "address": "09C1BC92BC3234E2612702F66E54B83812560154",
+      "name": "exuberant-fan",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "oDG6HDUIKEiARDVswOTf3W2EpI0Ah6brGVTuSHSrR2Q="
+        "value": "6YRroFxTRoFmAaOhb5f8y7FMUSpUR8e5Byab3/oJJEA="
       }
     }
   ]
