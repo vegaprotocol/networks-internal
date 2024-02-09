@@ -292,17 +292,6 @@
         "vega_pub_key": "cb152821443248b20a217abee89c1c8e595e07d47c537255d480761c88bc86d1",
         "vega_pub_key_index": 1
       },
-      "7d91YSyNReS+Ty93XVhM5iAIWySQkDlC1HzRnqYIX/o=": {
-        "avatar_url": "https://www.gravatar.com/avatar/jfov3an79kelsde77vv1q0r8xko1izt6?d=identicon",
-        "country": "JS",
-        "ethereum_address": "0xAb3DD99809660bd4342bAf4bF449A6815f681468",
-        "id": "c84c44f17d59c8e3d00b7b66cf777c7e690fc6ee2ea0206e449e1b3e39969001",
-        "info_url": "https://en.wikipedia.org/wiki/Journal_of_Research_in_Reading",
-        "name": "distressed-cookie",
-        "tm_pub_key": "7d91YSyNReS+Ty93XVhM5iAIWySQkDlC1HzRnqYIX/o=",
-        "vega_pub_key": "0d77458e3c521e54aa54a319562d636e7267a68ea45622d8f5094cc999a8e6b9",
-        "vega_pub_key_index": 1
-      },
       "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ=": {
         "avatar_url": "https://www.gravatar.com/avatar/6x0s5jsbbeeihso9yyhnh6hcop4fkxa1?d=identicon",
         "country": "ON",
@@ -324,10 +313,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "oDG6HDUIKEiARDVswOTf3W2EpI0Ah6brGVTuSHSrR2Q=": {
+        "avatar_url": "https://www.gravatar.com/avatar/1ddb04d05cnfq7kdrh6z6c2bgy5j0qn9?d=identicon",
+        "country": "RE",
+        "ethereum_address": "0x73F6EFeeB420C6c683E2aFab281887291B311A92",
+        "id": "0cd95a02d03ca0eac2373ab373571fa1e43901589629e665cf770fc7f491e3f6",
+        "info_url": "https://en.wikipedia.org/wiki/1961_TCU_Horned_Frogs_football_team",
+        "name": "odd-building",
+        "tm_pub_key": "oDG6HDUIKEiARDVswOTf3W2EpI0Ah6brGVTuSHSrR2Q=",
+        "vega_pub_key": "0962b35f0071e7f270b1260f876079553e131f66a2608117218bf3765fee3431",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402081803",
+  "chain_id": "vega-devnet1-202402091039",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-08T18:03:52.474871134Z",
+  "genesis_time": "2024-02-09T10:39:43.320555801Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "03E5F3691448A8FA588F8E0C8316040E73D1903D",
-      "name": "distressed-cookie",
+      "address": "261F0529651FD1D36F84A07E48E52194DE3DB791",
+      "name": "odd-building",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "7d91YSyNReS+Ty93XVhM5iAIWySQkDlC1HzRnqYIX/o="
+        "value": "oDG6HDUIKEiARDVswOTf3W2EpI0Ah6brGVTuSHSrR2Q="
       }
     }
   ]
