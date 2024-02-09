@@ -303,15 +303,15 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "NRkXfXkd+1pYoeWPaBwZtdXjuZy9LjQgFXeQBoBBiz8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/aviibhbmm726u102fc8hcl4tmfgsutwl?d=identicon",
-        "country": "YB",
-        "ethereum_address": "0x42eAaf52355bE7B85bc23cCa768a07916F55108F",
-        "id": "59911dafee4691846d89bcb8bb77ddc00cefe264616b07a8893f87ffe874c868",
-        "info_url": "https://en.wikipedia.org/wiki/Imre_Szekeres",
-        "name": "immense-party",
-        "tm_pub_key": "NRkXfXkd+1pYoeWPaBwZtdXjuZy9LjQgFXeQBoBBiz8=",
-        "vega_pub_key": "424f6d9d454fa5c590dae33be0496de62a3f7bad7df4f8e729212890a0dd2d00",
+      "EJx0r+8JU8PejGP+KfWUS2L5Btiw5vPrc0znvF8dD4M=": {
+        "avatar_url": "https://www.gravatar.com/avatar/epd30i6uwwh6jhyvg09jyv8nu06etsoy?d=identicon",
+        "country": "NJ",
+        "ethereum_address": "0xD7b9CeaC2E08868086C3bD3d49be993Aa4ea7d8b",
+        "id": "6ff5ea648ea714a11d5744ca030479e18b8275e83fb71993177227cde064abad",
+        "info_url": "https://en.wikipedia.org/wiki/Baolai_Spring_Park",
+        "name": "scruffy-pen",
+        "tm_pub_key": "EJx0r+8JU8PejGP+KfWUS2L5Btiw5vPrc0znvF8dD4M=",
+        "vega_pub_key": "173665c28113ceb30af9ba91790ebbff32999b413e8545756e772d47b1145818",
         "vega_pub_key_index": 1
       },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
@@ -327,7 +327,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202402091546",
+  "chain_id": "vega-devnet1-202402091614",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-09T15:46:17.997464334Z",
+  "genesis_time": "2024-02-09T16:14:38.330726719Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "74E0BBA9FEEE60591BDCFBCB46AEAEFF12DA504B",
-      "name": "immense-party",
+      "address": "1191ACD792B21BE7BB6A2581B0DE8919259CCB7E",
+      "name": "scruffy-pen",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "NRkXfXkd+1pYoeWPaBwZtdXjuZy9LjQgFXeQBoBBiz8="
+        "value": "EJx0r+8JU8PejGP+KfWUS2L5Btiw5vPrc0znvF8dD4M="
       }
     }
   ]
