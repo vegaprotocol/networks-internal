@@ -303,6 +303,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "NRkXfXkd+1pYoeWPaBwZtdXjuZy9LjQgFXeQBoBBiz8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/aviibhbmm726u102fc8hcl4tmfgsutwl?d=identicon",
+        "country": "YB",
+        "ethereum_address": "0x42eAaf52355bE7B85bc23cCa768a07916F55108F",
+        "id": "59911dafee4691846d89bcb8bb77ddc00cefe264616b07a8893f87ffe874c868",
+        "info_url": "https://en.wikipedia.org/wiki/Imre_Szekeres",
+        "name": "immense-party",
+        "tm_pub_key": "NRkXfXkd+1pYoeWPaBwZtdXjuZy9LjQgFXeQBoBBiz8=",
+        "vega_pub_key": "424f6d9d454fa5c590dae33be0496de62a3f7bad7df4f8e729212890a0dd2d00",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -313,21 +324,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "dIzC/od1p6MTrVD5VANWjE0uryMHr76mRpnuQZvqbek=": {
-        "avatar_url": "https://www.gravatar.com/avatar/hdfsrlf2cala4bph3182eqqo893yf2md?d=identicon",
-        "country": "II",
-        "ethereum_address": "0x5dc3Cf91AD8cC8BfC37B7305C2f1cdD364E8e260",
-        "id": "6af507d00f079c1a95c029355d702834d70d6e0ca5fd489a401b4eb298001d09",
-        "info_url": "https://en.wikipedia.org/wiki/New_Zealand_Fighter_Pilots_Museum",
-        "name": "rhythmic-pizza",
-        "tm_pub_key": "dIzC/od1p6MTrVD5VANWjE0uryMHr76mRpnuQZvqbek=",
-        "vega_pub_key": "03b275db3f9fb20096e0812ba8ac4c0ef17bdbb2f0fc69f01f1b65ebb1c73c65",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402091443",
+  "chain_id": "vega-devnet1-202402091530",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-09T14:43:26.285800525Z",
+  "genesis_time": "2024-02-09T15:30:01.629581568Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "2EF158F9B19583803F5FECDA9F5A4B3A46C3CD0C",
-      "name": "rhythmic-pizza",
+      "address": "74E0BBA9FEEE60591BDCFBCB46AEAEFF12DA504B",
+      "name": "immense-party",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "dIzC/od1p6MTrVD5VANWjE0uryMHr76mRpnuQZvqbek="
+        "value": "NRkXfXkd+1pYoeWPaBwZtdXjuZy9LjQgFXeQBoBBiz8="
       }
     }
   ]
