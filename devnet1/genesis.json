@@ -281,17 +281,6 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
-      "6YRroFxTRoFmAaOhb5f8y7FMUSpUR8e5Byab3/oJJEA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/vsrr0k5j42917wv9esriuws1314s3uhb?d=identicon",
-        "country": "FP",
-        "ethereum_address": "0x660684d4c75bC64B5022313431Fd5F345b38921c",
-        "id": "e62029fc3cba476348944e8ceae0ad9a421f52e7037448621a5a2fb804446df9",
-        "info_url": "https://en.wikipedia.org/wiki/%C3%86bbe_of_Oxford",
-        "name": "exuberant-fan",
-        "tm_pub_key": "6YRroFxTRoFmAaOhb5f8y7FMUSpUR8e5Byab3/oJJEA=",
-        "vega_pub_key": "e385593aed51b864cc79628e143e84cd783a55fd3f60896cf6f30a47267b7e06",
-        "vega_pub_key_index": 1
-      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -324,10 +313,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "dIzC/od1p6MTrVD5VANWjE0uryMHr76mRpnuQZvqbek=": {
+        "avatar_url": "https://www.gravatar.com/avatar/hdfsrlf2cala4bph3182eqqo893yf2md?d=identicon",
+        "country": "II",
+        "ethereum_address": "0x5dc3Cf91AD8cC8BfC37B7305C2f1cdD364E8e260",
+        "id": "6af507d00f079c1a95c029355d702834d70d6e0ca5fd489a401b4eb298001d09",
+        "info_url": "https://en.wikipedia.org/wiki/New_Zealand_Fighter_Pilots_Museum",
+        "name": "rhythmic-pizza",
+        "tm_pub_key": "dIzC/od1p6MTrVD5VANWjE0uryMHr76mRpnuQZvqbek=",
+        "vega_pub_key": "03b275db3f9fb20096e0812ba8ac4c0ef17bdbb2f0fc69f01f1b65ebb1c73c65",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402091207",
+  "chain_id": "vega-devnet1-202402091403",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -346,7 +346,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-09T12:07:46.617915733Z",
+  "genesis_time": "2024-02-09T14:03:10.920578391Z",
   "initial_height": "0",
   "validators": [
     {
@@ -386,12 +386,12 @@
       }
     },
     {
-      "address": "09C1BC92BC3234E2612702F66E54B83812560154",
-      "name": "exuberant-fan",
+      "address": "2EF158F9B19583803F5FECDA9F5A4B3A46C3CD0C",
+      "name": "rhythmic-pizza",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "6YRroFxTRoFmAaOhb5f8y7FMUSpUR8e5Byab3/oJJEA="
+        "value": "dIzC/od1p6MTrVD5VANWjE0uryMHr76mRpnuQZvqbek="
       }
     }
   ]
