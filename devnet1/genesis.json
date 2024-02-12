@@ -315,20 +315,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "n72eVRHpxs+aFRYe7BppFvXny0IZjeLqw1Ie51c5DRQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/9fqz3bmm8fqodpkh2s569jbqp7cwo574?d=identicon",
-        "country": "AP",
-        "ethereum_address": "0xfD49E8619d13890B82Efc992F88215fcB6A3CD48",
-        "id": "107f4f1e3ab917295888571e08c0ce242d3d9855bf06b11272932e896c5c6d15",
-        "info_url": "https://en.wikipedia.org/wiki/Abutilon_grandifolium",
-        "name": "gritty-chimney",
-        "tm_pub_key": "n72eVRHpxs+aFRYe7BppFvXny0IZjeLqw1Ie51c5DRQ=",
-        "vega_pub_key": "0dbe6ebd9e7dc3e396f7b880aa0af816a68bbf10969d5ca4061b0a583e1af6d1",
+      "x1VCgsPKEOkORFr+Bk6qHcw1/hO1SEHRUbsSzzTW5ws=": {
+        "avatar_url": "https://www.gravatar.com/avatar/31smlq65drpesahvd77ru10ysyq9p1mp?d=identicon",
+        "country": "BB",
+        "ethereum_address": "0x7b89Faf31a77e4306DD1aCd24d24CA7d7E90f8D7",
+        "id": "d5c5900a15feb09981e194f9c474c43e3d86a07dd7ddbc56d3f06e52faa50f1e",
+        "info_url": "https://en.wikipedia.org/wiki/Jalil_Che_Din",
+        "name": "courageous-baby",
+        "tm_pub_key": "x1VCgsPKEOkORFr+Bk6qHcw1/hO1SEHRUbsSzzTW5ws=",
+        "vega_pub_key": "54e30178237611244ced9e4b92026acf5e38b00c2534b936cd66bd04fab0dc4c",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402121535",
+  "chain_id": "vega-devnet1-202402121653",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-12T15:35:30.171874837Z",
+  "genesis_time": "2024-02-12T16:53:08.913139523Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "542619B3E5C2C4E9D5F27EE16EBBF85F4F862AA3",
-      "name": "gritty-chimney",
+      "address": "EF720F7AEC0D0FAAC2B5567C2392C0D556FD81FF",
+      "name": "courageous-baby",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "n72eVRHpxs+aFRYe7BppFvXny0IZjeLqw1Ie51c5DRQ="
+        "value": "x1VCgsPKEOkORFr+Bk6qHcw1/hO1SEHRUbsSzzTW5ws="
       }
     }
   ]
