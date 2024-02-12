@@ -271,17 +271,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "3H/yg8OGCZCPaddEoqMEIqsylZUF/mS5BJV87H2ptA4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/qrmu0kyay56i9kxr49w9o79pvbh6ih16?d=identicon",
-        "country": "CH",
-        "ethereum_address": "0x30E327e519664b9EfE17CB6503aC1Ce39B7Ce424",
-        "id": "6d3e22c01e72f8479d7c8152e6812fca8f24b8b20fa2532b5af20519ffb5cc81",
-        "info_url": "https://en.wikipedia.org/wiki/4ever_Blue",
-        "name": "icy-country",
-        "tm_pub_key": "3H/yg8OGCZCPaddEoqMEIqsylZUF/mS5BJV87H2ptA4=",
-        "vega_pub_key": "efb44d2fee2a24e3afea9d8bde1d063cd9ec2b21759536ad2f0a48dd91f103d8",
-        "vega_pub_key_index": 1
-      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -325,10 +314,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "n72eVRHpxs+aFRYe7BppFvXny0IZjeLqw1Ie51c5DRQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/9fqz3bmm8fqodpkh2s569jbqp7cwo574?d=identicon",
+        "country": "AP",
+        "ethereum_address": "0xfD49E8619d13890B82Efc992F88215fcB6A3CD48",
+        "id": "107f4f1e3ab917295888571e08c0ce242d3d9855bf06b11272932e896c5c6d15",
+        "info_url": "https://en.wikipedia.org/wiki/Abutilon_grandifolium",
+        "name": "gritty-chimney",
+        "tm_pub_key": "n72eVRHpxs+aFRYe7BppFvXny0IZjeLqw1Ie51c5DRQ=",
+        "vega_pub_key": "0dbe6ebd9e7dc3e396f7b880aa0af816a68bbf10969d5ca4061b0a583e1af6d1",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402121307",
+  "chain_id": "vega-devnet1-202402121535",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-12T13:07:55.664822433Z",
+  "genesis_time": "2024-02-12T15:35:30.171874837Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "B3217D283D125186160643AAAF3C2A3A8FB1778C",
-      "name": "icy-country",
+      "address": "542619B3E5C2C4E9D5F27EE16EBBF85F4F862AA3",
+      "name": "gritty-chimney",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "3H/yg8OGCZCPaddEoqMEIqsylZUF/mS5BJV87H2ptA4="
+        "value": "n72eVRHpxs+aFRYe7BppFvXny0IZjeLqw1Ie51c5DRQ="
       }
     }
   ]
