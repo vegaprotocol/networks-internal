@@ -271,6 +271,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "0EvzpC1+0SYD5yKbgIgerWlDk3AbHmIWOkQ6vO8PZGg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/z50nqwbl2kva3m46jrscil2zgm18pe1j?d=identicon",
+        "country": "SX",
+        "ethereum_address": "0x0FB3eb726Ff4906618FCC4c855e7af486A60DF71",
+        "id": "1579e3669c322782be8ad67917dfbd2c6a9f69727b2986f4023b8d3176221767",
+        "info_url": "https://en.wikipedia.org/wiki/Coupon",
+        "name": "costly-train",
+        "tm_pub_key": "0EvzpC1+0SYD5yKbgIgerWlDk3AbHmIWOkQ6vO8PZGg=",
+        "vega_pub_key": "53a39e4000703c068b0976cafce237f6d499bb097ed961b1b46afcfd8f0c21c5",
+        "vega_pub_key_index": 1
+      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -314,21 +325,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "x1VCgsPKEOkORFr+Bk6qHcw1/hO1SEHRUbsSzzTW5ws=": {
-        "avatar_url": "https://www.gravatar.com/avatar/31smlq65drpesahvd77ru10ysyq9p1mp?d=identicon",
-        "country": "BB",
-        "ethereum_address": "0x7b89Faf31a77e4306DD1aCd24d24CA7d7E90f8D7",
-        "id": "d5c5900a15feb09981e194f9c474c43e3d86a07dd7ddbc56d3f06e52faa50f1e",
-        "info_url": "https://en.wikipedia.org/wiki/Jalil_Che_Din",
-        "name": "courageous-baby",
-        "tm_pub_key": "x1VCgsPKEOkORFr+Bk6qHcw1/hO1SEHRUbsSzzTW5ws=",
-        "vega_pub_key": "54e30178237611244ced9e4b92026acf5e38b00c2534b936cd66bd04fab0dc4c",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402121653",
+  "chain_id": "vega-devnet1-202402121729",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-12T16:53:08.913139523Z",
+  "genesis_time": "2024-02-12T17:29:38.778326961Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "EF720F7AEC0D0FAAC2B5567C2392C0D556FD81FF",
-      "name": "courageous-baby",
+      "address": "E319CA73901E2DAF2CA58C519A8BDF0D53FDF633",
+      "name": "costly-train",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "x1VCgsPKEOkORFr+Bk6qHcw1/hO1SEHRUbsSzzTW5ws="
+        "value": "0EvzpC1+0SYD5yKbgIgerWlDk3AbHmIWOkQ6vO8PZGg="
       }
     }
   ]
