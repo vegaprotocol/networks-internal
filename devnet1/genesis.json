@@ -271,6 +271,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "3H/yg8OGCZCPaddEoqMEIqsylZUF/mS5BJV87H2ptA4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/qrmu0kyay56i9kxr49w9o79pvbh6ih16?d=identicon",
+        "country": "CH",
+        "ethereum_address": "0x30E327e519664b9EfE17CB6503aC1Ce39B7Ce424",
+        "id": "6d3e22c01e72f8479d7c8152e6812fca8f24b8b20fa2532b5af20519ffb5cc81",
+        "info_url": "https://en.wikipedia.org/wiki/4ever_Blue",
+        "name": "icy-country",
+        "tm_pub_key": "3H/yg8OGCZCPaddEoqMEIqsylZUF/mS5BJV87H2ptA4=",
+        "vega_pub_key": "efb44d2fee2a24e3afea9d8bde1d063cd9ec2b21759536ad2f0a48dd91f103d8",
+        "vega_pub_key_index": 1
+      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -280,17 +291,6 @@
         "name": "important-mango",
         "tm_pub_key": "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=",
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
-        "vega_pub_key_index": 1
-      },
-      "4jSV22kyUpQ16Pg04HFidkDsiMFDNkRIklJOlFWxqEA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/2re2tusoc37pod4kpxj89t5baadvr8by?d=identicon",
-        "country": "ZV",
-        "ethereum_address": "0xBb175149e2DFD384D110d46480d6f88B686d68bF",
-        "id": "e49548d56a725b5e3325a8e73483c0082239dfc4b23eb159b3ac8c9b93e590a8",
-        "info_url": "https://en.wikipedia.org/wiki/Bixin",
-        "name": "happy-butterfly",
-        "tm_pub_key": "4jSV22kyUpQ16Pg04HFidkDsiMFDNkRIklJOlFWxqEA=",
-        "vega_pub_key": "fadb0a5a3f482209285aa399c4594be889bb77c00048521564a323648a1d21b6",
         "vega_pub_key_index": 1
       },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202402091712",
+  "chain_id": "vega-devnet1-202402121307",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-09T17:12:31.61882919Z",
+  "genesis_time": "2024-02-12T13:07:55.664822433Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "6CA25930F6609535608EA699C9F7551E6F72D34A",
-      "name": "happy-butterfly",
+      "address": "B3217D283D125186160643AAAF3C2A3A8FB1778C",
+      "name": "icy-country",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "4jSV22kyUpQ16Pg04HFidkDsiMFDNkRIklJOlFWxqEA="
+        "value": "3H/yg8OGCZCPaddEoqMEIqsylZUF/mS5BJV87H2ptA4="
       }
     }
   ]
