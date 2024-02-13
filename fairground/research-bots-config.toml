@@ -1298,7 +1298,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         inventory_lower_boundary = -3
         inventory_upper_boundary = 3
         fee_amount = 0.0001
-        commitment_amount = 400000
+        commitment_amount = 100
         initial_mint = 600000
     [scenario.mainnet_simulation_ethustd.auction_trader_args]
         initial_volume = 0.001
