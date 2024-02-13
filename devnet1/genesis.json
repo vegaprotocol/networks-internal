@@ -315,20 +315,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "fwXdx2UqngFIuoK8HaBRLRu07GXk5H2M3m4/lJhlcAg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/5ggzmei7wcrzef1b9ks1si6jl3dmh26v?d=identicon",
-        "country": "QO",
-        "ethereum_address": "0x64E36Bf5577E137735B03562b89418a1CD371Fd9",
-        "id": "8cf479ac935bd13fb51d21bdbf43a586bbdee1ae0570ec4edd8bf44f7965e187",
-        "info_url": "https://en.wikipedia.org/wiki/Bobrovskoye,_Nyuksensky_District,_Vologda_Oblast",
-        "name": "frustrating-town",
-        "tm_pub_key": "fwXdx2UqngFIuoK8HaBRLRu07GXk5H2M3m4/lJhlcAg=",
-        "vega_pub_key": "93b2eeb6ade6c1f3947ce1248f8ef2dc5c7e15d9764f64e091bb852bfe2d896d",
+      "VOm8gFSBiRt7AcjrAfyo2YVm3HeE8Tbfoj91iF5ufcw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/o1majigavzjrveif09764dwhj397758q?d=identicon",
+        "country": "TQ",
+        "ethereum_address": "0xdC1E41BfdB81ebb74856b968945dA5BF6EAbbCFd",
+        "id": "6a3aa941808803b12e01d57012759a929fb343e55f9de389d63e4d587ccc33dc",
+        "info_url": "https://en.wikipedia.org/wiki/MiniMonos",
+        "name": "frantic-stove",
+        "tm_pub_key": "VOm8gFSBiRt7AcjrAfyo2YVm3HeE8Tbfoj91iF5ufcw=",
+        "vega_pub_key": "7428ae8523c9774cbf14be66f7873e455fe91950885407b547c8236119005828",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402131636",
+  "chain_id": "vega-devnet1-202402131732",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-13T16:36:18.987267684Z",
+  "genesis_time": "2024-02-13T17:32:39.51928729Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "3D3CE2E773D9B278DC8D02967044AE1F242DD434",
-      "name": "frustrating-town",
+      "address": "2A048410C2D64A0E06B4A1162177753E8FD10B37",
+      "name": "frantic-stove",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "fwXdx2UqngFIuoK8HaBRLRu07GXk5H2M3m4/lJhlcAg="
+        "value": "VOm8gFSBiRt7AcjrAfyo2YVm3HeE8Tbfoj91iF5ufcw="
       }
     }
   ]
