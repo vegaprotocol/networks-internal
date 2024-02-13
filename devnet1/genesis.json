@@ -315,20 +315,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "VOm8gFSBiRt7AcjrAfyo2YVm3HeE8Tbfoj91iF5ufcw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/o1majigavzjrveif09764dwhj397758q?d=identicon",
-        "country": "TQ",
-        "ethereum_address": "0xdC1E41BfdB81ebb74856b968945dA5BF6EAbbCFd",
-        "id": "6a3aa941808803b12e01d57012759a929fb343e55f9de389d63e4d587ccc33dc",
-        "info_url": "https://en.wikipedia.org/wiki/MiniMonos",
-        "name": "frantic-stove",
-        "tm_pub_key": "VOm8gFSBiRt7AcjrAfyo2YVm3HeE8Tbfoj91iF5ufcw=",
-        "vega_pub_key": "7428ae8523c9774cbf14be66f7873e455fe91950885407b547c8236119005828",
+      "X8/wtWUXvbHBeujflUnzH2bIy8IZ7jfMgvxEHqlFxdg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/yikfy45olcdhug52eqpn7jg51zgvjyk9?d=identicon",
+        "country": "HD",
+        "ethereum_address": "0x985eD0F086D2db474332621Bb430c768f00D8a01",
+        "id": "39a0ba69ae2556818a65a68976ef13036be3df4ffa1caff0933f90cf2ba5dfde",
+        "info_url": "https://en.wikipedia.org/wiki/Chelkhet_Tiyad",
+        "name": "opportune-river",
+        "tm_pub_key": "X8/wtWUXvbHBeujflUnzH2bIy8IZ7jfMgvxEHqlFxdg=",
+        "vega_pub_key": "5f39225aae2e3bf57d897b3b1a5ea389fb123b37130c6b1bf87bfea22a266b27",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402131732",
+  "chain_id": "vega-devnet1-202402131804",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-13T17:32:39.51928729Z",
+  "genesis_time": "2024-02-13T18:04:56.870303184Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "2A048410C2D64A0E06B4A1162177753E8FD10B37",
-      "name": "frantic-stove",
+      "address": "AC18BFAA4ACD42B7F4F00DE96AC6C72EFEE25532",
+      "name": "opportune-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "VOm8gFSBiRt7AcjrAfyo2YVm3HeE8Tbfoj91iF5ufcw="
+        "value": "X8/wtWUXvbHBeujflUnzH2bIy8IZ7jfMgvxEHqlFxdg="
       }
     }
   ]
