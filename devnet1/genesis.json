@@ -271,17 +271,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "0EvzpC1+0SYD5yKbgIgerWlDk3AbHmIWOkQ6vO8PZGg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/z50nqwbl2kva3m46jrscil2zgm18pe1j?d=identicon",
-        "country": "SX",
-        "ethereum_address": "0x0FB3eb726Ff4906618FCC4c855e7af486A60DF71",
-        "id": "1579e3669c322782be8ad67917dfbd2c6a9f69727b2986f4023b8d3176221767",
-        "info_url": "https://en.wikipedia.org/wiki/Coupon",
-        "name": "costly-train",
-        "tm_pub_key": "0EvzpC1+0SYD5yKbgIgerWlDk3AbHmIWOkQ6vO8PZGg=",
-        "vega_pub_key": "53a39e4000703c068b0976cafce237f6d499bb097ed961b1b46afcfd8f0c21c5",
-        "vega_pub_key_index": 1
-      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -325,10 +314,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "aeuzIgSaLHZJADSdp+JYUONnCga0DlMH8qxR6lWf/5I=": {
+        "avatar_url": "https://www.gravatar.com/avatar/metzq0upd0cfkjqf2olrxx6rgh73wc3c?d=identicon",
+        "country": "KU",
+        "ethereum_address": "0xBac55a2A0542Cd95228D54cDefFAf8E46476321A",
+        "id": "a2a95ef9d57fb18edc32a072860f782587e47e96a461bf0a380990abe80c3438",
+        "info_url": "https://en.wikipedia.org/wiki/Hand_geometry",
+        "name": "clever-mango",
+        "tm_pub_key": "aeuzIgSaLHZJADSdp+JYUONnCga0DlMH8qxR6lWf/5I=",
+        "vega_pub_key": "ee79e488c278294f4ce0658598130d2d8342fb98c0027455e43ca9c9754b06de",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402121729",
+  "chain_id": "vega-devnet1-202402130010",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-12T17:29:38.778326961Z",
+  "genesis_time": "2024-02-13T00:10:23.288041159Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "E319CA73901E2DAF2CA58C519A8BDF0D53FDF633",
-      "name": "costly-train",
+      "address": "56819E72EB22D348D46F33E3F5F9996CBDDEA803",
+      "name": "clever-mango",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "0EvzpC1+0SYD5yKbgIgerWlDk3AbHmIWOkQ6vO8PZGg="
+        "value": "aeuzIgSaLHZJADSdp+JYUONnCga0DlMH8qxR6lWf/5I="
       }
     }
   ]
