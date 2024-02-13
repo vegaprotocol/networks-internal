@@ -271,6 +271,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "/4crQMj2abQkH9RrcT+CdewjxAZMDNsUs2HbF7o/kpQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/63kojwo8b9718f6yly956n6i1eica8bu?d=identicon",
+        "country": "KJ",
+        "ethereum_address": "0xF2d6518960d17AfE3d13126c9a767A9f69189D09",
+        "id": "9d90f3e750d43c632ea71a277fdcc1d0ab4baa4523f0bb766155025b438ef3cb",
+        "info_url": "https://en.wikipedia.org/wiki/Astra_600",
+        "name": "zippy-building",
+        "tm_pub_key": "/4crQMj2abQkH9RrcT+CdewjxAZMDNsUs2HbF7o/kpQ=",
+        "vega_pub_key": "727f93c662fcc66f52ab5c68096f668e2abe76cc0925202a4bd086f13301dd37",
+        "vega_pub_key_index": 1
+      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -304,17 +315,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "CBOc6F+QtuFZokcHqZ962ngKoJk0XxBAbWweewBlJ6s=": {
-        "avatar_url": "https://www.gravatar.com/avatar/in6xd6xhiy5y4f88iba5qen9dov1vm9m?d=identicon",
-        "country": "NF",
-        "ethereum_address": "0x2eB2f2d760232FAade2650E1aCd886880ec7CaEf",
-        "id": "92ae2918a9250bccb434be83e54609e42c642962ed9f961bf770d526eac15908",
-        "info_url": "https://en.wikipedia.org/wiki/Dali_railway_station_(Shaanxi)",
-        "name": "inexpensive-roof",
-        "tm_pub_key": "CBOc6F+QtuFZokcHqZ962ngKoJk0XxBAbWweewBlJ6s=",
-        "vega_pub_key": "ccb046a1235f96655d2d2445c25e820d5a88cad38e267179c147cc6a73fd4abc",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202402131433",
+  "chain_id": "vega-devnet1-202402131532",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-13T14:33:45.659547057Z",
+  "genesis_time": "2024-02-13T15:32:31.629550696Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "40DBC0549B01C1CE064D98A0C123A8867612246F",
-      "name": "inexpensive-roof",
+      "address": "0224264B12972CD14456CA04F9C0D6556654C663",
+      "name": "zippy-building",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "CBOc6F+QtuFZokcHqZ962ngKoJk0XxBAbWweewBlJ6s="
+        "value": "/4crQMj2abQkH9RrcT+CdewjxAZMDNsUs2HbF7o/kpQ="
       }
     }
   ]
