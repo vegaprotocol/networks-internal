@@ -271,6 +271,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "3i8UShr1UCKoFt7F7jZt7mg8YxSlnB3trFOlIqKnKnw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/0zclblyygp3xrjclqxo0rnndfcb1upli?d=identicon",
+        "country": "OT",
+        "ethereum_address": "0xC31168aF80F4d3708a7fa1FF94d72C4c922216ed",
+        "id": "202bbb50f2a4012941d192494d5beb3869d229cac31dcf3f4a7f164f9cdc5fd5",
+        "info_url": "https://en.wikipedia.org/wiki/Canoe_sprint_at_the_2023_European_Games_%E2%80%93_Men%27s_K-1_500_metres",
+        "name": "gifted-milk",
+        "tm_pub_key": "3i8UShr1UCKoFt7F7jZt7mg8YxSlnB3trFOlIqKnKnw=",
+        "vega_pub_key": "2668ded7f88e2dd304bc14d4deac6e17b6b2aadcd016801b32b97de7f3061272",
+        "vega_pub_key_index": 1
+      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -314,21 +325,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "t+Gz1sLTOulsLvVu3PswZWU3d1J5m5vz9TeEUnQGvcE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/9z63ie176pk7dknekfr1bjg827zv4wei?d=identicon",
-        "country": "DT",
-        "ethereum_address": "0x5289FA13A34F561bee89076aFE9fc5ed3F739944",
-        "id": "47cde5de8e1c9a0b8c84a1b18d70d496aba990f966a18855a84dfe725e21e6b1",
-        "info_url": "https://en.wikipedia.org/wiki/Taenaris_artemis",
-        "name": "harebrained-pickle",
-        "tm_pub_key": "t+Gz1sLTOulsLvVu3PswZWU3d1J5m5vz9TeEUnQGvcE=",
-        "vega_pub_key": "1005649475cbe0b883a14c8798ed1035c70bfd9c8428ee71480739bb6c08bc78",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402131110",
+  "chain_id": "vega-devnet1-202402131303",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-13T11:10:47.684097535Z",
+  "genesis_time": "2024-02-13T13:03:55.881850171Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "223451BD927F172B36E8797B88E203564AA651CA",
-      "name": "harebrained-pickle",
+      "address": "4D2D50103F30AE9A6F77BBE775566B5B218D8D53",
+      "name": "gifted-milk",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "t+Gz1sLTOulsLvVu3PswZWU3d1J5m5vz9TeEUnQGvcE="
+        "value": "3i8UShr1UCKoFt7F7jZt7mg8YxSlnB3trFOlIqKnKnw="
       }
     }
   ]
