@@ -1914,8 +1914,8 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         inventory_lower_boundary = -3
         inventory_upper_boundary = 3
         fee_amount = 0.0001
-        commitment_amount = 150000
-        initial_mint = 200000
+        commitment_amount = 5
+        initial_mint = 5
     [scenario.mainnet_simulation_snxustd.auction_trader_args]
         traders = 2
         initial_volume = 1
