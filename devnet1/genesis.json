@@ -315,20 +315,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "aeuzIgSaLHZJADSdp+JYUONnCga0DlMH8qxR6lWf/5I=": {
-        "avatar_url": "https://www.gravatar.com/avatar/metzq0upd0cfkjqf2olrxx6rgh73wc3c?d=identicon",
-        "country": "KU",
-        "ethereum_address": "0xBac55a2A0542Cd95228D54cDefFAf8E46476321A",
-        "id": "a2a95ef9d57fb18edc32a072860f782587e47e96a461bf0a380990abe80c3438",
-        "info_url": "https://en.wikipedia.org/wiki/Hand_geometry",
-        "name": "clever-mango",
-        "tm_pub_key": "aeuzIgSaLHZJADSdp+JYUONnCga0DlMH8qxR6lWf/5I=",
-        "vega_pub_key": "ee79e488c278294f4ce0658598130d2d8342fb98c0027455e43ca9c9754b06de",
+      "t+Gz1sLTOulsLvVu3PswZWU3d1J5m5vz9TeEUnQGvcE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/9z63ie176pk7dknekfr1bjg827zv4wei?d=identicon",
+        "country": "DT",
+        "ethereum_address": "0x5289FA13A34F561bee89076aFE9fc5ed3F739944",
+        "id": "47cde5de8e1c9a0b8c84a1b18d70d496aba990f966a18855a84dfe725e21e6b1",
+        "info_url": "https://en.wikipedia.org/wiki/Taenaris_artemis",
+        "name": "harebrained-pickle",
+        "tm_pub_key": "t+Gz1sLTOulsLvVu3PswZWU3d1J5m5vz9TeEUnQGvcE=",
+        "vega_pub_key": "1005649475cbe0b883a14c8798ed1035c70bfd9c8428ee71480739bb6c08bc78",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402130010",
+  "chain_id": "vega-devnet1-202402131110",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-13T00:10:23.288041159Z",
+  "genesis_time": "2024-02-13T11:10:47.684097535Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "56819E72EB22D348D46F33E3F5F9996CBDDEA803",
-      "name": "clever-mango",
+      "address": "223451BD927F172B36E8797B88E203564AA651CA",
+      "name": "harebrained-pickle",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "aeuzIgSaLHZJADSdp+JYUONnCga0DlMH8qxR6lWf/5I="
+        "value": "t+Gz1sLTOulsLvVu3PswZWU3d1J5m5vz9TeEUnQGvcE="
       }
     }
   ]
