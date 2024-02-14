@@ -304,6 +304,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "EDylyn0coG/+4u9FJep2dXp9RMG2B/J4e6EClFyMwLM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/der71oexvqs5za61mglq4d5miazbubd1?d=identicon",
+        "country": "UW",
+        "ethereum_address": "0x55Ccd0d7E965cC4D7F92E263dA62919d39A2d9c4",
+        "id": "f4b5ab7e68b90e865a8b4c8d33db27550a7f070c2d9bacf5f72960bd47cdc0ea",
+        "info_url": "https://en.wikipedia.org/wiki/Jerry_Korab",
+        "name": "yummy-shoe",
+        "tm_pub_key": "EDylyn0coG/+4u9FJep2dXp9RMG2B/J4e6EClFyMwLM=",
+        "vega_pub_key": "aeecc35ee4ca13054d4e4ef805ff0fc9d54990c78dacfe87610fd1dc1831592a",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -314,21 +325,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "hQI+Uc+9RzqPu9bo7Wstzg/tLgJR5Ky6kwJ11H2ORnM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/7dr0zscq9onduy3t23gfididfdwx5epw?d=identicon",
-        "country": "KN",
-        "ethereum_address": "0x610afF230b510df8Fb9133F1dB4eB8d43a7F45D0",
-        "id": "095a5c29f685de645919094e943ac803576b3cc94c2ffc1fce1bb9d56a5a8b48",
-        "info_url": "https://en.wikipedia.org/wiki/Cora_Goffin",
-        "name": "blue-tile",
-        "tm_pub_key": "hQI+Uc+9RzqPu9bo7Wstzg/tLgJR5Ky6kwJ11H2ORnM=",
-        "vega_pub_key": "94439757bd26cd2eb363097bd87a4a9eb61725ff5f89997f139e3dcc3514c5ee",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402141151",
+  "chain_id": "vega-devnet1-202402141418",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-14T11:51:39.267070486Z",
+  "genesis_time": "2024-02-14T14:18:21.14032688Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "FDB792C5B1751857B9B274B2108B2FA1945BEC8E",
-      "name": "blue-tile",
+      "address": "79DE618FA56ABE3E5C31B9C5BE5ADB845B13413F",
+      "name": "yummy-shoe",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "hQI+Uc+9RzqPu9bo7Wstzg/tLgJR5Ky6kwJ11H2ORnM="
+        "value": "EDylyn0coG/+4u9FJep2dXp9RMG2B/J4e6EClFyMwLM="
       }
     }
   ]
