@@ -282,6 +282,17 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
+      "6pgfifUwYcx+5NJw4luxKkJANKX0t4Y9yG1lEg00fu4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/uuyt8krdvxvijp1xwlnaghrsy1r4b1ef?d=identicon",
+        "country": "PG",
+        "ethereum_address": "0x33F50A0B4e99a6ce819D7cfc0C5726b20cA26b1C",
+        "id": "77aae204a08abbb57efb7dad0050171578e99acafc8d5b2622afa688f3b354f6",
+        "info_url": "https://en.wikipedia.org/wiki/Prntly",
+        "name": "irate-pool",
+        "tm_pub_key": "6pgfifUwYcx+5NJw4luxKkJANKX0t4Y9yG1lEg00fu4=",
+        "vega_pub_key": "3012faae6d162d197ac21e53ddea9a3fdf4b997c245b9fe48c17b8258e5c9975",
+        "vega_pub_key_index": 1
+      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -304,17 +315,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "Fchv4zBc/HC+VZrspx+NGOxNAtSEDLE/qoIncFZ7EEk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/gce2ykj8xp4q3vzznb8pmh6m4j40xd4l?d=identicon",
-        "country": "LH",
-        "ethereum_address": "0x375fC1cE4D83F6Fcb86D00E5891eD53270B8FB0E",
-        "id": "cf1ebda60ff876814fdd0738cffe502ce1395b9e5f89a3e7f6659936aee6c54e",
-        "info_url": "https://en.wikipedia.org/wiki/Red_Rag",
-        "name": "happy-phone",
-        "tm_pub_key": "Fchv4zBc/HC+VZrspx+NGOxNAtSEDLE/qoIncFZ7EEk=",
-        "vega_pub_key": "7735efc93f2369de8b73ba750cb64a085df75e552042cb29a1cc0bcbc2500434",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202402140744",
+  "chain_id": "vega-devnet1-202402140910",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-14T07:44:00.870651459Z",
+  "genesis_time": "2024-02-14T09:10:24.230822137Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "F46DAE7DE51E748108D23330520A0D76B2A89210",
-      "name": "happy-phone",
+      "address": "39036475AA842CA63D9808CFCDB37EAC5D0B1CE4",
+      "name": "irate-pool",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Fchv4zBc/HC+VZrspx+NGOxNAtSEDLE/qoIncFZ7EEk="
+        "value": "6pgfifUwYcx+5NJw4luxKkJANKX0t4Y9yG1lEg00fu4="
       }
     }
   ]
