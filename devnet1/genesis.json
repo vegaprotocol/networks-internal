@@ -304,15 +304,15 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "EDylyn0coG/+4u9FJep2dXp9RMG2B/J4e6EClFyMwLM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/der71oexvqs5za61mglq4d5miazbubd1?d=identicon",
-        "country": "UW",
-        "ethereum_address": "0x55Ccd0d7E965cC4D7F92E263dA62919d39A2d9c4",
-        "id": "f4b5ab7e68b90e865a8b4c8d33db27550a7f070c2d9bacf5f72960bd47cdc0ea",
-        "info_url": "https://en.wikipedia.org/wiki/Jerry_Korab",
-        "name": "yummy-shoe",
-        "tm_pub_key": "EDylyn0coG/+4u9FJep2dXp9RMG2B/J4e6EClFyMwLM=",
-        "vega_pub_key": "aeecc35ee4ca13054d4e4ef805ff0fc9d54990c78dacfe87610fd1dc1831592a",
+      "L22uEhqulIBoPeqPgcCCwqY0F2PBQMXwNlcfSPgsRTs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/6gsso58k440jdxix22y6a5oqrwmb7pk2?d=identicon",
+        "country": "KL",
+        "ethereum_address": "0xf7D01f4C9f24a86749A8bE360D2452d025c86769",
+        "id": "564ef057ead374b7341c01d19163769e8533673f559eb947d9d6f69c665def40",
+        "info_url": "https://en.wikipedia.org/wiki/Abdul_Majid_Khan_Tarin",
+        "name": "confused-dog",
+        "tm_pub_key": "L22uEhqulIBoPeqPgcCCwqY0F2PBQMXwNlcfSPgsRTs=",
+        "vega_pub_key": "e8423d68b7c8effbdeb8b620dc293342b071522ce70149ccf36666001e1ce5db",
         "vega_pub_key_index": 1
       },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202402141418",
+  "chain_id": "vega-devnet1-202402141632",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-14T14:18:21.14032688Z",
+  "genesis_time": "2024-02-14T16:32:35.462097715Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "79DE618FA56ABE3E5C31B9C5BE5ADB845B13413F",
-      "name": "yummy-shoe",
+      "address": "DB428F598EFAC61B437968E9C9366F43FFED36DB",
+      "name": "confused-dog",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "EDylyn0coG/+4u9FJep2dXp9RMG2B/J4e6EClFyMwLM="
+        "value": "L22uEhqulIBoPeqPgcCCwqY0F2PBQMXwNlcfSPgsRTs="
       }
     }
   ]
