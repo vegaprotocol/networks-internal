@@ -282,17 +282,6 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
-      "7PMu+WBwoNuLDzxpIML6AfBrfgrs10OlgbfkIIUjioo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/by5kpr54pkn0e62m33mx0fvovg29flvg?d=identicon",
-        "country": "ZC",
-        "ethereum_address": "0xbB6f42cE8c474e41850Fb4dF20D904118841507D",
-        "id": "1d86a2bcea31604e0820c41f32ad9d38c05235cebcf649c9248888be37d2bb7d",
-        "info_url": "https://en.wikipedia.org/wiki/Stephen_Chow_(bishop)",
-        "name": "shy-bee",
-        "tm_pub_key": "7PMu+WBwoNuLDzxpIML6AfBrfgrs10OlgbfkIIUjioo=",
-        "vega_pub_key": "a528b5ecc3c3833e34108dfad2776156aa570bc653f7d129c00c386958febfab",
-        "vega_pub_key_index": 1
-      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -325,10 +314,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "hQI+Uc+9RzqPu9bo7Wstzg/tLgJR5Ky6kwJ11H2ORnM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/7dr0zscq9onduy3t23gfididfdwx5epw?d=identicon",
+        "country": "KN",
+        "ethereum_address": "0x610afF230b510df8Fb9133F1dB4eB8d43a7F45D0",
+        "id": "095a5c29f685de645919094e943ac803576b3cc94c2ffc1fce1bb9d56a5a8b48",
+        "info_url": "https://en.wikipedia.org/wiki/Cora_Goffin",
+        "name": "blue-tile",
+        "tm_pub_key": "hQI+Uc+9RzqPu9bo7Wstzg/tLgJR5Ky6kwJ11H2ORnM=",
+        "vega_pub_key": "94439757bd26cd2eb363097bd87a4a9eb61725ff5f89997f139e3dcc3514c5ee",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402141038",
+  "chain_id": "vega-devnet1-202402141151",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-14T10:38:47.519265687Z",
+  "genesis_time": "2024-02-14T11:51:39.267070486Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "FE3D71AA4F1D3823A8CF2E776D2E3CE5B8879888",
-      "name": "shy-bee",
+      "address": "FDB792C5B1751857B9B274B2108B2FA1945BEC8E",
+      "name": "blue-tile",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "7PMu+WBwoNuLDzxpIML6AfBrfgrs10OlgbfkIIUjioo="
+        "value": "hQI+Uc+9RzqPu9bo7Wstzg/tLgJR5Ky6kwJ11H2ORnM="
       }
     }
   ]
