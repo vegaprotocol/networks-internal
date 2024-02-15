@@ -315,20 +315,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "aKsbsGxTFYqedzNbotBDE1v1Up6Q50yYhzSkGiEopNM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/1vvnz2eecc61ogzsqei5nwos5586dkd2?d=identicon",
-        "country": "SJ",
-        "ethereum_address": "0x6B93Ea17AEe1542078A58d5BA9FdE4F279dc8Bb1",
-        "id": "dd7995543b630179b20fed20cdcc4a2ac2805b57fd6b5274e9b605893063a666",
-        "info_url": "https://en.wikipedia.org/wiki/Ariake_no_Wakare",
-        "name": "healthy-table",
-        "tm_pub_key": "aKsbsGxTFYqedzNbotBDE1v1Up6Q50yYhzSkGiEopNM=",
-        "vega_pub_key": "357cc521ba8f40f34447ca07f05a0ecb70e04bbe8940a3fbf678cedfd3212ff1",
+      "aOdqqC1acveUehc9DuPvE3uEJ0ZL56+c/iEok1nG67g=": {
+        "avatar_url": "https://www.gravatar.com/avatar/4z2754j10pkn46q6a599xcr1ltoq8736?d=identicon",
+        "country": "HY",
+        "ethereum_address": "0x5D924f562ce0e0C2d6c0Ef6130BD6f56741710bf",
+        "id": "017e3091bcbcd24086c671762ffbe43acb2f9277a054c50798fa1025d7da7b83",
+        "info_url": "https://en.wikipedia.org/wiki/G%C3%A9rson_Magr%C3%A3o",
+        "name": "exuberant-baby",
+        "tm_pub_key": "aOdqqC1acveUehc9DuPvE3uEJ0ZL56+c/iEok1nG67g=",
+        "vega_pub_key": "4afe05d7801cf895848dc1d095db74bc52077938c7d2cd318e33e2d120d2ce19",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402151548",
+  "chain_id": "vega-devnet1-202402151612",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-15T15:48:46.963342157Z",
+  "genesis_time": "2024-02-15T16:12:41.686794568Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "9FDE9B675EB1475677B3FD36AB06B3BA22F90BAD",
-      "name": "healthy-table",
+      "address": "7549FA457317461995A9BCF0D0D40D24FF529734",
+      "name": "exuberant-baby",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "aKsbsGxTFYqedzNbotBDE1v1Up6Q50yYhzSkGiEopNM="
+        "value": "aOdqqC1acveUehc9DuPvE3uEJ0ZL56+c/iEok1nG67g="
       }
     }
   ]
