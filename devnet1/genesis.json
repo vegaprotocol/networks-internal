@@ -304,17 +304,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "MYVWhT9Tca5gihuNR575woY+nPgnMZLkrlqGQIxMxMg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/2eykleenin6eybri966cx45nzfvlldk0?d=identicon",
-        "country": "VR",
-        "ethereum_address": "0x502FBB64FFA89a458abCB61C9620d6221432f8F2",
-        "id": "f78ffb084a191ed11a892cb9a4ace70c0133922c9409e589f9534ea0f6156821",
-        "info_url": "https://en.wikipedia.org/wiki/Cuspidine",
-        "name": "clever-bat",
-        "tm_pub_key": "MYVWhT9Tca5gihuNR575woY+nPgnMZLkrlqGQIxMxMg=",
-        "vega_pub_key": "7a69672f8526f5dd9a3e3e447f503e576382f346879d75b91c07e29ce8ceb89e",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -325,10 +314,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "wdF7C6Ve82WBMW9y7oGtsHrzRsIRqLFsl0ax/47+yf8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/tvrovjjjxe7co0pmug7odzaj17szqtns?d=identicon",
+        "country": "NW",
+        "ethereum_address": "0x5eC0f87Cc7352457d27357859cD9A654D71849E9",
+        "id": "54d55f7d5d39e2c3533f8982afbd78d88d164e55c9948b3ba658301c2a3c10dd",
+        "info_url": "https://en.wikipedia.org/wiki/Alfred_Otto_Gross",
+        "name": "melodic-ball",
+        "tm_pub_key": "wdF7C6Ve82WBMW9y7oGtsHrzRsIRqLFsl0ax/47+yf8=",
+        "vega_pub_key": "f7384f1d9158dd87364b7aa1e177087ee50eff804229e8205fd809054cc842a6",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402151334",
+  "chain_id": "vega-devnet1-202402151431",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-15T13:34:34.970458179Z",
+  "genesis_time": "2024-02-15T14:31:07.403774554Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "B3065D17C39A6DCE7769734DDBD21B4A3AF4A50B",
-      "name": "clever-bat",
+      "address": "1EC4483AE28B419959F75CBC2096635315063580",
+      "name": "melodic-ball",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "MYVWhT9Tca5gihuNR575woY+nPgnMZLkrlqGQIxMxMg="
+        "value": "wdF7C6Ve82WBMW9y7oGtsHrzRsIRqLFsl0ax/47+yf8="
       }
     }
   ]
