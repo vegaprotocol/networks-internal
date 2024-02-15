@@ -304,6 +304,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "MYVWhT9Tca5gihuNR575woY+nPgnMZLkrlqGQIxMxMg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/2eykleenin6eybri966cx45nzfvlldk0?d=identicon",
+        "country": "VR",
+        "ethereum_address": "0x502FBB64FFA89a458abCB61C9620d6221432f8F2",
+        "id": "f78ffb084a191ed11a892cb9a4ace70c0133922c9409e589f9534ea0f6156821",
+        "info_url": "https://en.wikipedia.org/wiki/Cuspidine",
+        "name": "clever-bat",
+        "tm_pub_key": "MYVWhT9Tca5gihuNR575woY+nPgnMZLkrlqGQIxMxMg=",
+        "vega_pub_key": "7a69672f8526f5dd9a3e3e447f503e576382f346879d75b91c07e29ce8ceb89e",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -314,21 +325,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "tphsN5AXKle8dAHFkllUlepzkqAf1cxvOmwYWrlp7U0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/3mhxxfs9fkh9ivkyai145y5f1yfwb7ft?d=identicon",
-        "country": "IQ",
-        "ethereum_address": "0x8966069eB2F7Ea41bF954545aF2123788055c3Bf",
-        "id": "d272ad4d9747e365b026ab0382da854113010835ebaa07ae58c2fda8ab1c1ee0",
-        "info_url": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Corso",
-        "name": "ugly-toy",
-        "tm_pub_key": "tphsN5AXKle8dAHFkllUlepzkqAf1cxvOmwYWrlp7U0=",
-        "vega_pub_key": "f81cd43760b44c05f589ce6d5a7e53b8ded6c9b574b13ada62cd87fd95a0f065",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402151234",
+  "chain_id": "vega-devnet1-202402151334",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-15T12:34:02.622966436Z",
+  "genesis_time": "2024-02-15T13:34:34.970458179Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "3CDDAD05B46FBAD235F01F25F9086C8A65310E48",
-      "name": "ugly-toy",
+      "address": "B3065D17C39A6DCE7769734DDBD21B4A3AF4A50B",
+      "name": "clever-bat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "tphsN5AXKle8dAHFkllUlepzkqAf1cxvOmwYWrlp7U0="
+        "value": "MYVWhT9Tca5gihuNR575woY+nPgnMZLkrlqGQIxMxMg="
       }
     }
   ]
