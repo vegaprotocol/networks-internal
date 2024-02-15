@@ -315,20 +315,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "RD8NsOliqWqbklDwj2CxOreg4GBNWQubFNXLc1OvY/w=": {
-        "avatar_url": "https://www.gravatar.com/avatar/rr5mebspqvpnrcjtuy3y634tmr610tvk?d=identicon",
-        "country": "YS",
-        "ethereum_address": "0x86a10e2B5976CC8e8DB4B80B32BfE61E39Ed3EE0",
-        "id": "17504bcfa46010dca716f0eaa16b10f3e85f613a5181ed434447829d07a46390",
-        "info_url": "https://en.wikipedia.org/wiki/Restrepo_(name)",
-        "name": "unsightly-pickle",
-        "tm_pub_key": "RD8NsOliqWqbklDwj2CxOreg4GBNWQubFNXLc1OvY/w=",
-        "vega_pub_key": "974ec3c914b394057d647c6c1697607231d2a9773b8fdc0f2b59165b3b5c681b",
+      "tphsN5AXKle8dAHFkllUlepzkqAf1cxvOmwYWrlp7U0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/3mhxxfs9fkh9ivkyai145y5f1yfwb7ft?d=identicon",
+        "country": "IQ",
+        "ethereum_address": "0x8966069eB2F7Ea41bF954545aF2123788055c3Bf",
+        "id": "d272ad4d9747e365b026ab0382da854113010835ebaa07ae58c2fda8ab1c1ee0",
+        "info_url": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Corso",
+        "name": "ugly-toy",
+        "tm_pub_key": "tphsN5AXKle8dAHFkllUlepzkqAf1cxvOmwYWrlp7U0=",
+        "vega_pub_key": "f81cd43760b44c05f589ce6d5a7e53b8ded6c9b574b13ada62cd87fd95a0f065",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402141738",
+  "chain_id": "vega-devnet1-202402151234",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-14T17:38:23.019564923Z",
+  "genesis_time": "2024-02-15T12:34:02.622966436Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "1B1C63D376BE2519F87138C30F946296F7E0593F",
-      "name": "unsightly-pickle",
+      "address": "3CDDAD05B46FBAD235F01F25F9086C8A65310E48",
+      "name": "ugly-toy",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "RD8NsOliqWqbklDwj2CxOreg4GBNWQubFNXLc1OvY/w="
+        "value": "tphsN5AXKle8dAHFkllUlepzkqAf1cxvOmwYWrlp7U0="
       }
     }
   ]
