@@ -315,20 +315,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "wdF7C6Ve82WBMW9y7oGtsHrzRsIRqLFsl0ax/47+yf8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/tvrovjjjxe7co0pmug7odzaj17szqtns?d=identicon",
-        "country": "NW",
-        "ethereum_address": "0x5eC0f87Cc7352457d27357859cD9A654D71849E9",
-        "id": "54d55f7d5d39e2c3533f8982afbd78d88d164e55c9948b3ba658301c2a3c10dd",
-        "info_url": "https://en.wikipedia.org/wiki/Alfred_Otto_Gross",
-        "name": "melodic-ball",
-        "tm_pub_key": "wdF7C6Ve82WBMW9y7oGtsHrzRsIRqLFsl0ax/47+yf8=",
-        "vega_pub_key": "f7384f1d9158dd87364b7aa1e177087ee50eff804229e8205fd809054cc842a6",
+      "aKsbsGxTFYqedzNbotBDE1v1Up6Q50yYhzSkGiEopNM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/1vvnz2eecc61ogzsqei5nwos5586dkd2?d=identicon",
+        "country": "SJ",
+        "ethereum_address": "0x6B93Ea17AEe1542078A58d5BA9FdE4F279dc8Bb1",
+        "id": "dd7995543b630179b20fed20cdcc4a2ac2805b57fd6b5274e9b605893063a666",
+        "info_url": "https://en.wikipedia.org/wiki/Ariake_no_Wakare",
+        "name": "healthy-table",
+        "tm_pub_key": "aKsbsGxTFYqedzNbotBDE1v1Up6Q50yYhzSkGiEopNM=",
+        "vega_pub_key": "357cc521ba8f40f34447ca07f05a0ecb70e04bbe8940a3fbf678cedfd3212ff1",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402151431",
+  "chain_id": "vega-devnet1-202402151548",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-15T14:31:07.403774554Z",
+  "genesis_time": "2024-02-15T15:48:46.963342157Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "1EC4483AE28B419959F75CBC2096635315063580",
-      "name": "melodic-ball",
+      "address": "9FDE9B675EB1475677B3FD36AB06B3BA22F90BAD",
+      "name": "healthy-table",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "wdF7C6Ve82WBMW9y7oGtsHrzRsIRqLFsl0ax/47+yf8="
+        "value": "aKsbsGxTFYqedzNbotBDE1v1Up6Q50yYhzSkGiEopNM="
       }
     }
   ]
