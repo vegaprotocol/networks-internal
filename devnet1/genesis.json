@@ -315,20 +315,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "lllyMyHa2u/iXkRbfaSzspAdqvTWCE/pO3ZS0AQJtiI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/crjaftj35ko3x6a92z8oslt238wba7h7?d=identicon",
-        "country": "UW",
-        "ethereum_address": "0xbD0576Cd0e211c360178b4d20c8eCC543C20DD53",
-        "id": "e7931922af21c3647aa63c6c329d6971880d905f3ce20fbd3e864bf77e05c94f",
-        "info_url": "https://en.wikipedia.org/wiki/Indian_locomotive_class_WDP-3A",
-        "name": "impressionable-roof",
-        "tm_pub_key": "lllyMyHa2u/iXkRbfaSzspAdqvTWCE/pO3ZS0AQJtiI=",
-        "vega_pub_key": "14caae6f5446c28473e035f64ee5cd4f68813ef07911d4a392ebf24fa7866b75",
+      "v/xg72ZnJ9X0QkjDkkIYfCD1z99lIauhU7FeDA+VswI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/rnatj15oxx83z4rx5862c1pr28hs90kg?d=identicon",
+        "country": "PE",
+        "ethereum_address": "0x8fC6C164C9b6B282d8F19d87854B57e5fB19E137",
+        "id": "6b730ed69579bebf5f6e5f5dd532a286f3940435f8b2f0049179e34f6e8842c2",
+        "info_url": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Chachapoyas",
+        "name": "fuzzy-bat",
+        "tm_pub_key": "v/xg72ZnJ9X0QkjDkkIYfCD1z99lIauhU7FeDA+VswI=",
+        "vega_pub_key": "57b7fb110e31f06acbea2e456bba4e96202fb3ff61d01c5ec5745c3bdc521979",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402151810",
+  "chain_id": "vega-devnet1-202402161050",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-15T18:10:24.013529856Z",
+  "genesis_time": "2024-02-16T10:50:44.314838388Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "F75D7DCCDCC646625EC42A3F6105513654A22F9C",
-      "name": "impressionable-roof",
+      "address": "42BEB3A81B64B96E8597EF9CD158FDB11FFF7DF2",
+      "name": "fuzzy-bat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "lllyMyHa2u/iXkRbfaSzspAdqvTWCE/pO3ZS0AQJtiI="
+        "value": "v/xg72ZnJ9X0QkjDkkIYfCD1z99lIauhU7FeDA+VswI="
       }
     }
   ]
