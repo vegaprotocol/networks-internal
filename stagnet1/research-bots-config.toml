@@ -2041,7 +2041,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         market_kappa = 9.15
         market_order_arrival_rate = 100
         order_kappa = 0.15
-        order_size = 0
+        order_size = 1
         order_levels = 25
         order_spacing = 1
         order_clipping = 10000
@@ -2049,7 +2049,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         inventory_upper_boundary = 3
         fee_amount = 0.0001
         commitment_amount = 0
-        initial_mint = 0
+        initial_mint = 600000
     [scenario.mainnet_simulation_ethustd.auction_trader_args]
         initial_volume = 0.001
         initial_mint = 10000
