@@ -1321,7 +1321,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 
 [scenario.incentive_btcusdt_2024_02_13]
-    market_name = "BTCUSDT Pyth Perp TeamWork"
+    market_name = "BTCUSDT Pyth Perp NOI Incentive"
     binance_code = "BTCUSDT"
     step_length_seconds = 30
     [scenario.incentive_btcusdt_2024_02_13.market_manager_args]
