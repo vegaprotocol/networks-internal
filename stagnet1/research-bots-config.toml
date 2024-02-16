@@ -2028,43 +2028,43 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         start_date = "2022-11-01 00:00:00"
         randomise_history = false
 
-[scenario.mainnet_simulation_ethustd]
-    market_name = "Ether / Tether USD (Perpetual)"
-    binance_code = "ETHUSDT"
-    step_length_seconds = 16
-    [scenario.mainnet_simulation_ethustd.market_manager_args]
-        asset_name = "tUSDC"
-        adp = 6
-        mdp = 2
-        pdp = 3
-    [scenario.mainnet_simulation_ethustd.market_maker_args]
-        market_kappa = 9.15
-        market_order_arrival_rate = 100
-        order_kappa = 0.15
-        order_size = 1
-        order_levels = 25
-        order_spacing = 1
-        order_clipping = 10000
-        inventory_lower_boundary = -3
-        inventory_upper_boundary = 3
-        fee_amount = 0.0001
-        commitment_amount = 0
-        initial_mint = 600000
-    [scenario.mainnet_simulation_ethustd.auction_trader_args]
-        initial_volume = 0.001
-        initial_mint = 10000
-    [scenario.mainnet_simulation_ethustd.random_trader_args]
-        order_intensity = [45, 45, 45]
-        order_volume = [0.01, 0.1, 1.0]
-        step_bias = [0.333, 0.012, 0.003]
-        initial_mint = 1000000
-    [scenario.mainnet_simulation_ethustd.sensitive_trader_args]
-        scale = [10, 10, 10]
-        max_order_size = [0.001, 0.01, 0.1]
-        initial_mint = 10000
-    [scenario.mainnet_simulation_ethustd.simulation_args]
-        n_steps = -1
-        granularity = "MINUTE"
-        coinbase_code = "ETH-USDT"
-        start_date = "2022-11-01 00:00:00"
-        randomise_history = false
+# [scenario.mainnet_simulation_ethustd]
+#     market_name = "Ether / Tether USD (Perpetual)"
+#     binance_code = "ETHUSDT"
+#     step_length_seconds = 16
+#     [scenario.mainnet_simulation_ethustd.market_manager_args]
+#         asset_name = "tUSDC"
+#         adp = 6
+#         mdp = 2
+#         pdp = 3
+#     [scenario.mainnet_simulation_ethustd.market_maker_args]
+#         market_kappa = 9.15
+#         market_order_arrival_rate = 100
+#         order_kappa = 0.15
+#         order_size = 1
+#         order_levels = 25
+#         order_spacing = 1
+#         order_clipping = 10000
+#         inventory_lower_boundary = -3
+#         inventory_upper_boundary = 3
+#         fee_amount = 0.0001
+#         commitment_amount = 0
+#         initial_mint = 600000
+#     [scenario.mainnet_simulation_ethustd.auction_trader_args]
+#         initial_volume = 0.001
+#         initial_mint = 10000
+#     [scenario.mainnet_simulation_ethustd.random_trader_args]
+#         order_intensity = [45, 45, 45]
+#         order_volume = [0.01, 0.1, 1.0]
+#         step_bias = [0.333, 0.012, 0.003]
+#         initial_mint = 1000000
+#     [scenario.mainnet_simulation_ethustd.sensitive_trader_args]
+#         scale = [10, 10, 10]
+#         max_order_size = [0.001, 0.01, 0.1]
+#         initial_mint = 10000
+#     [scenario.mainnet_simulation_ethustd.simulation_args]
+#         n_steps = -1
+#         granularity = "MINUTE"
+#         coinbase_code = "ETH-USDT"
+#         start_date = "2022-11-01 00:00:00"
+#         randomise_history = false
