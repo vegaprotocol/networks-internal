@@ -315,20 +315,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "v/xg72ZnJ9X0QkjDkkIYfCD1z99lIauhU7FeDA+VswI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/rnatj15oxx83z4rx5862c1pr28hs90kg?d=identicon",
-        "country": "PE",
-        "ethereum_address": "0x8fC6C164C9b6B282d8F19d87854B57e5fB19E137",
-        "id": "6b730ed69579bebf5f6e5f5dd532a286f3940435f8b2f0049179e34f6e8842c2",
-        "info_url": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Chachapoyas",
-        "name": "fuzzy-bat",
-        "tm_pub_key": "v/xg72ZnJ9X0QkjDkkIYfCD1z99lIauhU7FeDA+VswI=",
-        "vega_pub_key": "57b7fb110e31f06acbea2e456bba4e96202fb3ff61d01c5ec5745c3bdc521979",
+      "nL1TxJzoNoAGvbBu310H2pSW/RALv53UTfOHO4vx10I=": {
+        "avatar_url": "https://www.gravatar.com/avatar/t4dkyipqg0az2q3zkzn4a0ooluezo5t1?d=identicon",
+        "country": "XY",
+        "ethereum_address": "0x48b752d143D60F58882D4Eb0a13a7f60989eB341",
+        "id": "7391a1977800355dbee08ceb771b5b1c31d851e14d947e565eb917f4284f07f6",
+        "info_url": "https://en.wikipedia.org/wiki/List_of_bridges_in_Brisbane",
+        "name": "happy-vacuum",
+        "tm_pub_key": "nL1TxJzoNoAGvbBu310H2pSW/RALv53UTfOHO4vx10I=",
+        "vega_pub_key": "648c8bffa9c5adc179b120aa9bc7c8e9cdbe90f0c885927ed3b748ea11c0875b",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402161135",
+  "chain_id": "vega-devnet1-202402161316",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-16T11:35:32.861238128Z",
+  "genesis_time": "2024-02-16T13:16:37.355929498Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "42BEB3A81B64B96E8597EF9CD158FDB11FFF7DF2",
-      "name": "fuzzy-bat",
+      "address": "F1EB3ECE3239F5C9F56D129A9E3F5C7DF392CCA8",
+      "name": "happy-vacuum",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "v/xg72ZnJ9X0QkjDkkIYfCD1z99lIauhU7FeDA+VswI="
+        "value": "nL1TxJzoNoAGvbBu310H2pSW/RALv53UTfOHO4vx10I="
       }
     }
   ]
