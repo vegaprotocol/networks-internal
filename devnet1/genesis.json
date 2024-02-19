@@ -282,6 +282,17 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
+      "6fLot2IRMVEXJvKSCvgZlo6Ufhwt1rOaF1Jo4p3sGHc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/23dh8tw3x0p8gw2i1lcl5lcq26uip8lg?d=identicon",
+        "country": "NZ",
+        "ethereum_address": "0x6C8E2285c4f1471c5cF00653aC5d9F86DaC47082",
+        "id": "92efb083dca986e195976c54eb2c416bed9fbb7e03566daadddacafdd87e9d72",
+        "info_url": "https://en.wikipedia.org/wiki/Adam_Warren_bibliography",
+        "name": "hollow-tree",
+        "tm_pub_key": "6fLot2IRMVEXJvKSCvgZlo6Ufhwt1rOaF1Jo4p3sGHc=",
+        "vega_pub_key": "52df0ed719e45a9f5c72a00950db7eff3516964ad8624405eca89fe1860e10cd",
+        "vega_pub_key_index": 1
+      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -314,21 +325,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "vwJDesUj8PX6PfADqqjj0T3o4+Hb7x0M2gL8Uo0TsGk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/61af1lpvepv9l9mcg5nhe616gp3yw2b7?d=identicon",
-        "country": "OO",
-        "ethereum_address": "0xa4003d50f183270fA4bd6dE076fF85a48A5033c6",
-        "id": "2e7c8e2ee2084fd683dc83774ae2ea4e1d199c40a50a120894e5557275c368b8",
-        "info_url": "https://en.wikipedia.org/wiki/Bengali_language_movement",
-        "name": "oppulent-music",
-        "tm_pub_key": "vwJDesUj8PX6PfADqqjj0T3o4+Hb7x0M2gL8Uo0TsGk=",
-        "vega_pub_key": "0b297f3c24f65a3bb0baf579f00f50b712229848cb19fb1e1410a03236a3cbe7",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402191252",
+  "chain_id": "vega-devnet1-202402191402",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-19T12:52:18.247012469Z",
+  "genesis_time": "2024-02-19T14:02:01.133315074Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "BFE367FFDEDF9BB4B6C6977CA68268E09233DA34",
-      "name": "oppulent-music",
+      "address": "72B1A01D0764E83775811E67EF1B4993312C5DEB",
+      "name": "hollow-tree",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "vwJDesUj8PX6PfADqqjj0T3o4+Hb7x0M2gL8Uo0TsGk="
+        "value": "6fLot2IRMVEXJvKSCvgZlo6Ufhwt1rOaF1Jo4p3sGHc="
       }
     }
   ]
