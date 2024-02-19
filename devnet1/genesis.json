@@ -315,20 +315,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "nL1TxJzoNoAGvbBu310H2pSW/RALv53UTfOHO4vx10I=": {
-        "avatar_url": "https://www.gravatar.com/avatar/t4dkyipqg0az2q3zkzn4a0ooluezo5t1?d=identicon",
-        "country": "XY",
-        "ethereum_address": "0x48b752d143D60F58882D4Eb0a13a7f60989eB341",
-        "id": "7391a1977800355dbee08ceb771b5b1c31d851e14d947e565eb917f4284f07f6",
-        "info_url": "https://en.wikipedia.org/wiki/List_of_bridges_in_Brisbane",
-        "name": "happy-vacuum",
-        "tm_pub_key": "nL1TxJzoNoAGvbBu310H2pSW/RALv53UTfOHO4vx10I=",
-        "vega_pub_key": "648c8bffa9c5adc179b120aa9bc7c8e9cdbe90f0c885927ed3b748ea11c0875b",
+      "nXSY4Ja7STGDdMSXX4UZRnC+UhxVKDbPbJwlVG6QwyA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/77c9pozs0f4meddae08mcjfl4eb1d4uy?d=identicon",
+        "country": "FG",
+        "ethereum_address": "0xDffb41BF9cc4F01E948EEb676847Ab006bE1C801",
+        "id": "2d997d9efe84a23072cda1b430ae5bd1e9e1409baae6b8f671f7e452dd32141b",
+        "info_url": "https://en.wikipedia.org/wiki/Surtees_TS11",
+        "name": "clean-window",
+        "tm_pub_key": "nXSY4Ja7STGDdMSXX4UZRnC+UhxVKDbPbJwlVG6QwyA=",
+        "vega_pub_key": "cbceb7b9bfda0f0b80b394933917c8cf586f6a77f17377316a83cea5becd7945",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402161316",
+  "chain_id": "vega-devnet1-202402191031",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-16T13:16:37.355929498Z",
+  "genesis_time": "2024-02-19T10:31:58.636093964Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "F1EB3ECE3239F5C9F56D129A9E3F5C7DF392CCA8",
-      "name": "happy-vacuum",
+      "address": "EFB40026BFEEBAC76E8F1AD6552E04429FF06991",
+      "name": "clean-window",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "nL1TxJzoNoAGvbBu310H2pSW/RALv53UTfOHO4vx10I="
+        "value": "nXSY4Ja7STGDdMSXX4UZRnC+UhxVKDbPbJwlVG6QwyA="
       }
     }
   ]
