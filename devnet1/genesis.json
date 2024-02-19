@@ -282,17 +282,6 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
-      "6fLot2IRMVEXJvKSCvgZlo6Ufhwt1rOaF1Jo4p3sGHc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/23dh8tw3x0p8gw2i1lcl5lcq26uip8lg?d=identicon",
-        "country": "NZ",
-        "ethereum_address": "0x6C8E2285c4f1471c5cF00653aC5d9F86DaC47082",
-        "id": "92efb083dca986e195976c54eb2c416bed9fbb7e03566daadddacafdd87e9d72",
-        "info_url": "https://en.wikipedia.org/wiki/Adam_Warren_bibliography",
-        "name": "hollow-tree",
-        "tm_pub_key": "6fLot2IRMVEXJvKSCvgZlo6Ufhwt1rOaF1Jo4p3sGHc=",
-        "vega_pub_key": "52df0ed719e45a9f5c72a00950db7eff3516964ad8624405eca89fe1860e10cd",
-        "vega_pub_key_index": 1
-      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -302,6 +291,17 @@
         "name": "crashing-wall",
         "tm_pub_key": "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=",
         "vega_pub_key": "cb152821443248b20a217abee89c1c8e595e07d47c537255d480761c88bc86d1",
+        "vega_pub_key_index": 1
+      },
+      "8Su3Z8WBHX+/hO24noj1GYvKADHaH9prlWDBzQvTqC0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/fte1xc1972l6xbvhozr6b4luga8d8uh6?d=identicon",
+        "country": "CS",
+        "ethereum_address": "0xC7AD1507b6E135f8D16d7E8DBb328Ec291bcc198",
+        "id": "8a6dba34dba215d32bd55c2993634213088d03e08ee197652e37f55846123000",
+        "info_url": "https://en.wikipedia.org/wiki/Jimmy_Greenhoff",
+        "name": "tricky-wall",
+        "tm_pub_key": "8Su3Z8WBHX+/hO24noj1GYvKADHaH9prlWDBzQvTqC0=",
+        "vega_pub_key": "91325dec88d2dd2560b2618440fb633ca45891f9d660553a27552164784effdc",
         "vega_pub_key_index": 1
       },
       "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202402191402",
+  "chain_id": "vega-devnet1-202402191804",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-19T14:02:01.133315074Z",
+  "genesis_time": "2024-02-19T18:04:04.977143219Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "72B1A01D0764E83775811E67EF1B4993312C5DEB",
-      "name": "hollow-tree",
+      "address": "ABBC919485DC5F9B27C595450397647B49C60617",
+      "name": "tricky-wall",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "6fLot2IRMVEXJvKSCvgZlo6Ufhwt1rOaF1Jo4p3sGHc="
+        "value": "8Su3Z8WBHX+/hO24noj1GYvKADHaH9prlWDBzQvTqC0="
       }
     }
   ]
