@@ -293,17 +293,6 @@
         "vega_pub_key": "cb152821443248b20a217abee89c1c8e595e07d47c537255d480761c88bc86d1",
         "vega_pub_key_index": 1
       },
-      "8Su3Z8WBHX+/hO24noj1GYvKADHaH9prlWDBzQvTqC0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/fte1xc1972l6xbvhozr6b4luga8d8uh6?d=identicon",
-        "country": "CS",
-        "ethereum_address": "0xC7AD1507b6E135f8D16d7E8DBb328Ec291bcc198",
-        "id": "8a6dba34dba215d32bd55c2993634213088d03e08ee197652e37f55846123000",
-        "info_url": "https://en.wikipedia.org/wiki/Jimmy_Greenhoff",
-        "name": "tricky-wall",
-        "tm_pub_key": "8Su3Z8WBHX+/hO24noj1GYvKADHaH9prlWDBzQvTqC0=",
-        "vega_pub_key": "91325dec88d2dd2560b2618440fb633ca45891f9d660553a27552164784effdc",
-        "vega_pub_key_index": 1
-      },
       "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ=": {
         "avatar_url": "https://www.gravatar.com/avatar/6x0s5jsbbeeihso9yyhnh6hcop4fkxa1?d=identicon",
         "country": "ON",
@@ -313,6 +302,17 @@
         "name": "clever-doctor",
         "tm_pub_key": "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ=",
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
+        "vega_pub_key_index": 1
+      },
+      "BxgsM61DV6/ldKn+E29ulU01WSwV0rQQebXmknlkojw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/rzn5kx1i5irbluub256lcjldwt61vw9t?d=identicon",
+        "country": "BP",
+        "ethereum_address": "0xaa173D606ebBF588183409A867Ae54a6d01225aa",
+        "id": "95e7210e6b2d5af611f5fd7f6016da7da335d5cf7223a3849b7217a447bb94a2",
+        "info_url": "https://en.wikipedia.org/wiki/Ectyphinae",
+        "name": "impressionable-tree",
+        "tm_pub_key": "BxgsM61DV6/ldKn+E29ulU01WSwV0rQQebXmknlkojw=",
+        "vega_pub_key": "019485088b10fb7d4f100cb67926e2eb412c935d1d8848c899eaa17bd3a4644b",
         "vega_pub_key_index": 1
       },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202402191826",
+  "chain_id": "vega-devnet1-202402192138",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-19T18:26:16.406215097Z",
+  "genesis_time": "2024-02-19T21:38:20.580557639Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "ABBC919485DC5F9B27C595450397647B49C60617",
-      "name": "tricky-wall",
+      "address": "EB10A790FBE2E1EC53183B6D66F1C360ECC32B25",
+      "name": "impressionable-tree",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "8Su3Z8WBHX+/hO24noj1GYvKADHaH9prlWDBzQvTqC0="
+        "value": "BxgsM61DV6/ldKn+E29ulU01WSwV0rQQebXmknlkojw="
       }
     }
   ]
