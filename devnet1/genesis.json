@@ -304,17 +304,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "LmzQbC4b2Al8HLtAZFvr1PaHiTDNbvbF9GrfECyqaXw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/s3vjr1ee4bsvy0kfhv5icjivmhd41pap?d=identicon",
-        "country": "KD",
-        "ethereum_address": "0x650C7156B66419EA35cF05296Aca7D7DC4115F14",
-        "id": "b839655ec1fadaadb6b555b72ded4b73d3ba2da8bcc6c74749020045dff0a6e8",
-        "info_url": "https://en.wikipedia.org/wiki/Kavyamela",
-        "name": "scruffy-party",
-        "tm_pub_key": "LmzQbC4b2Al8HLtAZFvr1PaHiTDNbvbF9GrfECyqaXw=",
-        "vega_pub_key": "6f58415259ab94b794e768f5c99028aed3951bcf03115aac8ff837b0d03f02f1",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -325,10 +314,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "vwJDesUj8PX6PfADqqjj0T3o4+Hb7x0M2gL8Uo0TsGk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/61af1lpvepv9l9mcg5nhe616gp3yw2b7?d=identicon",
+        "country": "OO",
+        "ethereum_address": "0xa4003d50f183270fA4bd6dE076fF85a48A5033c6",
+        "id": "2e7c8e2ee2084fd683dc83774ae2ea4e1d199c40a50a120894e5557275c368b8",
+        "info_url": "https://en.wikipedia.org/wiki/Bengali_language_movement",
+        "name": "oppulent-music",
+        "tm_pub_key": "vwJDesUj8PX6PfADqqjj0T3o4+Hb7x0M2gL8Uo0TsGk=",
+        "vega_pub_key": "0b297f3c24f65a3bb0baf579f00f50b712229848cb19fb1e1410a03236a3cbe7",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402191149",
+  "chain_id": "vega-devnet1-202402191252",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-19T11:49:51.647048735Z",
+  "genesis_time": "2024-02-19T12:52:18.247012469Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "B9F9785571B9221FE7165E61D12C94D9F35D9B72",
-      "name": "scruffy-party",
+      "address": "BFE367FFDEDF9BB4B6C6977CA68268E09233DA34",
+      "name": "oppulent-music",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "LmzQbC4b2Al8HLtAZFvr1PaHiTDNbvbF9GrfECyqaXw="
+        "value": "vwJDesUj8PX6PfADqqjj0T3o4+Hb7x0M2gL8Uo0TsGk="
       }
     }
   ]
