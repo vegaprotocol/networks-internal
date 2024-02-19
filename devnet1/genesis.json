@@ -304,6 +304,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "LmzQbC4b2Al8HLtAZFvr1PaHiTDNbvbF9GrfECyqaXw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/s3vjr1ee4bsvy0kfhv5icjivmhd41pap?d=identicon",
+        "country": "KD",
+        "ethereum_address": "0x650C7156B66419EA35cF05296Aca7D7DC4115F14",
+        "id": "b839655ec1fadaadb6b555b72ded4b73d3ba2da8bcc6c74749020045dff0a6e8",
+        "info_url": "https://en.wikipedia.org/wiki/Kavyamela",
+        "name": "scruffy-party",
+        "tm_pub_key": "LmzQbC4b2Al8HLtAZFvr1PaHiTDNbvbF9GrfECyqaXw=",
+        "vega_pub_key": "6f58415259ab94b794e768f5c99028aed3951bcf03115aac8ff837b0d03f02f1",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -314,21 +325,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "nXSY4Ja7STGDdMSXX4UZRnC+UhxVKDbPbJwlVG6QwyA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/77c9pozs0f4meddae08mcjfl4eb1d4uy?d=identicon",
-        "country": "FG",
-        "ethereum_address": "0xDffb41BF9cc4F01E948EEb676847Ab006bE1C801",
-        "id": "2d997d9efe84a23072cda1b430ae5bd1e9e1409baae6b8f671f7e452dd32141b",
-        "info_url": "https://en.wikipedia.org/wiki/Surtees_TS11",
-        "name": "clean-window",
-        "tm_pub_key": "nXSY4Ja7STGDdMSXX4UZRnC+UhxVKDbPbJwlVG6QwyA=",
-        "vega_pub_key": "cbceb7b9bfda0f0b80b394933917c8cf586f6a77f17377316a83cea5becd7945",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402191031",
+  "chain_id": "vega-devnet1-202402191149",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-19T10:31:58.636093964Z",
+  "genesis_time": "2024-02-19T11:49:51.647048735Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "EFB40026BFEEBAC76E8F1AD6552E04429FF06991",
-      "name": "clean-window",
+      "address": "B9F9785571B9221FE7165E61D12C94D9F35D9B72",
+      "name": "scruffy-party",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "nXSY4Ja7STGDdMSXX4UZRnC+UhxVKDbPbJwlVG6QwyA="
+        "value": "LmzQbC4b2Al8HLtAZFvr1PaHiTDNbvbF9GrfECyqaXw="
       }
     }
   ]
