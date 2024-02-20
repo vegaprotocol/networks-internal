@@ -271,6 +271,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "17KargJmNlmZWMGQPS1AQ67RdNJs57z5d4q30yNFPTQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/psw4z15rxwvdih4fid0hlhfk9nul3mx0?d=identicon",
+        "country": "BZ",
+        "ethereum_address": "0x1eF964e6aA1efe4309DED7197881794537AACca9",
+        "id": "c3b3857908e24c8a69df1792726a90ee1ec82a87ee3f3b5e197d6b90f83077cb",
+        "info_url": "https://en.wikipedia.org/wiki/North_Carolina_Highway_153",
+        "name": "tender-hill",
+        "tm_pub_key": "17KargJmNlmZWMGQPS1AQ67RdNJs57z5d4q30yNFPTQ=",
+        "vega_pub_key": "0acd4ed57054dc543ab55d4a1de1eb2f7e0debaaa7ce979ab412adf874dd7fa9",
+        "vega_pub_key_index": 1
+      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -314,21 +325,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "lqPhP/P1W/K+cznHtBNe3SYVGHjd0NFMDnT/QjHTdI0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/yd6abzx300a7s6s7lbs50tmqg9j0v3zy?d=identicon",
-        "country": "AQ",
-        "ethereum_address": "0x79Ee356cBB61ec89fA4Ac8D1cFb0396C73b89593",
-        "id": "bef6e5e9a9dc8aa0f2c1867e3a6822775a0f141362b7e665b73cde6249967bf6",
-        "info_url": "https://en.wikipedia.org/wiki/Malbosc",
-        "name": "rhythmic-tree",
-        "tm_pub_key": "lqPhP/P1W/K+cznHtBNe3SYVGHjd0NFMDnT/QjHTdI0=",
-        "vega_pub_key": "bd77356f83badac9a9ab9a2381855ac9bf40fe25f80e534b3cef1e070e488a5c",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402200930",
+  "chain_id": "vega-devnet1-202402201123",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-20T09:30:18.837116817Z",
+  "genesis_time": "2024-02-20T11:23:22.648087456Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "38DF508B1D0462AFB2853ADFCE38AD5BDB311AA0",
-      "name": "rhythmic-tree",
+      "address": "7BDB3D1BCF636E3C6F72BA1A303EB5FB9003A164",
+      "name": "tender-hill",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "lqPhP/P1W/K+cznHtBNe3SYVGHjd0NFMDnT/QjHTdI0="
+        "value": "17KargJmNlmZWMGQPS1AQ67RdNJs57z5d4q30yNFPTQ="
       }
     }
   ]
