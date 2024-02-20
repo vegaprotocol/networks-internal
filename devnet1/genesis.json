@@ -304,15 +304,15 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "Jd9CTBpZSmJBMfOzVDC8z4Dk0yMtNH+2R8a7QietKwI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/7ufkniila0nukwe35gs6un02zf372byj?d=identicon",
-        "country": "ES",
-        "ethereum_address": "0xDe6FCd4a2cC5F405fB51ebDB74120373cC85EaD2",
-        "id": "d620db1abd737aa8636a284b1457b056c1b64fafd296283d4f083264eea5b622",
-        "info_url": "https://en.wikipedia.org/wiki/Meyer,_Illinois",
-        "name": "red-movie",
-        "tm_pub_key": "Jd9CTBpZSmJBMfOzVDC8z4Dk0yMtNH+2R8a7QietKwI=",
-        "vega_pub_key": "7a04bafb66c78807257d17105216d652530bca5baa4822158db360d59396205b",
+      "OAsPem86fXc9is7IcckcATqYDDrcsRvsdEAqoghO+OM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/wqm71c5k003m4z6o81ae5dtj3xj3m2gr?d=identicon",
+        "country": "EO",
+        "ethereum_address": "0x62F2968302aEdAcA0f2037502064eE4876df9331",
+        "id": "508b4dc40178b268fe695c3eaa7d627edd02a34788627199b1b5ed92c9e1ade0",
+        "info_url": "https://en.wikipedia.org/wiki/Batocera_migsominea",
+        "name": "brave-month",
+        "tm_pub_key": "OAsPem86fXc9is7IcckcATqYDDrcsRvsdEAqoghO+OM=",
+        "vega_pub_key": "513cc0691d45a6da03f5e5065e6be41ddb12a7fe3bbe1b3a89489d788fe20c06",
         "vega_pub_key_index": 1
       },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202402202146",
+  "chain_id": "vega-devnet1-202402202258",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-20T21:46:34.729901906Z",
+  "genesis_time": "2024-02-20T22:58:28.685640016Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "6B0555CB0963350A206548F048289BB2B8F2BC21",
-      "name": "red-movie",
+      "address": "4D799A84BDB6E8951FC381D234AD01C7F1E4C2CC",
+      "name": "brave-month",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Jd9CTBpZSmJBMfOzVDC8z4Dk0yMtNH+2R8a7QietKwI="
+        "value": "OAsPem86fXc9is7IcckcATqYDDrcsRvsdEAqoghO+OM="
       }
     }
   ]
