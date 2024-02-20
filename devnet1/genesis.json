@@ -304,15 +304,15 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "HXPMkSk5pnnNFamHOTvA+VIwmZ2OSxZYbj0AW1qlEls=": {
-        "avatar_url": "https://www.gravatar.com/avatar/93ppyc1j2d7qbkh7r4dbcpxmflupsdei?d=identicon",
-        "country": "PN",
-        "ethereum_address": "0xCB44Ac25F4e2B78f3D043e3b6805e9dfd4dFac5D",
-        "id": "e25c0ec873d7a961ce083d4a970a6846757966072f60749401355a90442b86a8",
-        "info_url": "https://en.wikipedia.org/wiki/Mike_Michalowicz",
-        "name": "lucky-hill",
-        "tm_pub_key": "HXPMkSk5pnnNFamHOTvA+VIwmZ2OSxZYbj0AW1qlEls=",
-        "vega_pub_key": "43d901afe9fdaf85fc3af7eab51d0549665dbaa41134c01a72ab4b08daeb2aab",
+      "Jd9CTBpZSmJBMfOzVDC8z4Dk0yMtNH+2R8a7QietKwI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/7ufkniila0nukwe35gs6un02zf372byj?d=identicon",
+        "country": "ES",
+        "ethereum_address": "0xDe6FCd4a2cC5F405fB51ebDB74120373cC85EaD2",
+        "id": "d620db1abd737aa8636a284b1457b056c1b64fafd296283d4f083264eea5b622",
+        "info_url": "https://en.wikipedia.org/wiki/Meyer,_Illinois",
+        "name": "red-movie",
+        "tm_pub_key": "Jd9CTBpZSmJBMfOzVDC8z4Dk0yMtNH+2R8a7QietKwI=",
+        "vega_pub_key": "7a04bafb66c78807257d17105216d652530bca5baa4822158db360d59396205b",
         "vega_pub_key_index": 1
       },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202402201201",
+  "chain_id": "vega-devnet1-202402202146",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-20T12:01:56.623918991Z",
+  "genesis_time": "2024-02-20T21:46:34.729901906Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "2E24F6D86394BDB6DE9385040B34C38253E2BB24",
-      "name": "lucky-hill",
+      "address": "6B0555CB0963350A206548F048289BB2B8F2BC21",
+      "name": "red-movie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "HXPMkSk5pnnNFamHOTvA+VIwmZ2OSxZYbj0AW1qlEls="
+        "value": "Jd9CTBpZSmJBMfOzVDC8z4Dk0yMtNH+2R8a7QietKwI="
       }
     }
   ]
