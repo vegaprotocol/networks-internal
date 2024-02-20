@@ -271,17 +271,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "17KargJmNlmZWMGQPS1AQ67RdNJs57z5d4q30yNFPTQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/psw4z15rxwvdih4fid0hlhfk9nul3mx0?d=identicon",
-        "country": "BZ",
-        "ethereum_address": "0x1eF964e6aA1efe4309DED7197881794537AACca9",
-        "id": "c3b3857908e24c8a69df1792726a90ee1ec82a87ee3f3b5e197d6b90f83077cb",
-        "info_url": "https://en.wikipedia.org/wiki/North_Carolina_Highway_153",
-        "name": "tender-hill",
-        "tm_pub_key": "17KargJmNlmZWMGQPS1AQ67RdNJs57z5d4q30yNFPTQ=",
-        "vega_pub_key": "0acd4ed57054dc543ab55d4a1de1eb2f7e0debaaa7ce979ab412adf874dd7fa9",
-        "vega_pub_key_index": 1
-      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -315,6 +304,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "HXPMkSk5pnnNFamHOTvA+VIwmZ2OSxZYbj0AW1qlEls=": {
+        "avatar_url": "https://www.gravatar.com/avatar/93ppyc1j2d7qbkh7r4dbcpxmflupsdei?d=identicon",
+        "country": "PN",
+        "ethereum_address": "0xCB44Ac25F4e2B78f3D043e3b6805e9dfd4dFac5D",
+        "id": "e25c0ec873d7a961ce083d4a970a6846757966072f60749401355a90442b86a8",
+        "info_url": "https://en.wikipedia.org/wiki/Mike_Michalowicz",
+        "name": "lucky-hill",
+        "tm_pub_key": "HXPMkSk5pnnNFamHOTvA+VIwmZ2OSxZYbj0AW1qlEls=",
+        "vega_pub_key": "43d901afe9fdaf85fc3af7eab51d0549665dbaa41134c01a72ab4b08daeb2aab",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202402201123",
+  "chain_id": "vega-devnet1-202402201201",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-20T11:23:22.648087456Z",
+  "genesis_time": "2024-02-20T12:01:56.623918991Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "7BDB3D1BCF636E3C6F72BA1A303EB5FB9003A164",
-      "name": "tender-hill",
+      "address": "2E24F6D86394BDB6DE9385040B34C38253E2BB24",
+      "name": "lucky-hill",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "17KargJmNlmZWMGQPS1AQ67RdNJs57z5d4q30yNFPTQ="
+        "value": "HXPMkSk5pnnNFamHOTvA+VIwmZ2OSxZYbj0AW1qlEls="
       }
     }
   ]
