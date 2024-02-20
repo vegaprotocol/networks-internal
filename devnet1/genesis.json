@@ -304,15 +304,15 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "BxgsM61DV6/ldKn+E29ulU01WSwV0rQQebXmknlkojw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/rzn5kx1i5irbluub256lcjldwt61vw9t?d=identicon",
-        "country": "BP",
-        "ethereum_address": "0xaa173D606ebBF588183409A867Ae54a6d01225aa",
-        "id": "95e7210e6b2d5af611f5fd7f6016da7da335d5cf7223a3849b7217a447bb94a2",
-        "info_url": "https://en.wikipedia.org/wiki/Ectyphinae",
-        "name": "impressionable-tree",
-        "tm_pub_key": "BxgsM61DV6/ldKn+E29ulU01WSwV0rQQebXmknlkojw=",
-        "vega_pub_key": "019485088b10fb7d4f100cb67926e2eb412c935d1d8848c899eaa17bd3a4644b",
+      "GfsXHUah236jSvHE1BrP37mc7P6ZJjTxoiLMP5eoPKk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/3py8aicn6axf1ukhd8fg5llmmu9hnujg?d=identicon",
+        "country": "ZG",
+        "ethereum_address": "0x5Be0Ac6D65d252072D03CF385bE94e223AEE2684",
+        "id": "abcb60d938cbdf064ce972c232b05dcc03aa7ba7f7c25229bebb5c3636a3b8a6",
+        "info_url": "https://en.wikipedia.org/wiki/Agromyzidae",
+        "name": "quiet-apple",
+        "tm_pub_key": "GfsXHUah236jSvHE1BrP37mc7P6ZJjTxoiLMP5eoPKk=",
+        "vega_pub_key": "8b9d40860a37dcc04a65762ae3e8b83a172f542d53e4bf1d85afec04b7f98dc8",
         "vega_pub_key_index": 1
       },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202402192138",
+  "chain_id": "vega-devnet1-202402200721",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-19T21:38:20.580557639Z",
+  "genesis_time": "2024-02-20T07:21:54.410699267Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "EB10A790FBE2E1EC53183B6D66F1C360ECC32B25",
-      "name": "impressionable-tree",
+      "address": "901EC8A83178526129ABEE3148B0F11656AE93D8",
+      "name": "quiet-apple",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "BxgsM61DV6/ldKn+E29ulU01WSwV0rQQebXmknlkojw="
+        "value": "GfsXHUah236jSvHE1BrP37mc7P6ZJjTxoiLMP5eoPKk="
       }
     }
   ]
