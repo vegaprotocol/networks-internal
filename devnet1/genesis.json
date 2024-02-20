@@ -315,20 +315,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "qwfxoogLpKwYhUhKgakkoL2EgJWxIRNYrgxysWJcPfg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/7p65u4gylr44sl4g3erj7ihv8cyjjpto?d=identicon",
-        "country": "LS",
-        "ethereum_address": "0xA271f93F302a5Fc21584DAD00A6Ce3bc7A80bbBE",
-        "id": "73f090a2d41bddd9f8f593a223d7a91ea611a51a95ba52bf25e5fa04f6f195c7",
-        "info_url": "https://en.wikipedia.org/wiki/Eucereon_lineata",
-        "name": "determined-mango",
-        "tm_pub_key": "qwfxoogLpKwYhUhKgakkoL2EgJWxIRNYrgxysWJcPfg=",
-        "vega_pub_key": "22f5135856c5001a63b25152aa8912df3063e757e8b76074a2846e4a600d7445",
+      "lqPhP/P1W/K+cznHtBNe3SYVGHjd0NFMDnT/QjHTdI0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/yd6abzx300a7s6s7lbs50tmqg9j0v3zy?d=identicon",
+        "country": "AQ",
+        "ethereum_address": "0x79Ee356cBB61ec89fA4Ac8D1cFb0396C73b89593",
+        "id": "bef6e5e9a9dc8aa0f2c1867e3a6822775a0f141362b7e665b73cde6249967bf6",
+        "info_url": "https://en.wikipedia.org/wiki/Malbosc",
+        "name": "rhythmic-tree",
+        "tm_pub_key": "lqPhP/P1W/K+cznHtBNe3SYVGHjd0NFMDnT/QjHTdI0=",
+        "vega_pub_key": "bd77356f83badac9a9ab9a2381855ac9bf40fe25f80e534b3cef1e070e488a5c",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402200822",
+  "chain_id": "vega-devnet1-202402200930",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-20T08:22:53.323784172Z",
+  "genesis_time": "2024-02-20T09:30:18.837116817Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "DF65E2E6BF24330546490F1BAFC41E6E83111E8D",
-      "name": "determined-mango",
+      "address": "38DF508B1D0462AFB2853ADFCE38AD5BDB311AA0",
+      "name": "rhythmic-tree",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "qwfxoogLpKwYhUhKgakkoL2EgJWxIRNYrgxysWJcPfg="
+        "value": "lqPhP/P1W/K+cznHtBNe3SYVGHjd0NFMDnT/QjHTdI0="
       }
     }
   ]
