@@ -304,17 +304,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "GfsXHUah236jSvHE1BrP37mc7P6ZJjTxoiLMP5eoPKk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/3py8aicn6axf1ukhd8fg5llmmu9hnujg?d=identicon",
-        "country": "ZG",
-        "ethereum_address": "0x5Be0Ac6D65d252072D03CF385bE94e223AEE2684",
-        "id": "abcb60d938cbdf064ce972c232b05dcc03aa7ba7f7c25229bebb5c3636a3b8a6",
-        "info_url": "https://en.wikipedia.org/wiki/Agromyzidae",
-        "name": "quiet-apple",
-        "tm_pub_key": "GfsXHUah236jSvHE1BrP37mc7P6ZJjTxoiLMP5eoPKk=",
-        "vega_pub_key": "8b9d40860a37dcc04a65762ae3e8b83a172f542d53e4bf1d85afec04b7f98dc8",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -325,10 +314,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "qwfxoogLpKwYhUhKgakkoL2EgJWxIRNYrgxysWJcPfg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/7p65u4gylr44sl4g3erj7ihv8cyjjpto?d=identicon",
+        "country": "LS",
+        "ethereum_address": "0xA271f93F302a5Fc21584DAD00A6Ce3bc7A80bbBE",
+        "id": "73f090a2d41bddd9f8f593a223d7a91ea611a51a95ba52bf25e5fa04f6f195c7",
+        "info_url": "https://en.wikipedia.org/wiki/Eucereon_lineata",
+        "name": "determined-mango",
+        "tm_pub_key": "qwfxoogLpKwYhUhKgakkoL2EgJWxIRNYrgxysWJcPfg=",
+        "vega_pub_key": "22f5135856c5001a63b25152aa8912df3063e757e8b76074a2846e4a600d7445",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402200721",
+  "chain_id": "vega-devnet1-202402200822",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-20T07:21:54.410699267Z",
+  "genesis_time": "2024-02-20T08:22:53.323784172Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "901EC8A83178526129ABEE3148B0F11656AE93D8",
-      "name": "quiet-apple",
+      "address": "DF65E2E6BF24330546490F1BAFC41E6E83111E8D",
+      "name": "determined-mango",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "GfsXHUah236jSvHE1BrP37mc7P6ZJjTxoiLMP5eoPKk="
+        "value": "qwfxoogLpKwYhUhKgakkoL2EgJWxIRNYrgxysWJcPfg="
       }
     }
   ]
