@@ -282,6 +282,17 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
+      "4MH9YPPgRUmNZypdUsXRnFinTNbISgHHKTHaHBbNehQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/khdl3337mlaplb5gol6mlt6220xq06cn?d=identicon",
+        "country": "DS",
+        "ethereum_address": "0xff81919f1848fc2C280eC5eA02Bca23A45fBBFcb",
+        "id": "8b80162dadf2d0f6f5da68b7546e8a9c101f62cca11454135fe1b951709e2d14",
+        "info_url": "https://en.wikipedia.org/wiki/Calvary_Episcopal_Church_(Summit,_New_Jersey)",
+        "name": "shapely-ball",
+        "tm_pub_key": "4MH9YPPgRUmNZypdUsXRnFinTNbISgHHKTHaHBbNehQ=",
+        "vega_pub_key": "0508f2e0cedad67b98de23123c7116cd1c1468e199741d1225bcbbc0be86835b",
+        "vega_pub_key_index": 1
+      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -304,17 +315,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "OAsPem86fXc9is7IcckcATqYDDrcsRvsdEAqoghO+OM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/wqm71c5k003m4z6o81ae5dtj3xj3m2gr?d=identicon",
-        "country": "EO",
-        "ethereum_address": "0x62F2968302aEdAcA0f2037502064eE4876df9331",
-        "id": "508b4dc40178b268fe695c3eaa7d627edd02a34788627199b1b5ed92c9e1ade0",
-        "info_url": "https://en.wikipedia.org/wiki/Batocera_migsominea",
-        "name": "brave-month",
-        "tm_pub_key": "OAsPem86fXc9is7IcckcATqYDDrcsRvsdEAqoghO+OM=",
-        "vega_pub_key": "513cc0691d45a6da03f5e5065e6be41ddb12a7fe3bbe1b3a89489d788fe20c06",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202402202258",
+  "chain_id": "vega-devnet1-202402211316",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-20T22:58:28.685640016Z",
+  "genesis_time": "2024-02-21T13:16:33.962970448Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "4D799A84BDB6E8951FC381D234AD01C7F1E4C2CC",
-      "name": "brave-month",
+      "address": "E8B5F1D2794B3D7335D8BAB3614F9F812B2C01DC",
+      "name": "shapely-ball",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "OAsPem86fXc9is7IcckcATqYDDrcsRvsdEAqoghO+OM="
+        "value": "4MH9YPPgRUmNZypdUsXRnFinTNbISgHHKTHaHBbNehQ="
       }
     }
   ]
