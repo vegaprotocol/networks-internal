@@ -1540,7 +1540,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 
 # [scenario.injusdt_perpetual_uniswap]
-#     market_name = "INJUSD Perpetual"
+#     market_name = "Injective / Tether USD (Perpetual)"
 #     binance_code = "INJUSDT"
 #     step_length_seconds = 5
 #     [scenario.injusdt_perpetual_uniswap.market_manager_args]
@@ -1895,7 +1895,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
          randomise_history = false
 
 [scenario.mainnet_simulation_snxustd]
-    market_name = "SNX/USDT-Perp"
+    market_name = "Synthetix / Tether USD (Perpetual)"
     binance_code = "SNXUSDT"
     step_length_seconds = 9
     [scenario.mainnet_simulation_snxustd.market_manager_args]
@@ -1939,7 +1939,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         randomise_history = false
 
 [scenario.mainnet_simulation_ldoustd]
-    market_name = "LDO/USDT-Perp"
+    market_name = "Lido / Tether USD (Perpetual)"
     binance_code = "LDOUSDT"
     step_length_seconds = 16
     [scenario.mainnet_simulation_ldoustd.market_manager_args]
