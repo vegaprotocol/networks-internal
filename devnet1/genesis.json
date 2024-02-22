@@ -315,20 +315,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "iLq9Ki3eoxqKen1MapoHQhRpjBpmaRJpa4YzQINgUsw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/wleqwewcl8g373ira563dhtmy49wwbpi?d=identicon",
-        "country": "UZ",
-        "ethereum_address": "0x64AeD954Bf1498Ff4b4c0cF80276236652f60E06",
-        "id": "6f2a1932c3810251e6ca3b7bef67b548ad094fc7a21ab881187ef4ec50e9f8a7",
-        "info_url": "https://en.wikipedia.org/wiki/Arbitrated_loop",
-        "name": "lovely-duck",
-        "tm_pub_key": "iLq9Ki3eoxqKen1MapoHQhRpjBpmaRJpa4YzQINgUsw=",
-        "vega_pub_key": "ea7eb8854350b3825f6ac3e3204191a5ffbe17327c6f0a01c713561c1d1b4fbd",
+      "mHGXbJh6eiBTMb02l/125OvDPkOaLBgmmk0bqrrRiGE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/mfzk4xv445cb5kjpnluyvc68emmrubm8?d=identicon",
+        "country": "ZP",
+        "ethereum_address": "0xE9F5753074E2f2924050fdd89EF551855B1c4012",
+        "id": "91ea182bd063707f16164850c4b8159c61cd844a61b282c153cf5f9cea1c0312",
+        "info_url": "https://en.wikipedia.org/wiki/Frisilia_serrata",
+        "name": "condescending-barber",
+        "tm_pub_key": "mHGXbJh6eiBTMb02l/125OvDPkOaLBgmmk0bqrrRiGE=",
+        "vega_pub_key": "f282ee6229f64adad6ae5ac86a5226311ce4b63b65a7c58ee3e79647202b48ef",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402221010",
+  "chain_id": "vega-devnet1-202402221055",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-22T10:10:55.84518845Z",
+  "genesis_time": "2024-02-22T10:55:36.21673642Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "6CE1AA3BA537B142486F6200A7205711D7577A41",
-      "name": "lovely-duck",
+      "address": "8CC860F9D205407539857084F203DE3E1E59F651",
+      "name": "condescending-barber",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "iLq9Ki3eoxqKen1MapoHQhRpjBpmaRJpa4YzQINgUsw="
+        "value": "mHGXbJh6eiBTMb02l/125OvDPkOaLBgmmk0bqrrRiGE="
       }
     }
   ]
