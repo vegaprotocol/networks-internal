@@ -304,6 +304,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "LdB27h27Him2aeE/FZmKajmDbXpydeNe7KtzxFr2v0U=": {
+        "avatar_url": "https://www.gravatar.com/avatar/caixovdi8wablc5065aw35u9ubjya3nn?d=identicon",
+        "country": "IZ",
+        "ethereum_address": "0xdaBBEF07D5732A22CE69694BFF7eA61C86bb27Fc",
+        "id": "cee6278331c0e181255876423fd709ce6a6cc120d3b931dd979d729a2ecc135d",
+        "info_url": "https://en.wikipedia.org/wiki/Saqqara_Bird",
+        "name": "scruffy-ball",
+        "tm_pub_key": "LdB27h27Him2aeE/FZmKajmDbXpydeNe7KtzxFr2v0U=",
+        "vega_pub_key": "b8d4225bdd3697a758abd5e247fc12d1eb2a279f13dfef7fbde59b8ad87abc23",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -314,21 +325,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "dDeYBaZSgN1/WhQ2eQGbUrJduSnUvFNFki4ScmiEQUg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ow3u3d8ky09fxuygn5lray6q4o2f3n0y?d=identicon",
-        "country": "CP",
-        "ethereum_address": "0xFD32e148FDFD26A3e83C460083399Ea08AA01484",
-        "id": "7b50e969afb93e26b9b1bb178ca2fc213965a8f5475c5b5f63141e804a017dfb",
-        "info_url": "https://en.wikipedia.org/wiki/O.G.C._(band)",
-        "name": "bright-fan",
-        "tm_pub_key": "dDeYBaZSgN1/WhQ2eQGbUrJduSnUvFNFki4ScmiEQUg=",
-        "vega_pub_key": "69056f28282bcf79d35e98ff038c7609124c1d67c36221f9c5373d1c23ac44d8",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402221246",
+  "chain_id": "vega-devnet1-202402221801",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-22T12:46:22.454063972Z",
+  "genesis_time": "2024-02-22T18:01:43.748216743Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "617F834CB1AE9D1A7CD73F13F63D76FD908EBCB6",
-      "name": "bright-fan",
+      "address": "6EE497DCE62B4F9B45E2A9C87D35BC2168B75AA1",
+      "name": "scruffy-ball",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "dDeYBaZSgN1/WhQ2eQGbUrJduSnUvFNFki4ScmiEQUg="
+        "value": "LdB27h27Him2aeE/FZmKajmDbXpydeNe7KtzxFr2v0U="
       }
     }
   ]
