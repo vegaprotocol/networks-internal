@@ -304,17 +304,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "Hxv80RNwes0TNIj+57Ncr1UIAdOBwtMousW6k5sa0+Q=": {
-        "avatar_url": "https://www.gravatar.com/avatar/qqwl6utr062zyowzxtndxkshfr9qpgvx?d=identicon",
-        "country": "MB",
-        "ethereum_address": "0xEfb82DE93d92496B5bF7AB0fE437aC489bc2B014",
-        "id": "915ef8d04fd9f2c7bf03c7cc0959ec9e19dadc36190224e90565b2e9ebb007ed",
-        "info_url": "https://en.wikipedia.org/wiki/Jurupa_Mountains",
-        "name": "purring-key",
-        "tm_pub_key": "Hxv80RNwes0TNIj+57Ncr1UIAdOBwtMousW6k5sa0+Q=",
-        "vega_pub_key": "a208b3b1c96560317b68bdb7217fd74f19fcc8f38ba05d0f303950945805c2e4",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -325,10 +314,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "iLq9Ki3eoxqKen1MapoHQhRpjBpmaRJpa4YzQINgUsw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/wleqwewcl8g373ira563dhtmy49wwbpi?d=identicon",
+        "country": "UZ",
+        "ethereum_address": "0x64AeD954Bf1498Ff4b4c0cF80276236652f60E06",
+        "id": "6f2a1932c3810251e6ca3b7bef67b548ad094fc7a21ab881187ef4ec50e9f8a7",
+        "info_url": "https://en.wikipedia.org/wiki/Arbitrated_loop",
+        "name": "lovely-duck",
+        "tm_pub_key": "iLq9Ki3eoxqKen1MapoHQhRpjBpmaRJpa4YzQINgUsw=",
+        "vega_pub_key": "ea7eb8854350b3825f6ac3e3204191a5ffbe17327c6f0a01c713561c1d1b4fbd",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402212137",
+  "chain_id": "vega-devnet1-202402221010",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-21T21:37:35.967710393Z",
+  "genesis_time": "2024-02-22T10:10:55.84518845Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "AB1BF616CDE84C61F0CD8B73C0EBED1A9197878C",
-      "name": "purring-key",
+      "address": "6CE1AA3BA537B142486F6200A7205711D7577A41",
+      "name": "lovely-duck",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Hxv80RNwes0TNIj+57Ncr1UIAdOBwtMousW6k5sa0+Q="
+        "value": "iLq9Ki3eoxqKen1MapoHQhRpjBpmaRJpa4YzQINgUsw="
       }
     }
   ]
