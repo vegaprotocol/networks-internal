@@ -315,20 +315,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "if8TAMj4SEXD1li0feGEi84+G39I8aQ5xBNmWwGx/mY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/5595xknuy43ko27okxp1po5nqbedatfw?d=identicon",
-        "country": "LS",
-        "ethereum_address": "0x0cb9164ee3Ed25756BdB8d69561153c497b8Af54",
-        "id": "6dbf03f6afa7479cfffd1c0ef3ab698e3536559fb06fb56b8cf1c42a064c3e8f",
-        "info_url": "https://en.wikipedia.org/wiki/Vajiravudh_College",
-        "name": "blue-chimney",
-        "tm_pub_key": "if8TAMj4SEXD1li0feGEi84+G39I8aQ5xBNmWwGx/mY=",
-        "vega_pub_key": "86bb516931988192e7c72124a8f0911ffd8e8cc91b56446f7e47971bd0be1666",
+      "oj/cdsaEypZQfrvQCYxaFGwL3MFSisk6Kg9Po6RSaDk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/59wmz6xbds21tm16h6s0a0vbzzqsw392?d=identicon",
+        "country": "UZ",
+        "ethereum_address": "0xd37a93Fe3d98D4dB3812d1da4321d699D8b6eE62",
+        "id": "d757f3a96d925461d34a46d3db78d5a91eba8706c2d3545e8f02b8e23b36d697",
+        "info_url": "https://en.wikipedia.org/wiki/Edemir_Rodr%C3%ADguez",
+        "name": "vast-river",
+        "tm_pub_key": "oj/cdsaEypZQfrvQCYxaFGwL3MFSisk6Kg9Po6RSaDk=",
+        "vega_pub_key": "10a7807dec5c79cd6ac352312a0a0eb2edd6d663168e9271fa8f0b9130247a51",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402231743",
+  "chain_id": "vega-devnet1-202402231823",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-23T17:43:48.37604495Z",
+  "genesis_time": "2024-02-23T18:23:22.882180626Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "67372D0A48C9B88679EF7578C43B76EDC17C4040",
-      "name": "blue-chimney",
+      "address": "FCD9144D662CF1F51F613E78B5BD08F1D210E87A",
+      "name": "vast-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "if8TAMj4SEXD1li0feGEi84+G39I8aQ5xBNmWwGx/mY="
+        "value": "oj/cdsaEypZQfrvQCYxaFGwL3MFSisk6Kg9Po6RSaDk="
       }
     }
   ]
