@@ -1103,7 +1103,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 #         randomise_history = false
 
 [scenario.mainnet_simulation_btcusdt]
-    market_name = "Bitcoin / Tether USD (Perpetual)
+    market_name = "Bitcoin / Tether USD (Perpetual)"
     binance_code = "BTCUSDT"
     step_length_seconds = 30
     [scenario.mainnet_simulation_btcusdt.market_manager_args]
@@ -1147,7 +1147,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         randomise_history = false
 
 [scenario.mainnet_simulation_injustd]
-    market_name = "Injective / Tether USD (Perpetual)""
+    market_name = "Injective / Tether USD (Perpetual)"
     binance_code = "INJUSDT"
     step_length_seconds = 19
     [scenario.mainnet_simulation_injustd.market_manager_args]
