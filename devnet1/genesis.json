@@ -304,17 +304,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "LdB27h27Him2aeE/FZmKajmDbXpydeNe7KtzxFr2v0U=": {
-        "avatar_url": "https://www.gravatar.com/avatar/caixovdi8wablc5065aw35u9ubjya3nn?d=identicon",
-        "country": "IZ",
-        "ethereum_address": "0xdaBBEF07D5732A22CE69694BFF7eA61C86bb27Fc",
-        "id": "cee6278331c0e181255876423fd709ce6a6cc120d3b931dd979d729a2ecc135d",
-        "info_url": "https://en.wikipedia.org/wiki/Saqqara_Bird",
-        "name": "scruffy-ball",
-        "tm_pub_key": "LdB27h27Him2aeE/FZmKajmDbXpydeNe7KtzxFr2v0U=",
-        "vega_pub_key": "b8d4225bdd3697a758abd5e247fc12d1eb2a279f13dfef7fbde59b8ad87abc23",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -325,10 +314,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "if8TAMj4SEXD1li0feGEi84+G39I8aQ5xBNmWwGx/mY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/5595xknuy43ko27okxp1po5nqbedatfw?d=identicon",
+        "country": "LS",
+        "ethereum_address": "0x0cb9164ee3Ed25756BdB8d69561153c497b8Af54",
+        "id": "6dbf03f6afa7479cfffd1c0ef3ab698e3536559fb06fb56b8cf1c42a064c3e8f",
+        "info_url": "https://en.wikipedia.org/wiki/Vajiravudh_College",
+        "name": "blue-chimney",
+        "tm_pub_key": "if8TAMj4SEXD1li0feGEi84+G39I8aQ5xBNmWwGx/mY=",
+        "vega_pub_key": "86bb516931988192e7c72124a8f0911ffd8e8cc91b56446f7e47971bd0be1666",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402221801",
+  "chain_id": "vega-devnet1-202402231743",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-22T18:01:43.748216743Z",
+  "genesis_time": "2024-02-23T17:43:48.37604495Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "6EE497DCE62B4F9B45E2A9C87D35BC2168B75AA1",
-      "name": "scruffy-ball",
+      "address": "67372D0A48C9B88679EF7578C43B76EDC17C4040",
+      "name": "blue-chimney",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "LdB27h27Him2aeE/FZmKajmDbXpydeNe7KtzxFr2v0U="
+        "value": "if8TAMj4SEXD1li0feGEi84+G39I8aQ5xBNmWwGx/mY="
       }
     }
   ]
