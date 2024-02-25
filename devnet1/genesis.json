@@ -271,17 +271,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "0Kv69NR3MkpIDWEOVFK/J0JU60EAh9LiYjPuXTUP5us=": {
-        "avatar_url": "https://www.gravatar.com/avatar/p3egss6uxyd1ivqhhnijvd8i6lrgbwez?d=identicon",
-        "country": "ON",
-        "ethereum_address": "0xCEEb1dF3823874E4e8d13033B8F497E1fe96D57b",
-        "id": "5dc8f2a1936b44aeaba154588aa944b8d9e442d7d202e3c82165f16bada5d37e",
-        "info_url": "https://en.wikipedia.org/wiki/Crolla",
-        "name": "brave-car",
-        "tm_pub_key": "0Kv69NR3MkpIDWEOVFK/J0JU60EAh9LiYjPuXTUP5us=",
-        "vega_pub_key": "0b6a87cbe02b0fb1641ae567dc1592d3c761324c84035316e6fac2d3cbf974e2",
-        "vega_pub_key_index": 1
-      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -302,6 +291,17 @@
         "name": "crashing-wall",
         "tm_pub_key": "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=",
         "vega_pub_key": "cb152821443248b20a217abee89c1c8e595e07d47c537255d480761c88bc86d1",
+        "vega_pub_key_index": 1
+      },
+      "9f4MKt7Z5dd0sHMfbPZs/n8puxbhi6KWpNvTyY6rYZI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/q8j2bhxzpbtrof2lon82tkfj653wzy7r?d=identicon",
+        "country": "FX",
+        "ethereum_address": "0x8E04838bf9221C2C5B839C7ec522E5b7c216F73d",
+        "id": "4ef8784669eebd83d10066fd5fbc090a9ab695e3cfadafb32e9131c04edb6762",
+        "info_url": "https://en.wikipedia.org/wiki/Brochet_MB.110",
+        "name": "tricky-bee",
+        "tm_pub_key": "9f4MKt7Z5dd0sHMfbPZs/n8puxbhi6KWpNvTyY6rYZI=",
+        "vega_pub_key": "af7c7cee346d49277e5f4d622c1c2b474e712385444b1cfbd928872fbc31031a",
         "vega_pub_key_index": 1
       },
       "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202402232227",
+  "chain_id": "vega-devnet1-202402251635",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-23T22:27:58.104813262Z",
+  "genesis_time": "2024-02-25T16:35:50.965050373Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "C353A6D1FAE87EE2583D4CF51C64B7F0AA4D14BD",
-      "name": "brave-car",
+      "address": "65342C2A70ED24B560C609A3F9FBCEF2B2C7F10E",
+      "name": "tricky-bee",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "0Kv69NR3MkpIDWEOVFK/J0JU60EAh9LiYjPuXTUP5us="
+        "value": "9f4MKt7Z5dd0sHMfbPZs/n8puxbhi6KWpNvTyY6rYZI="
       }
     }
   ]
