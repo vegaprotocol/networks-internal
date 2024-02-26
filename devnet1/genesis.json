@@ -271,17 +271,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "1IWICRpFh5bF4Ofo4vd+FDa0NbNogVE+x3J/DFK1PkY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/yozieqj76o7rl2ed8urmzkwd1gktsx66?d=identicon",
-        "country": "EJ",
-        "ethereum_address": "0xEfA30aFcC56a57CAE40E92Addd25e118d79f14d6",
-        "id": "33474208e9d40646a1bb40f9ab12b2f4556839d0a20f1866c50c55867436a149",
-        "info_url": "https://en.wikipedia.org/wiki/1995_Nauruan_parliamentary_election",
-        "name": "exuberant-coffee",
-        "tm_pub_key": "1IWICRpFh5bF4Ofo4vd+FDa0NbNogVE+x3J/DFK1PkY=",
-        "vega_pub_key": "61051b9e14a409d94eb3978e257e03e3e2122068516c633b28dba8c89f40eed4",
-        "vega_pub_key_index": 1
-      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -315,6 +304,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "F2Oarp8RC3cLRJGqDkCIU43RFYfITNPYr2pGBUjpx/4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/82h67rrmvazjpk35z14dzi4zecmh6wfq?d=identicon",
+        "country": "GE",
+        "ethereum_address": "0x7e3Ccefef9afbC499E256EA1fa7c96DAE34dFBE1",
+        "id": "4c68e1bca87f5115e728116adff476f7045e9de183aee9f88e2ffaba82da8a8c",
+        "info_url": "https://en.wikipedia.org/wiki/Kosher_tax",
+        "name": "healthy-coffee",
+        "tm_pub_key": "F2Oarp8RC3cLRJGqDkCIU43RFYfITNPYr2pGBUjpx/4=",
+        "vega_pub_key": "1c11d6142555c9f9828706c2ed148f1057ed272fc42bcc65d4784db91b0ecd5e",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202402260839",
+  "chain_id": "vega-devnet1-202402261231",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-26T08:39:05.896189922Z",
+  "genesis_time": "2024-02-26T12:31:00.40721223Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "83D29FF94DE0B23F30119224EE3A199203A8C1D9",
-      "name": "exuberant-coffee",
+      "address": "74741D1B8590DBCE2C5EEAB9C4BEF6D1FA867341",
+      "name": "healthy-coffee",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "1IWICRpFh5bF4Ofo4vd+FDa0NbNogVE+x3J/DFK1PkY="
+        "value": "F2Oarp8RC3cLRJGqDkCIU43RFYfITNPYr2pGBUjpx/4="
       }
     }
   ]
