@@ -315,20 +315,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "snIo7AprpL2uJSmP3VYcNTNjf9aTp9g4ty5Q6jRnei4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/9fbajawkllrlk8czzad7e4fsb1re5dsx?d=identicon",
-        "country": "VY",
-        "ethereum_address": "0x1f4d94f5B1647eF3ABd2E5CAd7A0a54b7c1915B2",
-        "id": "a3d00d3c5bbfc163403cc3bd90231defeca2448d3971ac4497d21aa9e23aeb3a",
-        "info_url": "https://en.wikipedia.org/wiki/Paddy%27s_Lake",
-        "name": "skinny-pen",
-        "tm_pub_key": "snIo7AprpL2uJSmP3VYcNTNjf9aTp9g4ty5Q6jRnei4=",
-        "vega_pub_key": "60b61efb1bc62d47f56971d4090c7223cd5a0d9c0b8d7f26c9b285d5f8ee60d3",
+      "QsajLc4S838+sncFp6EtO7AIfJnIlP32eVhColOqJMw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/2irozmf054r6zyso6e1f0ipn2x7dbrv5?d=identicon",
+        "country": "JT",
+        "ethereum_address": "0xC93653A94895C5F36C6f6d458e49B443E768205B",
+        "id": "4b5062e6c1e711c56e86b7ee663f3dade752895a821e45553fc3fb6cf3c2c6c2",
+        "info_url": "https://en.wikipedia.org/wiki/As_Teo",
+        "name": "timely-pond",
+        "tm_pub_key": "QsajLc4S838+sncFp6EtO7AIfJnIlP32eVhColOqJMw=",
+        "vega_pub_key": "6b3111e6f2f9c4f18a14f31c70e0b02da7308505ec8767f1dfab0b52aa28f7d9",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402261822",
+  "chain_id": "vega-devnet1-202402262120",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-26T18:22:49.215343874Z",
+  "genesis_time": "2024-02-26T21:20:16.255605638Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "20A12915F84AA93D5579B5202DCBAFA688F4BAB1",
-      "name": "skinny-pen",
+      "address": "3953FD3709C4B3807A823FE121D0DE89E0976C9F",
+      "name": "timely-pond",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "snIo7AprpL2uJSmP3VYcNTNjf9aTp9g4ty5Q6jRnei4="
+        "value": "QsajLc4S838+sncFp6EtO7AIfJnIlP32eVhColOqJMw="
       }
     }
   ]
