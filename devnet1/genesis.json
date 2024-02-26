@@ -271,6 +271,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "1IWICRpFh5bF4Ofo4vd+FDa0NbNogVE+x3J/DFK1PkY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/yozieqj76o7rl2ed8urmzkwd1gktsx66?d=identicon",
+        "country": "EJ",
+        "ethereum_address": "0xEfA30aFcC56a57CAE40E92Addd25e118d79f14d6",
+        "id": "33474208e9d40646a1bb40f9ab12b2f4556839d0a20f1866c50c55867436a149",
+        "info_url": "https://en.wikipedia.org/wiki/1995_Nauruan_parliamentary_election",
+        "name": "exuberant-coffee",
+        "tm_pub_key": "1IWICRpFh5bF4Ofo4vd+FDa0NbNogVE+x3J/DFK1PkY=",
+        "vega_pub_key": "61051b9e14a409d94eb3978e257e03e3e2122068516c633b28dba8c89f40eed4",
+        "vega_pub_key_index": 1
+      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -291,17 +302,6 @@
         "name": "crashing-wall",
         "tm_pub_key": "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=",
         "vega_pub_key": "cb152821443248b20a217abee89c1c8e595e07d47c537255d480761c88bc86d1",
-        "vega_pub_key_index": 1
-      },
-      "9f4MKt7Z5dd0sHMfbPZs/n8puxbhi6KWpNvTyY6rYZI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/q8j2bhxzpbtrof2lon82tkfj653wzy7r?d=identicon",
-        "country": "FX",
-        "ethereum_address": "0x8E04838bf9221C2C5B839C7ec522E5b7c216F73d",
-        "id": "4ef8784669eebd83d10066fd5fbc090a9ab695e3cfadafb32e9131c04edb6762",
-        "info_url": "https://en.wikipedia.org/wiki/Brochet_MB.110",
-        "name": "tricky-bee",
-        "tm_pub_key": "9f4MKt7Z5dd0sHMfbPZs/n8puxbhi6KWpNvTyY6rYZI=",
-        "vega_pub_key": "af7c7cee346d49277e5f4d622c1c2b474e712385444b1cfbd928872fbc31031a",
         "vega_pub_key_index": 1
       },
       "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202402251635",
+  "chain_id": "vega-devnet1-202402260839",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-25T16:35:50.965050373Z",
+  "genesis_time": "2024-02-26T08:39:05.896189922Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "65342C2A70ED24B560C609A3F9FBCEF2B2C7F10E",
-      "name": "tricky-bee",
+      "address": "83D29FF94DE0B23F30119224EE3A199203A8C1D9",
+      "name": "exuberant-coffee",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "9f4MKt7Z5dd0sHMfbPZs/n8puxbhi6KWpNvTyY6rYZI="
+        "value": "1IWICRpFh5bF4Ofo4vd+FDa0NbNogVE+x3J/DFK1PkY="
       }
     }
   ]
