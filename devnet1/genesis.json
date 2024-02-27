@@ -315,20 +315,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "Wtwimnd9SYSKfqai+WnAf+qeO92gHN18+56Tlh3bkHo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/xnzebozybpuza4xzpnih9fkm4rkloh1m?d=identicon",
-        "country": "ZL",
-        "ethereum_address": "0x27DF37a13D8e55353d40aD335578fe2a59d7B171",
-        "id": "f0ed7866dc81ce81ed62b7ae219b0106fdc7e4ae89d72e75c0823dabce55538a",
-        "info_url": "https://en.wikipedia.org/wiki/Sophronica_apicefusca",
-        "name": "happy-apple",
-        "tm_pub_key": "Wtwimnd9SYSKfqai+WnAf+qeO92gHN18+56Tlh3bkHo=",
-        "vega_pub_key": "fdc45189eec87b7dcf811a6141c5830a3e0aae80bdb9654880c4d8a3a6fad2b9",
+      "W9sTPAu84G8H70pigl9LBOOugCSNdeqgZigebAl37Ao=": {
+        "avatar_url": "https://www.gravatar.com/avatar/klilvccc1q919y2m0r93sq8ra042bo04?d=identicon",
+        "country": "EM",
+        "ethereum_address": "0x6350CB0a0Da96FB74D9145823A478b962b72C456",
+        "id": "8a2e75f989c02dcf463c36c59c92b76cc7ccf04493fdcf9fca67b76d0751d963",
+        "info_url": "https://en.wikipedia.org/wiki/Noel_Skehan",
+        "name": "wrong-plant",
+        "tm_pub_key": "W9sTPAu84G8H70pigl9LBOOugCSNdeqgZigebAl37Ao=",
+        "vega_pub_key": "52c20f9c9eb942b37df715fb4f254f97c2913a51ed132f431116e2475dbf9c38",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402271248",
+  "chain_id": "vega-devnet1-202402271403",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-27T12:48:50.705736206Z",
+  "genesis_time": "2024-02-27T14:03:39.089788129Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "80E6D8A4F48C526D0D9B6E4A6B108D081BB6644E",
-      "name": "happy-apple",
+      "address": "6774E93A31E40E2F21FD62521EB9763A87AAB0B5",
+      "name": "wrong-plant",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Wtwimnd9SYSKfqai+WnAf+qeO92gHN18+56Tlh3bkHo="
+        "value": "W9sTPAu84G8H70pigl9LBOOugCSNdeqgZigebAl37Ao="
       }
     }
   ]
