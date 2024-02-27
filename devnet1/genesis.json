@@ -304,15 +304,15 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "LbdTi2SGYQNhMn4wma/aVzblPnMLfyTTYYwDzmG8FIU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/l71wap5wuihonsqla9g76sroc2o0l3pv?d=identicon",
-        "country": "XI",
-        "ethereum_address": "0x9Ac52e195231d4Caf1ABaA3a644A69491Fec74A4",
-        "id": "a01779da4889a7ce71b088fbf51c625746afa636b6c786189a5754fbbd7a703b",
-        "info_url": "https://en.wikipedia.org/wiki/Shitenn%C5%8Dji-mae_Y%C5%ABhigaoka_Station",
-        "name": "quiet-burger",
-        "tm_pub_key": "LbdTi2SGYQNhMn4wma/aVzblPnMLfyTTYYwDzmG8FIU=",
-        "vega_pub_key": "cfc3f0c5f197967685abb27532856de319fe813e8dbc9dec146d4dacf476de8d",
+      "MvH8sYVCmbj/mkixp7pZcmmhCBUKgggDhObJ5x3IiF4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/w2x114avfwqfk2zsw9n4japfqnmuuek8?d=identicon",
+        "country": "HX",
+        "ethereum_address": "0xC3B0Ea3Ee4F1457819359030eDc0E68c3beaC9DE",
+        "id": "65791f7dc3d84021bb4faf3e91fd5196efcd02fd0e41bf672fd48a879b637867",
+        "info_url": "https://en.wikipedia.org/wiki/St._Michael%27s_Institution",
+        "name": "colossal-car",
+        "tm_pub_key": "MvH8sYVCmbj/mkixp7pZcmmhCBUKgggDhObJ5x3IiF4=",
+        "vega_pub_key": "44ddd66710a4a82d92eaee92abe958b0377111fe6abdb2a08bf48903cd0c157d",
         "vega_pub_key_index": 1
       },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202402271635",
+  "chain_id": "vega-devnet1-202402271721",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-27T16:35:34.902067652Z",
+  "genesis_time": "2024-02-27T17:21:15.391678778Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "C0B872AF46A7709F9A9CC0FC4D05DC4CF329CB0E",
-      "name": "quiet-burger",
+      "address": "899375FB6FC2735906832DA19F42D334E38827A8",
+      "name": "colossal-car",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "LbdTi2SGYQNhMn4wma/aVzblPnMLfyTTYYwDzmG8FIU="
+        "value": "MvH8sYVCmbj/mkixp7pZcmmhCBUKgggDhObJ5x3IiF4="
       }
     }
   ]
