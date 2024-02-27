@@ -282,6 +282,17 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
+      "3wOboSku6ShcXhec9VwyqE8yPj4R3/naM/XL1yZ7L9M=": {
+        "avatar_url": "https://www.gravatar.com/avatar/pnd3icxqkx0wzmqiasby79mslhtqa5o4?d=identicon",
+        "country": "XO",
+        "ethereum_address": "0xD0040CB491C9faB9562a9a41669e0802cc08bce7",
+        "id": "7dd8cffa75f43b98e0484a2d9d553be753645e817a261f236f8ab3ced8338b7b",
+        "info_url": "https://en.wikipedia.org/wiki/List_of_Armenian_films_of_the_1950s",
+        "name": "alert-cloud",
+        "tm_pub_key": "3wOboSku6ShcXhec9VwyqE8yPj4R3/naM/XL1yZ7L9M=",
+        "vega_pub_key": "ac81c1ebe19e0a902105d9a369820698cfb5f26352cdb4fa7ac1af08e17d33db",
+        "vega_pub_key_index": 1
+      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -314,21 +325,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "W9sTPAu84G8H70pigl9LBOOugCSNdeqgZigebAl37Ao=": {
-        "avatar_url": "https://www.gravatar.com/avatar/klilvccc1q919y2m0r93sq8ra042bo04?d=identicon",
-        "country": "EM",
-        "ethereum_address": "0x6350CB0a0Da96FB74D9145823A478b962b72C456",
-        "id": "8a2e75f989c02dcf463c36c59c92b76cc7ccf04493fdcf9fca67b76d0751d963",
-        "info_url": "https://en.wikipedia.org/wiki/Noel_Skehan",
-        "name": "wrong-plant",
-        "tm_pub_key": "W9sTPAu84G8H70pigl9LBOOugCSNdeqgZigebAl37Ao=",
-        "vega_pub_key": "52c20f9c9eb942b37df715fb4f254f97c2913a51ed132f431116e2475dbf9c38",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402271434",
+  "chain_id": "vega-devnet1-202402271534",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-27T14:34:16.786238034Z",
+  "genesis_time": "2024-02-27T15:34:41.945825746Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "6774E93A31E40E2F21FD62521EB9763A87AAB0B5",
-      "name": "wrong-plant",
+      "address": "A99A83F2BAB63D987B49F9C28FEFE8E17B92DB94",
+      "name": "alert-cloud",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "W9sTPAu84G8H70pigl9LBOOugCSNdeqgZigebAl37Ao="
+        "value": "3wOboSku6ShcXhec9VwyqE8yPj4R3/naM/XL1yZ7L9M="
       }
     }
   ]
