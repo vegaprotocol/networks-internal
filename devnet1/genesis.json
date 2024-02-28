@@ -304,17 +304,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "MvH8sYVCmbj/mkixp7pZcmmhCBUKgggDhObJ5x3IiF4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/w2x114avfwqfk2zsw9n4japfqnmuuek8?d=identicon",
-        "country": "HX",
-        "ethereum_address": "0xC3B0Ea3Ee4F1457819359030eDc0E68c3beaC9DE",
-        "id": "65791f7dc3d84021bb4faf3e91fd5196efcd02fd0e41bf672fd48a879b637867",
-        "info_url": "https://en.wikipedia.org/wiki/St._Michael%27s_Institution",
-        "name": "colossal-car",
-        "tm_pub_key": "MvH8sYVCmbj/mkixp7pZcmmhCBUKgggDhObJ5x3IiF4=",
-        "vega_pub_key": "44ddd66710a4a82d92eaee92abe958b0377111fe6abdb2a08bf48903cd0c157d",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -325,10 +314,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "RUPTbqJxnS+CbzK08PhQHcWlLZiiKehjPj9zh2mfq70=": {
+        "avatar_url": "https://www.gravatar.com/avatar/qubrntfdm57n1xdwq9cr63amdphrc3bj?d=identicon",
+        "country": "AX",
+        "ethereum_address": "0xc848af355Bdf3Ca883c90aE18DA7630cDbC49f54",
+        "id": "1c5b937f38f69d1c8e5487d0d11bde54d19ac0795b097f2315344bd6f54884f9",
+        "info_url": "https://en.wikipedia.org/wiki/Sitora_Hamidova",
+        "name": "gray-hat",
+        "tm_pub_key": "RUPTbqJxnS+CbzK08PhQHcWlLZiiKehjPj9zh2mfq70=",
+        "vega_pub_key": "6fe6314c1b99a28271e4336e7f9bb323d04dc7faf6201d0d83a15a2c430c55b7",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402271721",
+  "chain_id": "vega-devnet1-202402280929",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-27T17:21:15.391678778Z",
+  "genesis_time": "2024-02-28T09:29:50.697982777Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "899375FB6FC2735906832DA19F42D334E38827A8",
-      "name": "colossal-car",
+      "address": "FC8B454EC0E58B8D49A081AB2A8C42BC3EDBC446",
+      "name": "gray-hat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "MvH8sYVCmbj/mkixp7pZcmmhCBUKgggDhObJ5x3IiF4="
+        "value": "RUPTbqJxnS+CbzK08PhQHcWlLZiiKehjPj9zh2mfq70="
       }
     }
   ]
