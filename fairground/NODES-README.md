@@ -12,7 +12,7 @@ Node documentation page contains all useful informations about the node. You can
 
 | Node DNS | Tendermint DNS | Geographic Location | Hardware Setup | Cloud |
 | ----------------------------------------- | -------------- | ------------------- | -------------- | ----- |
-| [n00.testnet.vega.rocks](https://n00.testnet.vega.rocks) | [tm-n00.testnet.vega.rocks](https://tm-n00.testnet.vega.rocks) | fra1 | s-8vcpu-16gb | do |
+| [n00.testnet.vega.rocks](https://n00.testnet.vega.rocks) | [tm-n00.testnet.vega.rocks](https://tm-n00.testnet.vega.rocks) | fra1 | s-8vcpu-32gb-amd | do |
 | [n01.testnet.vega.rocks](https://n01.testnet.vega.rocks) | [tm-n01.testnet.vega.rocks](https://tm-n01.testnet.vega.rocks) | lon1 | s-4vcpu-8gb | do |
 | [n02.testnet.vega.rocks](https://n02.testnet.vega.rocks) | [tm-n02.testnet.vega.rocks](https://tm-n02.testnet.vega.rocks) | nyc1 | s-4vcpu-8gb | do |
 | [n03.testnet.vega.rocks](https://n03.testnet.vega.rocks) | [tm-n03.testnet.vega.rocks](https://tm-n03.testnet.vega.rocks) | sgp1 | s-4vcpu-8gb | do |
@@ -21,6 +21,4 @@ Node documentation page contains all useful informations about the node. You can
 | [n06.testnet.vega.rocks](https://n06.testnet.vega.rocks) | [tm-n06.testnet.vega.rocks](https://tm-n06.testnet.vega.rocks) | blr1 | s-8vcpu-16gb | do |
 | [n07.testnet.vega.rocks](https://n07.testnet.vega.rocks) | [tm-n07.testnet.vega.rocks](https://tm-n07.testnet.vega.rocks) | tor1 | s-8vcpu-16gb | do |
 | [n08.testnet.vega.rocks](https://n08.testnet.vega.rocks) | [tm-n08.testnet.vega.rocks](https://tm-n08.testnet.vega.rocks) | sfo3 | s-8vcpu-16gb | do |
-| [n09.testnet.vega.rocks](https://n09.testnet.vega.rocks) | [tm-n09.testnet.vega.rocks](https://tm-n09.testnet.vega.rocks) | nyc1 | s-8vcpu-16gb | do |
 | [be.testnet.vega.rocks](https://be.testnet.vega.rocks) | [tm-be.testnet.vega.rocks](https://tm-be.testnet.vega.rocks) | nyc3 | s-8vcpu-16gb | do |
-| [m.testnet.vega.rocks](https://m.testnet.vega.rocks) | [tm-m.testnet.vega.rocks](https://tm-m.testnet.vega.rocks) | ams3 | s-8vcpu-16gb | do |
