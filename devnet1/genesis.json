@@ -282,17 +282,6 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
-      "5S5zsrmXw4ufhFJ7cgClJVFdkL9BFOPAO11rtj5EiIE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/tqeo8l44qpn37te0gqonfg62m7y7g2ou?d=identicon",
-        "country": "XT",
-        "ethereum_address": "0x07b49a3910f6A90EE2795394FC6275883B810903",
-        "id": "6d5261e7a853e7d69a4fa12b436dead8b26e1a5507da145047d3849ecd5aa746",
-        "info_url": "https://en.wikipedia.org/wiki/Some_Assembly_Required_(radio_program)",
-        "name": "wrong-spoon",
-        "tm_pub_key": "5S5zsrmXw4ufhFJ7cgClJVFdkL9BFOPAO11rtj5EiIE=",
-        "vega_pub_key": "cd4f0ac03a6384cb935c7c2e305f5dc17eb63bf905a7bf3e4fa5b2aa4ec90d9d",
-        "vega_pub_key_index": 1
-      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -315,6 +304,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "F1BL2w3WfWSBCP1uAKN2GPwlm4FxjJRXlXPfK1l01fs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/o4l5qhnz923qias7ng29q146wvbaz22e?d=identicon",
+        "country": "VJ",
+        "ethereum_address": "0x5a904414520a05a656b3aF5818f28fA7eBDd4139",
+        "id": "029df02d357a963cc31385f665a7e82af87e67902086985faf7f90b0808e1488",
+        "info_url": "https://en.wikipedia.org/wiki/F._David_Farnell",
+        "name": "loud-movie",
+        "tm_pub_key": "F1BL2w3WfWSBCP1uAKN2GPwlm4FxjJRXlXPfK1l01fs=",
+        "vega_pub_key": "56fb090e0ba1a178b45fc9e34495b94534bebde5e2f0986fbcf94656d40785fa",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202402291610",
+  "chain_id": "vega-devnet1-202402291901",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-29T16:10:55.987392032Z",
+  "genesis_time": "2024-02-29T19:01:01.208688561Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "075A1937722FD553146F9D4585B88BC705C0A98D",
-      "name": "wrong-spoon",
+      "address": "BA141CB57ED2D040CCBDA67BACD4FBFBCE72B401",
+      "name": "loud-movie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "5S5zsrmXw4ufhFJ7cgClJVFdkL9BFOPAO11rtj5EiIE="
+        "value": "F1BL2w3WfWSBCP1uAKN2GPwlm4FxjJRXlXPfK1l01fs="
       }
     }
   ]
