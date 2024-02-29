@@ -282,6 +282,17 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
+      "5S5zsrmXw4ufhFJ7cgClJVFdkL9BFOPAO11rtj5EiIE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/tqeo8l44qpn37te0gqonfg62m7y7g2ou?d=identicon",
+        "country": "XT",
+        "ethereum_address": "0x07b49a3910f6A90EE2795394FC6275883B810903",
+        "id": "6d5261e7a853e7d69a4fa12b436dead8b26e1a5507da145047d3849ecd5aa746",
+        "info_url": "https://en.wikipedia.org/wiki/Some_Assembly_Required_(radio_program)",
+        "name": "wrong-spoon",
+        "tm_pub_key": "5S5zsrmXw4ufhFJ7cgClJVFdkL9BFOPAO11rtj5EiIE=",
+        "vega_pub_key": "cd4f0ac03a6384cb935c7c2e305f5dc17eb63bf905a7bf3e4fa5b2aa4ec90d9d",
+        "vega_pub_key_index": 1
+      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -314,21 +325,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "RUPTbqJxnS+CbzK08PhQHcWlLZiiKehjPj9zh2mfq70=": {
-        "avatar_url": "https://www.gravatar.com/avatar/qubrntfdm57n1xdwq9cr63amdphrc3bj?d=identicon",
-        "country": "AX",
-        "ethereum_address": "0xc848af355Bdf3Ca883c90aE18DA7630cDbC49f54",
-        "id": "1c5b937f38f69d1c8e5487d0d11bde54d19ac0795b097f2315344bd6f54884f9",
-        "info_url": "https://en.wikipedia.org/wiki/Sitora_Hamidova",
-        "name": "gray-hat",
-        "tm_pub_key": "RUPTbqJxnS+CbzK08PhQHcWlLZiiKehjPj9zh2mfq70=",
-        "vega_pub_key": "6fe6314c1b99a28271e4336e7f9bb323d04dc7faf6201d0d83a15a2c430c55b7",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202402280929",
+  "chain_id": "vega-devnet1-202402291610",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-28T09:29:50.697982777Z",
+  "genesis_time": "2024-02-29T16:10:55.987392032Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "FC8B454EC0E58B8D49A081AB2A8C42BC3EDBC446",
-      "name": "gray-hat",
+      "address": "075A1937722FD553146F9D4585B88BC705C0A98D",
+      "name": "wrong-spoon",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "RUPTbqJxnS+CbzK08PhQHcWlLZiiKehjPj9zh2mfq70="
+        "value": "5S5zsrmXw4ufhFJ7cgClJVFdkL9BFOPAO11rtj5EiIE="
       }
     }
   ]
