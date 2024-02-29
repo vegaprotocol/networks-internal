@@ -1234,51 +1234,6 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         start_date = "2022-11-01 00:00:00"
         randomise_history = false
 
-
-[scenario.mainnet_test_solusdt]
-    market_name = "Solana / Tether USD (Perpetual)"
-    binance_code = "SOLUSDT"
-    step_length_seconds = 19
-    [scenario.mainnet_test_solusdt.market_manager_args]
-        asset_name = "USDT"
-        adp = 6
-        mdp = 3
-        pdp = 1
-    [scenario.mainnet_test_solusdt.market_maker_args]
-        market_kappa = 3000
-        market_order_arrival_rate = 150
-        order_kappa = 0.15
-        order_size = 1
-        order_levels = 25
-        order_spacing = 0.001
-        order_clipping = 10000
-        inventory_lower_boundary = -3
-        inventory_upper_boundary = 3
-        fee_amount = 0.0001
-        commitment_amount = 150000
-        initial_mint = 200000
-    [scenario.mainnet_test_solusdt.auction_trader_args]
-        traders = 2
-        initial_volume = 2
-        initial_mint = 10000
-    [scenario.mainnet_test_solusdt.random_trader_args]
-        traders = 10
-        order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-        order_volume = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.12, 0.14, 0.16, 0.18] # 
-        step_bias = [0.111, 0.95, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
-        initial_mint = 2000
-    [scenario.mainnet_test_solusdt.sensitive_trader_args]
-        traders = 10
-        scale = [2, 4, 6, 8, 10, 12, 14, 16, 17, 20]
-        max_order_size = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.10, 0.12, 0.14]
-         initial_mint = 10000
-     [scenario.mainnet_test_solusdt.simulation_args]
-         n_steps = 99999999
-         granularity = "MINUTE"
-         coinbase_code = "BTC-USDT"
-         start_date = "2022-11-01 00:00:00"
-         randomise_history = false
-
 [scenario.mainnet_simulation_ldoustd]
     market_name = "Lido / Tether USD (Perpetual)"
     binance_code = "LDOUSDT"
@@ -1452,3 +1407,94 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 #         coinbase_code = "BTC-USDT"
 #         start_date = "2022-11-01 00:00:00"
 #         randomise_history = false# 
+
+
+
+[scenario.mainnet_test_solusdt]
+    market_name = "Solana / Tether USD (Perpetual)"
+    binance_code = "SOLUSDT"
+    step_length_seconds = 19
+    [scenario.mainnet_test_solusdt.market_manager_args]
+        asset_name = "USDT"
+        adp = 6
+        mdp = 2
+        pdp = 0
+    [scenario.mainnet_test_solusdt.market_maker_args]
+        market_kappa = 30000
+        market_order_arrival_rate = 150
+        order_kappa = 9.15
+        order_size = 1
+        order_levels = 25
+        order_spacing = 0.03
+        order_clipping = 100
+        inventory_lower_boundary = -10
+        inventory_upper_boundary = 10
+        fee_amount = 0.0001
+        commitment_amount = 150000
+        initial_mint = 200000
+    [scenario.mainnet_test_solusdt.auction_trader_args]
+        traders = 2
+        initial_volume = 2
+        initial_mint = 10000
+    [scenario.mainnet_test_solusdt.random_trader_args]
+        traders = 10
+        order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+        order_volume = [1.0, 5.0, 10.0, 20.0, 25.0, 28.0, 38.0, 50.0, 64.0, 76.0, 88.0] # 
+        step_bias = [0.111, 0.222, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
+        initial_mint = 15000
+    [scenario.mainnet_test_solusdt.sensitive_trader_args]
+        traders = 10
+        scale = [2, 4, 6, 8, 10, 12, 14, 16, 17, 20]
+        max_order_size = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.10, 0.12, 0.14]
+         initial_mint = 15000
+     [scenario.mainnet_test_solusdt.simulation_args]
+         n_steps = 99999999
+         granularity = "MINUTE"
+         coinbase_code = "BTC-USDT"
+         start_date = "2022-11-01 00:00:00"
+         randomise_history = false
+
+
+[scenario.incentive_solusdt_cap]
+    market_name = "Solana / Put a cap on it"
+    binance_code = "SOLUSDT"
+    step_length_seconds = 19
+    [scenario.incentive_solusdt_cap.market_manager_args]
+        asset_name = "USDT"
+        adp = 6
+        mdp = 2
+        pdp = 0
+    [scenario.incentive_solusdt_cap.market_maker_args]
+        market_kappa = 30000
+        market_order_arrival_rate = 150
+        order_kappa = 9.15
+        order_size = 1
+        order_levels = 25
+        order_spacing = 0.03
+        order_clipping = 100
+        inventory_lower_boundary = -10
+        inventory_upper_boundary = 10
+        fee_amount = 0.0001
+        commitment_amount = 150000
+        initial_mint = 200000
+    [scenario.incentive_solusdt_cap.auction_trader_args]
+        traders = 2
+        initial_volume = 2
+        initial_mint = 10000
+    [scenario.incentive_solusdt_cap.random_trader_args]
+        traders = 10
+        order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+        order_volume = [1.0, 5.0, 10.0, 20.0, 25.0, 28.0, 38.0, 50.0, 64.0, 76.0, 88.0] # 
+        step_bias = [0.111, 0.222, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
+        initial_mint = 15000
+    [scenario.incentive_solusdt_cap.sensitive_trader_args]
+        traders = 10
+        scale = [2, 4, 6, 8, 10, 12, 14, 16, 17, 20]
+        max_order_size = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.10, 0.12, 0.14]
+         initial_mint = 15000
+     [scenario.incentive_solusdt_cap.simulation_args]
+         n_steps = 99999999
+         granularity = "MINUTE"
+         coinbase_code = "BTC-USDT"
+         start_date = "2022-11-01 00:00:00"
+         randomise_history = false
