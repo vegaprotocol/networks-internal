@@ -1460,7 +1460,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
     binance_code = "SOLUSDT"
     step_length_seconds = 19
     [scenario.incentive_solusdt_cap.market_manager_args]
-        asset_name = "USDT"
+        asset_name = "USD-CAP"
         adp = 6
         mdp = 2
         pdp = 0
