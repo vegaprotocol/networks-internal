@@ -304,17 +304,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "M8P4Tfas8FAZhJTyWgZJ2XJCHhlzh190UCWqLwWLps0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/znwtjvoive3a498wqc12l7qonpcxtxkj?d=identicon",
-        "country": "LN",
-        "ethereum_address": "0x21022cB570b8b19340A1De03f73d0CF1A8D212Cd",
-        "id": "5225d2a69f615dba69076720ef5b47d7847ce8f8d846c4824d8fdd810c17abd9",
-        "info_url": "https://en.wikipedia.org/wiki/Australian_Tertiary_Admission_Rank",
-        "name": "alive-sister",
-        "tm_pub_key": "M8P4Tfas8FAZhJTyWgZJ2XJCHhlzh190UCWqLwWLps0=",
-        "vega_pub_key": "3112c67bc808e09b013d79213f4a140abb0b5a07d3038bc2ba397b95d5b536e3",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -325,10 +314,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "gV8W7gLhK9WW16fzPJKkMsy9blIPEMvEwzSKF3ExRes=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ltun24758qx0kp0dg7xoo92veeopf618?d=identicon",
+        "country": "KB",
+        "ethereum_address": "0xfF574743EBEf08166691c44Dca0aB8bA20D7831f",
+        "id": "2e2d56a696429a265fadbd348a8a0e10f40548a1ceee11e42c920060f84cad2d",
+        "info_url": "https://en.wikipedia.org/wiki/I%27ve_Always_Loved_You",
+        "name": "adventurous-fan",
+        "tm_pub_key": "gV8W7gLhK9WW16fzPJKkMsy9blIPEMvEwzSKF3ExRes=",
+        "vega_pub_key": "8f96df61c063ea94ec5a55dc9123438da59bab24f34ff3af0f157556377bfbf2",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403011330",
+  "chain_id": "vega-devnet1-202403011431",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-01T13:30:01.075554804Z",
+  "genesis_time": "2024-03-01T14:31:01.566747107Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "55915C616F884EB6A7DA5F36761D7C7141CE610C",
-      "name": "alive-sister",
+      "address": "E581C02A9D7D8C581549B65898588798679BFE49",
+      "name": "adventurous-fan",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "M8P4Tfas8FAZhJTyWgZJ2XJCHhlzh190UCWqLwWLps0="
+        "value": "gV8W7gLhK9WW16fzPJKkMsy9blIPEMvEwzSKF3ExRes="
       }
     }
   ]
