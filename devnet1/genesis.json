@@ -304,15 +304,15 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "F1BL2w3WfWSBCP1uAKN2GPwlm4FxjJRXlXPfK1l01fs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/o4l5qhnz923qias7ng29q146wvbaz22e?d=identicon",
-        "country": "VJ",
-        "ethereum_address": "0x5a904414520a05a656b3aF5818f28fA7eBDd4139",
-        "id": "029df02d357a963cc31385f665a7e82af87e67902086985faf7f90b0808e1488",
-        "info_url": "https://en.wikipedia.org/wiki/F._David_Farnell",
-        "name": "loud-movie",
-        "tm_pub_key": "F1BL2w3WfWSBCP1uAKN2GPwlm4FxjJRXlXPfK1l01fs=",
-        "vega_pub_key": "56fb090e0ba1a178b45fc9e34495b94534bebde5e2f0986fbcf94656d40785fa",
+      "MIJcaqdSDRiCNJAP08BLJKHTniEsflQQYEE2ua615+4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/bqaerrbzfdfgtlh6k65iitfdwr1ksx96?d=identicon",
+        "country": "MC",
+        "ethereum_address": "0xD2B83dFBf86a35B59ccf05124A2A807d8f921ec1",
+        "id": "04ee2e16a8bd6acdc93d09ee5c859a51f292e567b99d8ea71eb63acca9f79e93",
+        "info_url": "https://en.wikipedia.org/wiki/Children%27s_programming_on_ABC_Television",
+        "name": "healthy-building",
+        "tm_pub_key": "MIJcaqdSDRiCNJAP08BLJKHTniEsflQQYEE2ua615+4=",
+        "vega_pub_key": "79024c83e0645030de079d1c09134138bf862eb8ed8491ba516f0baf21f48a6a",
         "vega_pub_key_index": 1
       },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202402291901",
+  "chain_id": "vega-devnet1-202403011002",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-02-29T19:01:01.208688561Z",
+  "genesis_time": "2024-03-01T10:02:54.862241281Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "BA141CB57ED2D040CCBDA67BACD4FBFBCE72B401",
-      "name": "loud-movie",
+      "address": "088185A304F359DF69A849AAE118691C7C633FE7",
+      "name": "healthy-building",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "F1BL2w3WfWSBCP1uAKN2GPwlm4FxjJRXlXPfK1l01fs="
+        "value": "MIJcaqdSDRiCNJAP08BLJKHTniEsflQQYEE2ua615+4="
       }
     }
   ]
