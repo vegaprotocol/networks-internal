@@ -1455,6 +1455,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
          randomise_history = false
 
 
+
 [scenario.incentive_solusdt_cap]
     market_name = "Solana / Put a cap on it"
     binance_code = "SOLUSDT"
@@ -1465,15 +1466,15 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         mdp = 2
         pdp = 0
     [scenario.incentive_solusdt_cap.market_maker_args]
-        market_kappa = 30000
+        market_kappa = 300000
         market_order_arrival_rate = 150
-        order_kappa = 9.15
+        order_kappa = 19.15
         order_size = 1
         order_levels = 25
-        order_spacing = 0.03
-        order_clipping = 100
-        inventory_lower_boundary = -10
-        inventory_upper_boundary = 10
+        order_spacing = 0.01
+        order_clipping = 5
+        inventory_lower_boundary = -3
+        inventory_upper_boundary = 3
         fee_amount = 0.0001
         commitment_amount = 150000
         initial_mint = 200000
