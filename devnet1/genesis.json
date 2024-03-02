@@ -304,6 +304,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "JSGu0ie/zk1QLgNnaT8M/4jzDlz5BGhZlostUly3VtQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/cc2fcoacn0y9vflgret8ww8rkactbapu?d=identicon",
+        "country": "DX",
+        "ethereum_address": "0x091E57676E1643A6e8b0Eb3AD760bCA4EFE8b98a",
+        "id": "79198551855938216f112861fdeeef98824ff244ea54a0ca2d32bcb7b11e8929",
+        "info_url": "https://en.wikipedia.org/wiki/Monsonia_emarginata",
+        "name": "howling-flowers",
+        "tm_pub_key": "JSGu0ie/zk1QLgNnaT8M/4jzDlz5BGhZlostUly3VtQ=",
+        "vega_pub_key": "61fbe0381cb1140e0a36a554fa586ab79f119e97fd46fe846140cfe3291f896e",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -314,21 +325,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "gV8W7gLhK9WW16fzPJKkMsy9blIPEMvEwzSKF3ExRes=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ltun24758qx0kp0dg7xoo92veeopf618?d=identicon",
-        "country": "KB",
-        "ethereum_address": "0xfF574743EBEf08166691c44Dca0aB8bA20D7831f",
-        "id": "2e2d56a696429a265fadbd348a8a0e10f40548a1ceee11e42c920060f84cad2d",
-        "info_url": "https://en.wikipedia.org/wiki/I%27ve_Always_Loved_You",
-        "name": "adventurous-fan",
-        "tm_pub_key": "gV8W7gLhK9WW16fzPJKkMsy9blIPEMvEwzSKF3ExRes=",
-        "vega_pub_key": "8f96df61c063ea94ec5a55dc9123438da59bab24f34ff3af0f157556377bfbf2",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403011431",
+  "chain_id": "vega-devnet1-202403021138",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-01T14:31:01.566747107Z",
+  "genesis_time": "2024-03-02T11:38:58.54010221Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "E581C02A9D7D8C581549B65898588798679BFE49",
-      "name": "adventurous-fan",
+      "address": "24316D1FBB1F95123627D548FFD6834DBE41432E",
+      "name": "howling-flowers",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "gV8W7gLhK9WW16fzPJKkMsy9blIPEMvEwzSKF3ExRes="
+        "value": "JSGu0ie/zk1QLgNnaT8M/4jzDlz5BGhZlostUly3VtQ="
       }
     }
   ]
