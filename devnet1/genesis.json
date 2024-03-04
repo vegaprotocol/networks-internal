@@ -304,15 +304,15 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "JSGu0ie/zk1QLgNnaT8M/4jzDlz5BGhZlostUly3VtQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/cc2fcoacn0y9vflgret8ww8rkactbapu?d=identicon",
-        "country": "DX",
-        "ethereum_address": "0x091E57676E1643A6e8b0Eb3AD760bCA4EFE8b98a",
-        "id": "79198551855938216f112861fdeeef98824ff244ea54a0ca2d32bcb7b11e8929",
-        "info_url": "https://en.wikipedia.org/wiki/Monsonia_emarginata",
-        "name": "howling-flowers",
-        "tm_pub_key": "JSGu0ie/zk1QLgNnaT8M/4jzDlz5BGhZlostUly3VtQ=",
-        "vega_pub_key": "61fbe0381cb1140e0a36a554fa586ab79f119e97fd46fe846140cfe3291f896e",
+      "LNBTWD9br1UZkND+jmiOkQxdPJqVKc3a9s+h+RaMBcU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/eectyyb8lr5m0q1wul9zz6bx6wy9kd63?d=identicon",
+        "country": "EM",
+        "ethereum_address": "0xE438527b050165351b319fF4Fbf9E975840A2627",
+        "id": "82cfb8e3925c473ec8cd32de62a30f5bd116d25a47ee5eceebf70f98cb520668",
+        "info_url": "https://en.wikipedia.org/wiki/Tsuri-daiko",
+        "name": "oppulent-country",
+        "tm_pub_key": "LNBTWD9br1UZkND+jmiOkQxdPJqVKc3a9s+h+RaMBcU=",
+        "vega_pub_key": "3cf70ac9574f5293e528b0b82818037276cde9905e0ae9c6604f504d53670ab1",
         "vega_pub_key_index": 1
       },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202403021138",
+  "chain_id": "vega-devnet1-202403041036",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-02T11:38:58.54010221Z",
+  "genesis_time": "2024-03-04T10:36:10.493856412Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "24316D1FBB1F95123627D548FFD6834DBE41432E",
-      "name": "howling-flowers",
+      "address": "2ABC53CB8558E2C29CA4D5564377D82951BD358A",
+      "name": "oppulent-country",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "JSGu0ie/zk1QLgNnaT8M/4jzDlz5BGhZlostUly3VtQ="
+        "value": "LNBTWD9br1UZkND+jmiOkQxdPJqVKc3a9s+h+RaMBcU="
       }
     }
   ]
