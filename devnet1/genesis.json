@@ -304,6 +304,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "LCSsgyDuTF0le+Hpl/gBGRD6Iag216dIgV//iEdd8AE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/2gp8u3k9lj7w9pddjw3kifaupx4wyhlr?d=identicon",
+        "country": "ER",
+        "ethereum_address": "0x60E33C79E844EA84e8D11C62ec60378E7fd0236b",
+        "id": "ea4e3b95409be91f432081ba7c7b989e15105e79fb0c48d1292fd8a39f3d89d6",
+        "info_url": "https://en.wikipedia.org/wiki/Post-secondary_educational_organizations_in_the_United_States",
+        "name": "howling-town",
+        "tm_pub_key": "LCSsgyDuTF0le+Hpl/gBGRD6Iag216dIgV//iEdd8AE=",
+        "vega_pub_key": "1aca9c1e62591b49d0f1ebcfb2f50baf27fad463de8e8a51208a2420b6e9f55e",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -314,21 +325,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "iTvNCPaK18fPOR0/7P4yjb0SzLEBtEqDJ2BG52xGadY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/06ch5xfb4xfdgm52y9yszvguqla0zcj3?d=identicon",
-        "country": "MB",
-        "ethereum_address": "0x8C742Cc88Eb36E131A210cde261d90C739d8035A",
-        "id": "209b725d78048b103709fe6b6cf9e16c6bb24fd194db4b60134b45794503deb7",
-        "info_url": "https://en.wikipedia.org/wiki/2007_Ole_Miss_Rebels_football_team",
-        "name": "orange-movie",
-        "tm_pub_key": "iTvNCPaK18fPOR0/7P4yjb0SzLEBtEqDJ2BG52xGadY=",
-        "vega_pub_key": "cc7d86c254ba9c46124619e1ad90e9b58b88939cf96d971fa91a7df6d34b6873",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403041513",
+  "chain_id": "vega-devnet1-202403041715",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-04T15:13:57.084061594Z",
+  "genesis_time": "2024-03-04T17:15:10.279691784Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "EF0324F60A00C21EEB843F91D2F4237F93B78782",
-      "name": "orange-movie",
+      "address": "90BF19A3434FA60FC73089AB5214E92C5D6BA457",
+      "name": "howling-town",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "iTvNCPaK18fPOR0/7P4yjb0SzLEBtEqDJ2BG52xGadY="
+        "value": "LCSsgyDuTF0le+Hpl/gBGRD6Iag216dIgV//iEdd8AE="
       }
     }
   ]
