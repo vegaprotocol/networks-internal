@@ -245,7 +245,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 
 [scenario.dogepoint]
-    market_name = "DogePoint / USDT (Points future market)"
+    market_name = "Doge Points / USDT (Futures market)"
     binance_code = "DOGEUSDT"
     step_length_seconds = 1
     [scenario.dogepoint.market_manager_args]
