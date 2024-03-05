@@ -315,20 +315,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "VdA2S5hFOqQZovsqAFEJ3AYF0wxRxYI9mHsmHzJw1Qk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/4vqblwd83majogr8pvq9xgqnf5vq6oo7?d=identicon",
-        "country": "PC",
-        "ethereum_address": "0x2b6e497d6C08b335A2aC56aA9f91821CbAF854fE",
-        "id": "45d651db15ced2746bf33c238aae0e863e8d2c2f0d21d3014da3ad123f8a6f71",
-        "info_url": "https://en.wikipedia.org/wiki/Chimfunshi_Wildlife_Orphanage",
-        "name": "wicked-dog",
-        "tm_pub_key": "VdA2S5hFOqQZovsqAFEJ3AYF0wxRxYI9mHsmHzJw1Qk=",
-        "vega_pub_key": "91fab393b055c74716b15efbdb18ed8d5f762a9d89aaa83990057e2330b30b28",
+      "T33bOQpdI6/SdUJvndqNz3P9NtG0OjdOCeFv98vkphA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/bbglabcnpatmbf123owh8zdzsmkconda?d=identicon",
+        "country": "OS",
+        "ethereum_address": "0xC4b271c5fd1e7637FE6D9f2c7092f047Fa60C086",
+        "id": "8568960baf04138f3402c41505927031032bb144cc9f891abd50e6341bb301da",
+        "info_url": "https://en.wikipedia.org/wiki/S._K._Shrivastava",
+        "name": "ugly-chimney",
+        "tm_pub_key": "T33bOQpdI6/SdUJvndqNz3P9NtG0OjdOCeFv98vkphA=",
+        "vega_pub_key": "95ec9811718e8ea5e52e823c0420cfab418e209acced73f0c7d7650e3b6f406a",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403051010",
+  "chain_id": "vega-devnet1-202403051226",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-05T10:10:09.418716862Z",
+  "genesis_time": "2024-03-05T12:26:05.225059129Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "87F93679FACF108EEF0F4BBD6F5A98D4050C547F",
-      "name": "wicked-dog",
+      "address": "8272FDA0ADC84FACB3BEABB4F8915FF0921BA07F",
+      "name": "ugly-chimney",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "VdA2S5hFOqQZovsqAFEJ3AYF0wxRxYI9mHsmHzJw1Qk="
+        "value": "T33bOQpdI6/SdUJvndqNz3P9NtG0OjdOCeFv98vkphA="
       }
     }
   ]
