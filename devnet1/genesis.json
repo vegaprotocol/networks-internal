@@ -304,17 +304,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "LCSsgyDuTF0le+Hpl/gBGRD6Iag216dIgV//iEdd8AE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/2gp8u3k9lj7w9pddjw3kifaupx4wyhlr?d=identicon",
-        "country": "ER",
-        "ethereum_address": "0x60E33C79E844EA84e8D11C62ec60378E7fd0236b",
-        "id": "ea4e3b95409be91f432081ba7c7b989e15105e79fb0c48d1292fd8a39f3d89d6",
-        "info_url": "https://en.wikipedia.org/wiki/Post-secondary_educational_organizations_in_the_United_States",
-        "name": "howling-town",
-        "tm_pub_key": "LCSsgyDuTF0le+Hpl/gBGRD6Iag216dIgV//iEdd8AE=",
-        "vega_pub_key": "1aca9c1e62591b49d0f1ebcfb2f50baf27fad463de8e8a51208a2420b6e9f55e",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -325,10 +314,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "VdA2S5hFOqQZovsqAFEJ3AYF0wxRxYI9mHsmHzJw1Qk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/4vqblwd83majogr8pvq9xgqnf5vq6oo7?d=identicon",
+        "country": "PC",
+        "ethereum_address": "0x2b6e497d6C08b335A2aC56aA9f91821CbAF854fE",
+        "id": "45d651db15ced2746bf33c238aae0e863e8d2c2f0d21d3014da3ad123f8a6f71",
+        "info_url": "https://en.wikipedia.org/wiki/Chimfunshi_Wildlife_Orphanage",
+        "name": "wicked-dog",
+        "tm_pub_key": "VdA2S5hFOqQZovsqAFEJ3AYF0wxRxYI9mHsmHzJw1Qk=",
+        "vega_pub_key": "91fab393b055c74716b15efbdb18ed8d5f762a9d89aaa83990057e2330b30b28",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403041715",
+  "chain_id": "vega-devnet1-202403051010",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-04T17:15:10.279691784Z",
+  "genesis_time": "2024-03-05T10:10:09.418716862Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "90BF19A3434FA60FC73089AB5214E92C5D6BA457",
-      "name": "howling-town",
+      "address": "87F93679FACF108EEF0F4BBD6F5A98D4050C547F",
+      "name": "wicked-dog",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "LCSsgyDuTF0le+Hpl/gBGRD6Iag216dIgV//iEdd8AE="
+        "value": "VdA2S5hFOqQZovsqAFEJ3AYF0wxRxYI9mHsmHzJw1Qk="
       }
     }
   ]
