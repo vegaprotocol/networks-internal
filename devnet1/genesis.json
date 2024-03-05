@@ -315,20 +315,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "T33bOQpdI6/SdUJvndqNz3P9NtG0OjdOCeFv98vkphA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/bbglabcnpatmbf123owh8zdzsmkconda?d=identicon",
-        "country": "OS",
-        "ethereum_address": "0xC4b271c5fd1e7637FE6D9f2c7092f047Fa60C086",
-        "id": "8568960baf04138f3402c41505927031032bb144cc9f891abd50e6341bb301da",
-        "info_url": "https://en.wikipedia.org/wiki/S._K._Shrivastava",
-        "name": "ugly-chimney",
-        "tm_pub_key": "T33bOQpdI6/SdUJvndqNz3P9NtG0OjdOCeFv98vkphA=",
-        "vega_pub_key": "95ec9811718e8ea5e52e823c0420cfab418e209acced73f0c7d7650e3b6f406a",
+      "whNMBggQLz+W4EApc2ilzYCbbCgKyoopyneFcqxF+TM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/s6wv1vsup5e8cb5wshitrcgtdc9jlaun?d=identicon",
+        "country": "NZ",
+        "ethereum_address": "0x101d3D8b5E5c06d716Aff4EF4fdABEF3C4F829d6",
+        "id": "d4167ca25989dd7541dec6fb22fc222da08c8cc2dfee54a0f1a50c0eb598ff42",
+        "info_url": "https://en.wikipedia.org/wiki/Office_of_Cancer_Complementary_and_Alternative_Medicine",
+        "name": "zippy-sister",
+        "tm_pub_key": "whNMBggQLz+W4EApc2ilzYCbbCgKyoopyneFcqxF+TM=",
+        "vega_pub_key": "fc363587e63a1201fab0a464cc36f45d862d05ceabc3222bbdd2984ff3478ae4",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403051226",
+  "chain_id": "vega-devnet1-202403051431",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-05T12:26:05.225059129Z",
+  "genesis_time": "2024-03-05T14:31:51.636700821Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "8272FDA0ADC84FACB3BEABB4F8915FF0921BA07F",
-      "name": "ugly-chimney",
+      "address": "B9759A339BB961E74F2E6AC58A577696362926F4",
+      "name": "zippy-sister",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "T33bOQpdI6/SdUJvndqNz3P9NtG0OjdOCeFv98vkphA="
+        "value": "whNMBggQLz+W4EApc2ilzYCbbCgKyoopyneFcqxF+TM="
       }
     }
   ]
