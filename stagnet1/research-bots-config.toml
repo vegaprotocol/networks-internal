@@ -243,47 +243,90 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         start_date = "2022-11-01 00:00:00"
         randomise_history = false
 
+[scenario.dogepoint]
+    market_name = "Doge Points / USDT (Futures market)"
+    binance_code = "DOGEUSDT"
+    step_length_seconds = 1
+    [scenario.dogepoint.market_manager_args]
+        asset_name = "tUSDC"
+        adp = 6
+        mdp = 5
+        pdp = -2
+    [scenario.dogepoint.market_maker_args]
+        market_kappa = 100000
+        market_order_arrival_rate = 150
+        order_kappa = 3
+        order_size = 1
+        order_levels = 25
+        order_spacing = 0.00005
+        order_clipping = 200000
+        inventory_lower_boundary = -500
+        inventory_upper_boundary = 500
+        fee_amount = 0.0001
+        commitment_amount = 3000000
+        initial_mint = 40000000
+    [scenario.dogepoint.auction_trader_args]
+        traders = 2
+        initial_volume = 100
+        initial_mint = 100000
+    [scenario.dogepoint.random_trader_args]
+        traders = 10
+        order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+        order_volume = [100, 150, 180, 200, 260, 280, 300, 350, 400, 500, 550] # 
+        step_bias = [0.111, 0.95, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
+        initial_mint = 20000
+    [scenario.dogepoint.sensitive_trader_args]
+        traders = 10
+        scale = [2, 4, 6, 8, 10, 12, 14, 16, 17, 20]
+        max_order_size = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.10, 0.12, 0.14]
+        initial_mint = 100000
+    [scenario.dogepoint.simulation_args]
+        n_steps = 99999999
+        granularity = "MINUTE"
+        coinbase_code = "BTC-USDT"
+        start_date = "2022-11-01 00:00:00"
+        randomise_history = false
 
-# [scenario.dogepoint]
-#     market_name = "Doge Points / USDT (Futures market) - New"
-#     binance_code = "DOGEUSDT"
-#     step_length_seconds = 1
-#     [scenario.dogepoint.market_manager_args]
-#         asset_name = "tUSDC"
-#         adp = 6
-#         mdp = 5
-#         pdp = -2
-#     [scenario.dogepoint.market_maker_args]
-#         market_kappa = 10000
-#         market_order_arrival_rate = 150
-#         order_kappa = 300
-#         order_size = 1
-#         order_levels = 25
-#         order_spacing = 0.00005
-#         order_clipping = 200000
-#         inventory_lower_boundary = -500
-#         inventory_upper_boundary = 500
-#         fee_amount = 0.0001
-#         commitment_amount = 300000
-#         initial_mint = 4000000
-#     [scenario.dogepoint.auction_trader_args]
-#         traders = 2
-#         initial_volume = 0.001
-#         initial_mint = 100000
-#     [scenario.dogepoint.random_trader_args]
-#         traders = 10
-#         order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-#         order_volume = [100, 150, 180, 200, 260, 280, 300, 350, 400, 500, 550] # 
-#         step_bias = [0.111, 0.95, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
-#         initial_mint = 20000
-#     [scenario.dogepoint.sensitive_trader_args]
-#         traders = 10
-#         scale = [2, 4, 6, 8, 10, 12, 14, 16, 17, 20]
-#         max_order_size = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.10, 0.12, 0.14]
-#         initial_mint = 100000
-#     [scenario.dogepoint.simulation_args]
-#         n_steps = 99999999
-#         granularity = "MINUTE"
-#         coinbase_code = "BTC-USDT"
-#         start_date = "2022-11-01 00:00:00"
-#         randomise_history = false
+[scenario.dogepoint2]
+    market_name = "Doge Points 2 / USDT (Futures market)"
+    binance_code = "DOGEUSDT"
+    step_length_seconds = 1
+    [scenario.dogepoint2.market_manager_args]
+        asset_name = "tUSDC"
+        adp = 6
+        mdp = 5
+        pdp = -2
+    [scenario.dogepoint2.market_maker_args]
+        market_kappa = 100000
+        market_order_arrival_rate = 150
+        order_kappa = 3
+        order_size = 1
+        order_levels = 25
+        order_spacing = 0.00005
+        order_clipping = 200000
+        inventory_lower_boundary = -500
+        inventory_upper_boundary = 500
+        fee_amount = 0.0001
+        commitment_amount = 3000000
+        initial_mint = 40000000
+    [scenario.dogepoint2.auction_trader_args]
+        traders = 2
+        initial_volume = 100
+        initial_mint = 100000
+    [scenario.dogepoint2.random_trader_args]
+        traders = 10
+        order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+        order_volume = [100, 150, 180, 200, 260, 280, 300, 350, 400, 500, 550] # 
+        step_bias = [0.111, 0.95, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
+        initial_mint = 20000
+    [scenario.dogepoint2.sensitive_trader_args]
+        traders = 10
+        scale = [2, 4, 6, 8, 10, 12, 14, 16, 17, 20]
+        max_order_size = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.10, 0.12, 0.14]
+        initial_mint = 100000
+    [scenario.dogepoint2.simulation_args]
+        n_steps = 99999999
+        granularity = "MINUTE"
+        coinbase_code = "BTC-USDT"
+        start_date = "2022-11-01 00:00:00"
+        randomise_history = false
