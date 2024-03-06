@@ -315,20 +315,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "whNMBggQLz+W4EApc2ilzYCbbCgKyoopyneFcqxF+TM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/s6wv1vsup5e8cb5wshitrcgtdc9jlaun?d=identicon",
-        "country": "NZ",
-        "ethereum_address": "0x101d3D8b5E5c06d716Aff4EF4fdABEF3C4F829d6",
-        "id": "d4167ca25989dd7541dec6fb22fc222da08c8cc2dfee54a0f1a50c0eb598ff42",
-        "info_url": "https://en.wikipedia.org/wiki/Office_of_Cancer_Complementary_and_Alternative_Medicine",
-        "name": "zippy-sister",
-        "tm_pub_key": "whNMBggQLz+W4EApc2ilzYCbbCgKyoopyneFcqxF+TM=",
-        "vega_pub_key": "fc363587e63a1201fab0a464cc36f45d862d05ceabc3222bbdd2984ff3478ae4",
+      "wbIQBG1hKw3ipCTJ4l7C1KcsM20c6lumtPkKTX+G+9c=": {
+        "avatar_url": "https://www.gravatar.com/avatar/48gwn3fv47xrmuu48i2agycu4jtgt3hf?d=identicon",
+        "country": "RS",
+        "ethereum_address": "0xFC4D44E9190807961b62413EB739a5d68B49d767",
+        "id": "8fca2d0ff097a0260e83edbd35e58dc3613d29b9400cf9573967b9f37a86aa7d",
+        "info_url": "https://en.wikipedia.org/wiki/Puente_Alsina_(film)",
+        "name": "disturbed-burger",
+        "tm_pub_key": "wbIQBG1hKw3ipCTJ4l7C1KcsM20c6lumtPkKTX+G+9c=",
+        "vega_pub_key": "9a034bf2b51ec747a4229bc580d800f48bb98011e37f366134810c37dd46702c",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403051431",
+  "chain_id": "vega-devnet1-202403061616",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-05T14:31:51.636700821Z",
+  "genesis_time": "2024-03-06T16:16:49.063003917Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "B9759A339BB961E74F2E6AC58A577696362926F4",
-      "name": "zippy-sister",
+      "address": "75C240F2A58EFD420C918DEEC0AA5E489C875250",
+      "name": "disturbed-burger",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "whNMBggQLz+W4EApc2ilzYCbbCgKyoopyneFcqxF+TM="
+        "value": "wbIQBG1hKw3ipCTJ4l7C1KcsM20c6lumtPkKTX+G+9c="
       }
     }
   ]
