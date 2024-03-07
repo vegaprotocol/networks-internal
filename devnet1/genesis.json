@@ -271,17 +271,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "3BI/vMOxSOhVIqEJOP1MIXBIoWk1itx8bHXYjY21Y8Q=": {
-        "avatar_url": "https://www.gravatar.com/avatar/68r91yu6g5dqrrbsb3o02j0n2mh2blm5?d=identicon",
-        "country": "SO",
-        "ethereum_address": "0x5b8F117bA31916540e8ad6f7E31c2C3372Eb6379",
-        "id": "a19d280393af5d009c92c7e8dabdf53b1b2e8e126ea423eddc0e1173ad334b6f",
-        "info_url": "https://en.wikipedia.org/wiki/Orlando_%22Cacha%C3%ADto%22_L%C3%B3pez",
-        "name": "intrigued-candle",
-        "tm_pub_key": "3BI/vMOxSOhVIqEJOP1MIXBIoWk1itx8bHXYjY21Y8Q=",
-        "vega_pub_key": "f8f32d56ba06b687ef66c4c11173300e62043b51fc2031c2f87178d5dc86ebcf",
-        "vega_pub_key_index": 1
-      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -325,10 +314,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "cXckhgkQH+3eS1J3h7U3hew3YQtaR4FoAa9UuKeR7y4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/np3usxcucddvvi8qe6jdw6zn5jfk7qg3?d=identicon",
+        "country": "PJ",
+        "ethereum_address": "0xE62da90D9F1EAAAbA39c7B6f261082147589381c",
+        "id": "4cc36e084ae9e32647cfc9dd29bff8bcab1648240587dde3cf61118f16502672",
+        "info_url": "https://en.wikipedia.org/wiki/Stephanie_van_Willigenburg",
+        "name": "loose-roof",
+        "tm_pub_key": "cXckhgkQH+3eS1J3h7U3hew3YQtaR4FoAa9UuKeR7y4=",
+        "vega_pub_key": "7b9c1e19b3e7b37c073dd15f25b4810c69b9b2f8975e3cd7a0101f3a55e52237",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403071235",
+  "chain_id": "vega-devnet1-202403071332",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-07T12:35:41.281636474Z",
+  "genesis_time": "2024-03-07T13:32:49.9886525Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "843A39D69B03D7739CD4BF9DF76F26FBB23E9EDF",
-      "name": "intrigued-candle",
+      "address": "5DA04D5301D106E18BD720EB00C69369F96E6075",
+      "name": "loose-roof",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "3BI/vMOxSOhVIqEJOP1MIXBIoWk1itx8bHXYjY21Y8Q="
+        "value": "cXckhgkQH+3eS1J3h7U3hew3YQtaR4FoAa9UuKeR7y4="
       }
     }
   ]
