@@ -304,15 +304,15 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "HI5HUqfD0Rtc67FUvOlCtubU/aDHc7Md+vT+Dhu/3xI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/5mfna6z4szkiyv4bdcimpvrmv2tpjmh8?d=identicon",
-        "country": "VY",
-        "ethereum_address": "0x43D0757298B474A986d8B7859b2C070adAE05aDe",
-        "id": "00159f8c97c7661c6d3acf0e1a47cbeee2d61d9186a5ec22c4bda4d7a60e469e",
-        "info_url": "https://en.wikipedia.org/wiki/Blind_Brook_High_School",
-        "name": "short-bus",
-        "tm_pub_key": "HI5HUqfD0Rtc67FUvOlCtubU/aDHc7Md+vT+Dhu/3xI=",
-        "vega_pub_key": "6916c3306af1e3fd2c854ce43fb62eae11814c188c6bfcf602a2afa69f0f2d87",
+      "J/GR8VgsDlGEjn0Fy+zDi2wTeM+jjknJItsuFm76NI0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/cvhpwbfoi0ilxv6g925bu1n7nyxu4zq9?d=identicon",
+        "country": "ZU",
+        "ethereum_address": "0xd1E7B86F4031367DdbC1CB3641F4C4Db7993Eb36",
+        "id": "b8857fbb7c95a08d76502737b8b79142c04d3859c130c50f0ecc8034910e009a",
+        "info_url": "https://en.wikipedia.org/wiki/Final_Fantasy_VII_Remake",
+        "name": "better-river",
+        "tm_pub_key": "J/GR8VgsDlGEjn0Fy+zDi2wTeM+jjknJItsuFm76NI0=",
+        "vega_pub_key": "3fd938efd22dad15b0666e1f2117a70257823642ce07fdc17e838dc2ea59d9f7",
         "vega_pub_key_index": 1
       },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202403071751",
+  "chain_id": "vega-devnet1-202403081658",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-07T17:51:57.20505332Z",
+  "genesis_time": "2024-03-08T16:58:40.813166593Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "DD17115582BF80B2B0945FDF8260B76B0496C84C",
-      "name": "short-bus",
+      "address": "33A1E98411B90FB277A1B74E69981CBA165751ED",
+      "name": "better-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "HI5HUqfD0Rtc67FUvOlCtubU/aDHc7Md+vT+Dhu/3xI="
+        "value": "J/GR8VgsDlGEjn0Fy+zDi2wTeM+jjknJItsuFm76NI0="
       }
     }
   ]
