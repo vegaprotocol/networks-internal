@@ -304,17 +304,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "J/GR8VgsDlGEjn0Fy+zDi2wTeM+jjknJItsuFm76NI0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/cvhpwbfoi0ilxv6g925bu1n7nyxu4zq9?d=identicon",
-        "country": "ZU",
-        "ethereum_address": "0xd1E7B86F4031367DdbC1CB3641F4C4Db7993Eb36",
-        "id": "b8857fbb7c95a08d76502737b8b79142c04d3859c130c50f0ecc8034910e009a",
-        "info_url": "https://en.wikipedia.org/wiki/Final_Fantasy_VII_Remake",
-        "name": "better-river",
-        "tm_pub_key": "J/GR8VgsDlGEjn0Fy+zDi2wTeM+jjknJItsuFm76NI0=",
-        "vega_pub_key": "3fd938efd22dad15b0666e1f2117a70257823642ce07fdc17e838dc2ea59d9f7",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -325,10 +314,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "zcOwn4+2S5SMebyYVvYGdcXAmx0AaoTDo7beWZ9o1YE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/990974hc6djaq70jxdcw6brb7jtyzpam?d=identicon",
+        "country": "MW",
+        "ethereum_address": "0xA992e69C113DE50CeB438178C31D2ED1855265EC",
+        "id": "c8dfe725dc8572c8a066fe34affa04fa8dfc40db392e1f7c10deed7e822dc733",
+        "info_url": "https://en.wikipedia.org/wiki/Haide_(song)",
+        "name": "important-chair",
+        "tm_pub_key": "zcOwn4+2S5SMebyYVvYGdcXAmx0AaoTDo7beWZ9o1YE=",
+        "vega_pub_key": "e753e498a30976d0d9681a9024cdd769319aeda252b5b66c31ec6140462636fb",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403081658",
+  "chain_id": "vega-devnet1-202403101044",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-08T16:58:40.813166593Z",
+  "genesis_time": "2024-03-10T10:44:17.927843946Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "33A1E98411B90FB277A1B74E69981CBA165751ED",
-      "name": "better-river",
+      "address": "84C4B687E00F93506E758D30EC287B44E529C2B0",
+      "name": "important-chair",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "J/GR8VgsDlGEjn0Fy+zDi2wTeM+jjknJItsuFm76NI0="
+        "value": "zcOwn4+2S5SMebyYVvYGdcXAmx0AaoTDo7beWZ9o1YE="
       }
     }
   ]
