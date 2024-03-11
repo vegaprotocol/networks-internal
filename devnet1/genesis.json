@@ -315,20 +315,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "Yl5m5RlBd2VtApyGcBVeFTdWpbUk5z1TjpwDdtQ6xYY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/55gywc8rc94clag9o9683d3yzb4a3les?d=identicon",
-        "country": "IL",
-        "ethereum_address": "0x0aA23D3d955d8760Ba0B395AA168CBCE9C0a57CE",
-        "id": "f9eec49510d10a758bdc7044eb75e1aa8d3d7ff752f0efb723b9a2f0c9bef867",
-        "info_url": "https://en.wikipedia.org/wiki/Bayers_Lake",
-        "name": "helpful-tile",
-        "tm_pub_key": "Yl5m5RlBd2VtApyGcBVeFTdWpbUk5z1TjpwDdtQ6xYY=",
-        "vega_pub_key": "e373b838a4c042472ffe98ed95f59c11027c182db5abb9a2836fe3e429b03d9b",
+      "q+JmxainjkTKtDPXmYjZ0YW7pICFj4NMXErwwCi30mw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/op4cxp58zclvzipo6brd0psh4kdabo4y?d=identicon",
+        "country": "MI",
+        "ethereum_address": "0x436F1A51C2772d3c3c95443A7694C149EF815275",
+        "id": "9749acf58b4b000a3fcaac9c3929180bd8676e345e08ed28c33cb7c5cfac07a6",
+        "info_url": "https://en.wikipedia.org/wiki/List_of_Fort_Boyard_video_games",
+        "name": "tricky-roof",
+        "tm_pub_key": "q+JmxainjkTKtDPXmYjZ0YW7pICFj4NMXErwwCi30mw=",
+        "vega_pub_key": "b5b934d28fe29b8bbc163297f77a7c9dc0b291e920a3bb145d2769d680dcc264",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403111901",
+  "chain_id": "vega-devnet1-202403112217",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-11T19:01:44.414003353Z",
+  "genesis_time": "2024-03-11T22:17:11.575633089Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "B2EDD1D3F00938BC6C33F6419C797D72CED6335C",
-      "name": "helpful-tile",
+      "address": "A4D0F7EDED756105B2F250B4F022E3F0BCE16C45",
+      "name": "tricky-roof",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Yl5m5RlBd2VtApyGcBVeFTdWpbUk5z1TjpwDdtQ6xYY="
+        "value": "q+JmxainjkTKtDPXmYjZ0YW7pICFj4NMXErwwCi30mw="
       }
     }
   ]
