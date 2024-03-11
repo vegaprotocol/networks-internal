@@ -315,20 +315,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "jiipr6NaZ4oboiu/KTaF1prvBaNHtfmcxD8WTgOGtQ0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/aj8ew8f5ped7hb3f3sp2jyr0ibkpk165?d=identicon",
-        "country": "CK",
-        "ethereum_address": "0x7c0d656ca9Fe0b223013a1d60462EfEa7F6e0261",
-        "id": "0ff677016473bd79f4f1399cf5d8f2e7498d463132726689e042e9d457d4a252",
-        "info_url": "https://en.wikipedia.org/wiki/Christopher_McMullen",
-        "name": "timely-toy",
-        "tm_pub_key": "jiipr6NaZ4oboiu/KTaF1prvBaNHtfmcxD8WTgOGtQ0=",
-        "vega_pub_key": "e6d135b27932ed9a883dd98a97e616eb06d983ce29feaef335a687642a7d5960",
+      "Yl5m5RlBd2VtApyGcBVeFTdWpbUk5z1TjpwDdtQ6xYY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/55gywc8rc94clag9o9683d3yzb4a3les?d=identicon",
+        "country": "IL",
+        "ethereum_address": "0x0aA23D3d955d8760Ba0B395AA168CBCE9C0a57CE",
+        "id": "f9eec49510d10a758bdc7044eb75e1aa8d3d7ff752f0efb723b9a2f0c9bef867",
+        "info_url": "https://en.wikipedia.org/wiki/Bayers_Lake",
+        "name": "helpful-tile",
+        "tm_pub_key": "Yl5m5RlBd2VtApyGcBVeFTdWpbUk5z1TjpwDdtQ6xYY=",
+        "vega_pub_key": "e373b838a4c042472ffe98ed95f59c11027c182db5abb9a2836fe3e429b03d9b",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403111738",
+  "chain_id": "vega-devnet1-202403111901",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-11T17:38:12.081062138Z",
+  "genesis_time": "2024-03-11T19:01:44.414003353Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "044E543F7FA5CA4CAA0CB18BBE985D2CCB9DAD0C",
-      "name": "timely-toy",
+      "address": "B2EDD1D3F00938BC6C33F6419C797D72CED6335C",
+      "name": "helpful-tile",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "jiipr6NaZ4oboiu/KTaF1prvBaNHtfmcxD8WTgOGtQ0="
+        "value": "Yl5m5RlBd2VtApyGcBVeFTdWpbUk5z1TjpwDdtQ6xYY="
       }
     }
   ]
