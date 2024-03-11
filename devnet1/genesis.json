@@ -304,6 +304,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "NCI46nUBhVxOlqdNErXhj6v16oinEJj15f+e8GHJgaw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ykry8x04npfz8fwyr5d4ew2xk96f8slk?d=identicon",
+        "country": "JG",
+        "ethereum_address": "0xefD6A0Aec0d4dDD2559cC03067FADF8aebfedf24",
+        "id": "6d3021b765a661b09df071cf38ffc5fb2bb519ae835bb9284bacb999bd52a9cb",
+        "info_url": "https://en.wikipedia.org/wiki/Dmitri_Aliev",
+        "name": "happy-candle",
+        "tm_pub_key": "NCI46nUBhVxOlqdNErXhj6v16oinEJj15f+e8GHJgaw=",
+        "vega_pub_key": "42524417a5e66645d2ab836f7ea2cb3a5a17333e35a395571058eed730c94bb3",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -314,21 +325,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "haZXinqHwKUFgSUCvzJgs3Kx6mhQBE/29aqRa10YXB4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/gq37jv1rgzlcbfq15suts6uj99phfx0m?d=identicon",
-        "country": "JM",
-        "ethereum_address": "0x7c4eeBE19f64a3FD94B852A9ebc1F61f0B27cb6f",
-        "id": "3316dcbfa29c95c254e53ceb69fd11eefbd303f6bd266387df495f9c2152725b",
-        "info_url": "https://en.wikipedia.org/wiki/Wrestling_at_the_2004_Summer_Olympics_%E2%80%93_Women%27s_freestyle_72_kg",
-        "name": "hallowed-bed",
-        "tm_pub_key": "haZXinqHwKUFgSUCvzJgs3Kx6mhQBE/29aqRa10YXB4=",
-        "vega_pub_key": "b4fbb9900c5feabaf42a46dbdf9965137df6f1b804a529e10a228c4d5d2bf667",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403111414",
+  "chain_id": "vega-devnet1-202403111601",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-11T14:14:56.662194234Z",
+  "genesis_time": "2024-03-11T16:01:31.252311094Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "F74571625AFD32278F7C54B820A7319ECA55FC83",
-      "name": "hallowed-bed",
+      "address": "CB872F1BF6F19DE2F2345634AF0EC9BECA87CFCB",
+      "name": "happy-candle",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "haZXinqHwKUFgSUCvzJgs3Kx6mhQBE/29aqRa10YXB4="
+        "value": "NCI46nUBhVxOlqdNErXhj6v16oinEJj15f+e8GHJgaw="
       }
     }
   ]
