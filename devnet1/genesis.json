@@ -315,20 +315,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "ZNutMJD7G3SZH5i9MPXax7LYPpROMvNYfRyKXLIY1g8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/qc4g5f35z95yjmltnnflztf56qo0y7w5?d=identicon",
-        "country": "JL",
-        "ethereum_address": "0xB1fDacf73148F5f243a32eDbf5464483E14E8A15",
-        "id": "486f5d6d36b27da4b1141388693d5120ae39ac8a81185fa8941593e2fed17888",
-        "info_url": "https://en.wikipedia.org/wiki/Goldfinder",
-        "name": "determined-baby",
-        "tm_pub_key": "ZNutMJD7G3SZH5i9MPXax7LYPpROMvNYfRyKXLIY1g8=",
-        "vega_pub_key": "a5393d542877dadaefcbaac524ece7da1dbb512c05b2c4ac650b28d33370fcea",
+      "haZXinqHwKUFgSUCvzJgs3Kx6mhQBE/29aqRa10YXB4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/gq37jv1rgzlcbfq15suts6uj99phfx0m?d=identicon",
+        "country": "JM",
+        "ethereum_address": "0x7c4eeBE19f64a3FD94B852A9ebc1F61f0B27cb6f",
+        "id": "3316dcbfa29c95c254e53ceb69fd11eefbd303f6bd266387df495f9c2152725b",
+        "info_url": "https://en.wikipedia.org/wiki/Wrestling_at_the_2004_Summer_Olympics_%E2%80%93_Women%27s_freestyle_72_kg",
+        "name": "hallowed-bed",
+        "tm_pub_key": "haZXinqHwKUFgSUCvzJgs3Kx6mhQBE/29aqRa10YXB4=",
+        "vega_pub_key": "b4fbb9900c5feabaf42a46dbdf9965137df6f1b804a529e10a228c4d5d2bf667",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403111131",
+  "chain_id": "vega-devnet1-202403111414",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-11T11:31:16.346022751Z",
+  "genesis_time": "2024-03-11T14:14:56.662194234Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "7CEC71FF8F66B2FEF7F81F5E27DD04E3E258536E",
-      "name": "determined-baby",
+      "address": "F74571625AFD32278F7C54B820A7319ECA55FC83",
+      "name": "hallowed-bed",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ZNutMJD7G3SZH5i9MPXax7LYPpROMvNYfRyKXLIY1g8="
+        "value": "haZXinqHwKUFgSUCvzJgs3Kx6mhQBE/29aqRa10YXB4="
       }
     }
   ]
