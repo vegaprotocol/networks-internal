@@ -304,17 +304,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "NCI46nUBhVxOlqdNErXhj6v16oinEJj15f+e8GHJgaw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ykry8x04npfz8fwyr5d4ew2xk96f8slk?d=identicon",
-        "country": "JG",
-        "ethereum_address": "0xefD6A0Aec0d4dDD2559cC03067FADF8aebfedf24",
-        "id": "6d3021b765a661b09df071cf38ffc5fb2bb519ae835bb9284bacb999bd52a9cb",
-        "info_url": "https://en.wikipedia.org/wiki/Dmitri_Aliev",
-        "name": "happy-candle",
-        "tm_pub_key": "NCI46nUBhVxOlqdNErXhj6v16oinEJj15f+e8GHJgaw=",
-        "vega_pub_key": "42524417a5e66645d2ab836f7ea2cb3a5a17333e35a395571058eed730c94bb3",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -325,10 +314,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "jiipr6NaZ4oboiu/KTaF1prvBaNHtfmcxD8WTgOGtQ0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/aj8ew8f5ped7hb3f3sp2jyr0ibkpk165?d=identicon",
+        "country": "CK",
+        "ethereum_address": "0x7c0d656ca9Fe0b223013a1d60462EfEa7F6e0261",
+        "id": "0ff677016473bd79f4f1399cf5d8f2e7498d463132726689e042e9d457d4a252",
+        "info_url": "https://en.wikipedia.org/wiki/Christopher_McMullen",
+        "name": "timely-toy",
+        "tm_pub_key": "jiipr6NaZ4oboiu/KTaF1prvBaNHtfmcxD8WTgOGtQ0=",
+        "vega_pub_key": "e6d135b27932ed9a883dd98a97e616eb06d983ce29feaef335a687642a7d5960",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403111601",
+  "chain_id": "vega-devnet1-202403111738",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-11T16:01:31.252311094Z",
+  "genesis_time": "2024-03-11T17:38:12.081062138Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "CB872F1BF6F19DE2F2345634AF0EC9BECA87CFCB",
-      "name": "happy-candle",
+      "address": "044E543F7FA5CA4CAA0CB18BBE985D2CCB9DAD0C",
+      "name": "timely-toy",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "NCI46nUBhVxOlqdNErXhj6v16oinEJj15f+e8GHJgaw="
+        "value": "jiipr6NaZ4oboiu/KTaF1prvBaNHtfmcxD8WTgOGtQ0="
       }
     }
   ]
