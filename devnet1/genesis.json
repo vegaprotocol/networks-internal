@@ -315,20 +315,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "zcOwn4+2S5SMebyYVvYGdcXAmx0AaoTDo7beWZ9o1YE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/990974hc6djaq70jxdcw6brb7jtyzpam?d=identicon",
-        "country": "MW",
-        "ethereum_address": "0xA992e69C113DE50CeB438178C31D2ED1855265EC",
-        "id": "c8dfe725dc8572c8a066fe34affa04fa8dfc40db392e1f7c10deed7e822dc733",
-        "info_url": "https://en.wikipedia.org/wiki/Haide_(song)",
-        "name": "important-chair",
-        "tm_pub_key": "zcOwn4+2S5SMebyYVvYGdcXAmx0AaoTDo7beWZ9o1YE=",
-        "vega_pub_key": "e753e498a30976d0d9681a9024cdd769319aeda252b5b66c31ec6140462636fb",
+      "ZNutMJD7G3SZH5i9MPXax7LYPpROMvNYfRyKXLIY1g8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/qc4g5f35z95yjmltnnflztf56qo0y7w5?d=identicon",
+        "country": "JL",
+        "ethereum_address": "0xB1fDacf73148F5f243a32eDbf5464483E14E8A15",
+        "id": "486f5d6d36b27da4b1141388693d5120ae39ac8a81185fa8941593e2fed17888",
+        "info_url": "https://en.wikipedia.org/wiki/Goldfinder",
+        "name": "determined-baby",
+        "tm_pub_key": "ZNutMJD7G3SZH5i9MPXax7LYPpROMvNYfRyKXLIY1g8=",
+        "vega_pub_key": "a5393d542877dadaefcbaac524ece7da1dbb512c05b2c4ac650b28d33370fcea",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403101044",
+  "chain_id": "vega-devnet1-202403111131",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-10T10:44:17.927843946Z",
+  "genesis_time": "2024-03-11T11:31:16.346022751Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "84C4B687E00F93506E758D30EC287B44E529C2B0",
-      "name": "important-chair",
+      "address": "7CEC71FF8F66B2FEF7F81F5E27DD04E3E258536E",
+      "name": "determined-baby",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "zcOwn4+2S5SMebyYVvYGdcXAmx0AaoTDo7beWZ9o1YE="
+        "value": "ZNutMJD7G3SZH5i9MPXax7LYPpROMvNYfRyKXLIY1g8="
       }
     }
   ]
