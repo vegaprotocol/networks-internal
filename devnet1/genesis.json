@@ -271,6 +271,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "+Yms3opRfx0/T25kQizWXGnkYsONb7hfGd0fFUt+kuk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ttp92b0z4svjjr4ig7lk8pe6u7dc0rp0?d=identicon",
+        "country": "OM",
+        "ethereum_address": "0x7CBd287208733530F0a4156Bd78310105ab15c97",
+        "id": "d9f6f8004b3673a79716a36bf3b2c5c14aa618ff717886bf5dd2224fda2c9e9d",
+        "info_url": "https://en.wikipedia.org/wiki/Amy_Correia",
+        "name": "important-music",
+        "tm_pub_key": "+Yms3opRfx0/T25kQizWXGnkYsONb7hfGd0fFUt+kuk=",
+        "vega_pub_key": "fdbbea7019ab9bed07dd0c0bfa69560b617f996b9a51f940455536047463cd57",
+        "vega_pub_key_index": 1
+      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -314,21 +325,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "ev1rRXYKhWguo7w4sAYtXtBxWs2OlJj887pSwVj5IMg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/00zy6wsr6mxn2hjp09ywaeqei8aqt95o?d=identicon",
-        "country": "JE",
-        "ethereum_address": "0x4aE83E53C076638D2104518a22486f6f437538e6",
-        "id": "b96bc22d0d1d9004c960b71297f6f50183a344bcad10f65950e555f823b4bfca",
-        "info_url": "https://en.wikipedia.org/wiki/Tondu_Robins_A.F.C.",
-        "name": "ugly-phone",
-        "tm_pub_key": "ev1rRXYKhWguo7w4sAYtXtBxWs2OlJj887pSwVj5IMg=",
-        "vega_pub_key": "94aa3974a53b045e1b191718d7a5a31dc1f6edc8feac03fcb2f6938da9c0e839",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403121724",
+  "chain_id": "vega-devnet1-202403121816",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-12T17:24:48.533941837Z",
+  "genesis_time": "2024-03-12T18:16:21.679669964Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "08A57B0FE5E1A2D91616AA02C047F2DF29EF48B2",
-      "name": "ugly-phone",
+      "address": "FB689BECE78957BE4129CAD85BED724FAFAB094D",
+      "name": "important-music",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ev1rRXYKhWguo7w4sAYtXtBxWs2OlJj887pSwVj5IMg="
+        "value": "+Yms3opRfx0/T25kQizWXGnkYsONb7hfGd0fFUt+kuk="
       }
     }
   ]
