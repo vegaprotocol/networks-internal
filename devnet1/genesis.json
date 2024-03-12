@@ -304,17 +304,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "Cso7pymPb2eJMrSeYlbcDnaQlgk9Fs7m1hzrPx7UqkM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/6ugs9p3k0flm9s0lf9qrwgsw3wo9lskj?d=identicon",
-        "country": "RU",
-        "ethereum_address": "0x8ffb9B146963Ee6B924B271daB5006B15Ef9b4e5",
-        "id": "5495c01a5becf0e423fbe88ac03e8026a7119a2964a25d9cacfdf07feb202b2f",
-        "info_url": "https://en.wikipedia.org/wiki/NGC_850",
-        "name": "cooperative-phone",
-        "tm_pub_key": "Cso7pymPb2eJMrSeYlbcDnaQlgk9Fs7m1hzrPx7UqkM=",
-        "vega_pub_key": "abef2754daae36c8e231341fb0749362e444d52367e3a0fc32640f942202d2b9",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -325,10 +314,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "wKuXUcoPXlTBFU1vYK1UbkpdcX5FWVs5Qwb9hLNQfA4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/3slzkhvsfdirwmqyxc1odvdjcj8d9udw?d=identicon",
+        "country": "CC",
+        "ethereum_address": "0x22e793837d491E308a4788cf712bE786B137a61F",
+        "id": "950f240cdf5f9ff40f5918db961ae028233e623b51090385c1512fb04678d3ba",
+        "info_url": "https://en.wikipedia.org/wiki/Harry_McGilberry",
+        "name": "promising-country",
+        "tm_pub_key": "wKuXUcoPXlTBFU1vYK1UbkpdcX5FWVs5Qwb9hLNQfA4=",
+        "vega_pub_key": "794859c7ca7e2add2e11353913258c6d25f842c7b11f603b0790ec24b6ef81b3",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403121342",
+  "chain_id": "vega-devnet1-202403121437",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-12T13:42:47.219021414Z",
+  "genesis_time": "2024-03-12T14:37:41.673729663Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "8BC97702B2003ED5573BF3B5025C232C6D3FFE91",
-      "name": "cooperative-phone",
+      "address": "C3CCA2F39B57A86301F5BE6FC1D4D1F59E7701A8",
+      "name": "promising-country",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Cso7pymPb2eJMrSeYlbcDnaQlgk9Fs7m1hzrPx7UqkM="
+        "value": "wKuXUcoPXlTBFU1vYK1UbkpdcX5FWVs5Qwb9hLNQfA4="
       }
     }
   ]
