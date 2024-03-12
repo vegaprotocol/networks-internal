@@ -315,20 +315,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "wKuXUcoPXlTBFU1vYK1UbkpdcX5FWVs5Qwb9hLNQfA4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/3slzkhvsfdirwmqyxc1odvdjcj8d9udw?d=identicon",
-        "country": "CC",
-        "ethereum_address": "0x22e793837d491E308a4788cf712bE786B137a61F",
-        "id": "950f240cdf5f9ff40f5918db961ae028233e623b51090385c1512fb04678d3ba",
-        "info_url": "https://en.wikipedia.org/wiki/Harry_McGilberry",
-        "name": "promising-country",
-        "tm_pub_key": "wKuXUcoPXlTBFU1vYK1UbkpdcX5FWVs5Qwb9hLNQfA4=",
-        "vega_pub_key": "794859c7ca7e2add2e11353913258c6d25f842c7b11f603b0790ec24b6ef81b3",
+      "TOUInd69WSYRDkxuUB5k/pMIrwWfBw0bZrGCD2vHPiM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xqnb1mf9603ol2uowrz0r2nc2fzjvut2?d=identicon",
+        "country": "FE",
+        "ethereum_address": "0xD5Db2CB4E7689EeFD939Ae9c57a7d1B6C0dc9020",
+        "id": "7887277185ebf99670f0ae99efe6d0ac34dd09a28af851dbbe7e7e3dc72ca367",
+        "info_url": "https://en.wikipedia.org/wiki/Utsayantha_Mountain",
+        "name": "frustrating-bird",
+        "tm_pub_key": "TOUInd69WSYRDkxuUB5k/pMIrwWfBw0bZrGCD2vHPiM=",
+        "vega_pub_key": "74e81b29c22304e7e9d36e7e26ca5f67f1cac5ca9bbb3a5c74c925b45d1fb8f5",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403121437",
+  "chain_id": "vega-devnet1-202403121608",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-12T14:37:41.673729663Z",
+  "genesis_time": "2024-03-12T16:08:38.08331898Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "C3CCA2F39B57A86301F5BE6FC1D4D1F59E7701A8",
-      "name": "promising-country",
+      "address": "79EEA2FAAB261858899F5D050C7C55757C99771B",
+      "name": "frustrating-bird",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "wKuXUcoPXlTBFU1vYK1UbkpdcX5FWVs5Qwb9hLNQfA4="
+        "value": "TOUInd69WSYRDkxuUB5k/pMIrwWfBw0bZrGCD2vHPiM="
       }
     }
   ]
