@@ -315,20 +315,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "TOUInd69WSYRDkxuUB5k/pMIrwWfBw0bZrGCD2vHPiM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/xqnb1mf9603ol2uowrz0r2nc2fzjvut2?d=identicon",
-        "country": "FE",
-        "ethereum_address": "0xD5Db2CB4E7689EeFD939Ae9c57a7d1B6C0dc9020",
-        "id": "7887277185ebf99670f0ae99efe6d0ac34dd09a28af851dbbe7e7e3dc72ca367",
-        "info_url": "https://en.wikipedia.org/wiki/Utsayantha_Mountain",
-        "name": "frustrating-bird",
-        "tm_pub_key": "TOUInd69WSYRDkxuUB5k/pMIrwWfBw0bZrGCD2vHPiM=",
-        "vega_pub_key": "74e81b29c22304e7e9d36e7e26ca5f67f1cac5ca9bbb3a5c74c925b45d1fb8f5",
+      "ev1rRXYKhWguo7w4sAYtXtBxWs2OlJj887pSwVj5IMg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/00zy6wsr6mxn2hjp09ywaeqei8aqt95o?d=identicon",
+        "country": "JE",
+        "ethereum_address": "0x4aE83E53C076638D2104518a22486f6f437538e6",
+        "id": "b96bc22d0d1d9004c960b71297f6f50183a344bcad10f65950e555f823b4bfca",
+        "info_url": "https://en.wikipedia.org/wiki/Tondu_Robins_A.F.C.",
+        "name": "ugly-phone",
+        "tm_pub_key": "ev1rRXYKhWguo7w4sAYtXtBxWs2OlJj887pSwVj5IMg=",
+        "vega_pub_key": "94aa3974a53b045e1b191718d7a5a31dc1f6edc8feac03fcb2f6938da9c0e839",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403121608",
+  "chain_id": "vega-devnet1-202403121724",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-12T16:08:38.08331898Z",
+  "genesis_time": "2024-03-12T17:24:48.533941837Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "79EEA2FAAB261858899F5D050C7C55757C99771B",
-      "name": "frustrating-bird",
+      "address": "08A57B0FE5E1A2D91616AA02C047F2DF29EF48B2",
+      "name": "ugly-phone",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "TOUInd69WSYRDkxuUB5k/pMIrwWfBw0bZrGCD2vHPiM="
+        "value": "ev1rRXYKhWguo7w4sAYtXtBxWs2OlJj887pSwVj5IMg="
       }
     }
   ]
