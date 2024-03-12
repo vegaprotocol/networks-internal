@@ -304,6 +304,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "Cso7pymPb2eJMrSeYlbcDnaQlgk9Fs7m1hzrPx7UqkM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/6ugs9p3k0flm9s0lf9qrwgsw3wo9lskj?d=identicon",
+        "country": "RU",
+        "ethereum_address": "0x8ffb9B146963Ee6B924B271daB5006B15Ef9b4e5",
+        "id": "5495c01a5becf0e423fbe88ac03e8026a7119a2964a25d9cacfdf07feb202b2f",
+        "info_url": "https://en.wikipedia.org/wiki/NGC_850",
+        "name": "cooperative-phone",
+        "tm_pub_key": "Cso7pymPb2eJMrSeYlbcDnaQlgk9Fs7m1hzrPx7UqkM=",
+        "vega_pub_key": "abef2754daae36c8e231341fb0749362e444d52367e3a0fc32640f942202d2b9",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -314,21 +325,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "q+JmxainjkTKtDPXmYjZ0YW7pICFj4NMXErwwCi30mw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/op4cxp58zclvzipo6brd0psh4kdabo4y?d=identicon",
-        "country": "MI",
-        "ethereum_address": "0x436F1A51C2772d3c3c95443A7694C149EF815275",
-        "id": "9749acf58b4b000a3fcaac9c3929180bd8676e345e08ed28c33cb7c5cfac07a6",
-        "info_url": "https://en.wikipedia.org/wiki/List_of_Fort_Boyard_video_games",
-        "name": "tricky-roof",
-        "tm_pub_key": "q+JmxainjkTKtDPXmYjZ0YW7pICFj4NMXErwwCi30mw=",
-        "vega_pub_key": "b5b934d28fe29b8bbc163297f77a7c9dc0b291e920a3bb145d2769d680dcc264",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403112217",
+  "chain_id": "vega-devnet1-202403121252",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-11T22:17:11.575633089Z",
+  "genesis_time": "2024-03-12T12:52:28.46931241Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "A4D0F7EDED756105B2F250B4F022E3F0BCE16C45",
-      "name": "tricky-roof",
+      "address": "8BC97702B2003ED5573BF3B5025C232C6D3FFE91",
+      "name": "cooperative-phone",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "q+JmxainjkTKtDPXmYjZ0YW7pICFj4NMXErwwCi30mw="
+        "value": "Cso7pymPb2eJMrSeYlbcDnaQlgk9Fs7m1hzrPx7UqkM="
       }
     }
   ]
