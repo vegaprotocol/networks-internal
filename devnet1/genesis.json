@@ -282,15 +282,15 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
-      "6MnoXWl5q0gyIIWH/BIAe0WIczamOkAAqV1qhHQL33I=": {
-        "avatar_url": "https://www.gravatar.com/avatar/rc95abljxgezm9zg13unjea1yl44a63y?d=identicon",
-        "country": "MJ",
-        "ethereum_address": "0x44Cbc64661Bf1f03E2161011785129543Ba57d06",
-        "id": "34fe3f4ff7104a6b1e68191dde23e60b9adb3ff0f592220fce022097813861df",
-        "info_url": "https://en.wikipedia.org/wiki/Sleeping_Bag_(band)",
-        "name": "opportune-music",
-        "tm_pub_key": "6MnoXWl5q0gyIIWH/BIAe0WIczamOkAAqV1qhHQL33I=",
-        "vega_pub_key": "305fa991599eb531f7e0c9fafdc563925e1f15972f2b5bef9664d849ca73fa8f",
+      "65kZXPMn2eT/unApclRGnFcDWA410GrzhIbLSbiEGPY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/srx7uxhogs75iwubiy33ve90qprjs5vt?d=identicon",
+        "country": "EO",
+        "ethereum_address": "0x21E0b57259eaaadFA678De95737C584905085fC6",
+        "id": "4eb94d26212b6e8de3467e69b66781dd48d97ec9d8fcf34b6ecccc99fbb4b70f",
+        "info_url": "https://en.wikipedia.org/wiki/Fort_Wright,_Kentucky",
+        "name": "tender-shoe",
+        "tm_pub_key": "65kZXPMn2eT/unApclRGnFcDWA410GrzhIbLSbiEGPY=",
+        "vega_pub_key": "22ca7d3d6c195eb8e04dd89a49c74f758ab8ef1cb97d2c46a4f5c545eced1abc",
         "vega_pub_key_index": 1
       },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202403131437",
+  "chain_id": "vega-devnet1-202403131536",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-13T14:37:58.383841082Z",
+  "genesis_time": "2024-03-13T15:36:45.071788817Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "2FABCC9345C155E15ECDF35E5635CC26B81A5C8B",
-      "name": "opportune-music",
+      "address": "260B31CFF98572A62E46975B285C781D61DC4477",
+      "name": "tender-shoe",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "6MnoXWl5q0gyIIWH/BIAe0WIczamOkAAqV1qhHQL33I="
+        "value": "65kZXPMn2eT/unApclRGnFcDWA410GrzhIbLSbiEGPY="
       }
     }
   ]
