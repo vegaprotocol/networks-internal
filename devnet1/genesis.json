@@ -282,17 +282,6 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
-      "65kZXPMn2eT/unApclRGnFcDWA410GrzhIbLSbiEGPY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/srx7uxhogs75iwubiy33ve90qprjs5vt?d=identicon",
-        "country": "EO",
-        "ethereum_address": "0x21E0b57259eaaadFA678De95737C584905085fC6",
-        "id": "4eb94d26212b6e8de3467e69b66781dd48d97ec9d8fcf34b6ecccc99fbb4b70f",
-        "info_url": "https://en.wikipedia.org/wiki/Fort_Wright,_Kentucky",
-        "name": "tender-shoe",
-        "tm_pub_key": "65kZXPMn2eT/unApclRGnFcDWA410GrzhIbLSbiEGPY=",
-        "vega_pub_key": "22ca7d3d6c195eb8e04dd89a49c74f758ab8ef1cb97d2c46a4f5c545eced1abc",
-        "vega_pub_key_index": 1
-      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -325,10 +314,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "aWLOGpNzrtJacNH4r6NRmd/MQNfD+bvd6x73MDSyxNI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/tu6vwhmw6ygu3zdbcjvjqh0vcgu1mnd8?d=identicon",
+        "country": "RI",
+        "ethereum_address": "0x3550aE90Dd3E33c5e0BBb5a92Ed7B2484bBB73b3",
+        "id": "b70ce75dd3440e09d999b12a9bc0dc61d9cfe27e43c1fadbbbfe14b3891b01df",
+        "info_url": "https://en.wikipedia.org/wiki/Maggie_Hassan",
+        "name": "short-spoon",
+        "tm_pub_key": "aWLOGpNzrtJacNH4r6NRmd/MQNfD+bvd6x73MDSyxNI=",
+        "vega_pub_key": "af131fb53e6ba18b0aff146a0e6c43c56d37224198a36cf0f72f8bec41a1e9ea",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403131536",
+  "chain_id": "vega-devnet1-202403131736",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-13T15:36:45.071788817Z",
+  "genesis_time": "2024-03-13T17:36:06.815767109Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "260B31CFF98572A62E46975B285C781D61DC4477",
-      "name": "tender-shoe",
+      "address": "C45488BB5C1CBD43FAC261C8B1B333D31E504AA0",
+      "name": "short-spoon",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "65kZXPMn2eT/unApclRGnFcDWA410GrzhIbLSbiEGPY="
+        "value": "aWLOGpNzrtJacNH4r6NRmd/MQNfD+bvd6x73MDSyxNI="
       }
     }
   ]
