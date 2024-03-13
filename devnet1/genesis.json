@@ -315,20 +315,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "oIyhluZ/9IwmL6m3DZlJICDpuyDj1/RHI47I0EkDJP0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/jnza195jg1e22z9boba3r9cvhti1l192?d=identicon",
-        "country": "TW",
-        "ethereum_address": "0xA04Ea0c20e52ad3E9b50A9ab7BbdCFF3AdBf3E35",
-        "id": "9c8d6a72f77c9dfa6f0f13745e4383d0cb975b11f2145e9ef70e883113e5d33b",
-        "info_url": "https://en.wikipedia.org/wiki/High-speed_transport",
-        "name": "cooperative-butterfly",
-        "tm_pub_key": "oIyhluZ/9IwmL6m3DZlJICDpuyDj1/RHI47I0EkDJP0=",
-        "vega_pub_key": "0ce8950e2fe6244e3f6058b27409f0d4fd44de27ebe433b2bbb64d6b60000b8c",
+      "WlBSrLQ1FkaN31C43TfK82SKhq/lfa5d9QBFXJui89c=": {
+        "avatar_url": "https://www.gravatar.com/avatar/vgf1u7n7d5k36bz65c6w0jawxl94nzki?d=identicon",
+        "country": "NZ",
+        "ethereum_address": "0xd399E2a52f5e0c6711Ac63584cA32714780e5975",
+        "id": "9c2420ea9b950c32ef29bacf2a322d21582f41bb77873dcd117436ac32032697",
+        "info_url": "https://en.wikipedia.org/wiki/Corbetta,_Lombardy",
+        "name": "blue-cloud",
+        "tm_pub_key": "WlBSrLQ1FkaN31C43TfK82SKhq/lfa5d9QBFXJui89c=",
+        "vega_pub_key": "1866f2bb70877f580a3f25714516425a73a7de5da9cc1399768e7d90893e9f61",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403130916",
+  "chain_id": "vega-devnet1-202403131348",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-13T09:16:19.292808135Z",
+  "genesis_time": "2024-03-13T13:48:53.875612661Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "0FC829AC693892F237FA8DC41FBF436E768D43A4",
-      "name": "cooperative-butterfly",
+      "address": "E5255C11FBD825BC68202929976E745748B1FFC8",
+      "name": "blue-cloud",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "oIyhluZ/9IwmL6m3DZlJICDpuyDj1/RHI47I0EkDJP0="
+        "value": "WlBSrLQ1FkaN31C43TfK82SKhq/lfa5d9QBFXJui89c="
       }
     }
   ]
