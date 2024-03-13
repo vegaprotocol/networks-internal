@@ -282,6 +282,17 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
+      "6MnoXWl5q0gyIIWH/BIAe0WIczamOkAAqV1qhHQL33I=": {
+        "avatar_url": "https://www.gravatar.com/avatar/rc95abljxgezm9zg13unjea1yl44a63y?d=identicon",
+        "country": "MJ",
+        "ethereum_address": "0x44Cbc64661Bf1f03E2161011785129543Ba57d06",
+        "id": "34fe3f4ff7104a6b1e68191dde23e60b9adb3ff0f592220fce022097813861df",
+        "info_url": "https://en.wikipedia.org/wiki/Sleeping_Bag_(band)",
+        "name": "opportune-music",
+        "tm_pub_key": "6MnoXWl5q0gyIIWH/BIAe0WIczamOkAAqV1qhHQL33I=",
+        "vega_pub_key": "305fa991599eb531f7e0c9fafdc563925e1f15972f2b5bef9664d849ca73fa8f",
+        "vega_pub_key_index": 1
+      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -314,21 +325,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "WlBSrLQ1FkaN31C43TfK82SKhq/lfa5d9QBFXJui89c=": {
-        "avatar_url": "https://www.gravatar.com/avatar/vgf1u7n7d5k36bz65c6w0jawxl94nzki?d=identicon",
-        "country": "NZ",
-        "ethereum_address": "0xd399E2a52f5e0c6711Ac63584cA32714780e5975",
-        "id": "9c2420ea9b950c32ef29bacf2a322d21582f41bb77873dcd117436ac32032697",
-        "info_url": "https://en.wikipedia.org/wiki/Corbetta,_Lombardy",
-        "name": "blue-cloud",
-        "tm_pub_key": "WlBSrLQ1FkaN31C43TfK82SKhq/lfa5d9QBFXJui89c=",
-        "vega_pub_key": "1866f2bb70877f580a3f25714516425a73a7de5da9cc1399768e7d90893e9f61",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403131348",
+  "chain_id": "vega-devnet1-202403131437",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-13T13:48:53.875612661Z",
+  "genesis_time": "2024-03-13T14:37:58.383841082Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "E5255C11FBD825BC68202929976E745748B1FFC8",
-      "name": "blue-cloud",
+      "address": "2FABCC9345C155E15ECDF35E5635CC26B81A5C8B",
+      "name": "opportune-music",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "WlBSrLQ1FkaN31C43TfK82SKhq/lfa5d9QBFXJui89c="
+        "value": "6MnoXWl5q0gyIIWH/BIAe0WIczamOkAAqV1qhHQL33I="
       }
     }
   ]
