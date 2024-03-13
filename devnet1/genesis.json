@@ -271,17 +271,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "+Yms3opRfx0/T25kQizWXGnkYsONb7hfGd0fFUt+kuk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ttp92b0z4svjjr4ig7lk8pe6u7dc0rp0?d=identicon",
-        "country": "OM",
-        "ethereum_address": "0x7CBd287208733530F0a4156Bd78310105ab15c97",
-        "id": "d9f6f8004b3673a79716a36bf3b2c5c14aa618ff717886bf5dd2224fda2c9e9d",
-        "info_url": "https://en.wikipedia.org/wiki/Amy_Correia",
-        "name": "important-music",
-        "tm_pub_key": "+Yms3opRfx0/T25kQizWXGnkYsONb7hfGd0fFUt+kuk=",
-        "vega_pub_key": "fdbbea7019ab9bed07dd0c0bfa69560b617f996b9a51f940455536047463cd57",
-        "vega_pub_key_index": 1
-      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -325,10 +314,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "oIyhluZ/9IwmL6m3DZlJICDpuyDj1/RHI47I0EkDJP0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/jnza195jg1e22z9boba3r9cvhti1l192?d=identicon",
+        "country": "TW",
+        "ethereum_address": "0xA04Ea0c20e52ad3E9b50A9ab7BbdCFF3AdBf3E35",
+        "id": "9c8d6a72f77c9dfa6f0f13745e4383d0cb975b11f2145e9ef70e883113e5d33b",
+        "info_url": "https://en.wikipedia.org/wiki/High-speed_transport",
+        "name": "cooperative-butterfly",
+        "tm_pub_key": "oIyhluZ/9IwmL6m3DZlJICDpuyDj1/RHI47I0EkDJP0=",
+        "vega_pub_key": "0ce8950e2fe6244e3f6058b27409f0d4fd44de27ebe433b2bbb64d6b60000b8c",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403121816",
+  "chain_id": "vega-devnet1-202403130916",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-12T18:16:21.679669964Z",
+  "genesis_time": "2024-03-13T09:16:19.292808135Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "FB689BECE78957BE4129CAD85BED724FAFAB094D",
-      "name": "important-music",
+      "address": "0FC829AC693892F237FA8DC41FBF436E768D43A4",
+      "name": "cooperative-butterfly",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "+Yms3opRfx0/T25kQizWXGnkYsONb7hfGd0fFUt+kuk="
+        "value": "oIyhluZ/9IwmL6m3DZlJICDpuyDj1/RHI47I0EkDJP0="
       }
     }
   ]
