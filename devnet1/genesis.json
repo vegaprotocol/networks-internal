@@ -304,6 +304,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "DxMXRglA33fUPaeALgrM2ONSzAkLy5wlkFjpBDN8024=": {
+        "avatar_url": "https://www.gravatar.com/avatar/kj560jhl0ly37269q0b5d98weemqzzep?d=identicon",
+        "country": "SS",
+        "ethereum_address": "0xC657A27b79D6B658c87d50aF64b52B51fFDAc07C",
+        "id": "4bc21f79c7daf9117a1981ad195017beb6e0d596543a117537a65b008aa5703f",
+        "info_url": "https://en.wikipedia.org/wiki/Kate_Bernheimer",
+        "name": "friendly-man",
+        "tm_pub_key": "DxMXRglA33fUPaeALgrM2ONSzAkLy5wlkFjpBDN8024=",
+        "vega_pub_key": "ea9d688da2ee5844d984955f16cf6e0e0c46c89905a18c77a0f00edab6f14451",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -314,21 +325,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "aWLOGpNzrtJacNH4r6NRmd/MQNfD+bvd6x73MDSyxNI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/tu6vwhmw6ygu3zdbcjvjqh0vcgu1mnd8?d=identicon",
-        "country": "RI",
-        "ethereum_address": "0x3550aE90Dd3E33c5e0BBb5a92Ed7B2484bBB73b3",
-        "id": "b70ce75dd3440e09d999b12a9bc0dc61d9cfe27e43c1fadbbbfe14b3891b01df",
-        "info_url": "https://en.wikipedia.org/wiki/Maggie_Hassan",
-        "name": "short-spoon",
-        "tm_pub_key": "aWLOGpNzrtJacNH4r6NRmd/MQNfD+bvd6x73MDSyxNI=",
-        "vega_pub_key": "af131fb53e6ba18b0aff146a0e6c43c56d37224198a36cf0f72f8bec41a1e9ea",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403131736",
+  "chain_id": "vega-devnet1-202403141019",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-13T17:36:06.815767109Z",
+  "genesis_time": "2024-03-14T10:19:02.07050767Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "C45488BB5C1CBD43FAC261C8B1B333D31E504AA0",
-      "name": "short-spoon",
+      "address": "EA9335BAAC35800E76C542676B7821EB56362A25",
+      "name": "friendly-man",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "aWLOGpNzrtJacNH4r6NRmd/MQNfD+bvd6x73MDSyxNI="
+        "value": "DxMXRglA33fUPaeALgrM2ONSzAkLy5wlkFjpBDN8024="
       }
     }
   ]
