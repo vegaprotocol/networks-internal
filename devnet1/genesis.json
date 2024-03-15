@@ -271,6 +271,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "09tpIQ3NbdjXESGlIOCdUqPsliz9geiHnIp7oUV2x5M=": {
+        "avatar_url": "https://www.gravatar.com/avatar/nsyff9s389l9tsgp3g4qpb0qpxok3khp?d=identicon",
+        "country": "BW",
+        "ethereum_address": "0x00257B666c74eEDD96bcA0F387c24462D90414A4",
+        "id": "4c78d74015c2332040c9b74a5f2f49155d3770a4f144ba3239aed7d848cf8762",
+        "info_url": "https://en.wikipedia.org/wiki/Giuseppe_Doldi",
+        "name": "bored-bed",
+        "tm_pub_key": "09tpIQ3NbdjXESGlIOCdUqPsliz9geiHnIp7oUV2x5M=",
+        "vega_pub_key": "a7eb564c93ac025e0b50f5c7c3cd6a47f9fad71d826b103748dde35f89ea7ee5",
+        "vega_pub_key_index": 1
+      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -314,21 +325,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "wutf7lnov5Q6rZ9LbPrsluyE19vK/zrNUfPk/Qq6Dv0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/k7t3sylhah9mnfja4i9zklwvr2x0jrny?d=identicon",
-        "country": "PP",
-        "ethereum_address": "0x49Ec297e03D2830E5C5dcE22775D60a134FC4eC5",
-        "id": "a6513089b287613af17c78bf5e5ebbe182b38795397e3da8840ade8d76ca0e46",
-        "info_url": "https://en.wikipedia.org/wiki/Skinner%27s_Finish",
-        "name": "quaint-taxi",
-        "tm_pub_key": "wutf7lnov5Q6rZ9LbPrsluyE19vK/zrNUfPk/Qq6Dv0=",
-        "vega_pub_key": "3379d7920cd12a3463f777317e16714e2ad30cf68cf79e3edec9b29a24ab2046",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403151711",
+  "chain_id": "vega-devnet1-202403151810",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-15T17:11:43.749220144Z",
+  "genesis_time": "2024-03-15T18:10:16.702316521Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "B54AB1122353693382806631BCA08C0C3B9B8439",
-      "name": "quaint-taxi",
+      "address": "7CA274F3E6EF8F271903CE480D0A5C9EA1F60356",
+      "name": "bored-bed",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "wutf7lnov5Q6rZ9LbPrsluyE19vK/zrNUfPk/Qq6Dv0="
+        "value": "09tpIQ3NbdjXESGlIOCdUqPsliz9geiHnIp7oUV2x5M="
       }
     }
   ]
