@@ -271,17 +271,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "09tpIQ3NbdjXESGlIOCdUqPsliz9geiHnIp7oUV2x5M=": {
-        "avatar_url": "https://www.gravatar.com/avatar/nsyff9s389l9tsgp3g4qpb0qpxok3khp?d=identicon",
-        "country": "BW",
-        "ethereum_address": "0x00257B666c74eEDD96bcA0F387c24462D90414A4",
-        "id": "4c78d74015c2332040c9b74a5f2f49155d3770a4f144ba3239aed7d848cf8762",
-        "info_url": "https://en.wikipedia.org/wiki/Giuseppe_Doldi",
-        "name": "bored-bed",
-        "tm_pub_key": "09tpIQ3NbdjXESGlIOCdUqPsliz9geiHnIp7oUV2x5M=",
-        "vega_pub_key": "a7eb564c93ac025e0b50f5c7c3cd6a47f9fad71d826b103748dde35f89ea7ee5",
-        "vega_pub_key_index": 1
-      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -325,10 +314,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "Q4dMaYW94H3BwVihPyljO3wjVBccMNvt6itRQXe5PTI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/vyqisqdev3uc4brhr833gzpdkb4pz28h?d=identicon",
+        "country": "NX",
+        "ethereum_address": "0xC090163eb77bcbfC068D325c36fFe8680B22beF4",
+        "id": "0432b0e827512f35460e21bc5ea1b5a4c1236ec24a40b019826bfcc10b952424",
+        "info_url": "https://en.wikipedia.org/wiki/Indian_Summer_(Stereophonics_song)",
+        "name": "adorable-vacuum",
+        "tm_pub_key": "Q4dMaYW94H3BwVihPyljO3wjVBccMNvt6itRQXe5PTI=",
+        "vega_pub_key": "19923ade3691d2bf96708d748e8da43b58868cfdc0fff284e4e4d3052893678b",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403151810",
+  "chain_id": "vega-devnet1-202403151907",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-15T18:10:16.702316521Z",
+  "genesis_time": "2024-03-15T19:07:18.864934537Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "7CA274F3E6EF8F271903CE480D0A5C9EA1F60356",
-      "name": "bored-bed",
+      "address": "CA6D7A4B4B158FDF3A005D082E8BA7BC5DCA107A",
+      "name": "adorable-vacuum",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "09tpIQ3NbdjXESGlIOCdUqPsliz9geiHnIp7oUV2x5M="
+        "value": "Q4dMaYW94H3BwVihPyljO3wjVBccMNvt6itRQXe5PTI="
       }
     }
   ]
