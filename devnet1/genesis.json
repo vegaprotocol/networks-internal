@@ -315,20 +315,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "wiTSycLlf71Pc5P6dTuI81CFZp9xg9WlZpXwk4oiMVs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/or0lb4ivoz19nsbiwn8dicxejmhx9m4z?d=identicon",
-        "country": "FF",
-        "ethereum_address": "0xbACcD09aBa212D3a174090EaF95F3562D53d8FDe",
-        "id": "3952a56233a00aa5e5821cfef2c7ee2804f214a701dcfff7e1e3a2c92a2792dc",
-        "info_url": "https://en.wikipedia.org/wiki/Bandhan_Tod",
-        "name": "lucky-pickle",
-        "tm_pub_key": "wiTSycLlf71Pc5P6dTuI81CFZp9xg9WlZpXwk4oiMVs=",
-        "vega_pub_key": "5a07a2d1b1845cccf9b061857bc297c25e97d971bbc69f487d0b6b783445d484",
+      "h21HqHeqgDHfBsrlmcKPbwugLWMgHGweIcwJFAAbaE0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/j3s2ifbr80wlo1trxz021tifsquk7kd4?d=identicon",
+        "country": "WC",
+        "ethereum_address": "0xA5620D7dDd331f2CA5cC1af9f0A7AE92aC33D770",
+        "id": "08440dd9e5ec4ca24f285270b5aea8c2475291f0fd1778997088b2ef418961da",
+        "info_url": "https://en.wikipedia.org/wiki/St_Joseph%27s_College,_Belfast",
+        "name": "tense-shirt",
+        "tm_pub_key": "h21HqHeqgDHfBsrlmcKPbwugLWMgHGweIcwJFAAbaE0=",
+        "vega_pub_key": "1cbf18c17c1f99a23581b08c842fb0dbb0373ad3e411474ebf8aa6a505906878",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403150956",
+  "chain_id": "vega-devnet1-202403151100",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-15T09:56:19.992983595Z",
+  "genesis_time": "2024-03-15T11:00:17.082102637Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "F2DA0AF23304419986109342B7F9FD2DD5CFC55E",
-      "name": "lucky-pickle",
+      "address": "C1DD10CE962AEDF3F38A907848E8E3F93D5F48A2",
+      "name": "tense-shirt",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "wiTSycLlf71Pc5P6dTuI81CFZp9xg9WlZpXwk4oiMVs="
+        "value": "h21HqHeqgDHfBsrlmcKPbwugLWMgHGweIcwJFAAbaE0="
       }
     }
   ]
