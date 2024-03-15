@@ -315,20 +315,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "h21HqHeqgDHfBsrlmcKPbwugLWMgHGweIcwJFAAbaE0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/j3s2ifbr80wlo1trxz021tifsquk7kd4?d=identicon",
-        "country": "WC",
-        "ethereum_address": "0xA5620D7dDd331f2CA5cC1af9f0A7AE92aC33D770",
-        "id": "08440dd9e5ec4ca24f285270b5aea8c2475291f0fd1778997088b2ef418961da",
-        "info_url": "https://en.wikipedia.org/wiki/St_Joseph%27s_College,_Belfast",
-        "name": "tense-shirt",
-        "tm_pub_key": "h21HqHeqgDHfBsrlmcKPbwugLWMgHGweIcwJFAAbaE0=",
-        "vega_pub_key": "1cbf18c17c1f99a23581b08c842fb0dbb0373ad3e411474ebf8aa6a505906878",
+      "wutf7lnov5Q6rZ9LbPrsluyE19vK/zrNUfPk/Qq6Dv0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/k7t3sylhah9mnfja4i9zklwvr2x0jrny?d=identicon",
+        "country": "PP",
+        "ethereum_address": "0x49Ec297e03D2830E5C5dcE22775D60a134FC4eC5",
+        "id": "a6513089b287613af17c78bf5e5ebbe182b38795397e3da8840ade8d76ca0e46",
+        "info_url": "https://en.wikipedia.org/wiki/Skinner%27s_Finish",
+        "name": "quaint-taxi",
+        "tm_pub_key": "wutf7lnov5Q6rZ9LbPrsluyE19vK/zrNUfPk/Qq6Dv0=",
+        "vega_pub_key": "3379d7920cd12a3463f777317e16714e2ad30cf68cf79e3edec9b29a24ab2046",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403151100",
+  "chain_id": "vega-devnet1-202403151711",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-15T11:00:17.082102637Z",
+  "genesis_time": "2024-03-15T17:11:43.749220144Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "C1DD10CE962AEDF3F38A907848E8E3F93D5F48A2",
-      "name": "tense-shirt",
+      "address": "B54AB1122353693382806631BCA08C0C3B9B8439",
+      "name": "quaint-taxi",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "h21HqHeqgDHfBsrlmcKPbwugLWMgHGweIcwJFAAbaE0="
+        "value": "wutf7lnov5Q6rZ9LbPrsluyE19vK/zrNUfPk/Qq6Dv0="
       }
     }
   ]
