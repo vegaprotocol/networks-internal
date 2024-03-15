@@ -315,20 +315,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "WUSxhj+OA91E1aUN22eoBJMhrIZmHxrQOjzRYBwWZG4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ssjg4m0k1m6q1re1wkiem0ye9ib5rlww?d=identicon",
-        "country": "XI",
-        "ethereum_address": "0xD1589EF1caDC6A7CDeBfb879c6DaC242832bd521",
-        "id": "2799a082805918a659474fad120fe61a3e62294baa75f11253f48d056d55244f",
-        "info_url": "https://en.wikipedia.org/wiki/EasyHotel",
-        "name": "quaint-bed",
-        "tm_pub_key": "WUSxhj+OA91E1aUN22eoBJMhrIZmHxrQOjzRYBwWZG4=",
-        "vega_pub_key": "feae1118f9f1835cc545b2daeb1ef9e460a3a98074c05a09bc439412dca9336c",
+      "wiTSycLlf71Pc5P6dTuI81CFZp9xg9WlZpXwk4oiMVs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/or0lb4ivoz19nsbiwn8dicxejmhx9m4z?d=identicon",
+        "country": "FF",
+        "ethereum_address": "0xbACcD09aBa212D3a174090EaF95F3562D53d8FDe",
+        "id": "3952a56233a00aa5e5821cfef2c7ee2804f214a701dcfff7e1e3a2c92a2792dc",
+        "info_url": "https://en.wikipedia.org/wiki/Bandhan_Tod",
+        "name": "lucky-pickle",
+        "tm_pub_key": "wiTSycLlf71Pc5P6dTuI81CFZp9xg9WlZpXwk4oiMVs=",
+        "vega_pub_key": "5a07a2d1b1845cccf9b061857bc297c25e97d971bbc69f487d0b6b783445d484",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403141231",
+  "chain_id": "vega-devnet1-202403150956",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-14T12:31:51.970058687Z",
+  "genesis_time": "2024-03-15T09:56:19.992983595Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "FF24E579EB58E4B24B01B56515B0387C3FC3B9E1",
-      "name": "quaint-bed",
+      "address": "F2DA0AF23304419986109342B7F9FD2DD5CFC55E",
+      "name": "lucky-pickle",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "WUSxhj+OA91E1aUN22eoBJMhrIZmHxrQOjzRYBwWZG4="
+        "value": "wiTSycLlf71Pc5P6dTuI81CFZp9xg9WlZpXwk4oiMVs="
       }
     }
   ]
