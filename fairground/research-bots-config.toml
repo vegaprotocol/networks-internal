@@ -1457,27 +1457,28 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 
 [scenario.incentive_solusdt_cap]
-    market_name = "Solana - Auction Hunters"
+    market_name = "Solana - Slide and Ride II"
     binance_code = "SOLUSDT"
-    step_length_seconds = 5
+    step_length_seconds = 1
     [scenario.incentive_solusdt_cap.market_manager_args]
         asset_name = "USD-CAP"
         adp = 6
-        mdp = 2
+        mdp = 1
         pdp = 0
     [scenario.incentive_solusdt_cap.market_maker_args]
-        market_kappa = 300000
+        market_kappa = 300
         market_order_arrival_rate = 150
-        order_kappa = 19.15
+        order_kappa = 2.15
         order_size = 1
         order_levels = 25
-        order_spacing = 0.01
+        order_spacing = 0.1
         order_clipping = 5
         inventory_lower_boundary = -3
         inventory_upper_boundary = 3
         fee_amount = 0.0001
-        commitment_amount = 37500
+        commitment_amount = 150000
         initial_mint = 200000
+        isolated_margin_factor = 0.4
     [scenario.incentive_solusdt_cap.auction_trader_args]
         traders = 2
         initial_volume = 2
@@ -1485,7 +1486,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
     [scenario.incentive_solusdt_cap.random_trader_args]
         traders = 10
         order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-        order_volume = [1.0, 5.0, 10.0, 20.0, 25.0, 28.0, 38.0, 50.0, 64.0, 76.0, 88.0] # 
+        order_volume = [1.0, 2.0, 3.0, 5.0, 7.0, 8.0, 10.0, 15.0, 18.0, 25.0, 30.0] # 
         step_bias = [0.111, 0.222, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
         initial_mint = 15000
     [scenario.incentive_solusdt_cap.sensitive_trader_args]
