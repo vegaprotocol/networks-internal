@@ -304,6 +304,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "IQLWk4Vsr6iuyM9B5jq5zazhd4EyqSpw5vYQXNjAVMA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/qkzs0zjanjjipxtpdmo0ldpj1uuloa3i?d=identicon",
+        "country": "FP",
+        "ethereum_address": "0xAA1b7947Bf66b1a6F5B4a1b6d5A6c98AB081540D",
+        "id": "3ca338dd3e21b93e367e6b5d69bd0bbb65c1c058c887006a69b71dfdd008c881",
+        "info_url": "https://en.wikipedia.org/wiki/Gurli_Ramgarhwa_railway_station",
+        "name": "helpful-ball",
+        "tm_pub_key": "IQLWk4Vsr6iuyM9B5jq5zazhd4EyqSpw5vYQXNjAVMA=",
+        "vega_pub_key": "7879a0f78564601cb892a53c0a8c62baf70bd2d54e4c4786326cf8c30ef14b62",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -314,21 +325,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "b0Y8L4RqoWNVMa5awK1ErrZb5TPYgEulCpGsTJ9GM2M=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ju196xco4wte3xxv1yvhsyy9hbmx8nec?d=identicon",
-        "country": "HP",
-        "ethereum_address": "0xAbd238Ba78C2F2c5B731d84b9aBF40d8d293c422",
-        "id": "cf74ce73b7d54f9d7b7081e99759dfc4d2c565b38fd1c23982a42839bada975a",
-        "info_url": "https://en.wikipedia.org/wiki/South_Lyon_Community_Schools",
-        "name": "inexpensive-spoon",
-        "tm_pub_key": "b0Y8L4RqoWNVMa5awK1ErrZb5TPYgEulCpGsTJ9GM2M=",
-        "vega_pub_key": "974a6688db1ceeaf319e213c4a72ac5f3c61402167ff4a60b71af0fca9fde362",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403181534",
+  "chain_id": "vega-devnet1-202403181632",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-18T15:34:46.813269274Z",
+  "genesis_time": "2024-03-18T16:32:22.593414147Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "AA7C47689CD8721865CCAA8A68FDE9AE91F63461",
-      "name": "inexpensive-spoon",
+      "address": "AC2D129637A703DB0444EF07509CE9296D6C7BFA",
+      "name": "helpful-ball",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "b0Y8L4RqoWNVMa5awK1ErrZb5TPYgEulCpGsTJ9GM2M="
+        "value": "IQLWk4Vsr6iuyM9B5jq5zazhd4EyqSpw5vYQXNjAVMA="
       }
     }
   ]
