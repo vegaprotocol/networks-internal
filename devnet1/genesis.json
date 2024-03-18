@@ -304,6 +304,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "LiJF2n/lfXl4ZLfzT8gDW4HaZOaReF+75+UVMKOQdRY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/eiung4jmgl9xyz3o9n2e7od761pj0608?d=identicon",
+        "country": "LZ",
+        "ethereum_address": "0xEd8B57086D39E3faE79216D56bc7B567392a7B34",
+        "id": "e88176c392a5420f2125073410066405a33ba652ddb4a6b6c3457f4918364089",
+        "info_url": "https://en.wikipedia.org/wiki/1995_New_Zealand_firefighter_referendum",
+        "name": "lucky-tile",
+        "tm_pub_key": "LiJF2n/lfXl4ZLfzT8gDW4HaZOaReF+75+UVMKOQdRY=",
+        "vega_pub_key": "a77ca0364773e324734ce630bdf1f646721fe244660e2dc7e3e2ee9336c22dc2",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -314,21 +325,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "Q4dMaYW94H3BwVihPyljO3wjVBccMNvt6itRQXe5PTI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/vyqisqdev3uc4brhr833gzpdkb4pz28h?d=identicon",
-        "country": "NX",
-        "ethereum_address": "0xC090163eb77bcbfC068D325c36fFe8680B22beF4",
-        "id": "0432b0e827512f35460e21bc5ea1b5a4c1236ec24a40b019826bfcc10b952424",
-        "info_url": "https://en.wikipedia.org/wiki/Indian_Summer_(Stereophonics_song)",
-        "name": "adorable-vacuum",
-        "tm_pub_key": "Q4dMaYW94H3BwVihPyljO3wjVBccMNvt6itRQXe5PTI=",
-        "vega_pub_key": "19923ade3691d2bf96708d748e8da43b58868cfdc0fff284e4e4d3052893678b",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403151907",
+  "chain_id": "vega-devnet1-202403181339",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-15T19:07:18.864934537Z",
+  "genesis_time": "2024-03-18T13:39:57.814658544Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "CA6D7A4B4B158FDF3A005D082E8BA7BC5DCA107A",
-      "name": "adorable-vacuum",
+      "address": "31FAAE500B95C9121D2D36CBD21A15897AB485A7",
+      "name": "lucky-tile",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Q4dMaYW94H3BwVihPyljO3wjVBccMNvt6itRQXe5PTI="
+        "value": "LiJF2n/lfXl4ZLfzT8gDW4HaZOaReF+75+UVMKOQdRY="
       }
     }
   ]
