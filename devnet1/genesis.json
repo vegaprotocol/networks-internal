@@ -304,17 +304,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "LiJF2n/lfXl4ZLfzT8gDW4HaZOaReF+75+UVMKOQdRY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/eiung4jmgl9xyz3o9n2e7od761pj0608?d=identicon",
-        "country": "LZ",
-        "ethereum_address": "0xEd8B57086D39E3faE79216D56bc7B567392a7B34",
-        "id": "e88176c392a5420f2125073410066405a33ba652ddb4a6b6c3457f4918364089",
-        "info_url": "https://en.wikipedia.org/wiki/1995_New_Zealand_firefighter_referendum",
-        "name": "lucky-tile",
-        "tm_pub_key": "LiJF2n/lfXl4ZLfzT8gDW4HaZOaReF+75+UVMKOQdRY=",
-        "vega_pub_key": "a77ca0364773e324734ce630bdf1f646721fe244660e2dc7e3e2ee9336c22dc2",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -325,10 +314,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "b0Y8L4RqoWNVMa5awK1ErrZb5TPYgEulCpGsTJ9GM2M=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ju196xco4wte3xxv1yvhsyy9hbmx8nec?d=identicon",
+        "country": "HP",
+        "ethereum_address": "0xAbd238Ba78C2F2c5B731d84b9aBF40d8d293c422",
+        "id": "cf74ce73b7d54f9d7b7081e99759dfc4d2c565b38fd1c23982a42839bada975a",
+        "info_url": "https://en.wikipedia.org/wiki/South_Lyon_Community_Schools",
+        "name": "inexpensive-spoon",
+        "tm_pub_key": "b0Y8L4RqoWNVMa5awK1ErrZb5TPYgEulCpGsTJ9GM2M=",
+        "vega_pub_key": "974a6688db1ceeaf319e213c4a72ac5f3c61402167ff4a60b71af0fca9fde362",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403181339",
+  "chain_id": "vega-devnet1-202403181534",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-18T13:39:57.814658544Z",
+  "genesis_time": "2024-03-18T15:34:46.813269274Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "31FAAE500B95C9121D2D36CBD21A15897AB485A7",
-      "name": "lucky-tile",
+      "address": "AA7C47689CD8721865CCAA8A68FDE9AE91F63461",
+      "name": "inexpensive-spoon",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "LiJF2n/lfXl4ZLfzT8gDW4HaZOaReF+75+UVMKOQdRY="
+        "value": "b0Y8L4RqoWNVMa5awK1ErrZb5TPYgEulCpGsTJ9GM2M="
       }
     }
   ]
