@@ -271,17 +271,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "1bxiKiKX19kwaky1Duz9uytSJRQYfb97Jg1/iQlTw2M=": {
-        "avatar_url": "https://www.gravatar.com/avatar/j5mrydb1l04a3mlwbj8wlmmcab2i9tgc?d=identicon",
-        "country": "ZT",
-        "ethereum_address": "0xFF0eCc99BC10012aF58647709c50596831FA3F9E",
-        "id": "770e0f84dcba2e134a10e6eb739e2eb726b03d25a4d616085b5edf6412b59203",
-        "info_url": "https://en.wikipedia.org/wiki/Growth_elasticity_of_poverty",
-        "name": "frightened-burger",
-        "tm_pub_key": "1bxiKiKX19kwaky1Duz9uytSJRQYfb97Jg1/iQlTw2M=",
-        "vega_pub_key": "9111ab9ed83163941bd9f0b44fa49b938b4f3950a18c20ddc89ca99fe5c4e824",
-        "vega_pub_key_index": 1
-      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -315,6 +304,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "F6hwzPOF6je/5ZTHp1vdJSxm/DOyPPWXuDgk7lC1E0s=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ypddl71nkqd2tpiu1lezpmu2r272mvrq?d=identicon",
+        "country": "VZ",
+        "ethereum_address": "0x12B078a12a902dD84a549B2402DC023C77d38e0E",
+        "id": "52a65801e9c4ce6981867c4815aaf8b5b7f2ecc56530abcf1ece010b3f0cc10f",
+        "info_url": "https://en.wikipedia.org/wiki/Kim_Dotcom",
+        "name": "impressionable-hill",
+        "tm_pub_key": "F6hwzPOF6je/5ZTHp1vdJSxm/DOyPPWXuDgk7lC1E0s=",
+        "vega_pub_key": "f990a30ff6b24668ef08865185df9ab96927d2f82fc6a9834d4a40d6e48d7165",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202403191707",
+  "chain_id": "vega-devnet1-202403191805",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-19T17:07:47.201869926Z",
+  "genesis_time": "2024-03-19T18:05:12.054550473Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "4F05AC454649EF39B24B0530A63DCDC088C3A25C",
-      "name": "frightened-burger",
+      "address": "741F278C2E283E3CE853A47018A7E49E04C35045",
+      "name": "impressionable-hill",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "1bxiKiKX19kwaky1Duz9uytSJRQYfb97Jg1/iQlTw2M="
+        "value": "F6hwzPOF6je/5ZTHp1vdJSxm/DOyPPWXuDgk7lC1E0s="
       }
     }
   ]
