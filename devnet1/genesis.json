@@ -271,6 +271,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "1bxiKiKX19kwaky1Duz9uytSJRQYfb97Jg1/iQlTw2M=": {
+        "avatar_url": "https://www.gravatar.com/avatar/j5mrydb1l04a3mlwbj8wlmmcab2i9tgc?d=identicon",
+        "country": "ZT",
+        "ethereum_address": "0xFF0eCc99BC10012aF58647709c50596831FA3F9E",
+        "id": "770e0f84dcba2e134a10e6eb739e2eb726b03d25a4d616085b5edf6412b59203",
+        "info_url": "https://en.wikipedia.org/wiki/Growth_elasticity_of_poverty",
+        "name": "frightened-burger",
+        "tm_pub_key": "1bxiKiKX19kwaky1Duz9uytSJRQYfb97Jg1/iQlTw2M=",
+        "vega_pub_key": "9111ab9ed83163941bd9f0b44fa49b938b4f3950a18c20ddc89ca99fe5c4e824",
+        "vega_pub_key_index": 1
+      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -304,17 +315,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "Og0XLZlmQDlIkosOZLuUX+zNRajQVxPJFYYInlkphbE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/5bvzirodskhex7d9xjy72nmhlrt541q3?d=identicon",
-        "country": "KP",
-        "ethereum_address": "0x8a282ff1852cb1bD1DfDED943F9569830D34088a",
-        "id": "7a9396fef3c617103c438800e9afc484d5b271d584d889d3ce1738f764017f0b",
-        "info_url": "https://en.wikipedia.org/wiki/Ida_Carmelitta",
-        "name": "tender-mouse",
-        "tm_pub_key": "Og0XLZlmQDlIkosOZLuUX+zNRajQVxPJFYYInlkphbE=",
-        "vega_pub_key": "7317a9f23cfcdd3d7978ec3a5149b859e5a841fae4b8ebdadda900e927c20293",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202403191610",
+  "chain_id": "vega-devnet1-202403191707",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-19T16:10:04.504889716Z",
+  "genesis_time": "2024-03-19T17:07:47.201869926Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "76FC1DB7800D6CBFD56477F62E99E44FA6D76340",
-      "name": "tender-mouse",
+      "address": "4F05AC454649EF39B24B0530A63DCDC088C3A25C",
+      "name": "frightened-burger",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Og0XLZlmQDlIkosOZLuUX+zNRajQVxPJFYYInlkphbE="
+        "value": "1bxiKiKX19kwaky1Duz9uytSJRQYfb97Jg1/iQlTw2M="
       }
     }
   ]
