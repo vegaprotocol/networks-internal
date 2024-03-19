@@ -304,17 +304,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "IQLWk4Vsr6iuyM9B5jq5zazhd4EyqSpw5vYQXNjAVMA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/qkzs0zjanjjipxtpdmo0ldpj1uuloa3i?d=identicon",
-        "country": "FP",
-        "ethereum_address": "0xAA1b7947Bf66b1a6F5B4a1b6d5A6c98AB081540D",
-        "id": "3ca338dd3e21b93e367e6b5d69bd0bbb65c1c058c887006a69b71dfdd008c881",
-        "info_url": "https://en.wikipedia.org/wiki/Gurli_Ramgarhwa_railway_station",
-        "name": "helpful-ball",
-        "tm_pub_key": "IQLWk4Vsr6iuyM9B5jq5zazhd4EyqSpw5vYQXNjAVMA=",
-        "vega_pub_key": "7879a0f78564601cb892a53c0a8c62baf70bd2d54e4c4786326cf8c30ef14b62",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -325,10 +314,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "tlPZxqssc2tcT+Q59yozrObKYwn6wzlBtrpXTWbaBN8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/zht43duw5e2ddllgoqwve5foqc5gr9i3?d=identicon",
+        "country": "YW",
+        "ethereum_address": "0x7438C4CAD60F38055453f9705D494897672e1C20",
+        "id": "792ef053be781a476023331ebfed56eabb160f78fec40ba36eb67b829af26456",
+        "info_url": "https://en.wikipedia.org/wiki/Jurubatuba_(CPTM)",
+        "name": "hallowed-biscuit",
+        "tm_pub_key": "tlPZxqssc2tcT+Q59yozrObKYwn6wzlBtrpXTWbaBN8=",
+        "vega_pub_key": "81597cb60b40e6029600483edfffd305e3f9d9043b1488634e3aa6a93bfde529",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403181632",
+  "chain_id": "vega-devnet1-202403190920",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-18T16:32:22.593414147Z",
+  "genesis_time": "2024-03-19T09:20:52.96458564Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "AC2D129637A703DB0444EF07509CE9296D6C7BFA",
-      "name": "helpful-ball",
+      "address": "1E4CEA98CE186B722E82CD59B2471B9B2D88A90D",
+      "name": "hallowed-biscuit",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "IQLWk4Vsr6iuyM9B5jq5zazhd4EyqSpw5vYQXNjAVMA="
+        "value": "tlPZxqssc2tcT+Q59yozrObKYwn6wzlBtrpXTWbaBN8="
       }
     }
   ]
