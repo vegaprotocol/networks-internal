@@ -315,20 +315,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "dPP9ipEg3W5awI3yp7NPo9wYCcpCngi5nHk2EKA1Nz4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/fnv3cvk8c8eyt626j7p5ku81hknplv71?d=identicon",
-        "country": "AQ",
-        "ethereum_address": "0xeEe638127D19BD965db2f92539FC5510C21133d4",
-        "id": "c45c7e29d38d20e3260caa35d0ce0e23e0b36747b457bc265f9ff2dc8dac26a0",
-        "info_url": "https://en.wikipedia.org/wiki/List_of_flag_bearers_for_Bohemia_at_the_Olympics",
-        "name": "melodic-milk",
-        "tm_pub_key": "dPP9ipEg3W5awI3yp7NPo9wYCcpCngi5nHk2EKA1Nz4=",
-        "vega_pub_key": "a91b476be9250abcc431dd420b9c0da399fed792b54a5b2a50e9b58c7c8555da",
+      "l6TDQyrA+oOGM47BtEVZ4pNFBXFjhSZBrR0ygjI+0FM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/budz6ky5x91a5l58eo89dyo1s5ra1gqw?d=identicon",
+        "country": "WQ",
+        "ethereum_address": "0xb6580b1A25B082273375Da1778658af4f2530267",
+        "id": "624e31a414a1bec98e515b1a83a10f737fb7adf4e10bf9a1452d3bcc6109714d",
+        "info_url": "https://en.wikipedia.org/wiki/Marsfeld_(Munich)",
+        "name": "narrow-hat",
+        "tm_pub_key": "l6TDQyrA+oOGM47BtEVZ4pNFBXFjhSZBrR0ygjI+0FM=",
+        "vega_pub_key": "ef3228c00699df711ee300d245dd8d91e49539ae08920758da659cc6d641e5ba",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403191410",
+  "chain_id": "vega-devnet1-202403191506",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-19T14:10:01.832132241Z",
+  "genesis_time": "2024-03-19T15:06:19.311546094Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "5867B95983CFDFD19123FFA883A3D87A824EB62C",
-      "name": "melodic-milk",
+      "address": "9523E8BF2EFC83BB1817DD6B8B90623F638A0647",
+      "name": "narrow-hat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "dPP9ipEg3W5awI3yp7NPo9wYCcpCngi5nHk2EKA1Nz4="
+        "value": "l6TDQyrA+oOGM47BtEVZ4pNFBXFjhSZBrR0ygjI+0FM="
       }
     }
   ]
