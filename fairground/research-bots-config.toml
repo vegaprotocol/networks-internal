@@ -1457,7 +1457,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 
 [scenario.incentive_solusdt_cap]
-    market_name = "Solana / Put a cap on it"
+    market_name = "Solana - Slide and Ride II"
     binance_code = "SOLUSDT"
     step_length_seconds = 1
     [scenario.incentive_solusdt_cap.market_manager_args]
