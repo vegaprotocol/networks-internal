@@ -271,17 +271,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "+xOeN4ppqMm16REqdLgnZtH2mPcjgtoTy4CxU2JDbvI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/0wzp204ttxtfy4bui7uepgoohkdr0b7w?d=identicon",
-        "country": "BU",
-        "ethereum_address": "0xbDdA592AB8B2B8abf114ae30a46D1a355A6E3dA8",
-        "id": "e4bad51d7bef241e3d628308851d3fbdea5a87f640f6dcb8fc69af05bc9214fe",
-        "info_url": "https://en.wikipedia.org/wiki/Kai_Rooney",
-        "name": "mango-country",
-        "tm_pub_key": "+xOeN4ppqMm16REqdLgnZtH2mPcjgtoTy4CxU2JDbvI=",
-        "vega_pub_key": "f2f8440b1c68373820e157adc5381b0b0d143be881c81ab82c9f1facc7a6ec20",
-        "vega_pub_key_index": 1
-      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -325,10 +314,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "dPP9ipEg3W5awI3yp7NPo9wYCcpCngi5nHk2EKA1Nz4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/fnv3cvk8c8eyt626j7p5ku81hknplv71?d=identicon",
+        "country": "AQ",
+        "ethereum_address": "0xeEe638127D19BD965db2f92539FC5510C21133d4",
+        "id": "c45c7e29d38d20e3260caa35d0ce0e23e0b36747b457bc265f9ff2dc8dac26a0",
+        "info_url": "https://en.wikipedia.org/wiki/List_of_flag_bearers_for_Bohemia_at_the_Olympics",
+        "name": "melodic-milk",
+        "tm_pub_key": "dPP9ipEg3W5awI3yp7NPo9wYCcpCngi5nHk2EKA1Nz4=",
+        "vega_pub_key": "a91b476be9250abcc431dd420b9c0da399fed792b54a5b2a50e9b58c7c8555da",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403191016",
+  "chain_id": "vega-devnet1-202403191410",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-19T10:16:44.312953586Z",
+  "genesis_time": "2024-03-19T14:10:01.832132241Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "1428EC7B8F368FF1CC51CD001E9279FECA38206E",
-      "name": "mango-country",
+      "address": "5867B95983CFDFD19123FFA883A3D87A824EB62C",
+      "name": "melodic-milk",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "+xOeN4ppqMm16REqdLgnZtH2mPcjgtoTy4CxU2JDbvI="
+        "value": "dPP9ipEg3W5awI3yp7NPo9wYCcpCngi5nHk2EKA1Nz4="
       }
     }
   ]
