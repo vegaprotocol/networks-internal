@@ -304,17 +304,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "F6hwzPOF6je/5ZTHp1vdJSxm/DOyPPWXuDgk7lC1E0s=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ypddl71nkqd2tpiu1lezpmu2r272mvrq?d=identicon",
-        "country": "VZ",
-        "ethereum_address": "0x12B078a12a902dD84a549B2402DC023C77d38e0E",
-        "id": "52a65801e9c4ce6981867c4815aaf8b5b7f2ecc56530abcf1ece010b3f0cc10f",
-        "info_url": "https://en.wikipedia.org/wiki/Kim_Dotcom",
-        "name": "impressionable-hill",
-        "tm_pub_key": "F6hwzPOF6je/5ZTHp1vdJSxm/DOyPPWXuDgk7lC1E0s=",
-        "vega_pub_key": "f990a30ff6b24668ef08865185df9ab96927d2f82fc6a9834d4a40d6e48d7165",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -325,10 +314,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "u42gayTjrH4U0jvPWZco4Q4fu7c8tnZ3WaviqneQlZ8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/4fkxo1d2hm1alwtbzbbmg7w7t1ew90vl?d=identicon",
+        "country": "QM",
+        "ethereum_address": "0xf7E2Bd5e0825BC24a19DdD65657E33583be05514",
+        "id": "0fe58cdb236655305cf4445fa770f0eb72b629a8e15f4b6d066620248de63fcc",
+        "info_url": "https://en.wikipedia.org/wiki/Consuta",
+        "name": "odd-honey",
+        "tm_pub_key": "u42gayTjrH4U0jvPWZco4Q4fu7c8tnZ3WaviqneQlZ8=",
+        "vega_pub_key": "1be380c5f293dbfcf6943dfdb4b53e2d56bfd37b344c01d0d318ce863453519e",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403191805",
+  "chain_id": "vega-devnet1-202403192049",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-19T18:05:12.054550473Z",
+  "genesis_time": "2024-03-19T20:49:55.332618768Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "741F278C2E283E3CE853A47018A7E49E04C35045",
-      "name": "impressionable-hill",
+      "address": "0E1A73D9989240425A4DFEE9CA9C1550E39FCD19",
+      "name": "odd-honey",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "F6hwzPOF6je/5ZTHp1vdJSxm/DOyPPWXuDgk7lC1E0s="
+        "value": "u42gayTjrH4U0jvPWZco4Q4fu7c8tnZ3WaviqneQlZ8="
       }
     }
   ]
