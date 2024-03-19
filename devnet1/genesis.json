@@ -304,6 +304,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "Og0XLZlmQDlIkosOZLuUX+zNRajQVxPJFYYInlkphbE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/5bvzirodskhex7d9xjy72nmhlrt541q3?d=identicon",
+        "country": "KP",
+        "ethereum_address": "0x8a282ff1852cb1bD1DfDED943F9569830D34088a",
+        "id": "7a9396fef3c617103c438800e9afc484d5b271d584d889d3ce1738f764017f0b",
+        "info_url": "https://en.wikipedia.org/wiki/Ida_Carmelitta",
+        "name": "tender-mouse",
+        "tm_pub_key": "Og0XLZlmQDlIkosOZLuUX+zNRajQVxPJFYYInlkphbE=",
+        "vega_pub_key": "7317a9f23cfcdd3d7978ec3a5149b859e5a841fae4b8ebdadda900e927c20293",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -314,21 +325,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "l6TDQyrA+oOGM47BtEVZ4pNFBXFjhSZBrR0ygjI+0FM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/budz6ky5x91a5l58eo89dyo1s5ra1gqw?d=identicon",
-        "country": "WQ",
-        "ethereum_address": "0xb6580b1A25B082273375Da1778658af4f2530267",
-        "id": "624e31a414a1bec98e515b1a83a10f737fb7adf4e10bf9a1452d3bcc6109714d",
-        "info_url": "https://en.wikipedia.org/wiki/Marsfeld_(Munich)",
-        "name": "narrow-hat",
-        "tm_pub_key": "l6TDQyrA+oOGM47BtEVZ4pNFBXFjhSZBrR0ygjI+0FM=",
-        "vega_pub_key": "ef3228c00699df711ee300d245dd8d91e49539ae08920758da659cc6d641e5ba",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403191506",
+  "chain_id": "vega-devnet1-202403191610",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-19T15:06:19.311546094Z",
+  "genesis_time": "2024-03-19T16:10:04.504889716Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "9523E8BF2EFC83BB1817DD6B8B90623F638A0647",
-      "name": "narrow-hat",
+      "address": "76FC1DB7800D6CBFD56477F62E99E44FA6D76340",
+      "name": "tender-mouse",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "l6TDQyrA+oOGM47BtEVZ4pNFBXFjhSZBrR0ygjI+0FM="
+        "value": "Og0XLZlmQDlIkosOZLuUX+zNRajQVxPJFYYInlkphbE="
       }
     }
   ]
