@@ -282,17 +282,6 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
-      "7Bc81x5L2kZMuCJ/kqB61qaPZRgex1bAO7W/SMHsR6Y=": {
-        "avatar_url": "https://www.gravatar.com/avatar/v7enhdkgjun800wv8gj3avx7vq0ttg8l?d=identicon",
-        "country": "UV",
-        "ethereum_address": "0xdC6d7b853A5D480D1714201e678318A9594014ae",
-        "id": "a01d637174e496e9dfd263fa6001fa767b2981cd14cd0c3e4c8c8b8b6c5f65d8",
-        "info_url": "https://en.wikipedia.org/wiki/Cyril_Parry_(cricketer)",
-        "name": "helpless-movie",
-        "tm_pub_key": "7Bc81x5L2kZMuCJ/kqB61qaPZRgex1bAO7W/SMHsR6Y=",
-        "vega_pub_key": "443fb0f0a6a82348a0e796b42c4fa047f5dad6324c9dfb449e436f1c60f87251",
-        "vega_pub_key_index": 1
-      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -325,10 +314,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "c4nTQVi58qgYRyj09326WAxa84swWdMzjWAqvYE7mR4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/byh46rtsa7z5cj4frud74c01260hyc51?d=identicon",
+        "country": "ZW",
+        "ethereum_address": "0x9AA81AC35278D7dc6D06a11DeF49CB5df1cC3F62",
+        "id": "81166dcb1193dfd7da98f33f2cb9dd57b7a4b2d3d4da1a1315642afe321f84d7",
+        "info_url": "https://en.wikipedia.org/wiki/Labugama",
+        "name": "green-shoe",
+        "tm_pub_key": "c4nTQVi58qgYRyj09326WAxa84swWdMzjWAqvYE7mR4=",
+        "vega_pub_key": "dce54c74e6ceaceaea9bcc20ec996891b79af1f067022ec6962db0ce75884567",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403201525",
+  "chain_id": "vega-devnet1-202403201620",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-20T15:25:41.036359305Z",
+  "genesis_time": "2024-03-20T16:20:48.524084492Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "D7553D42415F5AFAABDDD66A905CDF68BFBA8461",
-      "name": "helpless-movie",
+      "address": "65F4EEF826D301379F0F3781E287CB8BA4380DA4",
+      "name": "green-shoe",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "7Bc81x5L2kZMuCJ/kqB61qaPZRgex1bAO7W/SMHsR6Y="
+        "value": "c4nTQVi58qgYRyj09326WAxa84swWdMzjWAqvYE7mR4="
       }
     }
   ]
