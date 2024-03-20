@@ -315,20 +315,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "u42gayTjrH4U0jvPWZco4Q4fu7c8tnZ3WaviqneQlZ8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/4fkxo1d2hm1alwtbzbbmg7w7t1ew90vl?d=identicon",
-        "country": "QM",
-        "ethereum_address": "0xf7E2Bd5e0825BC24a19DdD65657E33583be05514",
-        "id": "0fe58cdb236655305cf4445fa770f0eb72b629a8e15f4b6d066620248de63fcc",
-        "info_url": "https://en.wikipedia.org/wiki/Consuta",
-        "name": "odd-honey",
-        "tm_pub_key": "u42gayTjrH4U0jvPWZco4Q4fu7c8tnZ3WaviqneQlZ8=",
-        "vega_pub_key": "1be380c5f293dbfcf6943dfdb4b53e2d56bfd37b344c01d0d318ce863453519e",
+      "s7whM5bwKgHjd0A+cppLTooDSII4WsHf0Rwds/st4Ec=": {
+        "avatar_url": "https://www.gravatar.com/avatar/onpipm3kggo5srt4om0em5zk49hwjcvk?d=identicon",
+        "country": "UR",
+        "ethereum_address": "0xCAa94524C15a5Fb3274c79bEA48A6a5D34E827C7",
+        "id": "632b9581208690271dd0d76144d2ae67e6c1363687b50abbec2525a176fa54fb",
+        "info_url": "https://en.wikipedia.org/wiki/Uni%C3%B3n_de_Radioaficionados_Espa%C3%B1oles",
+        "name": "fluky-phone",
+        "tm_pub_key": "s7whM5bwKgHjd0A+cppLTooDSII4WsHf0Rwds/st4Ec=",
+        "vega_pub_key": "9253f3e185334f0133cf9b18fbd5b09739351824b5702ff8558f13b0735c5760",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403192142",
+  "chain_id": "vega-devnet1-202403201259",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-19T21:42:40.661526367Z",
+  "genesis_time": "2024-03-20T12:59:17.909765482Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "0E1A73D9989240425A4DFEE9CA9C1550E39FCD19",
-      "name": "odd-honey",
+      "address": "7C8390A5F65D62579C832822CE0C2BA1A82933F1",
+      "name": "fluky-phone",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "u42gayTjrH4U0jvPWZco4Q4fu7c8tnZ3WaviqneQlZ8="
+        "value": "s7whM5bwKgHjd0A+cppLTooDSII4WsHf0Rwds/st4Ec="
       }
     }
   ]
