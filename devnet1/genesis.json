@@ -282,6 +282,17 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
+      "7Bc81x5L2kZMuCJ/kqB61qaPZRgex1bAO7W/SMHsR6Y=": {
+        "avatar_url": "https://www.gravatar.com/avatar/v7enhdkgjun800wv8gj3avx7vq0ttg8l?d=identicon",
+        "country": "UV",
+        "ethereum_address": "0xdC6d7b853A5D480D1714201e678318A9594014ae",
+        "id": "a01d637174e496e9dfd263fa6001fa767b2981cd14cd0c3e4c8c8b8b6c5f65d8",
+        "info_url": "https://en.wikipedia.org/wiki/Cyril_Parry_(cricketer)",
+        "name": "helpless-movie",
+        "tm_pub_key": "7Bc81x5L2kZMuCJ/kqB61qaPZRgex1bAO7W/SMHsR6Y=",
+        "vega_pub_key": "443fb0f0a6a82348a0e796b42c4fa047f5dad6324c9dfb449e436f1c60f87251",
+        "vega_pub_key_index": 1
+      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -314,21 +325,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "s7whM5bwKgHjd0A+cppLTooDSII4WsHf0Rwds/st4Ec=": {
-        "avatar_url": "https://www.gravatar.com/avatar/onpipm3kggo5srt4om0em5zk49hwjcvk?d=identicon",
-        "country": "UR",
-        "ethereum_address": "0xCAa94524C15a5Fb3274c79bEA48A6a5D34E827C7",
-        "id": "632b9581208690271dd0d76144d2ae67e6c1363687b50abbec2525a176fa54fb",
-        "info_url": "https://en.wikipedia.org/wiki/Uni%C3%B3n_de_Radioaficionados_Espa%C3%B1oles",
-        "name": "fluky-phone",
-        "tm_pub_key": "s7whM5bwKgHjd0A+cppLTooDSII4WsHf0Rwds/st4Ec=",
-        "vega_pub_key": "9253f3e185334f0133cf9b18fbd5b09739351824b5702ff8558f13b0735c5760",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403201350",
+  "chain_id": "vega-devnet1-202403201525",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-20T13:50:37.196950928Z",
+  "genesis_time": "2024-03-20T15:25:41.036359305Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "7C8390A5F65D62579C832822CE0C2BA1A82933F1",
-      "name": "fluky-phone",
+      "address": "D7553D42415F5AFAABDDD66A905CDF68BFBA8461",
+      "name": "helpless-movie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "s7whM5bwKgHjd0A+cppLTooDSII4WsHf0Rwds/st4Ec="
+        "value": "7Bc81x5L2kZMuCJ/kqB61qaPZRgex1bAO7W/SMHsR6Y="
       }
     }
   ]
