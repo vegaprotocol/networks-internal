@@ -315,20 +315,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "c4nTQVi58qgYRyj09326WAxa84swWdMzjWAqvYE7mR4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/byh46rtsa7z5cj4frud74c01260hyc51?d=identicon",
-        "country": "ZW",
-        "ethereum_address": "0x9AA81AC35278D7dc6D06a11DeF49CB5df1cC3F62",
-        "id": "81166dcb1193dfd7da98f33f2cb9dd57b7a4b2d3d4da1a1315642afe321f84d7",
-        "info_url": "https://en.wikipedia.org/wiki/Labugama",
-        "name": "green-shoe",
-        "tm_pub_key": "c4nTQVi58qgYRyj09326WAxa84swWdMzjWAqvYE7mR4=",
-        "vega_pub_key": "dce54c74e6ceaceaea9bcc20ec996891b79af1f067022ec6962db0ce75884567",
+      "jwGQlHJtYUjHAdCDh6131W0BxyNwEoYfTeCHJfdw3po=": {
+        "avatar_url": "https://www.gravatar.com/avatar/7iw78xe9mcjjanyf57adxz4ihwvnedcd?d=identicon",
+        "country": "TL",
+        "ethereum_address": "0xb39Eeed932c1A47FD4BdE9f4C87d18333019189B",
+        "id": "b869de2fd5dac9892afce41ced15006769594fa330a442b3ca921d739df027a6",
+        "info_url": "https://en.wikipedia.org/wiki/Nabil_Qaouk",
+        "name": "mango-bed",
+        "tm_pub_key": "jwGQlHJtYUjHAdCDh6131W0BxyNwEoYfTeCHJfdw3po=",
+        "vega_pub_key": "4e17323cdc1e49bcb606878d7d30f2861dc4c201680a79aff2c6e35e6d3fda42",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403201620",
+  "chain_id": "vega-devnet1-202403201716",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-20T16:20:48.524084492Z",
+  "genesis_time": "2024-03-20T17:16:16.717942709Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "65F4EEF826D301379F0F3781E287CB8BA4380DA4",
-      "name": "green-shoe",
+      "address": "13314ED15E92164803DD8F198DC963526723C037",
+      "name": "mango-bed",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "c4nTQVi58qgYRyj09326WAxa84swWdMzjWAqvYE7mR4="
+        "value": "jwGQlHJtYUjHAdCDh6131W0BxyNwEoYfTeCHJfdw3po="
       }
     }
   ]
