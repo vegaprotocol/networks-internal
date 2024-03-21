@@ -304,15 +304,15 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "N+SnHA2gtJ/7nKV6FLk39pHhuGnqDrSbqKHzBRGmsc8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/gbvn3z6ihhegfo6jkozn936zbcpu7xtk?d=identicon",
-        "country": "OM",
-        "ethereum_address": "0x39817B52541aB1DEc6aa228CB10B9Feb0CA61792",
-        "id": "09e8817cba39043607c5130308e232a5926f2b9304d20fded5e3f08b169378d8",
-        "info_url": "https://en.wikipedia.org/wiki/Adam_Sarafian",
-        "name": "tender-monkey",
-        "tm_pub_key": "N+SnHA2gtJ/7nKV6FLk39pHhuGnqDrSbqKHzBRGmsc8=",
-        "vega_pub_key": "fe946928f0b7bc83ff411a7495e09a4f2c3c8e28011eea1a05e4ed82729ecd56",
+      "KsayS9VvfQi5y35CX8CatL56phAnOxwPXYpJCQ3KfMg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/smix5erptteklgs9whwq0gn2jz2ztl3m?d=identicon",
+        "country": "UQ",
+        "ethereum_address": "0x2E26B9A3b0eF8ba71A83911C230cfacd014957C5",
+        "id": "51e6ebff7ad3d9cfa486b095bb3f2f107e4dc859a798e6943f39045c0d027686",
+        "info_url": "https://en.wikipedia.org/wiki/Eduards_T%C4%ABdenbergs",
+        "name": "quiet-sister",
+        "tm_pub_key": "KsayS9VvfQi5y35CX8CatL56phAnOxwPXYpJCQ3KfMg=",
+        "vega_pub_key": "d1df72c4cb43ba51be5cd64942a441181614e28a66cc29d3a4994dfe1456ea49",
         "vega_pub_key_index": 1
       },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202403211033",
+  "chain_id": "vega-devnet1-202403211349",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-21T10:33:47.019066263Z",
+  "genesis_time": "2024-03-21T13:49:59.407905372Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "3D765F741DCD41EB830DE29A3C9D2D361CD008A7",
-      "name": "tender-monkey",
+      "address": "57B01B5B25C24ED137066FED375A49CC4F8295AE",
+      "name": "quiet-sister",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "N+SnHA2gtJ/7nKV6FLk39pHhuGnqDrSbqKHzBRGmsc8="
+        "value": "KsayS9VvfQi5y35CX8CatL56phAnOxwPXYpJCQ3KfMg="
       }
     }
   ]
