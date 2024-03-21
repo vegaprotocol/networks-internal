@@ -304,17 +304,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "KsayS9VvfQi5y35CX8CatL56phAnOxwPXYpJCQ3KfMg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/smix5erptteklgs9whwq0gn2jz2ztl3m?d=identicon",
-        "country": "UQ",
-        "ethereum_address": "0x2E26B9A3b0eF8ba71A83911C230cfacd014957C5",
-        "id": "51e6ebff7ad3d9cfa486b095bb3f2f107e4dc859a798e6943f39045c0d027686",
-        "info_url": "https://en.wikipedia.org/wiki/Eduards_T%C4%ABdenbergs",
-        "name": "quiet-sister",
-        "tm_pub_key": "KsayS9VvfQi5y35CX8CatL56phAnOxwPXYpJCQ3KfMg=",
-        "vega_pub_key": "d1df72c4cb43ba51be5cd64942a441181614e28a66cc29d3a4994dfe1456ea49",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -325,10 +314,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "mDPyei847xfeUjcU0x0j1qAbyhWYX89tajCJ/THuaq8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/g34pv7nf8yzytp4lfeyr09btxhh9kj8l?d=identicon",
+        "country": "VZ",
+        "ethereum_address": "0xa60e1F99829d54757a87e03E2C55FBB3b8503f21",
+        "id": "0f5dfb3ebb92844543141993de70cfee6889e84a3621122653906d64936faf5c",
+        "info_url": "https://en.wikipedia.org/wiki/Drama_(Montt_Mardi%C3%A9_album)",
+        "name": "better-honey",
+        "tm_pub_key": "mDPyei847xfeUjcU0x0j1qAbyhWYX89tajCJ/THuaq8=",
+        "vega_pub_key": "a38316c8970559c9440d7d973b03ce65a5963441a3a86dfcd39de4704fa9d881",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403211349",
+  "chain_id": "vega-devnet1-202403211627",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-21T13:49:59.407905372Z",
+  "genesis_time": "2024-03-21T16:27:22.768986599Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "57B01B5B25C24ED137066FED375A49CC4F8295AE",
-      "name": "quiet-sister",
+      "address": "76896495208F11527A8E6CB50FB225271430F655",
+      "name": "better-honey",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "KsayS9VvfQi5y35CX8CatL56phAnOxwPXYpJCQ3KfMg="
+        "value": "mDPyei847xfeUjcU0x0j1qAbyhWYX89tajCJ/THuaq8="
       }
     }
   ]
