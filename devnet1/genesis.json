@@ -315,20 +315,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "mDPyei847xfeUjcU0x0j1qAbyhWYX89tajCJ/THuaq8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/g34pv7nf8yzytp4lfeyr09btxhh9kj8l?d=identicon",
-        "country": "VZ",
-        "ethereum_address": "0xa60e1F99829d54757a87e03E2C55FBB3b8503f21",
-        "id": "0f5dfb3ebb92844543141993de70cfee6889e84a3621122653906d64936faf5c",
-        "info_url": "https://en.wikipedia.org/wiki/Drama_(Montt_Mardi%C3%A9_album)",
-        "name": "better-honey",
-        "tm_pub_key": "mDPyei847xfeUjcU0x0j1qAbyhWYX89tajCJ/THuaq8=",
-        "vega_pub_key": "a38316c8970559c9440d7d973b03ce65a5963441a3a86dfcd39de4704fa9d881",
+      "nrdrR5Y7EBsVaoRxhTMD8GnINOpTPtz6dietctvYAu0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/yvnnhxnx0s72yealdp48bdfla0wmyapp?d=identicon",
+        "country": "YF",
+        "ethereum_address": "0x82656b8567fF7e7Eca2f597620b992AA086CB990",
+        "id": "1d38f5f1a207091ce5ba4b128a3bf60f4d2998a56f485f495a13ab5234254c3c",
+        "info_url": "https://en.wikipedia.org/wiki/I.S.S._(film)",
+        "name": "adorable-barber",
+        "tm_pub_key": "nrdrR5Y7EBsVaoRxhTMD8GnINOpTPtz6dietctvYAu0=",
+        "vega_pub_key": "99df40d3c36c13ff02fe6da99a37c5adfa7d76bcd5deff49ffb542840ffe43c1",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403211627",
+  "chain_id": "vega-devnet1-202403211740",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-21T16:27:22.768986599Z",
+  "genesis_time": "2024-03-21T17:40:09.896577058Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "76896495208F11527A8E6CB50FB225271430F655",
-      "name": "better-honey",
+      "address": "40066D18487D78748A60659FC6B64FC6C710433F",
+      "name": "adorable-barber",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "mDPyei847xfeUjcU0x0j1qAbyhWYX89tajCJ/THuaq8="
+        "value": "nrdrR5Y7EBsVaoRxhTMD8GnINOpTPtz6dietctvYAu0="
       }
     }
   ]
