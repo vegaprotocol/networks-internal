@@ -304,15 +304,15 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "C1FPZ78VoGXTRY4rO/KZrBnYIjqCc+Yn1IWhAyPkR1I=": {
-        "avatar_url": "https://www.gravatar.com/avatar/5c148ey95gijoiac4xsq0k8o9xaefppw?d=identicon",
-        "country": "FQ",
-        "ethereum_address": "0x6f3A0408911fe2b4a291Dc3CaF7c4F01835BEf29",
-        "id": "f14088fac4aeaeeaefe71aaf57042551123ec09f1cc63c0f1c8e37247a3cd060",
-        "info_url": "https://en.wikipedia.org/wiki/Valle_del_Risco",
-        "name": "alert-sister",
-        "tm_pub_key": "C1FPZ78VoGXTRY4rO/KZrBnYIjqCc+Yn1IWhAyPkR1I=",
-        "vega_pub_key": "ae15435765360eb9d9f07aae129d3e31ef8da80589fd4c0a099d6a52604e5f5e",
+      "N+SnHA2gtJ/7nKV6FLk39pHhuGnqDrSbqKHzBRGmsc8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/gbvn3z6ihhegfo6jkozn936zbcpu7xtk?d=identicon",
+        "country": "OM",
+        "ethereum_address": "0x39817B52541aB1DEc6aa228CB10B9Feb0CA61792",
+        "id": "09e8817cba39043607c5130308e232a5926f2b9304d20fded5e3f08b169378d8",
+        "info_url": "https://en.wikipedia.org/wiki/Adam_Sarafian",
+        "name": "tender-monkey",
+        "tm_pub_key": "N+SnHA2gtJ/7nKV6FLk39pHhuGnqDrSbqKHzBRGmsc8=",
+        "vega_pub_key": "fe946928f0b7bc83ff411a7495e09a4f2c3c8e28011eea1a05e4ed82729ecd56",
         "vega_pub_key_index": 1
       },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202403210936",
+  "chain_id": "vega-devnet1-202403211033",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-21T09:36:51.01825393Z",
+  "genesis_time": "2024-03-21T10:33:47.019066263Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "5D480DD89F4CADF10667903EBE0BF56C0295B4F6",
-      "name": "alert-sister",
+      "address": "3D765F741DCD41EB830DE29A3C9D2D361CD008A7",
+      "name": "tender-monkey",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "C1FPZ78VoGXTRY4rO/KZrBnYIjqCc+Yn1IWhAyPkR1I="
+        "value": "N+SnHA2gtJ/7nKV6FLk39pHhuGnqDrSbqKHzBRGmsc8="
       }
     }
   ]
