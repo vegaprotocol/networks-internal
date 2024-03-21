@@ -304,6 +304,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "C1FPZ78VoGXTRY4rO/KZrBnYIjqCc+Yn1IWhAyPkR1I=": {
+        "avatar_url": "https://www.gravatar.com/avatar/5c148ey95gijoiac4xsq0k8o9xaefppw?d=identicon",
+        "country": "FQ",
+        "ethereum_address": "0x6f3A0408911fe2b4a291Dc3CaF7c4F01835BEf29",
+        "id": "f14088fac4aeaeeaefe71aaf57042551123ec09f1cc63c0f1c8e37247a3cd060",
+        "info_url": "https://en.wikipedia.org/wiki/Valle_del_Risco",
+        "name": "alert-sister",
+        "tm_pub_key": "C1FPZ78VoGXTRY4rO/KZrBnYIjqCc+Yn1IWhAyPkR1I=",
+        "vega_pub_key": "ae15435765360eb9d9f07aae129d3e31ef8da80589fd4c0a099d6a52604e5f5e",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -314,21 +325,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "g6AoiKQHa2r94/uatripRiuF0ISdMqhRAaEdnY4zEqo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/tpbnceencku77so00j8vn59xwpinxn7v?d=identicon",
-        "country": "GV",
-        "ethereum_address": "0x9b6347211c404dc2f59Df18EF3a82e9101F89305",
-        "id": "fdd9ef0a1f14d82562fae40d8c9d02e56dc3489c5865a7d6ef6a348f8a95dc98",
-        "info_url": "https://en.wikipedia.org/wiki/Dick_Weik",
-        "name": "confused-hill",
-        "tm_pub_key": "g6AoiKQHa2r94/uatripRiuF0ISdMqhRAaEdnY4zEqo=",
-        "vega_pub_key": "59e43f0380d3dd363dfc3c11e2f610f72ccb49b1d57e4d3a03ec893a9e978050",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403201811",
+  "chain_id": "vega-devnet1-202403210936",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-20T18:11:16.755987401Z",
+  "genesis_time": "2024-03-21T09:36:51.01825393Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "18ADC7D3B11F3911983967DCD220488C1568F6FF",
-      "name": "confused-hill",
+      "address": "5D480DD89F4CADF10667903EBE0BF56C0295B4F6",
+      "name": "alert-sister",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "g6AoiKQHa2r94/uatripRiuF0ISdMqhRAaEdnY4zEqo="
+        "value": "C1FPZ78VoGXTRY4rO/KZrBnYIjqCc+Yn1IWhAyPkR1I="
       }
     }
   ]
