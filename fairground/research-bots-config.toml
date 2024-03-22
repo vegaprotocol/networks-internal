@@ -1455,16 +1455,16 @@ state_file = "/opt/wallets-mount/wallet-state.json"
          randomise_history = false
 
 
-[scenario.incentive_solusdt_cap]
+[scenario.incentive_solusdt_cap_3]
     market_name = "Solana - III"
     binance_code = "SOLUSDT"
     step_length_seconds = 10
-    [scenario.incentive_solusdt_cap.market_manager_args]
-        asset_name = "USD-CAP"
+    [scenario.incentive_solusdt_cap_3.market_manager_args]
+        asset_name = "USD-S3"
         adp = 6
         mdp = 1
         pdp = 0
-    [scenario.incentive_solusdt_cap.market_maker_args]
+    [scenario.incentive_solusdt_cap_3.market_maker_args]
         market_kappa = 300
         market_order_arrival_rate = 150
         order_kappa = 0.15
@@ -1478,38 +1478,38 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         commitment_amount = 150000
         initial_mint = 200000
         isolated_margin_factor = 0.01
-    [scenario.incentive_solusdt_cap.auction_trader_args]
+    [scenario.incentive_solusdt_cap_3.auction_trader_args]
         traders = 2
         initial_volume = 2
         initial_mint = 10000
-    [scenario.incentive_solusdt_cap.random_trader_args]
+    [scenario.incentive_solusdt_cap_3.random_trader_args]
         traders = 0
         order_intensity = []
         order_volume = []
         step_bias = []
         initial_mint = 0
-    [scenario.incentive_solusdt_cap.sensitive_trader_args]
+    [scenario.incentive_solusdt_cap_3.sensitive_trader_args]
         traders = 0
         scale = []
         max_order_size = []
         initial_mint = 0
-     [scenario.incentive_solusdt_cap.simulation_args]
+     [scenario.incentive_solusdt_cap_3.simulation_args]
          n_steps = 99999999
          granularity = "MINUTE"
          coinbase_code = "BTC-USDT"
          start_date = "2022-11-01 00:00:00"
          randomise_history = false
 
-[scenario.1710861871incentive_solusdt_cap_traders]
+[scenario.1710861871incentive_solusdt_cap_3_traders]
     market_name = "Solana - III"
     binance_code = "SOLUSDT"
     step_length_seconds = 20
-    [scenario.1710861871incentive_solusdt_cap_traders.market_manager_args]
-        asset_name = "USD-CAP"
+    [scenario.1710861871incentive_solusdt_cap_3_traders.market_manager_args]
+        asset_name = "USD-S3"
         adp = 6
         mdp = 1
         pdp = 0
-    [scenario.1710861871incentive_solusdt_cap_traders.market_maker_args]
+    [scenario.1710861871incentive_solusdt_cap_3_traders.market_maker_args]
         market_kappa = 300
         market_order_arrival_rate = 150
         order_kappa = 0.15
@@ -1523,22 +1523,22 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         commitment_amount = 0
         initial_mint = 0
         isolated_margin_factor = 0.4
-    [scenario.1710861871incentive_solusdt_cap_traders.auction_trader_args]
+    [scenario.1710861871incentive_solusdt_cap_3_traders.auction_trader_args]
         traders = 2
         initial_volume = 2
         initial_mint = 10000
-    [scenario.1710861871incentive_solusdt_cap_traders.random_trader_args]
+    [scenario.1710861871incentive_solusdt_cap_3_traders.random_trader_args]
         traders = 30
         order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
         order_volume = [1.0, 1.5, 2.5, 3.0, 4.0, 4.6, 5.0, 6.0, 8.0, 10.0, 12.0, 1.0, 1.5, 2.5, 3.0, 4.0, 4.6, 5.0, 6.0, 8.0, 10.0, 12.0, 1.0, 1.5, 2.5, 3.0, 4.0, 4.6, 5.0, 6.0, 8.0, 10.0, 12.0] # 
         step_bias = [0.111, 0.222, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006, 0.111, 0.222, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006, 0.111, 0.222, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
         initial_mint = 60000
-    [scenario.1710861871incentive_solusdt_cap_traders.sensitive_trader_args]
+    [scenario.1710861871incentive_solusdt_cap_3_traders.sensitive_trader_args]
         traders = 0
         scale = [2, 4, 6, 8, 10, 12, 14, 16, 17, 20]
         max_order_size = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.10, 0.12, 0.14]
         initial_mint = 60000
-     [scenario.1710861871incentive_solusdt_cap_traders.simulation_args]
+     [scenario.1710861871incentive_solusdt_cap_3_traders.simulation_args]
          n_steps = 99999999
          granularity = "MINUTE"
          coinbase_code = "BTC-USDT"
