@@ -330,3 +330,49 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         coinbase_code = "BTC-USDT"
         start_date = "2022-11-01 00:00:00"
         randomise_history = false
+
+
+[scenario.spot_market]
+    market_name = "Bitcoin / Tether USD (Spot)"
+    binance_code = "BTCUSDT"
+    step_length_seconds = 20
+    [scenario.spot_market.market_manager_args]
+        asset_name = "tUSDC" # tBTC
+        quote_asset_name = "tUSDC"
+        adp = 6
+        mdp = 1
+        pdp = 0
+    [scenario.spot_market.market_maker_args]
+        market_kappa = 0.3
+        market_order_arrival_rate = 600
+        order_kappa = 0.15
+        order_size = 1
+        order_levels = 25
+        order_spacing = 1
+        order_clipping = 10000
+        inventory_lower_boundary = -3
+        inventory_upper_boundary = 3
+        fee_amount = 0.0001
+        commitment_amount = 650000
+        initial_mint = 2200000
+    [scenario.spot_market.auction_trader_args]
+        traders = 2
+        initial_volume = 0.1
+        initial_mint = 100000
+    [scenario.spot_market.random_trader_args]
+        traders = 10
+        order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+        order_volume = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.12, 0.14, 0.16, 0.18] # 
+        step_bias = [0.111, 0.95, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
+        initial_mint = 20000
+    [scenario.spot_market.sensitive_trader_args]
+        traders = 10
+        scale = [2, 4, 6, 8, 10, 12, 14, 16, 17, 20]
+        max_order_size = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.10, 0.12, 0.14]
+        initial_mint = 100000
+    [scenario.spot_market.simulation_args]
+        n_steps = 99999999
+        granularity = "MINUTE"
+        coinbase_code = "BTC-USDT"
+        start_date = "2022-11-01 00:00:00"
+        randomise_history = false
