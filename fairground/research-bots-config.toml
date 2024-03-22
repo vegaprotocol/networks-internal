@@ -1456,7 +1456,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 
 [scenario.incentive_solusdt_cap]
-    market_name = "Solana - Slide and Ride II"
+    market_name = "Solana - III"
     binance_code = "SOLUSDT"
     step_length_seconds = 10
     [scenario.incentive_solusdt_cap.market_manager_args]
@@ -1501,7 +1501,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
          randomise_history = false
 
 [scenario.1710861871incentive_solusdt_cap_traders]
-    market_name = "Solana - Slide and Ride II"
+    market_name = "Solana - III"
     binance_code = "SOLUSDT"
     step_length_seconds = 20
     [scenario.1710861871incentive_solusdt_cap_traders.market_manager_args]
