@@ -304,17 +304,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "LffN+hxY54QBtmraxBgTI4pdsSfW8Tp5Igo96V/w8q8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/v3oj9ox3xy4kg50r55srcneml556pzcf?d=identicon",
-        "country": "ZH",
-        "ethereum_address": "0x70886FFe30cc2d40EC535d3De2a7e6acFCb0ef6f",
-        "id": "bb3f00f877e29feda2063479faca9336d130496a0e14b9f32e947afa6083a6be",
-        "info_url": "https://en.wikipedia.org/wiki/The_Pick-up_Artist_(1987_film)",
-        "name": "tricky-duck",
-        "tm_pub_key": "LffN+hxY54QBtmraxBgTI4pdsSfW8Tp5Igo96V/w8q8=",
-        "vega_pub_key": "7bac82e1455b07a723f36bda003eb88120dbaf1d360e9d26656280e847e55085",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -325,10 +314,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "nkgPwz8zbKhf1C0nf87VZY5t+1M09pK0AneUSkxrZtU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/mdasnhyjb8lmfzghu5lwjw3nxh31qe12?d=identicon",
+        "country": "MY",
+        "ethereum_address": "0x86cCf7530F42CFBbF5B8A50061F21Ef1aCF8954A",
+        "id": "dc10579262238f8f1f6b737ad11e8ab802797905c6026fbfb17d9e8a522fdfee",
+        "info_url": "https://en.wikipedia.org/wiki/Houston_Cougars_football",
+        "name": "orange-door",
+        "tm_pub_key": "nkgPwz8zbKhf1C0nf87VZY5t+1M09pK0AneUSkxrZtU=",
+        "vega_pub_key": "a94af580311518dd9fd80c74b1b2d209672ef88bc98856be3ee80a370fe948b8",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403221711",
+  "chain_id": "vega-devnet1-202403221848",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-22T17:11:24.734192936Z",
+  "genesis_time": "2024-03-22T18:48:00.173769408Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "FA1BC400F360C59969A910C592F10BF20397AC51",
-      "name": "tricky-duck",
+      "address": "58905ADF6FBA4A7162946AABFABE26D7F5911C7B",
+      "name": "orange-door",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "LffN+hxY54QBtmraxBgTI4pdsSfW8Tp5Igo96V/w8q8="
+        "value": "nkgPwz8zbKhf1C0nf87VZY5t+1M09pK0AneUSkxrZtU="
       }
     }
   ]
