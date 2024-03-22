@@ -304,6 +304,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "LffN+hxY54QBtmraxBgTI4pdsSfW8Tp5Igo96V/w8q8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/v3oj9ox3xy4kg50r55srcneml556pzcf?d=identicon",
+        "country": "ZH",
+        "ethereum_address": "0x70886FFe30cc2d40EC535d3De2a7e6acFCb0ef6f",
+        "id": "bb3f00f877e29feda2063479faca9336d130496a0e14b9f32e947afa6083a6be",
+        "info_url": "https://en.wikipedia.org/wiki/The_Pick-up_Artist_(1987_film)",
+        "name": "tricky-duck",
+        "tm_pub_key": "LffN+hxY54QBtmraxBgTI4pdsSfW8Tp5Igo96V/w8q8=",
+        "vega_pub_key": "7bac82e1455b07a723f36bda003eb88120dbaf1d360e9d26656280e847e55085",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -314,21 +325,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "nrdrR5Y7EBsVaoRxhTMD8GnINOpTPtz6dietctvYAu0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/yvnnhxnx0s72yealdp48bdfla0wmyapp?d=identicon",
-        "country": "YF",
-        "ethereum_address": "0x82656b8567fF7e7Eca2f597620b992AA086CB990",
-        "id": "1d38f5f1a207091ce5ba4b128a3bf60f4d2998a56f485f495a13ab5234254c3c",
-        "info_url": "https://en.wikipedia.org/wiki/I.S.S._(film)",
-        "name": "adorable-barber",
-        "tm_pub_key": "nrdrR5Y7EBsVaoRxhTMD8GnINOpTPtz6dietctvYAu0=",
-        "vega_pub_key": "99df40d3c36c13ff02fe6da99a37c5adfa7d76bcd5deff49ffb542840ffe43c1",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403211740",
+  "chain_id": "vega-devnet1-202403221711",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-21T17:40:09.896577058Z",
+  "genesis_time": "2024-03-22T17:11:24.734192936Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "40066D18487D78748A60659FC6B64FC6C710433F",
-      "name": "adorable-barber",
+      "address": "FA1BC400F360C59969A910C592F10BF20397AC51",
+      "name": "tricky-duck",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "nrdrR5Y7EBsVaoRxhTMD8GnINOpTPtz6dietctvYAu0="
+        "value": "LffN+hxY54QBtmraxBgTI4pdsSfW8Tp5Igo96V/w8q8="
       }
     }
   ]
