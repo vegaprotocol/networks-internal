@@ -315,20 +315,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "nkgPwz8zbKhf1C0nf87VZY5t+1M09pK0AneUSkxrZtU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/mdasnhyjb8lmfzghu5lwjw3nxh31qe12?d=identicon",
-        "country": "MY",
-        "ethereum_address": "0x86cCf7530F42CFBbF5B8A50061F21Ef1aCF8954A",
-        "id": "dc10579262238f8f1f6b737ad11e8ab802797905c6026fbfb17d9e8a522fdfee",
-        "info_url": "https://en.wikipedia.org/wiki/Houston_Cougars_football",
-        "name": "orange-door",
-        "tm_pub_key": "nkgPwz8zbKhf1C0nf87VZY5t+1M09pK0AneUSkxrZtU=",
-        "vega_pub_key": "a94af580311518dd9fd80c74b1b2d209672ef88bc98856be3ee80a370fe948b8",
+      "wIdgu3kB7Iw9MuemVIZKydhs4W/PmN9y1UikIE6UKe0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/28d2xfnn6p7666lhhe5fxeecksrkrvo4?d=identicon",
+        "country": "KH",
+        "ethereum_address": "0x697cC6EE724951cC91476D9a8DE61b8243D1A82d",
+        "id": "7c6fb4fa2eb9ce93202f378433f6402a9700908d6dfb7c446a840db903feedd7",
+        "info_url": "https://en.wikipedia.org/wiki/Felix_Twumasi-Appiah",
+        "name": "helpful-burger",
+        "tm_pub_key": "wIdgu3kB7Iw9MuemVIZKydhs4W/PmN9y1UikIE6UKe0=",
+        "vega_pub_key": "774255b4b432c046da19b586cf4002fd70c103674ee7441da0022516de09a1d1",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403221848",
+  "chain_id": "vega-devnet1-202403231405",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-22T18:48:00.173769408Z",
+  "genesis_time": "2024-03-23T14:05:24.821685121Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "58905ADF6FBA4A7162946AABFABE26D7F5911C7B",
-      "name": "orange-door",
+      "address": "C38DA5E85CCB1184E89AD00F7676EB729EBBDFDD",
+      "name": "helpful-burger",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "nkgPwz8zbKhf1C0nf87VZY5t+1M09pK0AneUSkxrZtU="
+        "value": "wIdgu3kB7Iw9MuemVIZKydhs4W/PmN9y1UikIE6UKe0="
       }
     }
   ]
