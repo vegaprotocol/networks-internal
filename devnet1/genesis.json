@@ -315,20 +315,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "wIdgu3kB7Iw9MuemVIZKydhs4W/PmN9y1UikIE6UKe0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/28d2xfnn6p7666lhhe5fxeecksrkrvo4?d=identicon",
-        "country": "KH",
-        "ethereum_address": "0x697cC6EE724951cC91476D9a8DE61b8243D1A82d",
-        "id": "7c6fb4fa2eb9ce93202f378433f6402a9700908d6dfb7c446a840db903feedd7",
-        "info_url": "https://en.wikipedia.org/wiki/Felix_Twumasi-Appiah",
-        "name": "helpful-burger",
-        "tm_pub_key": "wIdgu3kB7Iw9MuemVIZKydhs4W/PmN9y1UikIE6UKe0=",
-        "vega_pub_key": "774255b4b432c046da19b586cf4002fd70c103674ee7441da0022516de09a1d1",
+      "XULziJ2oAIbiz/U0hoiKhDucSAKBLqleTNIe1mFzjf0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/oaczwr1fdauid11pul1jrvti6h36n9gz?d=identicon",
+        "country": "ZY",
+        "ethereum_address": "0x97E30DDC7B9a6ed00B59A795A01C8ee682b381F4",
+        "id": "67557d094ad5a1a6c7a148caa84bf63c1d05eac4e99d4f72a7d1b079320fceb7",
+        "info_url": "https://en.wikipedia.org/wiki/Vasantham_TV",
+        "name": "courageous-door",
+        "tm_pub_key": "XULziJ2oAIbiz/U0hoiKhDucSAKBLqleTNIe1mFzjf0=",
+        "vega_pub_key": "3625534fb05aa3af1598897b5ebff8b2615e1ea45c6b341f940142b7b95c8e32",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403231405",
+  "chain_id": "vega-devnet1-202403251050",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-23T14:05:24.821685121Z",
+  "genesis_time": "2024-03-25T10:50:10.474614548Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "C38DA5E85CCB1184E89AD00F7676EB729EBBDFDD",
-      "name": "helpful-burger",
+      "address": "F712E887E25219EA62E79B8537DB716C9B659DFB",
+      "name": "courageous-door",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "wIdgu3kB7Iw9MuemVIZKydhs4W/PmN9y1UikIE6UKe0="
+        "value": "XULziJ2oAIbiz/U0hoiKhDucSAKBLqleTNIe1mFzjf0="
       }
     }
   ]
