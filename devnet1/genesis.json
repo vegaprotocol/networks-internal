@@ -271,6 +271,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "1Ur1fEgE4yPTE1VuO5ufLRpRUpLSiJcd2+dMG50vTOM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/66okhr7p6vfwf55abrp8txfsydhwu9hc?d=identicon",
+        "country": "IK",
+        "ethereum_address": "0xD80ed638f0171d43dccb420649EB2756dd5c0233",
+        "id": "ffe17ce623958a90b4ea57937962ded42b3cb9dca03f84c6aac99178868cb3ba",
+        "info_url": "https://en.wikipedia.org/wiki/CFDP1",
+        "name": "tense-country",
+        "tm_pub_key": "1Ur1fEgE4yPTE1VuO5ufLRpRUpLSiJcd2+dMG50vTOM=",
+        "vega_pub_key": "d4c6c3183fa5d275770e75b11fe76a357ec746f4ae38167819cb31cb8d4e384d",
+        "vega_pub_key_index": 1
+      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -314,21 +325,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "qShnLEIJg6P7Nhqmw1JvZWs+yBzu0vTXol0CjthCGZo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/03nfwhwcvlsvyrjwvkhlrmz0292rpkh7?d=identicon",
-        "country": "SY",
-        "ethereum_address": "0x3fa0c9C0eDC92d8EA6723820F26Ee9eacEe04B45",
-        "id": "34ebc31d88c1acbcb31c1f1f8a763b30bcdf8ba745f15d5509628b073d307673",
-        "info_url": "https://en.wikipedia.org/wiki/Housing_Authority_of_New_Orleans",
-        "name": "magnificent-fisherman",
-        "tm_pub_key": "qShnLEIJg6P7Nhqmw1JvZWs+yBzu0vTXol0CjthCGZo=",
-        "vega_pub_key": "ad63ae6a164c17eb3a621a913c6c443a48675ffa3caa57246f3d64c6b61210b8",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403251346",
+  "chain_id": "vega-devnet1-202403251418",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-25T13:46:17.621306011Z",
+  "genesis_time": "2024-03-25T14:18:12.407113565Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "D2A4A1C37996EF7EA917244FF1B420E459E05CC1",
-      "name": "magnificent-fisherman",
+      "address": "3A1EEC8EF3BE77FB885FF46000EA17D91DD15E55",
+      "name": "tense-country",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "qShnLEIJg6P7Nhqmw1JvZWs+yBzu0vTXol0CjthCGZo="
+        "value": "1Ur1fEgE4yPTE1VuO5ufLRpRUpLSiJcd2+dMG50vTOM="
       }
     }
   ]
