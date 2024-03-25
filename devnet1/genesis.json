@@ -315,20 +315,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "pns8sTqBlV9CZG5Jo5IC2bxtBudUI2hmAmoQTwT76R8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/xe8j3ag6cv3wloztjdzm6mc8xqj3hc6j?d=identicon",
-        "country": "XQ",
-        "ethereum_address": "0x4f5b3F45Ba8F45e57B7ECB3352e79847a67261d6",
-        "id": "188215a94c251323ec2ee5b4694bc6d316c6f8e3dd7d86775a53fffecdfc35bb",
-        "info_url": "https://en.wikipedia.org/wiki/Kugelblitz_(astrophysics)",
-        "name": "ideal-wind",
-        "tm_pub_key": "pns8sTqBlV9CZG5Jo5IC2bxtBudUI2hmAmoQTwT76R8=",
-        "vega_pub_key": "999c03169463cbbb7e36df320382b71977fa03e0c5e4a612eba0f90d6fbf0414",
+      "bz+ByGgDySq8DmA16p9XahjvVJ6Ju0SwLRxIHBB4RZY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ig7qtlkle8nvgi543lvciou05uuh5tpz?d=identicon",
+        "country": "NJ",
+        "ethereum_address": "0xea9F8b9aC053b8BE5723Af180bbb42321A8bb48F",
+        "id": "54e9994ab3df5ca1cdb994f0ef9947462cbcae19650dc63890892857d1840581",
+        "info_url": "https://en.wikipedia.org/wiki/Enlighten_Canberra",
+        "name": "intrigued-river",
+        "tm_pub_key": "bz+ByGgDySq8DmA16p9XahjvVJ6Ju0SwLRxIHBB4RZY=",
+        "vega_pub_key": "fa6edb164fe9fdd11ffcf013c4490b9ee6859479cdc7c47aa553ed3673c3c29c",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403251132",
+  "chain_id": "vega-devnet1-202403251211",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-25T11:32:48.207524223Z",
+  "genesis_time": "2024-03-25T12:11:56.154559828Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "EEBCC9A6B64B530CEFA84F46F5B182AA2C3D9EC1",
-      "name": "ideal-wind",
+      "address": "E27A6C0D0F167A321E3C32108CB712D96D38F926",
+      "name": "intrigued-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "pns8sTqBlV9CZG5Jo5IC2bxtBudUI2hmAmoQTwT76R8="
+        "value": "bz+ByGgDySq8DmA16p9XahjvVJ6Ju0SwLRxIHBB4RZY="
       }
     }
   ]
