@@ -315,20 +315,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "bz+ByGgDySq8DmA16p9XahjvVJ6Ju0SwLRxIHBB4RZY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ig7qtlkle8nvgi543lvciou05uuh5tpz?d=identicon",
-        "country": "NJ",
-        "ethereum_address": "0xea9F8b9aC053b8BE5723Af180bbb42321A8bb48F",
-        "id": "54e9994ab3df5ca1cdb994f0ef9947462cbcae19650dc63890892857d1840581",
-        "info_url": "https://en.wikipedia.org/wiki/Enlighten_Canberra",
-        "name": "intrigued-river",
-        "tm_pub_key": "bz+ByGgDySq8DmA16p9XahjvVJ6Ju0SwLRxIHBB4RZY=",
-        "vega_pub_key": "fa6edb164fe9fdd11ffcf013c4490b9ee6859479cdc7c47aa553ed3673c3c29c",
+      "qShnLEIJg6P7Nhqmw1JvZWs+yBzu0vTXol0CjthCGZo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/03nfwhwcvlsvyrjwvkhlrmz0292rpkh7?d=identicon",
+        "country": "SY",
+        "ethereum_address": "0x3fa0c9C0eDC92d8EA6723820F26Ee9eacEe04B45",
+        "id": "34ebc31d88c1acbcb31c1f1f8a763b30bcdf8ba745f15d5509628b073d307673",
+        "info_url": "https://en.wikipedia.org/wiki/Housing_Authority_of_New_Orleans",
+        "name": "magnificent-fisherman",
+        "tm_pub_key": "qShnLEIJg6P7Nhqmw1JvZWs+yBzu0vTXol0CjthCGZo=",
+        "vega_pub_key": "ad63ae6a164c17eb3a621a913c6c443a48675ffa3caa57246f3d64c6b61210b8",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403251211",
+  "chain_id": "vega-devnet1-202403251310",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-25T12:11:56.154559828Z",
+  "genesis_time": "2024-03-25T13:10:23.898915425Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "E27A6C0D0F167A321E3C32108CB712D96D38F926",
-      "name": "intrigued-river",
+      "address": "D2A4A1C37996EF7EA917244FF1B420E459E05CC1",
+      "name": "magnificent-fisherman",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "bz+ByGgDySq8DmA16p9XahjvVJ6Ju0SwLRxIHBB4RZY="
+        "value": "qShnLEIJg6P7Nhqmw1JvZWs+yBzu0vTXol0CjthCGZo="
       }
     }
   ]
