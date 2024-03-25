@@ -315,20 +315,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "XULziJ2oAIbiz/U0hoiKhDucSAKBLqleTNIe1mFzjf0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/oaczwr1fdauid11pul1jrvti6h36n9gz?d=identicon",
-        "country": "ZY",
-        "ethereum_address": "0x97E30DDC7B9a6ed00B59A795A01C8ee682b381F4",
-        "id": "67557d094ad5a1a6c7a148caa84bf63c1d05eac4e99d4f72a7d1b079320fceb7",
-        "info_url": "https://en.wikipedia.org/wiki/Vasantham_TV",
-        "name": "courageous-door",
-        "tm_pub_key": "XULziJ2oAIbiz/U0hoiKhDucSAKBLqleTNIe1mFzjf0=",
-        "vega_pub_key": "3625534fb05aa3af1598897b5ebff8b2615e1ea45c6b341f940142b7b95c8e32",
+      "pns8sTqBlV9CZG5Jo5IC2bxtBudUI2hmAmoQTwT76R8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xe8j3ag6cv3wloztjdzm6mc8xqj3hc6j?d=identicon",
+        "country": "XQ",
+        "ethereum_address": "0x4f5b3F45Ba8F45e57B7ECB3352e79847a67261d6",
+        "id": "188215a94c251323ec2ee5b4694bc6d316c6f8e3dd7d86775a53fffecdfc35bb",
+        "info_url": "https://en.wikipedia.org/wiki/Kugelblitz_(astrophysics)",
+        "name": "ideal-wind",
+        "tm_pub_key": "pns8sTqBlV9CZG5Jo5IC2bxtBudUI2hmAmoQTwT76R8=",
+        "vega_pub_key": "999c03169463cbbb7e36df320382b71977fa03e0c5e4a612eba0f90d6fbf0414",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403251050",
+  "chain_id": "vega-devnet1-202403251132",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-25T10:50:10.474614548Z",
+  "genesis_time": "2024-03-25T11:32:48.207524223Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "F712E887E25219EA62E79B8537DB716C9B659DFB",
-      "name": "courageous-door",
+      "address": "EEBCC9A6B64B530CEFA84F46F5B182AA2C3D9EC1",
+      "name": "ideal-wind",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "XULziJ2oAIbiz/U0hoiKhDucSAKBLqleTNIe1mFzjf0="
+        "value": "pns8sTqBlV9CZG5Jo5IC2bxtBudUI2hmAmoQTwT76R8="
       }
     }
   ]
