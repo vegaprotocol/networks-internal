@@ -271,17 +271,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "1Ur1fEgE4yPTE1VuO5ufLRpRUpLSiJcd2+dMG50vTOM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/66okhr7p6vfwf55abrp8txfsydhwu9hc?d=identicon",
-        "country": "IK",
-        "ethereum_address": "0xD80ed638f0171d43dccb420649EB2756dd5c0233",
-        "id": "ffe17ce623958a90b4ea57937962ded42b3cb9dca03f84c6aac99178868cb3ba",
-        "info_url": "https://en.wikipedia.org/wiki/CFDP1",
-        "name": "tense-country",
-        "tm_pub_key": "1Ur1fEgE4yPTE1VuO5ufLRpRUpLSiJcd2+dMG50vTOM=",
-        "vega_pub_key": "d4c6c3183fa5d275770e75b11fe76a357ec746f4ae38167819cb31cb8d4e384d",
-        "vega_pub_key_index": 1
-      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -325,10 +314,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "PuQnXvkeHSJNfy+yboLkuptzsv2O8h3FJEIaLX4SsAQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/arkceky5n3j9cll9e5g7hby2f67bbvui?d=identicon",
+        "country": "AB",
+        "ethereum_address": "0x8cfcFfD5452DD3720781F4D0a627bFe1A62a0Cb2",
+        "id": "60a063174732574435c2e35632ce82b9abaa3bd9600122a6e495f111d68aad95",
+        "info_url": "https://en.wikipedia.org/wiki/St_Helen%27s_Church,_Burton_Joyce",
+        "name": "thundering-river",
+        "tm_pub_key": "PuQnXvkeHSJNfy+yboLkuptzsv2O8h3FJEIaLX4SsAQ=",
+        "vega_pub_key": "8f9c454b2802d7d6db8474adb3d910277ecd2743226c8c0d274a1504692c68a4",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403251418",
+  "chain_id": "vega-devnet1-202403251506",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-25T14:18:12.407113565Z",
+  "genesis_time": "2024-03-25T15:06:36.128396688Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "3A1EEC8EF3BE77FB885FF46000EA17D91DD15E55",
-      "name": "tense-country",
+      "address": "6919F7BE3F3B96FECE001A18D189445E43D84EC0",
+      "name": "thundering-river",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "1Ur1fEgE4yPTE1VuO5ufLRpRUpLSiJcd2+dMG50vTOM="
+        "value": "PuQnXvkeHSJNfy+yboLkuptzsv2O8h3FJEIaLX4SsAQ="
       }
     }
   ]
