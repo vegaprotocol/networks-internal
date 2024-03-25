@@ -271,6 +271,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "1VkFsSlSsZLN1OtMg9qYWNCQUq2nZLqNAKIlTFnEu4E=": {
+        "avatar_url": "https://www.gravatar.com/avatar/2gtuz5e8bc4jtl2776rrwsa50a5t4yre?d=identicon",
+        "country": "KM",
+        "ethereum_address": "0xC02efF297E74D527405F96260c778f702f7F2688",
+        "id": "d7683fddb3fdcb92d58d08917b129d923b9b9edbd2fdf7e65b913c65607d6d87",
+        "info_url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Inner_Mongolia",
+        "name": "high-cloud",
+        "tm_pub_key": "1VkFsSlSsZLN1OtMg9qYWNCQUq2nZLqNAKIlTFnEu4E=",
+        "vega_pub_key": "176d183d8f44618b6f46ecab6ddb7ff6e015167bac668c2019e81ff939225035",
+        "vega_pub_key_index": 1
+      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -314,21 +325,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "PuQnXvkeHSJNfy+yboLkuptzsv2O8h3FJEIaLX4SsAQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/arkceky5n3j9cll9e5g7hby2f67bbvui?d=identicon",
-        "country": "AB",
-        "ethereum_address": "0x8cfcFfD5452DD3720781F4D0a627bFe1A62a0Cb2",
-        "id": "60a063174732574435c2e35632ce82b9abaa3bd9600122a6e495f111d68aad95",
-        "info_url": "https://en.wikipedia.org/wiki/St_Helen%27s_Church,_Burton_Joyce",
-        "name": "thundering-river",
-        "tm_pub_key": "PuQnXvkeHSJNfy+yboLkuptzsv2O8h3FJEIaLX4SsAQ=",
-        "vega_pub_key": "8f9c454b2802d7d6db8474adb3d910277ecd2743226c8c0d274a1504692c68a4",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403251534",
+  "chain_id": "vega-devnet1-202403252351",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-25T15:34:24.493362987Z",
+  "genesis_time": "2024-03-25T23:51:38.542114276Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "6919F7BE3F3B96FECE001A18D189445E43D84EC0",
-      "name": "thundering-river",
+      "address": "7E97E061921446916E5A6D2D1C6A5AAB41C855AD",
+      "name": "high-cloud",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "PuQnXvkeHSJNfy+yboLkuptzsv2O8h3FJEIaLX4SsAQ="
+        "value": "1VkFsSlSsZLN1OtMg9qYWNCQUq2nZLqNAKIlTFnEu4E="
       }
     }
   ]
