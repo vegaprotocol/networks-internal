@@ -271,17 +271,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "3egrlayS1uMYgJEPK2d4roaWNTWCxvBfBsndltRQ7kc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/q09rtyeb6i085m6guk90iipjysfvq2db?d=identicon",
-        "country": "ZG",
-        "ethereum_address": "0xfeEa09eEA1A2fb37359d40f1DD6A199a10a77E7d",
-        "id": "d7a88bbea73d706849f0e660025523d664a0745ca71661f77940a110e1e34cd8",
-        "info_url": "https://en.wikipedia.org/wiki/STAR_Soccer_Complex",
-        "name": "alert-milk",
-        "tm_pub_key": "3egrlayS1uMYgJEPK2d4roaWNTWCxvBfBsndltRQ7kc=",
-        "vega_pub_key": "3b40b45eb6d60f5d49a124ca97eb1a9330e57dc1f79f71c15d2becd986a40bbc",
-        "vega_pub_key_index": 1
-      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -325,10 +314,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "oNoGKPMv0psQ1tF3H/ftwzl06MkgjlUAi2lnsTjHkBs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/5ksih18ad2n3yd50of0crew8uco43d2n?d=identicon",
+        "country": "TP",
+        "ethereum_address": "0x835eFDDB91Fa45391E1A2784525A074bb607d0a4",
+        "id": "35dc3378773d5888eee1e122e66b72904941153be627afcfb37dc47cd9bf6aeb",
+        "info_url": "https://en.wikipedia.org/wiki/Bahr_el_Gazel_Nord",
+        "name": "stocky-book",
+        "tm_pub_key": "oNoGKPMv0psQ1tF3H/ftwzl06MkgjlUAi2lnsTjHkBs=",
+        "vega_pub_key": "27bd8bc0e41bc366f6f1425b1c5251306326e0ed4583803c5d04921f81b6384b",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403261330",
+  "chain_id": "vega-devnet1-202403261503",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-26T13:30:16.669112836Z",
+  "genesis_time": "2024-03-26T15:03:30.764895441Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "E68684FC1A2BD2FED62E473A717A2D1EE4B98B83",
-      "name": "alert-milk",
+      "address": "17D51101FFCE73E976454C97FA6C11AAFD5F4CA6",
+      "name": "stocky-book",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "3egrlayS1uMYgJEPK2d4roaWNTWCxvBfBsndltRQ7kc="
+        "value": "oNoGKPMv0psQ1tF3H/ftwzl06MkgjlUAi2lnsTjHkBs="
       }
     }
   ]
