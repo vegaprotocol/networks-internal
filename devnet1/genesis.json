@@ -304,6 +304,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "HPwoIJ12BQmiJcACTrkGNLBFLbMHHO1YdfKutxOTKFY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/2y0c7s5ehrzx3go2qmk4iqd6gszlel5b?d=identicon",
+        "country": "VX",
+        "ethereum_address": "0x41f57Ba0a9244fE4b6CfEE4Ce11965a6D23e3574",
+        "id": "bb4713a3e8d90f6a037f458b35d9a556b1fb08a161fe202222f50ce6ac9a7eac",
+        "info_url": "https://en.wikipedia.org/wiki/Swallow_(1820_ship)",
+        "name": "unsightly-toy",
+        "tm_pub_key": "HPwoIJ12BQmiJcACTrkGNLBFLbMHHO1YdfKutxOTKFY=",
+        "vega_pub_key": "3cbcaaf9fc9d0e21ff4190db9e66edfdf2b2e08d9139f25939d0e42066afe569",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -314,21 +325,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "oNoGKPMv0psQ1tF3H/ftwzl06MkgjlUAi2lnsTjHkBs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/5ksih18ad2n3yd50of0crew8uco43d2n?d=identicon",
-        "country": "TP",
-        "ethereum_address": "0x835eFDDB91Fa45391E1A2784525A074bb607d0a4",
-        "id": "35dc3378773d5888eee1e122e66b72904941153be627afcfb37dc47cd9bf6aeb",
-        "info_url": "https://en.wikipedia.org/wiki/Bahr_el_Gazel_Nord",
-        "name": "stocky-book",
-        "tm_pub_key": "oNoGKPMv0psQ1tF3H/ftwzl06MkgjlUAi2lnsTjHkBs=",
-        "vega_pub_key": "27bd8bc0e41bc366f6f1425b1c5251306326e0ed4583803c5d04921f81b6384b",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403261503",
+  "chain_id": "vega-devnet1-202403261850",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-26T15:03:30.764895441Z",
+  "genesis_time": "2024-03-26T18:50:24.483121176Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "17D51101FFCE73E976454C97FA6C11AAFD5F4CA6",
-      "name": "stocky-book",
+      "address": "2CAF3DC77F81B1FDA7E51E1EA70E706E0016A90A",
+      "name": "unsightly-toy",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "oNoGKPMv0psQ1tF3H/ftwzl06MkgjlUAi2lnsTjHkBs="
+        "value": "HPwoIJ12BQmiJcACTrkGNLBFLbMHHO1YdfKutxOTKFY="
       }
     }
   ]
