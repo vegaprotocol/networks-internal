@@ -271,17 +271,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "1VkFsSlSsZLN1OtMg9qYWNCQUq2nZLqNAKIlTFnEu4E=": {
-        "avatar_url": "https://www.gravatar.com/avatar/2gtuz5e8bc4jtl2776rrwsa50a5t4yre?d=identicon",
-        "country": "KM",
-        "ethereum_address": "0xC02efF297E74D527405F96260c778f702f7F2688",
-        "id": "d7683fddb3fdcb92d58d08917b129d923b9b9edbd2fdf7e65b913c65607d6d87",
-        "info_url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Inner_Mongolia",
-        "name": "high-cloud",
-        "tm_pub_key": "1VkFsSlSsZLN1OtMg9qYWNCQUq2nZLqNAKIlTFnEu4E=",
-        "vega_pub_key": "176d183d8f44618b6f46ecab6ddb7ff6e015167bac668c2019e81ff939225035",
-        "vega_pub_key_index": 1
-      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -302,6 +291,17 @@
         "name": "crashing-wall",
         "tm_pub_key": "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=",
         "vega_pub_key": "cb152821443248b20a217abee89c1c8e595e07d47c537255d480761c88bc86d1",
+        "vega_pub_key_index": 1
+      },
+      "9sJXHp+2jf5y/GgQWX+sn9uJbU1noMxZR6G85bJ+3nM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/yaembh5d7vnz3ak4bygm8oa51vhh3tt4?d=identicon",
+        "country": "CE",
+        "ethereum_address": "0xD98B05B6A0194c605cF2F73e4Ca634a4c3e58138",
+        "id": "075318a63e7130e0ff03f099fc37f4a7ab066ff938de8de3ab230655bd4b2f81",
+        "info_url": "https://en.wikipedia.org/wiki/Rosh_Hashanah_seder",
+        "name": "powerful-movie",
+        "tm_pub_key": "9sJXHp+2jf5y/GgQWX+sn9uJbU1noMxZR6G85bJ+3nM=",
+        "vega_pub_key": "059b444e4448962bf17a7a7f2f606022b7be0ee4f77cb5b9c63fe7c134a6eaaa",
         "vega_pub_key_index": 1
       },
       "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202403252351",
+  "chain_id": "vega-devnet1-202403261034",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-25T23:51:38.542114276Z",
+  "genesis_time": "2024-03-26T10:34:21.524191262Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "7E97E061921446916E5A6D2D1C6A5AAB41C855AD",
-      "name": "high-cloud",
+      "address": "751C8900DB246A6ACF4A1A508FC2F7ED198C9658",
+      "name": "powerful-movie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "1VkFsSlSsZLN1OtMg9qYWNCQUq2nZLqNAKIlTFnEu4E="
+        "value": "9sJXHp+2jf5y/GgQWX+sn9uJbU1noMxZR6G85bJ+3nM="
       }
     }
   ]
