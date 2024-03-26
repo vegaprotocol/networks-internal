@@ -304,17 +304,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "HPwoIJ12BQmiJcACTrkGNLBFLbMHHO1YdfKutxOTKFY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/2y0c7s5ehrzx3go2qmk4iqd6gszlel5b?d=identicon",
-        "country": "VX",
-        "ethereum_address": "0x41f57Ba0a9244fE4b6CfEE4Ce11965a6D23e3574",
-        "id": "bb4713a3e8d90f6a037f458b35d9a556b1fb08a161fe202222f50ce6ac9a7eac",
-        "info_url": "https://en.wikipedia.org/wiki/Swallow_(1820_ship)",
-        "name": "unsightly-toy",
-        "tm_pub_key": "HPwoIJ12BQmiJcACTrkGNLBFLbMHHO1YdfKutxOTKFY=",
-        "vega_pub_key": "3cbcaaf9fc9d0e21ff4190db9e66edfdf2b2e08d9139f25939d0e42066afe569",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -325,10 +314,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "q1Nb1bEAUuHcu7ZK7zWzszWahOUudgd92Tr/dSE2Ln4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/v6kse4tpwstw3yq1f64zw7j7rab80gkt?d=identicon",
+        "country": "JL",
+        "ethereum_address": "0x1c9E9FE1B39ECe4124eAdA8cCAEbc83fC48391D6",
+        "id": "47f4bec02ff84a29f906b7666887cbfd81f64f821fdbd53943d00007c6fc8c54",
+        "info_url": "https://en.wikipedia.org/wiki/Don_White_(racing_driver)",
+        "name": "cooperative-bee",
+        "tm_pub_key": "q1Nb1bEAUuHcu7ZK7zWzszWahOUudgd92Tr/dSE2Ln4=",
+        "vega_pub_key": "9078870109827f4b65fae7bba62fb876f8b050b489527265c1c3a129885ef2d1",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403261850",
+  "chain_id": "vega-devnet1-202403261933",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-26T18:50:24.483121176Z",
+  "genesis_time": "2024-03-26T19:33:25.449363302Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "2CAF3DC77F81B1FDA7E51E1EA70E706E0016A90A",
-      "name": "unsightly-toy",
+      "address": "C7E0698DD1E57155EF7B3C18F83E4B9B0B8D4D99",
+      "name": "cooperative-bee",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "HPwoIJ12BQmiJcACTrkGNLBFLbMHHO1YdfKutxOTKFY="
+        "value": "q1Nb1bEAUuHcu7ZK7zWzszWahOUudgd92Tr/dSE2Ln4="
       }
     }
   ]
