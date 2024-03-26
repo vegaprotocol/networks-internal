@@ -293,17 +293,6 @@
         "vega_pub_key": "cb152821443248b20a217abee89c1c8e595e07d47c537255d480761c88bc86d1",
         "vega_pub_key_index": 1
       },
-      "9sJXHp+2jf5y/GgQWX+sn9uJbU1noMxZR6G85bJ+3nM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/yaembh5d7vnz3ak4bygm8oa51vhh3tt4?d=identicon",
-        "country": "CE",
-        "ethereum_address": "0xD98B05B6A0194c605cF2F73e4Ca634a4c3e58138",
-        "id": "075318a63e7130e0ff03f099fc37f4a7ab066ff938de8de3ab230655bd4b2f81",
-        "info_url": "https://en.wikipedia.org/wiki/Rosh_Hashanah_seder",
-        "name": "powerful-movie",
-        "tm_pub_key": "9sJXHp+2jf5y/GgQWX+sn9uJbU1noMxZR6G85bJ+3nM=",
-        "vega_pub_key": "059b444e4448962bf17a7a7f2f606022b7be0ee4f77cb5b9c63fe7c134a6eaaa",
-        "vega_pub_key_index": 1
-      },
       "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ=": {
         "avatar_url": "https://www.gravatar.com/avatar/6x0s5jsbbeeihso9yyhnh6hcop4fkxa1?d=identicon",
         "country": "ON",
@@ -325,10 +314,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "xYLcUzGMRTWiNnxYgIix8rFltrUXnRahXafCDKEC/l4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/gf4t39q54a5li5xriv8dhuy7ox71mfhx?d=identicon",
+        "country": "QF",
+        "ethereum_address": "0x430DCA8d9CBfeDe980CE37f5273084C6Fe178253",
+        "id": "52bc927c577f81c501a9004578506af42b5e8614ac9556e9a7ed4f0e4d2d8dd2",
+        "info_url": "https://en.wikipedia.org/wiki/Kuhbett",
+        "name": "quaint-doctor",
+        "tm_pub_key": "xYLcUzGMRTWiNnxYgIix8rFltrUXnRahXafCDKEC/l4=",
+        "vega_pub_key": "4379645e0e13f4015b022592af65629ab146b70a215b5c6cd9676e96bc55ded3",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202403261034",
+  "chain_id": "vega-devnet1-202403261114",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-26T10:34:21.524191262Z",
+  "genesis_time": "2024-03-26T11:14:45.82028153Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "751C8900DB246A6ACF4A1A508FC2F7ED198C9658",
-      "name": "powerful-movie",
+      "address": "D5130557CB6DBA2CB8618DAAB84BF42F7617BAC9",
+      "name": "quaint-doctor",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "9sJXHp+2jf5y/GgQWX+sn9uJbU1noMxZR6G85bJ+3nM="
+        "value": "xYLcUzGMRTWiNnxYgIix8rFltrUXnRahXafCDKEC/l4="
       }
     }
   ]
