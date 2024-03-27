@@ -304,15 +304,15 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "B0fnjma3yudHCXqSeiOPmJZEYbPETU+fT5ckJaMABb0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/g3cyqvdee49tfwr8jfrjkdrnoay9us3s?d=identicon",
-        "country": "PW",
-        "ethereum_address": "0x3C720E4BC0613f701E08A79A4B8e650bF3207150",
-        "id": "4b7c1056aa6c7a5b3035523aa06e5c033020860c58c2973131afbee534a93528",
-        "info_url": "https://en.wikipedia.org/wiki/Ukkirasinghan",
-        "name": "wicked-baby",
-        "tm_pub_key": "B0fnjma3yudHCXqSeiOPmJZEYbPETU+fT5ckJaMABb0=",
-        "vega_pub_key": "7201327ab7ea92963968607a201782818c328308e86c13bd75c5a4aab8eb8422",
+      "JZ34GhAVVk1lubuimkEHZ9LcUMwlV4CPxl4cIp0WW2o=": {
+        "avatar_url": "https://www.gravatar.com/avatar/k1tp5ivyvg09hbog7q85l9wyvxgxfcge?d=identicon",
+        "country": "LO",
+        "ethereum_address": "0x279C423f3B820a9E5CE8e56C044f213A01EF54F6",
+        "id": "7ad7eda0f262611b032bbfa7bcce2cf2b52ab82932090cb5798598a2f22d9b67",
+        "info_url": "https://en.wikipedia.org/wiki/Hart_Massey",
+        "name": "terrible-day",
+        "tm_pub_key": "JZ34GhAVVk1lubuimkEHZ9LcUMwlV4CPxl4cIp0WW2o=",
+        "vega_pub_key": "a95688116c3da9aee655383f6c10356d809161a11773c1743911f52f46da9064",
         "vega_pub_key_index": 1
       },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
@@ -328,7 +328,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202403270010",
+  "chain_id": "vega-devnet1-202403271015",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -347,7 +347,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-03-27T00:10:28.445255385Z",
+  "genesis_time": "2024-03-27T10:15:39.419231927Z",
   "initial_height": "0",
   "validators": [
     {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "address": "C33669D072BD6D6DE98D42B3B2FBBA9CA69CD0FC",
-      "name": "wicked-baby",
+      "address": "DC010831D611385736F67C09426BA5B9006CEBF8",
+      "name": "terrible-day",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "B0fnjma3yudHCXqSeiOPmJZEYbPETU+fT5ckJaMABb0="
+        "value": "JZ34GhAVVk1lubuimkEHZ9LcUMwlV4CPxl4cIp0WW2o="
       }
     }
   ]
