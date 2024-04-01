@@ -2,66 +2,6 @@
   "app_hash": "",
   "app_state": {
     "assets": {
-      "86f7e437faa5a7fce15d1ddcb9eaeaea377667b886f7e437faa5a7fc00000000": {
-          "decimals": 6,
-          "name": "Vega USDC",
-          "quantum": "1",
-          "source": {
-              "erc20": {
-                  "contract_address": "0x4880CeeDe30656c420B0dFE88d6c8Be584a9E9f4",
-                  "lifetime_limit": "",
-                  "withdraw_threshold": "",
-                  "chain_id": "421614"
-              }
-          },
-          "symbol": "vegaUSDC",
-          "total_supply": "60000000000000"
-      },
-      "86f7e437faa5a7fce15d1ddcb9eaeaea377667b886f7e437faa5a7fc00000001": {
-          "decimals": 18,
-          "name": "Vega tBTC",
-          "quantum": "0.00001",
-          "source": {
-              "erc20": {
-                  "contract_address": "0x2D55fD604cEEcEcB02d65911EB2Da3643CA470E6",
-                  "lifetime_limit": "",
-                  "withdraw_threshold": "",
-                  "chain_id": "421614"
-              }
-          },
-          "symbol": "vegaTBTC",
-          "total_supply": "60000000000000000000000000"
-      },
-      "86f7e437faa5a7fce15d1ddcb9eaeaea377667b886f7e437faa5a7fc00000002": {
-          "decimals": 18,
-          "name": "Vega WETH",
-          "quantum": "0.00003",
-          "source": {
-              "erc20": {
-                  "contract_address": "0x6d0cC0B391d918ff748C07179599a751130BDb38",
-                  "lifetime_limit": "",
-                  "withdraw_threshold": "",
-                  "chain_id": "421614"
-              }
-          },
-          "symbol": "vegaWETH",
-          "total_supply": "60000000000000000000000000"
-      },
-      "86f7e437faa5a7fce15d1ddcb9eaeaea377667b886f7e437faa5a7fc00000003": {
-          "decimals": 6,
-          "name": "Vega EURT",
-          "quantum": "1",
-          "source": {
-              "erc20": {
-                  "contract_address": "0x51268886B1abbf46bae8A3644Fa59D38291Def5F",
-                  "lifetime_limit": "",
-                  "withdraw_threshold": "",
-                  "chain_id": "421614"
-              }
-          },
-          "symbol": "vegaEURT",
-          "total_supply": "60000000000000"
-      },
       "177e8f6c25a955bd18475084b99b2b1d37f28f3dec393fab7755a7e69c3d8c3b": {
         "decimals": 5,
         "name": "tEURO Fairground",
@@ -76,6 +16,66 @@
         },
         "symbol": "tEURO",
         "total_supply": "64999723000000000000000000"
+      },
+      "86f7e437faa5a7fce15d1ddcb9eaeaea377667b886f7e437faa5a7fc00000000": {
+        "decimals": 6,
+        "name": "Vega USDC",
+        "quantum": "1",
+        "source": {
+          "erc20": {
+            "chain_id": "421614",
+            "contract_address": "0x4880CeeDe30656c420B0dFE88d6c8Be584a9E9f4",
+            "lifetime_limit": "",
+            "withdraw_threshold": ""
+          }
+        },
+        "symbol": "vegaUSDC",
+        "total_supply": "60000000000000"
+      },
+      "86f7e437faa5a7fce15d1ddcb9eaeaea377667b886f7e437faa5a7fc00000001": {
+        "decimals": 18,
+        "name": "Vega tBTC",
+        "quantum": "0.00001",
+        "source": {
+          "erc20": {
+            "chain_id": "421614",
+            "contract_address": "0x2D55fD604cEEcEcB02d65911EB2Da3643CA470E6",
+            "lifetime_limit": "",
+            "withdraw_threshold": ""
+          }
+        },
+        "symbol": "vegaTBTC",
+        "total_supply": "60000000000000000000000000"
+      },
+      "86f7e437faa5a7fce15d1ddcb9eaeaea377667b886f7e437faa5a7fc00000002": {
+        "decimals": 18,
+        "name": "Vega WETH",
+        "quantum": "0.00003",
+        "source": {
+          "erc20": {
+            "chain_id": "421614",
+            "contract_address": "0x6d0cC0B391d918ff748C07179599a751130BDb38",
+            "lifetime_limit": "",
+            "withdraw_threshold": ""
+          }
+        },
+        "symbol": "vegaWETH",
+        "total_supply": "60000000000000000000000000"
+      },
+      "86f7e437faa5a7fce15d1ddcb9eaeaea377667b886f7e437faa5a7fc00000003": {
+        "decimals": 6,
+        "name": "Vega EURT",
+        "quantum": "1",
+        "source": {
+          "erc20": {
+            "chain_id": "421614",
+            "contract_address": "0x51268886B1abbf46bae8A3644Fa59D38291Def5F",
+            "lifetime_limit": "",
+            "withdraw_threshold": ""
+          }
+        },
+        "symbol": "vegaEURT",
+        "total_supply": "60000000000000"
       },
       "b340c130096819428a62e5df407fd6abe66e444b89ad64f670beb98621c9c663": {
         "decimals": 18,
@@ -359,6 +359,17 @@
         "vega_pub_key": "cb152821443248b20a217abee89c1c8e595e07d47c537255d480761c88bc86d1",
         "vega_pub_key_index": 1
       },
+      "8gbU8lYPpE7Ief3O7Uwv+hyBIoSBt4tXdf2tO8scOqA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/7h1fgf26qa2z1z1emyvu0to6p7c0zok7?d=identicon",
+        "country": "BD",
+        "ethereum_address": "0xd436c9451c89c895bEaA45C3211315C9118Df455",
+        "id": "a555136e6ecabb3f87409ead91dd48aec168f037805f6b3eff4c12cefe17b850",
+        "info_url": "https://en.wikipedia.org/wiki/Katherine_Stinson",
+        "name": "gritty-pond",
+        "tm_pub_key": "8gbU8lYPpE7Ief3O7Uwv+hyBIoSBt4tXdf2tO8scOqA=",
+        "vega_pub_key": "4060caecacebb8052a94b7b7d8a31c14e0ace4b956e4fa77f68b72c38f6d6c91",
+        "vega_pub_key_index": 1
+      },
       "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ=": {
         "avatar_url": "https://www.gravatar.com/avatar/6x0s5jsbbeeihso9yyhnh6hcop4fkxa1?d=identicon",
         "country": "ON",
@@ -380,21 +391,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "cN4dMzTO/W64wVLw41xSAYM0jJ5fER3fHmyUkrYOF5U=": {
-        "avatar_url": "https://www.gravatar.com/avatar/gx6ekhbhzuzw9g8tl5mjpt8nkh5194s2?d=identicon",
-        "country": "VA",
-        "ethereum_address": "0x9F3F7e83c3e743CAFB1d00546f58706C7CfD01E9",
-        "id": "0b783c4ad1b07acca76e85c18ccd59469d05171a4a3e84d77498c0a1d4f7092f",
-        "info_url": "https://en.wikipedia.org/wiki/Second_inauguration_of_Calvin_Coolidge",
-        "name": "unkempt-chair",
-        "tm_pub_key": "cN4dMzTO/W64wVLw41xSAYM0jJ5fER3fHmyUkrYOF5U=",
-        "vega_pub_key": "de4b576cc06e638cac80b7416ee1e742e739b5506b44e66fa673dc85b88a7ff5",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404011007",
+  "chain_id": "vega-devnet1-202404012259",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-01T10:07:18.619603944Z",
+  "genesis_time": "2024-04-01T22:59:27.850498626Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "798F7A216B743CD9B2A1A8E88F016A02F5CB1EBB",
-      "name": "unkempt-chair",
+      "address": "88BAEB0DE9E42AE4FB42C74DA244DC9366BF0F6C",
+      "name": "gritty-pond",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "cN4dMzTO/W64wVLw41xSAYM0jJ5fER3fHmyUkrYOF5U="
+        "value": "8gbU8lYPpE7Ief3O7Uwv+hyBIoSBt4tXdf2tO8scOqA="
       }
     }
   ]
