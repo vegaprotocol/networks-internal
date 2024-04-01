@@ -8,10 +8,10 @@
         "quantum": "1",
         "source": {
           "erc20": {
+            "chain_id": "11155111",
             "contract_address": "0x7119500C6327928ae4E64531feBB258f0a33A617",
             "lifetime_limit": "",
-            "withdraw_threshold": "",
-            "chain_id": "11155111"
+            "withdraw_threshold": ""
           }
         },
         "symbol": "tEURO",
@@ -23,10 +23,10 @@
         "quantum": "1",
         "source": {
           "erc20": {
+            "chain_id": "11155111",
             "contract_address": "0x973cB2a51F83a707509fe7cBafB9206982E1c3ad",
             "lifetime_limit": "",
-            "withdraw_threshold": "",
-            "chain_id": "11155111"
+            "withdraw_threshold": ""
           }
         },
         "symbol": "tDAI",
@@ -38,10 +38,10 @@
         "quantum": "1",
         "source": {
           "erc20": {
+            "chain_id": "11155111",
             "contract_address": "0x40ff2D218740EF033b43B8Ce0342aEBC81934554",
             "lifetime_limit": "",
-            "withdraw_threshold": "",
-            "chain_id": "11155111"
+            "withdraw_threshold": ""
           }
         },
         "symbol": "tUSDC",
@@ -53,10 +53,10 @@
         "quantum": "1",
         "source": {
           "erc20": {
+            "chain_id": "11155111",
             "contract_address": "0x123cB4a2AB190F88a50646D5436aB3F5859107Ed",
             "lifetime_limit": "",
-            "withdraw_threshold": "",
-            "chain_id": "11155111"
+            "withdraw_threshold": ""
           }
         },
         "symbol": "tBTC",
@@ -176,10 +176,10 @@
         "quantum": "1",
         "source": {
           "erc20": {
+            "chain_id": "11155111",
             "contract_address": "0x56d465373cfada277F1760def0888475174f0d7A",
             "lifetime_limit": "",
-            "withdraw_threshold": "",
-            "chain_id": "11155111"
+            "withdraw_threshold": ""
           }
         },
         "symbol": "VEGA",
@@ -334,7 +334,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202404010954",
+  "chain_id": "vega-devnet1-202404011007",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -353,7 +353,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-01T09:54:54.156445025Z",
+  "genesis_time": "2024-04-01T10:07:18.619603944Z",
   "initial_height": "0",
   "validators": [
     {
