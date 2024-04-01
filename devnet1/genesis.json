@@ -305,17 +305,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "JZ34GhAVVk1lubuimkEHZ9LcUMwlV4CPxl4cIp0WW2o=": {
-        "avatar_url": "https://www.gravatar.com/avatar/k1tp5ivyvg09hbog7q85l9wyvxgxfcge?d=identicon",
-        "country": "LO",
-        "ethereum_address": "0x279C423f3B820a9E5CE8e56C044f213A01EF54F6",
-        "id": "7ad7eda0f262611b032bbfa7bcce2cf2b52ab82932090cb5798598a2f22d9b67",
-        "info_url": "https://en.wikipedia.org/wiki/Hart_Massey",
-        "name": "terrible-day",
-        "tm_pub_key": "JZ34GhAVVk1lubuimkEHZ9LcUMwlV4CPxl4cIp0WW2o=",
-        "vega_pub_key": "a95688116c3da9aee655383f6c10356d809161a11773c1743911f52f46da9064",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -326,10 +315,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "cN4dMzTO/W64wVLw41xSAYM0jJ5fER3fHmyUkrYOF5U=": {
+        "avatar_url": "https://www.gravatar.com/avatar/gx6ekhbhzuzw9g8tl5mjpt8nkh5194s2?d=identicon",
+        "country": "VA",
+        "ethereum_address": "0x9F3F7e83c3e743CAFB1d00546f58706C7CfD01E9",
+        "id": "0b783c4ad1b07acca76e85c18ccd59469d05171a4a3e84d77498c0a1d4f7092f",
+        "info_url": "https://en.wikipedia.org/wiki/Second_inauguration_of_Calvin_Coolidge",
+        "name": "unkempt-chair",
+        "tm_pub_key": "cN4dMzTO/W64wVLw41xSAYM0jJ5fER3fHmyUkrYOF5U=",
+        "vega_pub_key": "de4b576cc06e638cac80b7416ee1e742e739b5506b44e66fa673dc85b88a7ff5",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404010920",
+  "chain_id": "vega-devnet1-202404010954",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -348,7 +348,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-01T09:20:34.740811039Z",
+  "genesis_time": "2024-04-01T09:54:54.156445025Z",
   "initial_height": "0",
   "validators": [
     {
@@ -388,12 +388,12 @@
       }
     },
     {
-      "address": "DC010831D611385736F67C09426BA5B9006CEBF8",
-      "name": "terrible-day",
+      "address": "798F7A216B743CD9B2A1A8E88F016A02F5CB1EBB",
+      "name": "unkempt-chair",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "JZ34GhAVVk1lubuimkEHZ9LcUMwlV4CPxl4cIp0WW2o="
+        "value": "cN4dMzTO/W64wVLw41xSAYM0jJ5fER3fHmyUkrYOF5U="
       }
     }
   ]
