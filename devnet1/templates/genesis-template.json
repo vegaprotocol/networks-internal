@@ -25,6 +25,66 @@
     ],
     "app_state": {
         "assets": {
+            "86f7e437faa5a7fce15d1ddcb9eaeaea377667b886f7e437faa5a7fc00000000": {
+                "decimals": 6,
+                "name": "Vega USDC",
+                "quantum": "1",
+                "source": {
+                    "erc20": {
+                        "contract_address": "0x4880CeeDe30656c420B0dFE88d6c8Be584a9E9f4",
+                        "lifetime_limit": "",
+                        "withdraw_threshold": "",
+                        "chain_id": "421614"
+                    }
+                },
+                "symbol": "vegaUSDC",
+                "total_supply": "60000000000000"
+            },
+            "86f7e437faa5a7fce15d1ddcb9eaeaea377667b886f7e437faa5a7fc00000001": {
+                "decimals": 18,
+                "name": "Vega tBTC",
+                "quantum": "0.00001",
+                "source": {
+                    "erc20": {
+                        "contract_address": "0x2D55fD604cEEcEcB02d65911EB2Da3643CA470E6",
+                        "lifetime_limit": "",
+                        "withdraw_threshold": "",
+                        "chain_id": "421614"
+                    }
+                },
+                "symbol": "vegaTBTC",
+                "total_supply": "60000000000000000000000000"
+            },
+            "86f7e437faa5a7fce15d1ddcb9eaeaea377667b886f7e437faa5a7fc00000002": {
+                "decimals": 18,
+                "name": "Vega WETH",
+                "quantum": "0.00003",
+                "source": {
+                    "erc20": {
+                        "contract_address": "0x6d0cC0B391d918ff748C07179599a751130BDb38",
+                        "lifetime_limit": "",
+                        "withdraw_threshold": "",
+                        "chain_id": "421614"
+                    }
+                },
+                "symbol": "vegaWETH",
+                "total_supply": "60000000000000000000000000"
+            },
+            "86f7e437faa5a7fce15d1ddcb9eaeaea377667b886f7e437faa5a7fc00000003": {
+                "decimals": 6,
+                "name": "Vega EURT",
+                "quantum": "1",
+                "source": {
+                    "erc20": {
+                        "contract_address": "0x51268886B1abbf46bae8A3644Fa59D38291Def5F",
+                        "lifetime_limit": "",
+                        "withdraw_threshold": "",
+                        "chain_id": "421614"
+                    }
+                },
+                "symbol": "vegaEURT",
+                "total_supply": "60000000000000"
+            },
             "177e8f6c25a955bd18475084b99b2b1d37f28f3dec393fab7755a7e69c3d8c3b": {
                 "decimals": 5,
                 "name": "tEURO Fairground",
