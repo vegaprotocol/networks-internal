@@ -359,17 +359,6 @@
         "vega_pub_key": "cb152821443248b20a217abee89c1c8e595e07d47c537255d480761c88bc86d1",
         "vega_pub_key_index": 1
       },
-      "8gbU8lYPpE7Ief3O7Uwv+hyBIoSBt4tXdf2tO8scOqA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/7h1fgf26qa2z1z1emyvu0to6p7c0zok7?d=identicon",
-        "country": "BD",
-        "ethereum_address": "0xd436c9451c89c895bEaA45C3211315C9118Df455",
-        "id": "a555136e6ecabb3f87409ead91dd48aec168f037805f6b3eff4c12cefe17b850",
-        "info_url": "https://en.wikipedia.org/wiki/Katherine_Stinson",
-        "name": "gritty-pond",
-        "tm_pub_key": "8gbU8lYPpE7Ief3O7Uwv+hyBIoSBt4tXdf2tO8scOqA=",
-        "vega_pub_key": "4060caecacebb8052a94b7b7d8a31c14e0ace4b956e4fa77f68b72c38f6d6c91",
-        "vega_pub_key_index": 1
-      },
       "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ=": {
         "avatar_url": "https://www.gravatar.com/avatar/6x0s5jsbbeeihso9yyhnh6hcop4fkxa1?d=identicon",
         "country": "ON",
@@ -391,10 +380,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "kTQERzfJ42/3Xu0MlINUnIPSD9N7zErb2PTYVr7DCnc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/dvdzptarvw11ebyij9127ajs6syuuvfb?d=identicon",
+        "country": "EN",
+        "ethereum_address": "0xF2b8f988A2e5ebEF5b5fb9DA3eB3b2b9B199F968",
+        "id": "7bec1c300f5173652e2e5c71f3a81438cee9623f367c3098abc7cbf546445a4e",
+        "info_url": "https://en.wikipedia.org/wiki/CSS_Pontchartrain",
+        "name": "perplexed-candle",
+        "tm_pub_key": "kTQERzfJ42/3Xu0MlINUnIPSD9N7zErb2PTYVr7DCnc=",
+        "vega_pub_key": "194009687ae8a42c950e68a084bda7ebc51bb10b6011a0861787364d020e9712",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404012307",
+  "chain_id": "vega-devnet1-202404021145",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-01T23:07:54.976411463Z",
+  "genesis_time": "2024-04-02T11:45:06.171154814Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "88BAEB0DE9E42AE4FB42C74DA244DC9366BF0F6C",
-      "name": "gritty-pond",
+      "address": "326E5F9C25586B3F63EF5FD51D91048D7BAEDD97",
+      "name": "perplexed-candle",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "8gbU8lYPpE7Ief3O7Uwv+hyBIoSBt4tXdf2tO8scOqA="
+        "value": "kTQERzfJ42/3Xu0MlINUnIPSD9N7zErb2PTYVr7DCnc="
       }
     }
   ]
