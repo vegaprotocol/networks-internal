@@ -359,17 +359,6 @@
         "vega_pub_key": "cb152821443248b20a217abee89c1c8e595e07d47c537255d480761c88bc86d1",
         "vega_pub_key_index": 1
       },
-      "8+yol/59WHQ/0QzGkVNM9XyE7hPpZ9uyfpHKVAMIbM4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/qwkuwogzvux7sfyemx2eq34og06rhke2?d=identicon",
-        "country": "HH",
-        "ethereum_address": "0x2fA88c249088780386d99F3D8A27Ba9CEfA03Bac",
-        "id": "eac8f562cd344e1b59a92163dbbdb2189c6983027135966168d6f4502330bd47",
-        "info_url": "https://en.wikipedia.org/wiki/Capital_punishment_in_Judaism",
-        "name": "faint-honey",
-        "tm_pub_key": "8+yol/59WHQ/0QzGkVNM9XyE7hPpZ9uyfpHKVAMIbM4=",
-        "vega_pub_key": "94cd92ee063299adc7942ef8f030a7936978d4da1bb64eb22def1d47c9686ef2",
-        "vega_pub_key_index": 1
-      },
       "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ=": {
         "avatar_url": "https://www.gravatar.com/avatar/6x0s5jsbbeeihso9yyhnh6hcop4fkxa1?d=identicon",
         "country": "ON",
@@ -391,10 +380,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "yGjj2lt3SQ0ITzKs1QZY7r6HZ+9bHwadqX+5d2dsR6U=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ne5a6usas7q2z9oosmi408tvphakm4oj?d=identicon",
+        "country": "CY",
+        "ethereum_address": "0xfadb3e1142D9c42c4FFfE08f7c8cB4D707Faba56",
+        "id": "ac10c69085bc3c6eabe3e5dbdc3ccacf3705d0738aa948abe45e3ad622b5c434",
+        "info_url": "https://en.wikipedia.org/wiki/San_Pablo_Jocopilas",
+        "name": "costly-beach",
+        "tm_pub_key": "yGjj2lt3SQ0ITzKs1QZY7r6HZ+9bHwadqX+5d2dsR6U=",
+        "vega_pub_key": "0f70324e2f2818708a3fbecf73e7adca9739a79363c8b1bd6abff0c3fa3fdd24",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404021248",
+  "chain_id": "vega-devnet1-202404021350",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-02T12:48:43.997523485Z",
+  "genesis_time": "2024-04-02T13:50:08.981796468Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "DF1E3588BFB6C3FC2F0DAC44D5FC7C5BF750ED6F",
-      "name": "faint-honey",
+      "address": "3E485D04D143482B2C67DD3AD79C80A5A96C387C",
+      "name": "costly-beach",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "8+yol/59WHQ/0QzGkVNM9XyE7hPpZ9uyfpHKVAMIbM4="
+        "value": "yGjj2lt3SQ0ITzKs1QZY7r6HZ+9bHwadqX+5d2dsR6U="
       }
     }
   ]
