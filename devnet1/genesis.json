@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "uyhVIkAiuWG5QnguhSjDn5xEUqKtB0Q5NP/TYPTxBgE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ihij14lky5hmnbgza0xetxln5q3pkbla?d=identicon",
-        "country": "SV",
-        "ethereum_address": "0x9272c621566381Aa2708473370Fb1EeB3D147F3A",
-        "id": "94917b7e0e1211e885623c2fc848ee2b8a2eff2598947f5ff6fa5742b804430e",
-        "info_url": "https://en.wikipedia.org/wiki/2013_Rajya_Sabha_elections",
-        "name": "quiet-brother",
-        "tm_pub_key": "uyhVIkAiuWG5QnguhSjDn5xEUqKtB0Q5NP/TYPTxBgE=",
-        "vega_pub_key": "245a53f59ad729063e127381057c790ce61f50d071dfe912f71475ae2c241b62",
+      "ulaFOHOwKWXwwxcxvGMrvLfo8ZYrReLlcm5zeqwZO88=": {
+        "avatar_url": "https://www.gravatar.com/avatar/mjkqxlaoow7a5vm5dl5dj9bxvo0dhanz?d=identicon",
+        "country": "NU",
+        "ethereum_address": "0xC985ED4B9a823A523da08e4CcB78e342dE40e6E3",
+        "id": "7eeaea800674708a0648455264b02bfa02d1a2e7bef56ac3272f8f9decd99cfc",
+        "info_url": "https://en.wikipedia.org/wiki/Sageretia_horrida",
+        "name": "gray-shoe",
+        "tm_pub_key": "ulaFOHOwKWXwwxcxvGMrvLfo8ZYrReLlcm5zeqwZO88=",
+        "vega_pub_key": "8e715cd33615b51e1a0b8f50a9fe6b17e76d6b2975c5ec8f23fb3542506d0004",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404031334",
+  "chain_id": "vega-devnet1-202404031900",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-03T13:34:51.873432535Z",
+  "genesis_time": "2024-04-03T19:00:52.245963435Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "38316E064B08AF45C4D2F635CE8FDD8D82BF1C63",
-      "name": "quiet-brother",
+      "address": "A93529C7D5C8E17CB145C4D39F7D24A5EDD53927",
+      "name": "gray-shoe",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "uyhVIkAiuWG5QnguhSjDn5xEUqKtB0Q5NP/TYPTxBgE="
+        "value": "ulaFOHOwKWXwwxcxvGMrvLfo8ZYrReLlcm5zeqwZO88="
       }
     }
   ]
