@@ -348,6 +348,17 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
+      "6H7G+jpJh6ytlmu8wngMyRy2xxI7n4MgBcaK6XqyHqA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/9etdhiw5dw3segr4ksybmvqbr01re1oq?d=identicon",
+        "country": "NX",
+        "ethereum_address": "0x1Ac26C3D18dF7A7e63bFA90c165AD1d5367Cb98e",
+        "id": "4ed2d61f1cc4fa1190f336e33dd706208ae20253db47094e38766561b758a559",
+        "info_url": "https://en.wikipedia.org/wiki/Ultralight_backpacking",
+        "name": "harsh-vacuum",
+        "tm_pub_key": "6H7G+jpJh6ytlmu8wngMyRy2xxI7n4MgBcaK6XqyHqA=",
+        "vega_pub_key": "fa4c68238d432b3c656f6d845a9d21471d30749ef5d325b7b5f1b3cb6aaf4dbd",
+        "vega_pub_key_index": 1
+      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -380,21 +391,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "ulaFOHOwKWXwwxcxvGMrvLfo8ZYrReLlcm5zeqwZO88=": {
-        "avatar_url": "https://www.gravatar.com/avatar/mjkqxlaoow7a5vm5dl5dj9bxvo0dhanz?d=identicon",
-        "country": "NU",
-        "ethereum_address": "0xC985ED4B9a823A523da08e4CcB78e342dE40e6E3",
-        "id": "7eeaea800674708a0648455264b02bfa02d1a2e7bef56ac3272f8f9decd99cfc",
-        "info_url": "https://en.wikipedia.org/wiki/Sageretia_horrida",
-        "name": "gray-shoe",
-        "tm_pub_key": "ulaFOHOwKWXwwxcxvGMrvLfo8ZYrReLlcm5zeqwZO88=",
-        "vega_pub_key": "8e715cd33615b51e1a0b8f50a9fe6b17e76d6b2975c5ec8f23fb3542506d0004",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404031900",
+  "chain_id": "vega-devnet1-202404041600",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-03T19:00:52.245963435Z",
+  "genesis_time": "2024-04-04T16:00:43.11357211Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "A93529C7D5C8E17CB145C4D39F7D24A5EDD53927",
-      "name": "gray-shoe",
+      "address": "2996B9D6F8C8E23A3C37A3FD715045C7D44B8648",
+      "name": "harsh-vacuum",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ulaFOHOwKWXwwxcxvGMrvLfo8ZYrReLlcm5zeqwZO88="
+        "value": "6H7G+jpJh6ytlmu8wngMyRy2xxI7n4MgBcaK6XqyHqA="
       }
     }
   ]
