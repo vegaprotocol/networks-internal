@@ -359,17 +359,6 @@
         "vega_pub_key": "cb152821443248b20a217abee89c1c8e595e07d47c537255d480761c88bc86d1",
         "vega_pub_key_index": 1
       },
-      "9quzYkSg8ib2jP1r4iim9Ms/i8ure9dVqdPa0HE4tXk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/r6n3v9gtmgupb98ikr6tblt177gxax3a?d=identicon",
-        "country": "QQ",
-        "ethereum_address": "0x2f0Cf716003ec9C7c4d09D5b5e3f4a0C33673a0e",
-        "id": "106ae2c09b2c35dcc43807edef167d607b6fb9eb7c93febb5937c997ceaed29e",
-        "info_url": "https://en.wikipedia.org/wiki/Democracy_and_Catalonia",
-        "name": "terrible-pickle",
-        "tm_pub_key": "9quzYkSg8ib2jP1r4iim9Ms/i8ure9dVqdPa0HE4tXk=",
-        "vega_pub_key": "56b4c7411903ff62c789abe3dd853ab83b044f1e6e71d526cf5491e45dbc44f0",
-        "vega_pub_key_index": 1
-      },
       "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ=": {
         "avatar_url": "https://www.gravatar.com/avatar/6x0s5jsbbeeihso9yyhnh6hcop4fkxa1?d=identicon",
         "country": "ON",
@@ -391,10 +380,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "UG225GcxA0zV1cvnTPgtn1Vb6y9tLnCcu0sDoUKar8Q=": {
+        "avatar_url": "https://www.gravatar.com/avatar/djc0fa6r2lqq8vej6prxmuj79sfjoz6r?d=identicon",
+        "country": "VD",
+        "ethereum_address": "0x8d8E57415423b1277f5177C859FA961b1C57341e",
+        "id": "98f7203d79ad1de68139acc1bcdd59701e0e4fd7bde82f0c6717b4f5f4a61f01",
+        "info_url": "https://en.wikipedia.org/wiki/Thunder_house",
+        "name": "bored-bird",
+        "tm_pub_key": "UG225GcxA0zV1cvnTPgtn1Vb6y9tLnCcu0sDoUKar8Q=",
+        "vega_pub_key": "68cbce147e2ab98374617915f2b11edb1becc3d53db7f772a4839a3ce4684e7f",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404051300",
+  "chain_id": "vega-devnet1-202404051432",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-05T13:00:23.098501945Z",
+  "genesis_time": "2024-04-05T14:32:58.729091622Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "0D27BB4ACE6535F0158A21F68FCDD3285EF2DA1E",
-      "name": "terrible-pickle",
+      "address": "094F4AC448CC50A7C455E6130B11EB7A501F6C0F",
+      "name": "bored-bird",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "9quzYkSg8ib2jP1r4iim9Ms/i8ure9dVqdPa0HE4tXk="
+        "value": "UG225GcxA0zV1cvnTPgtn1Vb6y9tLnCcu0sDoUKar8Q="
       }
     }
   ]
