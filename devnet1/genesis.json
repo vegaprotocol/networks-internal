@@ -359,15 +359,15 @@
         "vega_pub_key": "cb152821443248b20a217abee89c1c8e595e07d47c537255d480761c88bc86d1",
         "vega_pub_key_index": 1
       },
-      "7lX9Kb9s49UifPv7XFXXs4aW6dg3iPBLCQ43RQUGT7g=": {
-        "avatar_url": "https://www.gravatar.com/avatar/h260fz8xufjx6wdfm8ovbf8uiunxk92n?d=identicon",
-        "country": "KP",
-        "ethereum_address": "0xa830cABf7cb1c4a5B94a0De7Aeb970719475eda3",
-        "id": "ff4330f5b4af402a39c7fe0554a127f478d4e323ae61074c236af82177774486",
-        "info_url": "https://en.wikipedia.org/wiki/Thomas_Scrope,_5th_Baron_Scrope_of_Masham",
-        "name": "bright-man",
-        "tm_pub_key": "7lX9Kb9s49UifPv7XFXXs4aW6dg3iPBLCQ43RQUGT7g=",
-        "vega_pub_key": "954faf3b831e7f0dbeb341e5dd5e5f03c5ba77fc56d42d1c3e011eaf82c0d139",
+      "9quzYkSg8ib2jP1r4iim9Ms/i8ure9dVqdPa0HE4tXk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/r6n3v9gtmgupb98ikr6tblt177gxax3a?d=identicon",
+        "country": "QQ",
+        "ethereum_address": "0x2f0Cf716003ec9C7c4d09D5b5e3f4a0C33673a0e",
+        "id": "106ae2c09b2c35dcc43807edef167d607b6fb9eb7c93febb5937c997ceaed29e",
+        "info_url": "https://en.wikipedia.org/wiki/Democracy_and_Catalonia",
+        "name": "terrible-pickle",
+        "tm_pub_key": "9quzYkSg8ib2jP1r4iim9Ms/i8ure9dVqdPa0HE4tXk=",
+        "vega_pub_key": "56b4c7411903ff62c789abe3dd853ab83b044f1e6e71d526cf5491e45dbc44f0",
         "vega_pub_key_index": 1
       },
       "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ=": {
@@ -394,7 +394,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202404051121",
+  "chain_id": "vega-devnet1-202404051300",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-05T11:21:57.933002258Z",
+  "genesis_time": "2024-04-05T13:00:23.098501945Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "90185E6FD11D3E2B4F360C5B88550572FE64ECF5",
-      "name": "bright-man",
+      "address": "0D27BB4ACE6535F0158A21F68FCDD3285EF2DA1E",
+      "name": "terrible-pickle",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "7lX9Kb9s49UifPv7XFXXs4aW6dg3iPBLCQ43RQUGT7g="
+        "value": "9quzYkSg8ib2jP1r4iim9Ms/i8ure9dVqdPa0HE4tXk="
       }
     }
   ]
