@@ -348,17 +348,6 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
-      "6H7G+jpJh6ytlmu8wngMyRy2xxI7n4MgBcaK6XqyHqA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/9etdhiw5dw3segr4ksybmvqbr01re1oq?d=identicon",
-        "country": "NX",
-        "ethereum_address": "0x1Ac26C3D18dF7A7e63bFA90c165AD1d5367Cb98e",
-        "id": "4ed2d61f1cc4fa1190f336e33dd706208ae20253db47094e38766561b758a559",
-        "info_url": "https://en.wikipedia.org/wiki/Ultralight_backpacking",
-        "name": "harsh-vacuum",
-        "tm_pub_key": "6H7G+jpJh6ytlmu8wngMyRy2xxI7n4MgBcaK6XqyHqA=",
-        "vega_pub_key": "fa4c68238d432b3c656f6d845a9d21471d30749ef5d325b7b5f1b3cb6aaf4dbd",
-        "vega_pub_key_index": 1
-      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -391,10 +380,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "YTibp9G+b++7khqcUsimlkHW0T0Yxvo3Ww32pnK3dSg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/bjes0q4ng3oq106gar2ke5c266k780i8?d=identicon",
+        "country": "MG",
+        "ethereum_address": "0xd4c0B5CA50D0455bE36319Ca7F74B29d3017e95F",
+        "id": "b3a8252ece5af500d57b6474dc4681140c70e75cf6752d8f2180d9957721cbc5",
+        "info_url": "https://en.wikipedia.org/wiki/Polygonum_aviculare",
+        "name": "loud-hill",
+        "tm_pub_key": "YTibp9G+b++7khqcUsimlkHW0T0Yxvo3Ww32pnK3dSg=",
+        "vega_pub_key": "d45b5c4735fcf048a11037a31076128ae640535817afcb0431c5720f4c442a9a",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404041600",
+  "chain_id": "vega-devnet1-202404050709",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-04T16:00:43.11357211Z",
+  "genesis_time": "2024-04-05T07:09:48.534957748Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "2996B9D6F8C8E23A3C37A3FD715045C7D44B8648",
-      "name": "harsh-vacuum",
+      "address": "7D909B8B5B541743B4032211C5B8F0A110811FBB",
+      "name": "loud-hill",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "6H7G+jpJh6ytlmu8wngMyRy2xxI7n4MgBcaK6XqyHqA="
+        "value": "YTibp9G+b++7khqcUsimlkHW0T0Yxvo3Ww32pnK3dSg="
       }
     }
   ]
