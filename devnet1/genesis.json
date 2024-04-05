@@ -337,17 +337,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "3GuJdGHdsHxPG7cfn//jLdp32eVdRQDLQk6rz90SMEc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/9hvbgvvgnbmwr9c3ff4hyht87pzbx2lm?d=identicon",
-        "country": "MF",
-        "ethereum_address": "0x44069c0fec2028D4F1eDdEafDaA20d4459DB0446",
-        "id": "ed696bb20878a768623ca1575481f7c212ed7120c1d90977be0a84a733f98d3b",
-        "info_url": "https://en.wikipedia.org/wiki/2002%E2%80%9303_FA_Women%27s_Premier_League_Cup",
-        "name": "short-movie",
-        "tm_pub_key": "3GuJdGHdsHxPG7cfn//jLdp32eVdRQDLQk6rz90SMEc=",
-        "vega_pub_key": "8c1effd2a383325e848d7e9dae979f2c6e5511420c6ce84f889652a397a83805",
-        "vega_pub_key_index": 1
-      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -391,10 +380,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "zcjAe5OYJVJ1B+kNEbSyyJsjLFVmi/4PT9iA157OrCE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/w447yaqf3sfpkpw5xska3rzncdl6eer1?d=identicon",
+        "country": "YJ",
+        "ethereum_address": "0xeEC3d34ba3e56dA6598900d5DC77E2a9441687c9",
+        "id": "f80c5005b279109c5864a061f3a6cc7f8c42d0c04180d0953ca1f29173a5d437",
+        "info_url": "https://en.wikipedia.org/wiki/Bielstein_Tunnel",
+        "name": "wicked-taxi",
+        "tm_pub_key": "zcjAe5OYJVJ1B+kNEbSyyJsjLFVmi/4PT9iA157OrCE=",
+        "vega_pub_key": "13e58187b6d7bb4bf62675a3a747aa461f499544503d84f295014695f44fe70e",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404051512",
+  "chain_id": "vega-devnet1-202404051756",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-05T15:12:45.80417875Z",
+  "genesis_time": "2024-04-05T17:56:22.570799462Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "292D355F38973CBE1C8BB9FD82976A333797E38F",
-      "name": "short-movie",
+      "address": "5B8ED32C191FF69F1C5207959EC0CC46F1BA5965",
+      "name": "wicked-taxi",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "3GuJdGHdsHxPG7cfn//jLdp32eVdRQDLQk6rz90SMEc="
+        "value": "zcjAe5OYJVJ1B+kNEbSyyJsjLFVmi/4PT9iA157OrCE="
       }
     }
   ]
