@@ -370,17 +370,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "MEUOKBRHcoNQZQjVJTauK2TiMKnH+rZYNwEyOfohvqg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/u2z7we5nh7uzez9wbsg9qfw07botxw09?d=identicon",
-        "country": "KP",
-        "ethereum_address": "0x0C89227391D5FcF3Eb0b99e72e55416D1E6722ab",
-        "id": "12a7e4a7bb87920ee4d71f21cabeb5ec6842a33285333b9194e196ba7d89ea79",
-        "info_url": "https://en.wikipedia.org/wiki/Victor_Gourevitch",
-        "name": "vast-sister",
-        "tm_pub_key": "MEUOKBRHcoNQZQjVJTauK2TiMKnH+rZYNwEyOfohvqg=",
-        "vega_pub_key": "e2901b0bf2f68175fd1d9a2d214269b8ac747290cba91994f0109550bd8d9b33",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -391,10 +380,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "TzdXUS5wLpYrbTs7fOF68Qo5Sbyab5spaoEgM5JrmIo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/vbevpsdzledfrhrpdkpoasigqpqdpr4n?d=identicon",
+        "country": "WT",
+        "ethereum_address": "0xa967471426A2d33Cff53Dd1AB6Da86b252c779BA",
+        "id": "97b83952cc657af11734c450e25056015a33ef124b4feccccf7762ad7c0d8452",
+        "info_url": "https://en.wikipedia.org/wiki/Karla_Reuter",
+        "name": "intrigued-ball",
+        "tm_pub_key": "TzdXUS5wLpYrbTs7fOF68Qo5Sbyab5spaoEgM5JrmIo=",
+        "vega_pub_key": "5ef2bf14040919adf866babc7532e0ce6d812b70196f3163291c06429708876d",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404081642",
+  "chain_id": "vega-devnet1-202404081730",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-08T16:42:14.707333515Z",
+  "genesis_time": "2024-04-08T17:30:52.489554029Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "5A3A10DD75012A8DFE8950153F9FE9EFB80C4EFB",
-      "name": "vast-sister",
+      "address": "55476E9051C2098532267A404FCA20D12B0DDED7",
+      "name": "intrigued-ball",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "MEUOKBRHcoNQZQjVJTauK2TiMKnH+rZYNwEyOfohvqg="
+        "value": "TzdXUS5wLpYrbTs7fOF68Qo5Sbyab5spaoEgM5JrmIo="
       }
     }
   ]
