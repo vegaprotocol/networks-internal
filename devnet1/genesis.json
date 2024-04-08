@@ -370,6 +370,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "MEUOKBRHcoNQZQjVJTauK2TiMKnH+rZYNwEyOfohvqg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/u2z7we5nh7uzez9wbsg9qfw07botxw09?d=identicon",
+        "country": "KP",
+        "ethereum_address": "0x0C89227391D5FcF3Eb0b99e72e55416D1E6722ab",
+        "id": "12a7e4a7bb87920ee4d71f21cabeb5ec6842a33285333b9194e196ba7d89ea79",
+        "info_url": "https://en.wikipedia.org/wiki/Victor_Gourevitch",
+        "name": "vast-sister",
+        "tm_pub_key": "MEUOKBRHcoNQZQjVJTauK2TiMKnH+rZYNwEyOfohvqg=",
+        "vega_pub_key": "e2901b0bf2f68175fd1d9a2d214269b8ac747290cba91994f0109550bd8d9b33",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -380,21 +391,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "zcjAe5OYJVJ1B+kNEbSyyJsjLFVmi/4PT9iA157OrCE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/w447yaqf3sfpkpw5xska3rzncdl6eer1?d=identicon",
-        "country": "YJ",
-        "ethereum_address": "0xeEC3d34ba3e56dA6598900d5DC77E2a9441687c9",
-        "id": "f80c5005b279109c5864a061f3a6cc7f8c42d0c04180d0953ca1f29173a5d437",
-        "info_url": "https://en.wikipedia.org/wiki/Bielstein_Tunnel",
-        "name": "wicked-taxi",
-        "tm_pub_key": "zcjAe5OYJVJ1B+kNEbSyyJsjLFVmi/4PT9iA157OrCE=",
-        "vega_pub_key": "13e58187b6d7bb4bf62675a3a747aa461f499544503d84f295014695f44fe70e",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404051756",
+  "chain_id": "vega-devnet1-202404081642",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-05T17:56:22.570799462Z",
+  "genesis_time": "2024-04-08T16:42:14.707333515Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "5B8ED32C191FF69F1C5207959EC0CC46F1BA5965",
-      "name": "wicked-taxi",
+      "address": "5A3A10DD75012A8DFE8950153F9FE9EFB80C4EFB",
+      "name": "vast-sister",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "zcjAe5OYJVJ1B+kNEbSyyJsjLFVmi/4PT9iA157OrCE="
+        "value": "MEUOKBRHcoNQZQjVJTauK2TiMKnH+rZYNwEyOfohvqg="
       }
     }
   ]
