@@ -359,17 +359,6 @@
         "vega_pub_key": "cb152821443248b20a217abee89c1c8e595e07d47c537255d480761c88bc86d1",
         "vega_pub_key_index": 1
       },
-      "8zQjYkTtAirfy1w9WDD0aK0t1ecMnVDj+fSREyPfCYI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/qtpk3ofte5u0bytegwrlm3f7k3g4jvhc?d=identicon",
-        "country": "SL",
-        "ethereum_address": "0x6F85858Ea8eFE130902dAE3bfCF69Da9c6Ada6e1",
-        "id": "d989fc6f4ab46ea240ebf2421b889ea2d0d20cbf3f7eac597031677ca0649efe",
-        "info_url": "https://en.wikipedia.org/wiki/Drumharsna_Castle",
-        "name": "yummy-table",
-        "tm_pub_key": "8zQjYkTtAirfy1w9WDD0aK0t1ecMnVDj+fSREyPfCYI=",
-        "vega_pub_key": "ebfa0d9f809e1bbdacf6d60f064fb214d090fdc94e05a0738edefa7650a6ccd9",
-        "vega_pub_key_index": 1
-      },
       "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ=": {
         "avatar_url": "https://www.gravatar.com/avatar/6x0s5jsbbeeihso9yyhnh6hcop4fkxa1?d=identicon",
         "country": "ON",
@@ -391,10 +380,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "Uo664kSjYEa0ybuFDBVQlrMy4KBMdX4QPruoSVhsNCQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/m6f8p61d2jsuwz0asuu9emjf6wgvy9x6?d=identicon",
+        "country": "NA",
+        "ethereum_address": "0x451d3CC240a1f912F79346A41b02039005E0D1ff",
+        "id": "f0ebb45422c90845910d2f9975eeb4692e0a88aee0fb31e7cde65ace243fae9f",
+        "info_url": "https://en.wikipedia.org/wiki/1960_NFL_Championship_Game",
+        "name": "adventurous-shoe",
+        "tm_pub_key": "Uo664kSjYEa0ybuFDBVQlrMy4KBMdX4QPruoSVhsNCQ=",
+        "vega_pub_key": "71fe1ff7572e770934f2689532e3e6d3698a40b01d5ad054c894855dbcc554e1",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404091318",
+  "chain_id": "vega-devnet1-202404091533",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-09T13:18:16.477837289Z",
+  "genesis_time": "2024-04-09T15:33:19.734747405Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "9DEDE365AD3A9AD8E91690E380FF5E838B5E9A05",
-      "name": "yummy-table",
+      "address": "3E4B5BD77B1C0219473A000E65FC92B1A4425910",
+      "name": "adventurous-shoe",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "8zQjYkTtAirfy1w9WDD0aK0t1ecMnVDj+fSREyPfCYI="
+        "value": "Uo664kSjYEa0ybuFDBVQlrMy4KBMdX4QPruoSVhsNCQ="
       }
     }
   ]
