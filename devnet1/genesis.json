@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "Uo664kSjYEa0ybuFDBVQlrMy4KBMdX4QPruoSVhsNCQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/m6f8p61d2jsuwz0asuu9emjf6wgvy9x6?d=identicon",
-        "country": "NA",
-        "ethereum_address": "0x451d3CC240a1f912F79346A41b02039005E0D1ff",
-        "id": "f0ebb45422c90845910d2f9975eeb4692e0a88aee0fb31e7cde65ace243fae9f",
-        "info_url": "https://en.wikipedia.org/wiki/1960_NFL_Championship_Game",
-        "name": "adventurous-shoe",
-        "tm_pub_key": "Uo664kSjYEa0ybuFDBVQlrMy4KBMdX4QPruoSVhsNCQ=",
-        "vega_pub_key": "71fe1ff7572e770934f2689532e3e6d3698a40b01d5ad054c894855dbcc554e1",
+      "d8OagpoR650oXkvph06Kq7kZQ+Cx2CrgFNgKudZ7l4M=": {
+        "avatar_url": "https://www.gravatar.com/avatar/r29o7s6kxemn6n26pary3g53w1wb41gw?d=identicon",
+        "country": "HU",
+        "ethereum_address": "0x14a1CA413014b47a5580168B0c628F57eC894832",
+        "id": "f6cf2d66d125e76874fee843176e84eba7f1700002436b5f20fcd89b814b6ede",
+        "info_url": "https://en.wikipedia.org/wiki/Rosa_Blanca",
+        "name": "disturbed-beach",
+        "tm_pub_key": "d8OagpoR650oXkvph06Kq7kZQ+Cx2CrgFNgKudZ7l4M=",
+        "vega_pub_key": "13739acbc3ce096afa298f58f7e9dd0a99c7dd72fff4fd14f3c29c753c61d1fd",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404091533",
+  "chain_id": "vega-devnet1-202404091613",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-09T15:33:19.734747405Z",
+  "genesis_time": "2024-04-09T16:13:19.918343234Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "3E4B5BD77B1C0219473A000E65FC92B1A4425910",
-      "name": "adventurous-shoe",
+      "address": "CDB1D0195EFD8D2AB3E72CC6265B39D1EE1330BB",
+      "name": "disturbed-beach",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Uo664kSjYEa0ybuFDBVQlrMy4KBMdX4QPruoSVhsNCQ="
+        "value": "d8OagpoR650oXkvph06Kq7kZQ+Cx2CrgFNgKudZ7l4M="
       }
     }
   ]
