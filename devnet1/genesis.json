@@ -359,15 +359,15 @@
         "vega_pub_key": "cb152821443248b20a217abee89c1c8e595e07d47c537255d480761c88bc86d1",
         "vega_pub_key_index": 1
       },
-      "92W6+n/aA/mY1RaMcjjkSvlQizkikoh7Mi4nfHecGto=": {
-        "avatar_url": "https://www.gravatar.com/avatar/jt4omhfwx0hdok2mo5mgghyxuz1lfmq6?d=identicon",
-        "country": "VK",
-        "ethereum_address": "0xA4714148683170F3bC5E49523d2Ae468BB76058d",
-        "id": "ba8becf5285cc36cf077a3b4e0ffda02cd17620810d0737a541fdbc6d7c78df7",
-        "info_url": "https://en.wikipedia.org/wiki/Epicephala_nudilingua",
-        "name": "frightened-music",
-        "tm_pub_key": "92W6+n/aA/mY1RaMcjjkSvlQizkikoh7Mi4nfHecGto=",
-        "vega_pub_key": "d15a8218c5eba394b0d832b4812e835e08ef63f500625fdf7011f7045c3fb116",
+      "8zQjYkTtAirfy1w9WDD0aK0t1ecMnVDj+fSREyPfCYI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/qtpk3ofte5u0bytegwrlm3f7k3g4jvhc?d=identicon",
+        "country": "SL",
+        "ethereum_address": "0x6F85858Ea8eFE130902dAE3bfCF69Da9c6Ada6e1",
+        "id": "d989fc6f4ab46ea240ebf2421b889ea2d0d20cbf3f7eac597031677ca0649efe",
+        "info_url": "https://en.wikipedia.org/wiki/Drumharsna_Castle",
+        "name": "yummy-table",
+        "tm_pub_key": "8zQjYkTtAirfy1w9WDD0aK0t1ecMnVDj+fSREyPfCYI=",
+        "vega_pub_key": "ebfa0d9f809e1bbdacf6d60f064fb214d090fdc94e05a0738edefa7650a6ccd9",
         "vega_pub_key_index": 1
       },
       "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ=": {
@@ -394,7 +394,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202404091207",
+  "chain_id": "vega-devnet1-202404091318",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-09T12:07:57.847523423Z",
+  "genesis_time": "2024-04-09T13:18:16.477837289Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "2640DEB09B45217C447E0F871394F3970C4E9C57",
-      "name": "frightened-music",
+      "address": "9DEDE365AD3A9AD8E91690E380FF5E838B5E9A05",
+      "name": "yummy-table",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "92W6+n/aA/mY1RaMcjjkSvlQizkikoh7Mi4nfHecGto="
+        "value": "8zQjYkTtAirfy1w9WDD0aK0t1ecMnVDj+fSREyPfCYI="
       }
     }
   ]
