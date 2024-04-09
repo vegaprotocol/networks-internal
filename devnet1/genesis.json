@@ -359,6 +359,17 @@
         "vega_pub_key": "cb152821443248b20a217abee89c1c8e595e07d47c537255d480761c88bc86d1",
         "vega_pub_key_index": 1
       },
+      "9XSwkvPpDFB0COacCqEzsZT1SkzOV9tnc7nLVn3Vo0s=": {
+        "avatar_url": "https://www.gravatar.com/avatar/s7rhd9ual0oeaq5radj6o8djv3r8afhr?d=identicon",
+        "country": "OZ",
+        "ethereum_address": "0x4aBfF8006D835A14465d3F818479a6bfF3140149",
+        "id": "66c3567ea6a2e30200936d88dba6b66109a12ae7a472d6c3537c26c18b8bf2f3",
+        "info_url": "https://en.wikipedia.org/wiki/Cossignano",
+        "name": "echoing-biscuit",
+        "tm_pub_key": "9XSwkvPpDFB0COacCqEzsZT1SkzOV9tnc7nLVn3Vo0s=",
+        "vega_pub_key": "a0dcd6d1f22ec29fe493e899b3decebf9543ff15786fd0cf6659de277d903ae9",
+        "vega_pub_key_index": 1
+      },
       "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ=": {
         "avatar_url": "https://www.gravatar.com/avatar/6x0s5jsbbeeihso9yyhnh6hcop4fkxa1?d=identicon",
         "country": "ON",
@@ -368,17 +379,6 @@
         "name": "clever-doctor",
         "tm_pub_key": "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ=",
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
-        "vega_pub_key_index": 1
-      },
-      "MWnsr8yC+v4F2oGVV1hM0sYHSfxhvIsq1w694KFWHMg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/it48u6lwg63ohj0g8o233x11xvp3annp?d=identicon",
-        "country": "ZN",
-        "ethereum_address": "0x501c0511F0bd8b21FdE3F49782dAB03a7623dda2",
-        "id": "419b38a409127235db715f5782f846989bc2c3b2bd13586d36dd8d6f3a72305f",
-        "info_url": "https://en.wikipedia.org/wiki/Ramin_Bahrani",
-        "name": "lucky-lake",
-        "tm_pub_key": "MWnsr8yC+v4F2oGVV1hM0sYHSfxhvIsq1w694KFWHMg=",
-        "vega_pub_key": "2485627dbd5a545468d8ee956f70e094836309d562d15a731ebc093199817a11",
         "vega_pub_key_index": 1
       },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
@@ -394,7 +394,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202404090935",
+  "chain_id": "vega-devnet1-202404091014",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-09T09:35:56.602029028Z",
+  "genesis_time": "2024-04-09T10:14:17.723134711Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "E7D101050215E629EC90FB9C6A743CF0D65A2BC9",
-      "name": "lucky-lake",
+      "address": "55B14D3528B3F82FC0B5E7916628115736D160EF",
+      "name": "echoing-biscuit",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "MWnsr8yC+v4F2oGVV1hM0sYHSfxhvIsq1w694KFWHMg="
+        "value": "9XSwkvPpDFB0COacCqEzsZT1SkzOV9tnc7nLVn3Vo0s="
       }
     }
   ]
