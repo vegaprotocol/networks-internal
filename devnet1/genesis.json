@@ -370,6 +370,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "MWnsr8yC+v4F2oGVV1hM0sYHSfxhvIsq1w694KFWHMg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/it48u6lwg63ohj0g8o233x11xvp3annp?d=identicon",
+        "country": "ZN",
+        "ethereum_address": "0x501c0511F0bd8b21FdE3F49782dAB03a7623dda2",
+        "id": "419b38a409127235db715f5782f846989bc2c3b2bd13586d36dd8d6f3a72305f",
+        "info_url": "https://en.wikipedia.org/wiki/Ramin_Bahrani",
+        "name": "lucky-lake",
+        "tm_pub_key": "MWnsr8yC+v4F2oGVV1hM0sYHSfxhvIsq1w694KFWHMg=",
+        "vega_pub_key": "2485627dbd5a545468d8ee956f70e094836309d562d15a731ebc093199817a11",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -380,21 +391,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "TzdXUS5wLpYrbTs7fOF68Qo5Sbyab5spaoEgM5JrmIo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/vbevpsdzledfrhrpdkpoasigqpqdpr4n?d=identicon",
-        "country": "WT",
-        "ethereum_address": "0xa967471426A2d33Cff53Dd1AB6Da86b252c779BA",
-        "id": "97b83952cc657af11734c450e25056015a33ef124b4feccccf7762ad7c0d8452",
-        "info_url": "https://en.wikipedia.org/wiki/Karla_Reuter",
-        "name": "intrigued-ball",
-        "tm_pub_key": "TzdXUS5wLpYrbTs7fOF68Qo5Sbyab5spaoEgM5JrmIo=",
-        "vega_pub_key": "5ef2bf14040919adf866babc7532e0ce6d812b70196f3163291c06429708876d",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404081730",
+  "chain_id": "vega-devnet1-202404090935",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-08T17:30:52.489554029Z",
+  "genesis_time": "2024-04-09T09:35:56.602029028Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "55476E9051C2098532267A404FCA20D12B0DDED7",
-      "name": "intrigued-ball",
+      "address": "E7D101050215E629EC90FB9C6A743CF0D65A2BC9",
+      "name": "lucky-lake",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "TzdXUS5wLpYrbTs7fOF68Qo5Sbyab5spaoEgM5JrmIo="
+        "value": "MWnsr8yC+v4F2oGVV1hM0sYHSfxhvIsq1w694KFWHMg="
       }
     }
   ]
