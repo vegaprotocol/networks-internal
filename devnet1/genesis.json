@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "d8OagpoR650oXkvph06Kq7kZQ+Cx2CrgFNgKudZ7l4M=": {
-        "avatar_url": "https://www.gravatar.com/avatar/r29o7s6kxemn6n26pary3g53w1wb41gw?d=identicon",
-        "country": "HU",
-        "ethereum_address": "0x14a1CA413014b47a5580168B0c628F57eC894832",
-        "id": "f6cf2d66d125e76874fee843176e84eba7f1700002436b5f20fcd89b814b6ede",
-        "info_url": "https://en.wikipedia.org/wiki/Rosa_Blanca",
-        "name": "disturbed-beach",
-        "tm_pub_key": "d8OagpoR650oXkvph06Kq7kZQ+Cx2CrgFNgKudZ7l4M=",
-        "vega_pub_key": "13739acbc3ce096afa298f58f7e9dd0a99c7dd72fff4fd14f3c29c753c61d1fd",
+      "jtMwXig3VNb3ClNUep8Ttym+lR7DZI/KzRga51ccmIg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/gcci8yd9xnzwtqgyoj9fg09ngpzh9a89?d=identicon",
+        "country": "PA",
+        "ethereum_address": "0x2EB5f7C42300dad1b012cCeD81Ec675098e7a6ab",
+        "id": "6c61e2de4a4a897bb9303f29294e3c87fe702cdf0359829f2dc8cf805e487f26",
+        "info_url": "https://en.wikipedia.org/wiki/Frank_Gault",
+        "name": "ideal-hat",
+        "tm_pub_key": "jtMwXig3VNb3ClNUep8Ttym+lR7DZI/KzRga51ccmIg=",
+        "vega_pub_key": "03c812ac11f6f21be28bc0459bdef9bcb7e4eec6e2ae5522493bbd6109879a16",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404091613",
+  "chain_id": "vega-devnet1-202404091918",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-09T16:13:19.918343234Z",
+  "genesis_time": "2024-04-09T19:18:48.267979928Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "CDB1D0195EFD8D2AB3E72CC6265B39D1EE1330BB",
-      "name": "disturbed-beach",
+      "address": "93421313B52817CA4106153F4073D620696FD3A6",
+      "name": "ideal-hat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "d8OagpoR650oXkvph06Kq7kZQ+Cx2CrgFNgKudZ7l4M="
+        "value": "jtMwXig3VNb3ClNUep8Ttym+lR7DZI/KzRga51ccmIg="
       }
     }
   ]
