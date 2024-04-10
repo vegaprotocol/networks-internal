@@ -348,6 +348,17 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
+      "4WqM1Fs1YDAk1hxm7UIYMwDDOjVAn/HWlCrt+i92hQg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/rmbmdseac3c519jy0x5i0nj7eej1q2uu?d=identicon",
+        "country": "MY",
+        "ethereum_address": "0xd7003860A1fbC34935dE167312301EAA65fcbF3f",
+        "id": "0c4d7cea584733b8fe8237d582eab746d9be05805338f6e7fa64c77ff2f65ab0",
+        "info_url": "https://en.wikipedia.org/wiki/Norman_Johansen",
+        "name": "brave-lake",
+        "tm_pub_key": "4WqM1Fs1YDAk1hxm7UIYMwDDOjVAn/HWlCrt+i92hQg=",
+        "vega_pub_key": "349476daf395f31e56a889af77b5dea65671c25763e5b6b324c60212f53a1d43",
+        "vega_pub_key_index": 1
+      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -370,17 +381,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "ExpkrLdm/IOgfoKB/Fg260SOdETEaHqaqeVGfzpO6wA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/s0w013zk7a3piaecexaujgp3cujf0tng?d=identicon",
-        "country": "YC",
-        "ethereum_address": "0x3655D9E8Ff06fc12F5AB58AA54F6D80D0fcE4De9",
-        "id": "0e8bc338d1adb261802c953248f8fe4b039e9ff8bb9ce6cf16043a8a386fc5f6",
-        "info_url": "https://en.wikipedia.org/wiki/Pucagaga_Punta",
-        "name": "shapely-butterfly",
-        "tm_pub_key": "ExpkrLdm/IOgfoKB/Fg260SOdETEaHqaqeVGfzpO6wA=",
-        "vega_pub_key": "89ae0e987c67c0499ab1bc3d98f424739e5cfced4542a05941d82e4ade8db548",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -394,7 +394,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202404100849",
+  "chain_id": "vega-devnet1-202404100917",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-10T08:49:20.808940553Z",
+  "genesis_time": "2024-04-10T09:17:54.310793264Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "5DEFB29C233CE774208AB457A3981FBC49AF0EF4",
-      "name": "shapely-butterfly",
+      "address": "B2505AE74705E9D9C83A06D25A850D2B32B9E693",
+      "name": "brave-lake",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ExpkrLdm/IOgfoKB/Fg260SOdETEaHqaqeVGfzpO6wA="
+        "value": "4WqM1Fs1YDAk1hxm7UIYMwDDOjVAn/HWlCrt+i92hQg="
       }
     }
   ]
