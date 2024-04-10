@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "xBoVmBEAfpKXVTyrXRf0KHW9jMcwPB8SKg8SOpDyyys=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ssf4kvjjj1y6ku3swx0qynx360oouy13?d=identicon",
-        "country": "NJ",
-        "ethereum_address": "0xCc2f99f8D28F8e84D1f9288174e7f690892C3Dc4",
-        "id": "5b37e985ec5b6208b6008b124de84f5ffee9eae5e828fd1871a0585730bec77c",
-        "info_url": "https://en.wikipedia.org/wiki/Walter_Blount_(died_1561)",
-        "name": "powerful-apple",
-        "tm_pub_key": "xBoVmBEAfpKXVTyrXRf0KHW9jMcwPB8SKg8SOpDyyys=",
-        "vega_pub_key": "19798c3e44b0d0e78788c35d5af55b71084cf736f908a47a5021ac7e28a71cde",
+      "vi1+PPDP41Ox1lY8RWN8+DxU1jaDbYrYo4YvLWEoExs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/neq36d6yo5j8zxafxhynik7fxu73jfej?d=identicon",
+        "country": "UR",
+        "ethereum_address": "0x8Bac8ca8E08723E2DDfcb815460bcE051a8b560A",
+        "id": "48c62802849881403f097b3655ccf4d9fc1758f470e7a79db7a20fef5e5d6ec4",
+        "info_url": "https://en.wikipedia.org/wiki/Ku_Htone_Mae_Chit_Chin",
+        "name": "echoing-school",
+        "tm_pub_key": "vi1+PPDP41Ox1lY8RWN8+DxU1jaDbYrYo4YvLWEoExs=",
+        "vega_pub_key": "6f90eebfd73f16a91babede167c7df81aa9a27f6b8fb25cdc65a4d2dfb078bc3",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404101306",
+  "chain_id": "vega-devnet1-202404101638",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-10T13:06:09.308854932Z",
+  "genesis_time": "2024-04-10T16:38:51.732903012Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "6FF804559836D3AC5C4CD6543CB37ABC5BF23EE4",
-      "name": "powerful-apple",
+      "address": "1C5D9880CC790832841074AD40D15F3DA994427D",
+      "name": "echoing-school",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "xBoVmBEAfpKXVTyrXRf0KHW9jMcwPB8SKg8SOpDyyys="
+        "value": "vi1+PPDP41Ox1lY8RWN8+DxU1jaDbYrYo4YvLWEoExs="
       }
     }
   ]
