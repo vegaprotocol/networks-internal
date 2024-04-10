@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "qVI+P8PecOHOh6WaGtEBs7swlWSWto0QCvhA7bnU3m0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/8rlzbrez3pukc9fg1pu5ztpuv6zlznrm?d=identicon",
-        "country": "YT",
-        "ethereum_address": "0x883510C02CFE1dcD7747bddD68dc34D313680B9e",
-        "id": "b401bdc4631ed59726319716b099deec41d229713b9deec209df219ce6630f0a",
-        "info_url": "https://en.wikipedia.org/wiki/Nemishaieve",
-        "name": "rich-car",
-        "tm_pub_key": "qVI+P8PecOHOh6WaGtEBs7swlWSWto0QCvhA7bnU3m0=",
-        "vega_pub_key": "d5169923cc9ceab40d2282fb42c5e4d8959b5c25b43a90d17a90153434654213",
+      "xBoVmBEAfpKXVTyrXRf0KHW9jMcwPB8SKg8SOpDyyys=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ssf4kvjjj1y6ku3swx0qynx360oouy13?d=identicon",
+        "country": "NJ",
+        "ethereum_address": "0xCc2f99f8D28F8e84D1f9288174e7f690892C3Dc4",
+        "id": "5b37e985ec5b6208b6008b124de84f5ffee9eae5e828fd1871a0585730bec77c",
+        "info_url": "https://en.wikipedia.org/wiki/Walter_Blount_(died_1561)",
+        "name": "powerful-apple",
+        "tm_pub_key": "xBoVmBEAfpKXVTyrXRf0KHW9jMcwPB8SKg8SOpDyyys=",
+        "vega_pub_key": "19798c3e44b0d0e78788c35d5af55b71084cf736f908a47a5021ac7e28a71cde",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404101041",
+  "chain_id": "vega-devnet1-202404101306",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-10T10:41:59.625554088Z",
+  "genesis_time": "2024-04-10T13:06:09.308854932Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "E107CE8B020E780177578FDDFC82DE32C2CACF43",
-      "name": "rich-car",
+      "address": "6FF804559836D3AC5C4CD6543CB37ABC5BF23EE4",
+      "name": "powerful-apple",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "qVI+P8PecOHOh6WaGtEBs7swlWSWto0QCvhA7bnU3m0="
+        "value": "xBoVmBEAfpKXVTyrXRf0KHW9jMcwPB8SKg8SOpDyyys="
       }
     }
   ]
