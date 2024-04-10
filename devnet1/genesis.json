@@ -370,6 +370,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "ExpkrLdm/IOgfoKB/Fg260SOdETEaHqaqeVGfzpO6wA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/s0w013zk7a3piaecexaujgp3cujf0tng?d=identicon",
+        "country": "YC",
+        "ethereum_address": "0x3655D9E8Ff06fc12F5AB58AA54F6D80D0fcE4De9",
+        "id": "0e8bc338d1adb261802c953248f8fe4b039e9ff8bb9ce6cf16043a8a386fc5f6",
+        "info_url": "https://en.wikipedia.org/wiki/Pucagaga_Punta",
+        "name": "shapely-butterfly",
+        "tm_pub_key": "ExpkrLdm/IOgfoKB/Fg260SOdETEaHqaqeVGfzpO6wA=",
+        "vega_pub_key": "89ae0e987c67c0499ab1bc3d98f424739e5cfced4542a05941d82e4ade8db548",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -380,21 +391,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "jtMwXig3VNb3ClNUep8Ttym+lR7DZI/KzRga51ccmIg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/gcci8yd9xnzwtqgyoj9fg09ngpzh9a89?d=identicon",
-        "country": "PA",
-        "ethereum_address": "0x2EB5f7C42300dad1b012cCeD81Ec675098e7a6ab",
-        "id": "6c61e2de4a4a897bb9303f29294e3c87fe702cdf0359829f2dc8cf805e487f26",
-        "info_url": "https://en.wikipedia.org/wiki/Frank_Gault",
-        "name": "ideal-hat",
-        "tm_pub_key": "jtMwXig3VNb3ClNUep8Ttym+lR7DZI/KzRga51ccmIg=",
-        "vega_pub_key": "03c812ac11f6f21be28bc0459bdef9bcb7e4eec6e2ae5522493bbd6109879a16",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404091918",
+  "chain_id": "vega-devnet1-202404100849",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-09T19:18:48.267979928Z",
+  "genesis_time": "2024-04-10T08:49:20.808940553Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "93421313B52817CA4106153F4073D620696FD3A6",
-      "name": "ideal-hat",
+      "address": "5DEFB29C233CE774208AB457A3981FBC49AF0EF4",
+      "name": "shapely-butterfly",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "jtMwXig3VNb3ClNUep8Ttym+lR7DZI/KzRga51ccmIg="
+        "value": "ExpkrLdm/IOgfoKB/Fg260SOdETEaHqaqeVGfzpO6wA="
       }
     }
   ]
