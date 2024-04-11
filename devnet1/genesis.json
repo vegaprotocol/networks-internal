@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "SfH5p45SHLms1EWOntasowDE86UcluY2soC1WBc6Z7w=": {
-        "avatar_url": "https://www.gravatar.com/avatar/4z0ucquq9wvhkkq7cs7gatqdoprmnz1a?d=identicon",
-        "country": "DP",
-        "ethereum_address": "0x722558EC444eD1F09DF842B41AFfA6403aa05d70",
-        "id": "ba8f1ac1ce63aae9408a8f3c2410daac4ec8b56be2cbd29635770f209b3903df",
-        "info_url": "https://en.wikipedia.org/wiki/Ischnolea_flavofemorata",
-        "name": "excited-baby",
-        "tm_pub_key": "SfH5p45SHLms1EWOntasowDE86UcluY2soC1WBc6Z7w=",
-        "vega_pub_key": "ba403daed72b181cc16943c9885bc5c0c10a74b5efebf6edd09d93c6188a00c6",
+      "p0cE6HkG42qqgoIwSpTZeio3cJnt5cgrOBc2FVSwB7c=": {
+        "avatar_url": "https://www.gravatar.com/avatar/t7amsf42gb0h0ekdid8oiwlzvutmft5h?d=identicon",
+        "country": "VB",
+        "ethereum_address": "0x5D5278444794E4A307B0A4cB4272E4Ee5828fEac",
+        "id": "792c36a1b31cec0f8163d7c209c0bb478c2ecc8c6bb0e256209831c373c72ed5",
+        "info_url": "https://en.wikipedia.org/wiki/Don%27t_Smile_at_Me_Tour",
+        "name": "harebrained-baby",
+        "tm_pub_key": "p0cE6HkG42qqgoIwSpTZeio3cJnt5cgrOBc2FVSwB7c=",
+        "vega_pub_key": "ec9c7ac2941f539aabc1b552dcb9ac826f92da7c19cb6cafd057494ff21f6b5e",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404110920",
+  "chain_id": "vega-devnet1-202404111019",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-11T09:20:07.725989544Z",
+  "genesis_time": "2024-04-11T10:19:36.314552568Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "3441D19EAEAAC62A561BC55E1E64A1BCFF7F8B7E",
-      "name": "excited-baby",
+      "address": "EF372D8B9E24EBB3D93D802C257385622A0FFB9B",
+      "name": "harebrained-baby",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "SfH5p45SHLms1EWOntasowDE86UcluY2soC1WBc6Z7w="
+        "value": "p0cE6HkG42qqgoIwSpTZeio3cJnt5cgrOBc2FVSwB7c="
       }
     }
   ]
