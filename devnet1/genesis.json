@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "vi1+PPDP41Ox1lY8RWN8+DxU1jaDbYrYo4YvLWEoExs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/neq36d6yo5j8zxafxhynik7fxu73jfej?d=identicon",
-        "country": "UR",
-        "ethereum_address": "0x8Bac8ca8E08723E2DDfcb815460bcE051a8b560A",
-        "id": "48c62802849881403f097b3655ccf4d9fc1758f470e7a79db7a20fef5e5d6ec4",
-        "info_url": "https://en.wikipedia.org/wiki/Ku_Htone_Mae_Chit_Chin",
-        "name": "echoing-school",
-        "tm_pub_key": "vi1+PPDP41Ox1lY8RWN8+DxU1jaDbYrYo4YvLWEoExs=",
-        "vega_pub_key": "6f90eebfd73f16a91babede167c7df81aa9a27f6b8fb25cdc65a4d2dfb078bc3",
+      "SfH5p45SHLms1EWOntasowDE86UcluY2soC1WBc6Z7w=": {
+        "avatar_url": "https://www.gravatar.com/avatar/4z0ucquq9wvhkkq7cs7gatqdoprmnz1a?d=identicon",
+        "country": "DP",
+        "ethereum_address": "0x722558EC444eD1F09DF842B41AFfA6403aa05d70",
+        "id": "ba8f1ac1ce63aae9408a8f3c2410daac4ec8b56be2cbd29635770f209b3903df",
+        "info_url": "https://en.wikipedia.org/wiki/Ischnolea_flavofemorata",
+        "name": "excited-baby",
+        "tm_pub_key": "SfH5p45SHLms1EWOntasowDE86UcluY2soC1WBc6Z7w=",
+        "vega_pub_key": "ba403daed72b181cc16943c9885bc5c0c10a74b5efebf6edd09d93c6188a00c6",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404101638",
+  "chain_id": "vega-devnet1-202404110920",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-10T16:38:51.732903012Z",
+  "genesis_time": "2024-04-11T09:20:07.725989544Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "1C5D9880CC790832841074AD40D15F3DA994427D",
-      "name": "echoing-school",
+      "address": "3441D19EAEAAC62A561BC55E1E64A1BCFF7F8B7E",
+      "name": "excited-baby",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "vi1+PPDP41Ox1lY8RWN8+DxU1jaDbYrYo4YvLWEoExs="
+        "value": "SfH5p45SHLms1EWOntasowDE86UcluY2soC1WBc6Z7w="
       }
     }
   ]
