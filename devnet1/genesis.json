@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "p0cE6HkG42qqgoIwSpTZeio3cJnt5cgrOBc2FVSwB7c=": {
-        "avatar_url": "https://www.gravatar.com/avatar/t7amsf42gb0h0ekdid8oiwlzvutmft5h?d=identicon",
-        "country": "VB",
-        "ethereum_address": "0x5D5278444794E4A307B0A4cB4272E4Ee5828fEac",
-        "id": "792c36a1b31cec0f8163d7c209c0bb478c2ecc8c6bb0e256209831c373c72ed5",
-        "info_url": "https://en.wikipedia.org/wiki/Don%27t_Smile_at_Me_Tour",
-        "name": "harebrained-baby",
-        "tm_pub_key": "p0cE6HkG42qqgoIwSpTZeio3cJnt5cgrOBc2FVSwB7c=",
-        "vega_pub_key": "ec9c7ac2941f539aabc1b552dcb9ac826f92da7c19cb6cafd057494ff21f6b5e",
+      "WfsC6dKmV6GMYI9P1r7rz8KUqndbUnJACkJ7vDurNIY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/15g64u142ogvuwmnb541mz1m4931c7jy?d=identicon",
+        "country": "UF",
+        "ethereum_address": "0x2D6c8b16cb370C407b7ff6EaC0d22758AA33D403",
+        "id": "3f6552ed12fcfd74dba1d517cbefe39b0332bc0beb1d7fe0e8c5c3da7fd5b5e2",
+        "info_url": "https://en.wikipedia.org/wiki/La_Sentinelle_(novelette)",
+        "name": "mango-swing",
+        "tm_pub_key": "WfsC6dKmV6GMYI9P1r7rz8KUqndbUnJACkJ7vDurNIY=",
+        "vega_pub_key": "fd4db3435514e45d6bb9b390bf37f036d89ede6af98db4d1fc3e0f465e31edf3",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404111019",
+  "chain_id": "vega-devnet1-202404111726",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-11T10:19:36.314552568Z",
+  "genesis_time": "2024-04-11T17:26:18.583761404Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "EF372D8B9E24EBB3D93D802C257385622A0FFB9B",
-      "name": "harebrained-baby",
+      "address": "099A6ABF3AB3657BFF1F7AA6ECEAB0395CFA00B6",
+      "name": "mango-swing",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "p0cE6HkG42qqgoIwSpTZeio3cJnt5cgrOBc2FVSwB7c="
+        "value": "WfsC6dKmV6GMYI9P1r7rz8KUqndbUnJACkJ7vDurNIY="
       }
     }
   ]
