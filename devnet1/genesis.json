@@ -337,6 +337,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "1ygSnWHkPVi7N8V81stPqcXAlBVtWPJYpxrYuY48Lyo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/46810t0fstjfxbdar4emuq43xkbv1ywf?d=identicon",
+        "country": "NR",
+        "ethereum_address": "0xB2bF1264dE7d69E12e81E5EcAa4F2883d74A8eD1",
+        "id": "9ab08be427e3ec861610b814f43248b5e8cd8ddb2352685e1d83f7c6e9c0c702",
+        "info_url": "https://en.wikipedia.org/wiki/Nice_CP_station",
+        "name": "mysterious-cookie",
+        "tm_pub_key": "1ygSnWHkPVi7N8V81stPqcXAlBVtWPJYpxrYuY48Lyo=",
+        "vega_pub_key": "069bfaeef6a412029f7cca1df1962e49404aa0158397a0e33fb3e983a61872ff",
+        "vega_pub_key_index": 1
+      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -380,21 +391,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "WfsC6dKmV6GMYI9P1r7rz8KUqndbUnJACkJ7vDurNIY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/15g64u142ogvuwmnb541mz1m4931c7jy?d=identicon",
-        "country": "UF",
-        "ethereum_address": "0x2D6c8b16cb370C407b7ff6EaC0d22758AA33D403",
-        "id": "3f6552ed12fcfd74dba1d517cbefe39b0332bc0beb1d7fe0e8c5c3da7fd5b5e2",
-        "info_url": "https://en.wikipedia.org/wiki/La_Sentinelle_(novelette)",
-        "name": "mango-swing",
-        "tm_pub_key": "WfsC6dKmV6GMYI9P1r7rz8KUqndbUnJACkJ7vDurNIY=",
-        "vega_pub_key": "fd4db3435514e45d6bb9b390bf37f036d89ede6af98db4d1fc3e0f465e31edf3",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404111726",
+  "chain_id": "vega-devnet1-202404120928",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-11T17:26:18.583761404Z",
+  "genesis_time": "2024-04-12T09:28:11.138398244Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "099A6ABF3AB3657BFF1F7AA6ECEAB0395CFA00B6",
-      "name": "mango-swing",
+      "address": "97ADB4BD0343D332AD7B590233C89FFDF189FA37",
+      "name": "mysterious-cookie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "WfsC6dKmV6GMYI9P1r7rz8KUqndbUnJACkJ7vDurNIY="
+        "value": "1ygSnWHkPVi7N8V81stPqcXAlBVtWPJYpxrYuY48Lyo="
       }
     }
   ]
