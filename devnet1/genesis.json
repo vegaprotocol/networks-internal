@@ -370,17 +370,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "HwUyUNREhgKv6yZ0NMzhsLh2u13Kd55yUHflFgjCeVU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/s5z0egxfvrjbzngrmrlcpslxnnm189pz?d=identicon",
-        "country": "OV",
-        "ethereum_address": "0xC079AB0878A1526Dd1E953f704C30441058948F6",
-        "id": "c517ac3e6be3e09780ca9d9fbbf8a92b86f3990d0f4899557e9ea460d49d8c8c",
-        "info_url": "https://en.wikipedia.org/wiki/Oligohalinophila",
-        "name": "courageous-book",
-        "tm_pub_key": "HwUyUNREhgKv6yZ0NMzhsLh2u13Kd55yUHflFgjCeVU=",
-        "vega_pub_key": "5b8e95b13676d487b8e972940b41314869d1adb9fac50445ce30d11279cf983d",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -391,10 +380,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "iqTJUPvjbgzc0hAfoEa5LM9PskYEAV/dePCQc4EsPfc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/5wfe0d95zk65qsl2u4p2o7rz3bq1goi4?d=identicon",
+        "country": "NW",
+        "ethereum_address": "0x776CB2cF55380562e1596F49a5F475864c585D43",
+        "id": "a1438f9143b2ca15cc0144f205a9cedf9a48026f8e996533c80ea01fcc7485a4",
+        "info_url": "https://en.wikipedia.org/wiki/J._R._Fitzpatrick",
+        "name": "bright-burger",
+        "tm_pub_key": "iqTJUPvjbgzc0hAfoEa5LM9PskYEAV/dePCQc4EsPfc=",
+        "vega_pub_key": "cc63932e44e5eccd5269dd77d2e399fb1bdd99a8b90badbcac57b9231f7326b0",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404121139",
+  "chain_id": "vega-devnet1-202404121427",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-12T11:39:00.65104535Z",
+  "genesis_time": "2024-04-12T14:27:16.755295027Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "A15C820E2D91A3E1A5A77F85F92568FEB1FB082D",
-      "name": "courageous-book",
+      "address": "39A2B361C05FB142C42885B39808D337F2C4AB56",
+      "name": "bright-burger",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "HwUyUNREhgKv6yZ0NMzhsLh2u13Kd55yUHflFgjCeVU="
+        "value": "iqTJUPvjbgzc0hAfoEa5LM9PskYEAV/dePCQc4EsPfc="
       }
     }
   ]
