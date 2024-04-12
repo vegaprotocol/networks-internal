@@ -337,17 +337,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "1ygSnWHkPVi7N8V81stPqcXAlBVtWPJYpxrYuY48Lyo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/46810t0fstjfxbdar4emuq43xkbv1ywf?d=identicon",
-        "country": "NR",
-        "ethereum_address": "0xB2bF1264dE7d69E12e81E5EcAa4F2883d74A8eD1",
-        "id": "9ab08be427e3ec861610b814f43248b5e8cd8ddb2352685e1d83f7c6e9c0c702",
-        "info_url": "https://en.wikipedia.org/wiki/Nice_CP_station",
-        "name": "mysterious-cookie",
-        "tm_pub_key": "1ygSnWHkPVi7N8V81stPqcXAlBVtWPJYpxrYuY48Lyo=",
-        "vega_pub_key": "069bfaeef6a412029f7cca1df1962e49404aa0158397a0e33fb3e983a61872ff",
-        "vega_pub_key_index": 1
-      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -381,6 +370,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "L4g4oBCFb9zL6dn/LZJ6VDH114t5vkKyw1O+in+wv2o=": {
+        "avatar_url": "https://www.gravatar.com/avatar/m4pbytt1b76t7beg271qb9wv907o8v13?d=identicon",
+        "country": "RB",
+        "ethereum_address": "0x41fD9AFa5285FaeDE7803D8c4d47134a8c2a13f8",
+        "id": "2e59af61479e0bae94ffbdd3d47aa53b6db65f6b49bfdd0f181fe7df74555f49",
+        "info_url": "https://en.wikipedia.org/wiki/Chocolate_gravy",
+        "name": "unkempt-dog",
+        "tm_pub_key": "L4g4oBCFb9zL6dn/LZJ6VDH114t5vkKyw1O+in+wv2o=",
+        "vega_pub_key": "a68dae1ccdb5ccd9b27cc9682bef0fd520a6063b345741553509b1179dae109a",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -394,7 +394,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202404120928",
+  "chain_id": "vega-devnet1-202404121046",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-12T09:28:11.138398244Z",
+  "genesis_time": "2024-04-12T10:46:27.178027966Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "97ADB4BD0343D332AD7B590233C89FFDF189FA37",
-      "name": "mysterious-cookie",
+      "address": "20B5173E2520049E8702E9546EF9EF2F3330D851",
+      "name": "unkempt-dog",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "1ygSnWHkPVi7N8V81stPqcXAlBVtWPJYpxrYuY48Lyo="
+        "value": "L4g4oBCFb9zL6dn/LZJ6VDH114t5vkKyw1O+in+wv2o="
       }
     }
   ]
