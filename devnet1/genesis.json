@@ -370,17 +370,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "NCI3sJFD1nal9c5g1Ps/MRbNMMPs6SHq3hrmfo+iw7I=": {
-        "avatar_url": "https://www.gravatar.com/avatar/xaw0cp6dt47ry4v75ek0ebqbraxn0uho?d=identicon",
-        "country": "LG",
-        "ethereum_address": "0xAf61E74F12dCbC15131AED0007789E7283CDa0B1",
-        "id": "3a06240945a90bf905685a310b73d519b5886fcab0c60784ec9a2469d7b7f84d",
-        "info_url": "https://en.wikipedia.org/wiki/Color_(law)",
-        "name": "helpful-roof",
-        "tm_pub_key": "NCI3sJFD1nal9c5g1Ps/MRbNMMPs6SHq3hrmfo+iw7I=",
-        "vega_pub_key": "a09aa1ca7a48aec9c2a150c796ab580a6974eb342f5345f3e9367b6a00ad8aab",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -391,10 +380,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "ltGpljFceywfpyFVnXMqaemdjDOa6f8GOzpQSwXWeUI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/1zdqdwtdssx7j5atbszsrd7z0x2jsa8k?d=identicon",
+        "country": "SS",
+        "ethereum_address": "0x11dBaD99bf1F13cB0fcD7Fa7608cF5D6b5FBE402",
+        "id": "e4badc2932f4fa252532636d9583a470c34812bc3f952ba6af9b9092e0b0ec76",
+        "info_url": "https://en.wikipedia.org/wiki/Subramanian_Iyer",
+        "name": "better-park",
+        "tm_pub_key": "ltGpljFceywfpyFVnXMqaemdjDOa6f8GOzpQSwXWeUI=",
+        "vega_pub_key": "8a1118f13eb257c0a1a5415ba9de0278b11557285fad88bd57570f01902eae3e",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404151036",
+  "chain_id": "vega-devnet1-202404151105",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-15T10:36:35.578297438Z",
+  "genesis_time": "2024-04-15T11:05:19.055884417Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "9050661E015C08953FAB98B2AD74B59B499DD7BC",
-      "name": "helpful-roof",
+      "address": "3689E287B10065D3F98EDFF9AF391E5453D1165F",
+      "name": "better-park",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "NCI3sJFD1nal9c5g1Ps/MRbNMMPs6SHq3hrmfo+iw7I="
+        "value": "ltGpljFceywfpyFVnXMqaemdjDOa6f8GOzpQSwXWeUI="
       }
     }
   ]
