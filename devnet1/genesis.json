@@ -370,6 +370,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "NCI3sJFD1nal9c5g1Ps/MRbNMMPs6SHq3hrmfo+iw7I=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xaw0cp6dt47ry4v75ek0ebqbraxn0uho?d=identicon",
+        "country": "LG",
+        "ethereum_address": "0xAf61E74F12dCbC15131AED0007789E7283CDa0B1",
+        "id": "3a06240945a90bf905685a310b73d519b5886fcab0c60784ec9a2469d7b7f84d",
+        "info_url": "https://en.wikipedia.org/wiki/Color_(law)",
+        "name": "helpful-roof",
+        "tm_pub_key": "NCI3sJFD1nal9c5g1Ps/MRbNMMPs6SHq3hrmfo+iw7I=",
+        "vega_pub_key": "a09aa1ca7a48aec9c2a150c796ab580a6974eb342f5345f3e9367b6a00ad8aab",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -380,21 +391,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "kWd1n07FlT9hbPlVNMFCdAVp3g1sgc+w0+iAC78Dkm8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/insx2nu10ylxurjo8rssxiglvv1mtd7s?d=identicon",
-        "country": "TR",
-        "ethereum_address": "0xBdAf682c3C0C0eF6a4C496D55Ed72a713a22B0b6",
-        "id": "4131fe2193a1a1cf41550ddf26b4f5e9b5bdd1af575a463a4c7f2fb7e2ef4b26",
-        "info_url": "https://en.wikipedia.org/wiki/Shattered_Horizon",
-        "name": "costly-school",
-        "tm_pub_key": "kWd1n07FlT9hbPlVNMFCdAVp3g1sgc+w0+iAC78Dkm8=",
-        "vega_pub_key": "4113d87f1f9864f5852dd5041d5b9b2e1a91729c030f0e8073b9b7981bc74ca0",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404150952",
+  "chain_id": "vega-devnet1-202404151036",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-15T09:52:46.239322194Z",
+  "genesis_time": "2024-04-15T10:36:35.578297438Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "390A08EFFA4D9CF5CFF0F62C9523DD32ADCE7632",
-      "name": "costly-school",
+      "address": "9050661E015C08953FAB98B2AD74B59B499DD7BC",
+      "name": "helpful-roof",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "kWd1n07FlT9hbPlVNMFCdAVp3g1sgc+w0+iAC78Dkm8="
+        "value": "NCI3sJFD1nal9c5g1Ps/MRbNMMPs6SHq3hrmfo+iw7I="
       }
     }
   ]
