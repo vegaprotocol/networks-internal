@@ -370,15 +370,15 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "MNaREB4Yg5QelJ6/j+qqdVqwJ9nmhEFeyx4NSZo0d3Q=": {
-        "avatar_url": "https://www.gravatar.com/avatar/lkr0n2mouur5385os9krcdk0qp5to9ei?d=identicon",
-        "country": "GE",
-        "ethereum_address": "0x70572B8CC2eD00A3Cf534F0DC99DC429e447AC80",
-        "id": "649239ed7a8db0be3ef895ba9f903a3ed8113d3df91117b8ec6c92b6760c372c",
-        "info_url": "https://en.wikipedia.org/wiki/Takudzwa_Ngwenya",
-        "name": "courageous-television",
-        "tm_pub_key": "MNaREB4Yg5QelJ6/j+qqdVqwJ9nmhEFeyx4NSZo0d3Q=",
-        "vega_pub_key": "4c0e68671e3bdc3d8dea1c8915b046b9ed02b0801f9ce997f01f605896832f56",
+      "Fk856mT/ZRNlKIMBpe7gzIjkSeCpKq+2bHXUusuZaKQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/3bmzlvs6sn64dmwilkwb0t6lkjebtak0?d=identicon",
+        "country": "PF",
+        "ethereum_address": "0x05Ffc26c9e9dFe7DfcF0096267BBc1B9B0daEF77",
+        "id": "96e9e695baad2bff93581c7e562c002cebeba000bdb9c8fcdfe8af03a86c1b22",
+        "info_url": "https://en.wikipedia.org/wiki/McAlister,_New_Mexico",
+        "name": "happy-man",
+        "tm_pub_key": "Fk856mT/ZRNlKIMBpe7gzIjkSeCpKq+2bHXUusuZaKQ=",
+        "vega_pub_key": "35a6b8ca6059f8569ed48aabfe1e442a30bfafc3294559c7974870995804a926",
         "vega_pub_key_index": 1
       },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
@@ -394,7 +394,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202404151458",
+  "chain_id": "vega-devnet1-202404151611",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-15T14:58:35.656321755Z",
+  "genesis_time": "2024-04-15T16:11:38.088960585Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "2D1318D92BAD6685695BC6178971429E13A0072C",
-      "name": "courageous-television",
+      "address": "7060968B36337D213CBC949C97EAAA07A5895F10",
+      "name": "happy-man",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "MNaREB4Yg5QelJ6/j+qqdVqwJ9nmhEFeyx4NSZo0d3Q="
+        "value": "Fk856mT/ZRNlKIMBpe7gzIjkSeCpKq+2bHXUusuZaKQ="
       }
     }
   ]
