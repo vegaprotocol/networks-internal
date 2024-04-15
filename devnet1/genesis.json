@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "ltGpljFceywfpyFVnXMqaemdjDOa6f8GOzpQSwXWeUI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/1zdqdwtdssx7j5atbszsrd7z0x2jsa8k?d=identicon",
-        "country": "SS",
-        "ethereum_address": "0x11dBaD99bf1F13cB0fcD7Fa7608cF5D6b5FBE402",
-        "id": "e4badc2932f4fa252532636d9583a470c34812bc3f952ba6af9b9092e0b0ec76",
-        "info_url": "https://en.wikipedia.org/wiki/Subramanian_Iyer",
-        "name": "better-park",
-        "tm_pub_key": "ltGpljFceywfpyFVnXMqaemdjDOa6f8GOzpQSwXWeUI=",
-        "vega_pub_key": "8a1118f13eb257c0a1a5415ba9de0278b11557285fad88bd57570f01902eae3e",
+      "pVUOdneWKDJ7IqeJm1AxMkZISxD+j4Vg4KmHxlSgSVY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/2267i2y2xltnldxwq45fya93nutrf9e6?d=identicon",
+        "country": "WG",
+        "ethereum_address": "0x58D04350CFE093A1f07b1a51297e02786EB2C4a9",
+        "id": "2fde0f390cab752aa19bfce0e62fc906e1444db9a59666fc984f7475033646f7",
+        "info_url": "https://en.wikipedia.org/wiki/Paddy_Dow",
+        "name": "shy-chimney",
+        "tm_pub_key": "pVUOdneWKDJ7IqeJm1AxMkZISxD+j4Vg4KmHxlSgSVY=",
+        "vega_pub_key": "0b6c430a54bc289d86ab2982cd89bc288b21130e4780337f8f1d41b6884094e2",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404151105",
+  "chain_id": "vega-devnet1-202404151211",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-15T11:05:19.055884417Z",
+  "genesis_time": "2024-04-15T12:11:36.831334877Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "3689E287B10065D3F98EDFF9AF391E5453D1165F",
-      "name": "better-park",
+      "address": "69A6CA18AB353B9160149085706A8E4788E29AEA",
+      "name": "shy-chimney",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ltGpljFceywfpyFVnXMqaemdjDOa6f8GOzpQSwXWeUI="
+        "value": "pVUOdneWKDJ7IqeJm1AxMkZISxD+j4Vg4KmHxlSgSVY="
       }
     }
   ]
