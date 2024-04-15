@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "iqTJUPvjbgzc0hAfoEa5LM9PskYEAV/dePCQc4EsPfc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/5wfe0d95zk65qsl2u4p2o7rz3bq1goi4?d=identicon",
-        "country": "NW",
-        "ethereum_address": "0x776CB2cF55380562e1596F49a5F475864c585D43",
-        "id": "a1438f9143b2ca15cc0144f205a9cedf9a48026f8e996533c80ea01fcc7485a4",
-        "info_url": "https://en.wikipedia.org/wiki/J._R._Fitzpatrick",
-        "name": "bright-burger",
-        "tm_pub_key": "iqTJUPvjbgzc0hAfoEa5LM9PskYEAV/dePCQc4EsPfc=",
-        "vega_pub_key": "cc63932e44e5eccd5269dd77d2e399fb1bdd99a8b90badbcac57b9231f7326b0",
+      "kWd1n07FlT9hbPlVNMFCdAVp3g1sgc+w0+iAC78Dkm8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/insx2nu10ylxurjo8rssxiglvv1mtd7s?d=identicon",
+        "country": "TR",
+        "ethereum_address": "0xBdAf682c3C0C0eF6a4C496D55Ed72a713a22B0b6",
+        "id": "4131fe2193a1a1cf41550ddf26b4f5e9b5bdd1af575a463a4c7f2fb7e2ef4b26",
+        "info_url": "https://en.wikipedia.org/wiki/Shattered_Horizon",
+        "name": "costly-school",
+        "tm_pub_key": "kWd1n07FlT9hbPlVNMFCdAVp3g1sgc+w0+iAC78Dkm8=",
+        "vega_pub_key": "4113d87f1f9864f5852dd5041d5b9b2e1a91729c030f0e8073b9b7981bc74ca0",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404121427",
+  "chain_id": "vega-devnet1-202404150910",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-12T14:27:16.755295027Z",
+  "genesis_time": "2024-04-15T09:10:29.788858248Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "39A2B361C05FB142C42885B39808D337F2C4AB56",
-      "name": "bright-burger",
+      "address": "390A08EFFA4D9CF5CFF0F62C9523DD32ADCE7632",
+      "name": "costly-school",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "iqTJUPvjbgzc0hAfoEa5LM9PskYEAV/dePCQc4EsPfc="
+        "value": "kWd1n07FlT9hbPlVNMFCdAVp3g1sgc+w0+iAC78Dkm8="
       }
     }
   ]
