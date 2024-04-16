@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "rwF/IzMzVZCet+x6PAFLV3Lq1BGyYGc8YBRC+bF11UA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/zcwg2ig6j278bw8q8maostdojirusgvg?d=identicon",
-        "country": "FT",
-        "ethereum_address": "0xba28b933938027a5a76675fBa4c30f579e6f36B7",
-        "id": "29556d5e89fcb5f54c50533129ed8ab8deef85c2574ad8fccb3ffae1f4212c3b",
-        "info_url": "https://en.wikipedia.org/wiki/Filip_Antonijevi%C4%87",
-        "name": "harsh-pool",
-        "tm_pub_key": "rwF/IzMzVZCet+x6PAFLV3Lq1BGyYGc8YBRC+bF11UA=",
-        "vega_pub_key": "3ff61b7c3be19bbf43ce4038ce41de93f4749d5b4259018b85883058b88c1802",
+      "PcEDREIcvWORfDG1tXmuJFLq+6XPun1Jn+suzBkVCTM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/cqrym96kmoy2z911z6hf1z1lsyi52duv?d=identicon",
+        "country": "HT",
+        "ethereum_address": "0x6d277B4009dCB0CA3fC34b3a52f829CC390105eD",
+        "id": "712079495bfbb8465f5f753eceded487ea7f5592f066c94d9e7d819c128c01de",
+        "info_url": "https://en.wikipedia.org/wiki/Sioux_City_and_Pacific_Railroad",
+        "name": "tender-sheep",
+        "tm_pub_key": "PcEDREIcvWORfDG1tXmuJFLq+6XPun1Jn+suzBkVCTM=",
+        "vega_pub_key": "835278d09b0ea76cd4e51666e81a69f3f13cd162e71a29260deafd1bb091d2bb",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404161439",
+  "chain_id": "vega-devnet1-202404161713",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-16T14:39:45.034935429Z",
+  "genesis_time": "2024-04-16T17:13:59.70315396Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "57D0216A497CD158C80CFED21E6158E556BB1AD6",
-      "name": "harsh-pool",
+      "address": "0645255586D401D3C3CB98EAC20CD96AAE2F9B08",
+      "name": "tender-sheep",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "rwF/IzMzVZCet+x6PAFLV3Lq1BGyYGc8YBRC+bF11UA="
+        "value": "PcEDREIcvWORfDG1tXmuJFLq+6XPun1Jn+suzBkVCTM="
       }
     }
   ]
