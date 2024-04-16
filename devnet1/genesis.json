@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "coeDKajCH98KYrGXIroQeyY6imyw4K8bEyz7KF/2IyA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/7zu4w55mu6k2sktcqxxt7p95i7hsglr9?d=identicon",
-        "country": "JX",
-        "ethereum_address": "0xe45f9170C8D3B157982F11c9a7456DE582C1b43E",
-        "id": "3ae55018e08e3213f48361f504ec335335b4be9268fcfd8f73177f27df07bb12",
-        "info_url": "https://en.wikipedia.org/wiki/Salem_and_Lowell_Railroad",
-        "name": "bright-school",
-        "tm_pub_key": "coeDKajCH98KYrGXIroQeyY6imyw4K8bEyz7KF/2IyA=",
-        "vega_pub_key": "eca8c246786bd8070f0dc495ac0e5a1911982660d16d0be23143561b89ce8cac",
+      "rwF/IzMzVZCet+x6PAFLV3Lq1BGyYGc8YBRC+bF11UA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/zcwg2ig6j278bw8q8maostdojirusgvg?d=identicon",
+        "country": "FT",
+        "ethereum_address": "0xba28b933938027a5a76675fBa4c30f579e6f36B7",
+        "id": "29556d5e89fcb5f54c50533129ed8ab8deef85c2574ad8fccb3ffae1f4212c3b",
+        "info_url": "https://en.wikipedia.org/wiki/Filip_Antonijevi%C4%87",
+        "name": "harsh-pool",
+        "tm_pub_key": "rwF/IzMzVZCet+x6PAFLV3Lq1BGyYGc8YBRC+bF11UA=",
+        "vega_pub_key": "3ff61b7c3be19bbf43ce4038ce41de93f4749d5b4259018b85883058b88c1802",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404161347",
+  "chain_id": "vega-devnet1-202404161439",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-16T13:47:40.171725551Z",
+  "genesis_time": "2024-04-16T14:39:45.034935429Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "774A36DFC9BBE060DF957ABD3E2A54EEB0635974",
-      "name": "bright-school",
+      "address": "57D0216A497CD158C80CFED21E6158E556BB1AD6",
+      "name": "harsh-pool",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "coeDKajCH98KYrGXIroQeyY6imyw4K8bEyz7KF/2IyA="
+        "value": "rwF/IzMzVZCet+x6PAFLV3Lq1BGyYGc8YBRC+bF11UA="
       }
     }
   ]
