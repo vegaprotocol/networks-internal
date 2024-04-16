@@ -337,17 +337,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "+NLjohuLjxcLxaTNL5vNAoosab+peUJk9RtxYB72FgY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/hiji4novtq5ni9mgg7ij4iffbn4fr5h5?d=identicon",
-        "country": "PE",
-        "ethereum_address": "0x32D90aDdCFf3D383AFcAC57CcEC1E697827c9710",
-        "id": "84feed2696cb702cee3b6f10e8db4b072c0f7b5fb1dc48870bd3400a4e82e1d4",
-        "info_url": "https://en.wikipedia.org/wiki/2004_United_States_Senate_election_in_Oklahoma",
-        "name": "colossal-swing",
-        "tm_pub_key": "+NLjohuLjxcLxaTNL5vNAoosab+peUJk9RtxYB72FgY=",
-        "vega_pub_key": "a9a184cee59088ccf1d7183e75f5bbe71fba1cc7d9fe6c56e6e640b9c39ee53e",
-        "vega_pub_key_index": 1
-      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -391,10 +380,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "coeDKajCH98KYrGXIroQeyY6imyw4K8bEyz7KF/2IyA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/7zu4w55mu6k2sktcqxxt7p95i7hsglr9?d=identicon",
+        "country": "JX",
+        "ethereum_address": "0xe45f9170C8D3B157982F11c9a7456DE582C1b43E",
+        "id": "3ae55018e08e3213f48361f504ec335335b4be9268fcfd8f73177f27df07bb12",
+        "info_url": "https://en.wikipedia.org/wiki/Salem_and_Lowell_Railroad",
+        "name": "bright-school",
+        "tm_pub_key": "coeDKajCH98KYrGXIroQeyY6imyw4K8bEyz7KF/2IyA=",
+        "vega_pub_key": "eca8c246786bd8070f0dc495ac0e5a1911982660d16d0be23143561b89ce8cac",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404161019",
+  "chain_id": "vega-devnet1-202404161300",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-16T10:19:31.240403609Z",
+  "genesis_time": "2024-04-16T13:00:06.350338144Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "6BEBBD272982F1DAEF47288293E43D3B91C82B8C",
-      "name": "colossal-swing",
+      "address": "774A36DFC9BBE060DF957ABD3E2A54EEB0635974",
+      "name": "bright-school",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "+NLjohuLjxcLxaTNL5vNAoosab+peUJk9RtxYB72FgY="
+        "value": "coeDKajCH98KYrGXIroQeyY6imyw4K8bEyz7KF/2IyA="
       }
     }
   ]
