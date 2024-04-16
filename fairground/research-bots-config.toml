@@ -1,4 +1,5 @@
 # Binance exchange info/symbols: https://api.binance.com/api/v1/exchangeInfo
+# test
 
 network_config_file = "https://raw.githubusercontent.com/vegaprotocol/networks-internal/main/fairground/vegawallet-fairground.toml"
 debug = false
