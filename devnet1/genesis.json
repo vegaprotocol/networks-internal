@@ -337,6 +337,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "+NLjohuLjxcLxaTNL5vNAoosab+peUJk9RtxYB72FgY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/hiji4novtq5ni9mgg7ij4iffbn4fr5h5?d=identicon",
+        "country": "PE",
+        "ethereum_address": "0x32D90aDdCFf3D383AFcAC57CcEC1E697827c9710",
+        "id": "84feed2696cb702cee3b6f10e8db4b072c0f7b5fb1dc48870bd3400a4e82e1d4",
+        "info_url": "https://en.wikipedia.org/wiki/2004_United_States_Senate_election_in_Oklahoma",
+        "name": "colossal-swing",
+        "tm_pub_key": "+NLjohuLjxcLxaTNL5vNAoosab+peUJk9RtxYB72FgY=",
+        "vega_pub_key": "a9a184cee59088ccf1d7183e75f5bbe71fba1cc7d9fe6c56e6e640b9c39ee53e",
+        "vega_pub_key_index": 1
+      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -370,17 +381,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "Fk856mT/ZRNlKIMBpe7gzIjkSeCpKq+2bHXUusuZaKQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/3bmzlvs6sn64dmwilkwb0t6lkjebtak0?d=identicon",
-        "country": "PF",
-        "ethereum_address": "0x05Ffc26c9e9dFe7DfcF0096267BBc1B9B0daEF77",
-        "id": "96e9e695baad2bff93581c7e562c002cebeba000bdb9c8fcdfe8af03a86c1b22",
-        "info_url": "https://en.wikipedia.org/wiki/McAlister,_New_Mexico",
-        "name": "happy-man",
-        "tm_pub_key": "Fk856mT/ZRNlKIMBpe7gzIjkSeCpKq+2bHXUusuZaKQ=",
-        "vega_pub_key": "35a6b8ca6059f8569ed48aabfe1e442a30bfafc3294559c7974870995804a926",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -394,7 +394,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202404151611",
+  "chain_id": "vega-devnet1-202404161019",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-15T16:11:38.088960585Z",
+  "genesis_time": "2024-04-16T10:19:31.240403609Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "7060968B36337D213CBC949C97EAAA07A5895F10",
-      "name": "happy-man",
+      "address": "6BEBBD272982F1DAEF47288293E43D3B91C82B8C",
+      "name": "colossal-swing",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Fk856mT/ZRNlKIMBpe7gzIjkSeCpKq+2bHXUusuZaKQ="
+        "value": "+NLjohuLjxcLxaTNL5vNAoosab+peUJk9RtxYB72FgY="
       }
     }
   ]
