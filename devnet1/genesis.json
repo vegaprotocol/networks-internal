@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "xDwbm46hL0lNFfXyZBnphB/pl9oGzMEWRnlu9RrQb58=": {
-        "avatar_url": "https://www.gravatar.com/avatar/a0fgnubfehfg1gttpd81zqqwc7ya5gl5?d=identicon",
-        "country": "QR",
-        "ethereum_address": "0x8Bd0cdD1AF049E83776430395F2ff5931e37c8ea",
-        "id": "a7f5effe870dd4f198ca365ed07c2ced2836305ac1369c8521e051e0badec3d2",
-        "info_url": "https://en.wikipedia.org/wiki/Menalton_Braff",
-        "name": "hollow-hill",
-        "tm_pub_key": "xDwbm46hL0lNFfXyZBnphB/pl9oGzMEWRnlu9RrQb58=",
-        "vega_pub_key": "3e6b77d900b33286f2f698e5a100763d3c493f9a21189de0ff4ece17850e0e6e",
+      "wGUbf15M7IblIAjyQDARLYO2QemktIz6ksHR5kqUfvk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/i58qsw787ku9ru1uj5ooh354bt4y8h1d?d=identicon",
+        "country": "CO",
+        "ethereum_address": "0x27FF367aCE49dde1292056e24CE9CeaAc3C92154",
+        "id": "4e0ef4236cb6835811224b6f1af3623711bc1da917aaa6209c572367e2f3a882",
+        "info_url": "https://en.wikipedia.org/wiki/%C3%89mile_Servan-Schreiber",
+        "name": "quizzical-town",
+        "tm_pub_key": "wGUbf15M7IblIAjyQDARLYO2QemktIz6ksHR5kqUfvk=",
+        "vega_pub_key": "f4e5da78725824bd8a04143036786958ce1b9969f3a5713bc2d19085083c8557",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404170935",
+  "chain_id": "vega-devnet1-202404171030",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-17T09:35:34.393715103Z",
+  "genesis_time": "2024-04-17T10:30:47.122617972Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "95652C498ED3C05662BF23C74129C23CEA6CE132",
-      "name": "hollow-hill",
+      "address": "31A72AA80F8BDC804DC3C0C0EFC0CE2F72C92C3A",
+      "name": "quizzical-town",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "xDwbm46hL0lNFfXyZBnphB/pl9oGzMEWRnlu9RrQb58="
+        "value": "wGUbf15M7IblIAjyQDARLYO2QemktIz6ksHR5kqUfvk="
       }
     }
   ]
