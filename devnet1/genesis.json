@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "wMS7F5V1cn/pSyVRy0reU+H4TFGhhRWkBiv7qkEji9A=": {
-        "avatar_url": "https://www.gravatar.com/avatar/4s8wk0toj011r24cndatsv4oh1w9t1xk?d=identicon",
-        "country": "BO",
-        "ethereum_address": "0xA2fD5A141B4C8069260CA8b5471dEb5Ad083f591",
-        "id": "c871d258002bc8fa7d1564ec5973ef0d3a4eb84e8183c3694bfb71d107054775",
-        "info_url": "https://en.wikipedia.org/wiki/1994_Tunisian_general_election",
-        "name": "gritty-roof",
-        "tm_pub_key": "wMS7F5V1cn/pSyVRy0reU+H4TFGhhRWkBiv7qkEji9A=",
-        "vega_pub_key": "c906be48ee011aba4a12a3a44f33e6935ef089b2401bbcc27e2f95375d5cd48b",
+      "xDwbm46hL0lNFfXyZBnphB/pl9oGzMEWRnlu9RrQb58=": {
+        "avatar_url": "https://www.gravatar.com/avatar/a0fgnubfehfg1gttpd81zqqwc7ya5gl5?d=identicon",
+        "country": "QR",
+        "ethereum_address": "0x8Bd0cdD1AF049E83776430395F2ff5931e37c8ea",
+        "id": "a7f5effe870dd4f198ca365ed07c2ced2836305ac1369c8521e051e0badec3d2",
+        "info_url": "https://en.wikipedia.org/wiki/Menalton_Braff",
+        "name": "hollow-hill",
+        "tm_pub_key": "xDwbm46hL0lNFfXyZBnphB/pl9oGzMEWRnlu9RrQb58=",
+        "vega_pub_key": "3e6b77d900b33286f2f698e5a100763d3c493f9a21189de0ff4ece17850e0e6e",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404170813",
+  "chain_id": "vega-devnet1-202404170935",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-17T08:13:26.956770224Z",
+  "genesis_time": "2024-04-17T09:35:34.393715103Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "00C73FDB333308099D27E870AB7C25D1088EDB6F",
-      "name": "gritty-roof",
+      "address": "95652C498ED3C05662BF23C74129C23CEA6CE132",
+      "name": "hollow-hill",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "wMS7F5V1cn/pSyVRy0reU+H4TFGhhRWkBiv7qkEji9A="
+        "value": "xDwbm46hL0lNFfXyZBnphB/pl9oGzMEWRnlu9RrQb58="
       }
     }
   ]
