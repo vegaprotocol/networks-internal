@@ -348,6 +348,17 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
+      "3uThrRnYaiK5MQq+fEaTJ+zpjS9/cx2uH08MOafxU2I=": {
+        "avatar_url": "https://www.gravatar.com/avatar/tehme1spvzflkf91e2x0fyo0qcbulaxf?d=identicon",
+        "country": "XH",
+        "ethereum_address": "0x44C95299fDC1Ac92B05f040747EC5702BB1Cb209",
+        "id": "6a2a3a8c5b1dcd5e57b6dc419e3dc346ab3f6921c26a7b537dd960032151069b",
+        "info_url": "https://en.wikipedia.org/wiki/Tyrol_Township,_Griggs_County,_North_Dakota",
+        "name": "gifted-key",
+        "tm_pub_key": "3uThrRnYaiK5MQq+fEaTJ+zpjS9/cx2uH08MOafxU2I=",
+        "vega_pub_key": "5890a2d3b2f8ffe3ad89aa3cc56b540dc56f97928a538bad49f49c9799c02063",
+        "vega_pub_key_index": 1
+      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -380,21 +391,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "VSIzMzrizeKp1Fn7+2fz8NFhHWc7Kepz5rkNviUfPEs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/5b8hkgqmw75vqtcwhme0ja8dme1qra94?d=identicon",
-        "country": "OZ",
-        "ethereum_address": "0x56625a661aEef2945A0A6524Fc2b3241B9097A3D",
-        "id": "0319e0c74b62813138a91b4795a4aa3e551cfa44ba4dabbfa599aa6282a5d858",
-        "info_url": "https://en.wikipedia.org/wiki/Pierce_Brothers",
-        "name": "quiet-fisherman",
-        "tm_pub_key": "VSIzMzrizeKp1Fn7+2fz8NFhHWc7Kepz5rkNviUfPEs=",
-        "vega_pub_key": "38291829b13b1c810f029f597b642b0d772338ceb422f00eeb784e1de78b45f3",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404171726",
+  "chain_id": "vega-devnet1-202404172158",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-17T17:26:51.84199325Z",
+  "genesis_time": "2024-04-17T21:58:46.012860564Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "23473D9C255E17577765C42871586CD688F7BD1A",
-      "name": "quiet-fisherman",
+      "address": "947323600BDF9B5807A00821CB605F9D49B2E9F2",
+      "name": "gifted-key",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "VSIzMzrizeKp1Fn7+2fz8NFhHWc7Kepz5rkNviUfPEs="
+        "value": "3uThrRnYaiK5MQq+fEaTJ+zpjS9/cx2uH08MOafxU2I="
       }
     }
   ]
