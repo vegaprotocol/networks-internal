@@ -337,6 +337,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "0lXKmPtqKXudg6p0jzGNIEANvCP6B0Qpxg357HgUL2k=": {
+        "avatar_url": "https://www.gravatar.com/avatar/guvp7j97bkaohjgk14ltdpjviz0u2pz8?d=identicon",
+        "country": "VY",
+        "ethereum_address": "0x7208D78dF7b2b46ca5Df7D3881eAF5A8D4ffFFB1",
+        "id": "2fd8495e58c6c5fceee39f910277dab1be5bf8e27654c41e46d055a832641a87",
+        "info_url": "https://en.wikipedia.org/wiki/Jaunzeme",
+        "name": "wicked-train",
+        "tm_pub_key": "0lXKmPtqKXudg6p0jzGNIEANvCP6B0Qpxg357HgUL2k=",
+        "vega_pub_key": "de470c59042cf1837d1ca17b9bc1251f0d5ea3911b11f94db051dc771310485b",
+        "vega_pub_key_index": 1
+      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -380,21 +391,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "Sv5+vuoU5qaiU2j+v8DgpiAwKewtledAhfCkeNxXuCY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/h7rlng4b50ff599iniftax5qzrh3eeji?d=identicon",
-        "country": "CY",
-        "ethereum_address": "0x46Dc5ebBb29872587183e3BDf9C4e7F4C63835C9",
-        "id": "d4bfbb762894422bcb892101262294bf34327a756190dcbf26362ee422c2ebb2",
-        "info_url": "https://en.wikipedia.org/wiki/United_States_District_Court_for_the_Eastern_District_of_Pennsylvania",
-        "name": "quiet-spoon",
-        "tm_pub_key": "Sv5+vuoU5qaiU2j+v8DgpiAwKewtledAhfCkeNxXuCY=",
-        "vega_pub_key": "d8b1788eac33248c448dc29faa00202cb0f771bbb3fe74c8f2732cf9a416e0b2",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404171549",
+  "chain_id": "vega-devnet1-202404171640",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-17T15:49:50.997871089Z",
+  "genesis_time": "2024-04-17T16:40:22.676337163Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "795D0A01DCC14F9CFAF453BE86E229AA343A4775",
-      "name": "quiet-spoon",
+      "address": "E547A71E626657D68F15272DFF0039903F495857",
+      "name": "wicked-train",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Sv5+vuoU5qaiU2j+v8DgpiAwKewtledAhfCkeNxXuCY="
+        "value": "0lXKmPtqKXudg6p0jzGNIEANvCP6B0Qpxg357HgUL2k="
       }
     }
   ]
