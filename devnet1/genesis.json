@@ -359,17 +359,6 @@
         "vega_pub_key": "cb152821443248b20a217abee89c1c8e595e07d47c537255d480761c88bc86d1",
         "vega_pub_key_index": 1
       },
-      "9iTTfqiT3aENod3qSadVtXlkkgSExEs5kvHyE6Lox1E=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ep3mlimbv2b6hfovr1c36pdwxszdlnma?d=identicon",
-        "country": "TE",
-        "ethereum_address": "0xaCc21d0BaeD66C2D0554C97319c5F6277Aec79F9",
-        "id": "21ee908cfbb54c9f286b73284efcaeb9d5eecb23dfe4301496cda0cbbca91f96",
-        "info_url": "https://en.wikipedia.org/wiki/Stokes_Mound_Township,_Carroll_County,_Missouri",
-        "name": "icy-vacuum",
-        "tm_pub_key": "9iTTfqiT3aENod3qSadVtXlkkgSExEs5kvHyE6Lox1E=",
-        "vega_pub_key": "743701b75314fd80cd1ed3b1f2c28c75433ff9628e6143715917db7074afb4ba",
-        "vega_pub_key_index": 1
-      },
       "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ=": {
         "avatar_url": "https://www.gravatar.com/avatar/6x0s5jsbbeeihso9yyhnh6hcop4fkxa1?d=identicon",
         "country": "ON",
@@ -391,10 +380,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "wS+9if87NShAaGEDc975CC8UjlA/SX1Wf2piEqMdI3Q=": {
+        "avatar_url": "https://www.gravatar.com/avatar/dunwc0zz4z91f2sxxdoha60bai4nqgor?d=identicon",
+        "country": "IB",
+        "ethereum_address": "0xf6FECD0309053Ed314817FfA3d282746C0462D9e",
+        "id": "dd9fe47b9445f9f4fdf5867bf88a0a01fb65b8ebbebe6a1fb4f11ea598d3cf96",
+        "info_url": "https://en.wikipedia.org/wiki/Jesselton_revolt",
+        "name": "melodic-biscuit",
+        "tm_pub_key": "wS+9if87NShAaGEDc975CC8UjlA/SX1Wf2piEqMdI3Q=",
+        "vega_pub_key": "8a24e57207fa41c8476670c192d3e67c33812ce1f5ffd95153371167c72b1a60",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404171151",
+  "chain_id": "vega-devnet1-202404171422",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-17T11:51:22.06774378Z",
+  "genesis_time": "2024-04-17T14:22:53.702259201Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "63F3D6B3D45F83280C07332808325548302DF5CA",
-      "name": "icy-vacuum",
+      "address": "C451FC47F9A6B749FEDA3D8748682CB841EAE5D1",
+      "name": "melodic-biscuit",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "9iTTfqiT3aENod3qSadVtXlkkgSExEs5kvHyE6Lox1E="
+        "value": "wS+9if87NShAaGEDc975CC8UjlA/SX1Wf2piEqMdI3Q="
       }
     }
   ]
