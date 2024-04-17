@@ -359,6 +359,17 @@
         "vega_pub_key": "cb152821443248b20a217abee89c1c8e595e07d47c537255d480761c88bc86d1",
         "vega_pub_key_index": 1
       },
+      "9iTTfqiT3aENod3qSadVtXlkkgSExEs5kvHyE6Lox1E=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ep3mlimbv2b6hfovr1c36pdwxszdlnma?d=identicon",
+        "country": "TE",
+        "ethereum_address": "0xaCc21d0BaeD66C2D0554C97319c5F6277Aec79F9",
+        "id": "21ee908cfbb54c9f286b73284efcaeb9d5eecb23dfe4301496cda0cbbca91f96",
+        "info_url": "https://en.wikipedia.org/wiki/Stokes_Mound_Township,_Carroll_County,_Missouri",
+        "name": "icy-vacuum",
+        "tm_pub_key": "9iTTfqiT3aENod3qSadVtXlkkgSExEs5kvHyE6Lox1E=",
+        "vega_pub_key": "743701b75314fd80cd1ed3b1f2c28c75433ff9628e6143715917db7074afb4ba",
+        "vega_pub_key_index": 1
+      },
       "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ=": {
         "avatar_url": "https://www.gravatar.com/avatar/6x0s5jsbbeeihso9yyhnh6hcop4fkxa1?d=identicon",
         "country": "ON",
@@ -380,21 +391,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "wGUbf15M7IblIAjyQDARLYO2QemktIz6ksHR5kqUfvk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/i58qsw787ku9ru1uj5ooh354bt4y8h1d?d=identicon",
-        "country": "CO",
-        "ethereum_address": "0x27FF367aCE49dde1292056e24CE9CeaAc3C92154",
-        "id": "4e0ef4236cb6835811224b6f1af3623711bc1da917aaa6209c572367e2f3a882",
-        "info_url": "https://en.wikipedia.org/wiki/%C3%89mile_Servan-Schreiber",
-        "name": "quizzical-town",
-        "tm_pub_key": "wGUbf15M7IblIAjyQDARLYO2QemktIz6ksHR5kqUfvk=",
-        "vega_pub_key": "f4e5da78725824bd8a04143036786958ce1b9969f3a5713bc2d19085083c8557",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404171030",
+  "chain_id": "vega-devnet1-202404171107",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-17T10:30:47.122617972Z",
+  "genesis_time": "2024-04-17T11:07:24.280811262Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "31A72AA80F8BDC804DC3C0C0EFC0CE2F72C92C3A",
-      "name": "quizzical-town",
+      "address": "63F3D6B3D45F83280C07332808325548302DF5CA",
+      "name": "icy-vacuum",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "wGUbf15M7IblIAjyQDARLYO2QemktIz6ksHR5kqUfvk="
+        "value": "9iTTfqiT3aENod3qSadVtXlkkgSExEs5kvHyE6Lox1E="
       }
     }
   ]
