@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "wS+9if87NShAaGEDc975CC8UjlA/SX1Wf2piEqMdI3Q=": {
-        "avatar_url": "https://www.gravatar.com/avatar/dunwc0zz4z91f2sxxdoha60bai4nqgor?d=identicon",
-        "country": "IB",
-        "ethereum_address": "0xf6FECD0309053Ed314817FfA3d282746C0462D9e",
-        "id": "dd9fe47b9445f9f4fdf5867bf88a0a01fb65b8ebbebe6a1fb4f11ea598d3cf96",
-        "info_url": "https://en.wikipedia.org/wiki/Jesselton_revolt",
-        "name": "melodic-biscuit",
-        "tm_pub_key": "wS+9if87NShAaGEDc975CC8UjlA/SX1Wf2piEqMdI3Q=",
-        "vega_pub_key": "8a24e57207fa41c8476670c192d3e67c33812ce1f5ffd95153371167c72b1a60",
+      "Sv5+vuoU5qaiU2j+v8DgpiAwKewtledAhfCkeNxXuCY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/h7rlng4b50ff599iniftax5qzrh3eeji?d=identicon",
+        "country": "CY",
+        "ethereum_address": "0x46Dc5ebBb29872587183e3BDf9C4e7F4C63835C9",
+        "id": "d4bfbb762894422bcb892101262294bf34327a756190dcbf26362ee422c2ebb2",
+        "info_url": "https://en.wikipedia.org/wiki/United_States_District_Court_for_the_Eastern_District_of_Pennsylvania",
+        "name": "quiet-spoon",
+        "tm_pub_key": "Sv5+vuoU5qaiU2j+v8DgpiAwKewtledAhfCkeNxXuCY=",
+        "vega_pub_key": "d8b1788eac33248c448dc29faa00202cb0f771bbb3fe74c8f2732cf9a416e0b2",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404171422",
+  "chain_id": "vega-devnet1-202404171549",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-17T14:22:53.702259201Z",
+  "genesis_time": "2024-04-17T15:49:50.997871089Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "C451FC47F9A6B749FEDA3D8748682CB841EAE5D1",
-      "name": "melodic-biscuit",
+      "address": "795D0A01DCC14F9CFAF453BE86E229AA343A4775",
+      "name": "quiet-spoon",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "wS+9if87NShAaGEDc975CC8UjlA/SX1Wf2piEqMdI3Q="
+        "value": "Sv5+vuoU5qaiU2j+v8DgpiAwKewtledAhfCkeNxXuCY="
       }
     }
   ]
