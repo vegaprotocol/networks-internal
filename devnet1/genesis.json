@@ -370,17 +370,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "OXThXVHCO/xYAaEhcFYcXcmLMNTNtICzc0iv27kll30=": {
-        "avatar_url": "https://www.gravatar.com/avatar/4w6y1q6272bf4shlervl4zj21b0klsib?d=identicon",
-        "country": "RR",
-        "ethereum_address": "0xe2c186b0E0747ee6c1A072E0141626A6c181193f",
-        "id": "a4019fbe3cff94013bd514ab99e67cf4b35b36f72519aaa98f04202b6f920fd5",
-        "info_url": "https://en.wikipedia.org/wiki/Peter_Sears_(ice_hockey)",
-        "name": "hallowed-butterfly",
-        "tm_pub_key": "OXThXVHCO/xYAaEhcFYcXcmLMNTNtICzc0iv27kll30=",
-        "vega_pub_key": "4362619bff463c5357875996ec4c81476208b52bb06574b538e98221be62a9c5",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -391,10 +380,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "utnTXSCvCA0SuwMx1pGdaYU4p7YdFjZMLK5VZyaGMR0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/o0x1j3894nen3euabzh6vgux9ffk6i9s?d=identicon",
+        "country": "UX",
+        "ethereum_address": "0x7e81136AddE3aaD9455887530Bbf4fab378c927f",
+        "id": "28d67de6cfba336910927a070804e628f24832a500c0c892ec77e0beb1f11dbf",
+        "info_url": "https://en.wikipedia.org/wiki/Kas%C4%B1m_Y%C4%B1ld%C4%B1z",
+        "name": "lucky-clouds",
+        "tm_pub_key": "utnTXSCvCA0SuwMx1pGdaYU4p7YdFjZMLK5VZyaGMR0=",
+        "vega_pub_key": "2232a6591b92a2d419d800d37e3a2ed9c52f97cfd9d098fa56cd8280704dc1a2",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404180825",
+  "chain_id": "vega-devnet1-202404181202",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-18T08:25:44.626956566Z",
+  "genesis_time": "2024-04-18T12:02:18.069057679Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "6594E3A188AC37DB1C40220DEE814F7486AFA67C",
-      "name": "hallowed-butterfly",
+      "address": "3C2BC4F8569B3B18425DE728DE188EA399CEA4DC",
+      "name": "lucky-clouds",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "OXThXVHCO/xYAaEhcFYcXcmLMNTNtICzc0iv27kll30="
+        "value": "utnTXSCvCA0SuwMx1pGdaYU4p7YdFjZMLK5VZyaGMR0="
       }
     }
   ]
