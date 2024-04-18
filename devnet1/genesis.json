@@ -348,17 +348,6 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
-      "3uThrRnYaiK5MQq+fEaTJ+zpjS9/cx2uH08MOafxU2I=": {
-        "avatar_url": "https://www.gravatar.com/avatar/tehme1spvzflkf91e2x0fyo0qcbulaxf?d=identicon",
-        "country": "XH",
-        "ethereum_address": "0x44C95299fDC1Ac92B05f040747EC5702BB1Cb209",
-        "id": "6a2a3a8c5b1dcd5e57b6dc419e3dc346ab3f6921c26a7b537dd960032151069b",
-        "info_url": "https://en.wikipedia.org/wiki/Tyrol_Township,_Griggs_County,_North_Dakota",
-        "name": "gifted-key",
-        "tm_pub_key": "3uThrRnYaiK5MQq+fEaTJ+zpjS9/cx2uH08MOafxU2I=",
-        "vega_pub_key": "5890a2d3b2f8ffe3ad89aa3cc56b540dc56f97928a538bad49f49c9799c02063",
-        "vega_pub_key_index": 1
-      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -381,6 +370,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "OXThXVHCO/xYAaEhcFYcXcmLMNTNtICzc0iv27kll30=": {
+        "avatar_url": "https://www.gravatar.com/avatar/4w6y1q6272bf4shlervl4zj21b0klsib?d=identicon",
+        "country": "RR",
+        "ethereum_address": "0xe2c186b0E0747ee6c1A072E0141626A6c181193f",
+        "id": "a4019fbe3cff94013bd514ab99e67cf4b35b36f72519aaa98f04202b6f920fd5",
+        "info_url": "https://en.wikipedia.org/wiki/Peter_Sears_(ice_hockey)",
+        "name": "hallowed-butterfly",
+        "tm_pub_key": "OXThXVHCO/xYAaEhcFYcXcmLMNTNtICzc0iv27kll30=",
+        "vega_pub_key": "4362619bff463c5357875996ec4c81476208b52bb06574b538e98221be62a9c5",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -394,7 +394,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202404172158",
+  "chain_id": "vega-devnet1-202404180825",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-17T21:58:46.012860564Z",
+  "genesis_time": "2024-04-18T08:25:44.626956566Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "947323600BDF9B5807A00821CB605F9D49B2E9F2",
-      "name": "gifted-key",
+      "address": "6594E3A188AC37DB1C40220DEE814F7486AFA67C",
+      "name": "hallowed-butterfly",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "3uThrRnYaiK5MQq+fEaTJ+zpjS9/cx2uH08MOafxU2I="
+        "value": "OXThXVHCO/xYAaEhcFYcXcmLMNTNtICzc0iv27kll30="
       }
     }
   ]
