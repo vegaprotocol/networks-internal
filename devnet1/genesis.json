@@ -370,17 +370,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "M++wVUw2rVhAgBzX2v9MGEfGKEERGWhbWSt+Q8oYGko=": {
-        "avatar_url": "https://www.gravatar.com/avatar/6sdotiockx3wf91c7m5quq3lqubq2wxg?d=identicon",
-        "country": "TJ",
-        "ethereum_address": "0x06e051FC9C3fceB774B9dE59AD774395e2cD9015",
-        "id": "63d725183c80bc3a0b7cca3ef9655efedb06e815e6533745356e9397a32b63a0",
-        "info_url": "https://en.wikipedia.org/wiki/Malik_ibn_Anas",
-        "name": "wicked-biscuit",
-        "tm_pub_key": "M++wVUw2rVhAgBzX2v9MGEfGKEERGWhbWSt+Q8oYGko=",
-        "vega_pub_key": "414acff0b8ecc444386548bebe619670185bcf2f58af79043f97986182fd18f0",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -391,10 +380,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "op7FEjjsQ1NY8OWkwegvhwJHto2QQo+NfrLo2e8TeMA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/z1mn8u2ye3w8rcti9pbttjz3zu7mhg7j?d=identicon",
+        "country": "GM",
+        "ethereum_address": "0xD42862430999a34de11a8CD6dE008b2aa649CF6a",
+        "id": "24dac553d9fa69c4571d2604e63e20d1711ea8b6f8f2385082018f54a513c831",
+        "info_url": "https://en.wikipedia.org/wiki/2002_San_Francisco_Bowl",
+        "name": "tender-shirt",
+        "tm_pub_key": "op7FEjjsQ1NY8OWkwegvhwJHto2QQo+NfrLo2e8TeMA=",
+        "vega_pub_key": "994812bc9fb662899158ad178a449c3b1ee7e3d4eebfdbd38df12f8e861e6bfa",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404181305",
+  "chain_id": "vega-devnet1-202404181422",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-18T13:05:00.10035021Z",
+  "genesis_time": "2024-04-18T14:22:04.993575073Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "A087B5D8321AE5A9835CCDE2EA1981C3C5A46087",
-      "name": "wicked-biscuit",
+      "address": "B75E728BFDC0FFD6AF6BC1D3B341604D2753A902",
+      "name": "tender-shirt",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "M++wVUw2rVhAgBzX2v9MGEfGKEERGWhbWSt+Q8oYGko="
+        "value": "op7FEjjsQ1NY8OWkwegvhwJHto2QQo+NfrLo2e8TeMA="
       }
     }
   ]
