@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "op7FEjjsQ1NY8OWkwegvhwJHto2QQo+NfrLo2e8TeMA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/z1mn8u2ye3w8rcti9pbttjz3zu7mhg7j?d=identicon",
-        "country": "GM",
-        "ethereum_address": "0xD42862430999a34de11a8CD6dE008b2aa649CF6a",
-        "id": "24dac553d9fa69c4571d2604e63e20d1711ea8b6f8f2385082018f54a513c831",
-        "info_url": "https://en.wikipedia.org/wiki/2002_San_Francisco_Bowl",
-        "name": "tender-shirt",
-        "tm_pub_key": "op7FEjjsQ1NY8OWkwegvhwJHto2QQo+NfrLo2e8TeMA=",
-        "vega_pub_key": "994812bc9fb662899158ad178a449c3b1ee7e3d4eebfdbd38df12f8e861e6bfa",
+      "WLLa/rGOPoMZ737LeT662BMcabo5IhQV4BGq4ah+Rm0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/rtn5h25v5fiimo94cueuuen8uaurd4q5?d=identicon",
+        "country": "UN",
+        "ethereum_address": "0xe0D1a697c073Cd3169C0dD54b4c84050174067Fc",
+        "id": "4316b07dd7592d2c7bdf3ff00adf4ee385abe66917c219de3107f18a38100ed6",
+        "info_url": "https://en.wikipedia.org/wiki/%C4%B0smail_Hakki_Bey",
+        "name": "clever-spoon",
+        "tm_pub_key": "WLLa/rGOPoMZ737LeT662BMcabo5IhQV4BGq4ah+Rm0=",
+        "vega_pub_key": "d33849566e43e2fab434976d749e9ec6bd096a99ab4593d2a6a4bae23e633c23",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404181422",
+  "chain_id": "vega-devnet1-202404181726",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-18T14:22:04.993575073Z",
+  "genesis_time": "2024-04-18T17:26:25.1350568Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "B75E728BFDC0FFD6AF6BC1D3B341604D2753A902",
-      "name": "tender-shirt",
+      "address": "4CAF5A38695533BBA746337AB9BF14BC2917E4D5",
+      "name": "clever-spoon",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "op7FEjjsQ1NY8OWkwegvhwJHto2QQo+NfrLo2e8TeMA="
+        "value": "WLLa/rGOPoMZ737LeT662BMcabo5IhQV4BGq4ah+Rm0="
       }
     }
   ]
