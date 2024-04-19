@@ -348,17 +348,6 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
-      "4i0COsQmgsIy7HwK293E0eoFGySNzaYj27ypGvyHZuc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/txxm3bswvxmnuxtrqtip0icyot8x82do?d=identicon",
-        "country": "JK",
-        "ethereum_address": "0x02a7b49AF79149C6E851A2F9a50170A61F38e45C",
-        "id": "12073372b71f4170a739dc87b077436339f3386616f4a710a27c76e64b2eca99",
-        "info_url": "https://en.wikipedia.org/wiki/Oliver_Queen_(Arrowverse)",
-        "name": "happy-tree",
-        "tm_pub_key": "4i0COsQmgsIy7HwK293E0eoFGySNzaYj27ypGvyHZuc=",
-        "vega_pub_key": "6fe55e0e58b2e1df5c884b0e96bfc114138ad17891ec06b3415006cfea204497",
-        "vega_pub_key_index": 1
-      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -391,10 +380,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "e1YqQDmRZVSwLZJI3pp6DyunRS7mZ63m/8m8SBNhuR4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/j8npctbadu0j2qzvgi5zhjg7xcy07qxn?d=identicon",
+        "country": "GU",
+        "ethereum_address": "0x48Cc97EA54eC9a06592C9c62fC661eB8bFD5de7f",
+        "id": "6da4cfddfc9af5e7f85654691fe1c301b13c6cd3f7147fd90546f91683a4df6a",
+        "info_url": "https://en.wikipedia.org/wiki/Bruin_(surname)",
+        "name": "gritty-music",
+        "tm_pub_key": "e1YqQDmRZVSwLZJI3pp6DyunRS7mZ63m/8m8SBNhuR4=",
+        "vega_pub_key": "55d8e29d00efdade53a9f26452cd798a017d6756472e0470af401274a09ab9d4",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404191331",
+  "chain_id": "vega-devnet1-202404191620",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-19T13:31:04.915949409Z",
+  "genesis_time": "2024-04-19T16:20:05.062719101Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "2BA6A61EF07475B1621E8F97C6DC6BEE4B143E77",
-      "name": "happy-tree",
+      "address": "602AA0C19E39E2B1AD0ABD5D398444FF90F3BD9A",
+      "name": "gritty-music",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "4i0COsQmgsIy7HwK293E0eoFGySNzaYj27ypGvyHZuc="
+        "value": "e1YqQDmRZVSwLZJI3pp6DyunRS7mZ63m/8m8SBNhuR4="
       }
     }
   ]
