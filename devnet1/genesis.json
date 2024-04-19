@@ -348,15 +348,15 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
-      "6j6IatWqQlwx7ePEiqXXrk01gN9F4CNlaOP2kEx5plU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/xilelw9tdhym3zxerpyrpjl3k85lqfeo?d=identicon",
-        "country": "ID",
-        "ethereum_address": "0xe7034bE70B69697C980c9A02bC1fb72E0c957a1d",
-        "id": "b9e925f3a87e1c9aed7fd245f3ab02cecdc468046031ca6724e9d8ee6ae8f034",
-        "info_url": "https://en.wikipedia.org/wiki/Is_That_Black_Enough_for_You%3F!%3F",
-        "name": "harebrained-policeman",
-        "tm_pub_key": "6j6IatWqQlwx7ePEiqXXrk01gN9F4CNlaOP2kEx5plU=",
-        "vega_pub_key": "6873383b06d9dcfa4970baaa4688ff0d441c3819f02823fcde36e006456d22c8",
+      "4i0COsQmgsIy7HwK293E0eoFGySNzaYj27ypGvyHZuc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/txxm3bswvxmnuxtrqtip0icyot8x82do?d=identicon",
+        "country": "JK",
+        "ethereum_address": "0x02a7b49AF79149C6E851A2F9a50170A61F38e45C",
+        "id": "12073372b71f4170a739dc87b077436339f3386616f4a710a27c76e64b2eca99",
+        "info_url": "https://en.wikipedia.org/wiki/Oliver_Queen_(Arrowverse)",
+        "name": "happy-tree",
+        "tm_pub_key": "4i0COsQmgsIy7HwK293E0eoFGySNzaYj27ypGvyHZuc=",
+        "vega_pub_key": "6fe55e0e58b2e1df5c884b0e96bfc114138ad17891ec06b3415006cfea204497",
         "vega_pub_key_index": 1
       },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
@@ -394,7 +394,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202404191136",
+  "chain_id": "vega-devnet1-202404191331",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-19T11:36:41.313155953Z",
+  "genesis_time": "2024-04-19T13:31:04.915949409Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "B27A31DD8632DE33DCC63B42854A44635BD7DBB0",
-      "name": "harebrained-policeman",
+      "address": "2BA6A61EF07475B1621E8F97C6DC6BEE4B143E77",
+      "name": "happy-tree",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "6j6IatWqQlwx7ePEiqXXrk01gN9F4CNlaOP2kEx5plU="
+        "value": "4i0COsQmgsIy7HwK293E0eoFGySNzaYj27ypGvyHZuc="
       }
     }
   ]
