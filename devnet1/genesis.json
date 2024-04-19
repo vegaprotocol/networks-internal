@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "WLLa/rGOPoMZ737LeT662BMcabo5IhQV4BGq4ah+Rm0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/rtn5h25v5fiimo94cueuuen8uaurd4q5?d=identicon",
-        "country": "UN",
-        "ethereum_address": "0xe0D1a697c073Cd3169C0dD54b4c84050174067Fc",
-        "id": "4316b07dd7592d2c7bdf3ff00adf4ee385abe66917c219de3107f18a38100ed6",
-        "info_url": "https://en.wikipedia.org/wiki/%C4%B0smail_Hakki_Bey",
-        "name": "clever-spoon",
-        "tm_pub_key": "WLLa/rGOPoMZ737LeT662BMcabo5IhQV4BGq4ah+Rm0=",
-        "vega_pub_key": "d33849566e43e2fab434976d749e9ec6bd096a99ab4593d2a6a4bae23e633c23",
+      "zwLXPTaZRc9oagROTh5G4ocR3ezS1H0vgq/CO+iP6vE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/99dt1p2qhpd3myjef14x3qzmjkkgy6g0?d=identicon",
+        "country": "HN",
+        "ethereum_address": "0xdCE2d3A472a9ecBf2931029e178445E1f156444D",
+        "id": "b75512b148788006e0bc65298bdb241ada19c8c15794c05642d8d1ff7bb4c478",
+        "info_url": "https://en.wikipedia.org/wiki/Driver%27s_High",
+        "name": "howling-horse",
+        "tm_pub_key": "zwLXPTaZRc9oagROTh5G4ocR3ezS1H0vgq/CO+iP6vE=",
+        "vega_pub_key": "08a1b969b3af1263497f57ce109d8d96a6497e0cc866dc0b72c375ff140e4cf2",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404181726",
+  "chain_id": "vega-devnet1-202404190940",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-18T17:26:25.1350568Z",
+  "genesis_time": "2024-04-19T09:40:51.312339885Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "4CAF5A38695533BBA746337AB9BF14BC2917E4D5",
-      "name": "clever-spoon",
+      "address": "7450B8ADB5C1198EDC2BD2E995D3B112DA4FB3DB",
+      "name": "howling-horse",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "WLLa/rGOPoMZ737LeT662BMcabo5IhQV4BGq4ah+Rm0="
+        "value": "zwLXPTaZRc9oagROTh5G4ocR3ezS1H0vgq/CO+iP6vE="
       }
     }
   ]
