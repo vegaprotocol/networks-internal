@@ -348,6 +348,17 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
+      "6j6IatWqQlwx7ePEiqXXrk01gN9F4CNlaOP2kEx5plU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xilelw9tdhym3zxerpyrpjl3k85lqfeo?d=identicon",
+        "country": "ID",
+        "ethereum_address": "0xe7034bE70B69697C980c9A02bC1fb72E0c957a1d",
+        "id": "b9e925f3a87e1c9aed7fd245f3ab02cecdc468046031ca6724e9d8ee6ae8f034",
+        "info_url": "https://en.wikipedia.org/wiki/Is_That_Black_Enough_for_You%3F!%3F",
+        "name": "harebrained-policeman",
+        "tm_pub_key": "6j6IatWqQlwx7ePEiqXXrk01gN9F4CNlaOP2kEx5plU=",
+        "vega_pub_key": "6873383b06d9dcfa4970baaa4688ff0d441c3819f02823fcde36e006456d22c8",
+        "vega_pub_key_index": 1
+      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -380,21 +391,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "zwLXPTaZRc9oagROTh5G4ocR3ezS1H0vgq/CO+iP6vE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/99dt1p2qhpd3myjef14x3qzmjkkgy6g0?d=identicon",
-        "country": "HN",
-        "ethereum_address": "0xdCE2d3A472a9ecBf2931029e178445E1f156444D",
-        "id": "b75512b148788006e0bc65298bdb241ada19c8c15794c05642d8d1ff7bb4c478",
-        "info_url": "https://en.wikipedia.org/wiki/Driver%27s_High",
-        "name": "howling-horse",
-        "tm_pub_key": "zwLXPTaZRc9oagROTh5G4ocR3ezS1H0vgq/CO+iP6vE=",
-        "vega_pub_key": "08a1b969b3af1263497f57ce109d8d96a6497e0cc866dc0b72c375ff140e4cf2",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404191037",
+  "chain_id": "vega-devnet1-202404191136",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-19T10:37:01.211149648Z",
+  "genesis_time": "2024-04-19T11:36:41.313155953Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "7450B8ADB5C1198EDC2BD2E995D3B112DA4FB3DB",
-      "name": "howling-horse",
+      "address": "B27A31DD8632DE33DCC63B42854A44635BD7DBB0",
+      "name": "harebrained-policeman",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "zwLXPTaZRc9oagROTh5G4ocR3ezS1H0vgq/CO+iP6vE="
+        "value": "6j6IatWqQlwx7ePEiqXXrk01gN9F4CNlaOP2kEx5plU="
       }
     }
   ]
