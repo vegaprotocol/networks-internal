@@ -370,6 +370,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "JJvuvG+mMHxnuO4ME9YWQIyAtAh6I+SuUhKHgON2pO8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/skfqab0ydpwxjboavf0b8hwpa85n0cxn?d=identicon",
+        "country": "UQ",
+        "ethereum_address": "0x8235420315fa429D24ef587e2524e04571B8c26b",
+        "id": "340725c90658d4df19a3977f091b650308def9d81226ff07676d42478fdb781f",
+        "info_url": "https://en.wikipedia.org/wiki/Silver-gilt",
+        "name": "oppulent-bed",
+        "tm_pub_key": "JJvuvG+mMHxnuO4ME9YWQIyAtAh6I+SuUhKHgON2pO8=",
+        "vega_pub_key": "a8a9f9911c90d6d809c59483c57a91fe2ca216c71abdc2dc83ba9ef408db8290",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -380,21 +391,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "e1YqQDmRZVSwLZJI3pp6DyunRS7mZ63m/8m8SBNhuR4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/j8npctbadu0j2qzvgi5zhjg7xcy07qxn?d=identicon",
-        "country": "GU",
-        "ethereum_address": "0x48Cc97EA54eC9a06592C9c62fC661eB8bFD5de7f",
-        "id": "6da4cfddfc9af5e7f85654691fe1c301b13c6cd3f7147fd90546f91683a4df6a",
-        "info_url": "https://en.wikipedia.org/wiki/Bruin_(surname)",
-        "name": "gritty-music",
-        "tm_pub_key": "e1YqQDmRZVSwLZJI3pp6DyunRS7mZ63m/8m8SBNhuR4=",
-        "vega_pub_key": "55d8e29d00efdade53a9f26452cd798a017d6756472e0470af401274a09ab9d4",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404191620",
+  "chain_id": "vega-devnet1-202404191955",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-19T16:20:05.062719101Z",
+  "genesis_time": "2024-04-19T19:55:52.510099407Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "602AA0C19E39E2B1AD0ABD5D398444FF90F3BD9A",
-      "name": "gritty-music",
+      "address": "77FBB5960DC9E5BD7792B9A11C8497C4EC7E5C0C",
+      "name": "oppulent-bed",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "e1YqQDmRZVSwLZJI3pp6DyunRS7mZ63m/8m8SBNhuR4="
+        "value": "JJvuvG+mMHxnuO4ME9YWQIyAtAh6I+SuUhKHgON2pO8="
       }
     }
   ]
