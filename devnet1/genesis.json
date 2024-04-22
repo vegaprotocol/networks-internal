@@ -370,17 +370,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "D/zHPcZIs92u1JGWNQPFag5WzpOQhDiX/w782CqCDDo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/g2alze9wvizpae7dui0je4dmypmoe29m?d=identicon",
-        "country": "AL",
-        "ethereum_address": "0xa9D2b533eB98768cADbe7d2c332e446b844Ec2Ea",
-        "id": "85324a35b770df8a6f87834c90f8ef40804b2eb38736110bd39678c3cdc85dcd",
-        "info_url": "https://en.wikipedia.org/wiki/Thysanotus_manglesianus",
-        "name": "agitated-country",
-        "tm_pub_key": "D/zHPcZIs92u1JGWNQPFag5WzpOQhDiX/w782CqCDDo=",
-        "vega_pub_key": "ce2b54ac5cdc5d9e6f35c343ba544643df0e054d5ee6aaf5dc179cb891686d28",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -391,10 +380,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "ZE7JFUACNK3zBMxg6SpdmS8SB7pHeq6S4xEZ9HfuWJY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/wza1awten6dgx7vhrv6thyrxiqu9vph1?d=identicon",
+        "country": "XD",
+        "ethereum_address": "0xc1FB8414FC5Ed2FFA4373d5aF5f1959f80b45ccC",
+        "id": "a176133d26d1023f1f23460fca2f26b60360b73878e8e38cb107e558ba7cfeaa",
+        "info_url": "https://en.wikipedia.org/wiki/Sextile_(band)",
+        "name": "alert-apple",
+        "tm_pub_key": "ZE7JFUACNK3zBMxg6SpdmS8SB7pHeq6S4xEZ9HfuWJY=",
+        "vega_pub_key": "9c2d09354116cf263e78b1135a57f4ddd7dcb7de419638a253a2c1f3c58cc923",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404221518",
+  "chain_id": "vega-devnet1-202404221615",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-22T15:18:54.235213591Z",
+  "genesis_time": "2024-04-22T16:15:43.708320403Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "C70F76C08E9A5CD925780948B90AFC0E559B049A",
-      "name": "agitated-country",
+      "address": "FAD7D0CD2BAE005FA6BDC8D42E1DFDCD78A1D257",
+      "name": "alert-apple",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "D/zHPcZIs92u1JGWNQPFag5WzpOQhDiX/w782CqCDDo="
+        "value": "ZE7JFUACNK3zBMxg6SpdmS8SB7pHeq6S4xEZ9HfuWJY="
       }
     }
   ]
