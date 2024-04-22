@@ -337,6 +337,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "3+ozWAYCzGk9Yirtr5y2SsQQIw6IfUzUgOzA/43tPTI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/tydmx7s2cv4ng5tlozmspm3uan8gjjuu?d=identicon",
+        "country": "RT",
+        "ethereum_address": "0x6267b6f5cc2caD0bdE67d48Df54d24009f7e7F3d",
+        "id": "d14331b7be7526b5cba7b46c0f71434d5e2a8c275362b25eb874c29ea55a1784",
+        "info_url": "https://en.wikipedia.org/wiki/Acmaeodera_vanduzeei",
+        "name": "skinny-school",
+        "tm_pub_key": "3+ozWAYCzGk9Yirtr5y2SsQQIw6IfUzUgOzA/43tPTI=",
+        "vega_pub_key": "a4e027ea020fdbae1131d1e43a9f5e6c2773d2e98c2502d3c6e8c48a2034dc04",
+        "vega_pub_key_index": 1
+      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -380,21 +391,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "ZE7JFUACNK3zBMxg6SpdmS8SB7pHeq6S4xEZ9HfuWJY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/wza1awten6dgx7vhrv6thyrxiqu9vph1?d=identicon",
-        "country": "XD",
-        "ethereum_address": "0xc1FB8414FC5Ed2FFA4373d5aF5f1959f80b45ccC",
-        "id": "a176133d26d1023f1f23460fca2f26b60360b73878e8e38cb107e558ba7cfeaa",
-        "info_url": "https://en.wikipedia.org/wiki/Sextile_(band)",
-        "name": "alert-apple",
-        "tm_pub_key": "ZE7JFUACNK3zBMxg6SpdmS8SB7pHeq6S4xEZ9HfuWJY=",
-        "vega_pub_key": "9c2d09354116cf263e78b1135a57f4ddd7dcb7de419638a253a2c1f3c58cc923",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404221615",
+  "chain_id": "vega-devnet1-202404221714",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-22T16:15:43.708320403Z",
+  "genesis_time": "2024-04-22T17:14:43.382348319Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "FAD7D0CD2BAE005FA6BDC8D42E1DFDCD78A1D257",
-      "name": "alert-apple",
+      "address": "25540217738CA725394D73D8E5BF67A0E89D9CA9",
+      "name": "skinny-school",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ZE7JFUACNK3zBMxg6SpdmS8SB7pHeq6S4xEZ9HfuWJY="
+        "value": "3+ozWAYCzGk9Yirtr5y2SsQQIw6IfUzUgOzA/43tPTI="
       }
     }
   ]
