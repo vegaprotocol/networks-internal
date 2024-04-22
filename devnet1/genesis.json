@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "f04Hg2m7mqtkbgS7lnBafOVmXBbalaMaw42bVGJfW9c=": {
-        "avatar_url": "https://www.gravatar.com/avatar/y6cchjn7hf6y4chtly2k099ym568unuq?d=identicon",
-        "country": "DV",
-        "ethereum_address": "0x91f7546E1c27E889EC6F636d513b81aE7F2f3d8F",
-        "id": "22593ff400f730a503a1bee54f819b779a00c0b08aeb681c561582b161d987c3",
-        "info_url": "https://en.wikipedia.org/wiki/Lucelle,_Haut-Rhin",
-        "name": "icy-apple",
-        "tm_pub_key": "f04Hg2m7mqtkbgS7lnBafOVmXBbalaMaw42bVGJfW9c=",
-        "vega_pub_key": "499443579b4a8f7cc97891b4dae9dc67cbced6ac5eaccdd0c54a93be9a335d41",
+      "XVhHMgcdu7bP0pb09goT+nSn81tFicILOsJ/sjgBgOc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xaxg292n0uf9edvvc1sy2s6f2gt8j3d3?d=identicon",
+        "country": "FF",
+        "ethereum_address": "0x350D665d9f23998faCF1fCf1D1D8A3740581703D",
+        "id": "39f117269cdf93dee2cbf4fb0f5d4963372d42f8020ef61f914bbc7c85e58b6c",
+        "info_url": "https://en.wikipedia.org/wiki/Cambridge_University_Light_Entertainment_Society",
+        "name": "purple-hill",
+        "tm_pub_key": "XVhHMgcdu7bP0pb09goT+nSn81tFicILOsJ/sjgBgOc=",
+        "vega_pub_key": "9f48478f4dea204fdcbdf195e33e0b427dde7c8b531066554305685b3c6190bd",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404221910",
+  "chain_id": "vega-devnet1-202404222005",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-22T19:10:11.452622303Z",
+  "genesis_time": "2024-04-22T20:05:37.020144004Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "DA8DFE2326562C8AC57F91FB60E7FF10FF70A261",
-      "name": "icy-apple",
+      "address": "CBD53C9568D99A9DB10AA278D7C67F6E12CBD35A",
+      "name": "purple-hill",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "f04Hg2m7mqtkbgS7lnBafOVmXBbalaMaw42bVGJfW9c="
+        "value": "XVhHMgcdu7bP0pb09goT+nSn81tFicILOsJ/sjgBgOc="
       }
     }
   ]
