@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "aqAEoAMQpfTwKAiu5gxxTHE7l6hITuV0xTurO9jRndo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/vfyvie6b55m9rsz5f0h4kwrrw4fwd5u2?d=identicon",
-        "country": "BJ",
-        "ethereum_address": "0x45eADa3820E43cB2B476C3E2816543272ae5bB20",
-        "id": "9e4219df1221f275f21cd283e14f66a3b399e0aad71729bcde9e46a2e844be8f",
-        "info_url": "https://en.wikipedia.org/wiki/Swiss_Americans",
-        "name": "friendly-wall",
-        "tm_pub_key": "aqAEoAMQpfTwKAiu5gxxTHE7l6hITuV0xTurO9jRndo=",
-        "vega_pub_key": "ce148819c7ec55d853b67b7344b91d0a36c454263e49261bb7f0aecafc22bf59",
+      "jb7z7x79JvIayoaeT1Q6CksHKRfWkDB0LpSqM8QHZQI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/mtdjl7smd2uarad5gar0koectuqxzm5u?d=identicon",
+        "country": "AC",
+        "ethereum_address": "0xAe8fD9eaA49F90462e26A3913120692a74A77eD9",
+        "id": "4a0859b18c0704caa5c4a6306dca4b0ea76d3d17ed2fd9559d75cd67c1e24fe5",
+        "info_url": "https://en.wikipedia.org/wiki/KRCB_(TV)",
+        "name": "hollow-lake",
+        "tm_pub_key": "jb7z7x79JvIayoaeT1Q6CksHKRfWkDB0LpSqM8QHZQI=",
+        "vega_pub_key": "5578d18e64baaf65a439c5287e72fe80619a01627e012fb5c7745b2e85f63a97",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404200733",
+  "chain_id": "vega-devnet1-202404220723",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-20T07:33:28.522768628Z",
+  "genesis_time": "2024-04-22T07:23:40.249470466Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "5F8E7F29964264076F9F902FE1BA3EA56309D6F3",
-      "name": "friendly-wall",
+      "address": "B98223EE4F0B19FA8214F2FD5A5FDF79306572B5",
+      "name": "hollow-lake",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "aqAEoAMQpfTwKAiu5gxxTHE7l6hITuV0xTurO9jRndo="
+        "value": "jb7z7x79JvIayoaeT1Q6CksHKRfWkDB0LpSqM8QHZQI="
       }
     }
   ]
