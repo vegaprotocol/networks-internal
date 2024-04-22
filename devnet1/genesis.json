@@ -337,17 +337,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "3+ozWAYCzGk9Yirtr5y2SsQQIw6IfUzUgOzA/43tPTI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/tydmx7s2cv4ng5tlozmspm3uan8gjjuu?d=identicon",
-        "country": "RT",
-        "ethereum_address": "0x6267b6f5cc2caD0bdE67d48Df54d24009f7e7F3d",
-        "id": "d14331b7be7526b5cba7b46c0f71434d5e2a8c275362b25eb874c29ea55a1784",
-        "info_url": "https://en.wikipedia.org/wiki/Acmaeodera_vanduzeei",
-        "name": "skinny-school",
-        "tm_pub_key": "3+ozWAYCzGk9Yirtr5y2SsQQIw6IfUzUgOzA/43tPTI=",
-        "vega_pub_key": "a4e027ea020fdbae1131d1e43a9f5e6c2773d2e98c2502d3c6e8c48a2034dc04",
-        "vega_pub_key_index": 1
-      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -391,10 +380,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "jDf7chngmPA8xO55gx9M6DVv11lPFUiOkZTY+lxvVh4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/tfsyp7r4ia00bvkd3jnim7hd68who2bm?d=identicon",
+        "country": "JH",
+        "ethereum_address": "0x54f6B0c8c1bC04c6B6Fb34f18C2F8E6f5da7A990",
+        "id": "f2f1039ae9171cddbd40c7f5d731ec14b5a6a9b25e7e582ff1dd0608579f50ab",
+        "info_url": "https://en.wikipedia.org/wiki/Boxers_Creek",
+        "name": "terrible-hill",
+        "tm_pub_key": "jDf7chngmPA8xO55gx9M6DVv11lPFUiOkZTY+lxvVh4=",
+        "vega_pub_key": "b36e1320d12673d1b585ab3d777fabacd54889d20093513e969a3250f24e3969",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404221714",
+  "chain_id": "vega-devnet1-202404221810",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-22T17:14:43.382348319Z",
+  "genesis_time": "2024-04-22T18:10:57.804678205Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "25540217738CA725394D73D8E5BF67A0E89D9CA9",
-      "name": "skinny-school",
+      "address": "094E3D7DC19CCE6B374BFE95FEE49D1888BF53D2",
+      "name": "terrible-hill",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "3+ozWAYCzGk9Yirtr5y2SsQQIw6IfUzUgOzA/43tPTI="
+        "value": "jDf7chngmPA8xO55gx9M6DVv11lPFUiOkZTY+lxvVh4="
       }
     }
   ]
