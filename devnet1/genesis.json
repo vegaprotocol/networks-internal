@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "RpxdtB2z0tM8dne/lIHHnigFv4XL3U0PmSSDUVqQzWs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/8jujfsps6n776teywvo9xjej5vp3ha9e?d=identicon",
-        "country": "MW",
-        "ethereum_address": "0xE53fa39925BFdB79C67a482fe4dFec5C9DA56fC1",
-        "id": "f6d1e18c19b74ff859bd81c5d5efc16c007f58838f8659fbeda59265fab4269a",
-        "info_url": "https://en.wikipedia.org/wiki/J%C3%A1rnsaxa",
-        "name": "immense-dress",
-        "tm_pub_key": "RpxdtB2z0tM8dne/lIHHnigFv4XL3U0PmSSDUVqQzWs=",
-        "vega_pub_key": "91206d7f24fd94079be0ade8aa89efc51dfe8e82935681f17613b398c6e53c5f",
+      "lQSHMt9KurOzyfeneFZ0/0VL0ajBJRzyG/6b96crJaY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/kftnrvi1z624jcwl9n7ew7fmo3dshvs5?d=identicon",
+        "country": "NL",
+        "ethereum_address": "0x2bF5739d0438A39aD97248F4fD6C674E7F2Bf5A3",
+        "id": "7309987ce0224b40db76ead6414735e4cac22cb0f76d52969087ce8c5705a805",
+        "info_url": "https://en.wikipedia.org/wiki/The_Las_Vegas_Story_(album)",
+        "name": "noisy-roof",
+        "tm_pub_key": "lQSHMt9KurOzyfeneFZ0/0VL0ajBJRzyG/6b96crJaY=",
+        "vega_pub_key": "af1599949e63bfe0c18f2c23f606c78a936ea92c0b9e99d271b5af88c81479bc",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404221100",
+  "chain_id": "vega-devnet1-202404221422",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-22T11:00:11.415743484Z",
+  "genesis_time": "2024-04-22T14:22:35.802463762Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "5D6816315D5D393D3DF6C782F0C91AC3822F6CD4",
-      "name": "immense-dress",
+      "address": "A374A95C26C8D30DA109745EC8708120C5FBC070",
+      "name": "noisy-roof",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "RpxdtB2z0tM8dne/lIHHnigFv4XL3U0PmSSDUVqQzWs="
+        "value": "lQSHMt9KurOzyfeneFZ0/0VL0ajBJRzyG/6b96crJaY="
       }
     }
   ]
