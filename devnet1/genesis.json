@@ -370,6 +370,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "D/zHPcZIs92u1JGWNQPFag5WzpOQhDiX/w782CqCDDo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/g2alze9wvizpae7dui0je4dmypmoe29m?d=identicon",
+        "country": "AL",
+        "ethereum_address": "0xa9D2b533eB98768cADbe7d2c332e446b844Ec2Ea",
+        "id": "85324a35b770df8a6f87834c90f8ef40804b2eb38736110bd39678c3cdc85dcd",
+        "info_url": "https://en.wikipedia.org/wiki/Thysanotus_manglesianus",
+        "name": "agitated-country",
+        "tm_pub_key": "D/zHPcZIs92u1JGWNQPFag5WzpOQhDiX/w782CqCDDo=",
+        "vega_pub_key": "ce2b54ac5cdc5d9e6f35c343ba544643df0e054d5ee6aaf5dc179cb891686d28",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -380,21 +391,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "lQSHMt9KurOzyfeneFZ0/0VL0ajBJRzyG/6b96crJaY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/kftnrvi1z624jcwl9n7ew7fmo3dshvs5?d=identicon",
-        "country": "NL",
-        "ethereum_address": "0x2bF5739d0438A39aD97248F4fD6C674E7F2Bf5A3",
-        "id": "7309987ce0224b40db76ead6414735e4cac22cb0f76d52969087ce8c5705a805",
-        "info_url": "https://en.wikipedia.org/wiki/The_Las_Vegas_Story_(album)",
-        "name": "noisy-roof",
-        "tm_pub_key": "lQSHMt9KurOzyfeneFZ0/0VL0ajBJRzyG/6b96crJaY=",
-        "vega_pub_key": "af1599949e63bfe0c18f2c23f606c78a936ea92c0b9e99d271b5af88c81479bc",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404221422",
+  "chain_id": "vega-devnet1-202404221518",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-22T14:22:35.802463762Z",
+  "genesis_time": "2024-04-22T15:18:54.235213591Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "A374A95C26C8D30DA109745EC8708120C5FBC070",
-      "name": "noisy-roof",
+      "address": "C70F76C08E9A5CD925780948B90AFC0E559B049A",
+      "name": "agitated-country",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "lQSHMt9KurOzyfeneFZ0/0VL0ajBJRzyG/6b96crJaY="
+        "value": "D/zHPcZIs92u1JGWNQPFag5WzpOQhDiX/w782CqCDDo="
       }
     }
   ]
