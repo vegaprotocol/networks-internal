@@ -370,17 +370,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "HP6SekF+fXrGe2SwWG4iZU78Ah7fvyxynj9wlveAQl4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/fi1f2ywk4m1f3m0hq76fmoodsktmh9m4?d=identicon",
-        "country": "PW",
-        "ethereum_address": "0x06ee9592e242b51af162D07A27531ECc5b3E32ab",
-        "id": "e5f90036b9fe1c53871d2b1ca852d890f2c89e49a15b5f2060f0e4ff6570c4df",
-        "info_url": "https://en.wikipedia.org/wiki/Mesome_Hussain",
-        "name": "extensive-hill",
-        "tm_pub_key": "HP6SekF+fXrGe2SwWG4iZU78Ah7fvyxynj9wlveAQl4=",
-        "vega_pub_key": "a99d6d6b500cdfb344031c9db4681087aaccc0c506da38f624cd727ce97e5b97",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -391,10 +380,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "RpxdtB2z0tM8dne/lIHHnigFv4XL3U0PmSSDUVqQzWs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/8jujfsps6n776teywvo9xjej5vp3ha9e?d=identicon",
+        "country": "MW",
+        "ethereum_address": "0xE53fa39925BFdB79C67a482fe4dFec5C9DA56fC1",
+        "id": "f6d1e18c19b74ff859bd81c5d5efc16c007f58838f8659fbeda59265fab4269a",
+        "info_url": "https://en.wikipedia.org/wiki/J%C3%A1rnsaxa",
+        "name": "immense-dress",
+        "tm_pub_key": "RpxdtB2z0tM8dne/lIHHnigFv4XL3U0PmSSDUVqQzWs=",
+        "vega_pub_key": "91206d7f24fd94079be0ade8aa89efc51dfe8e82935681f17613b398c6e53c5f",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404220959",
+  "chain_id": "vega-devnet1-202404221100",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-22T09:59:57.137287719Z",
+  "genesis_time": "2024-04-22T11:00:11.415743484Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "7E4EC66376B5337E0F818D8CE6B86A2A515C30D2",
-      "name": "extensive-hill",
+      "address": "5D6816315D5D393D3DF6C782F0C91AC3822F6CD4",
+      "name": "immense-dress",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "HP6SekF+fXrGe2SwWG4iZU78Ah7fvyxynj9wlveAQl4="
+        "value": "RpxdtB2z0tM8dne/lIHHnigFv4XL3U0PmSSDUVqQzWs="
       }
     }
   ]
