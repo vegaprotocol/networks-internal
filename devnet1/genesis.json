@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "jDf7chngmPA8xO55gx9M6DVv11lPFUiOkZTY+lxvVh4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/tfsyp7r4ia00bvkd3jnim7hd68who2bm?d=identicon",
-        "country": "JH",
-        "ethereum_address": "0x54f6B0c8c1bC04c6B6Fb34f18C2F8E6f5da7A990",
-        "id": "f2f1039ae9171cddbd40c7f5d731ec14b5a6a9b25e7e582ff1dd0608579f50ab",
-        "info_url": "https://en.wikipedia.org/wiki/Boxers_Creek",
-        "name": "terrible-hill",
-        "tm_pub_key": "jDf7chngmPA8xO55gx9M6DVv11lPFUiOkZTY+lxvVh4=",
-        "vega_pub_key": "b36e1320d12673d1b585ab3d777fabacd54889d20093513e969a3250f24e3969",
+      "f04Hg2m7mqtkbgS7lnBafOVmXBbalaMaw42bVGJfW9c=": {
+        "avatar_url": "https://www.gravatar.com/avatar/y6cchjn7hf6y4chtly2k099ym568unuq?d=identicon",
+        "country": "DV",
+        "ethereum_address": "0x91f7546E1c27E889EC6F636d513b81aE7F2f3d8F",
+        "id": "22593ff400f730a503a1bee54f819b779a00c0b08aeb681c561582b161d987c3",
+        "info_url": "https://en.wikipedia.org/wiki/Lucelle,_Haut-Rhin",
+        "name": "icy-apple",
+        "tm_pub_key": "f04Hg2m7mqtkbgS7lnBafOVmXBbalaMaw42bVGJfW9c=",
+        "vega_pub_key": "499443579b4a8f7cc97891b4dae9dc67cbced6ac5eaccdd0c54a93be9a335d41",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404221810",
+  "chain_id": "vega-devnet1-202404221910",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-22T18:10:57.804678205Z",
+  "genesis_time": "2024-04-22T19:10:11.452622303Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "094E3D7DC19CCE6B374BFE95FEE49D1888BF53D2",
-      "name": "terrible-hill",
+      "address": "DA8DFE2326562C8AC57F91FB60E7FF10FF70A261",
+      "name": "icy-apple",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "jDf7chngmPA8xO55gx9M6DVv11lPFUiOkZTY+lxvVh4="
+        "value": "f04Hg2m7mqtkbgS7lnBafOVmXBbalaMaw42bVGJfW9c="
       }
     }
   ]
