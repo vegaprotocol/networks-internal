@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "a2K8DhpAOlJg2jXBADdxfBXfyzRHmrUkIAZLaI/5QjE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/sbucgfwtvie7q7i4ym1h65qbtdgcbf63?d=identicon",
-        "country": "SB",
-        "ethereum_address": "0xfB451600F99751d8df4F12a49890eeF603F7d3f3",
-        "id": "7ad2803dd8c6ece7bb7af5ba4a5b69a5df298dacb33a3ce8173c5b2c978e22c6",
-        "info_url": "https://en.wikipedia.org/wiki/Nucleus_(order_theory)",
-        "name": "icy-tree",
-        "tm_pub_key": "a2K8DhpAOlJg2jXBADdxfBXfyzRHmrUkIAZLaI/5QjE=",
-        "vega_pub_key": "757147b6774629675591210a57c54d80170ae31f9e019af0437d26d848d85186",
+      "cFC634KsRbAR9T5uDYYetLLylKsc5aMlV3gM3xAsQ9o=": {
+        "avatar_url": "https://www.gravatar.com/avatar/njcb2zizspx4puteo699xhhpkxov5gpu?d=identicon",
+        "country": "MC",
+        "ethereum_address": "0x9BD03fFdC18F161e9F66A17492eB7cb1a214CA39",
+        "id": "58bc1efd0fb87934d9e7bbc4346c7c323b124e1c4fd6174de7500458dff9cb0f",
+        "info_url": "https://en.wikipedia.org/wiki/Azimio_la_Umoja",
+        "name": "tricky-plant",
+        "tm_pub_key": "cFC634KsRbAR9T5uDYYetLLylKsc5aMlV3gM3xAsQ9o=",
+        "vega_pub_key": "7002f53c9f672f44f33113953925e2f04acd7dfb4f66ab4a2b9a17dd08015a68",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404231901",
+  "chain_id": "vega-devnet1-202404232053",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-23T19:01:43.388028028Z",
+  "genesis_time": "2024-04-23T20:53:00.486376175Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "19AF4E44DC724454E1B8431867F5329EF4646135",
-      "name": "icy-tree",
+      "address": "B75090FD867B5BA5CA455361387DF66532C7F63E",
+      "name": "tricky-plant",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "a2K8DhpAOlJg2jXBADdxfBXfyzRHmrUkIAZLaI/5QjE="
+        "value": "cFC634KsRbAR9T5uDYYetLLylKsc5aMlV3gM3xAsQ9o="
       }
     }
   ]
