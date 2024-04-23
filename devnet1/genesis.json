@@ -359,6 +359,17 @@
         "vega_pub_key": "cb152821443248b20a217abee89c1c8e595e07d47c537255d480761c88bc86d1",
         "vega_pub_key_index": 1
       },
+      "85cHjR6SvArnqzimncaROWBZJWIz20qCDs+IVGq4uco=": {
+        "avatar_url": "https://www.gravatar.com/avatar/yd3o2d8hfyln4rvd3muzoptavw1c6g9b?d=identicon",
+        "country": "UL",
+        "ethereum_address": "0x16E9fFB7259e9B7f12BbE3157157242A29EEadaD",
+        "id": "396d346e5a9e16fa1a5ab65538b2a1b276cd224e8c8ec8a433258d685401a630",
+        "info_url": "https://en.wikipedia.org/wiki/Albert_S._Janin",
+        "name": "noisy-butterfly",
+        "tm_pub_key": "85cHjR6SvArnqzimncaROWBZJWIz20qCDs+IVGq4uco=",
+        "vega_pub_key": "6813bbb6552324833cf61c64685ae122784affd8ebbc3b3cb1c23c0eb0ab8421",
+        "vega_pub_key_index": 1
+      },
       "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ=": {
         "avatar_url": "https://www.gravatar.com/avatar/6x0s5jsbbeeihso9yyhnh6hcop4fkxa1?d=identicon",
         "country": "ON",
@@ -380,21 +391,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "cFC634KsRbAR9T5uDYYetLLylKsc5aMlV3gM3xAsQ9o=": {
-        "avatar_url": "https://www.gravatar.com/avatar/njcb2zizspx4puteo699xhhpkxov5gpu?d=identicon",
-        "country": "MC",
-        "ethereum_address": "0x9BD03fFdC18F161e9F66A17492eB7cb1a214CA39",
-        "id": "58bc1efd0fb87934d9e7bbc4346c7c323b124e1c4fd6174de7500458dff9cb0f",
-        "info_url": "https://en.wikipedia.org/wiki/Azimio_la_Umoja",
-        "name": "tricky-plant",
-        "tm_pub_key": "cFC634KsRbAR9T5uDYYetLLylKsc5aMlV3gM3xAsQ9o=",
-        "vega_pub_key": "7002f53c9f672f44f33113953925e2f04acd7dfb4f66ab4a2b9a17dd08015a68",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404232053",
+  "chain_id": "vega-devnet1-202404232109",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-23T20:53:00.486376175Z",
+  "genesis_time": "2024-04-23T21:09:45.73998388Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "B75090FD867B5BA5CA455361387DF66532C7F63E",
-      "name": "tricky-plant",
+      "address": "9233F2920F5BFB9096DF819C5582330E863F8FCA",
+      "name": "noisy-butterfly",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "cFC634KsRbAR9T5uDYYetLLylKsc5aMlV3gM3xAsQ9o="
+        "value": "85cHjR6SvArnqzimncaROWBZJWIz20qCDs+IVGq4uco="
       }
     }
   ]
