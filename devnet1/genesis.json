@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "SGqgi1Cot/qcrGGra3tNOsM4X9FAR/QPkLripR4Fxk0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/eboswb9w2ll8o2pib5x1kej9iozq26a8?d=identicon",
-        "country": "CR",
-        "ethereum_address": "0x9dfe337409C947FA1682F9221C21a24DA66bd90F",
-        "id": "f18da39dc1ae08c2213f03993cd4dd0c1d66220bb9bd4feffb0b643e4f8c9590",
-        "info_url": "https://en.wikipedia.org/wiki/Boris_Tamm",
-        "name": "gifted-monkey",
-        "tm_pub_key": "SGqgi1Cot/qcrGGra3tNOsM4X9FAR/QPkLripR4Fxk0=",
-        "vega_pub_key": "8e512b3e649eadeb5739e58ce563079bd421f2e997c8b12108a0a074c487a6e7",
+      "QwI7UuL/OySQMFBQ7ik5FDmc8KnHfZYl+ixEm0mEQTk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/g7t0lzl537sryypz6colccd7sctrxt7u?d=identicon",
+        "country": "QW",
+        "ethereum_address": "0x078CA0C4BB0dfbAC178ce4925cd897c3F34d1A42",
+        "id": "2ec40df384d94c36bf7f7447d3cc32284aa627bf18bc0f9bdb9ab8ec85a8917d",
+        "info_url": "https://en.wikipedia.org/wiki/Views_of_Ibn_Taymiyya",
+        "name": "red-sheep",
+        "tm_pub_key": "QwI7UuL/OySQMFBQ7ik5FDmc8KnHfZYl+ixEm0mEQTk=",
+        "vega_pub_key": "95a001e7554e254596650b80e8c167b60bd14e68e8e98557cacf42773fcf1f26",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404231611",
+  "chain_id": "vega-devnet1-202404231658",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-23T16:11:58.851906308Z",
+  "genesis_time": "2024-04-23T16:58:23.263900906Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "BEF6AAB3C3BBE727AD5D920CEB9F2F58AC546280",
-      "name": "gifted-monkey",
+      "address": "4E4CA03AC832E3A7FED3519663ADAE13DBDEA5AF",
+      "name": "red-sheep",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "SGqgi1Cot/qcrGGra3tNOsM4X9FAR/QPkLripR4Fxk0="
+        "value": "QwI7UuL/OySQMFBQ7ik5FDmc8KnHfZYl+ixEm0mEQTk="
       }
     }
   ]
