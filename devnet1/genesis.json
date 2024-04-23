@@ -359,6 +359,17 @@
         "vega_pub_key": "cb152821443248b20a217abee89c1c8e595e07d47c537255d480761c88bc86d1",
         "vega_pub_key_index": 1
       },
+      "9bNZDI/HHHd/gHU9VkreZHtriiNJnn8VgrCoxdpIcyE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/pomy9bge76j8f7owo59qm9oia0kiy0kb?d=identicon",
+        "country": "QB",
+        "ethereum_address": "0xd9a69156E8806B632387B3CfBC7c5ACd0fe3F08a",
+        "id": "f8fe841705e0eb6e649ce180f2fb671210fcf460cdc097bd76ff7799688c8d50",
+        "info_url": "https://en.wikipedia.org/wiki/Pozowice",
+        "name": "wailing-bat",
+        "tm_pub_key": "9bNZDI/HHHd/gHU9VkreZHtriiNJnn8VgrCoxdpIcyE=",
+        "vega_pub_key": "06806b1dd10f5df066d09c5f80984d6cfcaa0092e541791520c37ba75b849487",
+        "vega_pub_key_index": 1
+      },
       "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ=": {
         "avatar_url": "https://www.gravatar.com/avatar/6x0s5jsbbeeihso9yyhnh6hcop4fkxa1?d=identicon",
         "country": "ON",
@@ -380,21 +391,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "XVhHMgcdu7bP0pb09goT+nSn81tFicILOsJ/sjgBgOc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/xaxg292n0uf9edvvc1sy2s6f2gt8j3d3?d=identicon",
-        "country": "FF",
-        "ethereum_address": "0x350D665d9f23998faCF1fCf1D1D8A3740581703D",
-        "id": "39f117269cdf93dee2cbf4fb0f5d4963372d42f8020ef61f914bbc7c85e58b6c",
-        "info_url": "https://en.wikipedia.org/wiki/Cambridge_University_Light_Entertainment_Society",
-        "name": "purple-hill",
-        "tm_pub_key": "XVhHMgcdu7bP0pb09goT+nSn81tFicILOsJ/sjgBgOc=",
-        "vega_pub_key": "9f48478f4dea204fdcbdf195e33e0b427dde7c8b531066554305685b3c6190bd",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404222005",
+  "chain_id": "vega-devnet1-202404231027",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-22T20:05:37.020144004Z",
+  "genesis_time": "2024-04-23T10:27:17.185863799Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "CBD53C9568D99A9DB10AA278D7C67F6E12CBD35A",
-      "name": "purple-hill",
+      "address": "712815F5625D153BF32B23C99A8FA6099D506175",
+      "name": "wailing-bat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "XVhHMgcdu7bP0pb09goT+nSn81tFicILOsJ/sjgBgOc="
+        "value": "9bNZDI/HHHd/gHU9VkreZHtriiNJnn8VgrCoxdpIcyE="
       }
     }
   ]
