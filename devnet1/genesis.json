@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "QwI7UuL/OySQMFBQ7ik5FDmc8KnHfZYl+ixEm0mEQTk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/g7t0lzl537sryypz6colccd7sctrxt7u?d=identicon",
-        "country": "QW",
-        "ethereum_address": "0x078CA0C4BB0dfbAC178ce4925cd897c3F34d1A42",
-        "id": "2ec40df384d94c36bf7f7447d3cc32284aa627bf18bc0f9bdb9ab8ec85a8917d",
-        "info_url": "https://en.wikipedia.org/wiki/Views_of_Ibn_Taymiyya",
-        "name": "red-sheep",
-        "tm_pub_key": "QwI7UuL/OySQMFBQ7ik5FDmc8KnHfZYl+ixEm0mEQTk=",
-        "vega_pub_key": "95a001e7554e254596650b80e8c167b60bd14e68e8e98557cacf42773fcf1f26",
+      "a2K8DhpAOlJg2jXBADdxfBXfyzRHmrUkIAZLaI/5QjE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/sbucgfwtvie7q7i4ym1h65qbtdgcbf63?d=identicon",
+        "country": "SB",
+        "ethereum_address": "0xfB451600F99751d8df4F12a49890eeF603F7d3f3",
+        "id": "7ad2803dd8c6ece7bb7af5ba4a5b69a5df298dacb33a3ce8173c5b2c978e22c6",
+        "info_url": "https://en.wikipedia.org/wiki/Nucleus_(order_theory)",
+        "name": "icy-tree",
+        "tm_pub_key": "a2K8DhpAOlJg2jXBADdxfBXfyzRHmrUkIAZLaI/5QjE=",
+        "vega_pub_key": "757147b6774629675591210a57c54d80170ae31f9e019af0437d26d848d85186",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404231658",
+  "chain_id": "vega-devnet1-202404231901",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-23T16:58:23.263900906Z",
+  "genesis_time": "2024-04-23T19:01:43.388028028Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "4E4CA03AC832E3A7FED3519663ADAE13DBDEA5AF",
-      "name": "red-sheep",
+      "address": "19AF4E44DC724454E1B8431867F5329EF4646135",
+      "name": "icy-tree",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "QwI7UuL/OySQMFBQ7ik5FDmc8KnHfZYl+ixEm0mEQTk="
+        "value": "a2K8DhpAOlJg2jXBADdxfBXfyzRHmrUkIAZLaI/5QjE="
       }
     }
   ]
