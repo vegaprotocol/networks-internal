@@ -348,17 +348,6 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
-      "6IKED8nb4Bv8VOxs6SL+PnqdyYg+fHLEVrDjV4f2tJg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ip9cnhj4ee64xrqwcnbbnh2f3kpy0sqw?d=identicon",
-        "country": "EP",
-        "ethereum_address": "0xb1470E84461fD1A5D0f3b01C6B2872dE9319D6FF",
-        "id": "bd0dc656370fb301b5ed90f420f205687be43688f5e4407b2a7f91b6cf7691ce",
-        "info_url": "https://en.wikipedia.org/wiki/Pa_Las_Baby%27s_y_Belikeada",
-        "name": "stocky-stove",
-        "tm_pub_key": "6IKED8nb4Bv8VOxs6SL+PnqdyYg+fHLEVrDjV4f2tJg=",
-        "vega_pub_key": "4f0fc12c53e989de26181ae93ab23fc9bd6c4c1d31fc8bbb44c1366c93ecbcfd",
-        "vega_pub_key_index": 1
-      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -368,6 +357,17 @@
         "name": "crashing-wall",
         "tm_pub_key": "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=",
         "vega_pub_key": "cb152821443248b20a217abee89c1c8e595e07d47c537255d480761c88bc86d1",
+        "vega_pub_key_index": 1
+      },
+      "8OTG3i1FWdQYEMFVRmehYj/3z9j2oGCHZY2PbShkMLU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/yrpej1m71y0o5zncrn1r6jmd2j8oy52b?d=identicon",
+        "country": "RW",
+        "ethereum_address": "0x00EC370b196c2E9e25EcB5a0497e12C30f93EDf3",
+        "id": "5c6a64875459693510bd827960925533cc87b72e6e3f9ffb980bdaf56114b903",
+        "info_url": "https://en.wikipedia.org/wiki/World_Cyber_Games_2002",
+        "name": "salmon-country",
+        "tm_pub_key": "8OTG3i1FWdQYEMFVRmehYj/3z9j2oGCHZY2PbShkMLU=",
+        "vega_pub_key": "a55ae72216d77f13e0ed01f85a7823b8f22d96ce437bb6080b62180d030a2cff",
         "vega_pub_key_index": 1
       },
       "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ=": {
@@ -394,7 +394,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202404241002",
+  "chain_id": "vega-devnet1-202404241251",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-24T10:02:00.547261029Z",
+  "genesis_time": "2024-04-24T12:51:53.174755079Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "8F1F4A2A5DAFD1B632316BDD4293C7BECE23FC33",
-      "name": "stocky-stove",
+      "address": "D8211225478C17D912705B70A218C477D732D980",
+      "name": "salmon-country",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "6IKED8nb4Bv8VOxs6SL+PnqdyYg+fHLEVrDjV4f2tJg="
+        "value": "8OTG3i1FWdQYEMFVRmehYj/3z9j2oGCHZY2PbShkMLU="
       }
     }
   ]
