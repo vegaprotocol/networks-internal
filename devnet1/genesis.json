@@ -348,6 +348,17 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
+      "6IKED8nb4Bv8VOxs6SL+PnqdyYg+fHLEVrDjV4f2tJg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ip9cnhj4ee64xrqwcnbbnh2f3kpy0sqw?d=identicon",
+        "country": "EP",
+        "ethereum_address": "0xb1470E84461fD1A5D0f3b01C6B2872dE9319D6FF",
+        "id": "bd0dc656370fb301b5ed90f420f205687be43688f5e4407b2a7f91b6cf7691ce",
+        "info_url": "https://en.wikipedia.org/wiki/Pa_Las_Baby%27s_y_Belikeada",
+        "name": "stocky-stove",
+        "tm_pub_key": "6IKED8nb4Bv8VOxs6SL+PnqdyYg+fHLEVrDjV4f2tJg=",
+        "vega_pub_key": "4f0fc12c53e989de26181ae93ab23fc9bd6c4c1d31fc8bbb44c1366c93ecbcfd",
+        "vega_pub_key_index": 1
+      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -357,17 +368,6 @@
         "name": "crashing-wall",
         "tm_pub_key": "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=",
         "vega_pub_key": "cb152821443248b20a217abee89c1c8e595e07d47c537255d480761c88bc86d1",
-        "vega_pub_key_index": 1
-      },
-      "85cHjR6SvArnqzimncaROWBZJWIz20qCDs+IVGq4uco=": {
-        "avatar_url": "https://www.gravatar.com/avatar/yd3o2d8hfyln4rvd3muzoptavw1c6g9b?d=identicon",
-        "country": "UL",
-        "ethereum_address": "0x16E9fFB7259e9B7f12BbE3157157242A29EEadaD",
-        "id": "396d346e5a9e16fa1a5ab65538b2a1b276cd224e8c8ec8a433258d685401a630",
-        "info_url": "https://en.wikipedia.org/wiki/Albert_S._Janin",
-        "name": "noisy-butterfly",
-        "tm_pub_key": "85cHjR6SvArnqzimncaROWBZJWIz20qCDs+IVGq4uco=",
-        "vega_pub_key": "6813bbb6552324833cf61c64685ae122784affd8ebbc3b3cb1c23c0eb0ab8421",
         "vega_pub_key_index": 1
       },
       "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ=": {
@@ -394,7 +394,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202404232109",
+  "chain_id": "vega-devnet1-202404241002",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-23T21:09:45.73998388Z",
+  "genesis_time": "2024-04-24T10:02:00.547261029Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "9233F2920F5BFB9096DF819C5582330E863F8FCA",
-      "name": "noisy-butterfly",
+      "address": "8F1F4A2A5DAFD1B632316BDD4293C7BECE23FC33",
+      "name": "stocky-stove",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "85cHjR6SvArnqzimncaROWBZJWIz20qCDs+IVGq4uco="
+        "value": "6IKED8nb4Bv8VOxs6SL+PnqdyYg+fHLEVrDjV4f2tJg="
       }
     }
   ]
