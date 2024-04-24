@@ -359,17 +359,6 @@
         "vega_pub_key": "cb152821443248b20a217abee89c1c8e595e07d47c537255d480761c88bc86d1",
         "vega_pub_key_index": 1
       },
-      "8OTG3i1FWdQYEMFVRmehYj/3z9j2oGCHZY2PbShkMLU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/yrpej1m71y0o5zncrn1r6jmd2j8oy52b?d=identicon",
-        "country": "RW",
-        "ethereum_address": "0x00EC370b196c2E9e25EcB5a0497e12C30f93EDf3",
-        "id": "5c6a64875459693510bd827960925533cc87b72e6e3f9ffb980bdaf56114b903",
-        "info_url": "https://en.wikipedia.org/wiki/World_Cyber_Games_2002",
-        "name": "salmon-country",
-        "tm_pub_key": "8OTG3i1FWdQYEMFVRmehYj/3z9j2oGCHZY2PbShkMLU=",
-        "vega_pub_key": "a55ae72216d77f13e0ed01f85a7823b8f22d96ce437bb6080b62180d030a2cff",
-        "vega_pub_key_index": 1
-      },
       "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ=": {
         "avatar_url": "https://www.gravatar.com/avatar/6x0s5jsbbeeihso9yyhnh6hcop4fkxa1?d=identicon",
         "country": "ON",
@@ -379,6 +368,17 @@
         "name": "clever-doctor",
         "tm_pub_key": "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ=",
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
+        "vega_pub_key_index": 1
+      },
+      "JAKimSpJZpXw6uScCHNZAaYa9dnOBAdhyxnmaJA88zo=": {
+        "avatar_url": "https://www.gravatar.com/avatar/g6etb8p8y976chcjtxy1ux10oy8v7ac5?d=identicon",
+        "country": "WO",
+        "ethereum_address": "0x0Ea6fed90B1e6D6eF1816FD17e066c4758eFb28a",
+        "id": "fb804504fda3e9d21cb36d1e90cd0c5b3903de20a2f0ba94582a905f05a5e6dc",
+        "info_url": "https://en.wikipedia.org/wiki/Cody_Lange",
+        "name": "salmon-wall",
+        "tm_pub_key": "JAKimSpJZpXw6uScCHNZAaYa9dnOBAdhyxnmaJA88zo=",
+        "vega_pub_key": "cdcb794fca19c0c0d4865fb2c81cc0088bfb3a1ca884bd5235b18217bba27792",
         "vega_pub_key_index": 1
       },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
@@ -394,7 +394,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202404241346",
+  "chain_id": "vega-devnet1-202404241515",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-24T13:46:40.886254072Z",
+  "genesis_time": "2024-04-24T15:15:44.680004527Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "D8211225478C17D912705B70A218C477D732D980",
-      "name": "salmon-country",
+      "address": "B89E1760B1442C2D8A5ECF3B0FF1F56C9491575D",
+      "name": "salmon-wall",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "8OTG3i1FWdQYEMFVRmehYj/3z9j2oGCHZY2PbShkMLU="
+        "value": "JAKimSpJZpXw6uScCHNZAaYa9dnOBAdhyxnmaJA88zo="
       }
     }
   ]
