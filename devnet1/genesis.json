@@ -359,6 +359,17 @@
         "vega_pub_key": "cb152821443248b20a217abee89c1c8e595e07d47c537255d480761c88bc86d1",
         "vega_pub_key_index": 1
       },
+      "7gqq3rSqJDdY73ObU87RZyv6jdOtQzUxvgm1zBEhCFA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/zkiwofz3uawll99wngh6cr2olz40f6pd?d=identicon",
+        "country": "IJ",
+        "ethereum_address": "0xeA34c3f6c0C75f02676e7D30bdE1056f3A307e0b",
+        "id": "63367aad7ef536e30fb0714eab7c72431107f82391c59d79aa8be1049582741e",
+        "info_url": "https://en.wikipedia.org/wiki/Massey_Lopes,_2nd_Baron_Roborough",
+        "name": "frustrating-pen",
+        "tm_pub_key": "7gqq3rSqJDdY73ObU87RZyv6jdOtQzUxvgm1zBEhCFA=",
+        "vega_pub_key": "a023d88c6cd181cee14e2ede2ee99cfc8d1b8147c99428d98fdc338cc286577b",
+        "vega_pub_key_index": 1
+      },
       "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ=": {
         "avatar_url": "https://www.gravatar.com/avatar/6x0s5jsbbeeihso9yyhnh6hcop4fkxa1?d=identicon",
         "country": "ON",
@@ -380,21 +391,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "Xu66iKUOc1nzJWj0rORczOpvunvoM2Tdroj2gYeF2S8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/65ns6zs9ychepzsxkvje7vhunju6c9sr?d=identicon",
-        "country": "KO",
-        "ethereum_address": "0x2E93b550A2a79F2C5B896aB9eb09b885F1c89150",
-        "id": "f01aebc0ef65731801870c615e48e04c385d6f59b5c5454c397444c0a3c83497",
-        "info_url": "https://en.wikipedia.org/wiki/Uni%C3%B3n,_Paraguay",
-        "name": "happy-town",
-        "tm_pub_key": "Xu66iKUOc1nzJWj0rORczOpvunvoM2Tdroj2gYeF2S8=",
-        "vega_pub_key": "389b82275ed51de74e72b738d6346cb74ba983f5736e892eff512e03572826c3",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404251104",
+  "chain_id": "vega-devnet1-202404251205",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-25T11:04:19.560613135Z",
+  "genesis_time": "2024-04-25T12:05:02.44844474Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "E6AF309C64177AAA9328D3DCECDFFEF055FB9763",
-      "name": "happy-town",
+      "address": "5F75A89A9D4C325F35B123EA96C99B5CCC608D51",
+      "name": "frustrating-pen",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Xu66iKUOc1nzJWj0rORczOpvunvoM2Tdroj2gYeF2S8="
+        "value": "7gqq3rSqJDdY73ObU87RZyv6jdOtQzUxvgm1zBEhCFA="
       }
     }
   ]
