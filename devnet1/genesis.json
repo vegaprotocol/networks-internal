@@ -359,17 +359,6 @@
         "vega_pub_key": "cb152821443248b20a217abee89c1c8e595e07d47c537255d480761c88bc86d1",
         "vega_pub_key_index": 1
       },
-      "7gqq3rSqJDdY73ObU87RZyv6jdOtQzUxvgm1zBEhCFA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/zkiwofz3uawll99wngh6cr2olz40f6pd?d=identicon",
-        "country": "IJ",
-        "ethereum_address": "0xeA34c3f6c0C75f02676e7D30bdE1056f3A307e0b",
-        "id": "63367aad7ef536e30fb0714eab7c72431107f82391c59d79aa8be1049582741e",
-        "info_url": "https://en.wikipedia.org/wiki/Massey_Lopes,_2nd_Baron_Roborough",
-        "name": "frustrating-pen",
-        "tm_pub_key": "7gqq3rSqJDdY73ObU87RZyv6jdOtQzUxvgm1zBEhCFA=",
-        "vega_pub_key": "a023d88c6cd181cee14e2ede2ee99cfc8d1b8147c99428d98fdc338cc286577b",
-        "vega_pub_key_index": 1
-      },
       "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ=": {
         "avatar_url": "https://www.gravatar.com/avatar/6x0s5jsbbeeihso9yyhnh6hcop4fkxa1?d=identicon",
         "country": "ON",
@@ -391,10 +380,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "s9E9K1crc3/uDmCPlfLfbpya/DH3pIHP2z8Z75jqWFA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/esalvuh2pz6k30i4c0i9u14qpv1qgsap?d=identicon",
+        "country": "WA",
+        "ethereum_address": "0x742e49F4cC85F65632ee674bC23d01bbc61D88C6",
+        "id": "f9905833c9c8db470ff90973788ffe21042c7dfac0df0aa8cdd73a8ee476b69d",
+        "info_url": "https://en.wikipedia.org/wiki/Question_Quest",
+        "name": "hollow-coffee",
+        "tm_pub_key": "s9E9K1crc3/uDmCPlfLfbpya/DH3pIHP2z8Z75jqWFA=",
+        "vega_pub_key": "1630a638fb5155e59742face15515094a2fcaeed89163e74770655be70c1ced3",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404251205",
+  "chain_id": "vega-devnet1-202404251500",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-25T12:05:02.44844474Z",
+  "genesis_time": "2024-04-25T15:00:29.797031581Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "5F75A89A9D4C325F35B123EA96C99B5CCC608D51",
-      "name": "frustrating-pen",
+      "address": "0DED7C5B986A6A7E9A2A01B64F357981019E448C",
+      "name": "hollow-coffee",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "7gqq3rSqJDdY73ObU87RZyv6jdOtQzUxvgm1zBEhCFA="
+        "value": "s9E9K1crc3/uDmCPlfLfbpya/DH3pIHP2z8Z75jqWFA="
       }
     }
   ]
