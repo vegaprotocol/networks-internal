@@ -1719,7 +1719,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 
         [scenario.incentive_btcsrusdt]
-    market_name = "Bitcoin / srUSD (Perpetual)"
+    market_name = "Bitcoin Incentive (perp)"
     binance_code = "BTCUSDT"
     step_length_seconds = 30
     [scenario.incentive_btcsrusdt.market_manager_args]
