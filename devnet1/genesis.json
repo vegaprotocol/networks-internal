@@ -370,17 +370,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "JAKimSpJZpXw6uScCHNZAaYa9dnOBAdhyxnmaJA88zo=": {
-        "avatar_url": "https://www.gravatar.com/avatar/g6etb8p8y976chcjtxy1ux10oy8v7ac5?d=identicon",
-        "country": "WO",
-        "ethereum_address": "0x0Ea6fed90B1e6D6eF1816FD17e066c4758eFb28a",
-        "id": "fb804504fda3e9d21cb36d1e90cd0c5b3903de20a2f0ba94582a905f05a5e6dc",
-        "info_url": "https://en.wikipedia.org/wiki/Cody_Lange",
-        "name": "salmon-wall",
-        "tm_pub_key": "JAKimSpJZpXw6uScCHNZAaYa9dnOBAdhyxnmaJA88zo=",
-        "vega_pub_key": "cdcb794fca19c0c0d4865fb2c81cc0088bfb3a1ca884bd5235b18217bba27792",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -391,10 +380,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "RB2jUhQ/wikSaxY0LYW+aRNivw+pLR8cyNZBSnJ+svQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/9bnti7eurfazukd31rixwbhxnk606u00?d=identicon",
+        "country": "VE",
+        "ethereum_address": "0x3EBe4Cbb3dA88F770FAE847a60D96F153b8edc6F",
+        "id": "e9593abb668e79de897fa4abde78e5cbbe2ea8e1c5ad2bdf4b10e509426e8db7",
+        "info_url": "https://en.wikipedia.org/wiki/Nick_Perri",
+        "name": "rich-honey",
+        "tm_pub_key": "RB2jUhQ/wikSaxY0LYW+aRNivw+pLR8cyNZBSnJ+svQ=",
+        "vega_pub_key": "6dd56f0a20eac9588466a3aff0f604c8d61e36ea48fc6323252d7e0d1c984550",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404241515",
+  "chain_id": "vega-devnet1-202404251009",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-24T15:15:44.680004527Z",
+  "genesis_time": "2024-04-25T10:09:36.196327614Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "B89E1760B1442C2D8A5ECF3B0FF1F56C9491575D",
-      "name": "salmon-wall",
+      "address": "E6C188B52F2C9D6E075EF490702CA6631BAF4C9D",
+      "name": "rich-honey",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "JAKimSpJZpXw6uScCHNZAaYa9dnOBAdhyxnmaJA88zo="
+        "value": "RB2jUhQ/wikSaxY0LYW+aRNivw+pLR8cyNZBSnJ+svQ="
       }
     }
   ]
