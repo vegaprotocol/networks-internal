@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "uyhe2X9Gx5u9xJkSmUvMHbSkgVXrLI4AaaF1ltH9Z7c=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ne9il10gioqkqpqc8dku1cj5qksqo2s9?d=identicon",
-        "country": "RQ",
-        "ethereum_address": "0x8368c7a0302D7993909343C9ee8D54BF4f7E0Ef4",
-        "id": "fecacd3e18152531f8310080794a31093e79ac7870abf7841d903f50b0a03519",
-        "info_url": "https://en.wikipedia.org/wiki/Bakers_Bend",
-        "name": "stocky-farmer",
-        "tm_pub_key": "uyhe2X9Gx5u9xJkSmUvMHbSkgVXrLI4AaaF1ltH9Z7c=",
-        "vega_pub_key": "270f0dfb7bce3a7b5b7b19e2d1cc2ec5170d0dd0b1eb9022540865c64e6c907e",
+      "yWENGo8COKA8vjPfbxsVzDiE5OdP0xJtM6X35BLM9b4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/1had29kcak30e4r15uvmquanhfrjkexd?d=identicon",
+        "country": "JA",
+        "ethereum_address": "0x57957e79fb979FEDC97655A7aDCDB2B5B6eF5356",
+        "id": "af2000ebbe41cfc73a53124a2b94b58cd0f46e775be724e1f9cab94d527eeacd",
+        "info_url": "https://en.wikipedia.org/wiki/Albert_Oakland_Park",
+        "name": "impressionable-pencil",
+        "tm_pub_key": "yWENGo8COKA8vjPfbxsVzDiE5OdP0xJtM6X35BLM9b4=",
+        "vega_pub_key": "ec78367825f781f27eae91ee9aa2d0af4ee2a750264f94756b9e969a8e89a196",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404260807",
+  "chain_id": "vega-devnet1-202404261058",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-26T08:07:26.987488815Z",
+  "genesis_time": "2024-04-26T10:58:23.558264314Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "882E4D85B02C23509993B4F6C36468B9B8073955",
-      "name": "stocky-farmer",
+      "address": "386F5FD5FC4A7832C92B27DC44EFD874794BD5AD",
+      "name": "impressionable-pencil",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "uyhe2X9Gx5u9xJkSmUvMHbSkgVXrLI4AaaF1ltH9Z7c="
+        "value": "yWENGo8COKA8vjPfbxsVzDiE5OdP0xJtM6X35BLM9b4="
       }
     }
   ]
