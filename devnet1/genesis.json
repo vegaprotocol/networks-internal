@@ -337,6 +337,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "0T3J8A7nv64z1sZcgSFD71dgnZyJTI/IgvykNPX8FIE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/p6whj3n2cocjisdnawpjxvq6at5oqg0v?d=identicon",
+        "country": "FP",
+        "ethereum_address": "0x17d67D065E49c28E880dDE4C023D07AB9773d7C9",
+        "id": "ac1e6562e661a87ead997cff9e9504a650b057d38f804fa2fce3bd103229b980",
+        "info_url": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Campagna",
+        "name": "happy-vacuum",
+        "tm_pub_key": "0T3J8A7nv64z1sZcgSFD71dgnZyJTI/IgvykNPX8FIE=",
+        "vega_pub_key": "17e937679eed6f476a839296643b26c46e82f4adeab2e0fffcc5f72fded9c606",
+        "vega_pub_key_index": 1
+      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -380,21 +391,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "wT03nR4EaARPwhhjHBD3AFY6MaskpNEOz1FUEuNapFE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/wm7rr9asf2ud1pd7lgijgssgfmflz78w?d=identicon",
-        "country": "FM",
-        "ethereum_address": "0x12b64334A875b4B44Cbdf34E56c12BAa6d452c28",
-        "id": "09ac66cbfccc139bbc5cce14a23e3b810e4ef1255a940f5ccf872a3944a78d4e",
-        "info_url": "https://en.wikipedia.org/wiki/The_City_Gent",
-        "name": "agitated-pond",
-        "tm_pub_key": "wT03nR4EaARPwhhjHBD3AFY6MaskpNEOz1FUEuNapFE=",
-        "vega_pub_key": "7003cf854475cea0f0c9a527878580f5d3a5bd6a4865478adc4b23af040e588a",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404261248",
+  "chain_id": "vega-devnet1-202404261437",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-26T12:48:32.587746382Z",
+  "genesis_time": "2024-04-26T14:37:13.093266027Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "00404DB2448DFA394A622044296F5FF00C7E5523",
-      "name": "agitated-pond",
+      "address": "EF35AF4857D6DB436AC89B041B37A81812DA4ACF",
+      "name": "happy-vacuum",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "wT03nR4EaARPwhhjHBD3AFY6MaskpNEOz1FUEuNapFE="
+        "value": "0T3J8A7nv64z1sZcgSFD71dgnZyJTI/IgvykNPX8FIE="
       }
     }
   ]
