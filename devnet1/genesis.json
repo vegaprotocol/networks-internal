@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "yWENGo8COKA8vjPfbxsVzDiE5OdP0xJtM6X35BLM9b4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/1had29kcak30e4r15uvmquanhfrjkexd?d=identicon",
-        "country": "JA",
-        "ethereum_address": "0x57957e79fb979FEDC97655A7aDCDB2B5B6eF5356",
-        "id": "af2000ebbe41cfc73a53124a2b94b58cd0f46e775be724e1f9cab94d527eeacd",
-        "info_url": "https://en.wikipedia.org/wiki/Albert_Oakland_Park",
-        "name": "impressionable-pencil",
-        "tm_pub_key": "yWENGo8COKA8vjPfbxsVzDiE5OdP0xJtM6X35BLM9b4=",
-        "vega_pub_key": "ec78367825f781f27eae91ee9aa2d0af4ee2a750264f94756b9e969a8e89a196",
+      "wT03nR4EaARPwhhjHBD3AFY6MaskpNEOz1FUEuNapFE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/wm7rr9asf2ud1pd7lgijgssgfmflz78w?d=identicon",
+        "country": "FM",
+        "ethereum_address": "0x12b64334A875b4B44Cbdf34E56c12BAa6d452c28",
+        "id": "09ac66cbfccc139bbc5cce14a23e3b810e4ef1255a940f5ccf872a3944a78d4e",
+        "info_url": "https://en.wikipedia.org/wiki/The_City_Gent",
+        "name": "agitated-pond",
+        "tm_pub_key": "wT03nR4EaARPwhhjHBD3AFY6MaskpNEOz1FUEuNapFE=",
+        "vega_pub_key": "7003cf854475cea0f0c9a527878580f5d3a5bd6a4865478adc4b23af040e588a",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404261058",
+  "chain_id": "vega-devnet1-202404261248",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-26T10:58:23.558264314Z",
+  "genesis_time": "2024-04-26T12:48:32.587746382Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "386F5FD5FC4A7832C92B27DC44EFD874794BD5AD",
-      "name": "impressionable-pencil",
+      "address": "00404DB2448DFA394A622044296F5FF00C7E5523",
+      "name": "agitated-pond",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "yWENGo8COKA8vjPfbxsVzDiE5OdP0xJtM6X35BLM9b4="
+        "value": "wT03nR4EaARPwhhjHBD3AFY6MaskpNEOz1FUEuNapFE="
       }
     }
   ]
