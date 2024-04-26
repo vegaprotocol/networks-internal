@@ -337,15 +337,15 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "0T3J8A7nv64z1sZcgSFD71dgnZyJTI/IgvykNPX8FIE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/p6whj3n2cocjisdnawpjxvq6at5oqg0v?d=identicon",
-        "country": "FP",
-        "ethereum_address": "0x17d67D065E49c28E880dDE4C023D07AB9773d7C9",
-        "id": "ac1e6562e661a87ead997cff9e9504a650b057d38f804fa2fce3bd103229b980",
-        "info_url": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Campagna",
-        "name": "happy-vacuum",
-        "tm_pub_key": "0T3J8A7nv64z1sZcgSFD71dgnZyJTI/IgvykNPX8FIE=",
-        "vega_pub_key": "17e937679eed6f476a839296643b26c46e82f4adeab2e0fffcc5f72fded9c606",
+      "2dHrpF4t9+JJWu5pwq/8FsYI1iSpgfJK/EoK7RCjpDs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ycz1ctvvetjv9taapl6pa4m2z0zub101?d=identicon",
+        "country": "AG",
+        "ethereum_address": "0xa34a5f8f41d4f3af7bb9Fe638B3437d9A6f57F01",
+        "id": "9d2f55ee3ec63d7fc8a3e0bb22fe54d3a11432150f3ef8107a894bd768113388",
+        "info_url": "https://en.wikipedia.org/wiki/Modus_ponens",
+        "name": "high-shoe",
+        "tm_pub_key": "2dHrpF4t9+JJWu5pwq/8FsYI1iSpgfJK/EoK7RCjpDs=",
+        "vega_pub_key": "b9ea0648ae69fb11df2f07f79886e14ca2e7ab88d7ddde1afbe473da15ca9aff",
         "vega_pub_key_index": 1
       },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
@@ -394,7 +394,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202404261437",
+  "chain_id": "vega-devnet1-202404261620",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-26T14:37:13.093266027Z",
+  "genesis_time": "2024-04-26T16:20:03.437805409Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "EF35AF4857D6DB436AC89B041B37A81812DA4ACF",
-      "name": "happy-vacuum",
+      "address": "5E980DFD3BD49711705E87C2C8C2049BAB70434C",
+      "name": "high-shoe",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "0T3J8A7nv64z1sZcgSFD71dgnZyJTI/IgvykNPX8FIE="
+        "value": "2dHrpF4t9+JJWu5pwq/8FsYI1iSpgfJK/EoK7RCjpDs="
       }
     }
   ]
