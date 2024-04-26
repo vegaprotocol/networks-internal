@@ -337,17 +337,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "2dHrpF4t9+JJWu5pwq/8FsYI1iSpgfJK/EoK7RCjpDs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ycz1ctvvetjv9taapl6pa4m2z0zub101?d=identicon",
-        "country": "AG",
-        "ethereum_address": "0xa34a5f8f41d4f3af7bb9Fe638B3437d9A6f57F01",
-        "id": "9d2f55ee3ec63d7fc8a3e0bb22fe54d3a11432150f3ef8107a894bd768113388",
-        "info_url": "https://en.wikipedia.org/wiki/Modus_ponens",
-        "name": "high-shoe",
-        "tm_pub_key": "2dHrpF4t9+JJWu5pwq/8FsYI1iSpgfJK/EoK7RCjpDs=",
-        "vega_pub_key": "b9ea0648ae69fb11df2f07f79886e14ca2e7ab88d7ddde1afbe473da15ca9aff",
-        "vega_pub_key_index": 1
-      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -381,6 +370,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "E6r8E6q8/YV4iXJHmKbgOCT/QuLiv8hJKzsNHsL0hqk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/3nur5z4rnmwdkb2bbywwe5elyre0nnnh?d=identicon",
+        "country": "EO",
+        "ethereum_address": "0x4d3a28f6268644182fDFBF60BF0641Fa3f7A9174",
+        "id": "1ecf08b250b5a0ff5ae430f636b6db6c44785bf37526126b02d9a4b1576c2505",
+        "info_url": "https://en.wikipedia.org/wiki/Paganini_(1989_film)",
+        "name": "agitated-sheep",
+        "tm_pub_key": "E6r8E6q8/YV4iXJHmKbgOCT/QuLiv8hJKzsNHsL0hqk=",
+        "vega_pub_key": "b4316406fcbfbf8fc9f91ad7e3c9b9c271adc15f0b8493fd3cfe3fd4880d0776",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -394,7 +394,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202404261620",
+  "chain_id": "vega-devnet1-202404261715",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-26T16:20:03.437805409Z",
+  "genesis_time": "2024-04-26T17:15:52.98834494Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "5E980DFD3BD49711705E87C2C8C2049BAB70434C",
-      "name": "high-shoe",
+      "address": "9BB55329580526AFB1877A95EDFD8CA5A1401216",
+      "name": "agitated-sheep",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "2dHrpF4t9+JJWu5pwq/8FsYI1iSpgfJK/EoK7RCjpDs="
+        "value": "E6r8E6q8/YV4iXJHmKbgOCT/QuLiv8hJKzsNHsL0hqk="
       }
     }
   ]
