@@ -370,15 +370,15 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "E6r8E6q8/YV4iXJHmKbgOCT/QuLiv8hJKzsNHsL0hqk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/3nur5z4rnmwdkb2bbywwe5elyre0nnnh?d=identicon",
-        "country": "EO",
-        "ethereum_address": "0x4d3a28f6268644182fDFBF60BF0641Fa3f7A9174",
-        "id": "1ecf08b250b5a0ff5ae430f636b6db6c44785bf37526126b02d9a4b1576c2505",
-        "info_url": "https://en.wikipedia.org/wiki/Paganini_(1989_film)",
-        "name": "agitated-sheep",
-        "tm_pub_key": "E6r8E6q8/YV4iXJHmKbgOCT/QuLiv8hJKzsNHsL0hqk=",
-        "vega_pub_key": "b4316406fcbfbf8fc9f91ad7e3c9b9c271adc15f0b8493fd3cfe3fd4880d0776",
+      "DIlfvp4eaHhOX0oDsLtDsYaW3fJFc1c4jwYen3pwt/s=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ls96z4yumxoa1px124whh4d36uce4t3u?d=identicon",
+        "country": "XK",
+        "ethereum_address": "0x0336aBb69539de28C58F00729A31356F4467cc61",
+        "id": "aa324eb4ff96da8f29d0d902dddaa6e8aac6c9d546348e33700350d5d98e999c",
+        "info_url": "https://en.wikipedia.org/wiki/Lukma_Punta",
+        "name": "zippy-book",
+        "tm_pub_key": "DIlfvp4eaHhOX0oDsLtDsYaW3fJFc1c4jwYen3pwt/s=",
+        "vega_pub_key": "a256019309d7c4f2e24a14e0dae7dc852291d522a36a3e57f3305ca853326eb8",
         "vega_pub_key_index": 1
       },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
@@ -394,7 +394,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202404261715",
+  "chain_id": "vega-devnet1-202404291150",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-26T17:15:52.98834494Z",
+  "genesis_time": "2024-04-29T11:50:48.589366877Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "9BB55329580526AFB1877A95EDFD8CA5A1401216",
-      "name": "agitated-sheep",
+      "address": "D4D1E9F4C0A300D330998B1FF724B1067AF7E944",
+      "name": "zippy-book",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "E6r8E6q8/YV4iXJHmKbgOCT/QuLiv8hJKzsNHsL0hqk="
+        "value": "DIlfvp4eaHhOX0oDsLtDsYaW3fJFc1c4jwYen3pwt/s="
       }
     }
   ]
