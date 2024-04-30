@@ -370,15 +370,15 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "DIlfvp4eaHhOX0oDsLtDsYaW3fJFc1c4jwYen3pwt/s=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ls96z4yumxoa1px124whh4d36uce4t3u?d=identicon",
-        "country": "XK",
-        "ethereum_address": "0x0336aBb69539de28C58F00729A31356F4467cc61",
-        "id": "aa324eb4ff96da8f29d0d902dddaa6e8aac6c9d546348e33700350d5d98e999c",
-        "info_url": "https://en.wikipedia.org/wiki/Lukma_Punta",
-        "name": "zippy-book",
-        "tm_pub_key": "DIlfvp4eaHhOX0oDsLtDsYaW3fJFc1c4jwYen3pwt/s=",
-        "vega_pub_key": "a256019309d7c4f2e24a14e0dae7dc852291d522a36a3e57f3305ca853326eb8",
+      "GeoXKjNb9RI4Bh7EE7crG3a1p500yXaMDFWkbIK/uK4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/sj7b8f0huu0idtikibmyi6ponpbwz45o?d=identicon",
+        "country": "CG",
+        "ethereum_address": "0xb6885753e02974aAE9952267Fde176981B293854",
+        "id": "f2eb69f6bad57dff958dae149a1cbaa5e6e42877f1e9544c8d201b70b12bee44",
+        "info_url": "https://en.wikipedia.org/wiki/Holy_Trinity_Anglican_Church,_Berrima",
+        "name": "lovely-road",
+        "tm_pub_key": "GeoXKjNb9RI4Bh7EE7crG3a1p500yXaMDFWkbIK/uK4=",
+        "vega_pub_key": "fe41160a0d920c71646b7fc2ae671940d057273dd57f8d132bfd8dae49c39c13",
         "vega_pub_key_index": 1
       },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
@@ -394,7 +394,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202404291246",
+  "chain_id": "vega-devnet1-202404300950",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-29T12:46:37.220768984Z",
+  "genesis_time": "2024-04-30T09:50:43.309994564Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "D4D1E9F4C0A300D330998B1FF724B1067AF7E944",
-      "name": "zippy-book",
+      "address": "2142F3CD01F5B3D62EDAFFA248762C4956D5C38F",
+      "name": "lovely-road",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "DIlfvp4eaHhOX0oDsLtDsYaW3fJFc1c4jwYen3pwt/s="
+        "value": "GeoXKjNb9RI4Bh7EE7crG3a1p500yXaMDFWkbIK/uK4="
       }
     }
   ]
