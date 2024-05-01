@@ -370,17 +370,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "GeoXKjNb9RI4Bh7EE7crG3a1p500yXaMDFWkbIK/uK4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/sj7b8f0huu0idtikibmyi6ponpbwz45o?d=identicon",
-        "country": "CG",
-        "ethereum_address": "0xb6885753e02974aAE9952267Fde176981B293854",
-        "id": "f2eb69f6bad57dff958dae149a1cbaa5e6e42877f1e9544c8d201b70b12bee44",
-        "info_url": "https://en.wikipedia.org/wiki/Holy_Trinity_Anglican_Church,_Berrima",
-        "name": "lovely-road",
-        "tm_pub_key": "GeoXKjNb9RI4Bh7EE7crG3a1p500yXaMDFWkbIK/uK4=",
-        "vega_pub_key": "fe41160a0d920c71646b7fc2ae671940d057273dd57f8d132bfd8dae49c39c13",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -391,10 +380,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "hX0PNHYutX9KMcftDcbcY3Vus2VV8PcyHcFSdMGB3Es=": {
+        "avatar_url": "https://www.gravatar.com/avatar/urc3et7hvu8lbc9p3s2x1soifhzvppdy?d=identicon",
+        "country": "LQ",
+        "ethereum_address": "0xF88a9e9e1E29368E5E661bFbD4186de710EaBA6b",
+        "id": "2c7dc9c8e1ec71bfb5f482904f9af9d46c611537cc9853db0d219fd3d0c8dce3",
+        "info_url": "https://en.wikipedia.org/wiki/Arnannguaq_H%C3%B8egh",
+        "name": "mysterious-teacher",
+        "tm_pub_key": "hX0PNHYutX9KMcftDcbcY3Vus2VV8PcyHcFSdMGB3Es=",
+        "vega_pub_key": "34f8c96567542a93318a76245b4337dfa67920286a81c0fc856ffbe7a3c56199",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202404300950",
+  "chain_id": "vega-devnet1-202405010833",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-04-30T09:50:43.309994564Z",
+  "genesis_time": "2024-05-01T08:33:12.884098519Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "2142F3CD01F5B3D62EDAFFA248762C4956D5C38F",
-      "name": "lovely-road",
+      "address": "E67B4A36D6BF717B640AB6C0BBF836E2D0C9C8CC",
+      "name": "mysterious-teacher",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "GeoXKjNb9RI4Bh7EE7crG3a1p500yXaMDFWkbIK/uK4="
+        "value": "hX0PNHYutX9KMcftDcbcY3Vus2VV8PcyHcFSdMGB3Es="
       }
     }
   ]
