@@ -1676,14 +1676,14 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 #         randomise_history = false
 
 [scenario.incentive_btcusdt]
-    market_name = "srBitcoin / srUSD (Spot)"
+    market_name = "siBitcoin / siUSDC (Spot)"
     binance_code = "BTCUSDT"
     step_length_seconds = 20
     [scenario.incentive_btcusdt.market_manager_args]
-        asset_name = "srBTC" # BTC
-        quote_asset_name = "srUSD"
+        asset_name = "siBTC" # BTC
+        quote_asset_name = "siUSDC"
     [scenario.incentive_btcusdt.market_maker_args]
-        market_kappa = 0.9
+        market_kappa = 1.2
         market_order_arrival_rate = 600
         order_kappa = 0.15
         order_size = 1
@@ -1719,16 +1719,16 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 
         [scenario.incentive_btcsrusdt]
-    market_name = "Bitcoin Incentive (perp)"
+    market_name = "siBitcoin Incentive (perp)"
     binance_code = "BTCUSDT"
     step_length_seconds = 30
     [scenario.incentive_btcsrusdt.market_manager_args]
-        asset_name = "srUSDT"
+        asset_name = "siUSDC"
         adp = 6
         mdp = 1
         pdp = 4
     [scenario.incentive_btcsrusdt.market_maker_args]
-        market_kappa = 0.7
+        market_kappa = 1.7
         market_order_arrival_rate = 150
         order_kappa = 0.15
         order_size = 1
