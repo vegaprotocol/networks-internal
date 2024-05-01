@@ -359,6 +359,17 @@
         "vega_pub_key": "cb152821443248b20a217abee89c1c8e595e07d47c537255d480761c88bc86d1",
         "vega_pub_key_index": 1
       },
+      "9UhwBcyXefqBluUOYBY63PnJLX7w20dO1yjyEY6l4DY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/jno6obg8osisgqt6pgjm5kch3x0oi034?d=identicon",
+        "country": "WR",
+        "ethereum_address": "0xDecdc1941c55412a61F56Ac64049fcd72b8C83d3",
+        "id": "4fb540fe8a5dac28974fb5ce2c7979209456136e85a8d816ca2362725c1f83e6",
+        "info_url": "https://en.wikipedia.org/wiki/Mike_Terpstra",
+        "name": "happy-bee",
+        "tm_pub_key": "9UhwBcyXefqBluUOYBY63PnJLX7w20dO1yjyEY6l4DY=",
+        "vega_pub_key": "1134ce22e9d6edc7b13b40a44f52712411ff920058499dacd1c1ebf572c0638f",
+        "vega_pub_key_index": 1
+      },
       "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ=": {
         "avatar_url": "https://www.gravatar.com/avatar/6x0s5jsbbeeihso9yyhnh6hcop4fkxa1?d=identicon",
         "country": "ON",
@@ -380,21 +391,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "hX0PNHYutX9KMcftDcbcY3Vus2VV8PcyHcFSdMGB3Es=": {
-        "avatar_url": "https://www.gravatar.com/avatar/urc3et7hvu8lbc9p3s2x1soifhzvppdy?d=identicon",
-        "country": "LQ",
-        "ethereum_address": "0xF88a9e9e1E29368E5E661bFbD4186de710EaBA6b",
-        "id": "2c7dc9c8e1ec71bfb5f482904f9af9d46c611537cc9853db0d219fd3d0c8dce3",
-        "info_url": "https://en.wikipedia.org/wiki/Arnannguaq_H%C3%B8egh",
-        "name": "mysterious-teacher",
-        "tm_pub_key": "hX0PNHYutX9KMcftDcbcY3Vus2VV8PcyHcFSdMGB3Es=",
-        "vega_pub_key": "34f8c96567542a93318a76245b4337dfa67920286a81c0fc856ffbe7a3c56199",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202405010833",
+  "chain_id": "vega-devnet1-202405011818",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-05-01T08:33:12.884098519Z",
+  "genesis_time": "2024-05-01T18:18:56.981887038Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "E67B4A36D6BF717B640AB6C0BBF836E2D0C9C8CC",
-      "name": "mysterious-teacher",
+      "address": "1BE2AE7F98966F1D820B294CF802E443EBBBE8D1",
+      "name": "happy-bee",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "hX0PNHYutX9KMcftDcbcY3Vus2VV8PcyHcFSdMGB3Es="
+        "value": "9UhwBcyXefqBluUOYBY63PnJLX7w20dO1yjyEY6l4DY="
       }
     }
   ]
