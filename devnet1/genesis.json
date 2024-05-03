@@ -337,6 +337,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "+Wo380t/pspLsqR45xfAsg7X4ToPTxTROrFPo3ixZPU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/5bw9d0knk550rndle62fgh34ohj3bged?d=identicon",
+        "country": "VC",
+        "ethereum_address": "0xcbC717C69B9b0D5f948177Cc84dE201006C83938",
+        "id": "ccae48b437bdc39a91b1155be6bdb60f9f2b7f203d95eccf40180d185dc7243a",
+        "info_url": "https://en.wikipedia.org/wiki/Volosovskaya",
+        "name": "condescending-movie",
+        "tm_pub_key": "+Wo380t/pspLsqR45xfAsg7X4ToPTxTROrFPo3ixZPU=",
+        "vega_pub_key": "6c860ed1fbaaf03600cd6c8b9c6bd35d13e05abe2c9c8f234cb58077d4ddaac8",
+        "vega_pub_key_index": 1
+      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -357,17 +368,6 @@
         "name": "crashing-wall",
         "tm_pub_key": "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=",
         "vega_pub_key": "cb152821443248b20a217abee89c1c8e595e07d47c537255d480761c88bc86d1",
-        "vega_pub_key_index": 1
-      },
-      "9UhwBcyXefqBluUOYBY63PnJLX7w20dO1yjyEY6l4DY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/jno6obg8osisgqt6pgjm5kch3x0oi034?d=identicon",
-        "country": "WR",
-        "ethereum_address": "0xDecdc1941c55412a61F56Ac64049fcd72b8C83d3",
-        "id": "4fb540fe8a5dac28974fb5ce2c7979209456136e85a8d816ca2362725c1f83e6",
-        "info_url": "https://en.wikipedia.org/wiki/Mike_Terpstra",
-        "name": "happy-bee",
-        "tm_pub_key": "9UhwBcyXefqBluUOYBY63PnJLX7w20dO1yjyEY6l4DY=",
-        "vega_pub_key": "1134ce22e9d6edc7b13b40a44f52712411ff920058499dacd1c1ebf572c0638f",
         "vega_pub_key_index": 1
       },
       "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ=": {
@@ -394,7 +394,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202405011818",
+  "chain_id": "vega-devnet1-202405031411",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-05-01T18:18:56.981887038Z",
+  "genesis_time": "2024-05-03T14:11:12.777515882Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "1BE2AE7F98966F1D820B294CF802E443EBBBE8D1",
-      "name": "happy-bee",
+      "address": "E49C963D564852B543F7DD5C0453C49B6534A5F4",
+      "name": "condescending-movie",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "9UhwBcyXefqBluUOYBY63PnJLX7w20dO1yjyEY6l4DY="
+        "value": "+Wo380t/pspLsqR45xfAsg7X4ToPTxTROrFPo3ixZPU="
       }
     }
   ]
