@@ -370,6 +370,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "CNEO9ZTBsk8C/Y9LfiTKcqzipELJwpvhoy1yg6mafjA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/rwqottpd9qtu7l7kymjdv71f21j6h7rh?d=identicon",
+        "country": "ZD",
+        "ethereum_address": "0x15c6C3c144F0b1032b15D006882773524aD17CbC",
+        "id": "431910eff2088c190f361ecc061c41145cc9f35a1e58c56af979136f82edc765",
+        "info_url": "https://en.wikipedia.org/wiki/Morgan_Hentz",
+        "name": "mango-clouds",
+        "tm_pub_key": "CNEO9ZTBsk8C/Y9LfiTKcqzipELJwpvhoy1yg6mafjA=",
+        "vega_pub_key": "8fc9287fc5de79a6bc712fbe73b698ec958e70391733026752ddb9af17e63695",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -380,21 +391,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "aIZa0wXhB/FKH8Hvm+UJYhZnbBV/itNq0lMWqjojjgs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ep1b0z4l5q5yk2l8inpgghugn7mkmon1?d=identicon",
-        "country": "IB",
-        "ethereum_address": "0x31f04E5e645F4774414Cbcaefb6dB18438fFA8Dd",
-        "id": "09e9d65039cceca3a66f93dc62f2f54ba2b7c864c62782c334cf44c2930097e8",
-        "info_url": "https://en.wikipedia.org/wiki/Nowe_Karcze",
-        "name": "careful-cat",
-        "tm_pub_key": "aIZa0wXhB/FKH8Hvm+UJYhZnbBV/itNq0lMWqjojjgs=",
-        "vega_pub_key": "2d71318184442dcd41638a75d7de25a46d89e293f68d10fdfd92a258b87dc20b",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202405031508",
+  "chain_id": "vega-devnet1-202405031622",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-05-03T15:08:29.109634024Z",
+  "genesis_time": "2024-05-03T16:22:43.013566104Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "46F7F06521532FDDC15F6EAED12B327E5EDC1B3C",
-      "name": "careful-cat",
+      "address": "1D13BB2034BC94FD05FD0AB3AF236E7D08C429D4",
+      "name": "mango-clouds",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "aIZa0wXhB/FKH8Hvm+UJYhZnbBV/itNq0lMWqjojjgs="
+        "value": "CNEO9ZTBsk8C/Y9LfiTKcqzipELJwpvhoy1yg6mafjA="
       }
     }
   ]
