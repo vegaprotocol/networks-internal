@@ -337,17 +337,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "+Wo380t/pspLsqR45xfAsg7X4ToPTxTROrFPo3ixZPU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/5bw9d0knk550rndle62fgh34ohj3bged?d=identicon",
-        "country": "VC",
-        "ethereum_address": "0xcbC717C69B9b0D5f948177Cc84dE201006C83938",
-        "id": "ccae48b437bdc39a91b1155be6bdb60f9f2b7f203d95eccf40180d185dc7243a",
-        "info_url": "https://en.wikipedia.org/wiki/Volosovskaya",
-        "name": "condescending-movie",
-        "tm_pub_key": "+Wo380t/pspLsqR45xfAsg7X4ToPTxTROrFPo3ixZPU=",
-        "vega_pub_key": "6c860ed1fbaaf03600cd6c8b9c6bd35d13e05abe2c9c8f234cb58077d4ddaac8",
-        "vega_pub_key_index": 1
-      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -391,10 +380,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "aIZa0wXhB/FKH8Hvm+UJYhZnbBV/itNq0lMWqjojjgs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ep1b0z4l5q5yk2l8inpgghugn7mkmon1?d=identicon",
+        "country": "IB",
+        "ethereum_address": "0x31f04E5e645F4774414Cbcaefb6dB18438fFA8Dd",
+        "id": "09e9d65039cceca3a66f93dc62f2f54ba2b7c864c62782c334cf44c2930097e8",
+        "info_url": "https://en.wikipedia.org/wiki/Nowe_Karcze",
+        "name": "careful-cat",
+        "tm_pub_key": "aIZa0wXhB/FKH8Hvm+UJYhZnbBV/itNq0lMWqjojjgs=",
+        "vega_pub_key": "2d71318184442dcd41638a75d7de25a46d89e293f68d10fdfd92a258b87dc20b",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202405031411",
+  "chain_id": "vega-devnet1-202405031508",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-05-03T14:11:12.777515882Z",
+  "genesis_time": "2024-05-03T15:08:29.109634024Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "E49C963D564852B543F7DD5C0453C49B6534A5F4",
-      "name": "condescending-movie",
+      "address": "46F7F06521532FDDC15F6EAED12B327E5EDC1B3C",
+      "name": "careful-cat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "+Wo380t/pspLsqR45xfAsg7X4ToPTxTROrFPo3ixZPU="
+        "value": "aIZa0wXhB/FKH8Hvm+UJYhZnbBV/itNq0lMWqjojjgs="
       }
     }
   ]
