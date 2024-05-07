@@ -348,6 +348,17 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
+      "7WkWG1dWcbRbodbfrBWMqxaHyqmmfAcWLpWhKKljB/Q=": {
+        "avatar_url": "https://www.gravatar.com/avatar/orwnjrvb0z1ozdyhg97tcyjmzap8y1td?d=identicon",
+        "country": "EJ",
+        "ethereum_address": "0xC4a6CAcBEfd935A4003b44EafF35f8f3bF245fdb",
+        "id": "2e310101438961821859bbcb45f5e32ee4b6b0bfc6e07ccdff9a69456a67c637",
+        "info_url": "https://en.wikipedia.org/wiki/B._Roger_Wales",
+        "name": "vast-pond",
+        "tm_pub_key": "7WkWG1dWcbRbodbfrBWMqxaHyqmmfAcWLpWhKKljB/Q=",
+        "vega_pub_key": "5377a4bfdc0687a175fdb4592b913df68daf0bfd939b6781d2769d82140a7d72",
+        "vega_pub_key_index": 1
+      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -370,17 +381,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "CNEO9ZTBsk8C/Y9LfiTKcqzipELJwpvhoy1yg6mafjA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/rwqottpd9qtu7l7kymjdv71f21j6h7rh?d=identicon",
-        "country": "ZD",
-        "ethereum_address": "0x15c6C3c144F0b1032b15D006882773524aD17CbC",
-        "id": "431910eff2088c190f361ecc061c41145cc9f35a1e58c56af979136f82edc765",
-        "info_url": "https://en.wikipedia.org/wiki/Morgan_Hentz",
-        "name": "mango-clouds",
-        "tm_pub_key": "CNEO9ZTBsk8C/Y9LfiTKcqzipELJwpvhoy1yg6mafjA=",
-        "vega_pub_key": "8fc9287fc5de79a6bc712fbe73b698ec958e70391733026752ddb9af17e63695",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -394,7 +394,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202405031622",
+  "chain_id": "vega-devnet1-202405071019",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-05-03T16:22:43.013566104Z",
+  "genesis_time": "2024-05-07T10:19:20.915817084Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "1D13BB2034BC94FD05FD0AB3AF236E7D08C429D4",
-      "name": "mango-clouds",
+      "address": "FA091300835B4A6BDDA79FBD71182FC18D4D33C3",
+      "name": "vast-pond",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "CNEO9ZTBsk8C/Y9LfiTKcqzipELJwpvhoy1yg6mafjA="
+        "value": "7WkWG1dWcbRbodbfrBWMqxaHyqmmfAcWLpWhKKljB/Q="
       }
     }
   ]
