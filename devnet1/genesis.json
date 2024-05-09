@@ -370,6 +370,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "C9vCOWyYZBJI/bfn07PhPwe4ZfVW1XUwhvDpJeBrEkg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/3n99193matb1zr770vklyahxzjxx2vhu?d=identicon",
+        "country": "IB",
+        "ethereum_address": "0xa6df08D20464e395dD27B6b4fA3bC7ADe15c0D69",
+        "id": "48a866c7647151d025b9d02ee5fd9533f46350ea427adf3ee6e9a3acb35f9015",
+        "info_url": "https://en.wikipedia.org/wiki/Xanthidium",
+        "name": "hollow-party",
+        "tm_pub_key": "C9vCOWyYZBJI/bfn07PhPwe4ZfVW1XUwhvDpJeBrEkg=",
+        "vega_pub_key": "5844bd8f0e76ed13f988992f9a4ba4839d5cdbb4750be3a8a2b0c49eb35029ee",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -380,21 +391,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "oIbJbAVwKk+SKV6bay+7DozZC1h/ARpdlpxf/7zhocc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/wukyypxp67gunguvntfvn1un6r6i2q3q?d=identicon",
-        "country": "OP",
-        "ethereum_address": "0x92F4351081113C2B4b369E6DC7d7DE3Ea13ffF04",
-        "id": "101ba579af54c604ecd015f3798fd4b893149f495f0e2fb404c70450be123b6d",
-        "info_url": "https://en.wikipedia.org/wiki/Wilfrido_Vinces",
-        "name": "cooperative-barber",
-        "tm_pub_key": "oIbJbAVwKk+SKV6bay+7DozZC1h/ARpdlpxf/7zhocc=",
-        "vega_pub_key": "7d70beb6bf9bff0e643ed4d41c5a845420061f63b5be9abd7e09d2fb15989da1",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202405091215",
+  "chain_id": "vega-devnet1-202405091316",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-05-09T12:15:36.170450835Z",
+  "genesis_time": "2024-05-09T13:16:35.219762261Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "E2D56D87C0F8AA5BE41B2F3DA9BA9F873B7D4CA6",
-      "name": "cooperative-barber",
+      "address": "CA3B90D34917F103D0911F1C6A7D2D26B4C1B428",
+      "name": "hollow-party",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "oIbJbAVwKk+SKV6bay+7DozZC1h/ARpdlpxf/7zhocc="
+        "value": "C9vCOWyYZBJI/bfn07PhPwe4ZfVW1XUwhvDpJeBrEkg="
       }
     }
   ]
