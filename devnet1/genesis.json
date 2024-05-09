@@ -348,17 +348,6 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
-      "7WkWG1dWcbRbodbfrBWMqxaHyqmmfAcWLpWhKKljB/Q=": {
-        "avatar_url": "https://www.gravatar.com/avatar/orwnjrvb0z1ozdyhg97tcyjmzap8y1td?d=identicon",
-        "country": "EJ",
-        "ethereum_address": "0xC4a6CAcBEfd935A4003b44EafF35f8f3bF245fdb",
-        "id": "2e310101438961821859bbcb45f5e32ee4b6b0bfc6e07ccdff9a69456a67c637",
-        "info_url": "https://en.wikipedia.org/wiki/B._Roger_Wales",
-        "name": "vast-pond",
-        "tm_pub_key": "7WkWG1dWcbRbodbfrBWMqxaHyqmmfAcWLpWhKKljB/Q=",
-        "vega_pub_key": "5377a4bfdc0687a175fdb4592b913df68daf0bfd939b6781d2769d82140a7d72",
-        "vega_pub_key_index": 1
-      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -381,6 +370,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "DB4FHtmIIns1Z5xXR2zgu7m4LPTogch+h7uU3Nfpwqw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/2spamjrqmd7srbncwkchvuakxb0ggqe7?d=identicon",
+        "country": "TX",
+        "ethereum_address": "0x4B3580fE1a898C98Ebc904BDf38eF9C97749B1AF",
+        "id": "ed363caa318c6b47fc3eaa27ac6c84f7e022d258bbbfbf21581012e8c797bd79",
+        "info_url": "https://en.wikipedia.org/wiki/Lee_Yue-shun",
+        "name": "odd-school",
+        "tm_pub_key": "DB4FHtmIIns1Z5xXR2zgu7m4LPTogch+h7uU3Nfpwqw=",
+        "vega_pub_key": "f071b1209d1a02e30f16a564a29c81256b3d2a21b8945806cf8f325d247e33a6",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -394,7 +394,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202405071019",
+  "chain_id": "vega-devnet1-202405091041",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-05-07T10:19:20.915817084Z",
+  "genesis_time": "2024-05-09T10:41:42.291998782Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "FA091300835B4A6BDDA79FBD71182FC18D4D33C3",
-      "name": "vast-pond",
+      "address": "4CB880007F72A8786F0D2DF3EC41550832A1D3F3",
+      "name": "odd-school",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "7WkWG1dWcbRbodbfrBWMqxaHyqmmfAcWLpWhKKljB/Q="
+        "value": "DB4FHtmIIns1Z5xXR2zgu7m4LPTogch+h7uU3Nfpwqw="
       }
     }
   ]
