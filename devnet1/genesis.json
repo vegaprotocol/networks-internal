@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "f6c2mtoqBn9YSILCWjc9UVUXf8ASjMv3OAWCQxmuf34=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ky2j1tc6i6zk2i6vj4satx3ceojhj62e?d=identicon",
-        "country": "SX",
-        "ethereum_address": "0x1F0047d332ceEE41bFbb84c64BE7F5F97397a293",
-        "id": "8dfad3609ac54a5f69f6b72e3109fe5567891959cf8abb07cb5e1352dcd10085",
-        "info_url": "https://en.wikipedia.org/wiki/Results_of_the_1962_Western_Australian_state_election_(Legislative_Assembly)",
-        "name": "inexpensive-mango",
-        "tm_pub_key": "f6c2mtoqBn9YSILCWjc9UVUXf8ASjMv3OAWCQxmuf34=",
-        "vega_pub_key": "743abc89f9c047090274a5870787531eebe0b6a7575e30c4a1b27ec3e5ba0d35",
+      "rTnDxL3JL89ncceb1FGKo+PR+5V6apOcY/MUFZw1Z5E=": {
+        "avatar_url": "https://www.gravatar.com/avatar/7hfwdrmr7xq7men4xkbtc1g7i91uadie?d=identicon",
+        "country": "WW",
+        "ethereum_address": "0xB195D22131E9e08fD52167f55DE56Ca3735F8049",
+        "id": "9896deef4f4ee5b7e00bb8161b3fc7293b17a7a8ed80af54d9c78aba38d64d63",
+        "info_url": "https://en.wikipedia.org/wiki/Cupra_(marque)",
+        "name": "quiet-clouds",
+        "tm_pub_key": "rTnDxL3JL89ncceb1FGKo+PR+5V6apOcY/MUFZw1Z5E=",
+        "vega_pub_key": "6caefd5c5be3079b3256bbe76405e9865132799951791c9c847bfbd202bcdece",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202405091558",
+  "chain_id": "vega-devnet1-202405091703",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-05-09T15:58:28.448107299Z",
+  "genesis_time": "2024-05-09T17:03:15.232585103Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "C34394A77634B8513AD311B643F1B520D011BCEF",
-      "name": "inexpensive-mango",
+      "address": "B1E3A19E36AA576D8BDEA6B002B94759501ECF7D",
+      "name": "quiet-clouds",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "f6c2mtoqBn9YSILCWjc9UVUXf8ASjMv3OAWCQxmuf34="
+        "value": "rTnDxL3JL89ncceb1FGKo+PR+5V6apOcY/MUFZw1Z5E="
       }
     }
   ]
