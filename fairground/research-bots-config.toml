@@ -1683,7 +1683,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         asset_name = "siBTC" # BTC
         quote_asset_name = "siUSDC"
     [scenario.incentive_btcusdt.market_maker_args]
-        market_kappa = 1.2
+        market_kappa = 2.9
         market_order_arrival_rate = 600
         order_kappa = 0.15
         order_size = 1
@@ -1728,7 +1728,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         mdp = 1
         pdp = 4
     [scenario.incentive_btcsrusdt.market_maker_args]
-        market_kappa = 1.7
+        market_kappa = 2.7
         market_order_arrival_rate = 150
         order_kappa = 0.15
         order_size = 1
