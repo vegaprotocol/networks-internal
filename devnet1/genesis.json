@@ -348,6 +348,17 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
+      "5WPC84ihnB27YugOsR9EGFcFqjMRoJiDRzfXjM2jUAA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/bpaa6wmb0kpv3dgv8npo17qobwdpb8h7?d=identicon",
+        "country": "UR",
+        "ethereum_address": "0xe5d284B6A0fEf4407958e6d7F670BA3f00D5e358",
+        "id": "9461716072f67f6fa310e7285cf07a98c26e45c0fd2148b3c700cf757dbaa8eb",
+        "info_url": "https://en.wikipedia.org/wiki/Doren",
+        "name": "short-tree",
+        "tm_pub_key": "5WPC84ihnB27YugOsR9EGFcFqjMRoJiDRzfXjM2jUAA=",
+        "vega_pub_key": "f29c47ea1fdbffd590ed744609f667386509653ab9c7f3c13ca99e247a584945",
+        "vega_pub_key_index": 1
+      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -380,21 +391,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "rTnDxL3JL89ncceb1FGKo+PR+5V6apOcY/MUFZw1Z5E=": {
-        "avatar_url": "https://www.gravatar.com/avatar/7hfwdrmr7xq7men4xkbtc1g7i91uadie?d=identicon",
-        "country": "WW",
-        "ethereum_address": "0xB195D22131E9e08fD52167f55DE56Ca3735F8049",
-        "id": "9896deef4f4ee5b7e00bb8161b3fc7293b17a7a8ed80af54d9c78aba38d64d63",
-        "info_url": "https://en.wikipedia.org/wiki/Cupra_(marque)",
-        "name": "quiet-clouds",
-        "tm_pub_key": "rTnDxL3JL89ncceb1FGKo+PR+5V6apOcY/MUFZw1Z5E=",
-        "vega_pub_key": "6caefd5c5be3079b3256bbe76405e9865132799951791c9c847bfbd202bcdece",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202405091703",
+  "chain_id": "vega-devnet1-202405101433",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-05-09T17:03:15.232585103Z",
+  "genesis_time": "2024-05-10T14:33:46.219799075Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "B1E3A19E36AA576D8BDEA6B002B94759501ECF7D",
-      "name": "quiet-clouds",
+      "address": "E8AF8F379DEA5ABE0597CB21C5526CCD3167DD5C",
+      "name": "short-tree",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "rTnDxL3JL89ncceb1FGKo+PR+5V6apOcY/MUFZw1Z5E="
+        "value": "5WPC84ihnB27YugOsR9EGFcFqjMRoJiDRzfXjM2jUAA="
       }
     }
   ]
