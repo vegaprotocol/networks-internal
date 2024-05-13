@@ -348,17 +348,6 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
-      "5WPC84ihnB27YugOsR9EGFcFqjMRoJiDRzfXjM2jUAA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/bpaa6wmb0kpv3dgv8npo17qobwdpb8h7?d=identicon",
-        "country": "UR",
-        "ethereum_address": "0xe5d284B6A0fEf4407958e6d7F670BA3f00D5e358",
-        "id": "9461716072f67f6fa310e7285cf07a98c26e45c0fd2148b3c700cf757dbaa8eb",
-        "info_url": "https://en.wikipedia.org/wiki/Doren",
-        "name": "short-tree",
-        "tm_pub_key": "5WPC84ihnB27YugOsR9EGFcFqjMRoJiDRzfXjM2jUAA=",
-        "vega_pub_key": "f29c47ea1fdbffd590ed744609f667386509653ab9c7f3c13ca99e247a584945",
-        "vega_pub_key_index": 1
-      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -391,10 +380,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "YT4mKq4yE+sCg1QDICSjqGOFMeKjpEtX7cp8Zd57Sxw=": {
+        "avatar_url": "https://www.gravatar.com/avatar/e9z9oj22sg6clhs3vrv0oizyuwqlyuct?d=identicon",
+        "country": "OT",
+        "ethereum_address": "0x002A654a53514DaE9733B94c99030b554a9448bE",
+        "id": "926c4781a76527c13ad7b9ce0fe5731326c50e0fb3a1e11fcffe96113ec8c1e1",
+        "info_url": "https://en.wikipedia.org/wiki/Catherine_Lalumi%C3%A8re",
+        "name": "thundering-bird",
+        "tm_pub_key": "YT4mKq4yE+sCg1QDICSjqGOFMeKjpEtX7cp8Zd57Sxw=",
+        "vega_pub_key": "c16ad9456374042cd375ad9d3604334c53e7d9c12f505ed3571f816878ed7c9e",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202405101433",
+  "chain_id": "vega-devnet1-202405131631",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-05-10T14:33:46.219799075Z",
+  "genesis_time": "2024-05-13T16:31:20.939315993Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "E8AF8F379DEA5ABE0597CB21C5526CCD3167DD5C",
-      "name": "short-tree",
+      "address": "3B6DC4F0475F442EBA0BDF690DE6603250ADAD24",
+      "name": "thundering-bird",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "5WPC84ihnB27YugOsR9EGFcFqjMRoJiDRzfXjM2jUAA="
+        "value": "YT4mKq4yE+sCg1QDICSjqGOFMeKjpEtX7cp8Zd57Sxw="
       }
     }
   ]
