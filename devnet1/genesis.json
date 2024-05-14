@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "wSpvC7aUaPB6ArblPg+en8CdFdrNU7BQFDxv59KiQhc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/nt6lby8vrhew5kr5s95ww37qn221zt39?d=identicon",
-        "country": "WR",
-        "ethereum_address": "0xc7F7d71BBBA56235359CFA898595279fBE1FB03d",
-        "id": "a6b29f6b7ef4f0670248544b8a7dd3b31aec247a4ae6c34976fa8710fe936616",
-        "info_url": "https://en.wikipedia.org/wiki/Coat_of_arms_of_the_Czech_Republic",
-        "name": "skinny-policeman",
-        "tm_pub_key": "wSpvC7aUaPB6ArblPg+en8CdFdrNU7BQFDxv59KiQhc=",
-        "vega_pub_key": "7c086ae3c9bfc4b71783c164e7109ce7046d8f6ff14633951fd5052b15f8c2cb",
+      "zPsdxxrQY3LZrm70jEXGCvVE2PJD3Y6sEpisB7utYVk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/9cpziq7kx9e59tnir8nald3uc8x56rpb?d=identicon",
+        "country": "TV",
+        "ethereum_address": "0x1F17a4E2BE56D0C82070c87737eB7bb711774853",
+        "id": "e3801aa29bf5d0c2f5824180c89bd66d4ec3e50c2a5a1e7ff2d2ebf9a0672c8b",
+        "info_url": "https://en.wikipedia.org/wiki/Jacob_O._Meyer",
+        "name": "narrow-pen",
+        "tm_pub_key": "zPsdxxrQY3LZrm70jEXGCvVE2PJD3Y6sEpisB7utYVk=",
+        "vega_pub_key": "73b1dbcb720faefe675848fd9e9dd279687bac72c77baf7ef8ea46aff25a941a",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202405141233",
+  "chain_id": "vega-devnet1-202405141335",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-05-14T12:33:40.189347049Z",
+  "genesis_time": "2024-05-14T13:35:49.974689358Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "779E21AA2F20BEA795D1A8F1275AD74295C2B300",
-      "name": "skinny-policeman",
+      "address": "F79368B31239C68B285A68DB052EA47010A4009E",
+      "name": "narrow-pen",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "wSpvC7aUaPB6ArblPg+en8CdFdrNU7BQFDxv59KiQhc="
+        "value": "zPsdxxrQY3LZrm70jEXGCvVE2PJD3Y6sEpisB7utYVk="
       }
     }
   ]
