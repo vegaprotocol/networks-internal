@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "YT4mKq4yE+sCg1QDICSjqGOFMeKjpEtX7cp8Zd57Sxw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/e9z9oj22sg6clhs3vrv0oizyuwqlyuct?d=identicon",
-        "country": "OT",
-        "ethereum_address": "0x002A654a53514DaE9733B94c99030b554a9448bE",
-        "id": "926c4781a76527c13ad7b9ce0fe5731326c50e0fb3a1e11fcffe96113ec8c1e1",
-        "info_url": "https://en.wikipedia.org/wiki/Catherine_Lalumi%C3%A8re",
-        "name": "thundering-bird",
-        "tm_pub_key": "YT4mKq4yE+sCg1QDICSjqGOFMeKjpEtX7cp8Zd57Sxw=",
-        "vega_pub_key": "c16ad9456374042cd375ad9d3604334c53e7d9c12f505ed3571f816878ed7c9e",
+      "wSpvC7aUaPB6ArblPg+en8CdFdrNU7BQFDxv59KiQhc=": {
+        "avatar_url": "https://www.gravatar.com/avatar/nt6lby8vrhew5kr5s95ww37qn221zt39?d=identicon",
+        "country": "WR",
+        "ethereum_address": "0xc7F7d71BBBA56235359CFA898595279fBE1FB03d",
+        "id": "a6b29f6b7ef4f0670248544b8a7dd3b31aec247a4ae6c34976fa8710fe936616",
+        "info_url": "https://en.wikipedia.org/wiki/Coat_of_arms_of_the_Czech_Republic",
+        "name": "skinny-policeman",
+        "tm_pub_key": "wSpvC7aUaPB6ArblPg+en8CdFdrNU7BQFDxv59KiQhc=",
+        "vega_pub_key": "7c086ae3c9bfc4b71783c164e7109ce7046d8f6ff14633951fd5052b15f8c2cb",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202405131631",
+  "chain_id": "vega-devnet1-202405141233",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-05-13T16:31:20.939315993Z",
+  "genesis_time": "2024-05-14T12:33:40.189347049Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "3B6DC4F0475F442EBA0BDF690DE6603250ADAD24",
-      "name": "thundering-bird",
+      "address": "779E21AA2F20BEA795D1A8F1275AD74295C2B300",
+      "name": "skinny-policeman",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "YT4mKq4yE+sCg1QDICSjqGOFMeKjpEtX7cp8Zd57Sxw="
+        "value": "wSpvC7aUaPB6ArblPg+en8CdFdrNU7BQFDxv59KiQhc="
       }
     }
   ]
