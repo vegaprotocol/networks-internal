@@ -337,6 +337,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "2zEGUWEzzeYI2nFctYNKaQjLzT8ipSjmFLWJ5j4J4uI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ami18yt40hsst0xuwukin9u3wbjtb5qm?d=identicon",
+        "country": "ZV",
+        "ethereum_address": "0x99Cd89525CC9c09E4180bd8a38Dc195F2a748f47",
+        "id": "93ee848ce253b10d417400eb82d29be83b96750dbedbe0b194562b42fff3dac4",
+        "info_url": "https://en.wikipedia.org/wiki/Genicanthus_takeuchii",
+        "name": "powerful-honey",
+        "tm_pub_key": "2zEGUWEzzeYI2nFctYNKaQjLzT8ipSjmFLWJ5j4J4uI=",
+        "vega_pub_key": "e259b10c04cbe0c61592c709cacfe6e625259aab4d723355f0a32b3cb03a238c",
+        "vega_pub_key_index": 1
+      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -380,21 +391,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "gdF731Wc0ibtpUK/60P1uozJz2UWLvJuKjxIi/lOEOc=": {
-        "avatar_url": "https://www.gravatar.com/avatar/1tma71z2yyz9m14m00x89no78d29idfn?d=identicon",
-        "country": "GM",
-        "ethereum_address": "0xA5600888299aFB0409700901280439812D2BB255",
-        "id": "6d68969be5cf8aea2b56c08be4efede67380aeb8a5bc33595a3fb3b5f4683863",
-        "info_url": "https://en.wikipedia.org/wiki/Yasuha",
-        "name": "zippy-duck",
-        "tm_pub_key": "gdF731Wc0ibtpUK/60P1uozJz2UWLvJuKjxIi/lOEOc=",
-        "vega_pub_key": "8ca88cc09d958f14e6dac2773eabec94c5ae6621b961746b1446836dfbb903c6",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202405151000",
+  "chain_id": "vega-devnet1-202405151105",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-05-15T10:00:02.157183031Z",
+  "genesis_time": "2024-05-15T11:05:15.82328256Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "8A013564C9F217EA0510E870FBED58A3AA005C33",
-      "name": "zippy-duck",
+      "address": "E11A9F984990F034CBD6826B328DA840EFCF1800",
+      "name": "powerful-honey",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "gdF731Wc0ibtpUK/60P1uozJz2UWLvJuKjxIi/lOEOc="
+        "value": "2zEGUWEzzeYI2nFctYNKaQjLzT8ipSjmFLWJ5j4J4uI="
       }
     }
   ]
