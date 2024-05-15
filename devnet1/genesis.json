@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "zPsdxxrQY3LZrm70jEXGCvVE2PJD3Y6sEpisB7utYVk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/9cpziq7kx9e59tnir8nald3uc8x56rpb?d=identicon",
-        "country": "TV",
-        "ethereum_address": "0x1F17a4E2BE56D0C82070c87737eB7bb711774853",
-        "id": "e3801aa29bf5d0c2f5824180c89bd66d4ec3e50c2a5a1e7ff2d2ebf9a0672c8b",
-        "info_url": "https://en.wikipedia.org/wiki/Jacob_O._Meyer",
-        "name": "narrow-pen",
-        "tm_pub_key": "zPsdxxrQY3LZrm70jEXGCvVE2PJD3Y6sEpisB7utYVk=",
-        "vega_pub_key": "73b1dbcb720faefe675848fd9e9dd279687bac72c77baf7ef8ea46aff25a941a",
+      "Q8JGyLXzeHLa6bQazlyojSG7pCORICaeF4Pe4mNYPXU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/fn5pb76x2uze0enw9r0ow5j2wswqrpxj?d=identicon",
+        "country": "YP",
+        "ethereum_address": "0x80d7540A92eC1885ea004704e79f088C5aF7E87d",
+        "id": "ff25da52376bdb59f3324a7addb5eded160d5b40f97cb0a6492388512bcee4cb",
+        "info_url": "https://en.wikipedia.org/wiki/Runaway_breakdown",
+        "name": "red-road",
+        "tm_pub_key": "Q8JGyLXzeHLa6bQazlyojSG7pCORICaeF4Pe4mNYPXU=",
+        "vega_pub_key": "dcae8160775533548a87365b758bf67ca2d5e42983fdf58e8ec08dbd9c5b35e8",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202405141755",
+  "chain_id": "vega-devnet1-202405150649",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-05-14T17:55:35.699759488Z",
+  "genesis_time": "2024-05-15T06:49:24.214119089Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "F79368B31239C68B285A68DB052EA47010A4009E",
-      "name": "narrow-pen",
+      "address": "BC9AD25E649162C634BA7E8CE2D6AB15FEADC873",
+      "name": "red-road",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "zPsdxxrQY3LZrm70jEXGCvVE2PJD3Y6sEpisB7utYVk="
+        "value": "Q8JGyLXzeHLa6bQazlyojSG7pCORICaeF4Pe4mNYPXU="
       }
     }
   ]
