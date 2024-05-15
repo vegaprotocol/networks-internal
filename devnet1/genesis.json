@@ -370,17 +370,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "GecRbPyeeVQEEOSl6m+SrRkoTl8n5O0HVYWYzTz8T0Y=": {
-        "avatar_url": "https://www.gravatar.com/avatar/7aq46pb894o02vfxigq67dgz8swe0was?d=identicon",
-        "country": "QX",
-        "ethereum_address": "0xe4Aa9DFCeFe00b10b3F228f3B773A7ba9a573deF",
-        "id": "dbe1ab607129d600f19a673b3ca6f01a372b63750619ddd067c8eebb5f9306e5",
-        "info_url": "https://en.wikipedia.org/wiki/2000_Alpine_Skiing_World_Cup_%E2%80%93_Men%27s_downhill",
-        "name": "unsightly-policeman",
-        "tm_pub_key": "GecRbPyeeVQEEOSl6m+SrRkoTl8n5O0HVYWYzTz8T0Y=",
-        "vega_pub_key": "5fcdfbc16cff8e4a53ec38d79b97f78da564fc946d886cc699de3db843127118",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -391,10 +380,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "knXEAuOtjEYoEhdIOZMoiC5iYaicmIwIKeTjzvEs2y8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ck07btkli9zmj6qsv9nma3kfn8l7mlbh?d=identicon",
+        "country": "SZ",
+        "ethereum_address": "0x36596CC7eD3E29D8f6b6093AA3A2447DE13F59a2",
+        "id": "e13524509009b7be97f61de854ccdb5b26f0ec5bc885ab1f5ab35a8e2d59a87a",
+        "info_url": "https://en.wikipedia.org/wiki/Agave_%C3%97_arizonica",
+        "name": "loud-party",
+        "tm_pub_key": "knXEAuOtjEYoEhdIOZMoiC5iYaicmIwIKeTjzvEs2y8=",
+        "vega_pub_key": "715bba44e1f9ec53ec7108a6037a7f997eafa1354c670f5e84255778aaa6fc87",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202405151317",
+  "chain_id": "vega-devnet1-202405151854",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-05-15T13:17:50.877397132Z",
+  "genesis_time": "2024-05-15T18:54:34.839479421Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "FB73A92EC6BB365519C96CE59B8A5DB33FEEFDC5",
-      "name": "unsightly-policeman",
+      "address": "E7ACDD8D607D63044BDFCDD5849FBDB0911411DE",
+      "name": "loud-party",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "GecRbPyeeVQEEOSl6m+SrRkoTl8n5O0HVYWYzTz8T0Y="
+        "value": "knXEAuOtjEYoEhdIOZMoiC5iYaicmIwIKeTjzvEs2y8="
       }
     }
   ]
