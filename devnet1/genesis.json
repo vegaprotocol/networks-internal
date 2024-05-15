@@ -337,17 +337,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "2zEGUWEzzeYI2nFctYNKaQjLzT8ipSjmFLWJ5j4J4uI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ami18yt40hsst0xuwukin9u3wbjtb5qm?d=identicon",
-        "country": "ZV",
-        "ethereum_address": "0x99Cd89525CC9c09E4180bd8a38Dc195F2a748f47",
-        "id": "93ee848ce253b10d417400eb82d29be83b96750dbedbe0b194562b42fff3dac4",
-        "info_url": "https://en.wikipedia.org/wiki/Genicanthus_takeuchii",
-        "name": "powerful-honey",
-        "tm_pub_key": "2zEGUWEzzeYI2nFctYNKaQjLzT8ipSjmFLWJ5j4J4uI=",
-        "vega_pub_key": "e259b10c04cbe0c61592c709cacfe6e625259aab4d723355f0a32b3cb03a238c",
-        "vega_pub_key_index": 1
-      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -381,6 +370,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "GecRbPyeeVQEEOSl6m+SrRkoTl8n5O0HVYWYzTz8T0Y=": {
+        "avatar_url": "https://www.gravatar.com/avatar/7aq46pb894o02vfxigq67dgz8swe0was?d=identicon",
+        "country": "QX",
+        "ethereum_address": "0xe4Aa9DFCeFe00b10b3F228f3B773A7ba9a573deF",
+        "id": "dbe1ab607129d600f19a673b3ca6f01a372b63750619ddd067c8eebb5f9306e5",
+        "info_url": "https://en.wikipedia.org/wiki/2000_Alpine_Skiing_World_Cup_%E2%80%93_Men%27s_downhill",
+        "name": "unsightly-policeman",
+        "tm_pub_key": "GecRbPyeeVQEEOSl6m+SrRkoTl8n5O0HVYWYzTz8T0Y=",
+        "vega_pub_key": "5fcdfbc16cff8e4a53ec38d79b97f78da564fc946d886cc699de3db843127118",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -394,7 +394,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202405151105",
+  "chain_id": "vega-devnet1-202405151317",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-05-15T11:05:15.82328256Z",
+  "genesis_time": "2024-05-15T13:17:50.877397132Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "E11A9F984990F034CBD6826B328DA840EFCF1800",
-      "name": "powerful-honey",
+      "address": "FB73A92EC6BB365519C96CE59B8A5DB33FEEFDC5",
+      "name": "unsightly-policeman",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "2zEGUWEzzeYI2nFctYNKaQjLzT8ipSjmFLWJ5j4J4uI="
+        "value": "GecRbPyeeVQEEOSl6m+SrRkoTl8n5O0HVYWYzTz8T0Y="
       }
     }
   ]
