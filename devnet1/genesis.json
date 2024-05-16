@@ -337,17 +337,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "/srdmymiebraXjDxSyovupNKL+rllqEG9wDLqglhIu4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/go4m8z4btja2aphtgov62ucosr4nqno9?d=identicon",
-        "country": "ZU",
-        "ethereum_address": "0x40c32E3B8763eb77A37F9beb62854e2804aa0331",
-        "id": "0d46d00113ccecdac3827f2e4542dae38078264d5e9ef5d788c97f9f441a6d10",
-        "info_url": "https://en.wikipedia.org/wiki/Lipstick_Jungle_(TV_series)",
-        "name": "tender-pencil",
-        "tm_pub_key": "/srdmymiebraXjDxSyovupNKL+rllqEG9wDLqglhIu4=",
-        "vega_pub_key": "1343b791989b11d74ed1d43467fb2b79f9b654b78c0cae29570b16a3f7ab52ce",
-        "vega_pub_key_index": 1
-      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -381,6 +370,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "NFTWgCZf+lWlFreO7rvR5ZFnGOs/etPNQxTtstZmOFM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/bt78guebkvsxgw5pbgyba6udzvehlnup?d=identicon",
+        "country": "CT",
+        "ethereum_address": "0xFB38FbEc4e4BbD684cD4a4C3494E6BD5D662f40c",
+        "id": "da4c61ecee833d2654a7d6c9e1df2dd7c48764db3a8bc366a2d3beb2e47c417f",
+        "info_url": "https://en.wikipedia.org/wiki/Bugweri_District",
+        "name": "intrigued-month",
+        "tm_pub_key": "NFTWgCZf+lWlFreO7rvR5ZFnGOs/etPNQxTtstZmOFM=",
+        "vega_pub_key": "3349a06ba7dacca856f02990e4658bbdf40d13159b9da672c4a0b3bc9089de4b",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -394,7 +394,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202405161011",
+  "chain_id": "vega-devnet1-202405161310",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-05-16T10:11:07.501034277Z",
+  "genesis_time": "2024-05-16T13:10:46.53877391Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "C5AD5B4505466B5540170F9E5A3F0121D58BFB89",
-      "name": "tender-pencil",
+      "address": "26936646F1391E359190E101923B153B862CAB6A",
+      "name": "intrigued-month",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "/srdmymiebraXjDxSyovupNKL+rllqEG9wDLqglhIu4="
+        "value": "NFTWgCZf+lWlFreO7rvR5ZFnGOs/etPNQxTtstZmOFM="
       }
     }
   ]
