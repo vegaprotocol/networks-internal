@@ -337,6 +337,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "/srdmymiebraXjDxSyovupNKL+rllqEG9wDLqglhIu4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/go4m8z4btja2aphtgov62ucosr4nqno9?d=identicon",
+        "country": "ZU",
+        "ethereum_address": "0x40c32E3B8763eb77A37F9beb62854e2804aa0331",
+        "id": "0d46d00113ccecdac3827f2e4542dae38078264d5e9ef5d788c97f9f441a6d10",
+        "info_url": "https://en.wikipedia.org/wiki/Lipstick_Jungle_(TV_series)",
+        "name": "tender-pencil",
+        "tm_pub_key": "/srdmymiebraXjDxSyovupNKL+rllqEG9wDLqglhIu4=",
+        "vega_pub_key": "1343b791989b11d74ed1d43467fb2b79f9b654b78c0cae29570b16a3f7ab52ce",
+        "vega_pub_key_index": 1
+      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -380,21 +391,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "knXEAuOtjEYoEhdIOZMoiC5iYaicmIwIKeTjzvEs2y8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ck07btkli9zmj6qsv9nma3kfn8l7mlbh?d=identicon",
-        "country": "SZ",
-        "ethereum_address": "0x36596CC7eD3E29D8f6b6093AA3A2447DE13F59a2",
-        "id": "e13524509009b7be97f61de854ccdb5b26f0ec5bc885ab1f5ab35a8e2d59a87a",
-        "info_url": "https://en.wikipedia.org/wiki/Agave_%C3%97_arizonica",
-        "name": "loud-party",
-        "tm_pub_key": "knXEAuOtjEYoEhdIOZMoiC5iYaicmIwIKeTjzvEs2y8=",
-        "vega_pub_key": "715bba44e1f9ec53ec7108a6037a7f997eafa1354c670f5e84255778aaa6fc87",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202405151854",
+  "chain_id": "vega-devnet1-202405161011",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-05-15T18:54:34.839479421Z",
+  "genesis_time": "2024-05-16T10:11:07.501034277Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "E7ACDD8D607D63044BDFCDD5849FBDB0911411DE",
-      "name": "loud-party",
+      "address": "C5AD5B4505466B5540170F9E5A3F0121D58BFB89",
+      "name": "tender-pencil",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "knXEAuOtjEYoEhdIOZMoiC5iYaicmIwIKeTjzvEs2y8="
+        "value": "/srdmymiebraXjDxSyovupNKL+rllqEG9wDLqglhIu4="
       }
     }
   ]
