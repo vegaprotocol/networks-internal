@@ -1719,7 +1719,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 
 [scenario.incentive_btcsrusdt]
-    market_name = "PEPE / USD (Perpetual)"
+    market_name = "PEPE / USD (price*1000)(Perpetual)"
     binance_code = "PEPEUSDT"
     feed_price_multiplier = 1000
     step_length_seconds = 30
