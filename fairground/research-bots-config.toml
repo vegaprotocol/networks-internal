@@ -1718,9 +1718,10 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 #        randomise_history = false
 
 
-        [scenario.incentive_btcsrusdt]
+[scenario.incentive_btcsrusdt]
     market_name = "PEPE / USD (Perpetual)"
     binance_code = "PEPEUSDT"
+    feed_price_multiplier = 1000
     step_length_seconds = 30
     [scenario.incentive_btcsrusdt.market_manager_args]
         asset_name = "siUSDC"
