@@ -370,15 +370,15 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "NFTWgCZf+lWlFreO7rvR5ZFnGOs/etPNQxTtstZmOFM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/bt78guebkvsxgw5pbgyba6udzvehlnup?d=identicon",
-        "country": "CT",
-        "ethereum_address": "0xFB38FbEc4e4BbD684cD4a4C3494E6BD5D662f40c",
-        "id": "da4c61ecee833d2654a7d6c9e1df2dd7c48764db3a8bc366a2d3beb2e47c417f",
-        "info_url": "https://en.wikipedia.org/wiki/Bugweri_District",
-        "name": "intrigued-month",
-        "tm_pub_key": "NFTWgCZf+lWlFreO7rvR5ZFnGOs/etPNQxTtstZmOFM=",
-        "vega_pub_key": "3349a06ba7dacca856f02990e4658bbdf40d13159b9da672c4a0b3bc9089de4b",
+      "GN6qFKECsQ5w2wqn0wNTV9uMO6o0NpQWO9L7VP8MLP4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/z81yabyausrn70jftut7iwm8mhlmr232?d=identicon",
+        "country": "BT",
+        "ethereum_address": "0xEf5D0659eb33c54c392E025d58D426068E186c3C",
+        "id": "7c243fbac6da03ffe82df882685b5c7e62eef5c0537a3b3531182c8bf65e38b1",
+        "info_url": "https://en.wikipedia.org/wiki/James_Budd_Moody",
+        "name": "foolish-book",
+        "tm_pub_key": "GN6qFKECsQ5w2wqn0wNTV9uMO6o0NpQWO9L7VP8MLP4=",
+        "vega_pub_key": "a82080b511d2adf53f2c842e4ecb4c3325acb84b076c12cf5b6bf32783839e69",
         "vega_pub_key_index": 1
       },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
@@ -394,7 +394,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202405161310",
+  "chain_id": "vega-devnet1-202405181634",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-05-16T13:10:46.53877391Z",
+  "genesis_time": "2024-05-18T16:34:35.921536662Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "26936646F1391E359190E101923B153B862CAB6A",
-      "name": "intrigued-month",
+      "address": "9A3666ADCED0511492F0FE577203FDFD5C61F2BA",
+      "name": "foolish-book",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "NFTWgCZf+lWlFreO7rvR5ZFnGOs/etPNQxTtstZmOFM="
+        "value": "GN6qFKECsQ5w2wqn0wNTV9uMO6o0NpQWO9L7VP8MLP4="
       }
     }
   ]
