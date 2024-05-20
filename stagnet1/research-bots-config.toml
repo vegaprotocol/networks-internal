@@ -389,7 +389,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         mdp = 7
         pdp = -3
     [scenario.pepe1000.market_maker_args]
-        market_kappa = 4.7
+        market_kappa = 4070
         market_order_arrival_rate = 150
         order_kappa = 0.15
         order_size = 1
