@@ -337,6 +337,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "+L/DpX1B0T/6Eo7oQOgbaHaHsBv95ZfT89PunVjQn4I=": {
+        "avatar_url": "https://www.gravatar.com/avatar/e8ivus5tx6rrgv3u369in9hxgljqgb8n?d=identicon",
+        "country": "JB",
+        "ethereum_address": "0x40EE00F9C26afab35138111c90611B4701521587",
+        "id": "4dd5589fe5c5d0e3ba6c069c9d797d521bd19876ff22c91e92a7e8fcd98eb438",
+        "info_url": "https://en.wikipedia.org/wiki/Child_Rights_Taskforce_%E2%80%93_Australia",
+        "name": "impressionable-pickle",
+        "tm_pub_key": "+L/DpX1B0T/6Eo7oQOgbaHaHsBv95ZfT89PunVjQn4I=",
+        "vega_pub_key": "0f7db6bad7b16b8e94033c6ec2d7314dcff85ba40feff8aa7e57c59729eb299e",
+        "vega_pub_key_index": 1
+      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -380,21 +391,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "lEJL+/mHE57rkgyzcIV3XQfkIsHe1rGf7OaDTqzjNn0=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ypcncik5aqlq97i72y1un2qw9pbes0vs?d=identicon",
-        "country": "DG",
-        "ethereum_address": "0xc0bA40181DD18B938FD3831Fe7939c0312c17e97",
-        "id": "29301453d6bc35603fdeb29c9ef21b757c0435454cb8b8298dd2e727d828a92f",
-        "info_url": "https://en.wikipedia.org/wiki/2016_Hong_Kong_Sevens",
-        "name": "green-car",
-        "tm_pub_key": "lEJL+/mHE57rkgyzcIV3XQfkIsHe1rGf7OaDTqzjNn0=",
-        "vega_pub_key": "3ac8630e2ffd5e3a0466f95331be6176f4e22d2c940db806f8bfff8eaa8f828c",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202405201314",
+  "chain_id": "vega-devnet1-202405201702",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-05-20T13:14:19.486595347Z",
+  "genesis_time": "2024-05-20T17:02:53.255753544Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "868BB59EE93BC1BD2840BDFDD6E7895AAF30A9E9",
-      "name": "green-car",
+      "address": "0A064AEB87E59BBC83FE7BEA799DB0B11E832FE7",
+      "name": "impressionable-pickle",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "lEJL+/mHE57rkgyzcIV3XQfkIsHe1rGf7OaDTqzjNn0="
+        "value": "+L/DpX1B0T/6Eo7oQOgbaHaHsBv95ZfT89PunVjQn4I="
       }
     }
   ]
