@@ -370,17 +370,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "N2Bs7QIQABUmdvcjpg4ZWKrKH5CzRsyYIBqFfirHeEw=": {
-        "avatar_url": "https://www.gravatar.com/avatar/v80f277mkw1hav89vpaswu7ogaqnosgt?d=identicon",
-        "country": "IP",
-        "ethereum_address": "0x1934856b8673a0ae5daCeE1d62cEF4959d7dF562",
-        "id": "fc58a2efa9541ecafefb1090ba29a1d729badcbf8b2bb12c2aed5b3f7f1d06ce",
-        "info_url": "https://en.wikipedia.org/wiki/Cottonwood,_Minnesota",
-        "name": "hallowed-pool",
-        "tm_pub_key": "N2Bs7QIQABUmdvcjpg4ZWKrKH5CzRsyYIBqFfirHeEw=",
-        "vega_pub_key": "b6bc7acbbaa13a2a77bf36091f3718509f85dcf5d7f668e906266b458d7d7bc4",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -391,10 +380,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "lEJL+/mHE57rkgyzcIV3XQfkIsHe1rGf7OaDTqzjNn0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ypcncik5aqlq97i72y1un2qw9pbes0vs?d=identicon",
+        "country": "DG",
+        "ethereum_address": "0xc0bA40181DD18B938FD3831Fe7939c0312c17e97",
+        "id": "29301453d6bc35603fdeb29c9ef21b757c0435454cb8b8298dd2e727d828a92f",
+        "info_url": "https://en.wikipedia.org/wiki/2016_Hong_Kong_Sevens",
+        "name": "green-car",
+        "tm_pub_key": "lEJL+/mHE57rkgyzcIV3XQfkIsHe1rGf7OaDTqzjNn0=",
+        "vega_pub_key": "3ac8630e2ffd5e3a0466f95331be6176f4e22d2c940db806f8bfff8eaa8f828c",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202405201136",
+  "chain_id": "vega-devnet1-202405201314",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-05-20T11:36:04.712040634Z",
+  "genesis_time": "2024-05-20T13:14:19.486595347Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "50911A13A00967659D8D1031DA99284E57A42640",
-      "name": "hallowed-pool",
+      "address": "868BB59EE93BC1BD2840BDFDD6E7895AAF30A9E9",
+      "name": "green-car",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "N2Bs7QIQABUmdvcjpg4ZWKrKH5CzRsyYIBqFfirHeEw="
+        "value": "lEJL+/mHE57rkgyzcIV3XQfkIsHe1rGf7OaDTqzjNn0="
       }
     }
   ]
