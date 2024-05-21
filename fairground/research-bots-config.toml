@@ -1102,137 +1102,137 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 #         start_date = "2022-11-01 00:00:00"
 #         randomise_history = false
 
-[scenario.mainnet_simulation_btcusdt]
-    market_name = "Bitcoin / Tether USD (Perpetual)"
-    binance_code = "BTCUSDT"
-    step_length_seconds = 30
-    [scenario.mainnet_simulation_btcusdt.market_manager_args]
-        asset_name = "USDT"
-        adp = 6
-        mdp = 1
-        pdp = 4
-    [scenario.mainnet_simulation_btcusdt.market_maker_args]
-        market_kappa = 0.3
-        market_order_arrival_rate = 150
-        order_kappa = 0.15
-        order_size = 1
-        order_levels = 25
-        order_spacing = 1
-        order_clipping = 10000
-        inventory_lower_boundary = -3
-        inventory_upper_boundary = 3
-        fee_amount = 0.0001
-        commitment_amount = 150000
-        initial_mint = 200000
-    [scenario.mainnet_simulation_btcusdt.auction_trader_args]
-        traders = 2
-        initial_volume = 0.1
-        initial_mint = 10000
-    [scenario.mainnet_simulation_btcusdt.random_trader_args]
-        traders = 10
-        order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-        order_volume = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.12, 0.14, 0.16, 0.18] # 
-        step_bias = [0.111, 0.95, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
-        initial_mint = 2000
-    [scenario.mainnet_simulation_btcusdt.sensitive_trader_args]
-        traders = 10
-        scale = [2, 4, 6, 8, 10, 12, 14, 16, 17, 20]
-        max_order_size = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.10, 0.12, 0.14]
-        initial_mint = 10000
-    [scenario.mainnet_simulation_btcusdt.simulation_args]
-        n_steps = 99999999
-        granularity = "MINUTE"
-        coinbase_code = "BTC-USDT"
-        start_date = "2022-11-01 00:00:00"
-        randomise_history = false
+# [scenario.mainnet_simulation_btcusdt]
+#     market_name = "Bitcoin / Tether USD (Perpetual)"
+#     binance_code = "BTCUSDT"
+#     step_length_seconds = 30
+#     [scenario.mainnet_simulation_btcusdt.market_manager_args]
+#         asset_name = "USDT"
+#         adp = 6
+#         mdp = 1
+#         pdp = 4
+#     [scenario.mainnet_simulation_btcusdt.market_maker_args]
+#         market_kappa = 0.3
+#         market_order_arrival_rate = 150
+#         order_kappa = 0.15
+#         order_size = 1
+#         order_levels = 25
+#         order_spacing = 1
+#         order_clipping = 10000
+#         inventory_lower_boundary = -3
+#         inventory_upper_boundary = 3
+#         fee_amount = 0.0001
+#         commitment_amount = 150000
+#         initial_mint = 200000
+#     [scenario.mainnet_simulation_btcusdt.auction_trader_args]
+#         traders = 2
+#         initial_volume = 0.1
+#         initial_mint = 10000
+#     [scenario.mainnet_simulation_btcusdt.random_trader_args]
+#         traders = 10
+#         order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+#         order_volume = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.12, 0.14, 0.16, 0.18] # 
+#         step_bias = [0.111, 0.95, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
+#         initial_mint = 2000
+#     [scenario.mainnet_simulation_btcusdt.sensitive_trader_args]
+#         traders = 10
+#         scale = [2, 4, 6, 8, 10, 12, 14, 16, 17, 20]
+#         max_order_size = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.10, 0.12, 0.14]
+#         initial_mint = 10000
+#     [scenario.mainnet_simulation_btcusdt.simulation_args]
+#         n_steps = 99999999
+#         granularity = "MINUTE"
+#         coinbase_code = "BTC-USDT"
+#         start_date = "2022-11-01 00:00:00"
+#         randomise_history = false# 
 
-[scenario.mainnet_simulation_injustd]
-    market_name = "Injective / Tether USD (Perpetual)"
-    binance_code = "INJUSDT"
-    step_length_seconds = 19
-    [scenario.mainnet_simulation_injustd.market_manager_args]
-        asset_name = "USDT"
-        adp = 6
-        mdp = 3
-        pdp = 1
-    [scenario.mainnet_simulation_injustd.market_maker_args]
-        market_kappa = 3000
-        market_order_arrival_rate = 150
-        order_kappa = 0.15
-        order_size = 1
-        order_levels = 25
-        order_spacing = 0.001
-        order_clipping = 10000
-        inventory_lower_boundary = -3
-        inventory_upper_boundary = 3
-        fee_amount = 0.0001
-        commitment_amount = 150000
-        initial_mint = 200000
-    [scenario.mainnet_simulation_injustd.auction_trader_args]
-        traders = 2
-        initial_volume = 2
-        initial_mint = 10000
-    [scenario.mainnet_simulation_injustd.random_trader_args]
-        traders = 10
-        order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-        order_volume = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.12, 0.14, 0.16, 0.18] # 
-        step_bias = [0.111, 0.95, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
-        initial_mint = 2000
-    [scenario.mainnet_simulation_injustd.sensitive_trader_args]
-        traders = 10
-        scale = [2, 4, 6, 8, 10, 12, 14, 16, 17, 20]
-        max_order_size = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.10, 0.12, 0.14]
-        initial_mint = 10000
-    [scenario.mainnet_simulation_injustd.simulation_args]
-        n_steps = 99999999
-        granularity = "MINUTE"
-        coinbase_code = "BTC-USDT"
-        start_date = "2022-11-01 00:00:00"
-        randomise_history = false
+# [scenario.mainnet_simulation_injustd]
+#     market_name = "Injective / Tether USD (Perpetual)"
+#     binance_code = "INJUSDT"
+#     step_length_seconds = 19
+#     [scenario.mainnet_simulation_injustd.market_manager_args]
+#         asset_name = "USDT"
+#         adp = 6
+#         mdp = 3
+#         pdp = 1
+#     [scenario.mainnet_simulation_injustd.market_maker_args]
+#         market_kappa = 3000
+#         market_order_arrival_rate = 150
+#         order_kappa = 0.15
+#         order_size = 1
+#         order_levels = 25
+#         order_spacing = 0.001
+#         order_clipping = 10000
+#         inventory_lower_boundary = -3
+#         inventory_upper_boundary = 3
+#         fee_amount = 0.0001
+#         commitment_amount = 150000
+#         initial_mint = 200000
+#     [scenario.mainnet_simulation_injustd.auction_trader_args]
+#         traders = 2
+#         initial_volume = 2
+#         initial_mint = 10000
+#     [scenario.mainnet_simulation_injustd.random_trader_args]
+#         traders = 10
+#         order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+#         order_volume = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.12, 0.14, 0.16, 0.18] # 
+#         step_bias = [0.111, 0.95, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
+#         initial_mint = 2000
+#     [scenario.mainnet_simulation_injustd.sensitive_trader_args]
+#         traders = 10
+#         scale = [2, 4, 6, 8, 10, 12, 14, 16, 17, 20]
+#         max_order_size = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.10, 0.12, 0.14]
+#         initial_mint = 10000
+#     [scenario.mainnet_simulation_injustd.simulation_args]
+#         n_steps = 99999999
+#         granularity = "MINUTE"
+#         coinbase_code = "BTC-USDT"
+#         start_date = "2022-11-01 00:00:00"
+#         randomise_history = false# 
 
-[scenario.mainnet_simulation_snxustd]
-    market_name = "Synthetix / Tether USD (Perpetual)"
-    binance_code = "SNXUSDT"
-    step_length_seconds = 9
-    [scenario.mainnet_simulation_snxustd.market_manager_args]
-        asset_name = "USDT"
-        adp = 6
-        mdp = 3
-        pdp = 1
-    [scenario.mainnet_simulation_snxustd.market_maker_args]
-        market_kappa = 30000
-        market_order_arrival_rate = 150
-        order_kappa = 0.15
-        order_size = 1
-        order_levels = 25
-        order_spacing = 0.001
-        order_clipping = 10000
-        inventory_lower_boundary = -3
-        inventory_upper_boundary = 3
-        fee_amount = 0.0001
-        commitment_amount = 150000
-        initial_mint = 200000
-    [scenario.mainnet_simulation_snxustd.auction_trader_args]
-        traders = 2
-        initial_volume = 1
-        initial_mint = 10000
-    [scenario.mainnet_simulation_snxustd.random_trader_args]
-        traders = 10
-        order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-        order_volume = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.12, 0.14, 0.16, 0.18] # 
-        step_bias = [0.111, 0.95, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
-        initial_mint = 2000
-    [scenario.mainnet_simulation_snxustd.sensitive_trader_args]
-        traders = 10
-        scale = [2, 4, 6, 8, 10, 12, 14, 16, 17, 20]
-        max_order_size = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.10, 0.12, 0.14]
-        initial_mint = 10000
-    [scenario.mainnet_simulation_snxustd.simulation_args]
-        n_steps = 99999999
-        granularity = "MINUTE"
-        coinbase_code = "BTC-USDT"
-        start_date = "2022-11-01 00:00:00"
-        randomise_history = false
+# [scenario.mainnet_simulation_snxustd]
+#     market_name = "Synthetix / Tether USD (Perpetual)"
+#     binance_code = "SNXUSDT"
+#     step_length_seconds = 9
+#     [scenario.mainnet_simulation_snxustd.market_manager_args]
+#         asset_name = "USDT"
+#         adp = 6
+#         mdp = 3
+#         pdp = 1
+#     [scenario.mainnet_simulation_snxustd.market_maker_args]
+#         market_kappa = 30000
+#         market_order_arrival_rate = 150
+#         order_kappa = 0.15
+#         order_size = 1
+#         order_levels = 25
+#         order_spacing = 0.001
+#         order_clipping = 10000
+#         inventory_lower_boundary = -3
+#         inventory_upper_boundary = 3
+#         fee_amount = 0.0001
+#         commitment_amount = 150000
+#         initial_mint = 200000
+#     [scenario.mainnet_simulation_snxustd.auction_trader_args]
+#         traders = 2
+#         initial_volume = 1
+#         initial_mint = 10000
+#     [scenario.mainnet_simulation_snxustd.random_trader_args]
+#         traders = 10
+#         order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+#         order_volume = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.12, 0.14, 0.16, 0.18] # 
+#         step_bias = [0.111, 0.95, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
+#         initial_mint = 2000
+#     [scenario.mainnet_simulation_snxustd.sensitive_trader_args]
+#         traders = 10
+#         scale = [2, 4, 6, 8, 10, 12, 14, 16, 17, 20]
+#         max_order_size = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.10, 0.12, 0.14]
+#         initial_mint = 10000
+#     [scenario.mainnet_simulation_snxustd.simulation_args]
+#         n_steps = 99999999
+#         granularity = "MINUTE"
+#         coinbase_code = "BTC-USDT"
+#         start_date = "2022-11-01 00:00:00"
+#         randomise_history = false
 
 # [scenario.mainnet_simulation_ldoustd]
 #     market_name = "Lido / Tether USD (Perpetual)"
@@ -1410,49 +1410,49 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 
 
-[scenario.mainnet_test_solusdt]
-    market_name = "Solana / Tether USD (Perpetual)"
-    binance_code = "SOLUSDT"
-    step_length_seconds = 19
-    [scenario.mainnet_test_solusdt.market_manager_args]
-        asset_name = "USDT"
-        adp = 6
-        mdp = 2
-        pdp = 0
-    [scenario.mainnet_test_solusdt.market_maker_args]
-        market_kappa = 30000
-        market_order_arrival_rate = 150
-        order_kappa = 9.15
-        order_size = 1
-        order_levels = 25
-        order_spacing = 0.03
-        order_clipping = 100
-        inventory_lower_boundary = -10
-        inventory_upper_boundary = 10
-        fee_amount = 0.0001
-        commitment_amount = 150000
-        initial_mint = 200000
-    [scenario.mainnet_test_solusdt.auction_trader_args]
-        traders = 2
-        initial_volume = 2
-        initial_mint = 10000
-    [scenario.mainnet_test_solusdt.random_trader_args]
-        traders = 10
-        order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-        order_volume = [1.0, 5.0, 10.0, 20.0, 25.0, 28.0, 38.0, 50.0, 64.0, 76.0, 88.0] # 
-        step_bias = [0.111, 0.222, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
-        initial_mint = 15000
-    [scenario.mainnet_test_solusdt.sensitive_trader_args]
-        traders = 10
-        scale = [2, 4, 6, 8, 10, 12, 14, 16, 17, 20]
-        max_order_size = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.10, 0.12, 0.14]
-         initial_mint = 15000
-     [scenario.mainnet_test_solusdt.simulation_args]
-         n_steps = 99999999
-         granularity = "MINUTE"
-         coinbase_code = "BTC-USDT"
-         start_date = "2022-11-01 00:00:00"
-         randomise_history = false
+# [scenario.mainnet_test_solusdt]
+#     market_name = "Solana / Tether USD (Perpetual)"
+#     binance_code = "SOLUSDT"
+#     step_length_seconds = 19
+#     [scenario.mainnet_test_solusdt.market_manager_args]
+#         asset_name = "USDT"
+#         adp = 6
+#         mdp = 2
+#         pdp = 0
+#     [scenario.mainnet_test_solusdt.market_maker_args]
+#         market_kappa = 30000
+#         market_order_arrival_rate = 150
+#         order_kappa = 9.15
+#         order_size = 1
+#         order_levels = 25
+#         order_spacing = 0.03
+#         order_clipping = 100
+#         inventory_lower_boundary = -10
+#         inventory_upper_boundary = 10
+#         fee_amount = 0.0001
+#         commitment_amount = 150000
+#         initial_mint = 200000
+#     [scenario.mainnet_test_solusdt.auction_trader_args]
+#         traders = 2
+#         initial_volume = 2
+#         initial_mint = 10000
+#     [scenario.mainnet_test_solusdt.random_trader_args]
+#         traders = 10
+#         order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+#         order_volume = [1.0, 5.0, 10.0, 20.0, 25.0, 28.0, 38.0, 50.0, 64.0, 76.0, 88.0] # 
+#         step_bias = [0.111, 0.222, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
+#         initial_mint = 15000
+#     [scenario.mainnet_test_solusdt.sensitive_trader_args]
+#         traders = 10
+#         scale = [2, 4, 6, 8, 10, 12, 14, 16, 17, 20]
+#         max_order_size = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.10, 0.12, 0.14]
+#          initial_mint = 15000
+#      [scenario.mainnet_test_solusdt.simulation_args]
+#          n_steps = 99999999
+#          granularity = "MINUTE"
+#          coinbase_code = "BTC-USDT"
+#          start_date = "2022-11-01 00:00:00"
+#          randomise_history = false
 
 
 # [scenario.incentive_solusdt_cap_3]
@@ -1546,50 +1546,50 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 #          randomise_history = false
 
 
-[scenario.ena_usdt]
-    market_name = "Ethena / Tether USD (Perpetual)"
-    binance_code = "ENAUSDT"
-    step_length_seconds = 10
-    [scenario.ena_usdt.market_manager_args]
-        asset_name = "USDT"
-        adp = 6
-        mdp = 5
-        pdp = -2
-    [scenario.ena_usdt.market_maker_args]
-        market_kappa = 300
-        market_order_arrival_rate = 150
-        order_kappa = 0.15
-        order_size = 1
-        order_levels = 25
-        order_spacing = 0.1
-        order_clipping = 100
-        inventory_lower_boundary = -10
-        inventory_upper_boundary = 10
-        fee_amount = 0.0001
-        commitment_amount = 150000
-        initial_mint = 200000
-        isolated_margin_factor = 0.01
-    [scenario.ena_usdt.auction_trader_args]
-        traders = 2
-        initial_volume = 2
-        initial_mint = 10000
-    [scenario.ena_usdt.random_trader_args]
-        traders = 30
-        order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-        order_volume = [1.0, 1.5, 2.5, 3.0, 4.0, 4.6, 5.0, 6.0, 8.0, 10.0, 12.0, 1.0, 1.5, 2.5, 3.0, 4.0, 4.6, 5.0, 6.0, 8.0, 10.0, 12.0, 1.0, 1.5, 2.5, 3.0, 4.0, 4.6, 5.0, 6.0, 8.0, 10.0, 12.0] # 
-        step_bias = [0.111, 0.222, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006, 0.111, 0.222, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006, 0.111, 0.222, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
-        initial_mint = 60000
-    [scenario.ena_usdt.sensitive_trader_args]
-        traders = 10
-        scale = [2, 4, 6, 8, 10, 12, 14, 16, 17, 20]
-        max_order_size = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.10, 0.12, 0.14]
-        initial_mint = 60000
-     [scenario.ena_usdt.simulation_args]
-         n_steps = 99999999
-         granularity = "MINUTE"
-         coinbase_code = "BTC-USDT"
-         start_date = "2022-11-01 00:00:00"
-         randomise_history = false
+# [scenario.ena_usdt]
+#     market_name = "Ethena / Tether USD (Perpetual)"
+#     binance_code = "ENAUSDT"
+#     step_length_seconds = 10
+#     [scenario.ena_usdt.market_manager_args]
+#         asset_name = "USDT"
+#         adp = 6
+#         mdp = 5
+#         pdp = -2
+#     [scenario.ena_usdt.market_maker_args]
+#         market_kappa = 300
+#         market_order_arrival_rate = 150
+#         order_kappa = 0.15
+#         order_size = 1
+#         order_levels = 25
+#         order_spacing = 0.1
+#         order_clipping = 100
+#         inventory_lower_boundary = -10
+#         inventory_upper_boundary = 10
+#         fee_amount = 0.0001
+#         commitment_amount = 150000
+#         initial_mint = 200000
+#         isolated_margin_factor = 0.01
+#     [scenario.ena_usdt.auction_trader_args]
+#         traders = 2
+#         initial_volume = 2
+#         initial_mint = 10000
+#     [scenario.ena_usdt.random_trader_args]
+#         traders = 30
+#         order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+#         order_volume = [1.0, 1.5, 2.5, 3.0, 4.0, 4.6, 5.0, 6.0, 8.0, 10.0, 12.0, 1.0, 1.5, 2.5, 3.0, 4.0, 4.6, 5.0, 6.0, 8.0, 10.0, 12.0, 1.0, 1.5, 2.5, 3.0, 4.0, 4.6, 5.0, 6.0, 8.0, 10.0, 12.0] # 
+#         step_bias = [0.111, 0.222, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006, 0.111, 0.222, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006, 0.111, 0.222, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
+#         initial_mint = 60000
+#     [scenario.ena_usdt.sensitive_trader_args]
+#         traders = 10
+#         scale = [2, 4, 6, 8, 10, 12, 14, 16, 17, 20]
+#         max_order_size = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.10, 0.12, 0.14]
+#         initial_mint = 60000
+#      [scenario.ena_usdt.simulation_args]
+#          n_steps = 99999999
+#          granularity = "MINUTE"
+#          coinbase_code = "BTC-USDT"
+#          start_date = "2022-11-01 00:00:00"
+#          randomise_history = false
 
 # [scenario.incentive_solusdt]
 #     market_name = "tsSolana / tsUSD (Spot)"
@@ -1764,6 +1764,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 #       randomise_history = false
 
 
+
 [scenario.pepe1000]
     market_name = "PEPE / USD (price*1000)(Perpetual)"
     binance_code = "PEPEUSDT"
@@ -1779,11 +1780,11 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         market_order_arrival_rate = 1500
         order_kappa = 0.5
         order_size = 100
-        order_levels = 10
+        order_levels = 25
         order_spacing = 0.00005
         order_clipping = 0.0001
-        inventory_lower_boundary = -20
-        inventory_upper_boundary = 20
+        inventory_lower_boundary = -3
+        inventory_upper_boundary = 3
         fee_amount = 0.05
         commitment_amount = 2500000
         initial_mint = 5500000
@@ -1796,12 +1797,12 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
         order_volume = [1000.0, 5000.0, 10000.0, 20000.0, 40000.0, 60000.0, 80000.0, 100000.0, 120000.0, 140000.0, 160000.0, 180000.0] # 
         step_bias = [0.111, 0.95, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
-        initial_mint = 200000
+        initial_mint = 20000
     [scenario.pepe1000.sensitive_trader_args]
         traders = 0
         scale = [0.2, 0.4, 0.6, 0.8, 0.10, 0.12, 0.14, 0.16, 0.17, 0.20]
         max_order_size = [1000.0,  5000.0, 10000.0, 20000.0, 40000.0, 60000.0, 80000.0, 100000.0, 120000.0, 140000.0]
-        initial_mint = 100000
+        initial_mint = 10000
     [scenario.pepe1000.simulation_args]
         n_steps = 99999999
         granularity = "MINUTE"
