@@ -1785,7 +1785,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         order_clipping = 0.0001
         inventory_lower_boundary = -3
         inventory_upper_boundary = 3
-        fee_amount = 0.05
+        fee_amount = 0.025
         commitment_amount = 2500000
         initial_mint = 5500000
     [scenario.pepe1000.auction_trader_args]
