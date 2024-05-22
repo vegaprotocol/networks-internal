@@ -337,17 +337,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "1kkIqxbTKiz2uJ8faKOuPeYLPMnL+ID8ysHMewvjgsA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ktzz1orbjrv7kbalqwkwozfln7qt4vni?d=identicon",
-        "country": "PS",
-        "ethereum_address": "0xD5a9C62eEe4A735509e39AcB57d08abDB3a5f93a",
-        "id": "a51c351dbd13df59265236780aeefd7d4fe9a50bf9de757e81a15ef838b88af8",
-        "info_url": "https://en.wikipedia.org/wiki/Old_Christian_Cemetery,_Peshawar",
-        "name": "hungry-coffee",
-        "tm_pub_key": "1kkIqxbTKiz2uJ8faKOuPeYLPMnL+ID8ysHMewvjgsA=",
-        "vega_pub_key": "85aca2bce0cd2cd71ede34e44d56125969f8513a38892e1383fd12a1ba8e5fb9",
-        "vega_pub_key_index": 1
-      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -391,10 +380,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "eGtb3KbD6/Q+oN+p+t0UxHiz77AWLps1MefoaQg1ixM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/vncz71fmbga8dmtvu08lltterkkn093q?d=identicon",
+        "country": "PT",
+        "ethereum_address": "0x94bf89622350666B86AaCb2f64082e0C5Ead75Fa",
+        "id": "ca3be041642c726260edc02d665b90ec3c85c694e3160bee8be06d1544df1393",
+        "info_url": "https://en.wikipedia.org/wiki/Raghuvamsham_(film)",
+        "name": "easy-clouds",
+        "tm_pub_key": "eGtb3KbD6/Q+oN+p+t0UxHiz77AWLps1MefoaQg1ixM=",
+        "vega_pub_key": "f9aa15cdee4975014dddeabde67b355f5e4f9fe99e125914d2fcaddb01a64d5a",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202405220935",
+  "chain_id": "vega-devnet1-202405221218",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-05-22T09:35:47.398075619Z",
+  "genesis_time": "2024-05-22T12:18:18.571166329Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "E352319AAF241BD246A7E8A79F1543343248EFC3",
-      "name": "hungry-coffee",
+      "address": "18495B83059AB3B0068080B78FF3CC9E436A9410",
+      "name": "easy-clouds",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "1kkIqxbTKiz2uJ8faKOuPeYLPMnL+ID8ysHMewvjgsA="
+        "value": "eGtb3KbD6/Q+oN+p+t0UxHiz77AWLps1MefoaQg1ixM="
       }
     }
   ]
