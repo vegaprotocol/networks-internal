@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "eGtb3KbD6/Q+oN+p+t0UxHiz77AWLps1MefoaQg1ixM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/vncz71fmbga8dmtvu08lltterkkn093q?d=identicon",
-        "country": "PT",
-        "ethereum_address": "0x94bf89622350666B86AaCb2f64082e0C5Ead75Fa",
-        "id": "ca3be041642c726260edc02d665b90ec3c85c694e3160bee8be06d1544df1393",
-        "info_url": "https://en.wikipedia.org/wiki/Raghuvamsham_(film)",
-        "name": "easy-clouds",
-        "tm_pub_key": "eGtb3KbD6/Q+oN+p+t0UxHiz77AWLps1MefoaQg1ixM=",
-        "vega_pub_key": "f9aa15cdee4975014dddeabde67b355f5e4f9fe99e125914d2fcaddb01a64d5a",
+      "ZD9+3KvCpaacII3jOriPKbcFgSwtizzSiIVARmZnge8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/dpyjhea9yo9bu2emu9edguecwi03cw5c?d=identicon",
+        "country": "PA",
+        "ethereum_address": "0x0F66B3e10e8620F34f06bCec9C78eEF7fb6301fA",
+        "id": "969ab43211b8efab69606fbf5b34680092e39389ad508668657b45ebde2662ad",
+        "info_url": "https://en.wikipedia.org/wiki/Municipality_of_Duplek",
+        "name": "determined-fan",
+        "tm_pub_key": "ZD9+3KvCpaacII3jOriPKbcFgSwtizzSiIVARmZnge8=",
+        "vega_pub_key": "33e5f1b10dc2fcfbd158d722648bae349587fa954b51c276b704eb987b8bcc6f",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202405221218",
+  "chain_id": "vega-devnet1-202405221428",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-05-22T12:18:18.571166329Z",
+  "genesis_time": "2024-05-22T14:28:49.903981768Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "18495B83059AB3B0068080B78FF3CC9E436A9410",
-      "name": "easy-clouds",
+      "address": "6998AF18C44D34F7AFFDAFBA788117084567C91C",
+      "name": "determined-fan",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "eGtb3KbD6/Q+oN+p+t0UxHiz77AWLps1MefoaQg1ixM="
+        "value": "ZD9+3KvCpaacII3jOriPKbcFgSwtizzSiIVARmZnge8="
       }
     }
   ]
