@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "ibiaX3MfCLq1U/kC2kD3t2/nJxh0JwVY77Flk2K0fm4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/jlurbq3p3wosh5gjokgs82t553l0zqin?d=identicon",
-        "country": "CZ",
-        "ethereum_address": "0x2791d632D4B1212Fbb19927be50019ce3387a747",
-        "id": "6ae4d656eb32f20f79e53b2dcb1e772359846453e77d77577afdf85d103f8b8e",
-        "info_url": "https://en.wikipedia.org/wiki/Homalodisca",
-        "name": "ugly-river",
-        "tm_pub_key": "ibiaX3MfCLq1U/kC2kD3t2/nJxh0JwVY77Flk2K0fm4=",
-        "vega_pub_key": "3a167bc4693d9351a23d3c4f1b80875ac5a505f22f811e35f97d62e567555e5d",
+      "nz/ZijSJs5TJpr7npgD9W4Fkc3TNBvkJbkF8ckH3OX8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ktwgp2rk9z0gi106d2na5a1m7fft8swu?d=identicon",
+        "country": "VW",
+        "ethereum_address": "0x86E0b0d5daC9569fe51bBe2B63F4D431F7D4B41f",
+        "id": "3a8a1d08aef63346990f32499ff87f1a38fc2f6d29cc9a50c1568a42e2917d39",
+        "info_url": "https://en.wikipedia.org/wiki/Anti-Authoritarian_International",
+        "name": "alive-hill",
+        "tm_pub_key": "nz/ZijSJs5TJpr7npgD9W4Fkc3TNBvkJbkF8ckH3OX8=",
+        "vega_pub_key": "c64c26de9de26c7f36c8796c0cb6bb0ad17d04bbe7c8dcd5029b4eba64f3ebdc",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202405221625",
+  "chain_id": "vega-devnet1-202405222156",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-05-22T16:25:01.289103603Z",
+  "genesis_time": "2024-05-22T21:56:09.03906177Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "733F455F06FE79B06A9DA6E4B8D4762D8E67F2E2",
-      "name": "ugly-river",
+      "address": "6E1FDF7721AC5A356C67D6F0CF1707C1A9A4EBD7",
+      "name": "alive-hill",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "ibiaX3MfCLq1U/kC2kD3t2/nJxh0JwVY77Flk2K0fm4="
+        "value": "nz/ZijSJs5TJpr7npgD9W4Fkc3TNBvkJbkF8ckH3OX8="
       }
     }
   ]
