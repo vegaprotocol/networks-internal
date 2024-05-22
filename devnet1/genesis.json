@@ -337,6 +337,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "1kkIqxbTKiz2uJ8faKOuPeYLPMnL+ID8ysHMewvjgsA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ktzz1orbjrv7kbalqwkwozfln7qt4vni?d=identicon",
+        "country": "PS",
+        "ethereum_address": "0xD5a9C62eEe4A735509e39AcB57d08abDB3a5f93a",
+        "id": "a51c351dbd13df59265236780aeefd7d4fe9a50bf9de757e81a15ef838b88af8",
+        "info_url": "https://en.wikipedia.org/wiki/Old_Christian_Cemetery,_Peshawar",
+        "name": "hungry-coffee",
+        "tm_pub_key": "1kkIqxbTKiz2uJ8faKOuPeYLPMnL+ID8ysHMewvjgsA=",
+        "vega_pub_key": "85aca2bce0cd2cd71ede34e44d56125969f8513a38892e1383fd12a1ba8e5fb9",
+        "vega_pub_key_index": 1
+      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -380,21 +391,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "XqbzSPBssCtHtzucEP9d9KGIlFx2jPQRj0miucdZQNM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/yl9uemys5likosl3uwswr8v6ncx34ibs?d=identicon",
-        "country": "AO",
-        "ethereum_address": "0x2d65c2B96F4DC0cA34195d662B5182ebF41DB9a8",
-        "id": "5ef02c707cd03a5dcd758babfc0f17f652eb632bc5cba48338b11d3eace05d17",
-        "info_url": "https://en.wikipedia.org/wiki/Bret_Jones",
-        "name": "thundering-burger",
-        "tm_pub_key": "XqbzSPBssCtHtzucEP9d9KGIlFx2jPQRj0miucdZQNM=",
-        "vega_pub_key": "af17f2ffc3cd4e7073a6e76c0bb66da2ef315ea5c0379de465026f6a7f5524f5",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202405220836",
+  "chain_id": "vega-devnet1-202405220935",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-05-22T08:36:09.032949058Z",
+  "genesis_time": "2024-05-22T09:35:47.398075619Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "F3ADADE96D542AFC54C5DAAB0E5DCE9566570C1C",
-      "name": "thundering-burger",
+      "address": "E352319AAF241BD246A7E8A79F1543343248EFC3",
+      "name": "hungry-coffee",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "XqbzSPBssCtHtzucEP9d9KGIlFx2jPQRj0miucdZQNM="
+        "value": "1kkIqxbTKiz2uJ8faKOuPeYLPMnL+ID8ysHMewvjgsA="
       }
     }
   ]
