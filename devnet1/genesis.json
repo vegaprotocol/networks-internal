@@ -348,6 +348,17 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
+      "4QMVE+m5DYezDI+aF+2lF6Tl4sbSN9/Uxbx+fyofhmk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/wd0lbkgembfweo24y6fp9po8m4x5lu34?d=identicon",
+        "country": "FK",
+        "ethereum_address": "0x00e35a33D0e7Ec96150De965E53B62333eAC8b33",
+        "id": "8a3be800275694e265f02590080f8f309440d34db15d732a4d299071ed72ad9a",
+        "info_url": "https://en.wikipedia.org/wiki/Mitis_Seignory",
+        "name": "confused-apple",
+        "tm_pub_key": "4QMVE+m5DYezDI+aF+2lF6Tl4sbSN9/Uxbx+fyofhmk=",
+        "vega_pub_key": "129e3d6b8a9edabce5be2c21f74c44c905bf55b08ae09474f9e4184fe02e8201",
+        "vega_pub_key_index": 1
+      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -380,21 +391,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "apYii5w3XJr0EUI159kdsBLTGXZI4CRsC8yd0h8C45I=": {
-        "avatar_url": "https://www.gravatar.com/avatar/0oy2p66e3pznivywkmxb7y8mfsu0dmr6?d=identicon",
-        "country": "ON",
-        "ethereum_address": "0xF65c0dCDa718338f4E035c0365313a93d8D4Bfae",
-        "id": "f79eafd2e80d86021a8482d78eeedb654e93a4d11bbbd11dad2832459549e683",
-        "info_url": "https://en.wikipedia.org/wiki/Impetuous_Theater_Group",
-        "name": "hollow-policeman",
-        "tm_pub_key": "apYii5w3XJr0EUI159kdsBLTGXZI4CRsC8yd0h8C45I=",
-        "vega_pub_key": "4ecf53cab2c77f787435df70f86be58e52f75a4d6c025984f7d61fe363ad3e59",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202405231301",
+  "chain_id": "vega-devnet1-202405231410",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-05-23T13:01:03.739374032Z",
+  "genesis_time": "2024-05-23T14:10:16.655646828Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "76B550C08878B672D5547CBCD3297BB76C61FC3C",
-      "name": "hollow-policeman",
+      "address": "7CFB602385B57204C1E767908E0CDB963DDBA515",
+      "name": "confused-apple",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "apYii5w3XJr0EUI159kdsBLTGXZI4CRsC8yd0h8C45I="
+        "value": "4QMVE+m5DYezDI+aF+2lF6Tl4sbSN9/Uxbx+fyofhmk="
       }
     }
   ]
