@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "nz/ZijSJs5TJpr7npgD9W4Fkc3TNBvkJbkF8ckH3OX8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ktwgp2rk9z0gi106d2na5a1m7fft8swu?d=identicon",
-        "country": "VW",
-        "ethereum_address": "0x86E0b0d5daC9569fe51bBe2B63F4D431F7D4B41f",
-        "id": "3a8a1d08aef63346990f32499ff87f1a38fc2f6d29cc9a50c1568a42e2917d39",
-        "info_url": "https://en.wikipedia.org/wiki/Anti-Authoritarian_International",
-        "name": "alive-hill",
-        "tm_pub_key": "nz/ZijSJs5TJpr7npgD9W4Fkc3TNBvkJbkF8ckH3OX8=",
-        "vega_pub_key": "c64c26de9de26c7f36c8796c0cb6bb0ad17d04bbe7c8dcd5029b4eba64f3ebdc",
+      "apYii5w3XJr0EUI159kdsBLTGXZI4CRsC8yd0h8C45I=": {
+        "avatar_url": "https://www.gravatar.com/avatar/0oy2p66e3pznivywkmxb7y8mfsu0dmr6?d=identicon",
+        "country": "ON",
+        "ethereum_address": "0xF65c0dCDa718338f4E035c0365313a93d8D4Bfae",
+        "id": "f79eafd2e80d86021a8482d78eeedb654e93a4d11bbbd11dad2832459549e683",
+        "info_url": "https://en.wikipedia.org/wiki/Impetuous_Theater_Group",
+        "name": "hollow-policeman",
+        "tm_pub_key": "apYii5w3XJr0EUI159kdsBLTGXZI4CRsC8yd0h8C45I=",
+        "vega_pub_key": "4ecf53cab2c77f787435df70f86be58e52f75a4d6c025984f7d61fe363ad3e59",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202405222156",
+  "chain_id": "vega-devnet1-202405231140",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-05-22T21:56:09.03906177Z",
+  "genesis_time": "2024-05-23T11:40:05.789458227Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "6E1FDF7721AC5A356C67D6F0CF1707C1A9A4EBD7",
-      "name": "alive-hill",
+      "address": "76B550C08878B672D5547CBCD3297BB76C61FC3C",
+      "name": "hollow-policeman",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "nz/ZijSJs5TJpr7npgD9W4Fkc3TNBvkJbkF8ckH3OX8="
+        "value": "apYii5w3XJr0EUI159kdsBLTGXZI4CRsC8yd0h8C45I="
       }
     }
   ]
