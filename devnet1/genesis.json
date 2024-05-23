@@ -348,17 +348,6 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
-      "4QMVE+m5DYezDI+aF+2lF6Tl4sbSN9/Uxbx+fyofhmk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/wd0lbkgembfweo24y6fp9po8m4x5lu34?d=identicon",
-        "country": "FK",
-        "ethereum_address": "0x00e35a33D0e7Ec96150De965E53B62333eAC8b33",
-        "id": "8a3be800275694e265f02590080f8f309440d34db15d732a4d299071ed72ad9a",
-        "info_url": "https://en.wikipedia.org/wiki/Mitis_Seignory",
-        "name": "confused-apple",
-        "tm_pub_key": "4QMVE+m5DYezDI+aF+2lF6Tl4sbSN9/Uxbx+fyofhmk=",
-        "vega_pub_key": "129e3d6b8a9edabce5be2c21f74c44c905bf55b08ae09474f9e4184fe02e8201",
-        "vega_pub_key_index": 1
-      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -381,6 +370,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "B7EPrifQPwBoUmw9Y1j5NOCLYyWn0EJfbtoRRX3U2rs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/p0qoqscerqsfde3e7olor4hwe45dvt77?d=identicon",
+        "country": "CJ",
+        "ethereum_address": "0x5E0082a71a2b56f282AE1fB32216A04Df43b42b3",
+        "id": "99572c6211e69ab13caa68ccf0f126f8ef7f0c3896553d953c8f8580875a04ec",
+        "info_url": "https://en.wikipedia.org/wiki/Hannes_Torpo",
+        "name": "helpful-hill",
+        "tm_pub_key": "B7EPrifQPwBoUmw9Y1j5NOCLYyWn0EJfbtoRRX3U2rs=",
+        "vega_pub_key": "fdb6a978e7060ef15623bb82bcef24f4799cb8e4eba1d145384028e1646e0acd",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -394,7 +394,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202405231410",
+  "chain_id": "vega-devnet1-202405231516",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-05-23T14:10:16.655646828Z",
+  "genesis_time": "2024-05-23T15:16:53.774792632Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "7CFB602385B57204C1E767908E0CDB963DDBA515",
-      "name": "confused-apple",
+      "address": "40156397222FA831E8CF57ED3B308E620F91376B",
+      "name": "helpful-hill",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "4QMVE+m5DYezDI+aF+2lF6Tl4sbSN9/Uxbx+fyofhmk="
+        "value": "B7EPrifQPwBoUmw9Y1j5NOCLYyWn0EJfbtoRRX3U2rs="
       }
     }
   ]
