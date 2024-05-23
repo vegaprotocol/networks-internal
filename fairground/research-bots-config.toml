@@ -1676,11 +1676,11 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 #         randomise_history = false
 
 [scenario.incentive_btcusdt]
-    market_name = "tBitcoin / tUSDC (Spot)"
+    market_name = "tBitcoin / USDT (Spot)"
     binance_code = "BTCUSDT"
     step_length_seconds = 20
     [scenario.incentive_btcusdt.market_manager_args]
-        asset_name = "tUSDC Fairground" # BTC
+        asset_name = "Tether USD" # BTC
         quote_asset_name = "USDT"
     [scenario.incentive_btcusdt.market_maker_args]
         market_kappa = 3.9
