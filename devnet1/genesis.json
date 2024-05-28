@@ -348,6 +348,17 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
+      "5UDw9oYiOf5t8ZUyjgTXwrmcq4B6eLmQoWjYOZ4hh2g=": {
+        "avatar_url": "https://www.gravatar.com/avatar/9i940yg6w4xnlkcdnwh864xjedqglz35?d=identicon",
+        "country": "RZ",
+        "ethereum_address": "0x8D3DC0bbF6A2A37d04144d7EBD877338B59935E9",
+        "id": "5357e383f657391cd9e8a73c9bfd0bf865b9b74d69064e5c90b691f69a284fb8",
+        "info_url": "https://en.wikipedia.org/wiki/Battle_of_Bau",
+        "name": "cooperative-shoe",
+        "tm_pub_key": "5UDw9oYiOf5t8ZUyjgTXwrmcq4B6eLmQoWjYOZ4hh2g=",
+        "vega_pub_key": "506132bfe33f8e7553aa70b8ae670b3a9d11fbfb56279c9062c8e8057d371e90",
+        "vega_pub_key_index": 1
+      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -357,17 +368,6 @@
         "name": "crashing-wall",
         "tm_pub_key": "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=",
         "vega_pub_key": "cb152821443248b20a217abee89c1c8e595e07d47c537255d480761c88bc86d1",
-        "vega_pub_key_index": 1
-      },
-      "8TlydtxnOC0Mjg6AvK4mfWXADBikDTS4Cm9aFHccn9E=": {
-        "avatar_url": "https://www.gravatar.com/avatar/xi2zpa9wu4vooxml9zygv3alberqlopb?d=identicon",
-        "country": "GP",
-        "ethereum_address": "0x240F2B8C994a1689DbC6525B4Ab764f16F2Ac969",
-        "id": "df9718235ddeb841abb5e60d6a8044941dd0cb9b2824c83513ccfb509f77c2d5",
-        "info_url": "https://en.wikipedia.org/wiki/La_Voz_Senior_(Mexican_TV_series)_season_1",
-        "name": "helpful-building",
-        "tm_pub_key": "8TlydtxnOC0Mjg6AvK4mfWXADBikDTS4Cm9aFHccn9E=",
-        "vega_pub_key": "85c7c935a0559b5cd9ac8322a9d3b55ce85469c299bcf8f24b75ed558955db27",
         "vega_pub_key_index": 1
       },
       "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ=": {
@@ -394,7 +394,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202405280913",
+  "chain_id": "vega-devnet1-202405281204",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-05-28T09:13:00.969192192Z",
+  "genesis_time": "2024-05-28T12:04:30.013258601Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "AB05EAD4929941BB9051C45C01CD314642CEC5D1",
-      "name": "helpful-building",
+      "address": "B0185B2F3BAE2CDC18A03356C72C8AAA09CA966A",
+      "name": "cooperative-shoe",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "8TlydtxnOC0Mjg6AvK4mfWXADBikDTS4Cm9aFHccn9E="
+        "value": "5UDw9oYiOf5t8ZUyjgTXwrmcq4B6eLmQoWjYOZ4hh2g="
       }
     }
   ]
