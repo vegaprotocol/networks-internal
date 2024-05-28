@@ -370,6 +370,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "E8WXvgBG6PyLxMWBhSNEMVlFKciWbo2GuSqWE8k9IPk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/g8vxtz01sj1lzm81tyzd29u2okeolht4?d=identicon",
+        "country": "HD",
+        "ethereum_address": "0x1126a2216Bc2B88280e9403C19EA69987e37FE92",
+        "id": "1995592d78151da1e6a6dba743a77c1df7b39a1e54d7218be4e822c5a532d07f",
+        "info_url": "https://en.wikipedia.org/wiki/Gobbaragumpi",
+        "name": "dead-brother",
+        "tm_pub_key": "E8WXvgBG6PyLxMWBhSNEMVlFKciWbo2GuSqWE8k9IPk=",
+        "vega_pub_key": "6980d995686c8f7cfb9efa77200d52da11d6482284dcf41ea2d3b9db03c90af3",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -380,21 +391,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "t6xIS9HIASwE2E4NYxOsVpSbVORMvk4brrp/z4UNswY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/r7du9ks24t56f3r2015weefp1iohtgdq?d=identicon",
-        "country": "PQ",
-        "ethereum_address": "0x54a295f9291cC9E8F13CA718d309F09E653e73E9",
-        "id": "de761323b306efca0b86e81c6191288384dff24dbdbdaaa8229e3fadec58438b",
-        "info_url": "https://en.wikipedia.org/wiki/Michael_Brotherton_(priest)",
-        "name": "scruffy-dog",
-        "tm_pub_key": "t6xIS9HIASwE2E4NYxOsVpSbVORMvk4brrp/z4UNswY=",
-        "vega_pub_key": "f5145b7c2d91425e7af24319705c1098ebc9f81364a413c22939feb5817540c4",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202405281552",
+  "chain_id": "vega-devnet1-202405281939",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-05-28T15:52:44.615308856Z",
+  "genesis_time": "2024-05-28T19:39:33.598023005Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "C166EC42DAA0E18092C860C440C273D56FC6DC3E",
-      "name": "scruffy-dog",
+      "address": "8499A822FBDD6C3769DC912F84494D113C1A49CD",
+      "name": "dead-brother",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "t6xIS9HIASwE2E4NYxOsVpSbVORMvk4brrp/z4UNswY="
+        "value": "E8WXvgBG6PyLxMWBhSNEMVlFKciWbo2GuSqWE8k9IPk="
       }
     }
   ]
