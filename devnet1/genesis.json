@@ -359,6 +359,17 @@
         "vega_pub_key": "cb152821443248b20a217abee89c1c8e595e07d47c537255d480761c88bc86d1",
         "vega_pub_key_index": 1
       },
+      "8TlydtxnOC0Mjg6AvK4mfWXADBikDTS4Cm9aFHccn9E=": {
+        "avatar_url": "https://www.gravatar.com/avatar/xi2zpa9wu4vooxml9zygv3alberqlopb?d=identicon",
+        "country": "GP",
+        "ethereum_address": "0x240F2B8C994a1689DbC6525B4Ab764f16F2Ac969",
+        "id": "df9718235ddeb841abb5e60d6a8044941dd0cb9b2824c83513ccfb509f77c2d5",
+        "info_url": "https://en.wikipedia.org/wiki/La_Voz_Senior_(Mexican_TV_series)_season_1",
+        "name": "helpful-building",
+        "tm_pub_key": "8TlydtxnOC0Mjg6AvK4mfWXADBikDTS4Cm9aFHccn9E=",
+        "vega_pub_key": "85c7c935a0559b5cd9ac8322a9d3b55ce85469c299bcf8f24b75ed558955db27",
+        "vega_pub_key_index": 1
+      },
       "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ=": {
         "avatar_url": "https://www.gravatar.com/avatar/6x0s5jsbbeeihso9yyhnh6hcop4fkxa1?d=identicon",
         "country": "ON",
@@ -368,17 +379,6 @@
         "name": "clever-doctor",
         "tm_pub_key": "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ=",
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
-        "vega_pub_key_index": 1
-      },
-      "B7EPrifQPwBoUmw9Y1j5NOCLYyWn0EJfbtoRRX3U2rs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/p0qoqscerqsfde3e7olor4hwe45dvt77?d=identicon",
-        "country": "CJ",
-        "ethereum_address": "0x5E0082a71a2b56f282AE1fB32216A04Df43b42b3",
-        "id": "99572c6211e69ab13caa68ccf0f126f8ef7f0c3896553d953c8f8580875a04ec",
-        "info_url": "https://en.wikipedia.org/wiki/Hannes_Torpo",
-        "name": "helpful-hill",
-        "tm_pub_key": "B7EPrifQPwBoUmw9Y1j5NOCLYyWn0EJfbtoRRX3U2rs=",
-        "vega_pub_key": "fdb6a978e7060ef15623bb82bcef24f4799cb8e4eba1d145384028e1646e0acd",
         "vega_pub_key_index": 1
       },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
@@ -394,7 +394,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202405231516",
+  "chain_id": "vega-devnet1-202405280913",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-05-23T15:16:53.774792632Z",
+  "genesis_time": "2024-05-28T09:13:00.969192192Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "40156397222FA831E8CF57ED3B308E620F91376B",
-      "name": "helpful-hill",
+      "address": "AB05EAD4929941BB9051C45C01CD314642CEC5D1",
+      "name": "helpful-building",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "B7EPrifQPwBoUmw9Y1j5NOCLYyWn0EJfbtoRRX3U2rs="
+        "value": "8TlydtxnOC0Mjg6AvK4mfWXADBikDTS4Cm9aFHccn9E="
       }
     }
   ]
