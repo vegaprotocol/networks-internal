@@ -337,6 +337,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "1eZXg3/ilkKtow8CBDoYtq8dCiDQSA4exgyJA2B+ACs=": {
+        "avatar_url": "https://www.gravatar.com/avatar/gyqpk6te6glzfbd62zatwkrim8e4lop0?d=identicon",
+        "country": "CU",
+        "ethereum_address": "0x123169843ed1CCd4829f5D27c8a8b763bf7AE6D1",
+        "id": "57007a22f2c75aea3e4c05ba75eb00c0d88fd3efdeae427e302c8f31c695c7a4",
+        "info_url": "https://en.wikipedia.org/wiki/Culpina",
+        "name": "oppulent-clouds",
+        "tm_pub_key": "1eZXg3/ilkKtow8CBDoYtq8dCiDQSA4exgyJA2B+ACs=",
+        "vega_pub_key": "40adee70226afc800092b80354df8991caa069f88f99a7072d075d098cd811a9",
+        "vega_pub_key_index": 1
+      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -370,17 +381,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "E8WXvgBG6PyLxMWBhSNEMVlFKciWbo2GuSqWE8k9IPk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/g8vxtz01sj1lzm81tyzd29u2okeolht4?d=identicon",
-        "country": "HD",
-        "ethereum_address": "0x1126a2216Bc2B88280e9403C19EA69987e37FE92",
-        "id": "1995592d78151da1e6a6dba743a77c1df7b39a1e54d7218be4e822c5a532d07f",
-        "info_url": "https://en.wikipedia.org/wiki/Gobbaragumpi",
-        "name": "dead-brother",
-        "tm_pub_key": "E8WXvgBG6PyLxMWBhSNEMVlFKciWbo2GuSqWE8k9IPk=",
-        "vega_pub_key": "6980d995686c8f7cfb9efa77200d52da11d6482284dcf41ea2d3b9db03c90af3",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -394,7 +394,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202405281939",
+  "chain_id": "vega-devnet1-202405282019",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-05-28T19:39:33.598023005Z",
+  "genesis_time": "2024-05-28T20:19:11.412782489Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "8499A822FBDD6C3769DC912F84494D113C1A49CD",
-      "name": "dead-brother",
+      "address": "52A2741532C59956964A1C41F4744F8C8D26BDCB",
+      "name": "oppulent-clouds",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "E8WXvgBG6PyLxMWBhSNEMVlFKciWbo2GuSqWE8k9IPk="
+        "value": "1eZXg3/ilkKtow8CBDoYtq8dCiDQSA4exgyJA2B+ACs="
       }
     }
   ]
