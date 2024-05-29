@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "cygyq8AOuCcwhl9n+bM5tjbLbbi/8xjfZW9QlzRXirE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/wbur6l5u6f69l3ly4j5y6c12thquvybr?d=identicon",
-        "country": "PS",
-        "ethereum_address": "0xaC268Cd614ec80649CDE20977Cb0EC76E63d5392",
-        "id": "2f652637893ca552e45bd025dc568a315ec9566945191de11ab1dae6fd4608e2",
-        "info_url": "https://en.wikipedia.org/wiki/Ervin_Peak",
-        "name": "red-cat",
-        "tm_pub_key": "cygyq8AOuCcwhl9n+bM5tjbLbbi/8xjfZW9QlzRXirE=",
-        "vega_pub_key": "c1ce832c3376d16077e5371860a6f2025246d9ed73f4ea8e7658530bead0f691",
+      "dsVRAwGp57G5Ok7winiKX2REPEjCvshDTIcDjEF0Xi8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/8l6aifch2lsnk58y7nkc84luxs826u1s?d=identicon",
+        "country": "QM",
+        "ethereum_address": "0x51393B58BBf37F131acfBA195fAC5Ba47347C519",
+        "id": "24923a264b459f910a99bddbf882416c8f8442f0c152df970a7c07c7f2459c87",
+        "info_url": "https://en.wikipedia.org/wiki/Nasirabad,_Sari",
+        "name": "ideal-vacuum",
+        "tm_pub_key": "dsVRAwGp57G5Ok7winiKX2REPEjCvshDTIcDjEF0Xi8=",
+        "vega_pub_key": "6ea9ec79298febc332c21cc35eb596a36907a10a4ca14ae10b653ae15a6eb541",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202405290919",
+  "chain_id": "vega-devnet1-202405291559",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-05-29T09:19:46.608553844Z",
+  "genesis_time": "2024-05-29T15:59:30.184860118Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "122F5D0139F75E633A193198F7470A372F335608",
-      "name": "red-cat",
+      "address": "04D3D090AF36EEEE4611DADBC7E54A2774114111",
+      "name": "ideal-vacuum",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "cygyq8AOuCcwhl9n+bM5tjbLbbi/8xjfZW9QlzRXirE="
+        "value": "dsVRAwGp57G5Ok7winiKX2REPEjCvshDTIcDjEF0Xi8="
       }
     }
   ]
