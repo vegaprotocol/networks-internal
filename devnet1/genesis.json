@@ -337,17 +337,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "1eZXg3/ilkKtow8CBDoYtq8dCiDQSA4exgyJA2B+ACs=": {
-        "avatar_url": "https://www.gravatar.com/avatar/gyqpk6te6glzfbd62zatwkrim8e4lop0?d=identicon",
-        "country": "CU",
-        "ethereum_address": "0x123169843ed1CCd4829f5D27c8a8b763bf7AE6D1",
-        "id": "57007a22f2c75aea3e4c05ba75eb00c0d88fd3efdeae427e302c8f31c695c7a4",
-        "info_url": "https://en.wikipedia.org/wiki/Culpina",
-        "name": "oppulent-clouds",
-        "tm_pub_key": "1eZXg3/ilkKtow8CBDoYtq8dCiDQSA4exgyJA2B+ACs=",
-        "vega_pub_key": "40adee70226afc800092b80354df8991caa069f88f99a7072d075d098cd811a9",
-        "vega_pub_key_index": 1
-      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -391,10 +380,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "cygyq8AOuCcwhl9n+bM5tjbLbbi/8xjfZW9QlzRXirE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/wbur6l5u6f69l3ly4j5y6c12thquvybr?d=identicon",
+        "country": "PS",
+        "ethereum_address": "0xaC268Cd614ec80649CDE20977Cb0EC76E63d5392",
+        "id": "2f652637893ca552e45bd025dc568a315ec9566945191de11ab1dae6fd4608e2",
+        "info_url": "https://en.wikipedia.org/wiki/Ervin_Peak",
+        "name": "red-cat",
+        "tm_pub_key": "cygyq8AOuCcwhl9n+bM5tjbLbbi/8xjfZW9QlzRXirE=",
+        "vega_pub_key": "c1ce832c3376d16077e5371860a6f2025246d9ed73f4ea8e7658530bead0f691",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202405282041",
+  "chain_id": "vega-devnet1-202405290919",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-05-28T20:41:28.045864142Z",
+  "genesis_time": "2024-05-29T09:19:46.608553844Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "52A2741532C59956964A1C41F4744F8C8D26BDCB",
-      "name": "oppulent-clouds",
+      "address": "122F5D0139F75E633A193198F7470A372F335608",
+      "name": "red-cat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "1eZXg3/ilkKtow8CBDoYtq8dCiDQSA4exgyJA2B+ACs="
+        "value": "cygyq8AOuCcwhl9n+bM5tjbLbbi/8xjfZW9QlzRXirE="
       }
     }
   ]
