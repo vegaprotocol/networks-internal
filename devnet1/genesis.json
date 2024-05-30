@@ -370,6 +370,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "OTfwS8yntDmEvOukcJzsBb88yvBylWXhUXkUuZIDYR4=": {
+        "avatar_url": "https://www.gravatar.com/avatar/geh1kyutdyvoq99c0wh1k68wpvmo6jaq?d=identicon",
+        "country": "ER",
+        "ethereum_address": "0xADDcF62a67Bf215eEA0d432E441a17F783c3d576",
+        "id": "1839b5a6fced1555abe72ee61b4ebd9d04658628a9d4e3b11628bfaa5ebddd3e",
+        "info_url": "https://en.wikipedia.org/wiki/Thor_Martin_Nilsen_Sauvik",
+        "name": "skinny-hat",
+        "tm_pub_key": "OTfwS8yntDmEvOukcJzsBb88yvBylWXhUXkUuZIDYR4=",
+        "vega_pub_key": "d9f7bf644b15cd81c619c1e952d557192e2221d8dc1a070e35f95489e9a55d3a",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -380,21 +391,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "dsVRAwGp57G5Ok7winiKX2REPEjCvshDTIcDjEF0Xi8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/8l6aifch2lsnk58y7nkc84luxs826u1s?d=identicon",
-        "country": "QM",
-        "ethereum_address": "0x51393B58BBf37F131acfBA195fAC5Ba47347C519",
-        "id": "24923a264b459f910a99bddbf882416c8f8442f0c152df970a7c07c7f2459c87",
-        "info_url": "https://en.wikipedia.org/wiki/Nasirabad,_Sari",
-        "name": "ideal-vacuum",
-        "tm_pub_key": "dsVRAwGp57G5Ok7winiKX2REPEjCvshDTIcDjEF0Xi8=",
-        "vega_pub_key": "6ea9ec79298febc332c21cc35eb596a36907a10a4ca14ae10b653ae15a6eb541",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202405291645",
+  "chain_id": "vega-devnet1-202405300950",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-05-29T16:45:24.312865873Z",
+  "genesis_time": "2024-05-30T09:50:18.592141257Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "04D3D090AF36EEEE4611DADBC7E54A2774114111",
-      "name": "ideal-vacuum",
+      "address": "A0D63D46FA6203B8D38FEF46D9770CDA76C07B05",
+      "name": "skinny-hat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "dsVRAwGp57G5Ok7winiKX2REPEjCvshDTIcDjEF0Xi8="
+        "value": "OTfwS8yntDmEvOukcJzsBb88yvBylWXhUXkUuZIDYR4="
       }
     }
   ]
