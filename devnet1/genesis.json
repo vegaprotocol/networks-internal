@@ -337,6 +337,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "/NwZOCEq2ef9HXK0MtpynY+8/ePeB8KAta3qO01kLBE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/12sbbbqitgmhr5hoj5emec89k9ku08bm?d=identicon",
+        "country": "ZX",
+        "ethereum_address": "0x8AEe81876Df5F297481e2eB27EcbE47603cF59d2",
+        "id": "6e3f3be46b48ac65052f9a6a368b27442dd2c77da4fcd9f9e17ff455f09fd390",
+        "info_url": "https://en.wikipedia.org/wiki/Andrea_Grieco",
+        "name": "alert-butterfly",
+        "tm_pub_key": "/NwZOCEq2ef9HXK0MtpynY+8/ePeB8KAta3qO01kLBE=",
+        "vega_pub_key": "548708b76ed41439677297643e65e49468d41a450cbb0a593681dc379e0094a3",
+        "vega_pub_key_index": 1
+      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -370,17 +381,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "OTfwS8yntDmEvOukcJzsBb88yvBylWXhUXkUuZIDYR4=": {
-        "avatar_url": "https://www.gravatar.com/avatar/geh1kyutdyvoq99c0wh1k68wpvmo6jaq?d=identicon",
-        "country": "ER",
-        "ethereum_address": "0xADDcF62a67Bf215eEA0d432E441a17F783c3d576",
-        "id": "1839b5a6fced1555abe72ee61b4ebd9d04658628a9d4e3b11628bfaa5ebddd3e",
-        "info_url": "https://en.wikipedia.org/wiki/Thor_Martin_Nilsen_Sauvik",
-        "name": "skinny-hat",
-        "tm_pub_key": "OTfwS8yntDmEvOukcJzsBb88yvBylWXhUXkUuZIDYR4=",
-        "vega_pub_key": "d9f7bf644b15cd81c619c1e952d557192e2221d8dc1a070e35f95489e9a55d3a",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -394,7 +394,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202405300950",
+  "chain_id": "vega-devnet1-202405311035",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-05-30T09:50:18.592141257Z",
+  "genesis_time": "2024-05-31T10:35:35.831657036Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "A0D63D46FA6203B8D38FEF46D9770CDA76C07B05",
-      "name": "skinny-hat",
+      "address": "C0C98C1619B4A6374F4E9EBBD0225EBA5870A605",
+      "name": "alert-butterfly",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "OTfwS8yntDmEvOukcJzsBb88yvBylWXhUXkUuZIDYR4="
+        "value": "/NwZOCEq2ef9HXK0MtpynY+8/ePeB8KAta3qO01kLBE="
       }
     }
   ]
