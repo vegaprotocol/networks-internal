@@ -11,12 +11,15 @@ port = 80
 version = "v0.71.6"
 repository = "vegaprotocol/vega"
 download_wallet_binary = true
+auto_version = true
 
 wallet_name = "vegamarketsim"
-network = "mainnet-mirror"
-binary = "vegawallet" # this will be used when download_wallet_binary = False
-home = "./wallethome"
+network_name = "mainnet-mirror"
+binary = "vega" # vega binary, as we use vega wallet command
+home = "/opt/wallets-mount/wallethome"
 passphrase_file = "./assets/passphrase.txt"
+tokens_file = "/opt/wallets-mount/wallet-info.json"
+state_file = "/opt/wallets-mount/wallet-state.json"
 
 
 
