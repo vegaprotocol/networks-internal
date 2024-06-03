@@ -162,3 +162,48 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         coinbase_code = "BTC-USDT"
         start_date = "2022-11-01 00:00:00"
         randomise_history = false
+
+[scenario.neon_usdt]
+    market_name = "Neon EVM / Tether USD (Perpetual)"
+    binance_code = "SFPUSDT"
+    feed_price_multiplier = 1
+    step_length_seconds = 5
+    [scenario.neon_usdt.market_manager_args]
+        asset_name = "USDT"
+        adp = 6
+        mdp = 5
+        pdp = 1
+    [scenario.neon_usdt.market_maker_args]
+        market_kappa = 400000
+        market_order_arrival_rate = 1500
+        order_kappa = 0.5
+        order_size = 100
+        order_levels = 25
+        order_spacing = 0.00005
+        order_clipping = 0.0001
+        inventory_lower_boundary = -3
+        inventory_upper_boundary = 3
+        fee_amount = 0.025
+        commitment_amount = 2500000
+        initial_mint = 5500000
+    [scenario.neon_usdt.auction_trader_args]
+        traders = 2
+        initial_volume = 100
+        initial_mint = 100
+    [scenario.neon_usdt.random_trader_args]
+        traders = 10
+        order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+        order_volume = [1, 2, 4, 6, 8, 10, 16, 20, 32, 38, 41, 50] # 
+        step_bias = [0.111, 0.95, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
+        initial_mint = 20000
+    [scenario.neon_usdt.sensitive_trader_args]
+        traders = 0
+        scale = [0.2, 0.4, 0.6, 0.8, 0.10, 0.12, 0.14, 0.16, 0.17, 0.20]
+        max_order_size = [1000.0,  5000.0, 10000.0, 20000.0, 40000.0, 60000.0, 80000.0, 100000.0, 120000.0, 140000.0]
+        initial_mint = 10000
+    [scenario.neon_usdt.simulation_args]
+        n_steps = 99999999
+        granularity = "MINUTE"
+        coinbase_code = "BTC-USDT"
+        start_date = "2022-11-01 00:00:00"
+        randomise_history = false
