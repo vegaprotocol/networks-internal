@@ -18,133 +18,49 @@ binary = "vegawallet" # this will be used when download_wallet_binary = False
 home = "./wallethome"
 passphrase_file = "./assets/passphrase.txt"
 
-[scenario.btcusdt_230930]
-    market_name = "BTC/USDT expiry 2023 Sept 30th"
-    biance_code = "BTCDAI"
-    step_length_seconds = 3
-    [scenario.btcusdt_230930.market_manager_args]
-        market_name = "BTC/USDT expiry 2023 Sept 30th"
-        market_code = "BTC/USDT-230930"
-        asset_name = "USDTT"
+
+
+[scenario.pepe1000]
+    market_name = "1000 PEPE / Tether USD (Perpetual)"
+    binance_code = "PEPEUSDT"
+    feed_price_multiplier = 1000
+    step_length_seconds = 30
+    [scenario.pepe1000.market_manager_args]
+        asset_name = "USDT"
         adp = 6
-        mdp = 4
-        pdp = 0
-    [scenario.btcusdt_230930.market_maker_args]
-        market_kappa = 0.15
-        market_order_arrival_rate = 100
-        order_kappa = 0.15
-        order_size = 1
+        mdp = 5
+        pdp = 1
+    [scenario.pepe1000.market_maker_args]
+        market_kappa = 400000
+        market_order_arrival_rate = 1500
+        order_kappa = 0.5
+        order_size = 100
         order_levels = 25
-        order_spacing = 1
-        order_clipping = 10000
+        order_spacing = 0.00005
+        order_clipping = 0.0001
         inventory_lower_boundary = -3
         inventory_upper_boundary = 3
-        fee_amount = 0.0001
-        commitment_amount = 800000
-        initial_mint = 200000
-    [scenario.btcusdt_230930.auction_trader_args]
-        initial_volume = 0.001
+        fee_amount = 0.025
+        commitment_amount = 2500000
+        initial_mint = 5500000
+    [scenario.pepe1000.auction_trader_args]
+        traders = 2
+        initial_volume = 10000
         initial_mint = 10000
-    [scenario.btcusdt_230930.random_trader_args]
-        order_intensity = [5, 5, 5, 5, 5, 5]
-        order_volume = [0.01, 0.1, 1.0, 0.01, 0.1, 1.0]
-        step_bias = [0.333, 0.012, 0.003, 0.333, 0.012, 0.003]
-        initial_mint = 1000000
-    [scenario.btcusdt_230930.sensitive_trader_args]
-        scale = [10, 10, 10, 10, 10, 10]
-        max_order_size = [0.001, 0.01, 0.1, 0.001, 0.01, 0.1]
+    [scenario.pepe1000.random_trader_args]
+        traders = 10
+        order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+        order_volume = [1000.0, 5000.0, 10000.0, 20000.0, 40000.0, 60000.0, 80000.0, 100000.0, 120000.0, 140000.0, 160000.0, 180000.0] # 
+        step_bias = [0.111, 0.95, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
+        initial_mint = 20000
+    [scenario.pepe1000.sensitive_trader_args]
+        traders = 0
+        scale = [0.2, 0.4, 0.6, 0.8, 0.10, 0.12, 0.14, 0.16, 0.17, 0.20]
+        max_order_size = [1000.0,  5000.0, 10000.0, 20000.0, 40000.0, 60000.0, 80000.0, 100000.0, 120000.0, 140000.0]
         initial_mint = 10000
-    [scenario.btcusdt_230930.simulation_args]
-        n_steps = 360
+    [scenario.pepe1000.simulation_args]
+        n_steps = 99999999
         granularity = "MINUTE"
         coinbase_code = "BTC-USDT"
-        start_date = "2022-11-01 00:00:00"
-        randomise_history = false
-
-
-[scenario.ethusdt_230930]
-    market_name = "ETH/USDT expiry 2023 Sept 30th"
-    biance_code = "ETHDAI"
-    step_length_seconds = 3
-    [scenario.ethusdt_230930.market_manager_args]
-        market_name = "ETH/USDT expiry 2023 Sept 30th"
-        market_code = "ETH/USDT-230930"
-        asset_name = "USDTT"
-        adp = 6
-        mdp = 4
-        pdp = 0
-    [scenario.ethusdt_230930.market_maker_args]
-        market_kappa = 0.15
-        market_order_arrival_rate = 100
-        order_kappa = 0.15
-        order_size = 1
-        order_levels = 25
-        order_spacing = 1
-        order_clipping = 10000
-        inventory_lower_boundary = -3
-        inventory_upper_boundary = 3
-        fee_amount = 0.0001
-        commitment_amount = 400000
-        initial_mint = 200000
-    [scenario.ethusdt_230930.auction_trader_args]
-        initial_volume = 0.001
-        initial_mint = 10000
-    [scenario.ethusdt_230930.random_trader_args]
-        order_intensity = [45, 45, 45]
-        order_volume = [0.01, 0.1, 1.0]
-        step_bias = [0.333, 0.012, 0.003]
-        initial_mint = 1000000
-    [scenario.ethusdt_230930.sensitive_trader_args]
-        scale = [10, 10, 10]
-        max_order_size = [0.001, 0.01, 0.1]
-        initial_mint = 1e4
-    [scenario.ethusdt_230930.simulation_args]
-        n_steps = 360
-        granularity = "MINUTE"
-        coinbase_code = "ETH-USDT"
-        start_date = "2022-11-01 00:00:00"
-        randomise_history = false
-
-
-[scenario.linkusdt_230930]
-    market_name = "LINK/USDT expiry 2023 Sept 30th"
-    biance_code = "LINKUSDT"
-    step_length_seconds = 1
-    [scenario.linkusdt_230930.market_manager_args]
-        market_name = "LINK/USDT expiry 2023 Sept 30th"
-        market_code = "LINK/USDT-230930"
-        asset_name = "USDTT"
-        adp = 6
-        mdp = 4
-        pdp = 0
-    [scenario.linkusdt_230930.market_maker_args]
-        market_kappa = 1000
-        market_order_arrival_rate = 5000
-        order_kappa = 500
-        order_size = 1
-        order_levels = 25
-        order_spacing = 0.0002
-        order_clipping = 20000
-        inventory_lower_boundary = -5000
-        inventory_upper_boundary = 5000
-        fee_amount = 0.0001
-        commitment_amount = 400000
-        initial_mint = 200000
-    [scenario.linkusdt_230930.auction_trader_args]
-        initial_volume = 1
-        initial_mint = 10000
-    [scenario.linkusdt_230930.random_trader_args]
-        order_intensity = [100, 100, 100]
-        order_volume = [0.01, 0.01, 0.01]
-        step_bias = [0.8, 0.6, 0.4]
-        initial_mint = 1000000
-    [scenario.linkusdt_230930.sensitive_trader_args]
-        scale = [10, 10, 10]
-        max_order_size = [0.001, 0.01, 0.1]
-        initial_mint = 1e4
-    [scenario.linkusdt_230930.simulation_args]
-        n_steps = 360
-        granularity = "MINUTE"
-        coinbase_code = "LINK-USDT"
         start_date = "2022-11-01 00:00:00"
         randomise_history = false
