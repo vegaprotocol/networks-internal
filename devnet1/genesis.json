@@ -337,17 +337,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "/NwZOCEq2ef9HXK0MtpynY+8/ePeB8KAta3qO01kLBE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/12sbbbqitgmhr5hoj5emec89k9ku08bm?d=identicon",
-        "country": "ZX",
-        "ethereum_address": "0x8AEe81876Df5F297481e2eB27EcbE47603cF59d2",
-        "id": "6e3f3be46b48ac65052f9a6a368b27442dd2c77da4fcd9f9e17ff455f09fd390",
-        "info_url": "https://en.wikipedia.org/wiki/Andrea_Grieco",
-        "name": "alert-butterfly",
-        "tm_pub_key": "/NwZOCEq2ef9HXK0MtpynY+8/ePeB8KAta3qO01kLBE=",
-        "vega_pub_key": "548708b76ed41439677297643e65e49468d41a450cbb0a593681dc379e0094a3",
-        "vega_pub_key_index": 1
-      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -391,10 +380,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "s43lzpIDl9TKWDkcU0SdfpyVD5wH8ptJXA0b+gHytu0=": {
+        "avatar_url": "https://www.gravatar.com/avatar/sj0un9vsp3bmmccaqx48r8hrgoefh2el?d=identicon",
+        "country": "UK",
+        "ethereum_address": "0x4ccBf7a42d14Ce9808bF5A74C913D676C9dB0D7B",
+        "id": "ff34f71ab032a7ee47b72f08d90db3fd089ff6175207b9d9039139667c6fbd9c",
+        "info_url": "https://en.wikipedia.org/wiki/Opening_Dance",
+        "name": "promising-stove",
+        "tm_pub_key": "s43lzpIDl9TKWDkcU0SdfpyVD5wH8ptJXA0b+gHytu0=",
+        "vega_pub_key": "9de7fbc71ac4e86df5c00d72fd5d35c17c27f27e00f6c15f0dff1433e4d4b9dc",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202405311035",
+  "chain_id": "vega-devnet1-202406031514",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-05-31T10:35:35.831657036Z",
+  "genesis_time": "2024-06-03T15:14:45.647967951Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "C0C98C1619B4A6374F4E9EBBD0225EBA5870A605",
-      "name": "alert-butterfly",
+      "address": "79D1E913D9E7A0EC9510DC651D72B0C774B153EF",
+      "name": "promising-stove",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "/NwZOCEq2ef9HXK0MtpynY+8/ePeB8KAta3qO01kLBE="
+        "value": "s43lzpIDl9TKWDkcU0SdfpyVD5wH8ptJXA0b+gHytu0="
       }
     }
   ]
