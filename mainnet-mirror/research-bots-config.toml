@@ -8,8 +8,9 @@ interface = "0.0.0.0"
 port = 80
 
 [vegawallet]
-version = "v0.71.6"
+version = "" # ignored if auto_version == true
 repository = "vegaprotocol/vega"
+artifact_name = "vega"
 download_wallet_binary = true
 auto_version = true
 
