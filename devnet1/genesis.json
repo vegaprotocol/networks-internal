@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "V8b+pmGWSvASXqY+QTjF4gEezzjDELD2mHuDZov+oow=": {
-        "avatar_url": "https://www.gravatar.com/avatar/vr94b6y4cbf395nge5tfbbjkhvqvf5zb?d=identicon",
-        "country": "AJ",
-        "ethereum_address": "0xcd130128B96490475EEA45a9829F41837C044B06",
-        "id": "bd8759261a691a2bb95dccf808382e154f5bf26f94b5a3b92e671a6be393c8b8",
-        "info_url": "https://en.wikipedia.org/wiki/Arts_First",
-        "name": "gifted-bat",
-        "tm_pub_key": "V8b+pmGWSvASXqY+QTjF4gEezzjDELD2mHuDZov+oow=",
-        "vega_pub_key": "52f8228976e28579064bc6f4d3a5cb2231ee6891ca211cba5c2cd0585a027bba",
+      "kvVuMBfPGhaRdR7uMxE3J0/tl6chYn/V86eXkFmMhuY=": {
+        "avatar_url": "https://www.gravatar.com/avatar/l9o2jtyyw1bxfomiot1v6oa3xwudt8wr?d=identicon",
+        "country": "LJ",
+        "ethereum_address": "0xDc026A6becBeDc874044e93Ba4F6e72B7e40D271",
+        "id": "07be2251004e562d402a2f899e699b86e2585a5be32e4dac83fbcf26588e6817",
+        "info_url": "https://en.wikipedia.org/wiki/Ernest_Jeremiah_Chukwuma",
+        "name": "purple-butterfly",
+        "tm_pub_key": "kvVuMBfPGhaRdR7uMxE3J0/tl6chYn/V86eXkFmMhuY=",
+        "vega_pub_key": "1d7e7589533191da6caca2882f2e20dfbe51ee7f1c60110c192cb2dadf054582",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202406041208",
+  "chain_id": "vega-devnet1-202406041530",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-06-04T12:08:42.776105825Z",
+  "genesis_time": "2024-06-04T15:30:19.417681049Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "E983C73B27F452A4D6A9C948EEB902792C4094ED",
-      "name": "gifted-bat",
+      "address": "27E1D7EED0921AF3BF848F2856D9E2F30EA5483F",
+      "name": "purple-butterfly",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "V8b+pmGWSvASXqY+QTjF4gEezzjDELD2mHuDZov+oow="
+        "value": "kvVuMBfPGhaRdR7uMxE3J0/tl6chYn/V86eXkFmMhuY="
       }
     }
   ]
