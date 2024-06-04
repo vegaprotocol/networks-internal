@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "garKwtM6E5TCyrGBGRaU1VaB5xVnQNUYNp4ug8Jzfnk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/k9f9mwyl8yjgo7g69aws8liqtnsritxq?d=identicon",
-        "country": "TS",
-        "ethereum_address": "0xB9E7Fb891d04530413F8D953c0D43Bf4Be30f983",
-        "id": "4f364f7970672b616c9570cd099846c56a2053fcc1e8faf79cdcb42c542ddae5",
-        "info_url": "https://en.wikipedia.org/wiki/New_Thacker,_West_Virginia",
-        "name": "loose-milk",
-        "tm_pub_key": "garKwtM6E5TCyrGBGRaU1VaB5xVnQNUYNp4ug8Jzfnk=",
-        "vega_pub_key": "71607b7a9d1232409e2e0cc40e64ef0b6fe852034a651cd40a254e9eb18fd3e6",
+      "V8b+pmGWSvASXqY+QTjF4gEezzjDELD2mHuDZov+oow=": {
+        "avatar_url": "https://www.gravatar.com/avatar/vr94b6y4cbf395nge5tfbbjkhvqvf5zb?d=identicon",
+        "country": "AJ",
+        "ethereum_address": "0xcd130128B96490475EEA45a9829F41837C044B06",
+        "id": "bd8759261a691a2bb95dccf808382e154f5bf26f94b5a3b92e671a6be393c8b8",
+        "info_url": "https://en.wikipedia.org/wiki/Arts_First",
+        "name": "gifted-bat",
+        "tm_pub_key": "V8b+pmGWSvASXqY+QTjF4gEezzjDELD2mHuDZov+oow=",
+        "vega_pub_key": "52f8228976e28579064bc6f4d3a5cb2231ee6891ca211cba5c2cd0585a027bba",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202406041041",
+  "chain_id": "vega-devnet1-202406041208",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-06-04T10:41:46.216614853Z",
+  "genesis_time": "2024-06-04T12:08:42.776105825Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "1E8D1F09E2A5E31840428B9D6B1604CF30FF4461",
-      "name": "loose-milk",
+      "address": "E983C73B27F452A4D6A9C948EEB902792C4094ED",
+      "name": "gifted-bat",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "garKwtM6E5TCyrGBGRaU1VaB5xVnQNUYNp4ug8Jzfnk="
+        "value": "V8b+pmGWSvASXqY+QTjF4gEezzjDELD2mHuDZov+oow="
       }
     }
   ]
