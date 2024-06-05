@@ -370,17 +370,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "Hv4w+uXwoRaXHZNcoCt4yQ8jUS64Cx0MYvVJOd1qWIM=": {
-        "avatar_url": "https://www.gravatar.com/avatar/jlnq7wopiy4kik9f5cpw9cl18ei8aszk?d=identicon",
-        "country": "LF",
-        "ethereum_address": "0x18d59A72A522a423D709c61268F6bd86381A4586",
-        "id": "120dd11d4c8624af55394a5b55dfe719cdb96404851686ebf4371999bd83f367",
-        "info_url": "https://en.wikipedia.org/wiki/Rudolf-Harbig-Stadion",
-        "name": "mango-day",
-        "tm_pub_key": "Hv4w+uXwoRaXHZNcoCt4yQ8jUS64Cx0MYvVJOd1qWIM=",
-        "vega_pub_key": "703dae810171b76fb9e8180ea4f66d5872045b082b9e3fea2ff51a24e72a4129",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -391,10 +380,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "uNNlMgdirbWzBD8NxcMZqF9rDBbsmQ/ax0KXMzLQ7hQ=": {
+        "avatar_url": "https://www.gravatar.com/avatar/8uefcjuh84d0v9rcbvaht2ycq70b0mcq?d=identicon",
+        "country": "ZU",
+        "ethereum_address": "0x508cB293505474De1A2149a293cA4bF061F11D35",
+        "id": "a44d86d278554f518c360cfb135bf4ed041fbe8bba6b9eb01b23e6c17fbd8b72",
+        "info_url": "https://en.wikipedia.org/wiki/Football_Champion",
+        "name": "tender-horse",
+        "tm_pub_key": "uNNlMgdirbWzBD8NxcMZqF9rDBbsmQ/ax0KXMzLQ7hQ=",
+        "vega_pub_key": "0157012daef82c254857b96a07644415375f27ed70be5b43a6071b0d9e4fb4f7",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202406051014",
+  "chain_id": "vega-devnet1-202406051114",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-06-05T10:14:54.285638788Z",
+  "genesis_time": "2024-06-05T11:14:38.828530926Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "474B5B3C520892C1FD60AAD00C707672B47AE7E2",
-      "name": "mango-day",
+      "address": "38D685E5BF9D8896EDB889ECC940FE7E60A530DF",
+      "name": "tender-horse",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "Hv4w+uXwoRaXHZNcoCt4yQ8jUS64Cx0MYvVJOd1qWIM="
+        "value": "uNNlMgdirbWzBD8NxcMZqF9rDBbsmQ/ax0KXMzLQ7hQ="
       }
     }
   ]
