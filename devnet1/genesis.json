@@ -337,6 +337,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "3BEozGteCzSJThouO6NyO5yD3Y6yFVHKrumhkRQdSMU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/bgku9s91sntz25p9anevpzles0wu5n2w?d=identicon",
+        "country": "RT",
+        "ethereum_address": "0x9Bb450F5391123105074dE91E6e36279375A43e6",
+        "id": "c152cab9866edcfe28afda86bc61a89d9cc68895184530a4c759b357c0ae26f3",
+        "info_url": "https://en.wikipedia.org/wiki/Corvus_(constellation)",
+        "name": "better-honey",
+        "tm_pub_key": "3BEozGteCzSJThouO6NyO5yD3Y6yFVHKrumhkRQdSMU=",
+        "vega_pub_key": "a3978e70a8730501bb081cdd8cd4be765b4596f286ef026a30dbb381da3b84b5",
+        "vega_pub_key_index": 1
+      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -346,17 +357,6 @@
         "name": "important-mango",
         "tm_pub_key": "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=",
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
-        "vega_pub_key_index": 1
-      },
-      "5+HCdQlTzokPiBaOPsVNRIcwFi8LDRBIMB7G9+gc5eI=": {
-        "avatar_url": "https://www.gravatar.com/avatar/av9eburcm0smlcobz7d7s3axo2aoa6q8?d=identicon",
-        "country": "UM",
-        "ethereum_address": "0x2E776f294eFB41b9ba285f43bf2B3B5f51eAf004",
-        "id": "c629e80d2698bc24a7ae277bbbfe5b55d84d08efbb3e6c3811c8ec8ffadcf98d",
-        "info_url": "https://en.wikipedia.org/wiki/Veeranatyam",
-        "name": "courageous-monkey",
-        "tm_pub_key": "5+HCdQlTzokPiBaOPsVNRIcwFi8LDRBIMB7G9+gc5eI=",
-        "vega_pub_key": "ccd23cd6fc75ab3a6b1ede984aa646ac76dcd0cc07c54b5911a64ebf60aa084e",
         "vega_pub_key_index": 1
       },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
@@ -394,7 +394,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202406051213",
+  "chain_id": "vega-devnet1-202406051821",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-06-05T12:13:45.130537102Z",
+  "genesis_time": "2024-06-05T18:21:17.333357484Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "9051EDB87D486C82E396B77B15C2C5ED80D780D1",
-      "name": "courageous-monkey",
+      "address": "9351EDBA1E3928F83773EA92ABC08072A9B63A00",
+      "name": "better-honey",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "5+HCdQlTzokPiBaOPsVNRIcwFi8LDRBIMB7G9+gc5eI="
+        "value": "3BEozGteCzSJThouO6NyO5yD3Y6yFVHKrumhkRQdSMU="
       }
     }
   ]
