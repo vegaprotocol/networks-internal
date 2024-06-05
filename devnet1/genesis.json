@@ -348,6 +348,17 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
+      "5+HCdQlTzokPiBaOPsVNRIcwFi8LDRBIMB7G9+gc5eI=": {
+        "avatar_url": "https://www.gravatar.com/avatar/av9eburcm0smlcobz7d7s3axo2aoa6q8?d=identicon",
+        "country": "UM",
+        "ethereum_address": "0x2E776f294eFB41b9ba285f43bf2B3B5f51eAf004",
+        "id": "c629e80d2698bc24a7ae277bbbfe5b55d84d08efbb3e6c3811c8ec8ffadcf98d",
+        "info_url": "https://en.wikipedia.org/wiki/Veeranatyam",
+        "name": "courageous-monkey",
+        "tm_pub_key": "5+HCdQlTzokPiBaOPsVNRIcwFi8LDRBIMB7G9+gc5eI=",
+        "vega_pub_key": "ccd23cd6fc75ab3a6b1ede984aa646ac76dcd0cc07c54b5911a64ebf60aa084e",
+        "vega_pub_key_index": 1
+      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -380,21 +391,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "uNNlMgdirbWzBD8NxcMZqF9rDBbsmQ/ax0KXMzLQ7hQ=": {
-        "avatar_url": "https://www.gravatar.com/avatar/8uefcjuh84d0v9rcbvaht2ycq70b0mcq?d=identicon",
-        "country": "ZU",
-        "ethereum_address": "0x508cB293505474De1A2149a293cA4bF061F11D35",
-        "id": "a44d86d278554f518c360cfb135bf4ed041fbe8bba6b9eb01b23e6c17fbd8b72",
-        "info_url": "https://en.wikipedia.org/wiki/Football_Champion",
-        "name": "tender-horse",
-        "tm_pub_key": "uNNlMgdirbWzBD8NxcMZqF9rDBbsmQ/ax0KXMzLQ7hQ=",
-        "vega_pub_key": "0157012daef82c254857b96a07644415375f27ed70be5b43a6071b0d9e4fb4f7",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202406051114",
+  "chain_id": "vega-devnet1-202406051213",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-06-05T11:14:38.828530926Z",
+  "genesis_time": "2024-06-05T12:13:45.130537102Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "38D685E5BF9D8896EDB889ECC940FE7E60A530DF",
-      "name": "tender-horse",
+      "address": "9051EDB87D486C82E396B77B15C2C5ED80D780D1",
+      "name": "courageous-monkey",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "uNNlMgdirbWzBD8NxcMZqF9rDBbsmQ/ax0KXMzLQ7hQ="
+        "value": "5+HCdQlTzokPiBaOPsVNRIcwFi8LDRBIMB7G9+gc5eI="
       }
     }
   ]
