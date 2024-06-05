@@ -370,6 +370,17 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
+      "Hv4w+uXwoRaXHZNcoCt4yQ8jUS64Cx0MYvVJOd1qWIM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/jlnq7wopiy4kik9f5cpw9cl18ei8aszk?d=identicon",
+        "country": "LF",
+        "ethereum_address": "0x18d59A72A522a423D709c61268F6bd86381A4586",
+        "id": "120dd11d4c8624af55394a5b55dfe719cdb96404851686ebf4371999bd83f367",
+        "info_url": "https://en.wikipedia.org/wiki/Rudolf-Harbig-Stadion",
+        "name": "mango-day",
+        "tm_pub_key": "Hv4w+uXwoRaXHZNcoCt4yQ8jUS64Cx0MYvVJOd1qWIM=",
+        "vega_pub_key": "703dae810171b76fb9e8180ea4f66d5872045b082b9e3fea2ff51a24e72a4129",
+        "vega_pub_key_index": 1
+      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -380,21 +391,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "kvVuMBfPGhaRdR7uMxE3J0/tl6chYn/V86eXkFmMhuY=": {
-        "avatar_url": "https://www.gravatar.com/avatar/l9o2jtyyw1bxfomiot1v6oa3xwudt8wr?d=identicon",
-        "country": "LJ",
-        "ethereum_address": "0xDc026A6becBeDc874044e93Ba4F6e72B7e40D271",
-        "id": "07be2251004e562d402a2f899e699b86e2585a5be32e4dac83fbcf26588e6817",
-        "info_url": "https://en.wikipedia.org/wiki/Ernest_Jeremiah_Chukwuma",
-        "name": "purple-butterfly",
-        "tm_pub_key": "kvVuMBfPGhaRdR7uMxE3J0/tl6chYn/V86eXkFmMhuY=",
-        "vega_pub_key": "1d7e7589533191da6caca2882f2e20dfbe51ee7f1c60110c192cb2dadf054582",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202406041530",
+  "chain_id": "vega-devnet1-202406051014",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-06-04T15:30:19.417681049Z",
+  "genesis_time": "2024-06-05T10:14:54.285638788Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "27E1D7EED0921AF3BF848F2856D9E2F30EA5483F",
-      "name": "purple-butterfly",
+      "address": "474B5B3C520892C1FD60AAD00C707672B47AE7E2",
+      "name": "mango-day",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "kvVuMBfPGhaRdR7uMxE3J0/tl6chYn/V86eXkFmMhuY="
+        "value": "Hv4w+uXwoRaXHZNcoCt4yQ8jUS64Cx0MYvVJOd1qWIM="
       }
     }
   ]
