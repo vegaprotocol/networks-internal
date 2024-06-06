@@ -337,6 +337,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "2a4hxsJAwRYzwBq3LI+ZfJTxmh9lUn22r1WxD+NXq+M=": {
+        "avatar_url": "https://www.gravatar.com/avatar/i8dezyl358oylaxnsgsj3im8sjdu6uux?d=identicon",
+        "country": "BY",
+        "ethereum_address": "0xe4643A1c135f48fa02E3Bd326AE844FB494d6f1e",
+        "id": "b2222c0302e3f0a6cb6eed6c33854471f4c946e60f85a46c8829f232a9de95d0",
+        "info_url": "https://en.wikipedia.org/wiki/2002%E2%80%9303_Coupe_de_France",
+        "name": "oppulent-shirt",
+        "tm_pub_key": "2a4hxsJAwRYzwBq3LI+ZfJTxmh9lUn22r1WxD+NXq+M=",
+        "vega_pub_key": "c8af11862a2af9aa8049af075e657fc5e20bc41904e159bd7d0d2997eef821d9",
+        "vega_pub_key_index": 1
+      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -380,21 +391,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "jotWpmANzfF0CqrwaEE8K/Rk6BJDk26xFpMfE/zxBuU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/2qt9gkf7clsmm87lt8qp6rjerrptm9y7?d=identicon",
-        "country": "NC",
-        "ethereum_address": "0xf83270C22abF5594faD9F7640a8895ADbEE1f05f",
-        "id": "5a85b555f2744c78e43e6d90de1b82a841ee3821414d2ee829f01295cb541928",
-        "info_url": "https://en.wikipedia.org/wiki/Mike_Hubbard_(politician)",
-        "name": "wrong-doctor",
-        "tm_pub_key": "jotWpmANzfF0CqrwaEE8K/Rk6BJDk26xFpMfE/zxBuU=",
-        "vega_pub_key": "6f374286021338b3a7026f45c3e5bb1687b5a9d9e79c021f84d7213ce5c41381",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202406061006",
+  "chain_id": "vega-devnet1-202406061235",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-06-06T10:06:26.848942601Z",
+  "genesis_time": "2024-06-06T12:35:19.50857814Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "0EED577159498E14123152AFE553F607290C7826",
-      "name": "wrong-doctor",
+      "address": "45E8847D98385AEDA8D662DCC5EB595E3B2B5EA1",
+      "name": "oppulent-shirt",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "jotWpmANzfF0CqrwaEE8K/Rk6BJDk26xFpMfE/zxBuU="
+        "value": "2a4hxsJAwRYzwBq3LI+ZfJTxmh9lUn22r1WxD+NXq+M="
       }
     }
   ]
