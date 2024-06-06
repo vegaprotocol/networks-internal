@@ -337,17 +337,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "3BEozGteCzSJThouO6NyO5yD3Y6yFVHKrumhkRQdSMU=": {
-        "avatar_url": "https://www.gravatar.com/avatar/bgku9s91sntz25p9anevpzles0wu5n2w?d=identicon",
-        "country": "RT",
-        "ethereum_address": "0x9Bb450F5391123105074dE91E6e36279375A43e6",
-        "id": "c152cab9866edcfe28afda86bc61a89d9cc68895184530a4c759b357c0ae26f3",
-        "info_url": "https://en.wikipedia.org/wiki/Corvus_(constellation)",
-        "name": "better-honey",
-        "tm_pub_key": "3BEozGteCzSJThouO6NyO5yD3Y6yFVHKrumhkRQdSMU=",
-        "vega_pub_key": "a3978e70a8730501bb081cdd8cd4be765b4596f286ef026a30dbb381da3b84b5",
-        "vega_pub_key_index": 1
-      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -391,10 +380,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "jotWpmANzfF0CqrwaEE8K/Rk6BJDk26xFpMfE/zxBuU=": {
+        "avatar_url": "https://www.gravatar.com/avatar/2qt9gkf7clsmm87lt8qp6rjerrptm9y7?d=identicon",
+        "country": "NC",
+        "ethereum_address": "0xf83270C22abF5594faD9F7640a8895ADbEE1f05f",
+        "id": "5a85b555f2744c78e43e6d90de1b82a841ee3821414d2ee829f01295cb541928",
+        "info_url": "https://en.wikipedia.org/wiki/Mike_Hubbard_(politician)",
+        "name": "wrong-doctor",
+        "tm_pub_key": "jotWpmANzfF0CqrwaEE8K/Rk6BJDk26xFpMfE/zxBuU=",
+        "vega_pub_key": "6f374286021338b3a7026f45c3e5bb1687b5a9d9e79c021f84d7213ce5c41381",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202406051821",
+  "chain_id": "vega-devnet1-202406061006",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-06-05T18:21:17.333357484Z",
+  "genesis_time": "2024-06-06T10:06:26.848942601Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "9351EDBA1E3928F83773EA92ABC08072A9B63A00",
-      "name": "better-honey",
+      "address": "0EED577159498E14123152AFE553F607290C7826",
+      "name": "wrong-doctor",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "3BEozGteCzSJThouO6NyO5yD3Y6yFVHKrumhkRQdSMU="
+        "value": "jotWpmANzfF0CqrwaEE8K/Rk6BJDk26xFpMfE/zxBuU="
       }
     }
   ]
