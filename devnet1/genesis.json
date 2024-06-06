@@ -337,17 +337,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "2a4hxsJAwRYzwBq3LI+ZfJTxmh9lUn22r1WxD+NXq+M=": {
-        "avatar_url": "https://www.gravatar.com/avatar/i8dezyl358oylaxnsgsj3im8sjdu6uux?d=identicon",
-        "country": "BY",
-        "ethereum_address": "0xe4643A1c135f48fa02E3Bd326AE844FB494d6f1e",
-        "id": "b2222c0302e3f0a6cb6eed6c33854471f4c946e60f85a46c8829f232a9de95d0",
-        "info_url": "https://en.wikipedia.org/wiki/2002%E2%80%9303_Coupe_de_France",
-        "name": "oppulent-shirt",
-        "tm_pub_key": "2a4hxsJAwRYzwBq3LI+ZfJTxmh9lUn22r1WxD+NXq+M=",
-        "vega_pub_key": "c8af11862a2af9aa8049af075e657fc5e20bc41904e159bd7d0d2997eef821d9",
-        "vega_pub_key_index": 1
-      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -357,6 +346,17 @@
         "name": "important-mango",
         "tm_pub_key": "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=",
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
+        "vega_pub_key_index": 1
+      },
+      "6NwiTWYlw2fM6RSMzvTydjZva5TTgr1zMa7gTCQkhp8=": {
+        "avatar_url": "https://www.gravatar.com/avatar/mm8v65v1h7jj3njimsidx44q9pbuyjbk?d=identicon",
+        "country": "IV",
+        "ethereum_address": "0x950A7526260dD18472D71c8099B01c4E5036dc97",
+        "id": "506462e87addb581a5623370ffc0459a09169a137b08bf5c77e12b585b2ff773",
+        "info_url": "https://en.wikipedia.org/wiki/Ted_Garside",
+        "name": "funny-pen",
+        "tm_pub_key": "6NwiTWYlw2fM6RSMzvTydjZva5TTgr1zMa7gTCQkhp8=",
+        "vega_pub_key": "ff9754997b2e564ea55a4c5aef6a4be0cd2770cd3fe6f2ba407b4475c8c70430",
         "vega_pub_key_index": 1
       },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
@@ -394,7 +394,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202406061235",
+  "chain_id": "vega-devnet1-202406061335",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-06-06T12:35:19.50857814Z",
+  "genesis_time": "2024-06-06T13:35:01.94395427Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "45E8847D98385AEDA8D662DCC5EB595E3B2B5EA1",
-      "name": "oppulent-shirt",
+      "address": "97553043149879125FB584690F335C0C00066C89",
+      "name": "funny-pen",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "2a4hxsJAwRYzwBq3LI+ZfJTxmh9lUn22r1WxD+NXq+M="
+        "value": "6NwiTWYlw2fM6RSMzvTydjZva5TTgr1zMa7gTCQkhp8="
       }
     }
   ]
