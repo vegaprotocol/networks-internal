@@ -348,6 +348,17 @@
         "vega_pub_key": "ac8f29b5d130da03d07fdb73791a851937e7b28ccc20f5f0ef614ca11edc9377",
         "vega_pub_key_index": 1
       },
+      "4w6uvdFd3iDYms/HW+90yiStKdkB352Dru+2GO35ZYk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/hm1llb3cxmu55te69oym3i6erllz3tu4?d=identicon",
+        "country": "XB",
+        "ethereum_address": "0xC99fA322AB452227b3a62eeB30319E4368Ef5464",
+        "id": "bec48d789d9779d8c016b2de06586bbc2a5e157aa4c4555143d9713aa6c58109",
+        "info_url": "https://en.wikipedia.org/wiki/Lesotho_at_the_2014_Summer_Youth_Olympics",
+        "name": "better-pizza",
+        "tm_pub_key": "4w6uvdFd3iDYms/HW+90yiStKdkB352Dru+2GO35ZYk=",
+        "vega_pub_key": "edfa0f3ce64b83bb75efd7c2675b077eca483f7283b3624623a4b65919b16f73",
+        "vega_pub_key_index": 1
+      },
       "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=": {
         "avatar_url": "https://www.gravatar.com/avatar/37kc8jqbc2tw6iybnl1ce35k7sdmxr9o?d=identicon",
         "country": "QV",
@@ -380,21 +391,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "m4w2Huym0G0/I42X3ckfez/a2RvUqMuIdW2/3y0vJTA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/l3cuynomgq1co83yrfnhzc8k3ztjit9b?d=identicon",
-        "country": "VD",
-        "ethereum_address": "0x84A45A90B17E7467657deF12a13a8091E20DfA2b",
-        "id": "55cecefe2d9eac8ccb44eeac051e4490085ca01faaa070adcead2374f5ce58a6",
-        "info_url": "https://en.wikipedia.org/wiki/Brooklyn_Historic_Railway_Association",
-        "name": "fluky-week",
-        "tm_pub_key": "m4w2Huym0G0/I42X3ckfez/a2RvUqMuIdW2/3y0vJTA=",
-        "vega_pub_key": "08ff647cef6a3569be6d53a7eae7df12bc592bccf57cc4e5cb5e86ef29db186e",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202406071103",
+  "chain_id": "vega-devnet1-202406071251",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-06-07T11:03:57.390960146Z",
+  "genesis_time": "2024-06-07T12:51:03.318450514Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "77948DE913341B0107CBA88ED18850BB565303F7",
-      "name": "fluky-week",
+      "address": "10F743D316C8F945FB6046CBC18012AC63F42F5C",
+      "name": "better-pizza",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "m4w2Huym0G0/I42X3ckfez/a2RvUqMuIdW2/3y0vJTA="
+        "value": "4w6uvdFd3iDYms/HW+90yiStKdkB352Dru+2GO35ZYk="
       }
     }
   ]
