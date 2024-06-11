@@ -337,6 +337,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "3SCNWE//yGFJAZDzPvEUryyjImS2AwJE4XbhbwSc3DE=": {
+        "avatar_url": "https://www.gravatar.com/avatar/m28qennc13gkren9b5qggr5jwo47t8y4?d=identicon",
+        "country": "HA",
+        "ethereum_address": "0xac917630a34ee44E85a279a8B6D7230788FbB8d2",
+        "id": "25eef113499ff79d790d3e5e716f36ec8f57a0c92425d391dd2e6c786232ebd1",
+        "info_url": "https://en.wikipedia.org/wiki/List_of_Turkish_films_of_2024",
+        "name": "fuzzy-burger",
+        "tm_pub_key": "3SCNWE//yGFJAZDzPvEUryyjImS2AwJE4XbhbwSc3DE=",
+        "vega_pub_key": "0d7ef2912ca57cd9e57867a51918085163910a9183ac0630dd0b3077f65ad83d",
+        "vega_pub_key_index": 1
+      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -380,21 +391,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "tQtuedBZheVbsE53X5aQj8L1Rf9sQtkhnGP3WaY/lN8=": {
-        "avatar_url": "https://www.gravatar.com/avatar/jojpcvafgfetw1fb9rhhfrsczospz904?d=identicon",
-        "country": "QE",
-        "ethereum_address": "0xB9455302e35B0726299441a7fEff7aB44710C0ab",
-        "id": "290661b43a4a0b20fe34b9f7326dc6a9c318a843abb2cb4fe578d440d290b6bd",
-        "info_url": "https://en.wikipedia.org/wiki/Nibulon_Shipyard",
-        "name": "exuberant-park",
-        "tm_pub_key": "tQtuedBZheVbsE53X5aQj8L1Rf9sQtkhnGP3WaY/lN8=",
-        "vega_pub_key": "9862fc57ce91e50267aa7b3a422ef4f2d981884d0bb473827d3581186a9779a0",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202406100947",
+  "chain_id": "vega-devnet1-202406110820",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-06-10T09:47:37.33328858Z",
+  "genesis_time": "2024-06-11T08:20:30.918314325Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "061DB381970C7FA29D81CE49DD3BE741A778DFFB",
-      "name": "exuberant-park",
+      "address": "DC8AE4876AB28644594800A0642F03231BBDB3AE",
+      "name": "fuzzy-burger",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "tQtuedBZheVbsE53X5aQj8L1Rf9sQtkhnGP3WaY/lN8="
+        "value": "3SCNWE//yGFJAZDzPvEUryyjImS2AwJE4XbhbwSc3DE="
       }
     }
   ]
