@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "w7JPISUMQaFhQOrk7iwg7nCfa+bSzRjkgLlsxw65P0U=": {
-        "avatar_url": "https://www.gravatar.com/avatar/im96elnozyzuicyhx6wcn1tpcywrf6yh?d=identicon",
-        "country": "NU",
-        "ethereum_address": "0xa6Bfd95d91FfdC202BE0Ab20E1269F9b82b89Aff",
-        "id": "898dd5835d3120d8fa13c4e94951f05cb72dfe54ac857733aa628a8d0721f858",
-        "info_url": "https://en.wikipedia.org/wiki/Limburg-Staffel%E2%80%93Siershahn_railway",
-        "name": "magnificent-bus",
-        "tm_pub_key": "w7JPISUMQaFhQOrk7iwg7nCfa+bSzRjkgLlsxw65P0U=",
-        "vega_pub_key": "87f60cefa565583520c0a3e380aaf25c0f5b18650919c952155bb688dff488a0",
+      "y12o3OdQTet5SxPu5bBOclnOyHy7LQ8XEddRw1V8Nhg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/jzob6egtqwbsv4kxxstljzhx9652sbn2?d=identicon",
+        "country": "XW",
+        "ethereum_address": "0xEDdaB1A12Ff308a6CbC28888eBE91DD67aB2C5D4",
+        "id": "c6d5c9a2dd147bb4f6c6e51951c3f7cc9fabe31f6815980065a23984b7da2058",
+        "info_url": "https://en.wikipedia.org/wiki/Kal-e_Karab",
+        "name": "perplexed-bee",
+        "tm_pub_key": "y12o3OdQTet5SxPu5bBOclnOyHy7LQ8XEddRw1V8Nhg=",
+        "vega_pub_key": "e8476b1d275ff76ae2bf20055f610b130a99b5ed198c36d8cfebb376e1aad7b4",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202406111830",
+  "chain_id": "vega-devnet1-202406112037",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-06-11T18:30:15.837045863Z",
+  "genesis_time": "2024-06-11T20:37:34.094505679Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "010A2AFE38FE16008046E4A41F0A466535BCA07F",
-      "name": "magnificent-bus",
+      "address": "8A9D1AE90D39F5D8EE6BE7C3EEA6CE6616487400",
+      "name": "perplexed-bee",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "w7JPISUMQaFhQOrk7iwg7nCfa+bSzRjkgLlsxw65P0U="
+        "value": "y12o3OdQTet5SxPu5bBOclnOyHy7LQ8XEddRw1V8Nhg="
       }
     }
   ]
