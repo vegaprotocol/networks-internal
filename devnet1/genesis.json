@@ -381,20 +381,20 @@
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
       },
-      "y12o3OdQTet5SxPu5bBOclnOyHy7LQ8XEddRw1V8Nhg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/jzob6egtqwbsv4kxxstljzhx9652sbn2?d=identicon",
-        "country": "XW",
-        "ethereum_address": "0xEDdaB1A12Ff308a6CbC28888eBE91DD67aB2C5D4",
-        "id": "c6d5c9a2dd147bb4f6c6e51951c3f7cc9fabe31f6815980065a23984b7da2058",
-        "info_url": "https://en.wikipedia.org/wiki/Kal-e_Karab",
-        "name": "perplexed-bee",
-        "tm_pub_key": "y12o3OdQTet5SxPu5bBOclnOyHy7LQ8XEddRw1V8Nhg=",
-        "vega_pub_key": "e8476b1d275ff76ae2bf20055f610b130a99b5ed198c36d8cfebb376e1aad7b4",
+      "cRXEsKewb/77mcixkrGKtQdsAaUVixxOGlvSSPo7atk=": {
+        "avatar_url": "https://www.gravatar.com/avatar/cdkqlfpaq8f31rq98jt52z6zwc03u887?d=identicon",
+        "country": "PN",
+        "ethereum_address": "0xd82019B9093F75A2fD96cc7CaB2E18FCE2C6aa11",
+        "id": "995f04a098b558ec4345a2ed00ddfbc0baffc5bf491eebb0fc814e6763d73ec1",
+        "info_url": "https://en.wikipedia.org/wiki/Giovanni_Battista_Canziani",
+        "name": "thundering-wind",
+        "tm_pub_key": "cRXEsKewb/77mcixkrGKtQdsAaUVixxOGlvSSPo7atk=",
+        "vega_pub_key": "909fcedd604591082671e8e989b0a23f22ccde61204bef43b16777cfac9b4631",
         "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202406112037",
+  "chain_id": "vega-devnet1-202406112108",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-06-11T20:37:34.094505679Z",
+  "genesis_time": "2024-06-11T21:08:04.491288372Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "8A9D1AE90D39F5D8EE6BE7C3EEA6CE6616487400",
-      "name": "perplexed-bee",
+      "address": "1D7C99435D41F16144839F06F52EB86E364BF031",
+      "name": "thundering-wind",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "y12o3OdQTet5SxPu5bBOclnOyHy7LQ8XEddRw1V8Nhg="
+        "value": "cRXEsKewb/77mcixkrGKtQdsAaUVixxOGlvSSPo7atk="
       }
     }
   ]
