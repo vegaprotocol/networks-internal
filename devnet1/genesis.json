@@ -337,17 +337,6 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
-      "3SCNWE//yGFJAZDzPvEUryyjImS2AwJE4XbhbwSc3DE=": {
-        "avatar_url": "https://www.gravatar.com/avatar/m28qennc13gkren9b5qggr5jwo47t8y4?d=identicon",
-        "country": "HA",
-        "ethereum_address": "0xac917630a34ee44E85a279a8B6D7230788FbB8d2",
-        "id": "25eef113499ff79d790d3e5e716f36ec8f57a0c92425d391dd2e6c786232ebd1",
-        "info_url": "https://en.wikipedia.org/wiki/List_of_Turkish_films_of_2024",
-        "name": "fuzzy-burger",
-        "tm_pub_key": "3SCNWE//yGFJAZDzPvEUryyjImS2AwJE4XbhbwSc3DE=",
-        "vega_pub_key": "0d7ef2912ca57cd9e57867a51918085163910a9183ac0630dd0b3077f65ad83d",
-        "vega_pub_key_index": 1
-      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -368,6 +357,17 @@
         "name": "crashing-wall",
         "tm_pub_key": "7aq+bIvVMfZl6T7awv4TPDFE3uH6CCsWx2HfD+MCsRo=",
         "vega_pub_key": "cb152821443248b20a217abee89c1c8e595e07d47c537255d480761c88bc86d1",
+        "vega_pub_key_index": 1
+      },
+      "8lqX33kSZgbcp6QITMGYW8Ku7qy+L3/89EzETokQWfA=": {
+        "avatar_url": "https://www.gravatar.com/avatar/ky41fnde8b1qakzbizjlkxgwqdfc6fm2?d=identicon",
+        "country": "DA",
+        "ethereum_address": "0x9f9FC659f66eE56bE6C0402990f10d01292d33ED",
+        "id": "895d14be6d2ca64e863758f2f224881fe2c60c57d41733e45d2001db4de37ae5",
+        "info_url": "https://en.wikipedia.org/wiki/Garga_Haman_Adji",
+        "name": "hungry-fan",
+        "tm_pub_key": "8lqX33kSZgbcp6QITMGYW8Ku7qy+L3/89EzETokQWfA=",
+        "vega_pub_key": "7c5ec431d56ddd1ea0f34e57b9059e897db36f53da053d49516ed9e0429d0bd4",
         "vega_pub_key_index": 1
       },
       "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ=": {
@@ -394,7 +394,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202406110820",
+  "chain_id": "vega-devnet1-202406111306",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-06-11T08:20:30.918314325Z",
+  "genesis_time": "2024-06-11T13:06:05.424051683Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "DC8AE4876AB28644594800A0642F03231BBDB3AE",
-      "name": "fuzzy-burger",
+      "address": "065FE3707A622474D540F42F8BBE627A9D41CDAC",
+      "name": "hungry-fan",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "3SCNWE//yGFJAZDzPvEUryyjImS2AwJE4XbhbwSc3DE="
+        "value": "8lqX33kSZgbcp6QITMGYW8Ku7qy+L3/89EzETokQWfA="
       }
     }
   ]
