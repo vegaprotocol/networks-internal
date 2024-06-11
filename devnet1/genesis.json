@@ -337,6 +337,17 @@
     },
     "network_parameters_checkpoint_overwrite": null,
     "validators": {
+      "24mCseiLz/SXMopR8912h9f+rpJDIAIjAWq7Vw7ilFM=": {
+        "avatar_url": "https://www.gravatar.com/avatar/sc06w49un3dy7a5kjy2avnciqzgexb0r?d=identicon",
+        "country": "WY",
+        "ethereum_address": "0x088145455F545EEDD342F0EC2C83276979D6A8e4",
+        "id": "d39684c303fd2c66f1a2f0196ffd2e04a728c740211971f8704881cc478c379a",
+        "info_url": "https://en.wikipedia.org/wiki/Joe_James_(American_football)",
+        "name": "rich-farmer",
+        "tm_pub_key": "24mCseiLz/SXMopR8912h9f+rpJDIAIjAWq7Vw7ilFM=",
+        "vega_pub_key": "e761cf368161242c5a33fc0a445cbe5d572f11f3cc3fe4f2101a82f489ed2671",
+        "vega_pub_key_index": 1
+      },
       "3qqEZBKOnH4buwWcJ/3YZ7wD3/zblPH/nZV+ZRFqaP0=": {
         "avatar_url": "https://www.gravatar.com/avatar/73j5eanm3iyuxa451ickphdolmj4383d?d=identicon",
         "country": "AA",
@@ -380,21 +391,10 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
-      },
-      "cRXEsKewb/77mcixkrGKtQdsAaUVixxOGlvSSPo7atk=": {
-        "avatar_url": "https://www.gravatar.com/avatar/cdkqlfpaq8f31rq98jt52z6zwc03u887?d=identicon",
-        "country": "PN",
-        "ethereum_address": "0xd82019B9093F75A2fD96cc7CaB2E18FCE2C6aa11",
-        "id": "995f04a098b558ec4345a2ed00ddfbc0baffc5bf491eebb0fc814e6763d73ec1",
-        "info_url": "https://en.wikipedia.org/wiki/Giovanni_Battista_Canziani",
-        "name": "thundering-wind",
-        "tm_pub_key": "cRXEsKewb/77mcixkrGKtQdsAaUVixxOGlvSSPo7atk=",
-        "vega_pub_key": "909fcedd604591082671e8e989b0a23f22ccde61204bef43b16777cfac9b4631",
-        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202406112138",
+  "chain_id": "vega-devnet1-202406112237",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-06-11T21:38:24.610543797Z",
+  "genesis_time": "2024-06-11T22:37:31.921293651Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "1D7C99435D41F16144839F06F52EB86E364BF031",
-      "name": "thundering-wind",
+      "address": "ED1EECEB73B61BE4A1D79CADA80E2B803CFC55F4",
+      "name": "rich-farmer",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "cRXEsKewb/77mcixkrGKtQdsAaUVixxOGlvSSPo7atk="
+        "value": "24mCseiLz/SXMopR8912h9f+rpJDIAIjAWq7Vw7ilFM="
       }
     }
   ]
