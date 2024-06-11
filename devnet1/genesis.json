@@ -359,17 +359,6 @@
         "vega_pub_key": "cb152821443248b20a217abee89c1c8e595e07d47c537255d480761c88bc86d1",
         "vega_pub_key_index": 1
       },
-      "8lqX33kSZgbcp6QITMGYW8Ku7qy+L3/89EzETokQWfA=": {
-        "avatar_url": "https://www.gravatar.com/avatar/ky41fnde8b1qakzbizjlkxgwqdfc6fm2?d=identicon",
-        "country": "DA",
-        "ethereum_address": "0x9f9FC659f66eE56bE6C0402990f10d01292d33ED",
-        "id": "895d14be6d2ca64e863758f2f224881fe2c60c57d41733e45d2001db4de37ae5",
-        "info_url": "https://en.wikipedia.org/wiki/Garga_Haman_Adji",
-        "name": "hungry-fan",
-        "tm_pub_key": "8lqX33kSZgbcp6QITMGYW8Ku7qy+L3/89EzETokQWfA=",
-        "vega_pub_key": "7c5ec431d56ddd1ea0f34e57b9059e897db36f53da053d49516ed9e0429d0bd4",
-        "vega_pub_key_index": 1
-      },
       "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ=": {
         "avatar_url": "https://www.gravatar.com/avatar/6x0s5jsbbeeihso9yyhnh6hcop4fkxa1?d=identicon",
         "country": "ON",
@@ -379,6 +368,17 @@
         "name": "clever-doctor",
         "tm_pub_key": "AGSm4mUTGXy53Y8ba4mdAp7/w56ViEuhM2LHNpcs3zQ=",
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
+        "vega_pub_key_index": 1
+      },
+      "HmIwEIoXHecNgHqdBXhivk33t6XJD24pyuI7YensvVg=": {
+        "avatar_url": "https://www.gravatar.com/avatar/mdtu0cvh70eulroo8j16d5541ekepd6j?d=identicon",
+        "country": "BX",
+        "ethereum_address": "0x3ec76a1C88b03cC77850b47B4295b5738a6790E9",
+        "id": "34766438718f8e60bc009545f90074b97aaaadeccc098888abf65ed18d325ac2",
+        "info_url": "https://en.wikipedia.org/wiki/Monkey_Park_Monorail_Line",
+        "name": "wicked-tree",
+        "tm_pub_key": "HmIwEIoXHecNgHqdBXhivk33t6XJD24pyuI7YensvVg=",
+        "vega_pub_key": "5b8d6776c7951c79d962aa9ea03937fce97fcb1557b80bb44b4767ebc1c51942",
         "vega_pub_key_index": 1
       },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
@@ -394,7 +394,7 @@
       }
     }
   },
-  "chain_id": "vega-devnet1-202406111306",
+  "chain_id": "vega-devnet1-202406111412",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-06-11T13:06:05.424051683Z",
+  "genesis_time": "2024-06-11T14:12:36.765312461Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "065FE3707A622474D540F42F8BBE627A9D41CDAC",
-      "name": "hungry-fan",
+      "address": "8C717FF3C7261A2949DD9B5F3D55E1CEC9DAEC40",
+      "name": "wicked-tree",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "8lqX33kSZgbcp6QITMGYW8Ku7qy+L3/89EzETokQWfA="
+        "value": "HmIwEIoXHecNgHqdBXhivk33t6XJD24pyuI7YensvVg="
       }
     }
   ]
