@@ -370,17 +370,6 @@
         "vega_pub_key": "8b86bb3e9f820e7dc0d858f9af838582522a3b4d7c625168df280ba16e29a5bc",
         "vega_pub_key_index": 1
       },
-      "HmIwEIoXHecNgHqdBXhivk33t6XJD24pyuI7YensvVg=": {
-        "avatar_url": "https://www.gravatar.com/avatar/mdtu0cvh70eulroo8j16d5541ekepd6j?d=identicon",
-        "country": "BX",
-        "ethereum_address": "0x3ec76a1C88b03cC77850b47B4295b5738a6790E9",
-        "id": "34766438718f8e60bc009545f90074b97aaaadeccc098888abf65ed18d325ac2",
-        "info_url": "https://en.wikipedia.org/wiki/Monkey_Park_Monorail_Line",
-        "name": "wicked-tree",
-        "tm_pub_key": "HmIwEIoXHecNgHqdBXhivk33t6XJD24pyuI7YensvVg=",
-        "vega_pub_key": "5b8d6776c7951c79d962aa9ea03937fce97fcb1557b80bb44b4767ebc1c51942",
-        "vega_pub_key_index": 1
-      },
       "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=": {
         "avatar_url": "https://www.gravatar.com/avatar/6tnr3g5fdf0yoiptxa4d0l727aoq1hvt?d=identicon",
         "country": "LA",
@@ -391,10 +380,21 @@
         "tm_pub_key": "OqJNecH/g/JKmwXdisO8FDUvFTYc1hGBXdmUhbE+yk0=",
         "vega_pub_key": "33bc62b2b70882633bb7884b8f6c20067ba64a8c92153b5b63d34b976f1b544d",
         "vega_pub_key_index": 1
+      },
+      "w7JPISUMQaFhQOrk7iwg7nCfa+bSzRjkgLlsxw65P0U=": {
+        "avatar_url": "https://www.gravatar.com/avatar/im96elnozyzuicyhx6wcn1tpcywrf6yh?d=identicon",
+        "country": "NU",
+        "ethereum_address": "0xa6Bfd95d91FfdC202BE0Ab20E1269F9b82b89Aff",
+        "id": "898dd5835d3120d8fa13c4e94951f05cb72dfe54ac857733aa628a8d0721f858",
+        "info_url": "https://en.wikipedia.org/wiki/Limburg-Staffel%E2%80%93Siershahn_railway",
+        "name": "magnificent-bus",
+        "tm_pub_key": "w7JPISUMQaFhQOrk7iwg7nCfa+bSzRjkgLlsxw65P0U=",
+        "vega_pub_key": "87f60cefa565583520c0a3e380aaf25c0f5b18650919c952155bb688dff488a0",
+        "vega_pub_key_index": 1
       }
     }
   },
-  "chain_id": "vega-devnet1-202406111412",
+  "chain_id": "vega-devnet1-202406111830",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -413,7 +413,7 @@
     },
     "version": {}
   },
-  "genesis_time": "2024-06-11T14:12:36.765312461Z",
+  "genesis_time": "2024-06-11T18:30:15.837045863Z",
   "initial_height": "0",
   "validators": [
     {
@@ -453,12 +453,12 @@
       }
     },
     {
-      "address": "8C717FF3C7261A2949DD9B5F3D55E1CEC9DAEC40",
-      "name": "wicked-tree",
+      "address": "010A2AFE38FE16008046E4A41F0A466535BCA07F",
+      "name": "magnificent-bus",
       "power": "10",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "HmIwEIoXHecNgHqdBXhivk33t6XJD24pyuI7YensvVg="
+        "value": "w7JPISUMQaFhQOrk7iwg7nCfa+bSzRjkgLlsxw65P0U="
       }
     }
   ]
