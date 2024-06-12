@@ -1813,7 +1813,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         [scenario.usdtusdt]
     market_name = "Ethereum Tether USD / Arbitrum Tether USD  (Spot)"
     binance_code = "USDCUSDT"
-    feed_price_multiplier = 1000
+    feed_price_multiplier = 1
     step_length_seconds = 30
     [scenario.usdtusdt.market_manager_args]
         asset_name = "Tether USD"
