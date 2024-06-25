@@ -270,7 +270,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         mdp = 5
         pdp = 1
     [scenario.XAU.market_maker_args]
-        market_kappa = 400000
+        market_kappa = 4000
         market_order_arrival_rate = 1500
         order_kappa = 0.5
         order_size = 100
