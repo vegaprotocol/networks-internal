@@ -260,8 +260,8 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 [scenario.XAU]
     market_name = "Gold / Tether USD (Perpetual)"
-    price_symbol = "MKRUSDT"
-    price_source = "binance"
+    price_symbol = "XAU/USD"
+    price_source = "pyth"
     feed_price_multiplier = 1
     step_length_seconds = 5
     [scenario.XAU.market_manager_args]
