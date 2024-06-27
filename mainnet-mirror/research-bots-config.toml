@@ -275,7 +275,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         order_kappa = 0.5
         order_size = 100
         order_levels = 25
-        order_spacing = 0.00005
+        order_spacing = 0.5
         order_clipping = 0.0001
         inventory_lower_boundary = -3
         inventory_upper_boundary = 3
@@ -289,7 +289,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
     [scenario.XAU.random_trader_args]
         traders = 10
         order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-        order_volume = [100, 120, 140, 160, 180, 200, 220, 240, 260, 280, 300, 340] # 
+        order_volume = [1.0, 1.2, 1.4, 1.6, 1.8, 2.0, 2.2, 2.4, 2.6, 2.8, 3.0, 3.4] # 
         step_bias = [0.111, 0.95, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
         initial_mint = 20000
     [scenario.XAU.sensitive_trader_args]
@@ -303,4 +303,3 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         coinbase_code = "BTC-USDT"
         start_date = "2022-11-01 00:00:00"
         randomise_history = false
-
