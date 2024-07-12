@@ -310,7 +310,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
     price_source = "pyth"
     feed_price_multiplier = 1
     step_length_seconds = 5
-    [scenario.XAU.market_manager_args]
+    [scenario.EUR.market_manager_args]
         asset_name = "USDT"
         adp = 6
         mdp = 5
