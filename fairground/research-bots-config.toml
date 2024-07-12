@@ -26,8 +26,8 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 [scenario.mainnet_simulation_injustd]
      market_name = "Injective / Tether USD (Perpetual)"
-     binance_code = "INJUSDT"
-    price_source = "binance"
+     price_symbol = "INJUSDT"
+     price_source = "binance"
      step_length_seconds = 19
      [scenario.mainnet_simulation_injustd.market_manager_args]
          asset_name = "Tether USD"
@@ -71,7 +71,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 [scenario.incentive_btcusdt]
     market_name = "tBitcoin / USDT (Spot)"
-    binance_code = "BTCUSDT"
+    price_symbol = "BTCUSDT"
     price_source = "binance"
     step_length_seconds = 20
     [scenario.incentive_btcusdt.market_manager_args]
@@ -114,7 +114,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 [scenario.pepe1000]
     market_name = "PEPE / USD (price*1000)(Perpetual)"
-    binance_code = "PEPEUSDT"
+    price_symbol = "PEPEUSDT"
     price_source = "binance"
     feed_price_multiplier = 1000
     step_length_seconds = 30
@@ -160,7 +160,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 [scenario.usdtusdt]
     market_name = "Ethereum Tether USD / Arbitrum Tether USD  (Spot)"
-    binance_code = "USDCUSDT"
+    price_symbol = "USDCUSDT"
     price_source = "binance"
     feed_price_multiplier = 1
     step_length_seconds = 30    
