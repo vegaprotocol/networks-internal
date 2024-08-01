@@ -28,7 +28,8 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 [scenario.mainnet_simulation_btcusdt]
     market_name = "Bitcoin / Tether USD (Perpetual)"
-    binance_code = "BTCUSDT"
+    price_symbol = "BTCUSDT"
+    price_source = "binance"
     step_length_seconds = 30
     [scenario.mainnet_simulation_btcusdt.market_manager_args]
         asset_name = "tUSDC"
@@ -48,6 +49,16 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         fee_amount = 0.0001
         commitment_amount = 150000
         initial_mint = 200000
+    [scenario.mainnet_simulation_btcusdt.automated_market_maker_args]
+        commitment_amount=100000
+        proposed_fee=0.0001
+        lower_bound_scaling=0.9
+        upper_bound_scaling=1.1
+        leverage_at_lower_bound=20
+        leverage_at_upper_bound=20
+        update_bias=0.001
+        slippage_tolerance=0.5
+        initial_mint=200000
     [scenario.mainnet_simulation_btcusdt.auction_trader_args]
         traders = 2
         initial_volume = 0.1
@@ -72,7 +83,8 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 [scenario.mainnet_simulation_injustd]
     market_name = "Injective / Tether USD (Perpetual)"
-    binance_code = "INJUSDT"
+    price_symbol = "INJUSDT"
+    price_source = "binance"
     step_length_seconds = 19
     [scenario.mainnet_simulation_injustd.market_manager_args]
         asset_name = "tUSDC"
@@ -92,6 +104,16 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         fee_amount = 0.0001
         commitment_amount = 150000
         initial_mint = 200000
+    [scenario.mainnet_simulation_injustd.automated_market_maker_args]
+        commitment_amount=100000
+        proposed_fee=0.0001
+        lower_bound_scaling=0.9
+        upper_bound_scaling=1.1
+        leverage_at_lower_bound=20
+        leverage_at_upper_bound=20
+        update_bias=0.001
+        slippage_tolerance=0.5
+        initial_mint=200000
     [scenario.mainnet_simulation_injustd.auction_trader_args]
         traders = 2
         initial_volume = 2
@@ -204,7 +226,8 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 [scenario.mainnet_simulation_ethustd]
     market_name = "Ether / Tether USD (Perpetual)"
-    binance_code = "ETHUSDT"
+    price_symbol = "ETHUSDT"
+    price_source = "binance"
     step_length_seconds = 16
     [scenario.mainnet_simulation_ethustd.market_manager_args]
         asset_name = "tUSDC"
@@ -224,6 +247,16 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         fee_amount = 0.0001
         commitment_amount = 150000
         initial_mint = 600000
+    [scenario.mainnet_simulation_ethustd.automated_market_maker_args]
+        commitment_amount=100000
+        proposed_fee=0.0001
+        lower_bound_scaling=0.9
+        upper_bound_scaling=1.1
+        leverage_at_lower_bound=20
+        leverage_at_upper_bound=20
+        update_bias=0.001
+        slippage_tolerance=0.5
+        initial_mint=200000
     [scenario.mainnet_simulation_ethustd.auction_trader_args]
         initial_volume = 0.001
         initial_mint = 10000
@@ -245,7 +278,8 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 [scenario.dogepoint]
     market_name = "Doge Points / USDT (Futures market)"
-    binance_code = "DOGEUSDT"
+    price_symbol = "DOGEUSDT"
+    price_source = "binance"
     step_length_seconds = 1
     [scenario.dogepoint.market_manager_args]
         asset_name = "tUSDC"
@@ -265,6 +299,16 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         fee_amount = 0.0001
         commitment_amount = 3000000
         initial_mint = 40000000
+    [scenario.dogepoint.automated_market_maker_args]
+        commitment_amount=100000
+        proposed_fee=0.0001
+        lower_bound_scaling=0.9
+        upper_bound_scaling=1.1
+        leverage_at_lower_bound=20
+        leverage_at_upper_bound=20
+        update_bias=0.001
+        slippage_tolerance=0.5
+        initial_mint=200000
     [scenario.dogepoint.auction_trader_args]
         traders = 2
         initial_volume = 100
@@ -289,7 +333,8 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 [scenario.dogepoint2]
     market_name = "Doge Points 2 / USDT (Futures market)"
-    binance_code = "DOGEUSDT"
+    price_symbol = "DOGEUSDT"
+    price_source = "binance"
     step_length_seconds = 1
     [scenario.dogepoint2.market_manager_args]
         asset_name = "tUSDC"
@@ -309,6 +354,16 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         fee_amount = 0.0001
         commitment_amount = 3000000
         initial_mint = 40000000
+    [scenario.dogepoint2.automated_market_maker_args]
+        commitment_amount=100000
+        proposed_fee=0.0001
+        lower_bound_scaling=0.9
+        upper_bound_scaling=1.1
+        leverage_at_lower_bound=20
+        leverage_at_upper_bound=20
+        update_bias=0.001
+        slippage_tolerance=0.5
+        initial_mint=200000
     [scenario.dogepoint2.auction_trader_args]
         traders = 2
         initial_volume = 100
@@ -380,7 +435,8 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 [scenario.pepe1000]
     market_name = "PEPE / USD (price*1000)(Perpetual)"
-    binance_code = "PEPEUSDT"
+    price_symbol = "PEPEUSDT"
+    price_source = "binance"
     feed_price_multiplier = 1000
     step_length_seconds = 30
     [scenario.pepe1000.market_manager_args]
@@ -401,6 +457,16 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         fee_amount = 0.05
         commitment_amount = 2500000
         initial_mint = 5500000
+    [scenario.pepe1000.automated_market_maker_args]
+        commitment_amount=100000
+        proposed_fee=0.0001
+        lower_bound_scaling=0.9
+        upper_bound_scaling=1.1
+        leverage_at_lower_bound=20
+        leverage_at_upper_bound=20
+        update_bias=0.001
+        slippage_tolerance=0.5
+        initial_mint=200000
     [scenario.pepe1000.auction_trader_args]
         traders = 2
         initial_volume = 10000
