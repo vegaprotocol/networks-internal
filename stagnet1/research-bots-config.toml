@@ -57,8 +57,8 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         leverage_at_upper_bound=5
         update_bias=0.001
         slippage_tolerance=0.5
-        commitment_amount=10000000
-        initial_mint=20000000
+        commitment_amount=1000000000
+        initial_mint=2000000000
     [scenario.mainnet_simulation_btcusdt.auction_trader_args]
         traders = 2
         initial_volume = 0.1
@@ -112,8 +112,8 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         leverage_at_upper_bound=5
         update_bias=0.001
         slippage_tolerance=0.5
-        commitment_amount=10000000
-        initial_mint=20000000
+        commitment_amount=1000000000
+        initial_mint=2000000000
     [scenario.mainnet_simulation_injustd.auction_trader_args]
         traders = 2
         initial_volume = 2
@@ -255,8 +255,8 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         leverage_at_upper_bound=5
         update_bias=0.001
         slippage_tolerance=0.5
-        commitment_amount=10000000
-        initial_mint=20000000
+        commitment_amount=1000000000
+        initial_mint=2000000000
     [scenario.mainnet_simulation_ethustd.auction_trader_args]
         initial_volume = 0.001
         initial_mint = 10000
@@ -307,8 +307,8 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         leverage_at_upper_bound=5
         update_bias=0.001
         slippage_tolerance=0.5
-        commitment_amount=10000000
-        initial_mint=20000000
+        commitment_amount=1000000000
+        initial_mint=2000000000
     [scenario.dogepoint.auction_trader_args]
         traders = 2
         initial_volume = 100
@@ -362,8 +362,8 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         leverage_at_upper_bound=5
         update_bias=0.001
         slippage_tolerance=0.5
-        commitment_amount=10000000
-        initial_mint=20000000
+        commitment_amount=1000000000
+        initial_mint=2000000000
     [scenario.dogepoint2.auction_trader_args]
         traders = 2
         initial_volume = 100
@@ -465,8 +465,8 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         leverage_at_upper_bound=5
         update_bias=0.001
         slippage_tolerance=0.5
-        commitment_amount=10000000
-        initial_mint=20000000
+        commitment_amount=1000000000
+        initial_mint=2000000000
     [scenario.pepe1000.auction_trader_args]
         traders = 2
         initial_volume = 10000
