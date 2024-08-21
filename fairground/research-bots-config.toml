@@ -363,7 +363,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 
 
 [scenario.mainnet_simulation_ethustd]
-    market_name = "Ether / Tether USD (Incentive)"
+    market_name = "Ethereum / Tether USD (Incentive)"
     price_symbol = "ETHUSDT"
     price_source = "binance"
     step_length_seconds = 16
