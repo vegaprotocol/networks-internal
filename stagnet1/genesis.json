@@ -243,12 +243,12 @@
     "network_parameters_checkpoint_overwrite": [
     ],
     "validators": {
-      "/rJ28w/gW96lgM+u8Hyzo35WJrZUErSakf/10Gh+Zt0=": {
-        "id": "a001ab3f784f9e21eb3bfe2b258720e1b989fbc4769ea0043b199bd943c7fd62",
-        "vega_pub_key": "fcbffa9e8307f752efe2b0b771e6e565752c82bf64b4cfc689c377d1be2cb5ea",
+      "k9cfTpXkE7t2VUFCeNWc5M7j8/uJ64fVPNaB/kfRxSQ=": {
+        "id": "7b4a1d001a8392a0374430e3a89ecfb146b08124f7094392eaaa3f0cc7d202dd",
+        "vega_pub_key": "9bff363d59e172133d0ccbed072d9415df2125f09ae07ff2ea4648003f8a1274",
         "vega_pub_key_index": 1,
-        "ethereum_address": "0x5e188618Ed275A47E0BF6Da0905F1a1067d52425",
-        "tm_pub_key": "/rJ28w/gW96lgM+u8Hyzo35WJrZUErSakf/10Gh+Zt0=",
+        "ethereum_address": "0x431274534bF486619700988fceF42cA154CEE3C3",
+        "tm_pub_key": "k9cfTpXkE7t2VUFCeNWc5M7j8/uJ64fVPNaB/kfRxSQ=",
         "info_url": "https://science.nasa.gov/jupiter/moons/ganymede/",
         "country": "US",
         "name": "Ganymede",
@@ -256,12 +256,12 @@
         "from_epoch": 0,
         "submitter_address": ""
       },
-      "8vhe+pl9FHYHWlKlSPUqf8WCwsVVUf5pJe0s4y6Utfw=": {
-        "id": "cbdb8e296f882a8e5d5fe973384b1b8ac86975591d53608ed51e29e73d5427dd",
-        "vega_pub_key": "81c242b5a815db9e7aa8c69215dd31816fa4ad9622fc173dc937732a0bebbb66",
+      "ap5XICvUbAlMk49LLtLTvosjLfwBTBgecPVp3szW5pA=": {
+        "id": "d8a320a97c5fa5b96996faa83493543db6ae806dd0a398f1bd9e2b8fe01c6608",
+        "vega_pub_key": "ae3fb5dd6b79590d7c88263e3276496793b027484fe4b9ef1deb04f2b286c199",
         "vega_pub_key_index": 1,
-        "ethereum_address": "0x5e188618Ed275A47E0BF6Da0905F1a1067d52425",
-        "tm_pub_key": "8vhe+pl9FHYHWlKlSPUqf8WCwsVVUf5pJe0s4y6Utfw=",
+        "ethereum_address": "0xd94155f2E81a6464d3e2F0b8Ed7E4de9c7e4C08d",
+        "tm_pub_key": "ap5XICvUbAlMk49LLtLTvosjLfwBTBgecPVp3szW5pA=",
         "info_url": "https://science.nasa.gov/jupiter/moons/callisto/",
         "country": "US",
         "name": "Callisto",
@@ -269,12 +269,12 @@
         "from_epoch": 0,
         "submitter_address": ""
       },
-      "GzglQ2kaKotb9VdHpGdInKXWgvsrQiMPd//FzVMpqw4=": {
-        "id": "f709dc1518aba1c3463273c0315d1398a38e39cb820fa306732587345a518ec2",
-        "vega_pub_key": "019aa609f5b123ecc1e2811640dac3abea406461569daaea61d6069076d85d42",
+      "cgs6vjyzLqlhuke+njPIww8NaeZ0zGm3RAfcT5+WHv0=": {
+        "id": "e25b20d91d0c57ea65304b54d17d24a9249f8e4bc6ccdca2860d44d84b354427",
+        "vega_pub_key": "f9df9498980732da3a9659ce291cde42e20df17198b2a4025b45c9ed04415c1c",
         "vega_pub_key_index": 1,
-        "ethereum_address": "0x5e188618Ed275A47E0BF6Da0905F1a1067d52425",
-        "tm_pub_key": "GzglQ2kaKotb9VdHpGdInKXWgvsrQiMPd//FzVMpqw4=",
+        "ethereum_address": "0xE9Ac9647053930E492868Bb0e654B9bDb8ce3e72",
+        "tm_pub_key": "cgs6vjyzLqlhuke+njPIww8NaeZ0zGm3RAfcT5+WHv0=",
         "info_url": "https://science.nasa.gov/jupiter/moons/io/",
         "country": "US",
         "name": "IO",
@@ -282,12 +282,12 @@
         "from_epoch": 0,
         "submitter_address": ""
       },
-      "+EvciiUYLY+3smGyLTt4P73v/NJ7Dczbj0kP5vPglMA=": {
-        "id": "9efdf15e30536ec8316c94467f32b7807a77fd4df39bf0bf6eb5c80a68f8dd49",
-        "vega_pub_key": "9abb9e1ac60cc318bdf8a7235e00078d3f90b8f7a1a74f6e8e2a78326e1c79a9",
+      "8nHLDDV+H1fwHt9fgZQOfohGPXuArhtPg3dpnOO0lN8=": {
+        "id": "80fa8dab144f2cd115f4be42f3c5d7afca27a16d70076c5efb7b2089c3ded944",
+        "vega_pub_key": "ac5ab02662fda186ea2db98805b9f7b9a81422934647f5aae1d0d7a2db840d96",
         "vega_pub_key_index": 1,
-        "ethereum_address": "0x5e188618Ed275A47E0BF6Da0905F1a1067d52425",
-        "tm_pub_key": "+EvciiUYLY+3smGyLTt4P73v/NJ7Dczbj0kP5vPglMA=",
+        "ethereum_address": "0xbCc0C81dB50065262F9bb82318D9537B1b653D8B",
+        "tm_pub_key": "8nHLDDV+H1fwHt9fgZQOfohGPXuArhtPg3dpnOO0lN8=",
         "info_url": "https://science.nasa.gov/jupiter/moons/europa/",
         "country": "US",
         "name": "Europa",
@@ -295,6 +295,7 @@
         "from_epoch": 0,
         "submitter_address": ""
       }
+
     }
   },
   "chain_id": "stagnet1-20240816",
@@ -320,37 +321,37 @@
   "initial_height": "0",
   "validators": [
     {
-      "address": "181EAAE104CA713461D45D2C59B9E605ED75AE11",
+      "address": "2BA7037115A8F6D641F3982D6A7086855BE3E401",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "/rJ28w/gW96lgM+u8Hyzo35WJrZUErSakf/10Gh+Zt0="
+        "value": "k9cfTpXkE7t2VUFCeNWc5M7j8/uJ64fVPNaB/kfRxSQ="
       },
       "power": "10",
       "name": "Ganymede"
     },
     {
-      "address": "F4FEB331CCD975B5AB42F0BB6F7FF1C2760341AD",
+      "address": "99CF7B74CCC56CA2718E0D099AB9840030703FDA",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "8vhe+pl9FHYHWlKlSPUqf8WCwsVVUf5pJe0s4y6Utfw="
+        "value": "ap5XICvUbAlMk49LLtLTvosjLfwBTBgecPVp3szW5pA="
       },
       "power": "10",
       "name": "Callisto"
     },
     {
-      "address": "AC228E94C451BE7B420EF665D19DD107DAAE0A8A",
+      "address": "E425879C9F923C55F2405D0319685CFE88A787F5",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "GzglQ2kaKotb9VdHpGdInKXWgvsrQiMPd//FzVMpqw4="
+        "value": "cgs6vjyzLqlhuke+njPIww8NaeZ0zGm3RAfcT5+WHv0="
       },
       "power": "10",
       "name": "IO"
     },
     {
-      "address": "7FD146E52DDA11EC18BC1358F4BA7C24372B5B22",
+      "address": "485CDCEBDDD72EC094372F721BB8A0AA09EEA54B",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "+EvciiUYLY+3smGyLTt4P73v/NJ7Dczbj0kP5vPglMA="
+        "value": "8nHLDDV+H1fwHt9fgZQOfohGPXuArhtPg3dpnOO0lN8="
       },
       "power": "10",
       "name": "Europa"
