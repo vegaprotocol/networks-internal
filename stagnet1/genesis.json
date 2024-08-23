@@ -4,12 +4,12 @@
     "assets": {
       "fc7fd956078fb1fc9db5c19b88f0874c4299b2a7639ad05a47a28c0aef291b55": {
         "decimals": 18,
-        "name": "Vega (fairground)",
+        "name": "Vega (stagnet1)",
         "symbol": "VEGA",
         "quantum": "1000000000000000000",
         "source": {
           "erc20": {
-            "contract_address": "0xdf1B0F223cb8c7aB3Ef8469e529fe81E73089BD9",
+            "contract_address": "0x62720E92FB7d77699A5D3754c429a3116900a84b",
             "lifetime_limit": "10000000000000000",
             "withdraw_threshold": "1",
             "chain_id": "11155111"
@@ -41,9 +41,9 @@
     },
     "network_parameters": {
       "auction.LongBlock": "{\"threshold_and_duration\": [{\"threshold\":\"10s\",\"duration\":\"1m\"},{\"threshold\":\"1m\",\"duration\":\"5m\"}]}",
-      "blockchains.ethereumConfig": "{\"network_id\":\"11155111\",\"chain_id\":\"11155111\",\"collateral_bridge_contract\":{\"address\":\"0xb887Ea427A9eE785843B869E0613f66C8B9B15e8\"},\"confirmations\":64,\"staking_bridge_contract\":{\"address\" :\"0x60e76Ce965F9c386ECaF42186DeBd6002eBA0f0C\",\"deployment_block_height\":6535768},\"multisig_control_contract\":{\"address\":\"0xB096C80D8B8AF235003a7b76731fAE2b2C9Bb80d\",\"deployment_block_height\": 6535607 },\"block_time\":\"12s\"}",
-      "blockchains.ethereumRpcAndEvmCompatDataSourcesConfig": "{\"configs\":[{\"network_id\":\"100\",\"chain_id\":\"100\",\"confirmations\":3,\"name\":\"Gnosis Chain\",\"block_interval\":3},{\"network_id\":\"42161\",\"chain_id\":\"42161\",\"confirmations\":3,\"name\":\"Arbitrum One\",\"block_interval\":50}]}",
-      "blockchains.evmBridgeConfigs": "{\"configs\": [{\"network_id\": \"421614\",\"chain_id\": \"421614\",\"collateral_bridge_contract\": {\"address\": \"0xDa1dDCf837a24CFE26eA977017aB63F259cc8159\"}, \"confirmations\": 3, \"multisig_control_contract\": {\"address\": \"0x5eb756E0a30cBdf802CD172110E35320a152C394\", \"deployment_block_height\": 72531733 }, \"block_time\": \"250ms\", \"name\": \"Arbitrum (Sepolia)\"}]}",
+      "blockchains.ethereumConfig": "{\"network_id\":\"11155111\",\"chain_id\":\"11155111\",\"collateral_bridge_contract\":{\"address\":\"0xd99280b344eb471662af992df4dd728898fc4303\"},\"confirmations\":64,\"staking_bridge_contract\":{\"address\":\"0xc1a39Eb4747915c8174F5ba38470CA89B08Dd47f\",\"deployment_block_height\":6511014},\"multisig_control_contract\":{\"address\":\"0xFb3C349b76Cf08227E253261Eb11692E1f59dF48\",\"deployment_block_height\":6510615},\"block_time\":\"12s\"}",
+      "blockchains.ethereumRpcAndEvmCompatDataSourcesConfig": "{\"configs\":[{\"network_id\":\"100\",\"chain_id\":\"100\",\"confirmations\":3,\"name\":\"Gnosis Chain\",\"block_interval\":3},{\"network_id\":\"42161\",\"chain_id\":\"42161\",\"confirmations\":3,\"name\":\"Arbitrum One\",\"block_interval\":50},{\"network_id\":\"1\",\"chain_id\":\"1\",\"confirmations\":3,\"name\":\"Ethereum Mainnet\",\"block_interval\":1}]}",
+      "blockchains.evmBridgeConfigs": "{\"configs\": [{\"network_id\": \"421614\",\"chain_id\": \"421614\",\"collateral_bridge_contract\": {\"address\": \"0x48413aD8d32EEf3d04f11749B59b7C5EFe2f652b\"}, \"confirmations\": 3,\"multisig_control_contract\": {\"address\": \"0x478A22Bb976058fDfe31E0d85D5F69c1839B8CFf\", \"deployment_block_height\": 71473895 }, \"block_time\": \"250ms\", \"name\": \"Arbitrum (Sepolia)\"}]}",
       "ethereum.oracles.enabled": "1",
       "governance.proposal.VolumeDiscountProgram.maxClose": "8760h0m0s",
       "governance.proposal.VolumeDiscountProgram.maxEnact": "8760h0m0s",
@@ -243,12 +243,12 @@
     "network_parameters_checkpoint_overwrite": [
     ],
     "validators": {
-      "6TPhI0s+rThpiuVSC3RxHnrjrATvBJmaNVrtrpYWvUg=": {
-        "id": "aaf420057d08fa536e24496e190bc58b6c36153849afecc2f885224f18a6ace2",
-        "vega_pub_key": "d746e3eceea66fd02a3a635f85a3625029dfaae19c924ad2177781c032969cd3",
+      "8oJjfNoO6e+9pMBoN7t9awoZBydUylOqlAwbfLp18vQ=": {
+        "id": "c795dbbf8608e1ba70f22b5a531422184d1050fb3e509e2c3eecdb935fc32525",
+        "vega_pub_key": "fb8a9eaaa4c9290009756da6868d9d43a2660c847b43975d40c7e60920415aff",
         "vega_pub_key_index": 1,
         "ethereum_address": "0x431274534bF486619700988fceF42cA154CEE3C3",
-        "tm_pub_key": "6TPhI0s+rThpiuVSC3RxHnrjrATvBJmaNVrtrpYWvUg=",
+        "tm_pub_key": "8oJjfNoO6e+9pMBoN7t9awoZBydUylOqlAwbfLp18vQ=",
         "info_url": "https://science.nasa.gov/jupiter/moons/ganymede/",
         "country": "US",
         "name": "Ganymede",
@@ -256,12 +256,12 @@
         "from_epoch": 0,
         "submitter_address": ""
       },
-      "eoywKlZTt6mbHHgrpsOu2hq9U65zvqL98JOz8xup1GA=": {
-        "id": "a7dcfeed44a6806751cfdd5ddea4e387b989e95fc35e82cb72ad0e3e6d336c9f",
-        "vega_pub_key": "758c9f71dbabe1a677d92c1f93e856ea0df5e046daa3558095917d1af4851ceb",
+      "y2NIToRQID7Z9zwT2ql0MfMUbLrJ7sIPbBaHmc3XWq4=": {
+        "id": "6304f2b72263835fcac3ebfae455a0c3864254e57b8ab33cbd8e9523edf447b0",
+        "vega_pub_key": "d479956afae2874ac9684e480f5f987e3c29b3b9be1cb7326c320d2c2101ee6b",
         "vega_pub_key_index": 1,
         "ethereum_address": "0xd94155f2E81a6464d3e2F0b8Ed7E4de9c7e4C08d",
-        "tm_pub_key": "eoywKlZTt6mbHHgrpsOu2hq9U65zvqL98JOz8xup1GA=",
+        "tm_pub_key": "y2NIToRQID7Z9zwT2ql0MfMUbLrJ7sIPbBaHmc3XWq4=",
         "info_url": "https://science.nasa.gov/jupiter/moons/callisto/",
         "country": "US",
         "name": "Callisto",
@@ -269,12 +269,12 @@
         "from_epoch": 0,
         "submitter_address": ""
       },
-      "VXK5o+vHdXDDCX+FNK87ehtHmHK2Y7ew/hqTJWeZkjc=": {
-        "id": "b85fcec70ffad333e810310353a5b0d8ee153570b6cfdcdb4b1adc94536f3019",
-        "vega_pub_key": "bfe806bce27044b07660b4b86a200f847e7c69eea95577f3ddb0429b18840929",
+      "oCaDWxIrAxHGjycbeJ5IwI8QulXhMHEMl0p7uPC2zgY=": {
+        "id": "c8d7926618f2371d0e8d07c510254e36e8ee924ab7b9d1da131ceb49992cdaf2",
+        "vega_pub_key": "824f580e65be62b330e64cf18f81deaecb635cbaebab1b7d1e2b55a34916c99f",
         "vega_pub_key_index": 1,
         "ethereum_address": "0xE9Ac9647053930E492868Bb0e654B9bDb8ce3e72",
-        "tm_pub_key": "VXK5o+vHdXDDCX+FNK87ehtHmHK2Y7ew/hqTJWeZkjc=",
+        "tm_pub_key": "oCaDWxIrAxHGjycbeJ5IwI8QulXhMHEMl0p7uPC2zgY=",
         "info_url": "https://science.nasa.gov/jupiter/moons/io/",
         "country": "US",
         "name": "IO",
@@ -282,12 +282,12 @@
         "from_epoch": 0,
         "submitter_address": ""
       },
-      "jSSsEz2xp7DMvIerdXGHVnRSk4pDXLHSB3O6Lcqx02Y=": {
-        "id": "00087865d799a4b88b1fdf6297e5f0518ebd99eac5e9d0ce3da5ef6532beec9b",
-        "vega_pub_key": "f9ce79d276ba492d0730b803c5e7abebc46aaaf31339bb045c102a8a31edfe72",
+      "U+4HZZoQiT8fR4POCJIu7wG457A8bQ5DU4OuhBuG+bI=": {
+        "id": "86a5a7cc018a2d6bf006e170a30e51a96392a99471146d507ec8dc945354e450",
+        "vega_pub_key": "c6400d9b077c8e45b21bef411d077111ea1072b68448948a211a147ca14e454b",
         "vega_pub_key_index": 1,
         "ethereum_address": "0xbCc0C81dB50065262F9bb82318D9537B1b653D8B",
-        "tm_pub_key": "jSSsEz2xp7DMvIerdXGHVnRSk4pDXLHSB3O6Lcqx02Y=",
+        "tm_pub_key": "U+4HZZoQiT8fR4POCJIu7wG457A8bQ5DU4OuhBuG+bI=",
         "info_url": "https://science.nasa.gov/jupiter/moons/europa/",
         "country": "US",
         "name": "Europa",
@@ -295,9 +295,10 @@
         "from_epoch": 0,
         "submitter_address": ""
       }
+
     }
   },
-  "chain_id": "fairground-20240816",
+  "chain_id": "stagnet1-20240816",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
@@ -320,40 +321,40 @@
   "initial_height": "0",
   "validators": [
     {
-      "address": "69DD344507E4EEC63A3F8DF00A1622999012D6CA",
+      "address": "861D163565D5278339B532271318259E0559168C",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "6TPhI0s+rThpiuVSC3RxHnrjrATvBJmaNVrtrpYWvUg="
+        "value": "8oJjfNoO6e+9pMBoN7t9awoZBydUylOqlAwbfLp18vQ="
       },
       "power": "10",
       "name": "Ganymede"
     },
     {
-      "address": "4DAA70CFA4FC1AA4820A0E7BFE61F9B66B198A68",
+      "address": "6359AF0F7CC8F72D8534824819B48ABFC97367B6",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "eoywKlZTt6mbHHgrpsOu2hq9U65zvqL98JOz8xup1GA="
+        "value": "y2NIToRQID7Z9zwT2ql0MfMUbLrJ7sIPbBaHmc3XWq4="
       },
       "power": "10",
       "name": "Callisto"
     },
     {
-      "address": "BE3EA7AE8A6E4FAD02228BBA0161F4BC23D2E971",
+      "address": "C6C66B3E33724C7CEB8FC4AD04FEB0AB7DC1029E",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "VXK5o+vHdXDDCX+FNK87ehtHmHK2Y7ew/hqTJWeZkjc="
+        "value": "oCaDWxIrAxHGjycbeJ5IwI8QulXhMHEMl0p7uPC2zgY="
       },
       "power": "10",
       "name": "IO"
     },
     {
-      "address": "D9C576E2BBBEFC5E18BB9A4F42EFC7E5836E30D9",
+      "address": "954FAC846964094E635EB0EA717B273E2E735AF1",
       "pub_key": {
         "type": "tendermint/PubKeyEd25519",
-        "value": "jSSsEz2xp7DMvIerdXGHVnRSk4pDXLHSB3O6Lcqx02Y="
+        "value": "U+4HZZoQiT8fR4POCJIu7wG457A8bQ5DU4OuhBuG+bI="
       },
       "power": "10",
       "name": "Europa"
-    }
+    }    
   ]
 }
