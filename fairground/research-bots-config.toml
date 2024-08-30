@@ -346,13 +346,13 @@ state_file = "/opt/wallets-mount/wallet-state.json"
     [scenario.mainnet_simulation_btcusdt.random_trader_args]
         traders = 10
         order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-        order_volume = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.012, 0.014, 0.016, 0.018] # 
+        order_volume = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.012, 0.14, 0.016, 0.018] # 
         step_bias = [0.111, 0.95, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
         initial_mint = 2000
     [scenario.mainnet_simulation_btcusdt.sensitive_trader_args]
         traders = 10
         scale = [2, 4, 6, 8, 10, 12, 14, 16, 17, 20]
-        max_order_size = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.010, 0.012, 0.014]
+        max_order_size = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.010, 0.12, 0.014]
         initial_mint = 10000
     [scenario.mainnet_simulation_btcusdt.simulation_args]
         n_steps = 99999999
