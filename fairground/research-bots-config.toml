@@ -312,7 +312,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
     price_source = "binance"
     step_length_seconds = 30
     [scenario.mainnet_simulation_btcusdt.market_manager_args]
-        asset_name = "USD in Browser Wallet"
+        asset_name = "USD-LIQ"
         adp = 6
         mdp = 1
         pdp = 4
@@ -328,7 +328,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         inventory_upper_boundary = 3
         fee_amount = 0.0001
         commitment_amount = 150000
-        initial_mint = 200000
+        initial_mint = 0
     [scenario.mainnet_simulation_btcusdt.automated_market_maker_args]
         proposed_fee=0.0001
         lower_bound_scaling=0.9
@@ -338,7 +338,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
         update_bias=0.001
         slippage_tolerance=0.5
         commitment_amount=1000000000
-        initial_mint=2000000000
+        initial_mint=0
     [scenario.mainnet_simulation_btcusdt.auction_trader_args]
         traders = 2
         initial_volume = 0.1
@@ -352,7 +352,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
     [scenario.mainnet_simulation_btcusdt.sensitive_trader_args]
         traders = 10
         scale = [2, 4, 6, 8, 10, 12, 14, 16, 17, 20]
-        max_order_size = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.10, 0.12, 0.14]
+        max_order_size = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.010, 0.012, 0.014]
         initial_mint = 10000
     [scenario.mainnet_simulation_btcusdt.simulation_args]
         n_steps = 99999999
@@ -368,7 +368,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
     price_source = "binance"
     step_length_seconds = 16
     [scenario.mainnet_simulation_ethustd.market_manager_args]
-        asset_name = "USD in Browser Wallet"
+        asset_name = "USD-LIQ"
         adp = 6
         mdp = 2
         pdp = 3
@@ -421,7 +421,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
     price_source = "binance"
     step_length_seconds = 16
     [scenario.mainnet_simulation_solustd.market_manager_args]
-        asset_name = "USD in Browser Wallet"
+        asset_name = "USD-LIQ"
         adp = 6
         mdp = 2
         pdp = 3
