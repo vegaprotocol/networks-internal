@@ -18,5 +18,4 @@ Node documentation page contains all useful informations about the node. You can
 | [n03.stagnet1.vega.rocks](https://n03.stagnet1.vega.rocks) | [tm-n03.stagnet1.vega.rocks](https://tm-n03.stagnet1.vega.rocks) | tor1 | s-4vcpu-8gb | do |
 | [n04.stagnet1.vega.rocks](https://n04.stagnet1.vega.rocks) | [tm-n04.stagnet1.vega.rocks](https://tm-n04.stagnet1.vega.rocks) | sgp1 | s-4vcpu-8gb | do |
 | [n05.stagnet1.vega.rocks](https://n05.stagnet1.vega.rocks) | [tm-n05.stagnet1.vega.rocks](https://tm-n05.stagnet1.vega.rocks) | blr1 | s-4vcpu-8gb | do |
-| [n06.stagnet1.vega.rocks](https://n06.stagnet1.vega.rocks) | [tm-n06.stagnet1.vega.rocks](https://tm-n06.stagnet1.vega.rocks) | sfo3 | s-4vcpu-8gb | do |
 | [be.stagnet1.vega.rocks](https://be.stagnet1.vega.rocks) | [tm-be.stagnet1.vega.rocks](https://tm-be.stagnet1.vega.rocks) | lon1 | s-4vcpu-8gb | do |
