@@ -20,5 +20,4 @@ Node documentation page contains all useful informations about the node. You can
 | [n05.testnet.vega.rocks](https://n05.testnet.vega.rocks) | [tm-n05.testnet.vega.rocks](https://tm-n05.testnet.vega.rocks) | ams3 | s-4vcpu-8gb | do |
 | [n06.testnet.vega.rocks](https://n06.testnet.vega.rocks) | [tm-n06.testnet.vega.rocks](https://tm-n06.testnet.vega.rocks) | blr1 | s-8vcpu-16gb | do |
 | [n07.testnet.vega.rocks](https://n07.testnet.vega.rocks) | [tm-n07.testnet.vega.rocks](https://tm-n07.testnet.vega.rocks) | tor1 | s-8vcpu-16gb | do |
-| [n08.testnet.vega.rocks](https://n08.testnet.vega.rocks) | [tm-n08.testnet.vega.rocks](https://tm-n08.testnet.vega.rocks) | sfo3 | s-8vcpu-16gb | do |
 | [be.testnet.vega.rocks](https://be.testnet.vega.rocks) | [tm-be.testnet.vega.rocks](https://tm-be.testnet.vega.rocks) | nyc3 | s-8vcpu-16gb | do |
