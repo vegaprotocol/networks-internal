@@ -368,7 +368,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
     price_source = "binance"
     step_length_seconds = 16
     [scenario.mainnet_simulation_ethustd.market_manager_args]
-        asset_name = "USD-EVM"
+        asset_name = "USD-SCALE"
         adp = 6
         mdp = 2
         pdp = 3
