@@ -306,60 +306,60 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 #         start_date = "2022-11-01 00:00:00"
 #         randomise_history = false
 
-[scenario.mainnet_simulation_btcusdt]
-    market_name = "Bitcoin / Tether USD (Incentive)"
-    price_symbol = "BTCUSDT"
-    price_source = "binance"
-    step_length_seconds = 30
-    [scenario.mainnet_simulation_btcusdt.market_manager_args]
-        asset_name = "USD-LIQ"
-        adp = 6
-        mdp = 1
-        pdp = 4
-    [scenario.mainnet_simulation_btcusdt.market_maker_args]
-        market_kappa = 0.3
-        market_order_arrival_rate = 150
-        order_kappa = 0.15
-        order_size = 1
-        order_levels = 25
-        order_spacing = 1
-        order_clipping = 10000
-        inventory_lower_boundary = -3
-        inventory_upper_boundary = 3
-        fee_amount = 0.0001
-        commitment_amount = 150000
-        initial_mint = 0
-    [scenario.mainnet_simulation_btcusdt.automated_market_maker_args]
-        proposed_fee=0.0001
-        lower_bound_scaling=0.9
-        upper_bound_scaling=1.1
-        leverage_at_lower_bound=2
-        leverage_at_upper_bound=5
-        update_bias=0.001
-        slippage_tolerance=0.5
-        commitment_amount=1000000000
-        initial_mint=0
-    [scenario.mainnet_simulation_btcusdt.auction_trader_args]
-        traders = 2
-        initial_volume = 0.1
-        initial_mint = 10000
-    [scenario.mainnet_simulation_btcusdt.random_trader_args]
-        traders = 10
-        order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-        order_volume = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.012, 0.14, 0.016, 0.018] # 
-        step_bias = [0.111, 0.95, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
-        initial_mint = 2000
-    [scenario.mainnet_simulation_btcusdt.sensitive_trader_args]
-        traders = 10
-        scale = [2, 4, 6, 8, 10, 12, 14, 16, 17, 20]
-        max_order_size = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.010, 0.12, 0.014]
-        initial_mint = 10000
-    [scenario.mainnet_simulation_btcusdt.simulation_args]
-        n_steps = 99999999
-        granularity = "MINUTE"
-        coinbase_code = "BTC-USDT"
-        start_date = "2022-11-01 00:00:00"
-        randomise_history = false
+# [scenario.mainnet_simulation_btcusdt]
+#     market_name = "Bitcoin / Tether USD (Incentive)"
+#     price_symbol = "BTCUSDT"
+#     price_source = "binance"
+#     step_length_seconds = 30
+#     [scenario.mainnet_simulation_btcusdt.market_manager_args]
+#         asset_name = "USD-LIQ"
+#         adp = 6
+#         mdp = 1
+#         pdp = 4
+#     [scenario.mainnet_simulation_btcusdt.market_maker_args]
+#         market_kappa = 0.3
+#         market_order_arrival_rate = 150
+#         order_kappa = 0.15
+#         order_size = 1
+#         order_levels = 25
+#         order_spacing = 1
+#         order_clipping = 10000
+#         inventory_lower_boundary = -3
+#         inventory_upper_boundary = 3
+#         fee_amount = 0.0001
+#         commitment_amount = 150000
+#         initial_mint = 0
+#     [scenario.mainnet_simulation_btcusdt.automated_market_maker_args]
+#         proposed_fee=0.0001
+#         lower_bound_scaling=0.9
+#         upper_bound_scaling=1.1
+#         leverage_at_lower_bound=2
+#         leverage_at_upper_bound=5
+#         update_bias=0.001
+#         slippage_tolerance=0.5
+#         commitment_amount=1000000000
+#         initial_mint=0
+#     [scenario.mainnet_simulation_btcusdt.auction_trader_args]
+#         traders = 2
+#         initial_volume = 0.1
+#         initial_mint = 10000
+#     [scenario.mainnet_simulation_btcusdt.random_trader_args]
+#         traders = 10
+#         order_intensity = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+#         order_volume = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.012, 0.14, 0.016, 0.018] # 
+#         step_bias = [0.111, 0.95, 0.50, 0.48, 0.08, 0.06, 0.05, 0.03, 0.012, 0.008, 0.006]
+#         initial_mint = 2000
+#     [scenario.mainnet_simulation_btcusdt.sensitive_trader_args]
+#         traders = 10
+#         scale = [2, 4, 6, 8, 10, 12, 14, 16, 17, 20]
+#         max_order_size = [0.001, 0.005, 0.01, 0.02, 0.04, 0.06, 0.08, 0.010, 0.12, 0.014]
+#         initial_mint = 10000
+#     [scenario.mainnet_simulation_btcusdt.simulation_args]
+#         n_steps = 99999999
+#         granularity = "MINUTE"
+#         coinbase_code = "BTC-USDT"
+#         start_date = "2022-11-01 00:00:00"
+#         randomise_history = false
 
 
 [scenario.mainnet_simulation_ethustd]
