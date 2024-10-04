@@ -361,7 +361,7 @@ state_file = "/opt/wallets-mount/wallet-state.json"
 #         start_date = "2022-11-01 00:00:00"
 #         randomise_history = false
 
-t_simulation_btcusdt]
+[scenario.mainnet_simulation_btcusdt]
     market_name = "Bitcoin / Tether USD (Incentive)"
     price_symbol = "BTC/USD"
     price_source = "pyth"
